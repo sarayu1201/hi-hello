@@ -58,16 +58,25 @@ def map_filename_to_subtype(filename):
     if m: return f"SSC CGL Mains - Test {m.group(1)}"
     
     m = re.match(r'ssc_chsl_tier1_paper(\d+)', name, re.IGNORECASE)
-    if m: return f"SSC CHSL Tier 1 - Test {m.group(1)}"
+    if m: return f"SSC CHSL Prelims - Test {m.group(1)}"
     
     m = re.match(r'ssc_chsl_tier2_paper(\d+)', name, re.IGNORECASE)
-    if m: return f"SSC CHSL Tier 2 - Test {m.group(1)}"
+    if m: return f"SSC CHSL Mains - Test {m.group(1)}"
     
     m = re.match(r'rrb_ntpc_cbt2_tier1_test(\d+)', name, re.IGNORECASE)
     if m: return f"RRB NTPC CBT 2 - Test {m.group(1)}"
     
     m = re.match(r'rrb_gd_tier1_test(\d+)', name, re.IGNORECASE)
     if m: return f"RRB GD - Test {m.group(1)}"
+    
+    m = re.match(r'rrb_clerk_paper(\d+)', name, re.IGNORECASE)
+    if m: return f"IBPS RRB Clerk Prelims - Test {m.group(1)}"
+    
+    m = re.match(r'rrb_po_prelims_paper(\d+)', name, re.IGNORECASE)
+    if m: return f"IBPS RRB PO Prelims - Test {m.group(1)}"
+    
+    m = re.match(r'ssc_gd_tier1_test(\d+)', name, re.IGNORECASE)
+    if m: return f"SSC GD Constable Prelims - Test {m.group(1)}"
     
     if name.lower() == "rrb-cbt-test-1":
         return "RRB CBT - Test 1"
@@ -78,6 +87,7 @@ def map_filename_to_subtype(filename):
         return f"RRB NTPC UG - {date_part} Shift {m.group(2)}"
         
     return name.replace('_', ' ').replace('-', ' ').title()
+
 
 def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
     exam_lower = str(exam_type).lower()
@@ -106,7 +116,7 @@ def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
                     return "Reasoning Ability"
                 
     # 2. Standard SSC Prelims/Tier 1 mock tests (100 questions)
-    if "ssc" in exam_lower or "cgl prelims" in sub_lower or "chsl tier 1" in sub_lower:
+    if "ssc" in exam_lower or "cgl prelims" in sub_lower or "chsl prelims" in sub_lower or "chsl tier 1" in sub_lower:
         if "mains" not in sub_lower and "tier 2" not in sub_lower:
             if q_num <= 25:
                 return "Reasoning Ability"
