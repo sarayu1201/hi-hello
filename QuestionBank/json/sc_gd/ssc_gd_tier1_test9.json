@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "unique_id": "ssc_gd_prelims_test9_1",
-    "content_hash": "482591c67966f25f",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q1",
+    "content_hash": "56f538b58eeb1b87",
     "display_question_number": 1,
     "question_number": 1,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -18,31 +18,27 @@
     "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s).\n\nStatements:\nAll rings are kettles.\nAll dogs are bottles.\nNo rings are bottles.\n\nConclusions:\n(I) Some kettles are not dogs.\n(II) No rings are dogs.",
     "options": [
       {
-        "id": "a",
-        "text": "Neither conclusion (I) nor (II) follows",
-        "image": null
+        "id": "A",
+        "text": "Neither conclusion (I) nor (II) follows"
       },
       {
-        "id": "b",
-        "text": "Only conclusion (I) follows",
-        "image": null
+        "id": "B",
+        "text": "Only conclusion (I) follows"
       },
       {
-        "id": "c",
-        "text": "Both conclusions (I) and (II) follow",
-        "image": null
+        "id": "C",
+        "text": "Both conclusions (I) and (II) follow"
       },
       {
-        "id": "d",
-        "text": "Only conclusion (II) follows",
-        "image": null
+        "id": "D",
+        "text": "Only conclusion (II) follows"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Since all dogs are inside bottles and no rings are bottles, no rings can be dogs (Conclusion II follows). The kettles that are rings cannot be bottles or dogs, so some kettles are not dogs (Conclusion I follows).",
-    "question_image": "ssc_gd_cbt_paper9_q1.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -51,23 +47,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 2,
-    "unique_id": "ssc_gd_prelims_test9_2",
-    "content_hash": "718bca90f15265b7",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q2",
+    "content_hash": "bbd5818f03048ccb",
     "display_question_number": 2,
     "question_number": 2,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -75,31 +69,27 @@
     "q": "From the given four positions of a single dice, find the number of dots at the face opposite to the face having 1 dot.",
     "options": [
       {
-        "id": "a",
-        "text": "1",
-        "image": null
+        "id": "A",
+        "text": "1"
       },
       {
-        "id": "b",
-        "text": "4",
-        "image": null
+        "id": "B",
+        "text": "4"
       },
       {
-        "id": "c",
-        "text": "6",
-        "image": null
+        "id": "C",
+        "text": "6"
       },
       {
-        "id": "d",
-        "text": "3",
-        "image": null
+        "id": "D",
+        "text": "3"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Comparing dice positions I and II: common faces 3 and 4 ⇒ 1 is opposite to 6.",
-    "question_image": "ssc_gd_cbt_paper9_q2.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -108,48 +98,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 3,
-    "unique_id": "ssc_gd_prelims_test9_3",
-    "content_hash": "c9bfb7498629b5e0",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q3",
+    "content_hash": "ddab805b2f531a85",
     "display_question_number": 3,
     "question_number": 3,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
     "question": "Select the option that will correctly replace the question mark (?) in the series.\n$15,17,20,25,32$, ?",
-    "q": "Select the option that will correctly replace the question mark (?) in the series.\n15, 17, 20, 25, 32, ?",
+    "q": "Select the option that will correctly replace the question mark (?) in the series.\n$15,17,20,25,32$, ?",
     "options": [
       {
-        "id": "a",
-        "text": "40",
-        "image": null
+        "id": "A",
+        "text": "40"
       },
       {
-        "id": "b",
-        "text": "41",
-        "image": null
+        "id": "B",
+        "text": "41"
       },
       {
-        "id": "c",
-        "text": "43",
-        "image": null
+        "id": "C",
+        "text": "43"
       },
       {
-        "id": "d",
-        "text": "45",
-        "image": null
+        "id": "D",
+        "text": "45"
       }
     ],
     "correct_option": "C",
@@ -165,23 +149,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 4,
-    "unique_id": "ssc_gd_prelims_test9_4",
-    "content_hash": "e01d4f60b2eb77de",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q4",
+    "content_hash": "0798fe805cea37bd",
     "display_question_number": 4,
     "question_number": 4,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -189,24 +171,20 @@
     "q": "Identify the word that shares a similar semantic relationship with the given pair.\nGravity : Planet :: Magnetism : ?",
     "options": [
       {
-        "id": "a",
-        "text": "Mass",
-        "image": null
+        "id": "A",
+        "text": "Mass"
       },
       {
-        "id": "b",
-        "text": "Electricity",
-        "image": null
+        "id": "B",
+        "text": "Electricity"
       },
       {
-        "id": "c",
-        "text": "Metal",
-        "image": null
+        "id": "C",
+        "text": "Metal"
       },
       {
-        "id": "d",
-        "text": "North Pole",
-        "image": null
+        "id": "D",
+        "text": "North Pole"
       }
     ],
     "correct_option": "C",
@@ -222,23 +200,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 5,
-    "unique_id": "ssc_gd_prelims_test9_5",
-    "content_hash": "4d2d7eaf971f8620",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q5",
+    "content_hash": "56a9522889031dfc",
     "display_question_number": 5,
     "question_number": 5,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -246,24 +222,20 @@
     "q": "Which of the following pairs of signs, when their positions are interchanged, will correctly solve the given mathematical equation?\n$12 + 16 – 22 ÷ 2 × 5 = 186$",
     "options": [
       {
-        "id": "a",
-        "text": "÷ and ×",
-        "image": null
+        "id": "A",
+        "text": "÷ and ×"
       },
       {
-        "id": "b",
-        "text": "÷ and +",
-        "image": null
+        "id": "B",
+        "text": "÷ and +"
       },
       {
-        "id": "c",
-        "text": "+ and ×",
-        "image": null
+        "id": "C",
+        "text": "+ and ×"
       },
       {
-        "id": "d",
-        "text": "+ and –",
-        "image": null
+        "id": "D",
+        "text": "+ and –"
       }
     ],
     "correct_option": "C",
@@ -279,23 +251,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 6,
-    "unique_id": "ssc_gd_prelims_test9_6",
-    "content_hash": "c93a083d213c10f6",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q6",
+    "content_hash": "8d0ffd0e987f3e35",
     "display_question_number": 6,
     "question_number": 6,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -303,24 +273,20 @@
     "q": "Which of the following pairs of signs, when their positions are interchanged, will correctly solve the given mathematical equation?\n$15 + 3 – 10 ÷ 2 × 5 = 5$",
     "options": [
       {
-        "id": "a",
-        "text": "÷ and ×",
-        "image": null
+        "id": "A",
+        "text": "÷ and ×"
       },
       {
-        "id": "b",
-        "text": "÷ and +",
-        "image": null
+        "id": "B",
+        "text": "÷ and +"
       },
       {
-        "id": "c",
-        "text": "+ and ×",
-        "image": null
+        "id": "C",
+        "text": "+ and ×"
       },
       {
-        "id": "d",
-        "text": "+ and –",
-        "image": null
+        "id": "D",
+        "text": "+ and –"
       }
     ],
     "correct_option": "B",
@@ -336,23 +302,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 7,
-    "unique_id": "ssc_gd_prelims_test9_7",
-    "content_hash": "1b564bed51a46aa4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q7",
+    "content_hash": "4fb40efe4799e679",
     "display_question_number": 7,
     "question_number": 7,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -360,24 +324,20 @@
     "q": "A + B means 'A is the son of B', A - B means 'A is the brother of B', A x B means 'A is the wife of B', and A & B means 'A is the father of B'. How is K related to V if 'K & T - R x Z + V'?",
     "options": [
       {
-        "id": "a",
-        "text": "Son",
-        "image": null
+        "id": "A",
+        "text": "Son"
       },
       {
-        "id": "b",
-        "text": "Father",
-        "image": null
+        "id": "B",
+        "text": "Father"
       },
       {
-        "id": "c",
-        "text": "Son's wife's brother",
-        "image": null
+        "id": "C",
+        "text": "Son's wife's brother"
       },
       {
-        "id": "d",
-        "text": "Son's wife's father",
-        "image": null
+        "id": "D",
+        "text": "Son's wife's father"
       }
     ],
     "correct_option": "D",
@@ -393,23 +353,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 8,
-    "unique_id": "ssc_gd_prelims_test9_8",
-    "content_hash": "6f78c8df51e6b252",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q8",
+    "content_hash": "1e0312012df03899",
     "display_question_number": 8,
     "question_number": 8,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -417,24 +375,20 @@
     "q": "In a code language, PARENT is written as BDFGJK and CHILDREN is written as MOXQUFGJ. How is REPRINT written in that code?",
     "options": [
       {
-        "id": "a",
-        "text": "FGBFXGD",
-        "image": null
+        "id": "A",
+        "text": "FGBFXGD"
       },
       {
-        "id": "b",
-        "text": "BGBFXJK",
-        "image": null
+        "id": "B",
+        "text": "BGBFXJK"
       },
       {
-        "id": "c",
-        "text": "FGBUXJK",
-        "image": null
+        "id": "C",
+        "text": "FGBUXJK"
       },
       {
-        "id": "d",
-        "text": "FGBFXJK",
-        "image": null
+        "id": "D",
+        "text": "FGBFXJK"
       }
     ],
     "correct_option": "D",
@@ -450,48 +404,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 9,
-    "unique_id": "ssc_gd_prelims_test9_9",
-    "content_hash": "646461f1c48ddedd",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q9",
+    "content_hash": "8fc67b07a778d49f",
     "display_question_number": 9,
     "question_number": 9,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
     "question": "Select the option that will correctly replace the question mark (?) in the series.\n$5,15,30,90$, ?",
-    "q": "Select the option that will correctly replace the question mark (?) in the series.\n5, 15, 30, 90, ?",
+    "q": "Select the option that will correctly replace the question mark (?) in the series.\n$5,15,30,90$, ?",
     "options": [
       {
-        "id": "a",
-        "text": "120",
-        "image": null
+        "id": "A",
+        "text": "120"
       },
       {
-        "id": "b",
-        "text": "105",
-        "image": null
+        "id": "B",
+        "text": "105"
       },
       {
-        "id": "c",
-        "text": "150",
-        "image": null
+        "id": "C",
+        "text": "150"
       },
       {
-        "id": "d",
-        "text": "180",
-        "image": null
+        "id": "D",
+        "text": "180"
       }
     ],
     "correct_option": "D",
@@ -507,23 +455,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 10,
-    "unique_id": "ssc_gd_prelims_test9_10",
-    "content_hash": "252f6a89529fd3f4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q10",
+    "content_hash": "fb0b3692b250379d",
     "display_question_number": 10,
     "question_number": 10,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -531,24 +477,20 @@
     "q": "If '+' means '÷', '−' means '×', '×' means '−', '÷' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 × 6 − 37 ÷ 259 = ?$",
     "options": [
       {
-        "id": "a",
-        "text": "45",
-        "image": null
+        "id": "A",
+        "text": "45"
       },
       {
-        "id": "b",
-        "text": "33",
-        "image": null
+        "id": "B",
+        "text": "33"
       },
       {
-        "id": "c",
-        "text": "41",
-        "image": null
+        "id": "C",
+        "text": "41"
       },
       {
-        "id": "d",
-        "text": "39",
-        "image": null
+        "id": "D",
+        "text": "39"
       }
     ],
     "correct_option": "A",
@@ -564,23 +506,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 11,
-    "unique_id": "ssc_gd_prelims_test9_11",
-    "content_hash": "1aabe6e3aee84de4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q11",
+    "content_hash": "b5ce18d1f1241ad0",
     "display_question_number": 11,
     "question_number": 11,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -588,24 +528,20 @@
     "q": "IS69 is related to LO61 in a certain way. In the same way, WE43 is related to ZA35. To which of the following is GI91 related, following the same logic?",
     "options": [
       {
-        "id": "a",
-        "text": "JE83",
-        "image": null
+        "id": "A",
+        "text": "JE83"
       },
       {
-        "id": "b",
-        "text": "KD84",
-        "image": null
+        "id": "B",
+        "text": "KD84"
       },
       {
-        "id": "c",
-        "text": "KF82",
-        "image": null
+        "id": "C",
+        "text": "KF82"
       },
       {
-        "id": "d",
-        "text": "NF82",
-        "image": null
+        "id": "D",
+        "text": "NF82"
       }
     ],
     "correct_option": "A",
@@ -621,23 +557,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 12,
-    "unique_id": "ssc_gd_prelims_test9_12",
-    "content_hash": "30cb97e6bc90a4fb",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q12",
+    "content_hash": "beb2b92d89fe053b",
     "display_question_number": 12,
     "question_number": 12,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -645,31 +579,27 @@
     "q": "Which answer figure will complete the pattern in the question figure?",
     "options": [
       {
-        "id": "a",
-        "text": "Figure A",
-        "image": null
+        "id": "A",
+        "text": "Figure A"
       },
       {
-        "id": "b",
-        "text": "Figure B",
-        "image": null
+        "id": "B",
+        "text": "Figure B"
       },
       {
-        "id": "c",
-        "text": "Figure C",
-        "image": null
+        "id": "C",
+        "text": "Figure C"
       },
       {
-        "id": "d",
-        "text": "Figure D",
-        "image": null
+        "id": "D",
+        "text": "Figure D"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "Option B fits into the missing lowerleft quadrant to complete the square rotation.",
-    "question_image": "ssc_gd_cbt_paper9_q12.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -678,23 +608,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 13,
-    "unique_id": "ssc_gd_prelims_test9_13",
-    "content_hash": "e5f1d1d61a2dfe67",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q13",
+    "content_hash": "595b51d09ac3952b",
     "display_question_number": 13,
     "question_number": 13,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -702,24 +630,20 @@
     "q": "Four letter clusters are given out of which three are alike in a certain manner. Choose the option in which the letter cluster is differently related.",
     "options": [
       {
-        "id": "a",
-        "text": "BCDF",
-        "image": null
+        "id": "A",
+        "text": "BCDF"
       },
       {
-        "id": "b",
-        "text": "GHIK",
-        "image": null
+        "id": "B",
+        "text": "GHIK"
       },
       {
-        "id": "c",
-        "text": "LMNP",
-        "image": null
+        "id": "C",
+        "text": "LMNP"
       },
       {
-        "id": "d",
-        "text": "RSTU",
-        "image": null
+        "id": "D",
+        "text": "RSTU"
       }
     ],
     "correct_option": "D",
@@ -735,23 +659,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 14,
-    "unique_id": "ssc_gd_prelims_test9_14",
-    "content_hash": "1dbaa9bc3a7565c8",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q14",
+    "content_hash": "4c3eb35303961602",
     "display_question_number": 14,
     "question_number": 14,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -759,24 +681,20 @@
     "q": "If 13 January 2023 is a Monday, then what day will 14 December 2023 be?",
     "options": [
       {
-        "id": "a",
-        "text": "Saturday",
-        "image": null
+        "id": "A",
+        "text": "Saturday"
       },
       {
-        "id": "b",
-        "text": "Sunday",
-        "image": null
+        "id": "B",
+        "text": "Sunday"
       },
       {
-        "id": "c",
-        "text": "Monday",
-        "image": null
+        "id": "C",
+        "text": "Monday"
       },
       {
-        "id": "d",
-        "text": "Tuesday",
-        "image": null
+        "id": "D",
+        "text": "Tuesday"
       }
     ],
     "correct_option": "B",
@@ -792,23 +710,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 15,
-    "unique_id": "ssc_gd_prelims_test9_15",
-    "content_hash": "7b6159759fca04dc",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q15",
+    "content_hash": "24d83549319889f4",
     "display_question_number": 15,
     "question_number": 15,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -816,24 +732,20 @@
     "q": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, decide which of the given conclusions logically follow(s).\n\nStatements:\nSome easels are brushes.\nSome canvases are brushes.\n\nConclusions:\n(I) Some brushes are canvases.\n(II) All easels are canvases.",
     "options": [
       {
-        "id": "a",
-        "text": "Only conclusion (II) follows",
-        "image": null
+        "id": "A",
+        "text": "Only conclusion (II) follows"
       },
       {
-        "id": "b",
-        "text": "Neither conclusion (I) nor (II) follows",
-        "image": null
+        "id": "B",
+        "text": "Neither conclusion (I) nor (II) follows"
       },
       {
-        "id": "c",
-        "text": "Both conclusions (I) and (II) follow",
-        "image": null
+        "id": "C",
+        "text": "Both conclusions (I) and (II) follow"
       },
       {
-        "id": "d",
-        "text": "Only conclusion (I) follows",
-        "image": null
+        "id": "D",
+        "text": "Only conclusion (I) follows"
       }
     ],
     "correct_option": "D",
@@ -849,48 +761,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 16,
-    "unique_id": "ssc_gd_prelims_test9_16",
-    "content_hash": "fe603ddf89d0e74d",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q16",
+    "content_hash": "dc73594c170f7484",
     "display_question_number": 16,
     "question_number": 16,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
     "question": "Select the correct option that shares the same relationship as the given pair.\n$26:169$ :: 32 : ?",
-    "q": "Select the correct option that shares the same relationship as the given pair.\n26 : 169 :: 32 : ?",
+    "q": "Select the correct option that shares the same relationship as the given pair.\n$26:169$ :: 32 : ?",
     "options": [
       {
-        "id": "a",
-        "text": "186",
-        "image": null
+        "id": "A",
+        "text": "186"
       },
       {
-        "id": "b",
-        "text": "208",
-        "image": null
+        "id": "B",
+        "text": "208"
       },
       {
-        "id": "c",
-        "text": "256",
-        "image": null
+        "id": "C",
+        "text": "256"
       },
       {
-        "id": "d",
-        "text": "308",
-        "image": null
+        "id": "D",
+        "text": "308"
       }
     ],
     "correct_option": "C",
@@ -906,23 +812,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 17,
-    "unique_id": "ssc_gd_prelims_test9_17",
-    "content_hash": "060a279c25b3c2e2",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q17",
+    "content_hash": "1e1aa2b370926411",
     "display_question_number": 17,
     "question_number": 17,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -930,31 +834,27 @@
     "q": "Select the Venn diagram that best represents the relationship between the given set of classes:\nFathers, Males, Human Being",
     "options": [
       {
-        "id": "a",
-        "text": "Two concentric circles and one separate",
-        "image": null
+        "id": "A",
+        "text": "Two concentric circles and one separate"
       },
       {
-        "id": "b",
-        "text": "Three concentric circles",
-        "image": null
+        "id": "B",
+        "text": "Three concentric circles"
       },
       {
-        "id": "c",
-        "text": "Two overlapping circles",
-        "image": null
+        "id": "C",
+        "text": "Two overlapping circles"
       },
       {
-        "id": "d",
-        "text": "Three separate circles",
-        "image": null
+        "id": "D",
+        "text": "Three separate circles"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "All fathers are males and all males are human beings (three concentric circles).",
-    "question_image": "ssc_gd_cbt_paper9_q17.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -963,23 +863,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 18,
-    "unique_id": "ssc_gd_prelims_test9_18",
-    "content_hash": "97e8279175d22729",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q18",
+    "content_hash": "55a971bfa96b4985",
     "display_question_number": 18,
     "question_number": 18,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -987,31 +885,27 @@
     "q": "Find the number of triangles in the given figure.",
     "options": [
       {
-        "id": "a",
-        "text": "26",
-        "image": null
+        "id": "A",
+        "text": "26"
       },
       {
-        "id": "b",
-        "text": "30",
-        "image": null
+        "id": "B",
+        "text": "30"
       },
       {
-        "id": "c",
-        "text": "28",
-        "image": null
+        "id": "C",
+        "text": "28"
       },
       {
-        "id": "d",
-        "text": "24",
-        "image": null
+        "id": "D",
+        "text": "24"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Counting internal grid triangles gives 24 triangles.",
-    "question_image": "ssc_gd_cbt_paper9_q18.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1020,23 +914,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 19,
-    "unique_id": "ssc_gd_prelims_test9_19",
-    "content_hash": "c5ca0f4a7aa5fa4d",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q19",
+    "content_hash": "6b54870df799f582",
     "display_question_number": 19,
     "question_number": 19,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -1044,24 +936,20 @@
     "q": "In a certain code PEASANT is written as Q21T1OU and RIDE is written as S3E2. How will SUBJECT be written in that code?",
     "options": [
       {
-        "id": "a",
-        "text": "T5CK5DU",
-        "image": null
+        "id": "A",
+        "text": "T5CK5DU"
       },
       {
-        "id": "b",
-        "text": "T21CK2DU",
-        "image": null
+        "id": "B",
+        "text": "T21CK2DU"
       },
       {
-        "id": "c",
-        "text": "T5CK2DU",
-        "image": null
+        "id": "C",
+        "text": "T5CK2DU"
       },
       {
-        "id": "d",
-        "text": "T5CK24U",
-        "image": null
+        "id": "D",
+        "text": "T5CK24U"
       }
     ],
     "correct_option": "C",
@@ -1077,23 +965,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 20,
-    "unique_id": "ssc_gd_prelims_test9_20",
-    "content_hash": "0dfb576e36442b92",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_REASONINGABILITY_Q20",
+    "content_hash": "c165d87f5fa4d282",
     "display_question_number": 20,
     "question_number": 20,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
@@ -1101,24 +987,20 @@
     "q": "Sachin, Sahil, Sandhya, Sani, Sanju, Saurabh, Shweta and Sunil are sitting around a round table in clockwise order at equal distances. If Sanju sits facing South, then what will be the position of Sahil?",
     "options": [
       {
-        "id": "a",
-        "text": "North - East",
-        "image": null
+        "id": "A",
+        "text": "North - East"
       },
       {
-        "id": "b",
-        "text": "North - West",
-        "image": null
+        "id": "B",
+        "text": "North - West"
       },
       {
-        "id": "c",
-        "text": "South - East",
-        "image": null
+        "id": "C",
+        "text": "South - East"
       },
       {
-        "id": "d",
-        "text": "South West",
-        "image": null
+        "id": "D",
+        "text": "South West"
       }
     ],
     "correct_option": "D",
@@ -1134,23 +1016,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 21,
-    "unique_id": "ssc_gd_prelims_test9_21",
-    "content_hash": "6ece245351e605d6",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q21",
+    "content_hash": "7ba6b001a95a38b3",
     "display_question_number": 21,
     "question_number": 21,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1158,24 +1038,20 @@
     "q": "What is the average height of the troposphere layer of Earth's atmosphere?",
     "options": [
       {
-        "id": "a",
-        "text": "20 km",
-        "image": null
+        "id": "A",
+        "text": "20 km"
       },
       {
-        "id": "b",
-        "text": "13 km",
-        "image": null
+        "id": "B",
+        "text": "13 km"
       },
       {
-        "id": "c",
-        "text": "24 km",
-        "image": null
+        "id": "C",
+        "text": "24 km"
       },
       {
-        "id": "d",
-        "text": "8 km",
-        "image": null
+        "id": "D",
+        "text": "8 km"
       }
     ],
     "correct_option": "B",
@@ -1191,23 +1067,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 22,
-    "unique_id": "ssc_gd_prelims_test9_22",
-    "content_hash": "abeb07e1ec721728",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q22",
+    "content_hash": "6fc1f989de05bc4d",
     "display_question_number": 22,
     "question_number": 22,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1215,24 +1089,20 @@
     "q": "The architecture of 'Panch Mahal' built by Akbar in Fatehpur Sikri is primarily influenced by which style?",
     "options": [
       {
-        "id": "a",
-        "text": "Gothic Architecture",
-        "image": null
+        "id": "A",
+        "text": "Gothic Architecture"
       },
       {
-        "id": "b",
-        "text": "Buddhist Vihara/Temple Style",
-        "image": null
+        "id": "B",
+        "text": "Buddhist Vihara/Temple Style"
       },
       {
-        "id": "c",
-        "text": "European Renaissance Style",
-        "image": null
+        "id": "C",
+        "text": "European Renaissance Style"
       },
       {
-        "id": "d",
-        "text": "Dravidian Architecture",
-        "image": null
+        "id": "D",
+        "text": "Dravidian Architecture"
       }
     ],
     "correct_option": "B",
@@ -1248,23 +1118,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 23,
-    "unique_id": "ssc_gd_prelims_test9_23",
-    "content_hash": "1395e3a73bc8ad41",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q23",
+    "content_hash": "5782888cf18be36b",
     "display_question_number": 23,
     "question_number": 23,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1272,24 +1140,20 @@
     "q": "Which king of the Mauryan dynasty succeeded Chandragupta Maurya?",
     "options": [
       {
-        "id": "a",
-        "text": "Brihadratha",
-        "image": null
+        "id": "A",
+        "text": "Brihadratha"
       },
       {
-        "id": "b",
-        "text": "Samprati",
-        "image": null
+        "id": "B",
+        "text": "Samprati"
       },
       {
-        "id": "c",
-        "text": "Ashoka",
-        "image": null
+        "id": "C",
+        "text": "Ashoka"
       },
       {
-        "id": "d",
-        "text": "Bindusara",
-        "image": null
+        "id": "D",
+        "text": "Bindusara"
       }
     ],
     "correct_option": "D",
@@ -1305,23 +1169,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 24,
-    "unique_id": "ssc_gd_prelims_test9_24",
-    "content_hash": "b80c9175c3fbeb04",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q24",
+    "content_hash": "4d67661095be1af3",
     "display_question_number": 24,
     "question_number": 24,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1329,24 +1191,20 @@
     "q": "'Rathwa Ni Gher' is a traditional tribal folk dance of the Rathwa community residing in which Indian state?",
     "options": [
       {
-        "id": "a",
-        "text": "Kerala",
-        "image": null
+        "id": "A",
+        "text": "Kerala"
       },
       {
-        "id": "b",
-        "text": "Himachal Pradesh",
-        "image": null
+        "id": "B",
+        "text": "Himachal Pradesh"
       },
       {
-        "id": "c",
-        "text": "Gujarat",
-        "image": null
+        "id": "C",
+        "text": "Gujarat"
       },
       {
-        "id": "d",
-        "text": "Tripura",
-        "image": null
+        "id": "D",
+        "text": "Tripura"
       }
     ],
     "correct_option": "C",
@@ -1362,23 +1220,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 25,
-    "unique_id": "ssc_gd_prelims_test9_25",
-    "content_hash": "c7fd18d7fe8e615e",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q25",
+    "content_hash": "8ed6bb4167a2ee78",
     "display_question_number": 25,
     "question_number": 25,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1386,24 +1242,20 @@
     "q": "Why was the Konark Sun Temple historically referred to as the 'Black Pagoda' by European sailors?",
     "options": [
       {
-        "id": "a",
-        "text": "The temple was dedicated to a dark aspect of the Sun God",
-        "image": null
+        "id": "A",
+        "text": "The temple was dedicated to a dark aspect of the Sun God"
       },
       {
-        "id": "b",
-        "text": "It was built on a site of dark volcanic rock",
-        "image": null
+        "id": "B",
+        "text": "It was built on a site of dark volcanic rock"
       },
       {
-        "id": "c",
-        "text": "Due to the black marble used in the sanctum",
-        "image": null
+        "id": "C",
+        "text": "Due to the black marble used in the sanctum"
       },
       {
-        "id": "d",
-        "text": "Because of its dark facade and its use as a navigation landmark",
-        "image": null
+        "id": "D",
+        "text": "Because of its dark facade and its use as a navigation landmark"
       }
     ],
     "correct_option": "D",
@@ -1419,23 +1271,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 26,
-    "unique_id": "ssc_gd_prelims_test9_26",
-    "content_hash": "1af8c984c8bd1843",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q26",
+    "content_hash": "41235238e883a2ec",
     "display_question_number": 26,
     "question_number": 26,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1443,24 +1293,20 @@
     "q": "Cuscuta (dodder) and ticks are prime examples of:",
     "options": [
       {
-        "id": "a",
-        "text": "Saprophytes",
-        "image": null
+        "id": "A",
+        "text": "Saprophytes"
       },
       {
-        "id": "b",
-        "text": "Parasites",
-        "image": null
+        "id": "B",
+        "text": "Parasites"
       },
       {
-        "id": "c",
-        "text": "Autotrophs",
-        "image": null
+        "id": "C",
+        "text": "Autotrophs"
       },
       {
-        "id": "d",
-        "text": "Symbionts",
-        "image": null
+        "id": "D",
+        "text": "Symbionts"
       }
     ],
     "correct_option": "B",
@@ -1476,23 +1322,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 27,
-    "unique_id": "ssc_gd_prelims_test9_27",
-    "content_hash": "0524e93d8db57089",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q27",
+    "content_hash": "742c58bd2b471fa0",
     "display_question_number": 27,
     "question_number": 27,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1500,24 +1344,20 @@
     "q": "Where is the historic Humayun's Tomb located?",
     "options": [
       {
-        "id": "a",
-        "text": "In Kabul",
-        "image": null
+        "id": "A",
+        "text": "In Kabul"
       },
       {
-        "id": "b",
-        "text": "In Agra",
-        "image": null
+        "id": "B",
+        "text": "In Agra"
       },
       {
-        "id": "c",
-        "text": "In Fatehpur Sikri",
-        "image": null
+        "id": "C",
+        "text": "In Fatehpur Sikri"
       },
       {
-        "id": "d",
-        "text": "In Delhi",
-        "image": null
+        "id": "D",
+        "text": "In Delhi"
       }
     ],
     "correct_option": "D",
@@ -1533,23 +1373,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 28,
-    "unique_id": "ssc_gd_prelims_test9_28",
-    "content_hash": "437888312cb24f6b",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q28",
+    "content_hash": "227259310d4a6898",
     "display_question_number": 28,
     "question_number": 28,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1557,24 +1395,20 @@
     "q": "Which element is most abundant in the Earth's crust by weight?",
     "options": [
       {
-        "id": "a",
-        "text": "Oxygen",
-        "image": null
+        "id": "A",
+        "text": "Oxygen"
       },
       {
-        "id": "b",
-        "text": "Silica",
-        "image": null
+        "id": "B",
+        "text": "Silica"
       },
       {
-        "id": "c",
-        "text": "Iron",
-        "image": null
+        "id": "C",
+        "text": "Iron"
       },
       {
-        "id": "d",
-        "text": "Aluminium",
-        "image": null
+        "id": "D",
+        "text": "Aluminium"
       }
     ],
     "correct_option": "A",
@@ -1590,23 +1424,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 29,
-    "unique_id": "ssc_gd_prelims_test9_29",
-    "content_hash": "c0aacbec6d2b4612",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q29",
+    "content_hash": "fade58df7a941644",
     "display_question_number": 29,
     "question_number": 29,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1614,24 +1446,20 @@
     "q": "Amarbel (Cuscuta) is a plant classified as a/an:",
     "options": [
       {
-        "id": "a",
-        "text": "Autotroph",
-        "image": null
+        "id": "A",
+        "text": "Autotroph"
       },
       {
-        "id": "b",
-        "text": "Parasite",
-        "image": null
+        "id": "B",
+        "text": "Parasite"
       },
       {
-        "id": "c",
-        "text": "Saprophyte",
-        "image": null
+        "id": "C",
+        "text": "Saprophyte"
       },
       {
-        "id": "d",
-        "text": "Decomposer",
-        "image": null
+        "id": "D",
+        "text": "Decomposer"
       }
     ],
     "correct_option": "B",
@@ -1647,23 +1475,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 30,
-    "unique_id": "ssc_gd_prelims_test9_30",
-    "content_hash": "2bef2b6117f3af31",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q30",
+    "content_hash": "55a562aa3af8c06a",
     "display_question_number": 30,
     "question_number": 30,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1671,24 +1497,20 @@
     "q": "In which year was Bankim Chandra Chatterjee's famous patriotic novel 'Anandmath' published?",
     "options": [
       {
-        "id": "a",
-        "text": "1880",
-        "image": null
+        "id": "A",
+        "text": "1880"
       },
       {
-        "id": "b",
-        "text": "1881",
-        "image": null
+        "id": "B",
+        "text": "1881"
       },
       {
-        "id": "c",
-        "text": "1882",
-        "image": null
+        "id": "C",
+        "text": "1882"
       },
       {
-        "id": "d",
-        "text": "1883",
-        "image": null
+        "id": "D",
+        "text": "1883"
       }
     ],
     "correct_option": "C",
@@ -1704,23 +1526,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 31,
-    "unique_id": "ssc_gd_prelims_test9_31",
-    "content_hash": "aa156e7e7cb65cc4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q31",
+    "content_hash": "92444e5dadd28fd8",
     "display_question_number": 31,
     "question_number": 31,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1728,24 +1548,20 @@
     "q": "The tribal folk dance 'Kunbi' is predominantly performed in which Indian state?",
     "options": [
       {
-        "id": "a",
-        "text": "Odisha",
-        "image": null
+        "id": "A",
+        "text": "Odisha"
       },
       {
-        "id": "b",
-        "text": "Uttarakhand",
-        "image": null
+        "id": "B",
+        "text": "Uttarakhand"
       },
       {
-        "id": "c",
-        "text": "Sikkim",
-        "image": null
+        "id": "C",
+        "text": "Sikkim"
       },
       {
-        "id": "d",
-        "text": "Goa",
-        "image": null
+        "id": "D",
+        "text": "Goa"
       }
     ],
     "correct_option": "D",
@@ -1761,23 +1577,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 32,
-    "unique_id": "ssc_gd_prelims_test9_32",
-    "content_hash": "7e2eb4b3a308c032",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q32",
+    "content_hash": "e0fe7c713a1c44e6",
     "display_question_number": 32,
     "question_number": 32,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1785,24 +1599,20 @@
     "q": "According to the HornbostelSachs system of musical instrument classification, what are membranophones?",
     "options": [
       {
-        "id": "a",
-        "text": "String instruments",
-        "image": null
+        "id": "A",
+        "text": "String instruments"
       },
       {
-        "id": "b",
-        "text": "Wind instruments",
-        "image": null
+        "id": "B",
+        "text": "Wind instruments"
       },
       {
-        "id": "c",
-        "text": "Instruments with vibrating stretched membranes",
-        "image": null
+        "id": "C",
+        "text": "Instruments with vibrating stretched membranes"
       },
       {
-        "id": "d",
-        "text": "Instruments made of solid metal",
-        "image": null
+        "id": "D",
+        "text": "Instruments made of solid metal"
       }
     ],
     "correct_option": "C",
@@ -1818,23 +1628,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 33,
-    "unique_id": "ssc_gd_prelims_test9_33",
-    "content_hash": "0125dc253212a61f",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q33",
+    "content_hash": "479d66dba8a9bd16",
     "display_question_number": 33,
     "question_number": 33,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1842,24 +1650,20 @@
     "q": "The SARFAESI Act, 2002 passed by Indian Parliament is related to:",
     "options": [
       {
-        "id": "a",
-        "text": "Agricultural land reforms",
-        "image": null
+        "id": "A",
+        "text": "Agricultural land reforms"
       },
       {
-        "id": "b",
-        "text": "Recovery of bad loans by banks and financial institutions",
-        "image": null
+        "id": "B",
+        "text": "Recovery of bad loans by banks and financial institutions"
       },
       {
-        "id": "c",
-        "text": "Regulation of stock markets",
-        "image": null
+        "id": "C",
+        "text": "Regulation of stock markets"
       },
       {
-        "id": "d",
-        "text": "Protection of consumer rights",
-        "image": null
+        "id": "D",
+        "text": "Protection of consumer rights"
       }
     ],
     "correct_option": "B",
@@ -1875,23 +1679,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 34,
-    "unique_id": "ssc_gd_prelims_test9_34",
-    "content_hash": "d89e644fe353fc30",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q34",
+    "content_hash": "ce078287fafc228f",
     "display_question_number": 34,
     "question_number": 34,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1899,24 +1701,20 @@
     "q": "In which year were 14 major commercial banks nationalised by the Government of India?",
     "options": [
       {
-        "id": "a",
-        "text": "1969",
-        "image": null
+        "id": "A",
+        "text": "1969"
       },
       {
-        "id": "b",
-        "text": "1967",
-        "image": null
+        "id": "B",
+        "text": "1967"
       },
       {
-        "id": "c",
-        "text": "1968",
-        "image": null
+        "id": "C",
+        "text": "1968"
       },
       {
-        "id": "d",
-        "text": "1970",
-        "image": null
+        "id": "D",
+        "text": "1970"
       }
     ],
     "correct_option": "A",
@@ -1932,23 +1730,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 35,
-    "unique_id": "ssc_gd_prelims_test9_35",
-    "content_hash": "df784d3083b33e8c",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q35",
+    "content_hash": "d1afba53c07f5d04",
     "display_question_number": 35,
     "question_number": 35,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -1956,24 +1752,20 @@
     "q": "Who is the author of the ancient Indian Sanskrit music treatise 'Brihaddeshi'?",
     "options": [
       {
-        "id": "a",
-        "text": "Bharata Muni",
-        "image": null
+        "id": "A",
+        "text": "Bharata Muni"
       },
       {
-        "id": "b",
-        "text": "Matanga Muni",
-        "image": null
+        "id": "B",
+        "text": "Matanga Muni"
       },
       {
-        "id": "c",
-        "text": "Sharangadeva",
-        "image": null
+        "id": "C",
+        "text": "Sharangadeva"
       },
       {
-        "id": "d",
-        "text": "Narada",
-        "image": null
+        "id": "D",
+        "text": "Narada"
       }
     ],
     "correct_option": "B",
@@ -1989,48 +1781,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 36,
-    "unique_id": "ssc_gd_prelims_test9_36",
-    "content_hash": "d7b3830fa717ac75",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q36",
+    "content_hash": "612e2f60f0f64fdf",
     "display_question_number": 36,
     "question_number": 36,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
     "question": "According to DPIIT data, which country emerged as the top source of FDI inflows into India during FY $2025-26$?",
-    "q": "According to DPIIT data, which country emerged as the top source of FDI inflows into India during FY 2025-26?",
+    "q": "According to DPIIT data, which country emerged as the top source of FDI inflows into India during FY $2025-26$?",
     "options": [
       {
-        "id": "a",
-        "text": "United States",
-        "image": null
+        "id": "A",
+        "text": "United States"
       },
       {
-        "id": "b",
-        "text": "Mauritius",
-        "image": null
+        "id": "B",
+        "text": "Mauritius"
       },
       {
-        "id": "c",
-        "text": "Singapore",
-        "image": null
+        "id": "C",
+        "text": "Singapore"
       },
       {
-        "id": "d",
-        "text": "Japan",
-        "image": null
+        "id": "D",
+        "text": "Japan"
       }
     ],
     "correct_option": "C",
@@ -2046,23 +1832,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 37,
-    "unique_id": "ssc_gd_prelims_test9_37",
-    "content_hash": "42fe82f02ee156aa",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q37",
+    "content_hash": "1e354a6934cbd879",
     "display_question_number": 37,
     "question_number": 37,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -2070,24 +1854,20 @@
     "q": "What major technological transformation marks the Chalcolithic Age?",
     "options": [
       {
-        "id": "a",
-        "text": "Transition from nomadic life to settled life",
-        "image": null
+        "id": "A",
+        "text": "Transition from nomadic life to settled life"
       },
       {
-        "id": "b",
-        "text": "Shift from hunting to farming",
-        "image": null
+        "id": "B",
+        "text": "Shift from hunting to farming"
       },
       {
-        "id": "c",
-        "text": "Development from stone tools to metal usage (Copper)",
-        "image": null
+        "id": "C",
+        "text": "Development from stone tools to metal usage (Copper)"
       },
       {
-        "id": "d",
-        "text": "Change from wooden tools to stone tools",
-        "image": null
+        "id": "D",
+        "text": "Change from wooden tools to stone tools"
       }
     ],
     "correct_option": "C",
@@ -2103,23 +1883,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 38,
-    "unique_id": "ssc_gd_prelims_test9_38",
-    "content_hash": "4140f0501d8bc40f",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q38",
+    "content_hash": "feb567a0d4f2fe66",
     "display_question_number": 38,
     "question_number": 38,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -2127,24 +1905,20 @@
     "q": "What is the temperature at which a liquid rapidly changes into gas at atmospheric pressure called?",
     "options": [
       {
-        "id": "a",
-        "text": "Freezing point",
-        "image": null
+        "id": "A",
+        "text": "Freezing point"
       },
       {
-        "id": "b",
-        "text": "Condensation point",
-        "image": null
+        "id": "B",
+        "text": "Condensation point"
       },
       {
-        "id": "c",
-        "text": "Boiling point",
-        "image": null
+        "id": "C",
+        "text": "Boiling point"
       },
       {
-        "id": "d",
-        "text": "Sublimation point",
-        "image": null
+        "id": "D",
+        "text": "Sublimation point"
       }
     ],
     "correct_option": "C",
@@ -2160,23 +1934,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 39,
-    "unique_id": "ssc_gd_prelims_test9_39",
-    "content_hash": "bc8fb1caba48a131",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q39",
+    "content_hash": "6f00781b3fdf0f9f",
     "display_question_number": 39,
     "question_number": 39,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -2184,24 +1956,20 @@
     "q": "Who among the following is the author of the Hindi novel 'Ladies Tailor'?",
     "options": [
       {
-        "id": "a",
-        "text": "Yashpal",
-        "image": null
+        "id": "A",
+        "text": "Yashpal"
       },
       {
-        "id": "b",
-        "text": "Bimal Mitra",
-        "image": null
+        "id": "B",
+        "text": "Bimal Mitra"
       },
       {
-        "id": "c",
-        "text": "Priyadarshi Prakash",
-        "image": null
+        "id": "C",
+        "text": "Priyadarshi Prakash"
       },
       {
-        "id": "d",
-        "text": "Shrilal Shukla",
-        "image": null
+        "id": "D",
+        "text": "Shrilal Shukla"
       }
     ],
     "correct_option": "C",
@@ -2217,23 +1985,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 40,
-    "unique_id": "ssc_gd_prelims_test9_40",
-    "content_hash": "e4e601882b84a6f8",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_GENERALAWARENESS_Q40",
+    "content_hash": "7e3ebc5453ace143",
     "display_question_number": 40,
     "question_number": 40,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
@@ -2241,24 +2007,20 @@
     "q": "How often is the Purna Kumbh Mela held at any one of its four designated pilgrimage sites?",
     "options": [
       {
-        "id": "a",
-        "text": "6 years",
-        "image": null
+        "id": "A",
+        "text": "6 years"
       },
       {
-        "id": "b",
-        "text": "12 years",
-        "image": null
+        "id": "B",
+        "text": "12 years"
       },
       {
-        "id": "c",
-        "text": "144 years",
-        "image": null
+        "id": "C",
+        "text": "144 years"
       },
       {
-        "id": "d",
-        "text": "100 years",
-        "image": null
+        "id": "D",
+        "text": "100 years"
       }
     ],
     "correct_option": "B",
@@ -2274,23 +2036,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 41,
-    "unique_id": "ssc_gd_prelims_test9_41",
-    "content_hash": "c722cab325d9e8d1",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q41",
+    "content_hash": "3897ab60afb2b04d",
     "display_question_number": 41,
     "question_number": 41,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2298,24 +2058,20 @@
     "q": "A 628 m long train crosses a man walking at a speed of 10.1 km/h in the opposite direction in 12 seconds. What is the speed (in km/h) of the train?",
     "options": [
       {
-        "id": "a",
-        "text": "180.2",
-        "image": null
+        "id": "A",
+        "text": "180.2"
       },
       {
-        "id": "b",
-        "text": "180.6",
-        "image": null
+        "id": "B",
+        "text": "180.6"
       },
       {
-        "id": "c",
-        "text": "179.3",
-        "image": null
+        "id": "C",
+        "text": "179.3"
       },
       {
-        "id": "d",
-        "text": "178.3",
-        "image": null
+        "id": "D",
+        "text": "178.3"
       }
     ],
     "correct_option": "D",
@@ -2331,48 +2087,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 42,
-    "unique_id": "ssc_gd_prelims_test9_42",
-    "content_hash": "39c47713563450ec",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q42",
+    "content_hash": "d80cad9ee77b49ca",
     "display_question_number": 42,
     "question_number": 42,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "$Evaluate: 36-10 × [3 + 8 × {18-6(6-5) \\times 3} ÷ 36]$",
-    "q": "Evaluate: 36-10 × [3 + 8 × {18-6(6-5) × 3} ÷ 36]",
+    "q": "$Evaluate: 36-10 × [3 + 8 × {18-6(6-5) \\times 3} ÷ 36]$",
     "options": [
       {
-        "id": "a",
-        "text": "14",
-        "image": null
+        "id": "A",
+        "text": "14"
       },
       {
-        "id": "b",
-        "text": "4",
-        "image": null
+        "id": "B",
+        "text": "4"
       },
       {
-        "id": "c",
-        "text": "2",
-        "image": null
+        "id": "C",
+        "text": "2"
       },
       {
-        "id": "d",
-        "text": "6",
-        "image": null
+        "id": "D",
+        "text": "6"
       }
     ],
     "correct_option": "D",
@@ -2388,48 +2138,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 43,
-    "unique_id": "ssc_gd_prelims_test9_43",
-    "content_hash": "7ae815b314c9bd3c",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q43",
+    "content_hash": "f92edaad4009c632",
     "display_question_number": 43,
     "question_number": 43,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "The ratio of savings of two individuals is $6:5$. If one increases his savings by 15% and the other by 10%, find their new savings ratio.",
-    "q": "The ratio of savings of two individuals is 6 : 5. If one increases his savings by 15% and the other by 10%, find their new savings ratio.",
+    "q": "The ratio of savings of two individuals is $6:5$. If one increases his savings by 15% and the other by 10%, find their new savings ratio.",
     "options": [
       {
-        "id": "a",
-        "text": "$69:55$",
-        "image": null
+        "id": "A",
+        "text": "$69:55$"
       },
       {
-        "id": "b",
-        "text": "$138:115$",
-        "image": null
+        "id": "B",
+        "text": "$138:115$"
       },
       {
-        "id": "c",
-        "text": "$23:19$",
-        "image": null
+        "id": "C",
+        "text": "$23:19$"
       },
       {
-        "id": "d",
-        "text": "None of the above",
-        "image": null
+        "id": "D",
+        "text": "None of the above"
       }
     ],
     "correct_option": "A",
@@ -2445,23 +2189,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 44,
-    "unique_id": "ssc_gd_prelims_test9_44",
-    "content_hash": "db32fb36d66a891d",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q44",
+    "content_hash": "5bde287787980cb1",
     "display_question_number": 44,
     "question_number": 44,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2469,24 +2211,20 @@
     "q": "A shopkeeper marks an article at 40% above its cost price. He then sells it by offering a 20% discount on the marked price. Find his profit percentage.",
     "options": [
       {
-        "id": "a",
-        "text": "10% loss",
-        "image": null
+        "id": "A",
+        "text": "10% loss"
       },
       {
-        "id": "b",
-        "text": "12% profit",
-        "image": null
+        "id": "B",
+        "text": "12% profit"
       },
       {
-        "id": "c",
-        "text": "15% profit",
-        "image": null
+        "id": "C",
+        "text": "15% profit"
       },
       {
-        "id": "d",
-        "text": "8% loss",
-        "image": null
+        "id": "D",
+        "text": "8% loss"
       }
     ],
     "correct_option": "B",
@@ -2502,23 +2240,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 45,
-    "unique_id": "ssc_gd_prelims_test9_45",
-    "content_hash": "4428e660c3406c5e",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q45",
+    "content_hash": "0c89c09df323f20a",
     "display_question_number": 45,
     "question_number": 45,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2526,24 +2262,20 @@
     "q": "A square pyramid has a base side of 12 cm and a slant height of 10 cm. Find its lateral surface area.",
     "options": [
       {
-        "id": "a",
-        "text": "240 cm^2",
-        "image": null
+        "id": "A",
+        "text": "240 cm^2"
       },
       {
-        "id": "b",
-        "text": "120 cm^2",
-        "image": null
+        "id": "B",
+        "text": "120 cm^2"
       },
       {
-        "id": "c",
-        "text": "480 cm^2",
-        "image": null
+        "id": "C",
+        "text": "480 cm^2"
       },
       {
-        "id": "d",
-        "text": "360 cm^2",
-        "image": null
+        "id": "D",
+        "text": "360 cm^2"
       }
     ],
     "correct_option": "A",
@@ -2559,23 +2291,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 46,
-    "unique_id": "ssc_gd_prelims_test9_46",
-    "content_hash": "14e041a2d5cc38d2",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q46",
+    "content_hash": "71225b483cc3a9bb",
     "display_question_number": 46,
     "question_number": 46,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2583,24 +2313,20 @@
     "q": "Arun bought some pencils at the rate of ₹180 a dozen. He sold them for ₹18 each. His profit percentage is:",
     "options": [
       {
-        "id": "a",
-        "text": "20%",
-        "image": null
+        "id": "A",
+        "text": "20%"
       },
       {
-        "id": "b",
-        "text": "18%",
-        "image": null
+        "id": "B",
+        "text": "18%"
       },
       {
-        "id": "c",
-        "text": "22%",
-        "image": null
+        "id": "C",
+        "text": "22%"
       },
       {
-        "id": "d",
-        "text": "24%",
-        "image": null
+        "id": "D",
+        "text": "24%"
       }
     ],
     "correct_option": "A",
@@ -2616,23 +2342,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 47,
-    "unique_id": "ssc_gd_prelims_test9_47",
-    "content_hash": "22b2661bc419123a",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q47",
+    "content_hash": "999e61d857fe4dbc",
     "display_question_number": 47,
     "question_number": 47,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2640,24 +2364,20 @@
     "q": "Pipe A can fill a tank in 10 hours, pipe B in 20 hours, and pipe C in 60 hours. If all the pipes are opened together, in how many hours will the tank be filled?",
     "options": [
       {
-        "id": "a",
-        "text": "$1 \\frac{3}{4} hours$",
-        "image": null
+        "id": "A",
+        "text": "$1 \\frac{3}{4} hours$"
       },
       {
-        "id": "b",
-        "text": "$7 \\frac{1}{3} hours$",
-        "image": null
+        "id": "B",
+        "text": "$7 \\frac{1}{3} hours$"
       },
       {
-        "id": "c",
-        "text": "6 hours",
-        "image": null
+        "id": "C",
+        "text": "6 hours"
       },
       {
-        "id": "d",
-        "text": "3 hours",
-        "image": null
+        "id": "D",
+        "text": "3 hours"
       }
     ],
     "correct_option": "C",
@@ -2673,23 +2393,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 48,
-    "unique_id": "ssc_gd_prelims_test9_48",
-    "content_hash": "3d929ad774a8486c",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q48",
+    "content_hash": "e6e6ca12f1dc3943",
     "display_question_number": 48,
     "question_number": 48,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2697,24 +2415,20 @@
     "q": "A shopkeeper borrowed ₹50,000 for 2 years from two different banks at different simple interest rates. The difference between the simple interest paid is ₹250. Find the difference between the interest rates.",
     "options": [
       {
-        "id": "a",
-        "text": "0.25%",
-        "image": null
+        "id": "A",
+        "text": "0.25%"
       },
       {
-        "id": "b",
-        "text": "0.5%",
-        "image": null
+        "id": "B",
+        "text": "0.5%"
       },
       {
-        "id": "c",
-        "text": "0.75%",
-        "image": null
+        "id": "C",
+        "text": "0.75%"
       },
       {
-        "id": "d",
-        "text": "1%",
-        "image": null
+        "id": "D",
+        "text": "1%"
       }
     ],
     "correct_option": "A",
@@ -2730,23 +2444,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 49,
-    "unique_id": "ssc_gd_prelims_test9_49",
-    "content_hash": "a77772d696fa2158",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q49",
+    "content_hash": "733fe1dce79717da",
     "display_question_number": 49,
     "question_number": 49,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2754,24 +2466,20 @@
     "q": "A triangular prism has base side lengths 5 cm, 6 cm, and 7 cm and height 10 cm. What is its lateral surface area?",
     "options": [
       {
-        "id": "a",
-        "text": "180 cm^2",
-        "image": null
+        "id": "A",
+        "text": "180 cm^2"
       },
       {
-        "id": "b",
-        "text": "160 cm^2",
-        "image": null
+        "id": "B",
+        "text": "160 cm^2"
       },
       {
-        "id": "c",
-        "text": "150 cm^2",
-        "image": null
+        "id": "C",
+        "text": "150 cm^2"
       },
       {
-        "id": "d",
-        "text": "140 cm^2",
-        "image": null
+        "id": "D",
+        "text": "140 cm^2"
       }
     ],
     "correct_option": "A",
@@ -2787,48 +2495,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 50,
-    "unique_id": "ssc_gd_prelims_test9_50",
-    "content_hash": "63cc9ec1aa5886f4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q50",
+    "content_hash": "951311cba0768e3d",
     "display_question_number": 50,
     "question_number": 50,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "A student's marks were incorrectly entered as 34 instead of 70. Due to this, the average marks of the class decreased by $\\frac{4}{3}$. What is the number of students in the class?",
-    "q": "A student's marks were incorrectly entered as 34 instead of 70. Due to this, the average marks of the class decreased by 4/3. What is the number of students in the class?",
+    "q": "A student's marks were incorrectly entered as 34 instead of 70. Due to this, the average marks of the class decreased by $\\frac{4}{3}$. What is the number of students in the class?",
     "options": [
       {
-        "id": "a",
-        "text": "23",
-        "image": null
+        "id": "A",
+        "text": "23"
       },
       {
-        "id": "b",
-        "text": "27",
-        "image": null
+        "id": "B",
+        "text": "27"
       },
       {
-        "id": "c",
-        "text": "28",
-        "image": null
+        "id": "C",
+        "text": "28"
       },
       {
-        "id": "d",
-        "text": "32",
-        "image": null
+        "id": "D",
+        "text": "32"
       }
     ],
     "correct_option": "B",
@@ -2844,23 +2546,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 51,
-    "unique_id": "ssc_gd_prelims_test9_51",
-    "content_hash": "3c9cd0c8fd30cb24",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q51",
+    "content_hash": "aded8824f5bbd909",
     "display_question_number": 51,
     "question_number": 51,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2868,24 +2568,20 @@
     "q": "Suman borrowed ₹40,000 at 10% p.a. for the 1st year and 20% p.a. for the 2nd year at compound interest. Find the total compound interest after 2 years.",
     "options": [
       {
-        "id": "a",
-        "text": "12800",
-        "image": null
+        "id": "A",
+        "text": "12800"
       },
       {
-        "id": "b",
-        "text": "12400",
-        "image": null
+        "id": "B",
+        "text": "12400"
       },
       {
-        "id": "c",
-        "text": "6400",
-        "image": null
+        "id": "C",
+        "text": "6400"
       },
       {
-        "id": "d",
-        "text": "6000",
-        "image": null
+        "id": "D",
+        "text": "6000"
       }
     ],
     "correct_option": "A",
@@ -2901,23 +2597,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 52,
-    "unique_id": "ssc_gd_prelims_test9_52",
-    "content_hash": "5febcf7263493f79",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q52",
+    "content_hash": "cd9b0c5a91e48616",
     "display_question_number": 52,
     "question_number": 52,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2925,24 +2619,20 @@
     "q": "The sum of two numbers is 1260 and their HCF is 70. How many pairs of such coprime numbers are possible?",
     "options": [
       {
-        "id": "a",
-        "text": "1",
-        "image": null
+        "id": "A",
+        "text": "1"
       },
       {
-        "id": "b",
-        "text": "2",
-        "image": null
+        "id": "B",
+        "text": "2"
       },
       {
-        "id": "c",
-        "text": "4",
-        "image": null
+        "id": "C",
+        "text": "4"
       },
       {
-        "id": "d",
-        "text": "3",
-        "image": null
+        "id": "D",
+        "text": "3"
       }
     ],
     "correct_option": "D",
@@ -2958,23 +2648,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 53,
-    "unique_id": "ssc_gd_prelims_test9_53",
-    "content_hash": "ff2c440db23dc764",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q53",
+    "content_hash": "7355f755e668f13c",
     "display_question_number": 53,
     "question_number": 53,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -2982,24 +2670,20 @@
     "q": "Rs. 20,000 is to be distributed between Meena and Seenu in such a way that Seenu gets Rs. 4,000 less than Meena. The ratio of the amount received by Meena to Seenu is:",
     "options": [
       {
-        "id": "a",
-        "text": "$5:3$",
-        "image": null
+        "id": "A",
+        "text": "$5:3$"
       },
       {
-        "id": "b",
-        "text": "$5:2$",
-        "image": null
+        "id": "B",
+        "text": "$5:2$"
       },
       {
-        "id": "c",
-        "text": "$3:5$",
-        "image": null
+        "id": "C",
+        "text": "$3:5$"
       },
       {
-        "id": "d",
-        "text": "$3:2$",
-        "image": null
+        "id": "D",
+        "text": "$3:2$"
       }
     ],
     "correct_option": "D",
@@ -3015,23 +2699,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 54,
-    "unique_id": "ssc_gd_prelims_test9_54",
-    "content_hash": "affd95a92c92fcdd",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q54",
+    "content_hash": "3695d2fdbb6d385b",
     "display_question_number": 54,
     "question_number": 54,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -3039,24 +2721,20 @@
     "q": "The LCM of the numbers 1.3, 7.6 and 0.13 is:",
     "options": [
       {
-        "id": "a",
-        "text": "107",
-        "image": null
+        "id": "A",
+        "text": "107"
       },
       {
-        "id": "b",
-        "text": "98.8",
-        "image": null
+        "id": "B",
+        "text": "98.8"
       },
       {
-        "id": "c",
-        "text": "102",
-        "image": null
+        "id": "C",
+        "text": "102"
       },
       {
-        "id": "d",
-        "text": "100",
-        "image": null
+        "id": "D",
+        "text": "100"
       }
     ],
     "correct_option": "B",
@@ -3072,23 +2750,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 55,
-    "unique_id": "ssc_gd_prelims_test9_55",
-    "content_hash": "880f47095b9bac31",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q55",
+    "content_hash": "97d56d83d5e73777",
     "display_question_number": 55,
     "question_number": 55,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -3096,24 +2772,20 @@
     "q": "$A closed cylindrical tank with a height \\text{ of } 1 m and a base diameter \\text{ of } 140 cm is to be constructed. How many m^2 \\text{ of } sheet are required? [Use π = 22/7]$",
     "options": [
       {
-        "id": "a",
-        "text": "10.56 m^2",
-        "image": null
+        "id": "A",
+        "text": "10.56 m^2"
       },
       {
-        "id": "b",
-        "text": "7.48 m^2",
-        "image": null
+        "id": "B",
+        "text": "7.48 m^2"
       },
       {
-        "id": "c",
-        "text": "9.23 m^2",
-        "image": null
+        "id": "C",
+        "text": "9.23 m^2"
       },
       {
-        "id": "d",
-        "text": "7 m^2",
-        "image": null
+        "id": "D",
+        "text": "7 m^2"
       }
     ],
     "correct_option": "B",
@@ -3129,23 +2801,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 56,
-    "unique_id": "ssc_gd_prelims_test9_56",
-    "content_hash": "d5adf5f9a2c343af",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q56",
+    "content_hash": "e4f9d15301ea86f3",
     "display_question_number": 56,
     "question_number": 56,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -3153,24 +2823,20 @@
     "q": "Evaluate: (9) - (60) ÷ (12) + (3) × 6",
     "options": [
       {
-        "id": "a",
-        "text": "35",
-        "image": null
+        "id": "A",
+        "text": "35"
       },
       {
-        "id": "b",
-        "text": "34",
-        "image": null
+        "id": "B",
+        "text": "34"
       },
       {
-        "id": "c",
-        "text": "32",
-        "image": null
+        "id": "C",
+        "text": "32"
       },
       {
-        "id": "d",
-        "text": "31",
-        "image": null
+        "id": "D",
+        "text": "31"
       }
     ],
     "correct_option": "C",
@@ -3186,48 +2852,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 57,
-    "unique_id": "ssc_gd_prelims_test9_57",
-    "content_hash": "53fcdef1e6fb534b",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q57",
+    "content_hash": "8863465858019156",
     "display_question_number": 57,
     "question_number": 57,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "A train running at ($\\frac{9}{11}$)th of its own speed reached Kolkata in 66 hours. How much time could be saved if the train had run at its own speed?",
-    "q": "A train running at (9/11)th of its own speed reached Kolkata in 66 hours. How much time could be saved if the train had run at its own speed?",
+    "q": "A train running at ($\\frac{9}{11}$)th of its own speed reached Kolkata in 66 hours. How much time could be saved if the train had run at its own speed?",
     "options": [
       {
-        "id": "a",
-        "text": "66 hours",
-        "image": null
+        "id": "A",
+        "text": "66 hours"
       },
       {
-        "id": "b",
-        "text": "54 hours",
-        "image": null
+        "id": "B",
+        "text": "54 hours"
       },
       {
-        "id": "c",
-        "text": "12 hours",
-        "image": null
+        "id": "C",
+        "text": "12 hours"
       },
       {
-        "id": "d",
-        "text": "10 hours",
-        "image": null
+        "id": "D",
+        "text": "10 hours"
       }
     ],
     "correct_option": "C",
@@ -3243,23 +2903,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 58,
-    "unique_id": "ssc_gd_prelims_test9_58",
-    "content_hash": "682a5b1c949c719b",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q58",
+    "content_hash": "a2653775ab6bff76",
     "display_question_number": 58,
     "question_number": 58,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -3267,24 +2925,20 @@
     "q": "A fair die is rolled. What is the probability of getting a number greater than 4?",
     "options": [
       {
-        "id": "a",
-        "text": "$\\frac{1}{2}$",
-        "image": null
+        "id": "A",
+        "text": "$\\frac{1}{2}$"
       },
       {
-        "id": "b",
-        "text": "$\\frac{1}{3}$",
-        "image": null
+        "id": "B",
+        "text": "$\\frac{1}{3}$"
       },
       {
-        "id": "c",
-        "text": "$\\frac{1}{6}$",
-        "image": null
+        "id": "C",
+        "text": "$\\frac{1}{6}$"
       },
       {
-        "id": "d",
-        "text": "$\\frac{2}{3}$",
-        "image": null
+        "id": "D",
+        "text": "$\\frac{2}{3}$"
       }
     ],
     "correct_option": "B",
@@ -3300,23 +2954,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 59,
-    "unique_id": "ssc_gd_prelims_test9_59",
-    "content_hash": "25f297e878718b41",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q59",
+    "content_hash": "f2f4b8b0ae35c27d",
     "display_question_number": 59,
     "question_number": 59,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
@@ -3324,24 +2976,20 @@
     "q": "A and B can complete a job in 12 days and 18 days, respectively. If they work together for 6 days, how much of the job is left to be done?",
     "options": [
       {
-        "id": "a",
-        "text": "$\\frac{1}{9} of the job$",
-        "image": null
+        "id": "A",
+        "text": "$\\frac{1}{9} of the job$"
       },
       {
-        "id": "b",
-        "text": "$\\frac{1}{6} of the job$",
-        "image": null
+        "id": "B",
+        "text": "$\\frac{1}{6} of the job$"
       },
       {
-        "id": "c",
-        "text": "$\\frac{1}{2} of the job$",
-        "image": null
+        "id": "C",
+        "text": "$\\frac{1}{2} of the job$"
       },
       {
-        "id": "d",
-        "text": "$\\frac{1}{7} of the job$",
-        "image": null
+        "id": "D",
+        "text": "$\\frac{1}{7} of the job$"
       }
     ],
     "correct_option": "B",
@@ -3357,48 +3005,42 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 60,
-    "unique_id": "ssc_gd_prelims_test9_60",
-    "content_hash": "9a3b8cd25e71242d",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_QUANTITATIVEAPTITUDE_Q60",
+    "content_hash": "06aed6586b876f1c",
     "display_question_number": 60,
     "question_number": 60,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "The average age of 3 persons is 55 years. The ratio of their ages is $9:11$ : 13. What is the difference between the age of the oldest and the youngest person?",
-    "q": "The average age of 3 persons is 55 years. The ratio of their ages is 9 : 11 : 13. What is the difference between the age of the oldest and the youngest person?",
+    "q": "The average age of 3 persons is 55 years. The ratio of their ages is $9:11$ : 13. What is the difference between the age of the oldest and the youngest person?",
     "options": [
       {
-        "id": "a",
-        "text": "10 years",
-        "image": null
+        "id": "A",
+        "text": "10 years"
       },
       {
-        "id": "b",
-        "text": "20 years",
-        "image": null
+        "id": "B",
+        "text": "20 years"
       },
       {
-        "id": "c",
-        "text": "30 years",
-        "image": null
+        "id": "C",
+        "text": "30 years"
       },
       {
-        "id": "d",
-        "text": "25 years",
-        "image": null
+        "id": "D",
+        "text": "25 years"
       }
     ],
     "correct_option": "B",
@@ -3414,23 +3056,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 61,
-    "unique_id": "ssc_gd_prelims_test9_61",
-    "content_hash": "18a1c01f5d05a2cb",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q61",
+    "content_hash": "763dbeb943ad77da",
     "display_question_number": 61,
     "question_number": 61,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3438,24 +3078,20 @@
     "q": "Choose the most suitable oneword substitution for: 'The one who rides horses professionally'.",
     "options": [
       {
-        "id": "a",
-        "text": "Rider",
-        "image": null
+        "id": "A",
+        "text": "Rider"
       },
       {
-        "id": "b",
-        "text": "Groom",
-        "image": null
+        "id": "B",
+        "text": "Groom"
       },
       {
-        "id": "c",
-        "text": "Farrier",
-        "image": null
+        "id": "C",
+        "text": "Farrier"
       },
       {
-        "id": "d",
-        "text": "Jockey",
-        "image": null
+        "id": "D",
+        "text": "Jockey"
       }
     ],
     "correct_option": "D",
@@ -3471,23 +3107,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 62,
-    "unique_id": "ssc_gd_prelims_test9_62",
-    "content_hash": "e97b8003030e13c9",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q62",
+    "content_hash": "e07953e5f6e1a3ab",
     "display_question_number": 62,
     "question_number": 62,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3495,24 +3129,20 @@
     "q": "Select the most appropriate synonym of the given word: Enervate",
     "options": [
       {
-        "id": "a",
-        "text": "Invigorate",
-        "image": null
+        "id": "A",
+        "text": "Invigorate"
       },
       {
-        "id": "b",
-        "text": "Arouse",
-        "image": null
+        "id": "B",
+        "text": "Arouse"
       },
       {
-        "id": "c",
-        "text": "Boost",
-        "image": null
+        "id": "C",
+        "text": "Boost"
       },
       {
-        "id": "d",
-        "text": "Devitalize",
-        "image": null
+        "id": "D",
+        "text": "Devitalize"
       }
     ],
     "correct_option": "D",
@@ -3528,23 +3158,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 63,
-    "unique_id": "ssc_gd_prelims_test9_63",
-    "content_hash": "d3ef0283b48c373d",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q63",
+    "content_hash": "33c18681276c8222",
     "display_question_number": 63,
     "question_number": 63,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3552,24 +3180,20 @@
     "q": "Select the correct alternative to fill in the blank:\nThis song is not befitting ______ the Independence Day Celebration.",
     "options": [
       {
-        "id": "a",
-        "text": "for",
-        "image": null
+        "id": "A",
+        "text": "for"
       },
       {
-        "id": "b",
-        "text": "to",
-        "image": null
+        "id": "B",
+        "text": "to"
       },
       {
-        "id": "c",
-        "text": "on",
-        "image": null
+        "id": "C",
+        "text": "on"
       },
       {
-        "id": "d",
-        "text": "by",
-        "image": null
+        "id": "D",
+        "text": "by"
       }
     ],
     "correct_option": "A",
@@ -3585,23 +3209,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 64,
-    "unique_id": "ssc_gd_prelims_test9_64",
-    "content_hash": "74140954bbedc018",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q64",
+    "content_hash": "2c52457963635bf2",
     "display_question_number": 64,
     "question_number": 64,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3609,24 +3231,20 @@
     "q": "Select the alternative which contains the part of the sentence which has an error:\nIf you are looking for (A) / a free parking space, you (B) / might drive on for hours (C) / until you find one. (D)",
     "options": [
       {
-        "id": "a",
-        "text": "If you are looking for",
-        "image": null
+        "id": "A",
+        "text": "If you are looking for"
       },
       {
-        "id": "b",
-        "text": "a free parking space, you",
-        "image": null
+        "id": "B",
+        "text": "a free parking space, you"
       },
       {
-        "id": "c",
-        "text": "might drive on for hours",
-        "image": null
+        "id": "C",
+        "text": "might drive on for hours"
       },
       {
-        "id": "d",
-        "text": "until you find one.",
-        "image": null
+        "id": "D",
+        "text": "until you find one."
       }
     ],
     "correct_option": "C",
@@ -3642,23 +3260,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 65,
-    "unique_id": "ssc_gd_prelims_test9_65",
-    "content_hash": "cc8e8a9a90a169a4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q65",
+    "content_hash": "4e1620315d2b514d",
     "display_question_number": 65,
     "question_number": 65,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3666,24 +3282,20 @@
     "q": "Rearrange the jumbled sentences in a logical sequence between S1 and S2:\nS1 Then the Spring came, and all over the country there were little blossoms and little birds.\nA. The only people who were pleased were the Snow and the Frost.\nB. Only in the garden of the Selfish Giant it was still winter.\nC. The birds did not care to sing in it...\nD. Once a beautiful flower put its head out...\nS2 'Spring has forgotten this garden,' they cried...",
     "options": [
       {
-        "id": "a",
-        "text": "CDAB",
-        "image": null
+        "id": "A",
+        "text": "CDAB"
       },
       {
-        "id": "b",
-        "text": "BCDA",
-        "image": null
+        "id": "B",
+        "text": "BCDA"
       },
       {
-        "id": "c",
-        "text": "DABC",
-        "image": null
+        "id": "C",
+        "text": "DABC"
       },
       {
-        "id": "d",
-        "text": "BACD",
-        "image": null
+        "id": "D",
+        "text": "BACD"
       }
     ],
     "correct_option": "B",
@@ -3699,23 +3311,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 66,
-    "unique_id": "ssc_gd_prelims_test9_66",
-    "content_hash": "5444282e290068cd",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q66",
+    "content_hash": "e7889b6227a2ca7c",
     "display_question_number": 66,
     "question_number": 66,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3723,24 +3333,20 @@
     "q": "Choose the alternative containing the part that has an error:\nBetween the advantages of being an Indian citizen, freedom to worship one's own God is of utmost importance for the orthodox.",
     "options": [
       {
-        "id": "a",
-        "text": "Between the advantages of",
-        "image": null
+        "id": "A",
+        "text": "Between the advantages of"
       },
       {
-        "id": "b",
-        "text": "being an indian citizen,",
-        "image": null
+        "id": "B",
+        "text": "being an indian citizen,"
       },
       {
-        "id": "c",
-        "text": "freedom to worship one's own god is",
-        "image": null
+        "id": "C",
+        "text": "freedom to worship one's own god is"
       },
       {
-        "id": "d",
-        "text": "of utmost importance for the orthodox.",
-        "image": null
+        "id": "D",
+        "text": "of utmost importance for the orthodox."
       }
     ],
     "correct_option": "A",
@@ -3756,23 +3362,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 67,
-    "unique_id": "ssc_gd_prelims_test9_67",
-    "content_hash": "9d24454345015beb",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q67",
+    "content_hash": "9032495c2b558091",
     "display_question_number": 67,
     "question_number": 67,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3780,24 +3384,20 @@
     "q": "Choose the word that is opposite in meaning to: Hyped",
     "options": [
       {
-        "id": "a",
-        "text": "Reduced",
-        "image": null
+        "id": "A",
+        "text": "Reduced"
       },
       {
-        "id": "b",
-        "text": "Upped",
-        "image": null
+        "id": "B",
+        "text": "Upped"
       },
       {
-        "id": "c",
-        "text": "Parlayed",
-        "image": null
+        "id": "C",
+        "text": "Parlayed"
       },
       {
-        "id": "d",
-        "text": "Dilate",
-        "image": null
+        "id": "D",
+        "text": "Dilate"
       }
     ],
     "correct_option": "A",
@@ -3813,23 +3413,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 68,
-    "unique_id": "ssc_gd_prelims_test9_68",
-    "content_hash": "384bc3e97b1042b0",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q68",
+    "content_hash": "625a57673de27582",
     "display_question_number": 68,
     "question_number": 68,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3837,24 +3435,20 @@
     "q": "Which of the following options is the most suitable conversion into active voice?\nWill the project have been completed by the research team before the deadline?",
     "options": [
       {
-        "id": "a",
-        "text": "Has the research team completed the project before the deadline?",
-        "image": null
+        "id": "A",
+        "text": "Has the research team completed the project before the deadline?"
       },
       {
-        "id": "b",
-        "text": "Is the research team completing the project before the deadline?",
-        "image": null
+        "id": "B",
+        "text": "Is the research team completing the project before the deadline?"
       },
       {
-        "id": "c",
-        "text": "Will the research team complete the project before the deadline?",
-        "image": null
+        "id": "C",
+        "text": "Will the research team complete the project before the deadline?"
       },
       {
-        "id": "d",
-        "text": "Will the research team have completed the project before the deadline?",
-        "image": null
+        "id": "D",
+        "text": "Will the research team have completed the project before the deadline?"
       }
     ],
     "correct_option": "D",
@@ -3870,23 +3464,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 69,
-    "unique_id": "ssc_gd_prelims_test9_69",
-    "content_hash": "5f6fc736fec10cc3",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q69",
+    "content_hash": "e88e2265d7d3a151",
     "display_question_number": 69,
     "question_number": 69,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3894,24 +3486,20 @@
     "q": "Rearrange the jumbled sentences in a logical sequence between S1 and S2:\nS1 Sofia stood listening to the noise of the departing carriage...\nA. As a child, when some wrong or injustice had been done her...\nB. She was left alone, quite alone...\nC. Certainly in these moments of complete solitude...\nD. Now, alone in the great drawing room...\nS2 the sentiment of the reality, long repulsed, became clear, distinct, and cruel.",
     "options": [
       {
-        "id": "a",
-        "text": "CBAD",
-        "image": null
+        "id": "A",
+        "text": "CBAD"
       },
       {
-        "id": "b",
-        "text": "BDAC",
-        "image": null
+        "id": "B",
+        "text": "BDAC"
       },
       {
-        "id": "c",
-        "text": "ADCB",
-        "image": null
+        "id": "C",
+        "text": "ADCB"
       },
       {
-        "id": "d",
-        "text": "BADC",
-        "image": null
+        "id": "D",
+        "text": "BADC"
       }
     ],
     "correct_option": "D",
@@ -3927,23 +3515,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 70,
-    "unique_id": "ssc_gd_prelims_test9_70",
-    "content_hash": "0ee879b440e87fd4",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q70",
+    "content_hash": "355e1d29ad5f36c4",
     "display_question_number": 70,
     "question_number": 70,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -3951,24 +3537,20 @@
     "q": "Select the most appropriate synonym of the given word: Rebuke",
     "options": [
       {
-        "id": "a",
-        "text": "Scold",
-        "image": null
+        "id": "A",
+        "text": "Scold"
       },
       {
-        "id": "b",
-        "text": "Commend",
-        "image": null
+        "id": "B",
+        "text": "Commend"
       },
       {
-        "id": "c",
-        "text": "Recall",
-        "image": null
+        "id": "C",
+        "text": "Recall"
       },
       {
-        "id": "d",
-        "text": "Coerce",
-        "image": null
+        "id": "D",
+        "text": "Coerce"
       }
     ],
     "correct_option": "A",
@@ -3984,23 +3566,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 71,
-    "unique_id": "ssc_gd_prelims_test9_71",
-    "content_hash": "83501def9ffa7c0e",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q71",
+    "content_hash": "9adf3c818dbf0967",
     "display_question_number": 71,
     "question_number": 71,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4008,24 +3588,20 @@
     "q": "From the alternatives given below, select the correct meaning of the idiom: The penny drops.",
     "options": [
       {
-        "id": "a",
-        "text": "Said when someone suddenly comes to realize or understand something",
-        "image": null
+        "id": "A",
+        "text": "Said when someone suddenly comes to realize or understand something"
       },
       {
-        "id": "b",
-        "text": "Said when someone suddenly comes to feel angry about something",
-        "image": null
+        "id": "B",
+        "text": "Said when someone suddenly comes to feel angry about something"
       },
       {
-        "id": "c",
-        "text": "Said when someone bends to pick something up",
-        "image": null
+        "id": "C",
+        "text": "Said when someone bends to pick something up"
       },
       {
-        "id": "d",
-        "text": "Said when someone comes to feel loved",
-        "image": null
+        "id": "D",
+        "text": "Said when someone comes to feel loved"
       }
     ],
     "correct_option": "A",
@@ -4041,23 +3617,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 72,
-    "unique_id": "ssc_gd_prelims_test9_72",
-    "content_hash": "4378f4db04ea492e",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q72",
+    "content_hash": "a284586ba04e87cf",
     "display_question_number": 72,
     "question_number": 72,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4065,24 +3639,20 @@
     "q": "Which of the following options is the most suitable passive voice conversion?\nThe volunteers are cleaning the beach after the festival.",
     "options": [
       {
-        "id": "a",
-        "text": "The beach is cleaned by the volunteers after the festival.",
-        "image": null
+        "id": "A",
+        "text": "The beach is cleaned by the volunteers after the festival."
       },
       {
-        "id": "b",
-        "text": "The beach is being cleaned by the volunteers after the festival.",
-        "image": null
+        "id": "B",
+        "text": "The beach is being cleaned by the volunteers after the festival."
       },
       {
-        "id": "c",
-        "text": "The beach has been cleaned by the volunteers after the festival.",
-        "image": null
+        "id": "C",
+        "text": "The beach has been cleaned by the volunteers after the festival."
       },
       {
-        "id": "d",
-        "text": "The beach will be cleaned by the volunteers after the festival.",
-        "image": null
+        "id": "D",
+        "text": "The beach will be cleaned by the volunteers after the festival."
       }
     ],
     "correct_option": "B",
@@ -4098,23 +3668,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 73,
-    "unique_id": "ssc_gd_prelims_test9_73",
-    "content_hash": "c5bcccf2437cb676",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q73",
+    "content_hash": "2184f8576c8b89cb",
     "display_question_number": 73,
     "question_number": 73,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4122,24 +3690,20 @@
     "q": "Choose the correctly spelt word from the given options.",
     "options": [
       {
-        "id": "a",
-        "text": "Concinus",
-        "image": null
+        "id": "A",
+        "text": "Concinus"
       },
       {
-        "id": "b",
-        "text": "Concious",
-        "image": null
+        "id": "B",
+        "text": "Concious"
       },
       {
-        "id": "c",
-        "text": "Conscious",
-        "image": null
+        "id": "C",
+        "text": "Conscious"
       },
       {
-        "id": "d",
-        "text": "Contious",
-        "image": null
+        "id": "D",
+        "text": "Contious"
       }
     ],
     "correct_option": "C",
@@ -4155,23 +3719,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 74,
-    "unique_id": "ssc_gd_prelims_test9_74",
-    "content_hash": "0ec12a1a356bd409",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q74",
+    "content_hash": "1d5305d4455d6897",
     "display_question_number": 74,
     "question_number": 74,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4179,24 +3741,20 @@
     "q": "Passage:\nCultural diversity constitutes the variegated mosaic of human existence... At the philosophical level, cultural diversity interrogates the universality of norms. It challenges ethnocentric assumptions embedded within dominant paradigms by foregrounding the contextual nature of truth, morality, and aesthetics. When one engages with other cultures, the epistemological arrogance of singular worldviews is destabilized, allowing for intercultural humility and ethical pluralism to emerge...\n\nQuestion:\nWhat is the central philosophical function of cultural diversity as conveyed by the passage?",
     "options": [
       {
-        "id": "a",
-        "text": "It reinforces national pride and unity.",
-        "image": null
+        "id": "A",
+        "text": "It reinforces national pride and unity."
       },
       {
-        "id": "b",
-        "text": "It affirms the universal superiority of traditional values.",
-        "image": null
+        "id": "B",
+        "text": "It affirms the universal superiority of traditional values."
       },
       {
-        "id": "c",
-        "text": "It destabilizes epistemological singularity and fosters pluralistic humility.",
-        "image": null
+        "id": "C",
+        "text": "It destabilizes epistemological singularity and fosters pluralistic humility."
       },
       {
-        "id": "d",
-        "text": "It diminishes intellectual agency by proliferating relativism.",
-        "image": null
+        "id": "D",
+        "text": "It diminishes intellectual agency by proliferating relativism."
       }
     ],
     "correct_option": "C",
@@ -4212,23 +3770,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 75,
-    "unique_id": "ssc_gd_prelims_test9_75",
-    "content_hash": "0ad2d294ee3ca20e",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q75",
+    "content_hash": "5a8494a72e703996",
     "display_question_number": 75,
     "question_number": 75,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4236,24 +3792,20 @@
     "q": "The term 'performative multiculturalism' in the passage most closely refers to:",
     "options": [
       {
-        "id": "a",
-        "text": "The institutionalization of cultural rites and festivals.",
-        "image": null
+        "id": "A",
+        "text": "The institutionalization of cultural rites and festivals."
       },
       {
-        "id": "b",
-        "text": "Superficial inclusion that conceals deeper systemic inequities.",
-        "image": null
+        "id": "B",
+        "text": "Superficial inclusion that conceals deeper systemic inequities."
       },
       {
-        "id": "c",
-        "text": "Public resistance to cultural plurality in governance.",
-        "image": null
+        "id": "C",
+        "text": "Public resistance to cultural plurality in governance."
       },
       {
-        "id": "d",
-        "text": "Honest cultural representation in mass media.",
-        "image": null
+        "id": "D",
+        "text": "Honest cultural representation in mass media."
       }
     ],
     "correct_option": "B",
@@ -4269,23 +3821,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 76,
-    "unique_id": "ssc_gd_prelims_test9_76",
-    "content_hash": "a6d3a3cf53023a13",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q76",
+    "content_hash": "9f0ccfb6568c0856",
     "display_question_number": 76,
     "question_number": 76,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4293,24 +3843,20 @@
     "q": "In what way does the passage portray globalization as a threat to cultural diversity?",
     "options": [
       {
-        "id": "a",
-        "text": "It promotes diverse collaboration across borders.",
-        "image": null
+        "id": "A",
+        "text": "It promotes diverse collaboration across borders."
       },
       {
-        "id": "b",
-        "text": "It encourages indigenous revivalist movements.",
-        "image": null
+        "id": "B",
+        "text": "It encourages indigenous revivalist movements."
       },
       {
-        "id": "c",
-        "text": "It fosters algorithmic and commercial standardization that homogenizes identity.",
-        "image": null
+        "id": "C",
+        "text": "It fosters algorithmic and commercial standardization that homogenizes identity."
       },
       {
-        "id": "d",
-        "text": "It reaffirms nationalistic cultural boundaries.",
-        "image": null
+        "id": "D",
+        "text": "It reaffirms nationalistic cultural boundaries."
       }
     ],
     "correct_option": "C",
@@ -4326,23 +3872,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 77,
-    "unique_id": "ssc_gd_prelims_test9_77",
-    "content_hash": "6d682be7f4b497fd",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q77",
+    "content_hash": "6b43761abba72c9d",
     "display_question_number": 77,
     "question_number": 77,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4350,24 +3894,20 @@
     "q": "What does the phrase 'dialogical reconstitution of worldviews' most nearly imply?",
     "options": [
       {
-        "id": "a",
-        "text": "Convergence of linguistic structures.",
-        "image": null
+        "id": "A",
+        "text": "Convergence of linguistic structures."
       },
       {
-        "id": "b",
-        "text": "Exchange that produces hybrid cultural understandings.",
-        "image": null
+        "id": "B",
+        "text": "Exchange that produces hybrid cultural understandings."
       },
       {
-        "id": "c",
-        "text": "Regression to isolated cultural epistemes.",
-        "image": null
+        "id": "C",
+        "text": "Regression to isolated cultural epistemes."
       },
       {
-        "id": "d",
-        "text": "Dominance of one cultural narrative over others.",
-        "image": null
+        "id": "D",
+        "text": "Dominance of one cultural narrative over others."
       }
     ],
     "correct_option": "B",
@@ -4383,23 +3923,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 78,
-    "unique_id": "ssc_gd_prelims_test9_78",
-    "content_hash": "d092f8ffa1a82f93",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q78",
+    "content_hash": "46de0ee0f36fe32b",
     "display_question_number": 78,
     "question_number": 78,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4407,24 +3945,20 @@
     "q": "According to the passage, the economic significance of cultural diversity lies primarily in:",
     "options": [
       {
-        "id": "a",
-        "text": "Its ability to create ethnic enclaves that preserve traditional trade.",
-        "image": null
+        "id": "A",
+        "text": "Its ability to create ethnic enclaves that preserve traditional trade."
       },
       {
-        "id": "b",
-        "text": "Its capacity to reinforce bureaucratic efficiency.",
-        "image": null
+        "id": "B",
+        "text": "Its capacity to reinforce bureaucratic efficiency."
       },
       {
-        "id": "c",
-        "text": "The commodification of uniform cultural products.",
-        "image": null
+        "id": "C",
+        "text": "The commodification of uniform cultural products."
       },
       {
-        "id": "d",
-        "text": "The cognitive and creative advantages generated by heterogeneous inputs.",
-        "image": null
+        "id": "D",
+        "text": "The cognitive and creative advantages generated by heterogeneous inputs."
       }
     ],
     "correct_option": "D",
@@ -4440,23 +3974,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 79,
-    "unique_id": "ssc_gd_prelims_test9_79",
-    "content_hash": "64e4af29a016c11a",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q79",
+    "content_hash": "f6be1a848a1b40f5",
     "display_question_number": 79,
     "question_number": 79,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4464,24 +3996,20 @@
     "q": "Which idiom refers to an offer made without any conditions, restrictions, or obligations in return?",
     "options": [
       {
-        "id": "a",
-        "text": "Keep one on a string",
-        "image": null
+        "id": "A",
+        "text": "Keep one on a string"
       },
       {
-        "id": "b",
-        "text": "Loosen the apron strings",
-        "image": null
+        "id": "B",
+        "text": "Loosen the apron strings"
       },
       {
-        "id": "c",
-        "text": "With no strings attached",
-        "image": null
+        "id": "C",
+        "text": "With no strings attached"
       },
       {
-        "id": "d",
-        "text": "Loosen the purse strings",
-        "image": null
+        "id": "D",
+        "text": "Loosen the purse strings"
       }
     ],
     "correct_option": "C",
@@ -4497,23 +4025,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 80,
-    "unique_id": "ssc_gd_prelims_test9_80",
-    "content_hash": "5c14c327397ff897",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q80",
+    "content_hash": "6af123565cad9951",
     "display_question_number": 80,
     "question_number": 80,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4521,24 +4047,20 @@
     "q": "Choose the sentence where the homonym 'seal' refers to a marine sea animal.",
     "options": [
       {
-        "id": "a",
-        "text": "He put his official seal on the agreement.",
-        "image": null
+        "id": "A",
+        "text": "He put his official seal on the agreement."
       },
       {
-        "id": "b",
-        "text": "I broke the wax seal on the letter.",
-        "image": null
+        "id": "B",
+        "text": "I broke the wax seal on the letter."
       },
       {
-        "id": "c",
-        "text": "We saw a seal clapping its fins at the zoo.",
-        "image": null
+        "id": "C",
+        "text": "We saw a seal clapping its fins at the zoo."
       },
       {
-        "id": "d",
-        "text": "Please seal the envelope properly.",
-        "image": null
+        "id": "D",
+        "text": "Please seal the envelope properly."
       }
     ],
     "correct_option": "C",
@@ -4554,23 +4076,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 81,
-    "unique_id": "ssc_gd_prelims_test9_81",
-    "content_hash": "63add8734943f57c",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q81",
+    "content_hash": "2192110f6eb3f624",
     "display_question_number": 81,
     "question_number": 81,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4578,24 +4098,20 @@
     "q": "In the sentence 'I am an admirer of his talent', what part of speech is the word 'admirer'?",
     "options": [
       {
-        "id": "a",
-        "text": "Pronoun",
-        "image": null
+        "id": "A",
+        "text": "Pronoun"
       },
       {
-        "id": "b",
-        "text": "Noun",
-        "image": null
+        "id": "B",
+        "text": "Noun"
       },
       {
-        "id": "c",
-        "text": "Adjective",
-        "image": null
+        "id": "C",
+        "text": "Adjective"
       },
       {
-        "id": "d",
-        "text": "Adverb",
-        "image": null
+        "id": "D",
+        "text": "Adverb"
       }
     ],
     "correct_option": "B",
@@ -4611,23 +4127,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 82,
-    "unique_id": "ssc_gd_prelims_test9_82",
-    "content_hash": "f57ec3c618075852",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q82",
+    "content_hash": "aaffe63e4a1dbae6",
     "display_question_number": 82,
     "question_number": 82,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4635,24 +4149,20 @@
     "q": "Which of the following options is NOT an abstract noun?",
     "options": [
       {
-        "id": "a",
-        "text": "Old age",
-        "image": null
+        "id": "A",
+        "text": "Old age"
       },
       {
-        "id": "b",
-        "text": "Confrontation",
-        "image": null
+        "id": "B",
+        "text": "Confrontation"
       },
       {
-        "id": "c",
-        "text": "Intelligence",
-        "image": null
+        "id": "C",
+        "text": "Intelligence"
       },
       {
-        "id": "d",
-        "text": "Deity / God",
-        "image": null
+        "id": "D",
+        "text": "Deity / God"
       }
     ],
     "correct_option": "D",
@@ -4668,23 +4178,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 83,
-    "unique_id": "ssc_gd_prelims_test9_83",
-    "content_hash": "4c2f542706962a14",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q83",
+    "content_hash": "c0edaa924302967e",
     "display_question_number": 83,
     "question_number": 83,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4692,24 +4200,20 @@
     "q": "Manish's family has never eaten meat since the beginning. What is the appropriate term for a person who eats no meat?",
     "options": [
       {
-        "id": "a",
-        "text": "Nonvegetarian",
-        "image": null
+        "id": "A",
+        "text": "Nonvegetarian"
       },
       {
-        "id": "b",
-        "text": "Vegetarian",
-        "image": null
+        "id": "B",
+        "text": "Vegetarian"
       },
       {
-        "id": "c",
-        "text": "Carnivorous",
-        "image": null
+        "id": "C",
+        "text": "Carnivorous"
       },
       {
-        "id": "d",
-        "text": "Light eater",
-        "image": null
+        "id": "D",
+        "text": "Light eater"
       }
     ],
     "correct_option": "B",
@@ -4725,23 +4229,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 84,
-    "unique_id": "ssc_gd_prelims_test9_84",
-    "content_hash": "0c7fc3387a8ecbc7",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q84",
+    "content_hash": "dc09e1e75306214a",
     "display_question_number": 84,
     "question_number": 84,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4749,24 +4251,20 @@
     "q": "What is the phrase definition for the word 'Unpreventable / Inevitable' (Durnivarya)?",
     "options": [
       {
-        "id": "a",
-        "text": "That which is obtained with difficulty",
-        "image": null
+        "id": "A",
+        "text": "That which is obtained with difficulty"
       },
       {
-        "id": "b",
-        "text": "One who walks on an evil path",
-        "image": null
+        "id": "B",
+        "text": "One who walks on an evil path"
       },
       {
-        "id": "c",
-        "text": "That which is difficult to prevent, avoid, or remove",
-        "image": null
+        "id": "C",
+        "text": "That which is difficult to prevent, avoid, or remove"
       },
       {
-        "id": "d",
-        "text": "One who has no enemy",
-        "image": null
+        "id": "D",
+        "text": "One who has no enemy"
       }
     ],
     "correct_option": "C",
@@ -4782,23 +4280,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 85,
-    "unique_id": "ssc_gd_prelims_test9_85",
-    "content_hash": "71266512494d1656",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q85",
+    "content_hash": "18cd75fc1006f844",
     "display_question_number": 85,
     "question_number": 85,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4806,24 +4302,20 @@
     "q": "Which of the following is NOT a synonym for 'River'?",
     "options": [
       {
-        "id": "a",
-        "text": "Tatini",
-        "image": null
+        "id": "A",
+        "text": "Tatini"
       },
       {
-        "id": "b",
-        "text": "Tarangini",
-        "image": null
+        "id": "B",
+        "text": "Tarangini"
       },
       {
-        "id": "c",
-        "text": "Pravahini",
-        "image": null
+        "id": "C",
+        "text": "Pravahini"
       },
       {
-        "id": "d",
-        "text": "Jalad (Cloud)",
-        "image": null
+        "id": "D",
+        "text": "Jalad (Cloud)"
       }
     ],
     "correct_option": "D",
@@ -4839,23 +4331,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 86,
-    "unique_id": "ssc_gd_prelims_test9_86",
-    "content_hash": "fd2204244ab279cd",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q86",
+    "content_hash": "0a00907226a8112d",
     "display_question_number": 86,
     "question_number": 86,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4863,24 +4353,20 @@
     "q": "Which of the following is NOT a synonym for Lord Vishnu?",
     "options": [
       {
-        "id": "a",
-        "text": "Padmanabha",
-        "image": null
+        "id": "A",
+        "text": "Padmanabha"
       },
       {
-        "id": "b",
-        "text": "Janardana",
-        "image": null
+        "id": "B",
+        "text": "Janardana"
       },
       {
-        "id": "c",
-        "text": "Vasava (Indra)",
-        "image": null
+        "id": "C",
+        "text": "Vasava (Indra)"
       },
       {
-        "id": "d",
-        "text": "Trivikrama",
-        "image": null
+        "id": "D",
+        "text": "Trivikrama"
       }
     ],
     "correct_option": "C",
@@ -4896,23 +4382,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 87,
-    "unique_id": "ssc_gd_prelims_test9_87",
-    "content_hash": "232b762af92e5a15",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q87",
+    "content_hash": "75238b0e4763f2d3",
     "display_question_number": 87,
     "question_number": 87,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4920,24 +4404,20 @@
     "q": "Select the correct antonym of 'Favorable' (Anukool): 'This situation is not favorable to me, but _______.'",
     "options": [
       {
-        "id": "a",
-        "text": "Sukool",
-        "image": null
+        "id": "A",
+        "text": "Sukool"
       },
       {
-        "id": "b",
-        "text": "Pratigami",
-        "image": null
+        "id": "B",
+        "text": "Pratigami"
       },
       {
-        "id": "c",
-        "text": "Vipreet",
-        "image": null
+        "id": "C",
+        "text": "Vipreet"
       },
       {
-        "id": "d",
-        "text": "Unfavorable / Adverse (Pratikool)",
-        "image": null
+        "id": "D",
+        "text": "Unfavorable / Adverse (Pratikool)"
       }
     ],
     "correct_option": "D",
@@ -4953,23 +4433,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 88,
-    "unique_id": "ssc_gd_prelims_test9_88",
-    "content_hash": "755b5443124dcc29",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q88",
+    "content_hash": "7329cfce025fe84f",
     "display_question_number": 88,
     "question_number": 88,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -4977,24 +4455,20 @@
     "q": "Which of the following is NOT a grammatically matching antonym pair?",
     "options": [
       {
-        "id": "a",
-        "text": "Sadachar - Durachari (Noun - Adjective mismatch)",
-        "image": null
+        "id": "A",
+        "text": "Sadachar - Durachari (Noun - Adjective mismatch)"
       },
       {
-        "id": "b",
-        "text": "Even - Odd",
-        "image": null
+        "id": "B",
+        "text": "Even - Odd"
       },
       {
-        "id": "c",
-        "text": "Supporter - Opponent",
-        "image": null
+        "id": "C",
+        "text": "Supporter - Opponent"
       },
       {
-        "id": "d",
-        "text": "Aggregate - Individual",
-        "image": null
+        "id": "D",
+        "text": "Aggregate - Individual"
       }
     ],
     "correct_option": "A",
@@ -5010,23 +4484,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 89,
-    "unique_id": "ssc_gd_prelims_test9_89",
-    "content_hash": "25cc842dcadaa8c9",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q89",
+    "content_hash": "09b7b499f9c198cd",
     "display_question_number": 89,
     "question_number": 89,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5034,24 +4506,20 @@
     "q": "What is the meaning of the regional idiom 'To thrash or beat someone severely'?",
     "options": [
       {
-        "id": "a",
-        "text": "To thrash severely / repair well",
-        "image": null
+        "id": "A",
+        "text": "To thrash severely / repair well"
       },
       {
-        "id": "b",
-        "text": "To earn a lot of money",
-        "image": null
+        "id": "B",
+        "text": "To earn a lot of money"
       },
       {
-        "id": "c",
-        "text": "To look very beautiful",
-        "image": null
+        "id": "C",
+        "text": "To look very beautiful"
       },
       {
-        "id": "d",
-        "text": "Useless rogues",
-        "image": null
+        "id": "D",
+        "text": "Useless rogues"
       }
     ],
     "correct_option": "A",
@@ -5067,23 +4535,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 90,
-    "unique_id": "ssc_gd_prelims_test9_90",
-    "content_hash": "07fd96427f19ed27",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q90",
+    "content_hash": "495fce4e83deeccf",
     "display_question_number": 90,
     "question_number": 90,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5091,24 +4557,20 @@
     "q": "Select the correct meaning of the proverb: 'If the mind is pure, sacred Ganga resides in the tub'.",
     "options": [
       {
-        "id": "a",
-        "text": "If the heart is pure, outward rituals and pilgrimages are unnecessary",
-        "image": null
+        "id": "A",
+        "text": "If the heart is pure, outward rituals and pilgrimages are unnecessary"
       },
       {
-        "id": "b",
-        "text": "Life is impossible without water",
-        "image": null
+        "id": "B",
+        "text": "Life is impossible without water"
       },
       {
-        "id": "c",
-        "text": "Internal and external beauty are not equal",
-        "image": null
+        "id": "C",
+        "text": "Internal and external beauty are not equal"
       },
       {
-        "id": "d",
-        "text": "Kindness is needed to move forward",
-        "image": null
+        "id": "D",
+        "text": "Kindness is needed to move forward"
       }
     ],
     "correct_option": "A",
@@ -5124,23 +4586,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 91,
-    "unique_id": "ssc_gd_prelims_test9_91",
-    "content_hash": "8e65eaaaee275251",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q91",
+    "content_hash": "e1ed55f9f7d50e50",
     "display_question_number": 91,
     "question_number": 91,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5148,24 +4608,20 @@
     "q": "Which of the following sentences is grammatically correct?",
     "options": [
       {
-        "id": "a",
-        "text": "He is sitting in the office waiting for me.",
-        "image": null
+        "id": "A",
+        "text": "He is sitting in the office waiting for me."
       },
       {
-        "id": "b",
-        "text": "Loving poor people humanity is.",
-        "image": null
+        "id": "B",
+        "text": "Loving poor people humanity is."
       },
       {
-        "id": "c",
-        "text": "Fifteen minutes to ten are.",
-        "image": null
+        "id": "C",
+        "text": "Fifteen minutes to ten are."
       },
       {
-        "id": "d",
-        "text": "Boys ask teacher question.",
-        "image": null
+        "id": "D",
+        "text": "Boys ask teacher question."
       }
     ],
     "correct_option": "A",
@@ -5181,23 +4637,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 92,
-    "unique_id": "ssc_gd_prelims_test9_92",
-    "content_hash": "96e802cbba7bbedf",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q92",
+    "content_hash": "57c828ed391bb1bf",
     "display_question_number": 92,
     "question_number": 92,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5205,24 +4659,20 @@
     "q": "Correct the subjectverb agreement in: 'What does he want to do?'",
     "options": [
       {
-        "id": "a",
-        "text": "What do those people wants to do?",
-        "image": null
+        "id": "A",
+        "text": "What do those people wants to do?"
       },
       {
-        "id": "b",
-        "text": "What does he want to do?",
-        "image": null
+        "id": "B",
+        "text": "What does he want to do?"
       },
       {
-        "id": "c",
-        "text": "What is this want to do?",
-        "image": null
+        "id": "C",
+        "text": "What is this want to do?"
       },
       {
-        "id": "d",
-        "text": "What was he wants to do?",
-        "image": null
+        "id": "D",
+        "text": "What was he wants to do?"
       }
     ],
     "correct_option": "B",
@@ -5238,23 +4688,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 93,
-    "unique_id": "ssc_gd_prelims_test9_93",
-    "content_hash": "ad14da15e2103059",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q93",
+    "content_hash": "fa52ea006c4dfb15",
     "display_question_number": 93,
     "question_number": 93,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5262,24 +4710,20 @@
     "q": "Fill in the blank with the derived (Tadbhav) word form of 'Word': 'Remember never let bad _______ come out of your mouth.'",
     "options": [
       {
-        "id": "a",
-        "text": "Jawab",
-        "image": null
+        "id": "A",
+        "text": "Jawab"
       },
       {
-        "id": "b",
-        "text": "Sabad (Tadbhav of Shabd)",
-        "image": null
+        "id": "B",
+        "text": "Sabad (Tadbhav of Shabd)"
       },
       {
-        "id": "c",
-        "text": "Shabd",
-        "image": null
+        "id": "C",
+        "text": "Shabd"
       },
       {
-        "id": "d",
-        "text": "Sawal",
-        "image": null
+        "id": "D",
+        "text": "Sawal"
       }
     ],
     "correct_option": "B",
@@ -5295,23 +4739,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 94,
-    "unique_id": "ssc_gd_prelims_test9_94",
-    "content_hash": "814d265ab9cf7367",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q94",
+    "content_hash": "de9a9dbb2d5c8763",
     "display_question_number": 94,
     "question_number": 94,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5319,24 +4761,20 @@
     "q": "Fill in the blank with the original Sanskrit (Tatsam) word for 'Attire': 'The king travels in the attire (_______) of a beggar to inspect his subjects.'",
     "options": [
       {
-        "id": "a",
-        "text": "Bhes",
-        "image": null
+        "id": "A",
+        "text": "Bhes"
       },
       {
-        "id": "b",
-        "text": "Vesh (Tatsam)",
-        "image": null
+        "id": "B",
+        "text": "Vesh (Tatsam)"
       },
       {
-        "id": "c",
-        "text": "Bhed",
-        "image": null
+        "id": "C",
+        "text": "Bhed"
       },
       {
-        "id": "d",
-        "text": "Libas",
-        "image": null
+        "id": "D",
+        "text": "Libas"
       }
     ],
     "correct_option": "B",
@@ -5352,23 +4790,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 95,
-    "unique_id": "ssc_gd_prelims_test9_95",
-    "content_hash": "6f1165b53b08acc1",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q95",
+    "content_hash": "e065401fcb8f7bf9",
     "display_question_number": 95,
     "question_number": 95,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5376,24 +4812,20 @@
     "q": "Select the appropriate synonym for 'Pride / Selfrespect' in: 'He feels pride that he was born in an upperclass family.'",
     "options": [
       {
-        "id": "a",
-        "text": "Apprehension",
-        "image": null
+        "id": "A",
+        "text": "Apprehension"
       },
       {
-        "id": "b",
-        "text": "Pride (Garv)",
-        "image": null
+        "id": "B",
+        "text": "Pride (Garv)"
       },
       {
-        "id": "c",
-        "text": "Pain",
-        "image": null
+        "id": "C",
+        "text": "Pain"
       },
       {
-        "id": "d",
-        "text": "Joy",
-        "image": null
+        "id": "D",
+        "text": "Joy"
       }
     ],
     "correct_option": "B",
@@ -5409,23 +4841,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 96,
-    "unique_id": "ssc_gd_prelims_test9_96",
-    "content_hash": "1e8a73be07aa08d8",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q96",
+    "content_hash": "0e0b3f8304a30b0d",
     "display_question_number": 96,
     "question_number": 96,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5433,24 +4863,20 @@
     "q": "Passage:\nAshoka embraced (96)______ religion. He nurtured his subjects like children, his heart was filled with (97)______. He built many (98)______ to spread Buddhist teachings. He sent Mahendra and Sanghamitra abroad for (99)______ of Buddhism. The wheel on our national flag is taken from the Ashoka Pillar at (100)______.\n\nQuestion:\nAshoka embraced which religion after the Kalinga War?",
     "options": [
       {
-        "id": "a",
-        "text": "Buddhism",
-        "image": null
+        "id": "A",
+        "text": "Buddhism"
       },
       {
-        "id": "b",
-        "text": "Hinduism",
-        "image": null
+        "id": "B",
+        "text": "Hinduism"
       },
       {
-        "id": "c",
-        "text": "Parsi",
-        "image": null
+        "id": "C",
+        "text": "Parsi"
       },
       {
-        "id": "d",
-        "text": "Jainism",
-        "image": null
+        "id": "D",
+        "text": "Jainism"
       }
     ],
     "correct_option": "A",
@@ -5466,23 +4892,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 97,
-    "unique_id": "ssc_gd_prelims_test9_97",
-    "content_hash": "c26c4151188498f8",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q97",
+    "content_hash": "69fd5f297c756dfa",
     "display_question_number": 97,
     "question_number": 97,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5490,24 +4914,20 @@
     "q": "Passage:\nAshoka embraced Buddhism religion. He nurtured his subjects like children, his heart was filled with (97)______. He built many (98)______ to spread Buddhist teachings...\n\nQuestion:\nAfter embracing Buddhism, Ashoka's heart was filled with:",
     "options": [
       {
-        "id": "a",
-        "text": "Envy",
-        "image": null
+        "id": "A",
+        "text": "Envy"
       },
       {
-        "id": "b",
-        "text": "Compassion / Mercy",
-        "image": null
+        "id": "B",
+        "text": "Compassion / Mercy"
       },
       {
-        "id": "c",
-        "text": "Anger",
-        "image": null
+        "id": "C",
+        "text": "Anger"
       },
       {
-        "id": "d",
-        "text": "Rebellion",
-        "image": null
+        "id": "D",
+        "text": "Rebellion"
       }
     ],
     "correct_option": "B",
@@ -5523,23 +4943,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 98,
-    "unique_id": "ssc_gd_prelims_test9_98",
-    "content_hash": "147007206239a865",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q98",
+    "content_hash": "d0e2d96ef012a541",
     "display_question_number": 98,
     "question_number": 98,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5547,24 +4965,20 @@
     "q": "Passage:\nAshoka built many (98)______ across his empire to propagate the teachings of Buddhism.",
     "options": [
       {
-        "id": "a",
-        "text": "Forts",
-        "image": null
+        "id": "A",
+        "text": "Forts"
       },
       {
-        "id": "b",
-        "text": "Palaces",
-        "image": null
+        "id": "B",
+        "text": "Palaces"
       },
       {
-        "id": "c",
-        "text": "Roads",
-        "image": null
+        "id": "C",
+        "text": "Roads"
       },
       {
-        "id": "d",
-        "text": "Stupas",
-        "image": null
+        "id": "D",
+        "text": "Stupas"
       }
     ],
     "correct_option": "D",
@@ -5580,23 +4994,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 99,
-    "unique_id": "ssc_gd_prelims_test9_99",
-    "content_hash": "d847b8684042655c",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q99",
+    "content_hash": "1ab948769ef45925",
     "display_question_number": 99,
     "question_number": 99,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5604,24 +5016,20 @@
     "q": "Passage:\nAshoka sent his son Mahendra and daughter Sanghamitra abroad for the (99)______ of Buddhism.",
     "options": [
       {
-        "id": "a",
-        "text": "Destruction",
-        "image": null
+        "id": "A",
+        "text": "Destruction"
       },
       {
-        "id": "b",
-        "text": "Welfare",
-        "image": null
+        "id": "B",
+        "text": "Welfare"
       },
       {
-        "id": "c",
-        "text": "Propagation / Spread",
-        "image": null
+        "id": "C",
+        "text": "Propagation / Spread"
       },
       {
-        "id": "d",
-        "text": "Salvation",
-        "image": null
+        "id": "D",
+        "text": "Salvation"
       }
     ],
     "correct_option": "C",
@@ -5637,23 +5045,21 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   },
   {
     "id": 100,
-    "unique_id": "ssc_gd_prelims_test9_100",
-    "content_hash": "cf429f3074facfa6",
+    "unique_id": "SCGD_SSCGDCONSTABLEPRELIMSTEST9_2025_ENGLISHLANGUAGE_Q100",
+    "content_hash": "edbb0c324b668be8",
     "display_question_number": 100,
     "question_number": 100,
-    "course": "SSC GD Constable",
+    "course": "sc_gd",
     "exam_type": "SSC",
     "sub_type": "SSC GD Constable Prelims - Test 9",
     "paper_name": "SSC GD Constable Prelims - Test 9",
-    "test_title": "SSC GD Constable Prelims - Test 9",
-    "test_id": "ssc_gd_prelims_test9",
+    "test_title": "",
+    "test_id": "",
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
@@ -5661,24 +5067,20 @@
     "q": "Passage:\nThe wheel (Ashoka Chakra) depicted on the Indian National Flag was adopted from the Ashoka Pillar situated at (100)______.",
     "options": [
       {
-        "id": "a",
-        "text": "Gaya",
-        "image": null
+        "id": "A",
+        "text": "Gaya"
       },
       {
-        "id": "b",
-        "text": "Pataliputra",
-        "image": null
+        "id": "B",
+        "text": "Pataliputra"
       },
       {
-        "id": "c",
-        "text": "Taxila",
-        "image": null
+        "id": "C",
+        "text": "Taxila"
       },
       {
-        "id": "d",
-        "text": "Sarnath",
-        "image": null
+        "id": "D",
+        "text": "Sarnath"
       }
     ],
     "correct_option": "D",
@@ -5694,9 +5096,7 @@
     ],
     "status": "ok",
     "is_mock_eligible": true,
-    "source_file": "ssc_gd_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-21 15:00:00",
-    "updated_at": "2026-07-21 15:00:00"
+    "created_at": "2026-07-18 22:30:00",
+    "updated_at": "2026-07-18 22:30:00"
   }
 ]
