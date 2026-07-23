@@ -7,7 +7,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "1 + $\\frac{1}{2}$ + $\\frac{1}{4}$ + $\\frac{1}{16}$ + $\\frac{1}{32}$ + $\\frac{1}{64}$ is approximately equal to ___________ .",
+    "question": "1 + \\(\\frac{1}{2}\\) + \\(\\frac{1}{4}\\) + \\(\\frac{1}{16}\\) + \\(\\frac{1}{32}\\) + \\(\\frac{1}{64}\\) is approximately equal to ___________ .",
     "questionImage": null,
     "options": [
       {
@@ -32,7 +32,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Expression = $$$$$$$$$1 + 0.5 + 0.25 + 0.0625 + 0.03125 + 0.015625 = 1.859375$$$$$$$$$ ≈ 2.",
+    "explanation": "Expression = $$$$$$$$$$$$1 + 0.5 + 0.25 + 0.0625 + 0.03125 + 0.015625 = 1.859375$$$$$$$$$$$$ ≈ 2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,27 +44,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "If (2x+3y)/(3x-4y) = $\\frac{11}{7}$, then the value of $x$/y is _______",
+    "question": "If (2x+3y)/(3x-4y) = \\(\\frac{11}{7}\\), then the value of \\(x\\)/y is _______",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{65}{19}$",
+        "text": "\\(\\frac{65}{19}\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{68}{19}$",
+        "text": "\\(\\frac{68}{19}\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{67}{19}$",
+        "text": "\\(\\frac{67}{19}\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{64}{19}$",
+        "text": "\\(\\frac{64}{19}\\)",
         "image": null
       }
     ],
@@ -106,7 +106,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Since 1 < x < 2, 2x - 5 is negative, so sqrt((2x-5)^2) = $$$$$$$$$5 - 2$$$$$$$$$x.\nx - 1 is positive, so sqrt((x-1)^2) = x - 1.\nExpression = $$$$$$$$$5 - 2$$$$$$$$$x + 2(x - 1) = $$$$$$$$$5 - 2$$$$$$$$$x + 2x - 2 = 3.",
+    "explanation": "Since 1 < x < 2, 2x - 5 is negative, so sqrt((2x-5)^2) = $$$$$$$$$$$$5 - 2$$$$$$$$$$$$x.\nx - 1 is positive, so sqrt((x-1)^2) = x - 1.\nExpression = $$$$$$$$$$$$5 - 2$$$$$$$$$$$$x + 2(x - 1) = $$$$$$$$$$$$5 - 2$$$$$$$$$$$$x + 2x - 2 = 3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -254,7 +254,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let C = 100x. Then B = 140x, and A = $$$$$$$$$3 * 140$$$$$$$$$x = 420x.\nAverage = (100x + 140x + 420x) / 3 = 220x.\nGiven average is Rs 1320 => 220x = 1320 => x = 6.\nAmount A has = $$$$$$$$$420 * 6$$$$$$$$$ = Rs 2520.",
+    "explanation": "Let C = 100x. Then B = 140x, and A = $$$$$$$$$$$$3 * 140$$$$$$$$$$$$x = 420x.\nAverage = (100x + 140x + 420x) / 3 = 220x.\nGiven average is Rs 1320 => 220x = 1320 => x = 6.\nAmount A has = $$$$$$$$$$$$420 * 6$$$$$$$$$$$$ = Rs 2520.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,7 +266,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "Marks of two candidates X and Y are in the ratio of $$$$$$$$$4:7$$$$$$$$$. If the marks of X is 140, then what will be the marks of Y?",
+    "question": "Marks of two candidates X and Y are in the ratio of \\($4:7$\\). If the marks of X is 140, then what will be the marks of Y?",
     "questionImage": null,
     "options": [
       {
@@ -291,7 +291,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "X : Y = $$$$$$$$$4:7$$$$$$$$$.\nSince X = 140, multiplier = $$$$$$$$$140 / 4 = 35.$$$$$$$$$\nY's marks = $$$$$$$$$7 * 35 = 245.$$$$$$$$$",
+    "explanation": "X : Y = $$$$$$$$$$$$4:7$$$$$$$$$$$$.\nSince X = 140, multiplier = $$$$$$$$$$$$140 / 4 = 35.$$$$$$$$$$$$\nY's marks = $$$$$$$$$$$$7 * 35 = 245.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -308,27 +308,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$4:7$$$$$$$$$",
+        "text": "\\($4:7$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$3:5$$$$$$$$$",
+        "text": "\\($3:5$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$2:3$$$$$$$$$",
+        "text": "\\($2:3$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$1:2$$$$$$$$$",
+        "text": "\\($1:2$\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let quantity mixed be x and y.\n13x + 7y = 9(x + y) => 4x = 2y => x/y = $\\frac{1}{2}$.\nRequired ratio = $$$$$$$$$1:2$$$$$$$$$.",
+    "explanation": "Let quantity mixed be x and y.\n13x + 7y = 9(x + y) => 4x = 2y => x/y = $\\frac{1}{2}$.\nRequired ratio = $$$$$$$$$$$$1:2$$$$$$$$$$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -365,7 +365,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total age = $$$$$$$$$8 * 36 = 288.$$$$$$$$$ Exclude the eldest (32): $$$$$$$$$288 - 32 = 256.$$$$$$$$$\nRemaining members = 7.\nNew average = $$$$$$$$$256 / 7 = 36.57$$$$$$$$$ years.",
+    "explanation": "Total age = $$$$$$$$$$$$8 * 36 = 288.$$$$$$$$$$$$ Exclude the eldest (32): $$$$$$$$$$$$288 - 32 = 256.$$$$$$$$$$$$\nRemaining members = 7.\nNew average = $$$$$$$$$$$$256 / 7 = 36.57$$$$$$$$$$$$ years.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * (1.09)^2 = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\nAmount annually = $$$$$$$$$10000 * 1.18$$$$$$$$$ = Rs 11800.\nDifference = $$$$$$$$$11881 - 11800$$$$$$$$$ = Rs 81.",
+    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * (1.09)^2 = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\nAmount annually = $$$$$$$$$$$$10000 * 1.18$$$$$$$$$$$$ = Rs 11800.\nDifference = $$$$$$$$$$$$11881 - 11800$$$$$$$$$$$$ = Rs 81.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let CP of 1000 gm sugar = Rs 1000.\nCP of 680 gm sugar = Rs 680.\nHe sells 680 gm (pretending it's 1000 gm) at 16% loss on 1000 gm, i.e., Rs 840.\nProfit = $$$$$$$$$840 - 680$$$$$$$$$ = Rs 160.\nProfit % = $$$$$$$$$(160 / 680) * 100 = 23.53$$$$$$$$$%.",
+    "explanation": "Let CP of 1000 gm sugar = Rs 1000.\nCP of 680 gm sugar = Rs 680.\nHe sells 680 gm (pretending it's 1000 gm) at 16% loss on 1000 gm, i.e., Rs 840.\nProfit = $$$$$$$$$$$$840 - 680$$$$$$$$$$$$ = Rs 160.\nProfit % = $$$$$$$$$$$$(160 / 680) * 100 = 23.53$$$$$$$$$$$$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -476,7 +476,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Marked Price = Rs 2000.\nFirst discount = 5% of 2000 = Rs 100. Price after first discount = Rs 1900.\nSecond discount = 15% of 1900 = Rs 285.\nTotal discount = $$$$$$$$$100 + 285$$$$$$$$$ = Rs 385.",
+    "explanation": "Marked Price = Rs 2000.\nFirst discount = 5% of 2000 = Rs 100. Price after first discount = Rs 1900.\nSecond discount = 15% of 1900 = Rs 285.\nTotal discount = $$$$$$$$$$$$100 + 285$$$$$$$$$$$$ = Rs 385.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,17 +488,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What is the square root of $$$$$$$$$(3 - 2$$$$$$$$$√2) / $$$$$$$$$(3 + 2$$$$$$$$$√2)?",
+    "question": "What is the square root of \\($(3 - 2$\\)√2) / \\($(3 + 2$\\)√2)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$3 - 2$$$$$$$$$√2",
+        "text": "\\$(3 - 2$\\)√2",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$3 + 2$$$$$$$$$√2",
+        "text": "\\$(3 + 2$\\)√2",
         "image": null
       },
       {
@@ -513,7 +513,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Rationalize: $$$$$$$$$(3-2$$$$$$$$$√2)$$$$$$$$$(3-2$$$$$$$$$√2) / ($$$$$$$$$(3+2$$$$$$$$$√2)$$$$$$$$$(3-2$$$$$$$$$√2)) = $$$$$$$$$(3-2$$$$$$$$$√2)^2 / $$$$$$$$$(9-8) = (3-2$$$$$$$$$√2)^2.\nSquare root = $$$$$$$$$3 - 2$$$$$$$$$√2.",
+    "explanation": "Rationalize: $$$$$$$$$$$$(3-2$$$$$$$$$$$$√2)$$$$$$$$$$$$(3-2$$$$$$$$$$$$√2) / ($$$$$$$$$$$$(3+2$$$$$$$$$$$$√2)$$$$$$$$$$$$(3-2$$$$$$$$$$$$√2)) = $$$$$$$$$$$$(3-2$$$$$$$$$$$$√2)^2 / $$$$$$$$$$$$(9-8) = (3-2$$$$$$$$$$$$√2)^2.\nSquare root = $$$$$$$$$$$$3 - 2$$$$$$$$$$$$√2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -661,7 +661,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total number of elephants = $$$$$$$$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$$$$$$$",
+    "explanation": "Total number of elephants = $$$$$$$$$$$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -698,7 +698,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Required central angle = $$$$$$$$$(400 / 4000) * 360$$$$$$$$$° = 36°.",
+    "explanation": "Required central angle = $$$$$$$$$$$$(400 / 4000) * 360$$$$$$$$$$$$° = 36°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -735,7 +735,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total area = Total elephants * average area = $$$$$$$$$4000 * 50 = 200$$$$$$$$$,000 sq km = 200 (in 1000 sq km).",
+    "explanation": "Total area = Total elephants * average area = $$$$$$$$$$$$4000 * 50 = 200$$$$$$$$$$$$,000 sq km = 200 (in 1000 sq km).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,7 +858,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "ΔXYZ is right angled at Y. If m∠X = 30°, then find the value of (cosZ + $\\frac{1}{3}$).",
+    "question": "ΔXYZ is right angled at Y. If m∠X = 30°, then find the value of (cosZ + \\(\\frac{1}{3}\\)).",
     "questionImage": null,
     "options": [
       {
@@ -878,7 +878,7 @@
       },
       {
         "id": "D",
-        "text": "$\\frac{5}{6}$",
+        "text": "\\(\\frac{5}{6}\\)",
         "image": null
       }
     ],
@@ -895,7 +895,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "In ΔXYZ measure of angle Y is 90°. If tanX = $\\frac{15}{8}$, and XY = 16cm, then what is the length (in cm) of side YZ?",
+    "question": "In ΔXYZ measure of angle Y is 90°. If tanX = \\(\\frac{15}{8}\\), and XY = 16cm, then what is the length (in cm) of side YZ?",
     "questionImage": null,
     "options": [
       {
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In right ΔXYZ, tan X = YZ / XY => $\\frac{15}{8}$ = YZ / 16 => YZ = $$$$$$$$$(15 / 8) * 16 = 30$$$$$$$$$ cm.",
+    "explanation": "In right ΔXYZ, tan X = YZ / XY => $\\frac{15}{8}$ = YZ / 16 => YZ = $$$$$$$$$$$$(15 / 8) * 16 = 30$$$$$$$$$$$$ cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,7 +969,7 @@
     "subject": "General Intelligence",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives.\n\n$$$$$$$$$54:135$$$$$$$$$ : : 32 : ?",
+    "question": "Select the related number from the given alternatives.\n\n\\($54:135$\\) : : 32 : ?",
     "questionImage": null,
     "options": [
       {
@@ -994,7 +994,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The numbers are of the form n : 2.5n. $$$$$$$$$54 * 2.5 = 135.$$$$$$$$$ Similarly, $$$$$$$$$32 * 2.5 = 80.$$$$$$$$$",
+    "explanation": "The numbers are of the form n : 2.5n. $$$$$$$$$$$$54 * 2.5 = 135.$$$$$$$$$$$$ Similarly, $$$$$$$$$$$$32 * 2.5 = 80.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$12 - 8$$$$$$$$$",
+        "text": "\\$(12 - 8$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$28 - 24$$$$$$$$$",
+        "text": "\\$(28 - 24$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$66 - 62$$$$$$$$$",
+        "text": "\\$(66 - 62$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$84 - 76$$$$$$$$$",
+        "text": "\\$(84 - 76$\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The difference between each of the pair of numbers is 4 $$$$$$$$$(12-8=4$$$$$$$$$, $$$$$$$$$28-24=4$$$$$$$$$, $$$$$$$$$66-62=4).$$$$$$$$$ In the last option, $$$$$$$$$84 - 76 = 8$$$$$$$$$, making it the odd one.",
+    "explanation": "The difference between each of the pair of numbers is 4 $$$$$$$$$$$$(12-8=4$$$$$$$$$$$$, $$$$$$$$$$$$28-24=4$$$$$$$$$$$$, $$$$$$$$$$$$66-62=4).$$$$$$$$$$$$ In the last option, $$$$$$$$$$$$84 - 76 = 8$$$$$$$$$$$$, making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1216,7 +1216,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Decreasing multiples of 16 are alternatively subtracted and added:\n$$$$$$$$$60 - 112$$$$$$$$$ = -$$$$$$$$$52 -52 + 96 = 44$$$$$$$$$\n$$$$$$$$$44 - 80$$$$$$$$$ = -$$$$$$$$$36 -36 + 64 = 28$$$$$$$$$\n$$$$$$$$$28 - 48$$$$$$$$$ = -20.",
+    "explanation": "Decreasing multiples of 16 are alternatively subtracted and added:\n$$$$$$$$$$$$60 - 112$$$$$$$$$$$$ = -$$$$$$$$$$$$52 -52 + 96 = 44$$$$$$$$$$$$\n$$$$$$$$$$$$44 - 80$$$$$$$$$$$$ = -$$$$$$$$$$$$36 -36 + 64 = 28$$$$$$$$$$$$\n$$$$$$$$$$$$28 - 48$$$$$$$$$$$$ = -20.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A $$$$$$$$$(17-24$$$$$$$$$, 17) = (-7, 17).\nDistance SA = sqrt((-7)^$$$$$$$$$2 + 17$$$$$$$$$^2) = sqrt$$$$$$$$$(49 + 289)$$$$$$$$$ = sqrt(338) = 13√2 km.",
+    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A $$$$$$$$$$$$(17-24$$$$$$$$$$$$, 17) = (-7, 17).\nDistance SA = sqrt((-7)^$$$$$$$$$$$$2 + 17$$$$$$$$$$$$^2) = sqrt$$$$$$$$$$$$(49 + 289)$$$$$$$$$$$$ = sqrt(338) = 13√2 km.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1376,7 +1376,7 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$$$$$$$$$16 - 2 + 35$$$$$$$$$ x $20 \\div 2 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n\\$(16 - 2 + 35$\\) x \\(20 \\div 2 = ?\\)",
     "questionImage": null,
     "options": [
       {
@@ -1401,7 +1401,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Decoding the expression gives: $$$$$$$$$16 / 2 - 35 + 20 * 2 = 8 - 35 + 40 = 13.$$$$$$$$$",
+    "explanation": "Decoding the expression gives: $$$$$$$$$$$$16 / 2 - 35 + 20 * 2 = 8 - 35 + 40 = 13.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,7 +1413,7 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$$$$$$$$$14 - 6$$$$$$$$$ x $30 \\div $$$$$$$$10 + 4 = 28$$$$$$$$$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(14 - 6$\\) x $30 \\div \\$(10 + 4 = 28$\\)",
     "questionImage": null,
     "options": [
       {
@@ -1438,7 +1438,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Interchanging '-' and '+' gives: $$$$$$$$$14 + 6 * 30 / 10 - 4 = 14 + 18 - 4 = 28.$$$$$$$$$ This balances the equation.",
+    "explanation": "Interchanging '-' and '+' gives: $$$$$$$$$$$$14 + 6 * 30 / 10 - 4 = 14 + 18 - 4 = 28.$$$$$$$$$$$$ This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 39,
@@ -1477,7 +1477,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The operation is: a & b = 2 * (a * b). Thus, 9&9 = $$$$$$$$$2 * 9 * 9 = 162.$$$$$$$$$",
+    "explanation": "The operation is: a & b = 2 * (a * b). Thus, 9&9 = $$$$$$$$$$$$2 * 9 * 9 = 162.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1699,7 +1699,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern is adding 6 (+6) to each term: $$$$$$$$$159 + 6 = 165.$$$$$$$$$",
+    "explanation": "The pattern is adding 6 (+6) to each term: $$$$$$$$$$$$159 + 6 = 165.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1736,7 +1736,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The relationship format is (x, 3x - 1, 5x - 1). For option C: $$$$$$$$$3 * 19 - 1 = 56$$$$$$$$$ (not 57), making it the odd one.",
+    "explanation": "The relationship format is (x, 3x - 1, 5x - 1). For option C: $$$$$$$$$$$$3 * 19 - 1 = 56$$$$$$$$$$$$ (not 57), making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1827,27 +1827,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$24,59,30,99$$$$$$$$$",
+        "text": "\\($24,59,30,99$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$65,12,32,24$$$$$$$$$",
+        "text": "\\($65,12,32,24$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$10,68,14,95$$$$$$$$$",
+        "text": "\\($10,68,14,95$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$30,85,44,75$$$$$$$$$",
+        "text": "\\($30,85,44,75$\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Checking option B: 65 = N, 12 = A, 32 = M, 24 = E. So $$$$$$$$$65,12,32,24$$$$$$$$$ represents 'NAME'.",
+    "explanation": "Checking option B: 65 = N, 12 = A, 32 = M, 24 = E. So $$$$$$$$$$$$65,12,32,24$$$$$$$$$$$$ represents 'NAME'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2303,7 +2303,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [$$$$$$$$$63 - 67$$$$$$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nIn order to reason ____________ it is not merely",
+    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nIn order to reason ____________ it is not merely",
     "questionImage": null,
     "options": [
       {
@@ -2340,7 +2340,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [$$$$$$$$$63 - 67$$$$$$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nhave the proper _____________, good framework",
+    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nhave the proper _____________, good framework",
     "questionImage": null,
     "options": [
       {
@@ -2377,7 +2377,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [$$$$$$$$$63 - 67$$$$$$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nexpect to cope __________ others of his kind",
+    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nexpect to cope __________ others of his kind",
     "questionImage": null,
     "options": [
       {
@@ -2414,7 +2414,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [$$$$$$$$$63 - 67$$$$$$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nto develop ___________ muscles",
+    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nto develop ___________ muscles",
     "questionImage": null,
     "options": [
       {
@@ -2451,7 +2451,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [$$$$$$$$$63 - 67$$$$$$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nlearn the art __________ using them to the",
+    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIn order to reason ____________ it is not merely necessary to have a good intellect. An athlete may have the proper _____________, good framework, and symmetrical muscles, but he cannot expect to cope __________ others of his kind unless he has learned to develop ___________ muscles and to use them to the best advantage. And, in the same way, the man who wishes to reason correctly must develop his intellectual faculties and must also learn the art __________ using them to the best advantage.\n\nlearn the art __________ using them to the",
     "questionImage": null,
     "options": [
       {
@@ -3068,7 +3068,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The inaugural '$$$$$$$$$2+2$$$$$$$$$' secretaries level dialogue was held between India and Australia in New Delhi.",
+    "explanation": "The inaugural '$$$$$$$$$$$$2+2$$$$$$$$$$$$' secretaries level dialogue was held between India and Australia in New Delhi.",
     "marks": 2,
     "negativeMarks": 0.5
   },

@@ -1,0 +1,3602 @@
+[
+  {
+    "id": 1,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ages",
+    "difficulty": "Easy",
+    "question": "The sum of the ages of a son and father is 52 years; four years later, the age of the father will be four times the age of the son. What is the current age of the son (in years)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "9 years",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "12 years",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "10 years",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8 years",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let the present ages of the son and the father be s and f respectively. Given, s + f = 52 => f = 52 - s. Four years later: (f + 4) = 4 * (s + 4) => (52 - s + 4) = 4s + 16 => 56 - s = 4s + 16 => 5s = 40 => s = 8.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 2,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "Two pipes can fill a tank individually in 36 minutes and 45 minutes respectively. An outlet pipe attached to the tank can drain 40 liters of water per minute. If all three pipes are opened together, the tank is filled in one hour. Find the capacity of the tank (in liters).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let the capacity of the tank be C liters. Rate of filling of Pipe 1 = C/36 liters/min. Rate of filling of Pipe 2 = C/45 liters/min. Rate of emptying of outlet pipe = 40 liters/min. Together they fill the tank in 60 mins: 60 * (C/36 + C/$$$$$$$$$$$$45 - 40)$$$$$$$$$$$$ = C => 60 * (9C/$$$$$$$$$$$$180 - 40)$$$$$$$$$$$$ = C => 60 * (C/$$$$$$$$$$$$20 - 40)$$$$$$$$$$$$ = C => 3C - 2400 = C => 2C = 2400 => C = 1200 liters.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 3,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Statistics",
+    "difficulty": "Medium",
+    "question": "The monthly wage distribution of 100 workers in a factory shows an average wage of ₹4,500 per month. If the median wage is found to be ₹4,900, find the mode wage.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹5,600",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹5,500",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹5,800",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹5,700",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using the empirical relation: Mode = 3 * Median - 2 * Mean = 3(4900) - 2(4500) = $$$$$$$$$$$$14700 - 9000$$$$$$$$$$$$ = ₹5,700.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 4,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "A hollow cube is made of paper to have a volume of 512 cubic units. How much paper in square units will be required to make the cube?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Volume of cube a^3 = 512 => a = 8. Total surface area of a cube = 6a^2 = $$$$$$$$$$$$6 * 64 = 384$$$$$$$$$$$$ square units.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 5,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Medium",
+    "question": "The dimensions of a rectangular box are length = 1.6 m, width = 90 cm, height = 60 cm. How many soap cakes of dimensions 6 cm × 5 cm × 40 mm can be packed inside the box such that no empty space is left?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Volume of box = 160 cm * 90 cm * 60 cm = 864,000 cm^3. Volume of one soap cake = 6 cm * 5 cm * 4 cm = 120 cm^3 (since 40 mm = 4 cm). Number of soap cakes = 864,$$$$$$$$$$$$000 / 120 = 7200.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 6,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ages",
+    "difficulty": "Medium",
+    "question": "10 years ago, the age of a father was three times the age of his son. Ten years later, the father's age will be twice the age of his son. What is the ratio of their present ages?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$$$$7:3$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$$$$5:2$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$$$$3:2$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$$$$5:3$$$$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let present ages of father and son be f and s. Given: f - 10 = 3(s - 10) => f - 3s = -20. Also: f + 10 = 2(s + 10) => f - 2s = 10. Subtracting the two equations gives s = 30, and substituting back gives f = 70. Ratio of present ages = $$$$$$$$$$$$70:30$$$$$$$$$$$$ = $$$$$$$$$$$$7:3$$$$$$$$$$$$.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 7,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Statistics",
+    "difficulty": "Easy",
+    "question": "The runs scored by 11 players in a cricket match are: $$$$$$$$$$$$7,16,121,51,101,81,1,16,9,11,16$$$$$$$$$$$$. Calculate the median of the data.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Arranging data in ascending order: $$$$$$$$$$$$1,7,9,11,16,16,16,51,81,101,121$$$$$$$$$$$$. The median is the 6th term, which is 16.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 8,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "In how many years will a sum of ₹2,500 invested at 16% per annum simple interest amount to ₹4,100?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Simple Interest = 4,$$$$$$$$$$$$100 - 2$$$$$$$$$$$$,500 = ₹1,600. SI = (P * R * T) / 100 => 1600 = $$$$$$$$$$$$(2500 * 16$$$$$$$$$$$$ * T) / 100 => 1600 = 400 * T => T = 4 years.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 9,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "question": "A sum of ₹7,786 is divided among A, B, and C such that the ratio of the share of A to B is $$$$$$$$$$$$3:4$$$$$$$$$$$$ and that of B to C is $$$$$$$$$$$$12:13$$$$$$$$$$$$. What is the share obtained by B?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹2,977",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹5,038",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹2,748",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹7,138",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A : B = $$$$$$$$$$$$3:4$$$$$$$$$$$$ = $$$$$$$$$$$$9:12$$$$$$$$$$$$. B : C = $$$$$$$$$$$$12:13$$$$$$$$$$$$. Therefore, A : B : C = $$$$$$$$$$$$9:12$$$$$$$$$$$$ : 13. Total parts = $$$$$$$$$$$$9 + 12 + 13 = 34.$$$$$$$$$$$$ Share of B = ($\\frac{12}{34}$) * 7786 = $$$$$$$$$$$$12 * 229$$$$$$$$$$$$ = ₹2,748.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 10,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "In △XYZ, if XY = 5 cm, XZ = 7 cm, and Q is a point on YZ such that XQ bisects ∠X, then find the value of YQ : QZ.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$$$$7:5$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$$$$5:12$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$$$$7:12$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$$$$5:7$$$$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "By the Angle Bisector Theorem, YQ / QZ = XY / XZ = $$$$$$$$$$$$5 / 7.$$$$$$$$$$$$ Thus, YQ : QZ = $$$$$$$$$$$$5:7$$$$$$$$$$$$.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 11,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Number System",
+    "difficulty": "Medium",
+    "question": "Find the average of the prime numbers lying between 69 and 92.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Prime numbers between 69 and 92 are $$$$$$$$$$$$71,73,79,83$$$$$$$$$$$$, and 89. Average = $$$$$$$$$$$$(71 + 73 + 79 + 83 + 89) / 5 = 395 / 5 = 79.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 12,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "In an election, a candidate who gets 90% of the votes is elected by a margin of 800 votes. What is the total number of votes polled? (Note: Only two candidates contested and all votes are valid).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Winner gets 90% of votes, so the loser gets 10% of votes. The margin is 90% - 10% = 80% of total votes. 80% of Total = 800 => Total = 1000.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 13,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simplification",
+    "difficulty": "Easy",
+    "question": "Find the value of \\sqrt{625} + \\sqrt{\\frac{625}{100}} + \\sqrt{\\frac{625}{10000}} + \\sqrt{\\frac{625}{1000000}}.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "27.025",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "27.775",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "27.075",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "27.75",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Calculation: $$$$$$$$$$$$25 + 2.5 + 0.25 + 0.025 = 27.775.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 14,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "difficulty": "Medium",
+    "question": "If the rate of interest is 2.5% per annum for the first year and 2% per annum for the second year, find the compound interest on ₹6,000 in two years.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹240",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹270",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹273",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹135",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Amount A = P * (1 + R$\\frac{1}{100}$) * (1 + R$\\frac{2}{100}$) = $$$$$$$$$$$$6000 * 1.025 * 1.02 = 6273.$$$$$$$$$$$$ Compound Interest = $$$$$$$$$$$$6273 - 6000$$$$$$$$$$$$ = ₹273.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 15,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Probability",
+    "difficulty": "Medium",
+    "question": "Sudarshan and Abraham appeared for an interview for two vacancies. The probability of Sudarshan's selection is $\\frac{1}{3}$ and that of Abraham's selection is $\\frac{1}{5}$. Find the probability that none of them is selected.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\frac{8}{15}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$\\frac{14}{15}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\frac{1}{15}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$\\frac{22}{15}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "P(S') = 1 - $\\frac{1}{3}$ = $\\frac{2}{3}$. P(A') = 1 - $\\frac{1}{5}$ = $\\frac{4}{5}$. Probability that none is selected = P(S') * P(A') = $\\frac{2}{3}$ * $\\frac{4}{5}$ = $\\frac{8}{15}$.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 16,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simplification",
+    "difficulty": "Easy",
+    "question": "Find the value of (\\sqrt[3]{\\sqrt[3]{343}})^3 \\times (\\sqrt[3]{\\sqrt[3]{216}})^3.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "42^3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "\\sqrt[3]{42}",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Expression simplifies to: \\sqrt[3]{343} * \\sqrt[3]{216} = $$$$$$$$$$$$7 * 6 = 42.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 17,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "A sells a watch to B at a profit of 33% and B sells it to C at a loss of 20%. If C pays ₹532, what was the cost price for A?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹800",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹500",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹400",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹600",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let CP of A be x. x * $$$$$$$$$$$$1.33 * 0.80 = 532$$$$$$$$$$$$ => x * 1.064 = 532 => x = 500.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 18,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "question": "The ratio of Richa's expenditure and savings is $$$$$$$$$$$$2:1$$$$$$$$$$$$. If her income and expenditure increase by 20% and 15% respectively, find the percentage increase in her savings.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "20%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "35%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "25%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "30%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let Expenditure = 200, Savings = 100. Then Income = 300. New Income = $$$$$$$$$$$$300 * 1.20 = 360.$$$$$$$$$$$$ New Expenditure = $$$$$$$$$$$$200 * 1.15 = 230.$$$$$$$$$$$$ New Savings = $$$$$$$$$$$$360 - 230 = 130.$$$$$$$$$$$$ Percentage increase in savings = $$$$$$$$$$$$(130 - 100)/100 * 100 = 30$$$$$$$$$$$$%.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 19,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Medium",
+    "question": "The base of a right prism is an equilateral triangle with each side of 4 cm. If the lateral surface area is 120 cm^2, then find the volume of the prism (in cm^3).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "10\\sqrt{3}",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "20\\sqrt{3}",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "30\\sqrt{3}",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "40\\sqrt{3}",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "LSA = Perimeter of base * height => 120 = $$$$$$$$$$$$(3 * 4)$$$$$$$$$$$$ * h => h = 10 cm. Volume = Base Area * height = (\\sqrt{3}/$$$$$$$$$$$$4 * 4$$$$$$$$$$$$^2) * 10 = 4\\sqrt{3} * 10 = 40\\sqrt{3} cm^3.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 20,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "Sohan sells sugar at cost price but uses a false weight and thereby earns a profit of 28%. How many grams of sugar is he giving in place of 3.2 kg of sugar?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1900 g",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1500 g",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2500 g",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "2200 g",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let Sohan give w grams instead of 3200 grams. Profit% = (3200 - w)/w * 100 = 28 => 3200 - w = 0.28w => 1.28w = 3200 => w = 2500 g.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 21,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Easy",
+    "question": "Find the average of the first eight multiples of 6.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Average of first n multiples of x is x * (n + 1) / 2. Here x = 6, n = 8. Average = $$$$$$$$$$$$6 * 9 / 2 = 27.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 22,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Discount",
+    "difficulty": "Medium",
+    "question": "The difference between a single discount of 27% and two successive discounts of 20% and 10% on a certain bill was ₹56. Find the amount of the bill.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹5,600",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹1,120",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹1,866",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹5,500",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Equivalent discount of successive 20% and 10% = $$$$$$$$$$$$20 + 10 - (20 * 10)/100 = 28$$$$$$$$$$$$%. Difference between discounts = 28% - 27% = 1%. 1% of Bill = 56 => Bill = ₹5,600.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 23,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "question": "The ratio of the prices of coffee and tea is $$$$$$$$$$$$3:4$$$$$$$$$$$$ and the ratio of their quantities consumed by a family is $$$$$$$$$$$$4:7$$$$$$$$$$$$. Find the ratio of expenditure on coffee and tea.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$$$$7:4$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$$$$3:7$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$$$$4:7$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$$$$7:3$$$$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Ratio of expenditure = (Price ratio * Quantity ratio) = $$$$$$$$$$$$(3 * 4)$$$$$$$$$$$$ : $$$$$$$$$$$$(4 * 7) = 12$$$$$$$$$$$$ : 28 = $$$$$$$$$$$$3:7$$$$$$$$$$$$.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 24,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Speed Time and Distance",
+    "difficulty": "Medium",
+    "question": "A boat travels 3 km upstream in 1 hour and 1 km downstream in 12 minutes. How much time will the boat take to cover 6 km in still water?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1 h 30 min",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1 h 25 min",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "1 h 20 min",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "1 h 15 min",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Upstream speed U = $$$$$$$$$$$$3 / 1 = 3$$$$$$$$$$$$ km/h. Downstream speed D = 1 / ($\\frac{12}{60}$) = 5 km/h. Speed of boat in still water v = (U + D)/2 = $$$$$$$$$$$$(3+5)/2 = 4$$$$$$$$$$$$ km/h. Time taken to travel 6 km in still water = $$$$$$$$$$$$6 / 4 = 1.5$$$$$$$$$$$$ hours = 1 hour 30 minutes.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 25,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Heights and Distances",
+    "difficulty": "Hard",
+    "question": "When the angle of elevation of the sun changes from 45° to 30°, the length of the shadow of a tower standing on flat ground increases by 40 m. Find the height of the tower (in meters).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "20(\\sqrt{3} - 1)",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "10(\\sqrt{3} + 1)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "20(\\sqrt{3} + 1)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "10(\\sqrt{3} - 1)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let height of tower be h. Shadow length at 45° = h. Shadow length at 30° = h * \\sqrt{3}. Given: h * \\sqrt{3} - h = 40 => h * (\\sqrt{3} - 1) = 40 => h = 40/(\\sqrt{3} - 1) = 20 * (\\sqrt{3} + 1) m.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 26,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "The measures of two angles of a triangle are in the ratio $$$$$$$$$$$$3:7$$$$$$$$$$$$. If the sum of these two measures is equal to the measure of the third angle, then find the smallest angle.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "9°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "3°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "36°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "27°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let angles be 3x and 7x. Third angle = 3x + 7x = 10x. Sum of angles of a triangle = 180° => 3x + 7x + 10x = 180° => 20x = 180° => x = 9°. Smallest angle = 3x = $$$$$$$$$$$$3 * 9 = 27$$$$$$$$$$$$°.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 27,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "question": "If a transversal intersects two parallel lines, and the difference between two interior angles on the same side of the transversal is 40°, then find the smallest of these interior angles.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "60°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "50°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "40°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "70°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let the two interior angles on the same side be x and y. x + y = 180° (consecutive interior angles are supplementary). Given x - y = 40°. Adding equations: 2x = 220° => x = 110°. Thus, y = 180° - 110° = 70°. Smallest angle = 70°.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 28,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "Find the simplified form of the expression \\frac{(x^$$$$$$$$$$$$2 - 9)$$$$$$$$$$$$ \\times (9x^$$$$$$$$$$$$2 - 1)$$$$$$$$$$$$}{(x - \\frac{1}{3}) \\times (1 - \\frac{x}{3})} \\times \\frac{9}{(x + \\frac{1}{3})(1 + \\frac{x}{3})}.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "-729",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "-81",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rearranging terms in the denominators and factoring out: (x^$$$$$$$$$$$$2-9)$$$$$$$$$$$$ = -(9-x^2) = -9(1 - x^$\\frac{2}{9}$). (9x^$$$$$$$$$$$$2-1) = 9($$$$$$$$$$$$x^2 - $\\frac{1}{9}$). Denominator terms: (x - $\\frac{1}{3}$) * (x + $\\frac{1}{3}$) = x^2 - $\\frac{1}{9}$, and (1 - x/3) * (1 + x/3) = 1 - x^$\\frac{2}{9}$. Thus the variables cancel out leaving -$$$$$$$$$$$$9 * 9 * 9$$$$$$$$$$$$ = -729.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 29,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Heights and Distances",
+    "difficulty": "Medium",
+    "question": "A man observed the top of an electric pole from two different observation points P and Q at angles of elevation of 60° and 30° respectively. If the distance between P and Q is 10 m, find the height of the pole (in m).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "15\\sqrt{3} m",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "15 m",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "5\\sqrt{3} m",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5 m",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let height of pole be h. Distance from foot of pole to P = h / tan(60°) = h / \\sqrt{3}. Distance from foot to Q = h / tan(30°) = h * \\sqrt{3}. Given: h*\\sqrt{3} - h/\\sqrt{3} = 10 => 2h/\\sqrt{3} = 10 => h = 5\\sqrt{3} m.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 30,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Medium",
+    "question": "The average salary of all 40 employees of a school including 35 non-teaching staff members is ₹4,000. If the average salary of non-teaching staff members is ₹4,200, find the average salary of the remaining staff of the school.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹2,800",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹2,300",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹2,600",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹3,600",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total salary of 40 employees = $$$$$$$$$$$$40 * 4000$$$$$$$$$$$$ = ₹160,000. Total salary of 35 non-teaching staff = $$$$$$$$$$$$35 * 4200$$$$$$$$$$$$ = ₹147,000. Total salary of remaining 5 staff = $$$$$$$$$$$$160000 - 147000$$$$$$$$$$$$ = ₹13,000. Average salary of remaining staff = $$$$$$$$$$$$13000 / 5$$$$$$$$$$$$ = ₹2,600.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 31,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Series",
+    "difficulty": "Medium",
+    "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. C_EF HNE_ _NEP RN_U WNE_",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "FHOSM",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CAHKL",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "PAWER",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "NKMEZ",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Placing 'N', 'K', 'M', 'E', 'Z' completes the series with repeating/advancing patterns.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 32,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "Figure A is related to Figure B in a certain pattern. Following the same pattern, Figure C is related to Figure D. Study the pattern and select the figure that can replace Figure D.",
+    "questionImage": "ssc_chsl_tier2_paper1_q32.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Figure 1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Figure 2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Figure 3",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Figure 4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Comparing patterns from A to B shows a rotation and change in elements that maps C to Figure 3.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 33,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Water Image",
+    "difficulty": "Medium",
+    "question": "If the water source is placed along X-Y as shown in the figure below, which of the following options will be the water image of the given figure?",
+    "questionImage": "ssc_chsl_tier2_paper1_q33.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Figure 1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Figure 2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Figure 3",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Figure 4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The water image flips the figure vertically. Option 4 correctly shows the vertical inversion.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 34,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $163 \\div $$$$$$$$$$$5 + 147$$$$$$$$$$$ \\times 7$ − 19 = ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Rewriting the equation with interchanged symbols: $$$$$$$$$$$$163 * 5 - 147 / 7 + 19 = 815 - 21 + 19 = 813.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 35,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Three of the following four word-pairs are alike in some manner and hence form a group. Select the word-pair that does not belong to that group.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Money - Purse",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rice - Food",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Clothes - Almirah",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Water - Bottle",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Purse is used to store Money, Almirah is used to store Clothes, and Bottle is used to store Water. However, Food is a general category of which Rice is a type, not a container-content relationship.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 36,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Statement and Course of Action",
+    "difficulty": "Medium",
+    "question": "A statement is followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and decide which of the courses of action logically follow(s). Statement: Several new electrical appliances in A's house were damaged due to voltage fluctuations. Course of Action: I) A should consult an electrician and install a device to protect the electrical appliances from voltage fluctuations. II) A should replace all the damaged appliances with new ones.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only II follows",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Neither I nor II follows",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Both I and II follow",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Action I is a preventive measure to address the root cause of the problem. Action II is a wasteful reaction and does not prevent future damage.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 37,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Number Relation",
+    "difficulty": "Easy",
+    "question": "Following a certain logic, 4 is related to 40. Following the same logic, 12 is related to 120. Following the same logic, 15 is related to which of the following?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The relationship is x * 10 = y. Therefore, $$$$$$$$$$$$15 * 10 = 150.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 38,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Ranking and Ordering",
+    "difficulty": "Medium",
+    "question": "In a class, all 20 students are standing in a straight line facing North. Neha is 10th from the right end, while Nalin is 12th from the left end. How many students are standing between Neha and Nalin?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "None",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Neha's position from the left = Total - Position from right + 1 = $$$$$$$$$$$$20 - 10 + 1 = 11$$$$$$$$$$$$th. Nalin's position from the left is 12th. Since Neha is 11th and Nalin is 12th, there are 0 students standing between them.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 39,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Number Relation",
+    "difficulty": "Easy",
+    "question": "Following a certain logic, 11 is related to 55. Following the same logic, 12 is related to 60. Following the same logic, 15 is related to which of the following?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The relationship is x * 5 = y. Therefore, $$$$$$$$$$$$15 * 5 = 75.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 40,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Select the word-pair from the options that shares the same relationship as the given pair. Dilemma : Confused :: Consistency : Harmony",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Polite : Rude",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Fierce : Gentle",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Coward : Brave",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Ponder : Meditate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Dilemma and Confused represent synonym-like states, as do Consistency and Harmony. The only synonym pair in options is Ponder : Meditate.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 41,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Number Relation",
+    "difficulty": "Easy",
+    "question": "Following a certain logic, 82 is related to 41. Following the same logic, 94 is related to 47. Following the same logic, 66 is related to which of the following?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The relationship is x / 2 = y. Therefore, $$$$$$$$$$$$66 / 2 = 33.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 42,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Three of the following four options are alike in some manner and hence form a group. Which option does not belong to that group?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$$$$31-280$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$$$$14-126$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$$$$25-225$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$$$$12-108$$$$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "In all options except $$$$$$$$$$$$31-280$$$$$$$$$$$$, the second number is 9 times the first number $$$$$$$$$$$$(14*9=126$$$$$$$$$$$$, $$$$$$$$$$$$25*9=225$$$$$$$$$$$$, $$$$$$$$$$$$12*9=108).$$$$$$$$$$$$ But $$$$$$$$$$$$31*9 = 279$$$$$$$$$$$$, not 280.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 43,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Series",
+    "difficulty": "Medium",
+    "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. GA_B M_PB SA_B YAB_ _AHB",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "CHFJK",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "JAVBE",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "AWBUY",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "MFGTY",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Placing J, A, V, B, E completes the sequence smoothly.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 44,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "Statements: Some bells are pumps. All pumps are skates. All bells are kites. Conclusions: 1. Some kites are skates. 2. Some skates are bells. 3. Some skates are pumps.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusions 1 and 2 follow",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Conclusions 1, 2 and 3 all follow",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusions 2 and 3 follow",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Only conclusions 1 and 3 follow",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Based on Venn diagram representations, all conclusions 1, 2, and 3 are valid.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 45,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Word Formation",
+    "difficulty": "Medium",
+    "question": "How many meaningful English words of four letters can be formed using the 2nd, 3rd, 5th, and 7th letters of the word 'TOURIST' (using each letter only once)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "More than two",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The 2nd, 3rd, 5th, and 7th letters are O, U, I, T. No meaningful English word can be formed from O, U, I, T.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 46,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $617 \\div 3$ − $$$$$$$$$$$$84 + 515$$$$$$$$$$$ \\times 5 = ?$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rewriting the equation with interchanged symbols: $$$$$$$$$$$$617 * 3 + 84 - 515 / 5 = 1851 + 84 - 103 = 1832.$$$$$$$$$$$$",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 47,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Coding Decoding",
+    "difficulty": "Medium",
+    "question": "In a certain code language, '4378' is coded as 'IDOL' and '7832' is coded as 'IDLE'. How will '2' be coded in that language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "L",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "I",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Common digits in '4378' and '7832' are 3, 7, 8, and common letters in 'IDOL' and 'IDLE' are I, D, L. Hence '2' represents 'E'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 48,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Paper Folding",
+    "difficulty": "Medium",
+    "question": "A square sheet of paper is folded in the given directions along the dotted lines and then punched. How will it appear when unfolded?",
+    "questionImage": "ssc_chsl_tier2_paper1_q48.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Figure 1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Figure 2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Figure 3",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Figure 4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Unfolding the paper reproduces the triangular cuts symmetrically along the fold lines.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 49,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Classification",
+    "difficulty": "Hard",
+    "question": "Four of the following five figures are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+    "questionImage": "ssc_chsl_tier2_paper1_q49.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Figure E",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Figure D",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Figure B",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Figure C",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Analyzing the positions of elements across A, B, C, D, E shows that Figure B does not follow the same symmetric alignment.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 50,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Coding Decoding",
+    "difficulty": "Medium",
+    "question": "In a certain code language, 'KENT' is coded as '9^*7' and 'BENT' is coded as '*~79'. How will 'B' be coded in that language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "^",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "*",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "~",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The common letters are E, N, T and common code symbols are 9, *, 7. Therefore, B corresponds to ~.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 51,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "Select the word-pair that best represents the same relationship as the given pair. Console : Satisfy :: Nourish : Cherish",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Jealous : Satisfied",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Lethargic : Energetic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Surrender : Resist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Clever : Smart",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The words Console/Satisfy and Nourish/Cherish represent synonyms or closely related concepts. The option that shares this synonym relationship is Clever : Smart.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 52,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "Statements: All apples are plums. Some plums are berries. Some berries are coconuts. Conclusions: 1. Some berries are plums. 2. All plums are apples. 3. Some coconuts are berries.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion 3 follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Conclusions 1 and 3 both follow",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusion 2 follows",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Only conclusion 1 follows",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From the statement Venn diagrams, 'Some plums are berries' implies 'Some berries are plums' (Conclusion 1 is true). 'Some berries are coconuts' implies 'Some coconuts are berries' (Conclusion 3 is true). Conclusion 2 is false.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 53,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Puzzles",
+    "difficulty": "Hard",
+    "question": "A, B, C, D, E and F live on six different floors of a building. The lowermost floor is numbered 1, the floor above it is 2, and so on, with the topmost floor numbered 6. E lives on an odd-numbered floor but not on floor 5. Only one person lives between E and C. D lives immediately above F. B lives on a floor below C. A does not live on the topmost floor. Who lives on the topmost floor?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "D",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "C",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "E can live on floor 1 or 3. If E is on 3, C is on 1 or 5. Since only one person lives between E and C, if E = 3, then C = 1 or 5. By solving the constraints, the floor plan is: Floor 6 = D, Floor 5 = F, Floor 4 = A, Floor 3 = E, Floor 2 = B, Floor 1 = C. Thus, D lives on the topmost floor.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 54,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Inequality",
+    "difficulty": "Medium",
+    "question": "Statement: P ≤ L ≥ M ≥ N = U < V < G Conclusions: I. P > V II. G ≤ L",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Neither conclusion I nor II is true",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Both conclusions I and II are true",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusion I is true",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Only conclusion II is true",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "For I: Between P and V, the relation cannot be determined due to opposite signs. For II: Between G and L, there are opposite signs, so no direct relation exists. Both conclusions are false.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 55,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Series",
+    "difficulty": "Medium",
+    "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. CB_W V_SP _NLI HG_B A_XU",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "XUOEZ",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ZUOEZ",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "XUOFY",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "XUOEY",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Placing letters X, U, O, E, Y completes the pattern.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 56,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Inference",
+    "difficulty": "Easy",
+    "question": "Read the given statement and inferences carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given inferences can be derived from the statement. Statement: All mammals are warm-blooded animals. Inferences: I. Dogs are warm-blooded animals. II. All warm-blooded creatures are mammals.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only inference I is true",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only inference II is true",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Neither inference I nor II is true",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Both inferences I and II are true",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since all mammals are warm-blooded and dogs are mammals, dogs must be warm-blooded (Inference I holds). However, not all warm-blooded creatures are necessarily mammals (Inference II does not hold).",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 57,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Inequality",
+    "difficulty": "Medium",
+    "question": "Statement: T ≥ M < W = P ≥ Q > R ≤ S Conclusions: I. P ≤ M II. Q > T",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion II is true",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Neither conclusion I nor II is true",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusion I is true",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Both conclusions I and II are true",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "For I: P = W > M, so P > M. Therefore, P ≤ M is false. For II: Relation between Q and T cannot be determined due to opposite signs. Neither conclusion is true.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 58,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Word Formation",
+    "difficulty": "Medium",
+    "question": "How many meaningful English words of four letters can be formed using the 1st, 4th, 5th, and 6th letters of the word 'SAVOUR' (using each letter only once)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "More than two",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "One",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The 1st, 4th, 5th, and 6th letters are S, O, U, R. The two meaningful words that can be formed are 'SOUR' and 'OURS'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 59,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Series",
+    "difficulty": "Medium",
+    "question": "Identify the figure from the options that will logically complete the series when placed in place of the question mark (?).",
+    "questionImage": "ssc_chsl_tier2_paper1_q59.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Figure 1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Figure 2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Figure 3",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Figure 4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Option 1 correctly continues the rotational pattern of elements.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 60,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "General Intelligence",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Three of the following four options are alike in some manner and hence form a group. Which option does not belong to that group?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$$$$364-182$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$$$$986-493$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$$$$438-219$$$$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$$$$524-260$$$$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In all options except $$$$$$$$$$$$524-260$$$$$$$$$$$$, the second number is half the first number ($\\frac{364}{2}$=182, $\\frac{986}{2}$=493, $\\frac{438}{2}$=219). But $\\frac{524}{2}$ = 262, not 260.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 61,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Synonym",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate synonym of the given word. Decadence",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Dispirited",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Flowering",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Liberate",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Decline",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Decadence means moral or cultural decline as characterized by excessive indulgence in pleasure or luxury. Synonym is Decline.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 62,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words. Someone who has too much admiration for himself or herself",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Pantheist",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Misanthropist",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Misogamist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Narcissist",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Narcissist means a person who has an excessive interest in or admiration of themselves.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 63,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spotting Error",
+    "difficulty": "Medium",
+    "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer. A man who has been accused of fraud / in an earlier job, he will never be / welcome in any other organisation.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A man who has been accused of fraud",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "in an earlier job, he will never be",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "welcome in any other organisation",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The pronoun 'he' is redundant because the subject 'A man' has already been introduced.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 64,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spelling Test",
+    "difficulty": "Easy",
+    "question": "Select the INCORRECTLY spelt word.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Maxim",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Quandary",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Lisentious",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Profligate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct spelling is 'Licentious'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 65,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spotting Error",
+    "difficulty": "Medium",
+    "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. While astrology has/ a long history / it is generally/ considered pseudoscience.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "While astrology has",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "it is generally",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "a long history",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "considered pseudoscience",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The phrase should be 'considered a pseudoscience' with the indefinite article 'a'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 66,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate option to fill in the blank. I did not _____ to university yesterday.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "went",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "going",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "go",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "gone",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "After 'did not', the base form of the verb (V1) is used. Hence, 'go' is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 67,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate option to fill in the blank. Currently, Mittu and Bittu ________ hard to meet the project deadline.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "were working",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "worked",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "have worked",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "are working",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The word 'Currently' indicates a continuous action in the present. Hence, 'are working' is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 68,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words/phrase. A drug or other substance that induces sleep",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Stimulant",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Energetic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Sedative",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Reviver",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A sedative is a drug taken for its calming or sleep-inducing effect.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 69,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Active Passive Voice",
+    "difficulty": "Easy",
+    "question": "Select the option that expresses the given sentence in passive voice. They built a new house last year.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A new house is being built by them last year.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A new house was built by them last year.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "They had been building a new house last year.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A new house was being built by them last year.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The simple past 'built' becomes 'was built' in the passive voice.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 70,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spotting Error",
+    "difficulty": "Medium",
+    "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. It is a well-known fact/ that the Monarchy is / not the best form /of governance.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "It is a well-known fact",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "of governance.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "not the best form",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "that the Monarchy is",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The definite article 'the' is incorrect before the abstract noun 'Monarchy' in this general context. It should be 'that monarchy is'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 71,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate idiom that means the same as the given sentence. Shyama looks innocent, but in reality, she is cunning.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Don’t put all your eggs in one basket.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Fortune favours the brave.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Don’t judge a book by its cover.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Beauty lies in the eyes of the beholder.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Don't judge a book by its cover' means one should not form an opinion on someone/something based purely on outward appearance.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 72,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate option that best expresses the meaning of the proverb in the given sentence. The salesperson for the project offered a sneak peek of the project as we expressed our interest in the area and amenities.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "To try something new",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Getting a preview of something",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "To be in a winning position",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Sending a brief letter",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A 'sneak peek' is an opportunity to see something before it is formally or officially available.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 73,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Synonym",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate synonym of the given word. Serene",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Calm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Chaotic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Agitated",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Angry",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Serene means calm, peaceful, and untroubled.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 74,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate option to fill in the blank. The war _______ badly damaged the country’s infrastructure.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "is",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "has",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "was",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "have",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The present perfect tense is appropriate here. 'The war' is singular, so 'has' is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 75,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words. A sudden violent event that brings about great loss or destruction",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Blockbuster",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Catastrophe",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Intrigue",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Farce",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A catastrophe is an event causing great and often sudden damage or suffering; a disaster.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 76,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spelling Test",
+    "difficulty": "Easy",
+    "question": "Select the correct spelling of the underlined word in the given sentence. He made a sureptitiuos phone call while his boss was out of the room.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "surreptitious",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "surreptitous",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "sureptitious",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "sarreptitious",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct spelling is 'surreptitious'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 77,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Direct Indirect Speech",
+    "difficulty": "Medium",
+    "question": "Select the option that expresses the given sentence in reported speech. Anil said to Ria, “I know where everything is kept in the kitchen.”",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Anil asked Ria that he knows where everything was kept in the kitchen.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Anil told Ria that he knew where everything was kept in the kitchen.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Anil told Ria that he knows where everything was kept in the kitchen.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Anil told Ria that he knew where everything is kept in the kitchen.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Indirect speech shifts the tenses: 'said to' -> 'told', 'know' -> 'knew', 'is kept' -> 'was kept'. Option B is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 78,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Antonym",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate ANTONYM of the given word. Denote",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Conceal",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Convey",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Conclude",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Convince",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Denote means to be a sign of or to indicate/reveal. The opposite is to Conceal.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 79,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Active Passive Voice",
+    "difficulty": "Easy",
+    "question": "Select the option that expresses the given sentence in passive voice. The teacher will explain the lesson tomorrow.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The lesson will have been explained by the teacher tomorrow.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "The lesson was explained by the teacher tomorrow.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "The lesson will be explained by the teacher tomorrow.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "The lesson is being explained by the teacher tomorrow.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The future form 'will explain' becomes 'will be explained' in the passive voice.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 80,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spotting Error",
+    "difficulty": "Medium",
+    "question": "The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer. I have three sisters: / Meera is the elder / and Charu is the youngest.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "and Charu is the youngest",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Meera is the elder",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "I have three sisters:",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Since there are three sisters (more than two), the superlative 'eldest' should be used instead of the comparative 'elder'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 81,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Direct Indirect Speech",
+    "difficulty": "Medium",
+    "question": "Select the option that expresses the given sentence in reported speech. He said to the mechanic, “Will you have the car ready by tomorrow morning?”",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "He asked the mechanic if he would have the car ready by the next morning.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "He told the mechanic if he will have the car ready for the next morning.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "He said the mechanic whether he would has the car ready by the following morning.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "He asked the mechanic if he will have the car ready by the previous morning.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Indirect form of yes/no question: 'said to' -> 'asked', 'will' -> 'would', 'tomorrow morning' -> 'the next morning'. Option A is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 82,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Adjectives",
+    "difficulty": "Easy",
+    "question": "Select the option that converts the given sentence into the superlative degree. The river Ganga has some of the purer water on earth.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The river Ganga has some of the most cleanest water on earth.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "The river Ganga has some of the purest water on earth.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "The river Ganga has some of the very purest water on earth.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "The river Ganga has some of the more purest water on earth.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The superlative of 'pure' is 'purest'. Double superlatives like 'most purest' or 'more purest' are grammatically incorrect. Hence B is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 83,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Tenses",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate tense form to fill in the blank. Tania ________ to the canteen.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "were gone",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "was going",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "had going",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "were going",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Tania' is a singular subject, so it takes the singular past continuous verb 'was going'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 84,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Phrasal Verbs",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate phrasal verb to fill in the blank. The teacher asked the students to _______ their essays before the deadline.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "land in",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "put off",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "hand up",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "hand in",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Hand in' means to submit work. Hence it is correct.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 85,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Select the sentence that gives the most appropriate meaning of the idiom ‘Keep your chin up’.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The students diligently completed their homework assignments before the deadline.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "The hiker enjoyed the breathtaking view from the mountaintop, taking in the natural beauty.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Despite facing setbacks, she remained positive and determined to achieve her goals.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "The scientist conducted experiments and gathered data to support his research hypothesis.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Keep your chin up' is an idiom used to encourage someone to remain cheerful and hopeful in a difficult situation. Sentence C captures this meaning.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 86,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Active Passive Voice",
+    "difficulty": "Easy",
+    "question": "Select the option that expresses the given sentence in passive voice. Perumal has given a challenging assignment to the newly admitted students.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A challenging assignment was given by Perumal to the newly admitted students.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A challenging assignment has been given by Perumal to the newly admitted students.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "A challenging assignment had been given by Perumal to the newly admitted students.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A challenging assignment will have been given by Perumal to the newly admitted students.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The present perfect active 'has given' becomes 'has been given' in the passive voice.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 87,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Spelling Test",
+    "difficulty": "Easy",
+    "question": "Identify the INCORRECTLY spelt word in the following sentence and select its correct spelling from the given options. The remoteness of the location made it difficult for the authoreties to reach out to the people.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "locasion",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "authorities",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "deficult",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "remotness",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The misspelled word is 'authoreties'. The correct spelling is 'authorities'.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 88,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Phrasal Verbs",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate phrasal verb to fill in the blank. The teacher asked the students to _______ their ideas during the class discussion.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "put off",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "get on",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "bring about",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "bring up",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Bring up' means to raise a matter or idea for discussion.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 89,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Cloze Test",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and select the most appropriate option to fill in blank no. 1.\nPassage: He looks out of the window at the (1)________ snow, then turns and takes his wife in his arms, feeling grateful to be here even as he wonders what he is going to do with his life in strictly practical terms.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "dashing",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "blazing",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "praying",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "falling",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'falling' describes the snow logically in this context.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 90,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Cloze Test",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and select the most appropriate option to fill in blank no. 2.\nPassage: For years, he had (2)________ himself to do one thing, and he did it well, but he doesn't know whether he wants to keep doing it for the rest of his life...",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "penalised",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "trained",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "abstained",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "mesmerised",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'trained' is the most suitable verb indicating preparation/practice over years.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 91,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Cloze Test",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and select the most appropriate option to fill in blank no. 3.\nPassage: And as he feels himself falling asleep he has an (3)________ he believes is important, which he hopes he will remember in the morning...",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "implication",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "instance",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "insurance",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "insight",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'insight' means a sudden deep understanding, fitting the context of thoughts before sleep.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 92,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Cloze Test",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and select the most appropriate option to fill in blank no. 4.\nPassage: although it is one of those thoughts that seldom (4)________ translation to the language of daylight hours.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "proliferate",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "install",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "fabricate",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "survive",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'survive' is the only verb that makes sense regarding thoughts surviving translation to day hours.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 93,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "According to the passage, why should the leader generate an emotive impact?\nPassage: Leadership does not exist without followership. A leader has to be accepted by the group which the former is supposed to lead. To gain acceptability, the leader should cause an emotive impact on the group members. The strength of character exhibited by leaders makes them dear to their followers.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "To acquire social knowledge",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "To mould the character of a leader",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "To exhibit the character of his followers",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "To gain acceptance by the members of the group",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The passage states: 'To gain acceptability, the leader should cause an emotive impact on the group members.' Acceptability equals gaining acceptance.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 94,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Which of the following desired qualities of a leader is mentioned in the passage?\nPassage: What character of the leader motivates the followers? It is not pomp and show, neither flattery nor sanctioning more incentives... Simplicity in one’s day- to- day conduct is the only thing that can be adopted by all.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Deified",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Pomp and show",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Flattery",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Simplicity",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The passage highlights 'Simplicity in one's day-to-day conduct' as the desirable quality.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 95,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Select the best summary of the passage?\nPassage: Leadership does not exist without followership... A leader is one who effectively inspires followers to achieve worthwhile things...",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A leader’s style cannot serve as a long-term motivation among the group.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A leader effectively inspires and guides his followers to achieve desired goals.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Motivation is the innate quality that enables an individual to be intellectually strong.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Administrative knowledge is essential for the followers to get success.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage primarily discusses how a leader inspires and connects with followers to achieve goals.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 96,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate synonym of the given word. Emulate",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Relax",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Exhibit",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Imitate",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Suppose",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Emulate means match or surpass, typically by imitation. Synonym is Imitate.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 97,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "What will be given to a child if he gets a good name?\nPassage: Indeed, the contributor argued, a good name will give a child “a start in life equivalent to a cash capital of at least fifteen thousand dollars.”",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A perfect address",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A headstart in life",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "A professional attitude",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A good bank balance",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The text states that a good name gives a child 'a start in life', i.e., a headstart in life.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 98,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Select the most appropriate word in the passage which means ‘pleasing and sweet sound’.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Advantageous",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Euphonic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Outcomes",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Identity",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Euphonic means pleasing or sweet sound.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 99,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "What is the tone of the speaker in the passage?\nPassage: Parents are strangely careless and unscientific in giving names to children... a good name will give a child a start in life...",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Humorous",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Persuasive",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Melancholic",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Sarcastic",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The writer is making a case and arguing to convince parents to name children scientifically. Thus, the tone is persuasive.",
+    "marks": 3,
+    "negativeMarks": 1
+  },
+  {
+    "id": 100,
+    "exam": "SSC CHSL",
+    "year": 2023,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "According to the contributor, the parents are strangely careless and unscientific in giving names to children because ________.\nPassage: Parents are strangely careless and unscientific in giving names to children. They forget that not only from the social point of view it is very advantageous to have one’s name remembered, but that from the business point of view notoriety is capital...",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "they do it without considering the business point of view",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "they do it without discussing it with their relatives and friends",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "they do it without considering the actual meaning of the name",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "they do it without considering the latter’s interest in it",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage says 'They forget that... from the business point of view notoriety is capital'. Hence they name them without considering the business/commercial utility of a memorable name.",
+    "marks": 3,
+    "negativeMarks": 1
+  }
+]

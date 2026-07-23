@@ -78,7 +78,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What is the value of $13 \\times 49$³?",
+    "question": "What is the value of \\(13 \\times 49\\)³?",
     "questionImage": null,
     "options": [
       {
@@ -150,7 +150,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Triangles",
     "difficulty": "Medium",
-    "question": "If DE is parallel to BC, AD : DB = $$$$$$$$$5:13$$$$$$$$$ and the length of EC is 26 cm, then determine the length of AE (in cm).",
+    "question": "If DE is parallel to BC, AD : DB = \\($5:13$\\) and the length of EC is 26 cm, then determine the length of AE (in cm).",
     "questionImage": "ssc_chsl_tier1_paper1_q5.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original triangle diagram from the source document.",
@@ -177,7 +177,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = $$$$$$$$$5:13$$$$$$$$$ and EC = 26 cm, AE = ($\\frac{5}{13}$) × 26 = 10 cm.",
+    "explanation": "Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = $$$$$$$$$$$$5:13$$$$$$$$$$$$ and EC = 26 cm, AE = ($\\frac{5}{13}$) × 26 = 10 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -260,32 +260,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Mixture",
     "difficulty": "Easy",
-    "question": "Two vessels of equal capacity contain juice and water in the ratios $$$$$$$$$5:1$$$$$$$$$ and $$$$$$$$$5:7$$$$$$$$$ respectively. Both mixtures are combined into a bigger vessel. What is the ratio of juice to water in the new mixture?",
+    "question": "Two vessels of equal capacity contain juice and water in the ratios \\($5:1$\\) and \\($5:7$\\) respectively. Both mixtures are combined into a bigger vessel. What is the ratio of juice to water in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$3:2$$$$$$$$$",
+        "text": "\\($3:2$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$5:3$$$$$$$$$",
+        "text": "\\($5:3$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$5:4$$$$$$$$$",
+        "text": "\\($5:4$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$1:2$$$$$$$$$",
+        "text": "\\($1:2$\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Assume each vessel has 12 units. First vessel: Juice = 10, Water = 2. Second vessel: Juice = 5, Water = 7. Combined ratio = $$$$$$$$$15:9$$$$$$$$$ = $$$$$$$$$5:3$$$$$$$$$.",
+    "explanation": "Assume each vessel has 12 units. First vessel: Juice = 10, Water = 2. Second vessel: Juice = 5, Water = 7. Combined ratio = $$$$$$$$$$$$15:9$$$$$$$$$$$$ = $$$$$$$$$$$$5:3$$$$$$$$$$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -296,32 +296,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Mixture",
     "difficulty": "Medium",
-    "question": "In one alloy, aluminium and tin are in the ratio $$$$$$$$$4:5$$$$$$$$$. In another alloy, they are in the ratio $$$$$$$$$4:7$$$$$$$$$. Equal quantities of both alloys are mixed. What is the ratio of aluminium to tin in the new alloy?",
+    "question": "In one alloy, aluminium and tin are in the ratio \\($4:5$\\). In another alloy, they are in the ratio \\($4:7$\\). Equal quantities of both alloys are mixed. What is the ratio of aluminium to tin in the new alloy?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$2:3$$$$$$$$$",
+        "text": "\\($2:3$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$16:35$$$$$$$$$",
+        "text": "\\($16:35$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$4:5$$$$$$$$$",
+        "text": "\\($4:5$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$40:59$$$$$$$$$",
+        "text": "\\($40:59$\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Take 99 units of each alloy. Alloy 1: Aluminium = 44, Tin = 55. Alloy 2: Aluminium = 36, Tin = 63. Combined ratio = $$$$$$$$$80:118$$$$$$$$$ = $$$$$$$$$40:59$$$$$$$$$.",
+    "explanation": "Take 99 units of each alloy. Alloy 1: Aluminium = 44, Tin = 55. Alloy 2: Aluminium = 36, Tin = 63. Combined ratio = $$$$$$$$$$$$80:118$$$$$$$$$$$$ = $$$$$$$$$$$$40:59$$$$$$$$$$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -501,7 +501,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "√(2² + 15²) = √$$$$$$$$$(4 + 225)$$$$$$$$$ = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A.",
+    "explanation": "√(2² + 15²) = √$$$$$$$$$$$$(4 + 225)$$$$$$$$$$$$ = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -573,7 +573,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Relative speed = 84 − 42 = 42 km/hr = $\\frac{35}{3}$ m/s. Total distance to be covered = $$$$$$$$$320 + 380 = 700$$$$$$$$$ m. Time = 700 ÷ ($\\frac{35}{3}$) = 60 seconds.",
+    "explanation": "Relative speed = 84 − 42 = 42 km/hr = $\\frac{35}{3}$ m/s. Total distance to be covered = $$$$$$$$$$$$320 + 380 = 700$$$$$$$$$$$$ m. Time = 700 ÷ ($\\frac{35}{3}$) = 60 seconds.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -649,7 +649,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Adding all expenditure values shown in the pie chart gives $$$$$$$$$450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000$$$$$$$$$ lakhs.",
+    "explanation": "Adding all expenditure values shown in the pie chart gives $$$$$$$$$$$$450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000$$$$$$$$$$$$ lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -761,7 +761,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using Pythagoras' theorem, length = √(29² − 20²) = √441 = 21 cm. Perimeter = 2 × $$$$$$$$$(21 + 20) = 82$$$$$$$$$ cm.",
+    "explanation": "Using Pythagoras' theorem, length = √(29² − 20²) = √441 = 21 cm. Perimeter = 2 × $$$$$$$$$$$$(21 + 20) = 82$$$$$$$$$$$$ cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -844,7 +844,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of ($\\frac{1}{3}$ − cosec 30°)?",
+    "question": "What is the value of (\\(\\frac{1}{3}\\) − cosec 30°)?",
     "questionImage": null,
     "options": [
       {
@@ -854,17 +854,17 @@
       },
       {
         "id": "B",
-        "text": "-$\\frac{1}{2}$",
+        "text": "-\\(\\frac{1}{2}\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "-$\\frac{5}{3}$",
+        "text": "-\\(\\frac{5}{3}\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{3}{2}$",
+        "text": "\\(\\frac{3}{2}\\)",
         "image": null
       }
     ],
@@ -880,7 +880,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "In ΔDEF, ∠E = 90°. If sec D = $\\frac{25}{7}$ and DE = 1.4 cm, then find the length (in cm) of DF.",
+    "question": "In ΔDEF, ∠E = 90°. If sec D = \\(\\frac{25}{7}\\) and DE = 1.4 cm, then find the length (in cm) of DF.",
     "questionImage": "ssc_chsl_tier1_paper1_q25.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original right triangle diagram from the source document.",
@@ -954,7 +954,7 @@
     "subject": "Reasoning",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "In the following question, select the related number from the given alternatives.\n\n$$$$$$$$$5:25$$$$$$$$$ :: 6 : ?",
+    "question": "In the following question, select the related number from the given alternatives.\n\n\\($5:25$\\) :: 6 : ?",
     "questionImage": null,
     "options": [
       {
@@ -1067,27 +1067,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$11 - 144$$$$$$$$$",
+        "text": "\\$(11 - 144$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$13 - 196$$$$$$$$$",
+        "text": "\\$(13 - 196$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$15 - 246$$$$$$$$$",
+        "text": "\\$(15 - 246$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$17 - 324$$$$$$$$$",
+        "text": "\\$(17 - 324$\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The rule is (number + 1)². 11 → 12² = 144, 13 → 14² = 196, 17 → 18² = 324. For 15, $$$$$$$$$(15 + 1)$$$$$$$$$² = 256, not 246. Hence option C is the odd one.",
+    "explanation": "The rule is (number + 1)². 11 → 12² = 144, 13 → 14² = 196, 17 → 18² = 324. For 15, $$$$$$$$$$$$(15 + 1)$$$$$$$$$$$$² = 256, not 246. Hence option C is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1170,7 +1170,7 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the series.\n\n$$$$$$$$$9,13,22,38,63$$$$$$$$$, ?",
+    "question": "Select the missing number from the series.\n\n\\($9,13,22,38,63$\\), ?",
     "questionImage": null,
     "options": [
       {
@@ -1195,7 +1195,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The consecutive squares are added: +2², +3², +4², +5², +6². Therefore, $$$$$$$$$63 + 36 = 99.$$$$$$$$$",
+    "explanation": "The consecutive squares are added: +2², +3², +4², +5², +6². Therefore, $$$$$$$$$$$$63 + 36 = 99.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1267,7 +1267,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = $$$$$$$$$12 + 25$$$$$$$$$ − 1 = 36.",
+    "explanation": "Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = $$$$$$$$$$$$12 + 25$$$$$$$$$$$$ − 1 = 36.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1350,7 +1350,7 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$2 \\times 12 \\div $$$$$$$$32 - 5 + 4 = ?$$$$$$$$$",
+    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$2 \\times 12 \\div \\$(32 - 5 + 4 = ?$\\)",
     "questionImage": null,
     "options": [
       {
@@ -1375,7 +1375,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Replacing the operators gives: 2 − $$$$$$$$$12 + 32$$$$$$$$ \\times 5 \\div 4$ = -$$$$$$$$$10 + 40 = 30.$$$$$$$$$",
+    "explanation": "Replacing the operators gives: 2 − $$$$$$$$$$$$12 + 32$$$$$$$$$$$ \\times 5 \\div 4$ = -$$$$$$$$$$$$10 + 40 = 30.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1386,7 +1386,7 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two mathematical signs should be interchanged to make it correct?\n\n$$$$$$$$$14 + 8$$$$$$$$ \\div $$$$$$$$16 - 9$$$$$$$$ \\times 12 = 10$",
+    "question": "The following equation is incorrect. Which two mathematical signs should be interchanged to make it correct?\n\n\\$(14 + 8$\\) \\div \\$(16 - 9$\\) \\times 12 = 10$",
     "questionImage": null,
     "options": [
       {
@@ -1411,7 +1411,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "After interchanging '+' and '×', the equation becomes $14 \\times 8 \\div 16$ − $$$$$$$$$9 + 12 = 10$$$$$$$$$, which satisfies the equation.",
+    "explanation": "After interchanging '+' and '×', the equation becomes $14 \\times 8 \\div 16$ − $$$$$$$$$$$$9 + 12 = 10$$$$$$$$$$$$, which satisfies the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1642,7 +1642,7 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "In the following question, select the missing number from the given series.\n\n$$$$$$$$$46,45,43,42,40,39$$$$$$$$$, ?",
+    "question": "In the following question, select the missing number from the given series.\n\n\\($46,45,43,42,40,39$\\), ?",
     "questionImage": null,
     "options": [
       {
@@ -1667,7 +1667,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern alternately subtracts 1 and $$$$$$$$$2:46$$$$$$$$$−1=45, 45−2=43, 43−1=42, 42−2=40, 40−1=39, 39−2=37.",
+    "explanation": "The pattern alternately subtracts 1 and $$$$$$$$$$$$2:46$$$$$$$$$$$$−1=45, 45−2=43, 43−1=42, 42−2=40, 40−1=39, 39−2=37.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1813,27 +1813,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$34,58,12,89$$$$$$$$$",
+        "text": "\\($34,58,12,89$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$20,97,41,89$$$$$$$$$",
+        "text": "\\($20,97,41,89$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$99,30,24,87$$$$$$$$$",
+        "text": "\\($99,30,24,87$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$33,88,31,89$$$$$$$$$",
+        "text": "\\($33,88,31,89$\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using the coordinates from Matrix-I and Matrix-II, the encoding for S, A, L and T corresponds to $$$$$$$$$99,30,24,87$$$$$$$$$.",
+    "explanation": "Using the coordinates from Matrix-I and Matrix-II, the encoding for S, A, L and T corresponds to $$$$$$$$$$$$99,30,24,87$$$$$$$$$$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
