@@ -105,6 +105,14 @@ const renderLaTeX = (text, subject = "") => {
 };
 
 export default function ResultCard({ questions, answers, onGoBack, examType, subType }) {
+  React.useEffect(() => {
+    if (window.MathJax && window.MathJax.typesetPromise) {
+      setTimeout(() => {
+        window.MathJax.typesetPromise().catch(err => console.warn('MathJax typesetting warning:', err));
+      }, 100);
+    }
+  }, [questions, answers]);
+
   // 1. Calculate analytical metrics
   let attempted = 0;
   let correct = 0;
@@ -510,23 +518,22 @@ export default function ResultCard({ questions, answers, onGoBack, examType, sub
             const isCorrect = sel !== undefined && sel !== null && sel !== "" && correctIdx === selectedIdx;
             const isUnattempted = sel === undefined || sel === null || sel === "";
 
-            // Only show wrong or unattempted questions in the review list
-            if (isCorrect) return null;
-
             return (
               <div 
                 key={q.question_number}
-                className={`p-6 rounded-xl border ${isUnattempted ? "bg-slate-50/50 border-slate-200" : "bg-red-50/20 border-red-200"}`}
+                className={`p-6 rounded-xl border ${
+                  isCorrect ? "bg-emerald-50/20 border-emerald-200" : isUnattempted ? "bg-slate-50/50 border-slate-200" : "bg-red-50/20 border-red-200"
+                }`}
               >
                 <div className="flex justify-between items-center border-b border-slate-100 pb-3 mb-4">
                   <span className="text-[10px] font-extrabold text-slate-500 uppercase tracking-wider">
                     Question {idx + 1} &bull; {q.section || "General"}
                   </span>
                   <span className={`px-2.5 py-1 rounded-md text-[10px] font-extrabold uppercase tracking-wider flex items-center gap-1 ${
-                    isUnattempted ? "bg-slate-100 text-slate-600" : "bg-red-100 text-red-650"
+                    isCorrect ? "bg-emerald-100 text-emerald-700" : isUnattempted ? "bg-slate-100 text-slate-600" : "bg-red-100 text-red-650"
                   }`}>
-                    {isUnattempted ? <AlertCircle size={10} /> : <XCircle size={10} />}
-                    {isUnattempted ? "Unattempted" : "Incorrect"}
+                    {isCorrect ? <CheckCircle size={10} /> : isUnattempted ? <AlertCircle size={10} /> : <XCircle size={10} />}
+                    {isCorrect ? "Correct" : isUnattempted ? "Unattempted" : "Incorrect"}
                   </span>
                 </div>
 

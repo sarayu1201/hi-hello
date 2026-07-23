@@ -29,7 +29,7 @@ const renderLaTeX = (text, subject = "") => {
       const rows = tableData.rows || [];
 
       return (
-        <div className="space-y-4 text-slate-900">
+        <div className="space-y-4 mathjax-process text-slate-900">
           <div>{beforeTable}</div>
           <div className="overflow-x-auto my-4 max-w-md mx-auto">
             <table className="min-w-full border-collapse border border-slate-300 rounded-lg overflow-hidden text-center shadow-sm">
@@ -63,7 +63,7 @@ const renderLaTeX = (text, subject = "") => {
     }
   }
 
-  return <span>{text}</span>;
+  return <span className="mathjax-process">{text}</span>;
 };
 
 // Helper to reconstruct questions list for past attempts if they don't contain it
@@ -249,7 +249,7 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
     };
     timer = setTimeout(runTypeset, 100);
     return () => clearTimeout(timer);
-  }, [selectedAttemptId, attemptHistory, activeQuestions.length]);
+  }, [selectedAttemptId, attemptHistory, activeQuestions]);
 
   const activeAttempt = attemptHistory.find(a => a.id === selectedAttemptId) || attemptHistory[0];
   const activeQuestions = activeAttempt ? reconstructAttemptQuestions(activeAttempt) : [];

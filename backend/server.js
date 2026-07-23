@@ -2602,9 +2602,11 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     }
 
     return finalQuestions.map(q => {
+      const qText = q.question_text || q.q || q.question || "";
       return {
         ...q,
-        q: q.question || q.question_text || q.q,
+        q: qText,
+        question_text: qText,
         options: q.options || [],
         correct_answer: q.correctAnswer || q.correct_answer || "A",
         section: q.section || q.subject || "General Intelligence and Reasoning"
