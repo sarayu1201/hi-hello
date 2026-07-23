@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "validate": "python QuestionBank/python/validate_json.py",
-    "build": "python QuestionBank/python/validate_json.py && echo 'No build required for backend'",
+    "build": "python QuestionBank/python/validate_json.py && cd frontend && yarn install && yarn build && mv dist ../dist",
     "start": "node backend/server.js"
   },
   "dependencies": {
