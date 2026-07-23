@@ -2414,14 +2414,18 @@ export default function Courses({ user, setUser, requestAuth, selectedCategory, 
           questions: questions.map((q, idx) => ({
             question_number: idx + 1,
             question_text: q.q || q.question_text || "",
+            question_image: q.question_image || "",
             options: (q.options || []).map((opt, oIdx) => ({
               id: String.fromCharCode(65 + oIdx),
-              text: typeof opt === 'object' && opt.text ? opt.text : opt
+              text: typeof opt === 'object' && opt.text ? opt.text : opt,
+              image: typeof opt === 'object' && opt.image ? opt.image : null
             })),
             correct_answer: q.correct_answer || String.fromCharCode(65 + (q.correct !== undefined ? q.correct : 0)),
+            correct: q.correct !== undefined ? q.correct : 0,
             exam_type: q.exam_type || "SSC", // Fallback to SSC pattern if not predefined
             sub_type: q.sub_type || "Topic Quiz",
-            section: q.section || ""
+            section: q.section || "",
+            explanation: q.explanation || ""
           }))
         };
 

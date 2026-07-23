@@ -1278,14 +1278,11 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
                     <button
                       key={q.question_number}
                       onClick={() => {
-                        if (idx <= currentQuestionIdx) {
-                          jumpToQuestion(idx);
-                        }
+                        jumpToQuestion(idx);
                       }}
-                      disabled={idx > currentQuestionIdx}
                       className={`w-9 h-9 md:w-10 md:h-10 rounded-lg text-xs font-bold flex items-center justify-center transition-all border ${bgClass} ${
                         isCurrent ? "ring-2 ring-blue-500 border-blue-400 scale-[1.05]" : ""
-                      } ${idx > currentQuestionIdx ? "opacity-35 cursor-not-allowed" : ""}`}
+                      }`}
                     >
                       {idx + 1}
                     </button>
