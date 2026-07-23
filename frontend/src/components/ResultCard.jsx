@@ -598,7 +598,7 @@ export default function ResultCard({ questions, answers, onGoBack, examType, sub
 
                 {/* Explanation Block */}
                 {q.explanation && (
-                  <div className="mt-4 p-4 bg-blue-50/40 border border-blue-100 rounded-lg text-xs leading-relaxed text-slate-700">
+                  <div className="mt-4 p-4 bg-blue-50/40 border border-blue-100 rounded-lg text-xs leading-relaxed text-slate-700 mathjax-process">
                     <strong className="text-blue-900 block mb-1">💡 Explanation & Solution:</strong>
                     {stripLaTeX(q.explanation)}
                   </div>

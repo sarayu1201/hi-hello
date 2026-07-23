@@ -70,7 +70,7 @@ const renderLaTeX = (text, subject = "") => {
       const rows = tableData.rows || [];
 
       return (
-        <div className="space-y-4 text-slate-900">
+        <div className="space-y-4 mathjax-process text-slate-900">
           <div>{beforeTable}</div>
           <div className="overflow-x-auto my-4 max-w-md mx-auto">
             <table className="min-w-full border-collapse border border-slate-300 rounded-lg overflow-hidden text-center shadow-sm">
@@ -104,7 +104,7 @@ const renderLaTeX = (text, subject = "") => {
     }
   }
 
-  return <span>{text}</span>;
+  return <span className="mathjax-process">{text}</span>;
 };
 
 const getSectionTimeLimit = (examType) => {

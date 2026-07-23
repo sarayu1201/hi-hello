@@ -798,7 +798,7 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
                                 })}
                               </div>
                               {q.explanation && (
-                                <div style={{ marginTop: '14px', paddingTop: '10px', borderTop: '1px dashed var(--border)', fontSize: '13px', color: 'var(--text)', opacity: 0.95, lineHeight: '1.4' }}>
+                                <div className="mathjax-process" style={{ marginTop: '14px', paddingTop: '10px', borderTop: '1px dashed var(--border)', fontSize: '13px', color: 'var(--text)', opacity: 0.95, lineHeight: '1.4' }}>
                                    <strong>💡 Explanation:</strong> {stripLaTeX(q.explanation)}
                                 </div>
                               )}
