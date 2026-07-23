@@ -138,6 +138,8 @@ def to_latex(text):
         return text
         
     text = str(text)
+    if "$" in text:
+        return text
     
     # 1. Mixed fractions like "11 1 9%" or "11 1/9%" or "33 1/3%"
     # e.g., "11 1 9%" -> "$11 \frac{1}{9}\%$"

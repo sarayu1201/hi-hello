@@ -12,27 +12,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$800\\\\$",
+        "text": "800",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$799\\\\$",
+        "text": "799",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$810\\\\$",
+        "text": "810",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$795\\\\$",
+        "text": "795",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n64% of the number = \\\\$$\\\\$\\\\$$64 * 12.5 = 800.$$$$\\\\$",
+    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n$64% of the number = 64 * 12.5 = 800$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "Calculate the value of (5^($\\frac{1}{4}$) - 1)(5^($\\frac{3}{4}$) + 5^($\\frac{2}{4}$) + 5^($\\frac{1}{4}$) + 1)",
+    "question": "$Calculate the value of (5^(frac{1}{4}) - 1)(5^(frac{3}{4}) + 5^(frac{2}{4}) + 5^(frac{1}{4}) + 1)$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$2\\\\$",
+        "text": "2",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$4\\\\$",
+        "text": "4",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$14\\\\$",
+        "text": "14",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$3\\\\$",
+        "text": "3",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let 5^($\\frac{1}{4}$) = x. \nExpression = (x - 1)(x^3 + x^2 + x + 1) = x^$$\\\\$\\\\$$4 - 1 = (5$\\\\$\\\\$$$^($\\frac{1}{4}$))^$$\\\\$\\\\$$4 - 1 = 5 - 1 = 4.$$$\\$\\$",
+    "explanation": "$Let 5^(frac{1}{4}) = x$.\n$Expression = (x - 1)(x^3 + x^2 + x + 1) = x^4 - 1 = (5^(frac{1}{4}))^4 - 1 = 5 - 1 = 4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,32 +81,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "Find 'x' if sqrt$$$$$$(2 + 7$\\\\$\\\\$$\\$\\$x) = sqrt(3x + 4)",
+    "question": "$Find 'x' if sqrt(2 + 7x) = sqrt(3x + 4)$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$0\\\\$",
+        "text": "0",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$-2\\\\$",
+        "text": "-$2$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$-1\\\\$",
+        "text": "-$1$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$10\\\\$",
+        "text": "10",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Squaring both sides: \\\\$$\\\\$\\\\$$2 + 7$\\\\$\\\\$$\\$x = 3x + 4 => 4x = 2 => x = 0.5.",
+    "explanation": "$Squaring both sides: 2 + 7x = 3x + 4 => 4x = 2 => x = 0.5$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -123,27 +123,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$21\\\\$",
+        "text": "21",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$31\\\\$",
+        "text": "31",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$27\\\\$",
+        "text": "27",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$26\\\\$",
+        "text": "26",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the two consecutive even numbers be x and (x + 2).\nx(x + 2) = 168 => x^$$\\\\$\\\\$$2 + 2$\\\\$\\\\$$$x - 168 = 0 => (x + 14)(x - 12) = 0.\nSince x must be positive, x = 12. The numbers are 12 and 14.\nSum = \\\\$$\\\\$\\\\$$12 + 14 = 26.$$$$\\\\$",
+    "explanation": "Let the two consecutive even numbers be x and (x + 2).\n$x(x + 2) = 168 => x^2 + 2x - 168 = 0 => (x + 14)(x - 12) = 0$.\nSince x must be positive, x = 12. The numbers are 12 and 14.\n$Sum = 12 + 14 = 26$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -155,12 +155,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=$\\frac{1}{6}\\\\$ AB and AE=$\\frac{1}{6}\\\\$ AC. If the value of BC is 18 cm then calculate the value of DE (in cm).",
+    "question": "$A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=frac{1}{6} AB and AE=frac{1}{6} AC. If the value of BC is 18 cm then calculate the value of DE (in cm)$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$4cm\\$",
+        "text": "$4cm$",
         "image": null
       },
       {
@@ -170,17 +170,17 @@
       },
       {
         "id": "C",
-        "text": "\\\\$5cm\\$",
+        "text": "$5cm$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$8cm\\$",
+        "text": "$8cm$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\nAD/AB = DE/BC => \\\\$\\frac{1}{6}\\\\$ = DE/18 => DE = 3 cm.",
+    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\n$AD/AB = DE/BC => frac{1}{6} = DE/18 => DE = 3 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -229,22 +229,22 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The value of \\\\$a\\\\$ car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value (in Rs) of the car 2 years ago?",
+    "question": "The value of $a$ car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value (in Rs) of the car 2 years ago?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$599998Rs6,00,000\\\\$",
+        "text": "$599998Rs6,00,000$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$600001Rs6,00,000\\\\$",
+        "text": "$600001Rs6,00,000$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$600005Rs6,00,000\\\\$",
+        "text": "$600005Rs6,00,000$",
         "image": null
       },
       {
@@ -254,7 +254,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the value 2 years ago be x. \nx * (1 - \\\\$\\frac{15}{100}\\$)^2 = 433500\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
+    "explanation": "Let the value 2 years ago be x. \n$x * (1 - frac{15}{100})^2 = 433500$\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,32 +266,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "If A : B : C = \\\\$$$\\\\$\\\\$$2:3$\\\\$\\\\$$$\\\\$ : 5 and C : D = \\\\$$$\\\\$\\\\$$2:5$\\\\$\\\\$$$\\$, then what is A : D?",
+    "question": "$If A : B : C = 2:3 : 5 and C : D = 2:5, then what is A : D?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$$$\\\\$\\\\$$4:25$\\\\$\\\\$$$\\\\$",
+        "text": "$4:25$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$\\\\$\\\\$$8:21$\\\\$\\\\$$$\\\\$",
+        "text": "$8:21$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$$$\\\\$\\\\$$6:25$\\\\$\\\\$$$\\\\$",
+        "text": "$6:25$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$$$\\\\$\\\\$$12:35$\\\\$\\\\$$$\\\\$",
+        "text": "$12:35$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "To make C common: Multiply A:B:C = \\\\$$\\\\$\\\\$$2:3$\\\\$\\\\$$$:5 by 2 => A:B:C = \\\\$$\\\\$\\\\$$4:6$\\\\$\\\\$$$:10. \nMultiply C:D = \\\\$$\\\\$\\\\$$2:5$\\\\$\\\\$$\\\\$ by 5 => C:D = \\\\$$\\\\$\\\\$$10:25$\\\\$\\\\$$$. \nTherefore, A : D = \\\\$$\\\\$\\\\$$4:25$\\\\$\\\\$$$.",
+    "explanation": "$To make C common: Multiply A:B:C = 2:3:5 by 2 => A:B:C = 4:6:10$.\n$Multiply C:D = 2:5 by 5 => C:D = 10:25$.\nTherefore, $A : D = 4:25$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -303,32 +303,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Easy",
-    "question": "In a mixture of 35 litres, the ratio of water and acid is \\\\$$$\\\\$\\\\$$6:1$\\\\$\\\\$$$\\$. If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
+    "question": "In a mixture of 35 litres, the ratio of water and acid is $6:1$. If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$$$\\\\$\\\\$$5:2$\\\\$\\\\$$$\\\\$",
+        "text": "$5:2$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$\\\\$\\\\$$4:1$\\\\$\\\\$$$\\\\$",
+        "text": "$4:1$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$$$\\\\$\\\\$$3:1$\\\\$\\\\$$$\\\\$",
+        "text": "$3:1$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$$$\\\\$\\\\$$6:5$\\\\$\\\\$$$\\\\$",
+        "text": "$6:5$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Original Water = 35 * \\\\$\\frac{6}{7}\\\\$ = 30 litres. Original Acid = \\\\$$\\\\$\\\\$$35 - 30 = 5$\\\\$\\\\$$\\\\$ litres.\nAdding 5 litres of acid: new acid = 10 litres.\nNew ratio of water and acid = \\\\$$\\\\$\\\\$$30:10$\\\\$\\\\$$\\\\$ = \\\\$$\\\\$\\\\$$3:1$\\\\$\\\\$$\\$.",
+    "explanation": "$Original Water = 35 * frac{6}{7} = 30 litres. Original Acid = 35 - 30 = 5 litres$.\nAdding 5 litres of acid: new acid = 10 litres.\n$New ratio of water and acid = 30:10 = 3:1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -345,17 +345,17 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$168Rs\\$",
+        "text": "$168Rs$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$174Rs\\$",
+        "text": "$174Rs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$163Rs\\$",
+        "text": "$163Rs$",
         "image": null
       },
       {
@@ -365,7 +365,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total savings in 5 days = \\\\$$\\\\$\\\\$$5 * 160$\\\\$\\\\$$\\\\$ = Rs 800. \nSavings in first 4 days = \\\\$$\\\\$\\\\$$155 + 170 + 134 + 168$\\\\$\\\\$$\\\\$ = Rs 627. \nSaving of 5th day = \\\\$$\\\\$\\\\$$800 - 627$\\\\$\\\\$$\\\\$ = Rs 173.",
+    "explanation": "$Total savings in 5 days = 5 * 160 = Rs 800$.\n$Savings in first 4 days = 155 + 170 + 134 + 168 = Rs 627$.\nSaving of 5th day = 800 - 627 = Rs 173.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -387,22 +387,22 @@
       },
       {
         "id": "B",
-        "text": "\\\\$6996Rs\\$",
+        "text": "$6996Rs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$7008Rs\\$",
+        "text": "$7008Rs$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$7000Rs\\$",
+        "text": "$7000Rs$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Amount = P(1 + R/100)^T = 6000 * (1 + \\\\$\\frac{8}{100}$)^2 = 6000 * (1.08)^2 = \\\\$$\\\\$\\\\$$6000 * 1.1664$\\\\$\\\\$\\$\\\\$ = Rs 6998.4.",
+    "explanation": "$Amount = P(1 + R/100)^T = 6000 * (1 + frac{8}{100})^2 = 6000 * (1.08)^2 = 6000 * 1.1664 = Rs 6998.4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "SP = CP * (1 + Profit%/100) = 122 + ($\\frac{56}{100}$)*122 = \\\\$$\\\\$\\\\$$122 + 68.32$\\\\$\\\\$$\\\\$ = Rs 190.32.",
+    "explanation": "$SP = CP * (1 + Profit%/100) = 122 + (frac{56}{100})*122 = 122 + 68.32 = Rs 190.32$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -451,32 +451,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "On Selling a watch at \\\\$\\frac{4}{5}\\\\$ of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
+    "question": "On Selling a watch at $frac{4}{5}$ of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$$$\\\\$\\\\$$6:5$\\\\$\\\\$$$\\\\$",
+        "text": "$6:5$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$\\\\$\\\\$$5:3$\\\\$\\\\$$$\\\\$",
+        "text": "$5:3$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$$$\\\\$\\\\$$10:7$\\\\$\\\\$$$\\\\$",
+        "text": "$10:7$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$$$\\\\$\\\\$$7:5$\\\\$\\\\$$$\\\\$",
+        "text": "$7:5$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \nRatio of MP to CP = 50x : 125x/3 = \\\\$$\\\\$\\\\$$150:125$\\\\$\\\\$$\\\\$ = \\\\$$\\\\$\\\\$$6:5$\\\\$\\\\$$\\$.",
+    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \n$Ratio of MP to CP = 50x : 125x/3 = 150:125 = 6:5$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,32 +488,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What is the positive square root of [\\$$$$$(19 + 4$\\\\$\\\\$$\\$\\$√21]?",
+    "question": "$What is the positive square root of [(19 + 4√21]?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "√\\$$$$$(7 + 2$\\\\$\\\\$$\\$\\$√3",
+        "text": "$√(7 + 2√3$",
         "image": null
       },
       {
         "id": "B",
-        "text": "√\\$$$$$(3 + 2$\\\\$\\\\$$\\$\\$√7",
+        "text": "$√(3 + 2√7$",
         "image": null
       },
       {
         "id": "C",
-        "text": "√\\$$$$$(2 + 3$\\\\$\\\\$$\\$\\$√7",
+        "text": "$√(2 + 3√7$",
         "image": null
       },
       {
         "id": "D",
-        "text": "√\\$$$$$(7 + 3$\\\\$\\\\$$\\$\\$√3",
+        "text": "$√(7 + 3√3$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = \\\\$$\\\\$\\\\$$19 + 4$\\\\$\\\\$$$√21 = \\\\$$\\\\$\\\\$$7 + 12 + 2$\\\\$\\\\$$\\\\$ * √7 * √12 = (√7 + √12)^2.\nSquare root = √7 + √12 = √$$\\\\$\\\\$$7 + 2$\\\\$\\\\$$\\$√3.",
+    "explanation": "$Expression = 19 + 4√21 = 7 + 12 + 2 * √7 * √12 = (√7 + √12)^2$.\n$Square root = √7 + √12 = √7 + 2√3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -530,27 +530,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$\\frac{112}{17}\\\\$",
+        "text": "$frac{112}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$\\frac{125}{12}\\\\$",
+        "text": "$frac{125}{12}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$\\frac{115}{12}\\\\$",
+        "text": "$frac{115}{12}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$\\frac{125}{17}\\\\$",
+        "text": "$frac{125}{17}$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "18 men = 25 boys => 1 man = \\\\$\\frac{25}{18}\\\\$ boys. \n36 men + 10 boys = 36*($\\frac{25}{18}$) + 10 = \\\\$$\\\\$\\\\$$50 + 10 = 60$\\\\$\\\\$$\\\\$ boys. \nSince 25 boys take 25 days, 60 boys take \\\\$$$\\$$(25 * 25) / 60$\\\\$\\\\$\\$\\\\$ = \\\\$\\frac{125}{12}\\\\$ days.",
+    "explanation": "$18 men = 25 boys => 1 man = frac{25}{18} boys$.\n$36 men + 10 boys = 36*(frac{25}{18}) + 10 = 50 + 10 = 60 boys$.\n$Since 25 boys take 25 days, 60 boys take (25 * 25) / 60 = frac{125}{12} days$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -567,17 +567,17 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$170km/hr\\$",
+        "text": "$170km/hr$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$181km/hr\\$",
+        "text": "$181km/hr$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$185km/hr\\$",
+        "text": "$185km/hr$",
         "image": null
       },
       {
@@ -587,7 +587,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Speed = 450 m / 9 s = 50 m/s. \nSpeed in km/hr = 50 * \\\\$\\frac{18}{5}\\\\$ = 180 km/hr.",
+    "explanation": "Speed = 450 m / 9 s = 50 m/s. \n$Speed in km/hr = 50 * frac{18}{5} = 180 km/hr$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$3990\\\\$",
+        "text": "3990",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$3995\\\\$",
+        "text": "3995",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$4000\\\\$",
+        "text": "4000",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$4010\\\\$",
+        "text": "4010",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total elephants = \\\\$$\\\\$\\\\$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$$\\\\$",
+    "explanation": "$Total elephants = 600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,12 +678,12 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$41°\\$",
+        "text": "$41°$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$26°\\$",
+        "text": "$26°$",
         "image": null
       },
       {
@@ -693,12 +693,12 @@
       },
       {
         "id": "D",
-        "text": "\\\\$37°\\$",
+        "text": "$37°$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Number of elephants in D = 400. Total = 4000. \nRequired central angle = ($\\frac{400}{4000}$) * 360° = 36°.",
+    "explanation": "Number of elephants in D = 400. Total = 4000. \n$Required central angle = (frac{400}{4000}) * 360° = 36°$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -715,17 +715,17 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$13lakhs\\$",
+        "text": "$13lakhs$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$14lakhs\\$",
+        "text": "$14lakhs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$10lakhs\\$",
+        "text": "$10lakhs$",
         "image": null
       },
       {
@@ -735,7 +735,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\nTotal monthly expense = \\\\$$\\\\$\\\\$$40 * 30$\\\\$\\\\$$\\$,000 = Rs 12,00,000 = 12 lakhs.",
+    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\n$Total monthly expense = 40 * 30,000 = Rs 12,00,000 = 12 lakhs$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -752,27 +752,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$64\\\\$",
+        "text": "64",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$52\\\\$",
+        "text": "52",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$54\\\\$",
+        "text": "54",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$44\\\\$",
+        "text": "44",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Area of trapezium = \\\\$\\frac{1}{2}\\\\$ * (sum of parallel sides) * height = \\\\$\\frac{1}{2}\\\\$ * \\\\$$$\\$$(8 + 10) * 6 = 9 * 6 = 54$\\\\$\\\\$\\$\\\\$ cm^2.",
+    "explanation": "$Area of trapezium = frac{1}{2} * (sum of parallel sides) * height = frac{1}{2} * (8 + 10) * 6 = 9 * 6 = 54 cm^2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -789,7 +789,7 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$32cm\\$",
+        "text": "$32cm$",
         "image": null
       },
       {
@@ -799,17 +799,17 @@
       },
       {
         "id": "C",
-        "text": "\\\\$12cm\\$",
+        "text": "$12cm$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$17cm\\$",
+        "text": "$17cm$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Circumference = 2 * pi * r = pi * d = ($\\frac{22}{7}$) * 7 = 22 cm.",
+    "explanation": "$Circumference = 2 * pi * r = pi * d = (frac{22}{7}) * 7 = 22 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -863,12 +863,12 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$$$$$(7 / 2$\\\\$\\\\$$\\$\\$√3",
+        "text": "$(7 / 2√3$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$$$$(1 + 2$\\\\$\\\\$$$\\$√3)/2",
+        "text": "$(1 + 2√3)/2$",
         "image": null
       },
       {
@@ -878,12 +878,12 @@
       },
       {
         "id": "D",
-        "text": "(√\\$$$$$(3 + 4)/2$\\\\$\\\\$$\\$\\$",
+        "text": "$(√(3 + 4)/2$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\ncos F + √3 = cos(60°) + √3 = \\\\$\\frac{1}{2}\\\\$ + √3 = \\\\$$$$$(1 + 2$\\\\$\\\\$$\\$√3)/2.",
+    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\n$cos F + √3 = cos(60°) + √3 = frac{1}{2} + √3 = (1 + 2√3)/2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔDEF is right angled at E. If sinD = \\\\$\\frac{15}{17}\\$, then what is the value of cotF ?",
+    "question": "$ΔDEF is right angled at E. If sinD = frac{15}{17}, then what is the value of cotF ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$\\frac{15}{17}\\\\$",
+        "text": "$frac{15}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$\\frac{8}{17}\\\\$",
+        "text": "$frac{8}{17}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$\\frac{15}{8}\\\\$",
+        "text": "$frac{15}{8}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$\\frac{17}{15}\\\\$",
+        "text": "$frac{17}{15}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "sin D = EF / DF = \\\\$\\frac{15}{17}$. Let EF = 15, DF = 17.\nDE = sqrt(DF^2 - EF^2) = sqrt$$$$$(289 - 225)$$$$\\\\$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\\\$\\frac{15}{8}\\$.",
+    "explanation": "$sin D = EF / DF = frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt(289 - 225) = sqrt(64) = 8.\n$cot F = Adjacent / Opposite = EF / DE = frac{15}{8}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,32 +969,32 @@
     "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number pair from the given alternatives.\n \\\\$$$\\\\$\\\\$$16:48$\\\\$\\\\$$$\\\\$ : : ? : ?",
+    "question": "Select the related number pair from the given alternatives.\n $16:48$ : : ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$$$\\\\$\\\\$$25:75$\\\\$\\\\$$$\\\\$",
+        "text": "$25:75$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$\\\\$\\\\$$11:32$\\\\$\\\\$$$\\\\$",
+        "text": "$11:32$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$$$\\\\$\\\\$$25:64$\\\\$\\\\$$$\\\\$",
+        "text": "$25:64$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$$$\\\\$\\\\$$49:72$\\\\$\\\\$$$\\\\$",
+        "text": "$49:72$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The relationship is n : 3n. \\\\$$\\\\$\\\\$$16 * 3 = 48.$$$$\\\\$ Similarly, \\\\$$\\\\$\\\\$$25 * 3 = 75.$$$$\\$",
+    "explanation": "$The relationship is n : 3n. 16 * 3 = 48. Similarly, 25 * 3 = 75$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$$$$$(7 - 14$\\\\$\\\\$$\\$\\$",
+        "text": "$(7 - 14$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$$$$$(11 - 22$\\\\$\\\\$$\\$\\$",
+        "text": "$(11 - 22$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$$$$$(5 - 10$\\\\$\\\\$$\\$\\$",
+        "text": "$(5 - 10$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$$$$$(3 - 8$\\\\$\\\\$$\\$\\$",
+        "text": "$(3 - 8$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all options except D, the second number is exactly double of the first number. In option D, \\\\$$\\\\$\\\\$$3 * 2 = 6$\\\\$\\\\$$\\\\$ (not 8).",
+    "explanation": "$In all options except D, the second number is exactly double of the first number. In option D, 3 * 2 = 6 (not 8)$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1191,32 +1191,32 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n \\\\$$$\\\\$\\\\$$14,19,26,37,50,67$\\\\$\\\\$$$\\$, ?",
+    "question": "Select the missing number from the given series.\n $14,19,26,37,50,67$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$85\\\\$",
+        "text": "85",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$84\\\\$",
+        "text": "84",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$86\\\\$",
+        "text": "86",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$81\\\\$",
+        "text": "81",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Consecutive prime numbers are added to each term:  \\\\$$\\\\$\\\\$$14 + 5 = 19$\\\\$\\\\$$\\\\$  \\\\$$\\\\$\\\\$$19 + 7 = 26$\\\\$\\\\$$\\\\$  \\\\$$\\\\$\\\\$$26 + 11 = 37$\\\\$\\\\$$\\\\$  \\\\$$\\\\$\\\\$$37 + 13 = 50$\\\\$\\\\$$\\\\$  \\\\$$\\\\$\\\\$$50 + 17 = 67$\\\\$\\\\$$\\\\$  \\\\$$\\\\$\\\\$$67 + 19 = 86.$$$$\\\\$",
+    "explanation": "$Consecutive prime numbers are added to each term:  14 + 5 = 19  19 + 7 = 26  26 + 11 = 37  37 + 13 = 50  50 + 17 = 67  67 + 19 = 86$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,32 +1413,32 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n \\\\$$$\\\\$\\\\$$133,136,139,142$\\\\$\\\\$$$\\$, ?, 148",
+    "question": "Select the missing number from the given series.\n $133,136,139,142$, ?, 148",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$135\\\\$",
+        "text": "135",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$145\\\\$",
+        "text": "145",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$144\\\\$",
+        "text": "144",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$147\\\\$",
+        "text": "147",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern is adding 3 (+3) to each term: \\\\$$\\\\$\\\\$$142 + 3 = 145.$$$$\\\\$",
+    "explanation": "$The pattern is adding 3 (+3) to each term: 142 + 3 = 145$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In options A, B, and C, the pattern is (x, x + 4, x + 8). In option D, \\\\$$\\\\$\\\\$$64 + 8 = 72$\\\\$\\\\$$\\\\$ (not 70), so (64, 68, 70) is the odd one.",
+    "explanation": "$In options A, B, and C, the pattern is (x, x + 4, x + 8). In option D, 64 + 8 = 72 (not 70), so (64, 68, 70) is the odd one$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1487,32 +1487,32 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n\\$$$$$(20 + 6$\\\\$\\\\$$$\\\\$ x \\\\$5 \\div \\$$$$$(20 - 14 = ?$$$$$\\\\$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\\\$20\\\\$",
+        "text": "20",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$8\\\\$",
+        "text": "8",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$18\\\\$",
+        "text": "18",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$23\\\\$",
+        "text": "23",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Decoding the expression gives: \\\\$$\\\\$\\\\$$20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18.$$$$\\\\$",
+    "explanation": "$Decoding the expression gives: 20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1524,7 +1524,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$$$$$(19 - 16 + 5$\\\\$\\\\$$\\$\\\\$ \\div 10\\\\$ x 2 = 28",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(19 - 16 + 5 \\div 10 x 2 = 28$",
     "questionImage": null,
     "options": [
       {
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Interchanging '÷' and 'x' gives: \\\\$$\\\\$\\\\$$19 - 16 + 5 * 10 / 2 = 3 + 25 = 28.$$\\$\\$\\\\$ This balances the equation.",
+    "explanation": "$Interchanging '÷' and 'x' gives: 19 - 16 + 5 * 10 / 2 = 3 + 25 = 28. This balances the equation$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1566,27 +1566,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$95\\\\$",
+        "text": "95",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$100\\\\$",
+        "text": "100",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$102\\\\$",
+        "text": "102",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$90\\\\$",
+        "text": "90",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The operation is: a & b = (a + b) * 10. Thus, 5&5 = \\\\$$$$$(5 + 5) * 10 = 100.$$$$\\$",
+    "explanation": "$The operation is: a & b = (a + b) * 10. Thus, 5&5 = (5 + 5) * 10 = 100$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\\\$$$\\\\$\\\\$$44,34,68,10$\\\\$\\\\$$$\\\\$",
+        "text": "$44,34,68,10$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\\\$$$\\\\$\\\\$$11,89,13,77$\\\\$\\\\$$$\\\\$",
+        "text": "$11,89,13,77$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\\\$$$\\\\$\\\\$$20,88,11,86$\\\\$\\\\$$$\\\\$",
+        "text": "$20,88,11,86$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\\\$$$\\\\$\\\\$$42,67,12,89$\\\\$\\\\$$$\\\\$",
+        "text": "$42,67,12,89$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So \\\\$$\\\\$\\\\$$44,34,68,10$\\\\$\\\\$$\\\\$ represents 'HIND'.",
+    "explanation": "$Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So 44,34,68,10 represents 'HIND'$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
+    "question": "Instructions [$(63 - 67$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
+    "question": "Instructions [$(63 - 67$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
+    "question": "Instructions [$(63 - 67$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
+    "question": "Instructions [$(63 - 67$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
+    "question": "Instructions [$(63 - 67$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
     "questionImage": null,
     "options": [
       {
