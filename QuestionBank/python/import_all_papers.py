@@ -167,8 +167,7 @@ def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
     return "General"
 
 def to_latex(text):
-    if not text:
-        return text
+    return text
         
     text = str(text)
     
