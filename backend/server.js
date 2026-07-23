@@ -2432,6 +2432,70 @@ const getSectionName = (category, qNum, qObj = null) => {
   }
 };
 
+const mapTestIdToSubtype = (testId) => {
+  if (!testId) return testId;
+  const lower = testId.toLowerCase();
+  
+  if (lower.startsWith("ssc_cgl_prelims_test")) {
+    const num = lower.replace("ssc_cgl_prelims_test", "");
+    return `SSC CGL Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ssc_cgl_mains_test")) {
+    const num = lower.replace("ssc_cgl_mains_test", "");
+    return `SSC CGL Mains - Test ${num}`;
+  }
+  if (lower.startsWith("ssc_chsl_prelims_test")) {
+    const num = lower.replace("ssc_chsl_prelims_test", "");
+    return `SSC CHSL Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ssc_chsl_mains_test")) {
+    const num = lower.replace("ssc_chsl_mains_test", "");
+    return `SSC CHSL Mains - Test ${num}`;
+  }
+  if (lower.startsWith("sbi_clerk_prelims_test")) {
+    const num = lower.replace("sbi_clerk_prelims_test", "");
+    return `SBI Clerk Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("sbi_po_prelims_test")) {
+    const num = lower.replace("sbi_po_prelims_test", "");
+    return `SBI PO Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ibps_po_prelims_test")) {
+    const num = lower.replace("ibps_po_prelims_test", "");
+    return `IBPS PO Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ibps_clerk_prelims_test")) {
+    const num = lower.replace("ibps_clerk_prelims_test", "");
+    return `IBPS Clerk Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("rrb_ntpc_cbt_1_test")) {
+    const num = lower.replace("rrb_ntpc_cbt_1_test", "");
+    return `RRB NTPC CBT 1 - Test ${num}`;
+  }
+  if (lower.startsWith("rrb_ntpc_cbt_2_test")) {
+    const num = lower.replace("rrb_ntpc_cbt_2_test", "");
+    return `RRB NTPC CBT 2 - Test ${num}`;
+  }
+  if (lower.startsWith("ibps_rrb_clerk_prelims_test")) {
+    const num = lower.replace("ibps_rrb_clerk_prelims_test", "");
+    return `IBPS RRB Clerk Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ibps_rrb_po_prelims_test")) {
+    const num = lower.replace("ibps_rrb_po_prelims_test", "");
+    return `IBPS RRB PO Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("rrb_gd_prelims_test")) {
+    const num = lower.replace("rrb_gd_prelims_test", "");
+    return `RRB GD Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ssc_gd_constable_prelims_test")) {
+    const num = lower.replace("ssc_gd_constable_prelims_test", "");
+    return `SSC GD Constable Prelims - Test ${num}`;
+  }
+  
+  return testId;
+};
+
 const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null) => {
   let category = "Bank & Insurance";
   const typeLower = String(exam_type || "").toLowerCase();
@@ -2445,6 +2509,27 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     category = "UPSC / Civil";
   } else if (typeLower.includes("state") || typeLower.includes("appsc") || typeLower.includes("tspsc")) {
     category = "State Exams";
+  }
+
+  // Resolve all variation representations of course and test identifiers
+  let resolvedCourseNames = [exam_type];
+  if (exam_type) {
+    const courseLower = exam_type.toLowerCase();
+    if (!resolvedCourseNames.includes(courseLower)) resolvedCourseNames.push(courseLower);
+    const courseUnderscore = courseLower.replace(/\s+/g, "_");
+    if (!resolvedCourseNames.includes(courseUnderscore)) resolvedCourseNames.push(courseUnderscore);
+    const courseSpace = courseLower.replace(/_/g, " ");
+    if (!resolvedCourseNames.includes(courseSpace)) resolvedCourseNames.push(courseSpace);
+  }
+
+  let resolvedSubTypes = [sub_type];
+  if (sub_type) {
+    const mappedVal = mapTestIdToSubtype(sub_type);
+    if (mappedVal && !resolvedSubTypes.includes(mappedVal)) resolvedSubTypes.push(mappedVal);
+    const subTypeSpace = sub_type.replace(/_/g, " ");
+    if (!resolvedSubTypes.includes(subTypeSpace)) resolvedSubTypes.push(subTypeSpace);
+    const subTypeUnderscore = sub_type.replace(/\s+/g, "_");
+    if (!resolvedSubTypes.includes(subTypeUnderscore)) resolvedSubTypes.push(subTypeUnderscore);
   }
 
   // Try querying by specific exam_type and paper_name/sub_type first
@@ -2469,22 +2554,22 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   if (mappedExamType) {
     filter.exam_type = mappedExamType;
   }
-  if (sub_type) {
+  if (resolvedSubTypes.length > 0) {
     filter.$or = [
-      { sub_type: sub_type },
-      { paper_name: sub_type },
-      { test_title: sub_type },
-      { test_id: sub_type }
+      { sub_type: { $in: resolvedSubTypes } },
+      { paper_name: { $in: resolvedSubTypes } },
+      { test_title: { $in: resolvedSubTypes } },
+      { test_id: { $in: resolvedSubTypes } }
     ];
   }
   
   let questions = await Question.find({
     $or: [
-      { test_id: sub_type },
-      { test_title: sub_type },
-      { course: exam_type, test_title: sub_type },
-      { course: exam_type, sub_type: sub_type },
-      { course: exam_type, test_id: sub_type },
+      { test_id: { $in: resolvedSubTypes } },
+      { test_title: { $in: resolvedSubTypes } },
+      { course: { $in: resolvedCourseNames }, test_title: { $in: resolvedSubTypes } },
+      { course: { $in: resolvedCourseNames }, sub_type: { $in: resolvedSubTypes } },
+      { course: { $in: resolvedCourseNames }, test_id: { $in: resolvedSubTypes } },
       filter
     ]
   }).sort({ question_number: 1, id: 1 }).lean();
@@ -2494,11 +2579,11 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
       status: "ok"
     };
     if (mappedExamType) fallbackFilter.exam_type = mappedExamType;
-    if (sub_type) {
+    if (resolvedSubTypes.length > 0) {
       fallbackFilter.$or = [
-        { sub_type: sub_type },
-        { paper_name: sub_type },
-        { test_title: sub_type }
+        { sub_type: { $in: resolvedSubTypes } },
+        { paper_name: { $in: resolvedSubTypes } },
+        { test_title: { $in: resolvedSubTypes } }
       ];
     }
     questions = await Question.find(fallbackFilter).sort({ question_number: 1, id: 1 }).lean();
