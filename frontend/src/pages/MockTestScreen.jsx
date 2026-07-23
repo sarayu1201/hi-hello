@@ -4,6 +4,7 @@ import {
 } from "lucide-react";
 import ResultCard from "../components/ResultCard";
 import axios from "axios";
+import QuestionRenderer from "../components/QuestionRenderer";
 
 /**
  * Live LaTeX Formatter
@@ -57,54 +58,7 @@ const cleanMathText = (text) => {
 };
 
 const renderLaTeX = (text, subject = "") => {
-  if (!text) return "";
-
-  // Check if there is a JSON table representation in the text
-  const tableJsonMatch = text.match(/\{[\s\S]*?"headers"[\s\S]*?"rows"[\s\S]*?\}/);
-  if (tableJsonMatch) {
-    const beforeTable = text.substring(0, tableJsonMatch.index);
-    const afterTable = text.substring(tableJsonMatch.index + tableJsonMatch[0].length);
-    try {
-      const tableData = JSON.parse(tableJsonMatch[0]);
-      const headers = tableData.headers || [];
-      const rows = tableData.rows || [];
-
-      return (
-        <div className="space-y-4 mathjax-process text-slate-900">
-          <div>{beforeTable}</div>
-          <div className="overflow-x-auto my-4 max-w-md mx-auto">
-            <table className="min-w-full border-collapse border border-slate-300 rounded-lg overflow-hidden text-center shadow-sm">
-              <thead className="bg-slate-100">
-                <tr>
-                  {headers.map((h, i) => (
-                    <th key={i} className="border border-slate-300 px-4 py-2 text-sm font-bold text-slate-700">
-                      {h}
-                    </th>
-                  ))}
-                </tr>
-              </thead>
-              <tbody className="bg-white">
-                {rows.map((row, rIdx) => (
-                  <tr key={rIdx} className="hover:bg-slate-50 transition-colors">
-                    {row.map((cell, cIdx) => (
-                      <td key={cIdx} className="border border-slate-300 px-4 py-2 text-sm text-slate-800">
-                        {cell}
-                      </td>
-                    ))}
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-          <div>{afterTable}</div>
-        </div>
-      );
-    } catch (e) {
-      console.warn("Failed to parse JSON table in question:", e);
-    }
-  }
-
-  return <span className="mathjax-process">{text}</span>;
+  return <QuestionRenderer text={text} subject={subject} />;
 };
 
 const getSectionTimeLimit = (examType) => {
