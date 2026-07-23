@@ -2604,6 +2604,25 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     category = "State Exams";
   }
 
+  // Map sub_type slug parameter to clean display title (e.g. ssc_chsl_prelims_test1 -> SSC CHSL Prelims - Test 1)
+  let querySubType = sub_type;
+  if (sub_type) {
+    const clean = sub_type.toLowerCase().trim();
+    if (clean.startsWith("ssc_chsl_prelims_test")) {
+      const num = clean.replace("ssc_chsl_prelims_test", "");
+      querySubType = `SSC CHSL Prelims - Test ${num}`;
+    } else if (clean.startsWith("ssc_chsl_mains_test")) {
+      const num = clean.replace("ssc_chsl_mains_test", "");
+      querySubType = `SSC CHSL Mains - Test ${num}`;
+    } else if (clean.startsWith("sbi_clerk_prelims_test")) {
+      const num = clean.replace("sbi_clerk_prelims_test", "");
+      querySubType = `SBI Clerk Prelims - Test ${num}`;
+    } else if (clean.startsWith("ibps_clerk_prelims_test")) {
+      const num = clean.replace("ibps_clerk_prelims_test", "");
+      querySubType = `IBPS Clerk Prelims - Test ${num}`;
+    }
+  }
+
   // Try querying by specific exam_type and paper_name/sub_type first
   let filter = {
     is_mock_eligible: true,
@@ -2626,22 +2645,22 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   if (mappedExamType) {
     filter.exam_type = mappedExamType;
   }
-  if (sub_type) {
+  if (querySubType) {
     filter.$or = [
-      { sub_type: sub_type },
-      { paper_name: sub_type },
-      { test_title: sub_type },
-      { test_id: sub_type }
+      { sub_type: querySubType },
+      { paper_name: querySubType },
+      { test_title: querySubType },
+      { test_id: querySubType }
     ];
   }
   
   let questions = await Question.find({
     $or: [
-      { test_id: sub_type },
-      { test_title: sub_type },
-      { course: exam_type, test_title: sub_type },
-      { course: exam_type, sub_type: sub_type },
-      { course: exam_type, test_id: sub_type },
+      { test_id: querySubType },
+      { test_title: querySubType },
+      { course: exam_type, test_title: querySubType },
+      { course: exam_type, sub_type: querySubType },
+      { course: exam_type, test_id: querySubType },
       filter
     ]
   }).sort({ question_number: 1, id: 1 }).lean();
