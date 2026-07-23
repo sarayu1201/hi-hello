@@ -71,7 +71,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Each letter is transformed by (2 × alphabet position − 1). Thus D → G and C → E, giving GE.",
+    "explanation": "Each letter is transformed by \\(2 × alphabet position − 1\\). Thus D → G and C → E, giving GE.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 2,
@@ -110,7 +110,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Each letter is doubled according to its alphabetical position. H(8) → P(16) and F(6) → L(12). Hence HF → PL.",
+    "explanation": "Each letter is doubled according to its alphabetical position. H\\(8\\) → P\\(16\\) and F\\(6\\) → L\\(12\\). Hence HF → PL.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 3,
@@ -124,32 +124,32 @@
     "subject": "Reasoning",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives.\n\n\\($16:40$\\) :: 20 : ?",
+    "question": "Select the related number from the given alternatives.\n\n\\(16:40\\) :: 20 : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "29",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "21",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "50",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "60",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The second number is obtained by multiplying the first number by 2.5. Therefore, $20 \\times 2.5 = 50.$",
+    "explanation": "The second number is obtained by multiplying the first number by 2.5. Therefore, \\(20 \\times 2.5 = 50.\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 4,
@@ -227,7 +227,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In EV, GT and JQ, the second letter is the corresponding reverse alphabetical letter of the first letter (E↔V, G↔T, J↔Q). For M, the reverse alphabetical letter is N, not O. Hence MO is the odd one out.",
+    "explanation": "In EV, GT and JQ, the second letter is the corresponding reverse alphabetical letter of the first letter \\(E↔V, G↔T, J↔Q\\). For M, the reverse alphabetical letter is N, not O. Hence MO is the odd one out.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 6,
@@ -246,27 +246,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "4246",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "8314",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "9546",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "7284",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In the valid numbers, the product of the first and last digits equals the middle two digits. For 8314, $8 \\times 4 = 32$, not 31. Hence it is the odd one out.",
+    "explanation": "In the valid numbers, the product of the first and last digits equals the middle two digits. For 8314, \\(8 \\times 4 = 32\\), not 31. Hence it is the odd one out.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 7,
@@ -305,7 +305,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "19 and 20 are co-prime (their only common factor is 1). The remaining pairs have common factors greater than 1.",
+    "explanation": "19 and 20 are co-prime \\(their only common factor is 1\\). The remaining pairs have common factors greater than 1.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 8,
@@ -358,32 +358,32 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series.\n\n\\($3,6,9,36,41$\\), ?",
+    "question": "A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series.\n\n\\(3,6,9,36,41\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "244",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "225",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "246",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "410",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The pattern alternates between multiplication and addition with increasing numbers: $3 \\times 2=6$, +3=9, ×4=36, +5=41, ×6=246.",
+    "explanation": "The pattern alternates between multiplication and addition with increasing numbers: \\(3 \\times 2=6\\), +3=9, ×4=36, +5=41, ×6=246.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 10,
@@ -397,7 +397,7 @@
     "subject": "Reasoning",
     "topic": "Syllogism",
     "difficulty": "Easy",
-    "question": "In the following question, two statements are given each followed by two conclusions I and II. Consider the statements to be true even if they seem to be at variance from commonly known facts.\n\nStatements:\n(I) Some scooters are trucks.\n(II) All trucks are trains.\n\nConclusions:\n(I) Some scooters are trains.\n(II) No truck is a scooter.",
+    "question": "In the following question, two statements are given each followed by two conclusions I and II. Consider the statements to be true even if they seem to be at variance from commonly known facts.\n\nStatements:\n\\(I\\) Some scooters are trucks.\n\\(II\\) All trucks are trains.\n\nConclusions:\n\\(I\\) Some scooters are trains.\n\\(II\\) No truck is a scooter.",
     "questionImage": null,
     "options": [
       {
@@ -638,22 +638,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "81",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "361",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "289",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "225",
         "image": null
       }
     ],
@@ -672,32 +672,32 @@
     "subject": "Reasoning",
     "topic": "Symbol Operation",
     "difficulty": "Easy",
-    "question": "If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '%' denotes 'subtracted from', then 153 & 17 @ 6 % \\$(9 * 18 = ?$\\)",
+    "question": "If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '%' denotes 'subtracted from', then 153 & 17 @ 6 % \\((9 * 18 = ?\\)\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "63",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "98",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "93",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "10",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Replace the symbols as directed: $153 \\div 17 \\times 6$ − $$$$$$$$$$$$9 + 18 = 9$$$$$$$$$$$ \\times 6$ − $$$$$$$$$$$$9 + 18 = 54$$$$$$$$$$$$ − $$$$$$$$$$$$9 + 18 = 63.$$$$$$$$$$$$",
+    "explanation": "Replace the symbols as directed: \\(153 \\div 17 \\times 6\\) − \\(\\)\\(\\)\\(\\)\\(\\)\\(9 + 18 = 9\\)\\(\\)\\(\\)\\(\\)\\(\\) \\times 6\\) − \\(\\(\\)\\(\\)\\(\\)\\(\\)\\(9 + 18 = 54\\)\\(\\)\\(\\)\\(\\)\\(\\) − \\(\\)\\(\\)\\(\\)\\(\\)\\(9 + 18 = 63.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 18,
@@ -796,27 +796,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($40,33,03,88$\\)",
+        "text": "\\(40,33,03,88\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($99,23,56,00$\\)",
+        "text": "\\(99,23,56,00\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($59,42,12,79$\\)",
+        "text": "\\(59,42,12,79\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($13,11,30,41$\\)",
+        "text": "\\(13,11,30,41\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Using the given coding matrix, HUNT is represented by the code $$$$$$$$$$$$13,11,30,41$$$$$$$$$$$$.",
+    "explanation": "Using the given coding matrix, HUNT is represented by the code \\(\\)\\(\\)\\(\\)\\(\\)\\(13,11,30,41\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 21,
@@ -876,22 +876,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Option A",
         "image": "ssc_chsl_tier1_paper3_q23_a.png"
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Option B",
         "image": "ssc_chsl_tier1_paper3_q23_b.png"
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Option C",
         "image": "ssc_chsl_tier1_paper3_q23_c.png"
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Option D",
         "image": "ssc_chsl_tier1_paper3_q23_d.png"
       }
     ],
@@ -917,22 +917,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Option A",
         "image": "ssc_chsl_tier1_paper3_q24_a.png"
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Option B",
         "image": "ssc_chsl_tier1_paper3_q24_b.png"
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Option C",
         "image": "ssc_chsl_tier1_paper3_q24_c.png"
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Option D",
         "image": "ssc_chsl_tier1_paper3_q24_d.png"
       }
     ],
@@ -959,22 +959,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Option A",
         "image": "ssc_chsl_tier1_paper3_q25_a.png"
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Option B",
         "image": "ssc_chsl_tier1_paper3_q25_b.png"
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Option C",
         "image": "ssc_chsl_tier1_paper3_q25_c.png"
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Option D",
         "image": "ssc_chsl_tier1_paper3_q25_d.png"
       }
     ],
@@ -1252,7 +1252,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Baking soda is the common name for sodium bicarbonate (NaHCO₃).",
+    "explanation": "Baking soda is the common name for sodium bicarbonate \\(NaHCO₃\\).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 32,
@@ -1344,7 +1344,7 @@
     "subject": "General Awareness",
     "topic": "Economics",
     "difficulty": "Medium",
-    "question": "If the demand curve for camping tents is D = 100000 − 17P and the supply curve is S = \\$(50000 + 8$\\)P, find the equilibrium price.",
+    "question": "If the demand curve for camping tents is D = 100000 − 17P and the supply curve is S = \\((50000 + 8\\)\\)P, find the equilibrium price.",
     "questionImage": null,
     "options": [
       {
@@ -1369,7 +1369,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "At equilibrium, Demand = Supply.\n100000 − 17P = $$$$$$$$$$$$50000 + 8$$$$$$$$$$$$P\n⇒ 50000 = 25P\n⇒ P = 2000. Therefore, the equilibrium price is Rs. 2000.",
+    "explanation": "At equilibrium, Demand = Supply.\n100000 − 17P = \\(\\)\\(\\)\\(\\)\\(\\)\\(50000 + 8\\)\\(\\)\\(\\)\\(\\)\\(\\)P\n⇒ 50000 = 25P\n⇒ P = 2000. Therefore, the equilibrium price is Rs. 2000.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 35,
@@ -1408,7 +1408,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Gross Domestic Product (GDP) is the total monetary value of all final goods and services produced within a country's borders during a specific period.",
+    "explanation": "Gross Domestic Product \\(GDP\\) is the total monetary value of all final goods and services produced within a country's borders during a specific period.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 36,
@@ -1427,22 +1427,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "125",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "25",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "5",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "0",
         "image": null
       }
     ],
@@ -1603,7 +1603,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Pluto was reclassified as a dwarf planet by the International Astronomical Union (IAU) in 2006.",
+    "explanation": "Pluto was reclassified as a dwarf planet by the International Astronomical Union \\(IAU\\) in 2006.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 41,
@@ -1817,17 +1817,17 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "5",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "7",
         "image": null
       },
       {
@@ -1954,7 +1954,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The Arthashastra is an ancient Indian treatise on statecraft, economics and military strategy written by Chanakya (Kautilya).",
+    "explanation": "The Arthashastra is an ancient Indian treatise on statecraft, economics and military strategy written by Chanakya \\(Kautilya\\).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 50,
@@ -1993,7 +1993,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Since DE ∥ BC, △ADE ∼ △ABC. Therefore, AD/AB = DE/BC. Here AB = $$$$$$$$$$$$10 + 5 = 15$$$$$$$$$$$$ cm. Thus, $\\frac{10}{15}$ = 6/BC ⇒ BC = 9 cm.",
+    "explanation": "Since DE ∥ BC, △ADE ∼ △ABC. Therefore, AD/AB = DE/BC. Here AB = \\(\\)\\(\\)\\(\\)\\(\\)\\(10 + 5 = 15\\)\\(\\)\\(\\)\\(\\)\\(\\) cm. Thus, \\(\\frac{10}{15}\\) = 6/BC ⇒ BC = 9 cm.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 51,
@@ -2007,22 +2007,22 @@
     "subject": "Mathematics",
     "topic": "Linear Inequalities",
     "difficulty": "Easy",
-    "question": "If 2x - 1 < 5x + 2 and 2x + 5 < \\$(6 - 3$\\)x, then x can take which of the following values?",
+    "question": "If 2x - 1 < 5x + 2 and 2x + 5 < \\((6 - 3\\)\\)x, then x can take which of the following values?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "0",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
@@ -2032,7 +2032,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "From 2x−1 < 5x+2, we get x > −1. From 2x+5 < 6−3x, we get x < $\\frac{1}{5}$. Hence −1 < x < $\\frac{1}{5}$. Among the options, only 0 satisfies both inequalities.",
+    "explanation": "From 2x−1 < 5x+2, we get x > −1. From 2x+5 < 6−3x, we get x < \\(\\frac{1}{5}\\). Hence −1 < x < \\(\\frac{1}{5}\\). Among the options, only 0 satisfies both inequalities.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 52,
@@ -2071,7 +2071,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Fraction completed = $\\frac{15}{60}$ = $\\frac{1}{4}$. Therefore, fraction yet to be completed = 1 − $\\frac{1}{4}$ = $\\frac{3}{4}$ = 0.75.",
+    "explanation": "Fraction completed = \\(\\frac{15}{60}\\) = \\(\\frac{1}{4}\\). Therefore, fraction yet to be completed = 1 − \\(\\frac{1}{4}\\) = \\(\\frac{3}{4}\\) = 0.75.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 53,
@@ -2110,7 +2110,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "A 75% simple interest in 5 years means the annual rate is 15%. Compound interest for 2 years = 40000[(1 + $\\frac{15}{100}$)² − 1] = Rs. 12,900.",
+    "explanation": "A 75% simple interest in 5 years means the annual rate is 15%. Compound interest for 2 years = 40000[(1 + \\(\\frac{15}{100}\\))² − 1] = Rs. 12,900.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 54,
@@ -2168,27 +2168,27 @@
     "options": [
       {
         "id": "A",
-        "text": "50√\\$(2 + 50$\\) sq cm",
+        "text": "50√\\((2 + 50\\)\\) sq cm",
         "image": null
       },
       {
         "id": "B",
-        "text": "50√\\$(2 + 100$\\) sq cm",
+        "text": "50√\\((2 + 100\\)\\) sq cm",
         "image": null
       },
       {
         "id": "C",
-        "text": "100√\\$(2 + 50$\\) sq cm",
+        "text": "100√\\((2 + 50\\)\\) sq cm",
         "image": null
       },
       {
         "id": "D",
-        "text": "100√\\$(2 + 100$\\) sq cm",
+        "text": "100√\\((2 + 100\\)\\) sq cm",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using 45° triangles, the height is 5√2 cm and the longer parallel side is $$$$$$$$$$$$10 + 10$$$$$$$$$$$$√2 cm. Area = ½ × (sum of parallel sides) × height = 50√$$$$$$$$$$$$2 + 50$$$$$$$$$$$$ sq cm.",
+    "explanation": "Using 45° triangles, the height is 5√2 cm and the longer parallel side is \\(\\)\\(\\)\\(\\)\\(\\)\\(10 + 10\\)\\(\\)\\(\\)\\(\\)\\(\\)√2 cm. Area = ½ × \\(sum of parallel sides\\) × height = 50√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 50\\)\\(\\)\\(\\)\\(\\)\\(\\) sq cm.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 56,
@@ -2227,7 +2227,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the cost price be x lakhs. Then (60 − x) = 7(x − 50). Solving gives x = $\\frac{410}{8}$ = 51.25 lakhs.",
+    "explanation": "Let the cost price be x lakhs. Then \\(60 − x\\) = 7\\(x − 50\\). Solving gives x = \\(\\frac{410}{8}\\) = 51.25 lakhs.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 57,
@@ -2266,7 +2266,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Area is proportional to the square of the radius. New area = (1.27)² = 1.6129 times the original area, so the increase is 61.29%.",
+    "explanation": "Area is proportional to the square of the radius. New area = \\(1.27\\)² = 1.6129 times the original area, so the increase is 61.29%.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 58,
@@ -2285,27 +2285,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($44:21$\\)",
+        "text": "\\(44:21\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($28:33$\\)",
+        "text": "\\(28:33\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($33:28$\\)",
+        "text": "\\(33:28\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($21:44$\\)",
+        "text": "\\(21:44\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Assume Hariram's salary = 28x. Then Girilal's salary = 44x and Shekhar's salary = 21x. Hence the ratio is $$$$$$$$$$$$44:21$$$$$$$$$$$$.",
+    "explanation": "Assume Hariram's salary = 28x. Then Girilal's salary = 44x and Shekhar's salary = 21x. Hence the ratio is \\(\\)\\(\\)\\(\\)\\(\\)\\(44:21\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 59,
@@ -2319,12 +2319,12 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "The value of (cosA + sinA)² + (cosA − sinA)² is",
+    "question": "The value of \\(cosA + sinA\\)² + \\(cosA − sinA\\)² is",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1",
         "image": null
       },
       {
@@ -2334,17 +2334,17 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "0",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Expanding both squares gives (cos²A + sin²A + 2sinAcosA) + (cos²A + sin²A − 2sinAcosA) = $$$$$$$$$$$$1 + 1 = 2.$$$$$$$$$$$$",
+    "explanation": "Expanding both squares gives \\(cos²A + sin²A + 2sinAcosA\\) + \\(cos²A + sin²A − 2sinAcosA\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(1 + 1 = 2.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 60,
@@ -2402,27 +2402,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "103",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "109",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "105",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "104",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The prime numbers between 30 and 42 are 31, 37 and 41. Their sum is $$$$$$$$$$$$31 + 37 + 41 = 109.$$$$$$$$$$$$",
+    "explanation": "The prime numbers between 30 and 42 are 31, 37 and 41. Their sum is \\(\\)\\(\\)\\(\\)\\(\\)\\(31 + 37 + 41 = 109.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 62,
@@ -2436,7 +2436,7 @@
     "subject": "Mathematics",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The curved surface area of a hemisphere is 2772 sq cm. What is its radius? (Take π = \\(\\frac{22}{7}\\))",
+    "question": "The curved surface area of a hemisphere is 2772 sq cm. What is its radius? \\(Take π = \\(\\frac{22}{7}\\))",
     "questionImage": null,
     "options": [
       {
@@ -2461,7 +2461,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Curved surface area of a hemisphere = 2πr². Therefore, 2 × ($\\frac{22}{7}$) × r² = 2772. Solving gives r² = 441, hence r = 21 cm.",
+    "explanation": "Curved surface area of a hemisphere = 2πr². Therefore, 2 × \\(\\frac{22}{7}\\) × r² = 2772. Solving gives r² = 441, hence r = 21 cm.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 63,
@@ -2480,27 +2480,27 @@
     "options": [
       {
         "id": "A",
-        "text": "2sin[(C+D)/2]cos[(C−D)/2]",
+        "text": "2sin[\\(C+D\\)/2]cos[\\(C−D\\)/2]",
         "image": null
       },
       {
         "id": "B",
-        "text": "2cos[(C+D)/2]sin[(C−D)/2]",
+        "text": "2cos[\\(C+D\\)/2]sin[\\(C−D\\)/2]",
         "image": null
       },
       {
         "id": "C",
-        "text": "2sin[(C+D)/2]sin[(D−C)/2]",
+        "text": "2sin[\\(C+D\\)/2]sin[\\(D−C\\)/2]",
         "image": null
       },
       {
         "id": "D",
-        "text": "2cos[(C+D)/2]cos[(C−D)/2]",
+        "text": "2cos[\\(C+D\\)/2]cos[\\(C−D\\)/2]",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using the identity cosA − cosB = −2 sin((A+B)/2) sin((A−B)/2), we get x = 2 sin((C+D)/2) sin((D−C)/2).",
+    "explanation": "Using the identity cosA − cosB = −2 sin\\((A+B\\)/2) sin\\((A−B\\)/2), we get x = 2 sin\\((C+D\\)/2) sin\\((D−C\\)/2).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 64,
@@ -2519,22 +2519,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "0",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "4",
         "image": null
       }
     ],
@@ -2558,27 +2558,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($81:16$\\)",
+        "text": "\\(81:16\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($4:9$\\)",
+        "text": "\\(4:9\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($16:81$\\)",
+        "text": "\\(16:81\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($9:4$\\)",
+        "text": "\\(9:4\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "For similar triangles, the ratio of their areas is the square of the ratio of their corresponding sides. Therefore, (4² : 9²) = $$$$$$$$$$$$16:81$$$$$$$$$$$$.",
+    "explanation": "For similar triangles, the ratio of their areas is the square of the ratio of their corresponding sides. Therefore, \\(4² : 9²\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(16:81\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 66,
@@ -2597,27 +2597,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "48 km/hr",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "62.8 km/hr",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "33.2 km/hr",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "77.5 km/hr",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total of 12 observations = $12 \\times 18 = 216.$ Total of remaining 11 observations = $11 \\times 17 = 187.$ Removed observation = 216 − 187 = 29.",
+    "explanation": "Total of 12 observations = \\(12 \\times 18 = 216.\\) Total of remaining 11 observations = \\(11 \\times 17 = 187.\\) Removed observation = 216 − 187 = 29.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 67,
@@ -2675,27 +2675,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "0.5",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "0.25",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "4",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using (x + 1/x)² = x² + 1/x² + 2. Therefore, x² + 1/x² = 25 − 2 = 23.",
+    "explanation": "Using \\(x + 1/x\\)² = x² + 1/x² + 2. Therefore, x² + 1/x² = 25 − 2 = 23.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 69,
@@ -2812,7 +2812,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The slope of y = 2x + 3 is 2. A perpendicular line has slope -$\\frac{1}{2}$. Passing through (-5, 0), the required equation is x + 2y = -5.",
+    "explanation": "The slope of y = 2x + 3 is 2. A perpendicular line has slope -\\(\\frac{1}{2}\\). Passing through \\(-5, 0\\), the required equation is x + 2y = -5.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 72,
@@ -2826,7 +2826,7 @@
     "subject": "Mathematics",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "If 4pxy = (x + 2y)² − (x − 2y)², then what is the value of \\(p\\)?",
+    "question": "If 4pxy = \\(x + 2y\\)² − \\(x − 2y\\)², then what is the value of \\(p\\)?",
     "questionImage": null,
     "options": [
       {
@@ -2841,17 +2841,17 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "2011 & 2012",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2014 & 2015",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Expanding both squares gives (x + 2y)² − (x − 2y)² = 8xy. Therefore, 4pxy = 8xy, giving p = 2.",
+    "explanation": "Expanding both squares gives \\(x + 2y\\)² − \\(x − 2y\\)² = 8xy. Therefore, 4pxy = 8xy, giving p = 2.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 73,
@@ -2870,7 +2870,7 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Profit of Rs 30 crores",
         "image": null
       },
       {
@@ -2890,7 +2890,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Runs scored in 26 overs = $26 \\times 5.4 = 140.4.$ Remaining runs = 294 − 140.4 = 153.6. Required run rate = $153.6 \\div 24 = 6.4$ runs per over.",
+    "explanation": "Runs scored in 26 overs = \\(26 \\times 5.4 = 140.4.\\) Remaining runs = 294 − 140.4 = 153.6. Required run rate = \\(153.6 \\div 24 = 6.4\\) runs per over.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 74,
@@ -2904,7 +2904,7 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of tan(-5π/6)?",
+    "question": "What is the value of tan\\(-5π/6\\)?",
     "questionImage": null,
     "options": [
       {
@@ -2929,7 +2929,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "tan(-θ) = -tan(θ). Since tan(5π/6) = -1/√3, tan(-5π/6) = 1/√3.",
+    "explanation": "tan\\(-θ\\) = -tan\\(θ\\). Since tan\\(5π/6\\) = -1/√3, tan\\(-5π/6\\) = 1/√3.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 75,
@@ -2943,29 +2943,29 @@
     "subject": "Mathematics",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "Refer the below data table and answer the following question.\n\nWhat is the average bonus received by each employee (employee includes all - Manager, Executive, and Trainee)?",
+    "question": "Refer the below data table and answer the following question.\n\nWhat is the average bonus received by each employee \\(employee includes all - Manager, Executive, and Trainee\\)?",
     "questionImage": "ssc_chsl_tier1_paper3_q72.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original data table from the source document.",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "trite",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "opposite",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "exceptional",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "ambiguous",
         "image": null
       }
     ],
@@ -2984,7 +2984,7 @@
     "subject": "Mathematics",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "Refer the below data table and answer the following question.\n\nFor which of the following pairs of years were the total exports from the three companies together equal? (Figures are in lakh rupees.)",
+    "question": "Refer the below data table and answer the following question.\n\nFor which of the following pairs of years were the total exports from the three companies together equal? \\(Figures are in lakh rupees.\\)",
     "questionImage": "ssc_chsl_tier1_paper3_q73.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original export data table from the source document.",
@@ -3093,7 +3093,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Electronics exports = 875 million and total exports = 4175 million. Therefore, ($\\frac{875}{4175}$) × 100 = 20.96%.",
+    "explanation": "Electronics exports = 875 million and total exports = 4175 million. Therefore, \\(\\frac{875}{4175}\\) × 100 = 20.96%.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 79,
@@ -3366,7 +3366,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Correct Answer: Option C (RPQ)",
+    "explanation": "Correct Answer: Option C \\(RPQ\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3380,7 +3380,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Medium",
-    "question": "Improve the bracketed part of the sentence.\nThe unfortunate old man was knocked (away by) the rash driver.",
+    "question": "Improve the bracketed part of the sentence.\nThe unfortunate old man was knocked \\(away by\\) the rash driver.",
     "options": [
       {
         "id": "A",
@@ -3404,7 +3404,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Correct Answer: Option A (out by)",
+    "explanation": "Correct Answer: Option A \\(out by\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3442,7 +3442,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Correct Answer: Option A (spectre)",
+    "explanation": "Correct Answer: Option A \\(spectre\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3456,7 +3456,7 @@
     "subject": "English Language",
     "topic": "Spotting Errors",
     "difficulty": "Medium",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\nThe landlord could not(A)/tell which of the servant(B)/broke the glass.(C)/No error(D)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\nThe landlord could not\\(A\\)/tell which of the servant\\(B\\)/broke the glass.\\(C\\)/No error\\(D\\)",
     "options": [
       {
         "id": "A",
@@ -3494,7 +3494,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Medium",
-    "question": "Improve the bracketed part of the sentence. One should get (trained) to prepare one's own breakfast.",
+    "question": "Improve the bracketed part of the sentence. One should get \\(trained\\) to prepare one's own breakfast.",
     "options": [
       {
         "id": "A",
@@ -3518,7 +3518,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Correct Answer: Option B (used)",
+    "explanation": "Correct Answer: Option B \\(used\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3594,7 +3594,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Correct Answer: Option B (temporary)",
+    "explanation": "Correct Answer: Option B \\(temporary\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3632,7 +3632,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Correct Answer: Option B (Non-acceptance of antisocial behaviour)",
+    "explanation": "Correct Answer: Option B \\(Non-acceptance of antisocial behaviour\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3670,7 +3670,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Correct Answer: Option D (RQP)",
+    "explanation": "Correct Answer: Option D \\(RQP\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3708,7 +3708,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Correct Answer: Option A (New experiences make life more interesting)",
+    "explanation": "Correct Answer: Option A \\(New experiences make life more interesting\\)",
     "marks": 2,
     "negativeMarks": 0.5,
     "direction": null
@@ -3722,7 +3722,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Select the correct option for blank (1)",
+    "question": "Select the correct option for blank \\(1\\)",
     "options": [
       {
         "id": "A",
@@ -3746,10 +3746,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Correct Answer: Option A (haphazardly)",
+    "explanation": "Correct Answer: Option A \\(haphazardly\\)",
     "marks": 2,
     "negativeMarks": 0.5,
-    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................(1) placed speed breakers of all shapes and sizes on city streets have become a health ..................(2) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................(3) back and neck-related complications, potholes have become an .................. (4) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................(5) in the monsoon."
+    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................\\(1\\) placed speed breakers of all shapes and sizes on city streets have become a health ..................\\(2\\) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................\\(3\\) back and neck-related complications, potholes have become an .................. \\(4\\) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................\\(5\\) in the monsoon."
   },
   {
     "id": 97,
@@ -3760,7 +3760,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Select the correct option for blank (2)",
+    "question": "Select the correct option for blank \\(2\\)",
     "options": [
       {
         "id": "A",
@@ -3784,10 +3784,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Correct Answer: Option D (hazard)",
+    "explanation": "Correct Answer: Option D \\(hazard\\)",
     "marks": 2,
     "negativeMarks": 0.5,
-    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................(1) placed speed breakers of all shapes and sizes on city streets have become a health ..................(2) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................(3) back and neck-related complications, potholes have become an .................. (4) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................(5) in the monsoon."
+    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................\\(1\\) placed speed breakers of all shapes and sizes on city streets have become a health ..................\\(2\\) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................\\(3\\) back and neck-related complications, potholes have become an .................. \\(4\\) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................\\(5\\) in the monsoon."
   },
   {
     "id": 98,
@@ -3798,7 +3798,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Select the correct option for blank (3)",
+    "question": "Select the correct option for blank \\(3\\)",
     "options": [
       {
         "id": "A",
@@ -3822,10 +3822,10 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Correct Answer: Option A (chronic)",
+    "explanation": "Correct Answer: Option A \\(chronic\\)",
     "marks": 2,
     "negativeMarks": 0.5,
-    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................(1) placed speed breakers of all shapes and sizes on city streets have become a health ..................(2) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................(3) back and neck-related complications, potholes have become an .................. (4) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................(5) in the monsoon."
+    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................\\(1\\) placed speed breakers of all shapes and sizes on city streets have become a health ..................\\(2\\) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................\\(3\\) back and neck-related complications, potholes have become an .................. \\(4\\) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................\\(5\\) in the monsoon."
   },
   {
     "id": 99,
@@ -3836,7 +3836,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Select the correct option for blank (4)",
+    "question": "Select the correct option for blank \\(4\\)",
     "options": [
       {
         "id": "A",
@@ -3860,10 +3860,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Correct Answer: Option C (imminent threat)",
+    "explanation": "Correct Answer: Option C \\(imminent threat\\)",
     "marks": 2,
     "negativeMarks": 0.5,
-    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................(1) placed speed breakers of all shapes and sizes on city streets have become a health ..................(2) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................(3) back and neck-related complications, potholes have become an .................. (4) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................(5) in the monsoon."
+    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................\\(1\\) placed speed breakers of all shapes and sizes on city streets have become a health ..................\\(2\\) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................\\(3\\) back and neck-related complications, potholes have become an .................. \\(4\\) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................\\(5\\) in the monsoon."
   },
   {
     "id": 100,
@@ -3874,7 +3874,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Select the correct option for blank (5)",
+    "question": "Select the correct option for blank \\(5\\)",
     "options": [
       {
         "id": "A",
@@ -3898,9 +3898,9 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Correct Answer: Option B (complications)",
+    "explanation": "Correct Answer: Option B \\(complications\\)",
     "marks": 2,
     "negativeMarks": 0.5,
-    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................(1) placed speed breakers of all shapes and sizes on city streets have become a health ..................(2) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................(3) back and neck-related complications, potholes have become an .................. (4) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................(5) in the monsoon."
+    "direction": "Instructions [96 - 100]\nIn the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\nPotholes and ..................\\(1\\) placed speed breakers of all shapes and sizes on city streets have become a health ..................\\(2\\) for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ..................\\(3\\) back and neck-related complications, potholes have become an .................. \\(4\\) for those on the road. Doctors report an increase in patients with injuries and serious bone-related ..................\\(5\\) in the monsoon."
   }
 ]

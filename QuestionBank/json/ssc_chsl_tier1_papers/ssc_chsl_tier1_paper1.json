@@ -11,27 +11,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "89",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "87",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "79",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "97",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "87 is not a prime number because it can be factorized as $3 \\times 29.$ The remaining numbers are prime.",
+    "explanation": "87 is not a prime number because it can be factorized as \\(3 \\times 29.\\) The remaining numbers are prime.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -67,7 +67,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Express each value as a power of 2: √2 = 2^($\\frac{1}{2}$), ∛2 = 2^($\\frac{1}{3}$), ⁴√2 = 2^($\\frac{1}{4}$), and ⁵√2 = 2^($\\frac{1}{5}$). Since the base 2 is greater than 1, the value increases as the exponent increases. As $\\frac{1}{2}$ > $\\frac{1}{3}$ > $\\frac{1}{4}$ > $\\frac{1}{5}$, √2 is the largest among the given options.",
+    "explanation": "Express each value as a power of 2: √2 = 2^\\(\\frac{1}{2}\\), ∛2 = 2^\\(\\frac{1}{3}\\), ⁴√2 = 2^\\(\\frac{1}{4}\\), and ⁵√2 = 2^\\(\\frac{1}{5}\\). Since the base 2 is greater than 1, the value increases as the exponent increases. As \\(\\frac{1}{2}\\) > \\(\\frac{1}{3}\\) > \\(\\frac{1}{4}\\) > \\(\\frac{1}{5}\\), √2 is the largest among the given options.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -83,27 +83,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "4369",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "4459",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "4549",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "4639",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "49 = 7², so 49³ = 7⁶ = 117649. Using the simplification provided in the source paper, the evaluated result matches option B (4459).",
+    "explanation": "49 = 7², so 49³ = 7⁶ = 117649. Using the simplification provided in the source paper, the evaluated result matches option B \\(4459\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -114,7 +114,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "What is the value of (a − b)³ / (a + b)² when a + b = 8 and a − b = 2?",
+    "question": "What is the value of \\(a − b\\)³ / \\(a + b\\)² when a + b = 8 and a − b = 2?",
     "questionImage": null,
     "options": [
       {
@@ -150,34 +150,34 @@
     "subject": "Quantitative Aptitude",
     "topic": "Triangles",
     "difficulty": "Medium",
-    "question": "If DE is parallel to BC, AD : DB = \\($5:13$\\) and the length of EC is 26 cm, then determine the length of AE (in cm).",
+    "question": "If DE is parallel to BC, AD : DB = \\(5:13\\) and the length of EC is 26 cm, then determine the length of AE \\(in cm\\).",
     "questionImage": "ssc_chsl_tier1_paper1_q5.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original triangle diagram from the source document.",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "32415",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "12543",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "45123",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "45132",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = $$$$$$$$$$$$5:13$$$$$$$$$$$$ and EC = 26 cm, AE = ($\\frac{5}{13}$) × 26 = 10 cm.",
+    "explanation": "Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = \\(\\)\\(\\)\\(\\)\\(\\)\\(5:13\\)\\(\\)\\(\\)\\(\\)\\(\\) and EC = 26 cm, AE = \\(\\frac{5}{13}\\) × 26 = 10 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -188,32 +188,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Medium",
-    "question": "The diameter of the driving wheel of a cart is 154 cm. Calculate the revolution per minute (RPM) of the wheel in order to keep a speed of 33 km/hr.",
+    "question": "The diameter of the driving wheel of a cart is 154 cm. Calculate the revolution per minute \\(RPM\\) of the wheel in order to keep a speed of 33 km/hr.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "114",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "112",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "110",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "108",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Diameter = 154 cm ⇒ Circumference = πd = ($\\frac{22}{7}$) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ $(4.84 \\times 60)$ ≈ 113.63 ≈ 114.",
+    "explanation": "Diameter = 154 cm ⇒ Circumference = πd = \\(\\frac{22}{7}\\) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ \\(4.84 \\times 60\\) ≈ 113.63 ≈ 114.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -229,27 +229,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1475",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1655",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1425",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1905",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the two parts be 100x and 100y. Forming and solving the two linear equations gives x = 6.4 and y = 8.35. Hence the number = 100(x + y) = 1475.",
+    "explanation": "Let the two parts be 100x and 100y. Forming and solving the two linear equations gives x = 6.4 and y = 8.35. Hence the number = 100\\(x + y\\) = 1475.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -260,32 +260,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Mixture",
     "difficulty": "Easy",
-    "question": "Two vessels of equal capacity contain juice and water in the ratios \\($5:1$\\) and \\($5:7$\\) respectively. Both mixtures are combined into a bigger vessel. What is the ratio of juice to water in the new mixture?",
+    "question": "Two vessels of equal capacity contain juice and water in the ratios \\(5:1\\) and \\(5:7\\) respectively. Both mixtures are combined into a bigger vessel. What is the ratio of juice to water in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($3:2$\\)",
+        "text": "\\(3:2\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($5:3$\\)",
+        "text": "\\(5:3\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($5:4$\\)",
+        "text": "\\(5:4\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($1:2$\\)",
+        "text": "\\(1:2\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Assume each vessel has 12 units. First vessel: Juice = 10, Water = 2. Second vessel: Juice = 5, Water = 7. Combined ratio = $$$$$$$$$$$$15:9$$$$$$$$$$$$ = $$$$$$$$$$$$5:3$$$$$$$$$$$$.",
+    "explanation": "Assume each vessel has 12 units. First vessel: Juice = 10, Water = 2. Second vessel: Juice = 5, Water = 7. Combined ratio = \\(\\)\\(\\)\\(\\)\\(\\)\\(15:9\\)\\(\\)\\(\\)\\(\\)\\(\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(5:3\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -296,32 +296,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Mixture",
     "difficulty": "Medium",
-    "question": "In one alloy, aluminium and tin are in the ratio \\($4:5$\\). In another alloy, they are in the ratio \\($4:7$\\). Equal quantities of both alloys are mixed. What is the ratio of aluminium to tin in the new alloy?",
+    "question": "In one alloy, aluminium and tin are in the ratio \\(4:5\\). In another alloy, they are in the ratio \\(4:7\\). Equal quantities of both alloys are mixed. What is the ratio of aluminium to tin in the new alloy?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($2:3$\\)",
+        "text": "\\(2:3\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($16:35$\\)",
+        "text": "\\(16:35\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($4:5$\\)",
+        "text": "\\(4:5\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($40:59$\\)",
+        "text": "\\(40:59\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Take 99 units of each alloy. Alloy 1: Aluminium = 44, Tin = 55. Alloy 2: Aluminium = 36, Tin = 63. Combined ratio = $$$$$$$$$$$$80:118$$$$$$$$$$$$ = $$$$$$$$$$$$40:59$$$$$$$$$$$$.",
+    "explanation": "Take 99 units of each alloy. Alloy 1: Aluminium = 44, Tin = 55. Alloy 2: Aluminium = 36, Tin = 63. Combined ratio = \\(\\)\\(\\)\\(\\)\\(\\)\\(80:118\\)\\(\\)\\(\\)\\(\\)\\(\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(40:59\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -332,32 +332,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Easy",
-    "question": "Among four bags, the average weight of the last three bags is 18 kg and the average weight of the first three bags is 19 kg. If the weight of the last bag is 22 kg, what is the weight (in kg) of the first bag?",
+    "question": "Among four bags, the average weight of the last three bags is 18 kg and the average weight of the first three bags is 19 kg. If the weight of the last bag is 22 kg, what is the weight \\(in kg\\) of the first bag?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "32",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "24",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "33",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Last three bags weigh $18 \\times 3 = 54$ kg. Therefore, the middle two bags weigh 32 kg. First three bags weigh $19 \\times 3 = 57$ kg. Hence the first bag weighs 57 − 32 = 25 kg.",
+    "explanation": "Last three bags weigh \\(18 \\times 3 = 54\\) kg. Therefore, the middle two bags weigh 32 kg. First three bags weigh \\(19 \\times 3 = 57\\) kg. Hence the first bag weighs 57 − 32 = 25 kg.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -368,32 +368,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest",
     "difficulty": "Easy",
-    "question": "A sum becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount (in Rs.)?",
+    "question": "A sum becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount \\(in Rs.\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "4400",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "6600",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "7040",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "6400",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the simple interest formula, Amount = P(1 + RT/100). Here, A = 8800, R = 25% and T = 4 years. Therefore, 8800 = P × 2, giving P = Rs. 4400.",
+    "explanation": "Using the simple interest formula, Amount = P\\(1 + RT/100\\). Here, A = 8800, R = 25% and T = 4 years. Therefore, 8800 = P × 2, giving P = Rs. 4400.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -404,7 +404,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The cost price of an article is Rs. 360. If the profit percentage is 32%, then what is the profit (in Rs.)?",
+    "question": "The cost price of an article is Rs. 360. If the profit percentage is 32%, then what is the profit \\(in Rs.\\)?",
     "questionImage": null,
     "options": [
       {
@@ -429,7 +429,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Profit = 32% of 360 = ($\\frac{32}{100}$) × 360 = Rs. 115.2.",
+    "explanation": "Profit = 32% of 360 = \\(\\frac{32}{100}\\) × 360 = Rs. 115.2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -440,32 +440,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "Rohit buys a ball for Rs. 450 and sells it after giving two successive discounts of 20% and 5% to the customer. What is the selling price (in Rs.) of the ball?",
+    "question": "Rohit buys a ball for Rs. 450 and sells it after giving two successive discounts of 20% and 5% to the customer. What is the selling price \\(in Rs.\\) of the ball?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "342",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "354",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "334",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "362",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "After a 20% discount, the price becomes Rs. 360. Applying a further 5% discount gives 360 × $\\frac{95}{100}$ = Rs. 342.",
+    "explanation": "After a 20% discount, the price becomes Rs. 360. Applying a further 5% discount gives 360 × \\(\\frac{95}{100}\\) = Rs. 342.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -476,32 +476,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Surds",
     "difficulty": "Easy",
-    "question": "What is the value of √(2² + 15²)?",
+    "question": "What is the value of √\\(2² + 15²\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "17",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "19",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "21",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "√(2² + 15²) = √$$$$$$$$$$$$(4 + 225)$$$$$$$$$$$$ = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A.",
+    "explanation": "√\\(2² + 15²\\) = √\\(\\)\\(\\)\\(\\)\\(\\)\\(4 + 225\\)\\(\\)\\(\\)\\(\\)\\(\\) = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -517,27 +517,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "12",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "24",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total work = $18 \\times 24 = 432$ man-days. In the first 12 days, 216 man-days are completed. Remaining work = 216 man-days. After 6 boys leave, 12 boys remain, so the remaining time = $216 \\div 12 = 18$ days.",
+    "explanation": "Total work = \\(18 \\times 24 = 432\\) man-days. In the first 12 days, 216 man-days are completed. Remaining work = 216 man-days. After 6 boys leave, 12 boys remain, so the remaining time = \\(216 \\div 12 = 18\\) days.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -548,32 +548,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time, Speed and Distance",
     "difficulty": "Medium",
-    "question": "Two trains are moving in the same direction at the speeds of 42 km/hr and 84 km/hr. Their lengths are 320 metres and 380 metres respectively. What is the time taken (in seconds) by the faster train to completely cross the slower train?",
+    "question": "Two trains are moving in the same direction at the speeds of 42 km/hr and 84 km/hr. Their lengths are 320 metres and 380 metres respectively. What is the time taken \\(in seconds\\) by the faster train to completely cross the slower train?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "60",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "80",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "90",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "120",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Relative speed = 84 − 42 = 42 km/hr = $\\frac{35}{3}$ m/s. Total distance to be covered = $$$$$$$$$$$$320 + 380 = 700$$$$$$$$$$$$ m. Time = 700 ÷ ($\\frac{35}{3}$) = 60 seconds.",
+    "explanation": "Relative speed = 84 − 42 = 42 km/hr = \\(\\frac{35}{3}\\) m/s. Total distance to be covered = \\(\\)\\(\\)\\(\\)\\(\\)\\(320 + 380 = 700\\)\\(\\)\\(\\)\\(\\)\\(\\) m. Time = 700 ÷ \\(\\frac{35}{3}\\) = 60 seconds.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -611,7 +611,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "From the pie chart, Human Resources has the highest expenditure (Rs. 500 lakhs), while Taxes is the second highest (Rs. 450 lakhs).",
+    "explanation": "From the pie chart, Human Resources has the highest expenditure \\(Rs. 500 lakhs\\), while Taxes is the second highest \\(Rs. 450 lakhs\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -622,34 +622,34 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. What is the total expenditure (in Rs. lakhs)?",
+    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. What is the total expenditure \\(in Rs. lakhs\\)?",
     "questionImage": "q17_pie_chart.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Uses the same pie chart as Question 17.",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "2000",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1800",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "2250",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2100",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Adding all expenditure values shown in the pie chart gives $$$$$$$$$$$$450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000$$$$$$$$$$$$ lakhs.",
+    "explanation": "Adding all expenditure values shown in the pie chart gives \\(\\)\\(\\)\\(\\)\\(\\)\\(450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000\\)\\(\\)\\(\\)\\(\\)\\(\\) lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -687,7 +687,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = ($\\frac{150}{2000}$) × 360 = 27°.",
+    "explanation": "Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = \\(\\frac{150}{2000}\\) × 360 = 27°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -725,7 +725,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = ($\\frac{250}{2000}$) × 100 = 12.5%.",
+    "explanation": "Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = \\(\\frac{250}{2000}\\) × 100 = 12.5%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -736,32 +736,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The length of the diagonal and the breadth of a rectangle are 29 cm and 20 cm respectively. Find its perimeter (in cm).",
+    "question": "The length of the diagonal and the breadth of a rectangle are 29 cm and 20 cm respectively. Find its perimeter \\(in cm\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "164",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "82",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "21",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "42",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using Pythagoras' theorem, length = √(29² − 20²) = √441 = 21 cm. Perimeter = 2 × $$$$$$$$$$$$(21 + 20) = 82$$$$$$$$$$$$ cm.",
+    "explanation": "Using Pythagoras' theorem, length = √\\(29² − 20²\\) = √441 = 21 cm. Perimeter = 2 × \\(\\)\\(\\)\\(\\)\\(\\)\\(21 + 20\\) = 82\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -808,7 +808,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The total surface area of a cube is 73.5 cm². Find the length of its side (in cm).",
+    "question": "The total surface area of a cube is 73.5 cm². Find the length of its side \\(in cm\\).",
     "questionImage": null,
     "options": [
       {
@@ -833,7 +833,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total surface area = 6a² = 73.5. Therefore, a² = 73.$\\frac{5}{6}$ = 12.25 and a = √12.25 = 3.5 cm.",
+    "explanation": "Total surface area = 6a² = 73.5. Therefore, a² = 73.\\(\\frac{5}{6}\\) = 12.25 and a = √12.25 = 3.5 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -844,12 +844,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of (\\(\\frac{1}{3}\\) − cosec 30°)?",
+    "question": "What is the value of \\(\\(\\frac{1}{3}\\) − cosec 30°)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "(√6 − 1)/√3",
+        "text": "\\(√6 − 1\\)/√3",
         "image": null
       },
       {
@@ -869,7 +869,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Since cosec 30° = 2, the expression becomes ($\\frac{1}{3}$ − 2) = (1 − 6)/3 = -$\\frac{5}{3}$.",
+    "explanation": "Since cosec 30° = 2, the expression becomes (\\(\\frac{1}{3}\\) − 2) = \\(1 − 6\\)/3 = -\\(\\frac{5}{3}\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -880,14 +880,14 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "In ΔDEF, ∠E = 90°. If sec D = \\(\\frac{25}{7}\\) and DE = 1.4 cm, then find the length (in cm) of DF.",
+    "question": "In ΔDEF, ∠E = 90°. If sec D = \\(\\frac{25}{7}\\) and DE = 1.4 cm, then find the length \\(in cm\\) of DF.",
     "questionImage": "ssc_chsl_tier1_paper1_q25.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original right triangle diagram from the source document.",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "5",
         "image": null
       },
       {
@@ -897,7 +897,7 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "4",
         "image": null
       },
       {
@@ -907,7 +907,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = ($\\frac{25}{7}$) × 1.4 = 5 cm.",
+    "explanation": "sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = \\(\\frac{25}{7}\\) × 1.4 = 5 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -954,27 +954,27 @@
     "subject": "Reasoning",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "In the following question, select the related number from the given alternatives.\n\n\\($5:25$\\) :: 6 : ?",
+    "question": "In the following question, select the related number from the given alternatives.\n\n\\(5:25\\) :: 6 : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "39",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "37",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "28",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "36",
         "image": null
       }
     ],
@@ -1062,32 +1062,32 @@
     "subject": "Reasoning",
     "topic": "Odd One Out",
     "difficulty": "Medium",
-    "question": "In the following question, four number pairs are given. The number on the left side of (-) is related to the number on the right side by a certain logic. Three are similar based on the same logic. Select the odd one out.",
+    "question": "In the following question, four number pairs are given. The number on the left side of \\(-\\) is related to the number on the right side by a certain logic. Three are similar based on the same logic. Select the odd one out.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\$(11 - 144$\\)",
+        "text": "\\((11 - 144\\)\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(13 - 196$\\)",
+        "text": "\\((13 - 196\\)\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(15 - 246$\\)",
+        "text": "\\((15 - 246\\)\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(17 - 324$\\)",
+        "text": "\\((17 - 324\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The rule is (number + 1)². 11 → 12² = 144, 13 → 14² = 196, 17 → 18² = 324. For 15, $$$$$$$$$$$$(15 + 1)$$$$$$$$$$$$² = 256, not 246. Hence option C is the odd one.",
+    "explanation": "The rule is \\(number + 1\\)². 11 → 12² = 144, 13 → 14² = 196, 17 → 18² = 324. For 15, \\(\\)\\(\\)\\(\\)\\(\\)\\(15 + 1\\)\\(\\)\\(\\)\\(\\)\\(\\)² = 256, not 246. Hence option C is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1139,22 +1139,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "32415",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "12543",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "45123",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "45132",
         "image": null
       }
     ],
@@ -1170,32 +1170,32 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the series.\n\n\\($9,13,22,38,63$\\), ?",
+    "question": "Select the missing number from the series.\n\n\\(9,13,22,38,63\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "96",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "99",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "84",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "90",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The consecutive squares are added: +2², +3², +4², +5², +6². Therefore, $$$$$$$$$$$$63 + 36 = 99.$$$$$$$$$$$$",
+    "explanation": "The consecutive squares are added: +2², +3², +4², +5², +6². Therefore, \\(\\)\\(\\)\\(\\)\\(\\)\\(63 + 36 = 99.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1231,7 +1231,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "First letters increase by +2 (P,R,T,V,X), second letters by +3,+4,+5,+6 (C,F,J,O,U), and third letters by +2 (K,M,O,Q,S). Hence the missing term is XUS.",
+    "explanation": "First letters increase by +2 \\(P,R,T,V,X\\), second letters by +3,+4,+5,+6 \\(C,F,J,O,U\\), and third letters by +2 \\(K,M,O,Q,S\\). Hence the missing term is XUS.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1247,27 +1247,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "40",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "38",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "37",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "36",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = $$$$$$$$$$$$12 + 25$$$$$$$$$$$$ − 1 = 36.",
+    "explanation": "Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = \\(\\)\\(\\)\\(\\)\\(\\)\\(12 + 25\\)\\(\\)\\(\\)\\(\\)\\(\\) − 1 = 36.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1319,22 +1319,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "23684",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "23847",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "67834",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "76384",
         "image": null
       }
     ],
@@ -1350,32 +1350,32 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$2 \\times 12 \\div \\$(32 - 5 + 4 = ?$\\)",
+    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n\\(2 \\times 12 \\div\\)\\((32 - 5 + 4 = ?\\)$\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "17",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "28",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "30",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Replacing the operators gives: 2 − $$$$$$$$$$$$12 + 32$$$$$$$$$$$ \\times 5 \\div 4$ = -$$$$$$$$$$$$10 + 40 = 30.$$$$$$$$$$$$",
+    "explanation": "Replacing the operators gives: 2 − \\(\\)\\(\\)\\(\\)\\(\\)\\(12 + 32\\)\\(\\)\\(\\)\\(\\)\\(\\) \\times 5 \\div 4\\) = -\\(\\(\\)\\(\\)\\(\\)\\(\\)\\(10 + 40 = 30.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1386,7 +1386,7 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two mathematical signs should be interchanged to make it correct?\n\n\\$(14 + 8$\\) \\div \\$(16 - 9$\\) \\times 12 = 10$",
+    "question": "The following equation is incorrect. Which two mathematical signs should be interchanged to make it correct?\n\n\\($(14 + 8\\)\\(\\) \\div \\\\)\\((16 - 9\\)\\(\\) \\times 12 = 10\\)",
     "questionImage": null,
     "options": [
       {
@@ -1411,7 +1411,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "After interchanging '+' and '×', the equation becomes $14 \\times 8 \\div 16$ − $$$$$$$$$$$$9 + 12 = 10$$$$$$$$$$$$, which satisfies the equation.",
+    "explanation": "After interchanging '+' and '×', the equation becomes \\(14 \\times 8 \\div 16\\) − \\(\\)\\(\\)\\(\\)\\(\\)\\(9 + 12 = 10\\)\\(\\)\\(\\)\\(\\)\\(\\), which satisfies the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1427,7 +1427,7 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "47",
         "image": null
       },
       {
@@ -1437,7 +1437,7 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
@@ -1447,7 +1447,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The pattern is: multiply the two numbers and then multiply the result by -1. Thus (-$2 \\times 9) \\times (-1) = 18.$",
+    "explanation": "The pattern is: multiply the two numbers and then multiply the result by -1. Thus (-\\(2 \\times 9) \\times \\(-1\\) = 18.\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1568,7 +1568,7 @@
     "subject": "Reasoning",
     "topic": "Venn Diagram",
     "difficulty": "Medium",
-    "question": "In the given figure, the rectangle represents Plumbers, the circle represents Essayists, the triangle represents Divers and the square represents Asians. Which set of letters represents Asians who are Essayists (who may or may not be Divers)?",
+    "question": "In the given figure, the rectangle represents Plumbers, the circle represents Essayists, the triangle represents Divers and the square represents Asians. Which set of letters represents Asians who are Essayists \\(who may or may not be Divers\\)?",
     "questionImage": "ssc_chsl_tier1_paper1_q44.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original Venn diagram from the source document.",
@@ -1595,7 +1595,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The common region shared by the square (Asians) and the circle (Essayists) is represented by the letters E and D.",
+    "explanation": "The common region shared by the square \\(Asians\\) and the circle \\(Essayists\\) is represented by the letters E and D.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1642,32 +1642,32 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "In the following question, select the missing number from the given series.\n\n\\($46,45,43,42,40,39$\\), ?",
+    "question": "In the following question, select the missing number from the given series.\n\n\\(46,45,43,42,40,39\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "35",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "36",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "38",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "37",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern alternately subtracts 1 and $$$$$$$$$$$$2:46$$$$$$$$$$$$−1=45, 45−2=43, 43−1=42, 42−2=40, 40−1=39, 39−2=37.",
+    "explanation": "The pattern alternately subtracts 1 and \\(\\)\\(\\)\\(\\)\\(\\)\\(2:46\\)\\(\\)\\(\\)\\(\\)\\(\\)−1=45, 45−2=43, 43−1=42, 42−2=40, 40−1=39, 39−2=37.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1683,27 +1683,27 @@
     "options": [
       {
         "id": "A",
-        "text": "(11, 13, 15)",
+        "text": "\\(11, 13, 15\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "(15, 17, 19)",
+        "text": "\\(15, 17, 19\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "(21, 23, 25)",
+        "text": "\\(21, 23, 25\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "(25, 27, 31)",
+        "text": "\\(25, 27, 31\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern is (x, x+2, x+4). For 25, the third number should be 29, not 31. Hence option D is the odd one.",
+    "explanation": "The pattern is \\(x, x+2, x+4\\). For 25, the third number should be 29, not 31. Hence option D is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1813,27 +1813,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($34,58,12,89$\\)",
+        "text": "\\(34,58,12,89\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($20,97,41,89$\\)",
+        "text": "\\(20,97,41,89\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($99,30,24,87$\\)",
+        "text": "\\(99,30,24,87\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($33,88,31,89$\\)",
+        "text": "\\(33,88,31,89\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using the coordinates from Matrix-I and Matrix-II, the encoding for S, A, L and T corresponds to $$$$$$$$$$$$99,30,24,87$$$$$$$$$$$$.",
+    "explanation": "Using the coordinates from Matrix-I and Matrix-II, the encoding for S, A, L and T corresponds to \\(\\)\\(\\)\\(\\)\\(\\)\\(99,30,24,87\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1844,7 +1844,7 @@
     "subject": "English Language",
     "topic": "Spotting Errors",
     "difficulty": "Easy",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nTo who (a)/ did you (b)/ speak last night? (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nTo who \\(a\\)/ did you \\(b\\)/ speak last night? \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -1869,7 +1869,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "After a preposition ('to'), the objective pronoun 'whom' should be used instead of 'who'. The correct expression is 'To whom did you speak last night?'",
+    "explanation": "After a preposition \\('to'\\), the objective pronoun 'whom' should be used instead of 'who'. The correct expression is 'To whom did you speak last night?'",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1880,7 +1880,7 @@
     "subject": "English Language",
     "topic": "Spotting Errors",
     "difficulty": "Medium",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nThe earliest credible evidence of coffee-drinking or knowledge of the coffee tree (a)/ appears in the middle of the fifteenth century (b)/ as evident from the accounts of Ahmed al-Ghaffar in Yemen. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nThe earliest credible evidence of coffee-drinking or knowledge of the coffee tree \\(a\\)/ appears in the middle of the fifteenth century \\(b\\)/ as evident from the accounts of Ahmed al-Ghaffar in Yemen. \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -1905,7 +1905,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The phrase should be 'appeared in the middle of the fifteenth century' because the sentence refers to a historical event. Therefore, part (b) contains the error.",
+    "explanation": "The phrase should be 'appeared in the middle of the fifteenth century' because the sentence refers to a historical event. Therefore, part \\(b\\) contains the error.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2229,7 +2229,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The reporting verb is in the past tense ('said'), so the present tense changes to past tense in indirect speech. Hence, 'She said that German was easy to teach.'",
+    "explanation": "The reporting verb is in the past tense \\('said'\\), so the present tense changes to past tense in indirect speech. Hence, 'She said that German was easy to teach.'",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2600,7 +2600,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nI could see that the situation (have reversed).",
+    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nI could see that the situation \\(have reversed\\).",
     "questionImage": null,
     "options": [
       {
@@ -2636,7 +2636,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nNothing (have prepared) him for a continent that was a country, and a land of terrific complexity.",
+    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nNothing \\(have prepared\\) him for a continent that was a country, and a land of terrific complexity.",
     "questionImage": null,
     "options": [
       {
@@ -2769,7 +2769,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Electricity belongs to the secondary sector, whereas Business Services, Transport and Trade are part of the tertiary (service) sector.",
+    "explanation": "Electricity belongs to the secondary sector, whereas Business Services, Transport and Trade are part of the tertiary \\(service\\) sector.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2857,22 +2857,22 @@
     "options": [
       {
         "id": "A",
-        "text": "Calcutta Convention (1928)",
+        "text": "Calcutta Convention \\(1928\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "Madras Session (1927)",
+        "text": "Madras Session \\(1927\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "Surat Session (1907)",
+        "text": "Surat Session \\(1907\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "Nagpur Session (1920)",
+        "text": "Nagpur Session \\(1920\\)",
         "image": null
       }
     ],
@@ -2913,7 +2913,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The Earth's concentric layers are SIAL (upper crust), SIMA (lower crust) and NIFE (core). Hence, the second layer is SIMA.",
+    "explanation": "The Earth's concentric layers are SIAL \\(upper crust\\), SIMA \\(lower crust\\) and NIFE \\(core\\). Hence, the second layer is SIMA.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3032,7 +3032,7 @@
     "subject": "General Awareness",
     "topic": "Awards and Honours",
     "difficulty": "Easy",
-    "question": "Who among the following received the Padma Bhushan in 2018 in the field of Art (Painting)?",
+    "question": "Who among the following received the Padma Bhushan in 2018 in the field of Art \\(Painting\\)?",
     "questionImage": null,
     "options": [
       {
@@ -3057,7 +3057,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Goan artist Laxman Pai was awarded the Padma Bhushan in 2018 for his contribution to the field of Art (Painting).",
+    "explanation": "Goan artist Laxman Pai was awarded the Padma Bhushan in 2018 for his contribution to the field of Art \\(Painting\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3104,7 +3104,7 @@
     "subject": "General Awareness",
     "topic": "Chemistry",
     "difficulty": "Easy",
-    "question": "Which statement(s) is/are CORRECT regarding Dalton's Atomic Theory?\n\nI. All matter is made of very tiny particles.\nII. Atoms of different elements have different masses and chemical properties.\nIII. The relative number of atoms is variable in any compound.",
+    "question": "Which statement\\(s\\) is/are CORRECT regarding Dalton's Atomic Theory?\n\nI. All matter is made of very tiny particles.\nII. Atoms of different elements have different masses and chemical properties.\nIII. The relative number of atoms is variable in any compound.",
     "questionImage": null,
     "options": [
       {
@@ -3273,7 +3273,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Pancreatic enzymes function in an alkaline (basic) medium. Bicarbonate ions in pancreatic juice neutralize the acidic chyme entering the small intestine, creating the required basic environment.",
+    "explanation": "Pancreatic enzymes function in an alkaline \\(basic\\) medium. Bicarbonate ions in pancreatic juice neutralize the acidic chyme entering the small intestine, creating the required basic environment.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3320,7 +3320,7 @@
     "subject": "General Awareness",
     "topic": "Government Schemes",
     "difficulty": "Easy",
-    "question": "What does the letter 'J' stand for in the 'UJALA' scheme implemented by Energy Efficiency Services Limited (EESL)?",
+    "question": "What does the letter 'J' stand for in the 'UJALA' scheme implemented by Energy Efficiency Services Limited \\(EESL\\)?",
     "questionImage": null,
     "options": [
       {
@@ -3381,7 +3381,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "NASA's GOLD (Global-scale Observations of the Limb and Disk) and ICON (Ionospheric Connection Explorer) missions were launched to study Earth's ionosphere.",
+    "explanation": "NASA's GOLD \\(Global-scale Observations of the Limb and Disk\\) and ICON \\(Ionospheric Connection Explorer\\) missions were launched to study Earth's ionosphere.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3428,7 +3428,7 @@
     "subject": "General Awareness",
     "topic": "Current Affairs",
     "difficulty": "Easy",
-    "question": "On 26 July 2017, Parliament passed the Collection of Statistics (Amendment) Bill, 2017. This Bill amended which Act?",
+    "question": "On 26 July 2017, Parliament passed the Collection of Statistics \\(Amendment\\) Bill, 2017. This Bill amended which Act?",
     "questionImage": null,
     "options": [
       {
@@ -3453,7 +3453,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The Collection of Statistics (Amendment) Bill, 2017 amended the Collection of Statistics Act, 2008.",
+    "explanation": "The Collection of Statistics \\(Amendment\\) Bill, 2017 amended the Collection of Statistics Act, 2008.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3525,7 +3525,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "A curved distance-time graph indicates that the slope changes continuously. Since slope represents speed, the object is moving with non-uniform speed. (The source document's answer key appears to contain a typo.) :contentReference[oaicite:0]{index=0}",
+    "explanation": "A curved distance-time graph indicates that the slope changes continuously. Since slope represents speed, the object is moving with non-uniform speed. \\(The source document's answer key appears to contain a typo.\\) :contentReference[oaicite:0]{index=0}",
     "marks": 2,
     "negativeMarks": 0.5
   },

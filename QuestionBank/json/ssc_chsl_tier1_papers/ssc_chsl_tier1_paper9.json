@@ -12,27 +12,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "800",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "840",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "760",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "600",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n64% of the number = $$$$$$$$$$$$64 * 12.5 = 800.$$$$$$$$$$$$",
+    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n64% of the number = \\(\\)\\(\\)\\(\\)\\(\\)\\(64 * 12.5 = 800.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "Calculate the value of (5^(\\(\\frac{1}{4}\\)) - 1)(5^(\\(\\frac{3}{4}\\)) + 5^(\\(\\frac{2}{4}\\)) + 5^(\\(\\frac{1}{4}\\)) + 1)",
+    "question": "Calculate the value of \\(5^(\\(\\frac{1}{4}\\)) - 1)\\(5^(\\(\\frac{3}{4}\\)) + 5^\\(\\(\\frac{2}{4}\\)) + 5^\\(\\(\\frac{1}{4}\\)) + 1)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "5",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "4",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "10",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let 5^($\\frac{1}{4}$) = x. \nExpression = (x - 1)(x^3 + x^2 + x + 1) = x^$$$$$$$$$$$$4 - 1 = (5$$$$$$$$$$$$^($\\frac{1}{4}$))^$$$$$$$$$$$$4 - 1 = 5 - 1 = 4.$$$$$$$$$$$$",
+    "explanation": "Let 5^\\(\\frac{1}{4}\\) = x. \nExpression = \\(x - 1\\)\\(x^3 + x^2 + x + 1\\) = x^\\(\\)\\(\\)\\(\\)\\(\\)\\(4 - 1 = (5\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\frac{1}{4}\\))^\\(\\)\\(\\)\\(\\)\\(\\)\\(4 - 1 = 5 - 1 = 4.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,7 +81,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "Find 'x' if sqrt\\($(2 + 7$\\)x) = sqrt(3x + 4)",
+    "question": "Find 'x' if sqrt\\((2 + 7\\)x) = sqrt\\(3x + 4\\)",
     "questionImage": null,
     "options": [
       {
@@ -91,7 +91,7 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1",
         "image": null
       },
       {
@@ -101,12 +101,12 @@
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Squaring both sides: $$$$$$$$$$$$2 + 7$$$$$$$$$$$$x = 3x + 4 => 4x = 2 => x = 0.5.",
+    "explanation": "Squaring both sides: \\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 7\\)\\(\\)\\(\\)\\(\\)\\(\\)x = 3x + 4 => 4x = 2 => x = 0.5.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -123,27 +123,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "20",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "22",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "24",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "26",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the two consecutive even numbers be x and (x + 2).\nx(x + 2) = 168 => x^$$$$$$$$$$$$2 + 2$$$$$$$$$$$$x - 168 = 0 => (x + 14)(x - 12) = 0.\nSince x must be positive, x = 12. The numbers are 12 and 14.\nSum = $$$$$$$$$$$$12 + 14 = 26.$$$$$$$$$$$$",
+    "explanation": "Let the two consecutive even numbers be x and \\(x + 2\\).\nx\\(x + 2\\) = 168 => x^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 2\\)\\(\\)\\(\\)\\(\\)\\(\\)x - 168 = 0 => \\(x + 14\\)\\(x - 12\\) = 0.\nSince x must be positive, x = 12. The numbers are 12 and 14.\nSum = \\(\\)\\(\\)\\(\\)\\(\\)\\(12 + 14 = 26.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -155,32 +155,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=\\(\\frac{1}{6}\\) AB and AE=\\(\\frac{1}{6}\\) AC. If the value of BC is 18 cm then calculate the value of DE (in cm).",
+    "question": "A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=\\(\\frac{1}{6}\\) AB and AE=\\(\\frac{1}{6}\\) AC. If the value of BC is 18 cm then calculate the value of DE \\(in cm\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Conservative",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Congratulate",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Cooker",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Conflict",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\nAD/AB = DE/BC => $\\frac{1}{6}$ = DE/18 => DE = 3 cm.",
+    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\nAD/AB = DE/BC => \\(\\frac{1}{6}\\) = DE/18 => DE = 3 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -217,7 +217,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "For similar (equiangular) triangles, the ratio of corresponding sides is equal to the ratio of their corresponding medians. Thus, BC/EF = AL/DM.",
+    "explanation": "For similar \\(equiangular\\) triangles, the ratio of corresponding sides is equal to the ratio of their corresponding medians. Thus, BC/EF = AL/DM.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -229,32 +229,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The value of \\(a\\) car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value (in Rs) of the car 2 years ago?",
+    "question": "The value of \\(a\\) car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value \\(in Rs\\) of the car 2 years ago?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "594200",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "620000",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "563550",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "600000",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the value 2 years ago be x. \nx * (1 - $\\frac{15}{100}$)^2 = 433500\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
+    "explanation": "Let the value 2 years ago be x. \nx * (1 - \\(\\frac{15}{100}\\))^2 = 433500\n=> x * \\(0.85\\)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,32 +266,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "If A : B : C = \\($2:3$\\) : 5 and C : D = \\($2:5$\\), then what is A : D?",
+    "question": "If A : B : C = \\(2:3\\) : 5 and C : D = \\(2:5\\), then what is A : D?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($4:25$\\)",
+        "text": "\\(4:25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($8:21$\\)",
+        "text": "\\(8:21\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($6:25$\\)",
+        "text": "\\(6:25\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($12:35$\\)",
+        "text": "\\(12:35\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "To make C common: Multiply A:B:C = $$$$$$$$$$$$2:3$$$$$$$$$$$$:5 by 2 => A:B:C = $$$$$$$$$$$$4:6$$$$$$$$$$$$:10. \nMultiply C:D = $$$$$$$$$$$$2:5$$$$$$$$$$$$ by 5 => C:D = $$$$$$$$$$$$10:25$$$$$$$$$$$$. \nTherefore, A : D = $$$$$$$$$$$$4:25$$$$$$$$$$$$.",
+    "explanation": "To make C common: Multiply A:B:C = \\(\\)\\(\\)\\(\\)\\(\\)\\(2:3\\)\\(\\)\\(\\)\\(\\)\\(\\):5 by 2 => A:B:C = \\(\\)\\(\\)\\(\\)\\(\\)\\(4:6\\)\\(\\)\\(\\)\\(\\)\\(\\):10. \nMultiply C:D = \\(\\)\\(\\)\\(\\)\\(\\)\\(2:5\\)\\(\\)\\(\\)\\(\\)\\(\\) by 5 => C:D = \\(\\)\\(\\)\\(\\)\\(\\)\\(10:25\\)\\(\\)\\(\\)\\(\\)\\(\\). \nTherefore, A : D = \\(\\)\\(\\)\\(\\)\\(\\)\\(4:25\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -303,32 +303,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Easy",
-    "question": "In a mixture of 35 litres, the ratio of water and acid is \\($6:1$\\). If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
+    "question": "In a mixture of 35 litres, the ratio of water and acid is \\(6:1\\). If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($5:2$\\)",
+        "text": "\\(5:2\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($4:1$\\)",
+        "text": "\\(4:1\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($3:1$\\)",
+        "text": "\\(3:1\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($6:5$\\)",
+        "text": "\\(6:5\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Original Water = 35 * $\\frac{6}{7}$ = 30 litres. Original Acid = $$$$$$$$$$$$35 - 30 = 5$$$$$$$$$$$$ litres.\nAdding 5 litres of acid: new acid = 10 litres.\nNew ratio of water and acid = $$$$$$$$$$$$30:10$$$$$$$$$$$$ = $$$$$$$$$$$$3:1$$$$$$$$$$$$.",
+    "explanation": "Original Water = 35 * \\(\\frac{6}{7}\\) = 30 litres. Original Acid = \\(\\)\\(\\)\\(\\)\\(\\)\\(35 - 30 = 5\\)\\(\\)\\(\\)\\(\\)\\(\\) litres.\nAdding 5 litres of acid: new acid = 10 litres.\nNew ratio of water and acid = \\(\\)\\(\\)\\(\\)\\(\\)\\(30:10\\)\\(\\)\\(\\)\\(\\)\\(\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(3:1\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -340,32 +340,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Easy",
-    "question": "The average savings of Champak in 5 days is Rs 160. If his savings for the first 4 days is Rs 155, Rs 170, Rs 134 and Rs 168 respectively, then what is his saving (in Rs) of the 5th day?",
+    "question": "The average savings of Champak in 5 days is Rs 160. If his savings for the first 4 days is Rs 155, Rs 170, Rs 134 and Rs 168 respectively, then what is his saving \\(in Rs\\) of the 5th day?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "161",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "163",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "169",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "173",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total savings in 5 days = $$$$$$$$$$$$5 * 160$$$$$$$$$$$$ = Rs 800. \nSavings in first 4 days = $$$$$$$$$$$$155 + 170 + 134 + 168$$$$$$$$$$$$ = Rs 627. \nSaving of 5th day = $$$$$$$$$$$$800 - 627$$$$$$$$$$$$ = Rs 173.",
+    "explanation": "Total savings in 5 days = \\(\\)\\(\\)\\(\\)\\(\\)\\(5 * 160\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 800. \nSavings in first 4 days = \\(\\)\\(\\)\\(\\)\\(\\)\\(155 + 170 + 134 + 168\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 627. \nSaving of 5th day = \\(\\)\\(\\)\\(\\)\\(\\)\\(800 - 627\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 173.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -377,7 +377,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Compound Interest",
     "difficulty": "Easy",
-    "question": "A sum of Rs 6000 is borrowed at compound interest at the rate of 8% per annum. What will be the amount (in Rs) after 2 years?",
+    "question": "A sum of Rs 6000 is borrowed at compound interest at the rate of 8% per annum. What will be the amount \\(in Rs\\) after 2 years?",
     "questionImage": null,
     "options": [
       {
@@ -387,7 +387,7 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "6960",
         "image": null
       },
       {
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Amount = P(1 + R/100)^T = 6000 * (1 + $\\frac{8}{100}$)^2 = 6000 * (1.08)^2 = $$$$$$$$$$$$6000 * 1.1664$$$$$$$$$$$$ = Rs 6998.4.",
+    "explanation": "Amount = P\\(1 + R/100\\)^T = 6000 * (1 + \\(\\frac{8}{100}\\))^2 = 6000 * \\(1.08\\)^2 = \\(\\)\\(\\)\\(\\)\\(\\)\\(6000 * 1.1664\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 6998.4.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -414,7 +414,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "Cost price of an article is Rs 122. If profit percentage is 56%, then what is the selling price (in Rs) of the article?",
+    "question": "Cost price of an article is Rs 122. If profit percentage is 56%, then what is the selling price \\(in Rs\\) of the article?",
     "questionImage": null,
     "options": [
       {
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "SP = CP * (1 + Profit%/100) = 122 + ($\\frac{56}{100}$)*122 = $$$$$$$$$$$$122 + 68.32$$$$$$$$$$$$ = Rs 190.32.",
+    "explanation": "SP = CP * \\(1 + Profit%/100\\) = 122 + \\(\\frac{56}{100}\\)*122 = \\(\\)\\(\\)\\(\\)\\(\\)\\(122 + 68.32\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 190.32.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -456,27 +456,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($6:5$\\)",
+        "text": "\\(6:5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($5:3$\\)",
+        "text": "\\(5:3\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($10:7$\\)",
+        "text": "\\(10:7\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($7:5$\\)",
+        "text": "\\(7:5\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \nRatio of MP to CP = 50x : 125x/3 = $$$$$$$$$$$$150:125$$$$$$$$$$$$ = $$$$$$$$$$$$6:5$$$$$$$$$$$$.",
+    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \nRatio of MP to CP = 50x : 125x/3 = \\(\\)\\(\\)\\(\\)\\(\\)\\(150:125\\)\\(\\)\\(\\)\\(\\)\\(\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(6:5\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,32 +488,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What is the positive square root of [\\$(19 + 4$\\)√21]?",
+    "question": "What is the positive square root of [\\((19 + 4\\)\\)√21]?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "√\\$(7 + 2$\\)√3",
+        "text": "√\\((7 + 2\\)\\)√3",
         "image": null
       },
       {
         "id": "B",
-        "text": "√\\$(3 + 2$\\)√7",
+        "text": "√\\((3 + 2\\)\\)√7",
         "image": null
       },
       {
         "id": "C",
-        "text": "√\\$(2 + 3$\\)√7",
+        "text": "√\\((2 + 3\\)\\)√7",
         "image": null
       },
       {
         "id": "D",
-        "text": "√\\$(7 + 3$\\)√3",
+        "text": "√\\((7 + 3\\)\\)√3",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = $$$$$$$$$$$$19 + 4$$$$$$$$$$$$√21 = $$$$$$$$$$$$7 + 12 + 2$$$$$$$$$$$$ * √7 * √12 = (√7 + √12)^2.\nSquare root = √7 + √12 = √$$$$$$$$$$$$7 + 2$$$$$$$$$$$$√3.",
+    "explanation": "Expression = \\(\\)\\(\\)\\(\\)\\(\\)\\(19 + 4\\)\\(\\)\\(\\)\\(\\)\\(\\)√21 = \\(\\)\\(\\)\\(\\)\\(\\)\\(7 + 12 + 2\\)\\(\\)\\(\\)\\(\\)\\(\\) * √7 * √12 = \\(√7 + √12\\)^2.\nSquare root = √7 + √12 = √\\(\\)\\(\\)\\(\\)\\(\\)\\(7 + 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -550,7 +550,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "18 men = 25 boys => 1 man = $\\frac{25}{18}$ boys. \n36 men + 10 boys = 36*($\\frac{25}{18}$) + 10 = $$$$$$$$$$$$50 + 10 = 60$$$$$$$$$$$$ boys. \nSince 25 boys take 25 days, 60 boys take $$$$$$$$$$$$(25 * 25) / 60$$$$$$$$$$$$ = $\\frac{125}{12}$ days.",
+    "explanation": "18 men = 25 boys => 1 man = \\(\\frac{25}{18}\\) boys. \n36 men + 10 boys = 36*\\(\\frac{25}{18}\\) + 10 = \\(\\)\\(\\)\\(\\)\\(\\)\\(50 + 10 = 60\\)\\(\\)\\(\\)\\(\\)\\(\\) boys. \nSince 25 boys take 25 days, 60 boys take \\(\\)\\(\\)\\(\\)\\(\\)\\(25 * 25\\) / 60\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) = \\(\\frac{125}{12}\\) days.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -562,32 +562,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Distance",
     "difficulty": "Easy",
-    "question": "Vipin crosses a 450 metres wide road in 9 seconds. What is his speed (in km/hr)?",
+    "question": "Vipin crosses a 450 metres wide road in 9 seconds. What is his speed \\(in km/hr\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "195",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "150",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "210",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "180",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Speed = 450 m / 9 s = 50 m/s. \nSpeed in km/hr = 50 * $\\frac{18}{5}$ = 180 km/hr.",
+    "explanation": "Speed = 450 m / 9 s = 50 m/s. \nSpeed in km/hr = 50 * \\(\\frac{18}{5}\\) = 180 km/hr.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "60",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "50",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "70",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "40",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total elephants = $$$$$$$$$$$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$$$$$$$$$$",
+    "explanation": "Total elephants = \\(\\)\\(\\)\\(\\)\\(\\)\\(600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,27 +678,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1.167",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "0.7",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "0.6",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2.333",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Number of elephants in D = 400. Total = 4000. \nRequired central angle = ($\\frac{400}{4000}$) * 360° = 36°.",
+    "explanation": "Number of elephants in D = 400. Total = 4000. \nRequired central angle = \\(\\frac{400}{4000}\\) * 360° = 36°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -710,32 +710,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "The salary of an executive in the company is Rs 30,000, then what was the increase in the expense (in Rs lakhs) due to salaries that had to be paid when posts were filled for the vacancies in the year 2017?",
+    "question": "The salary of an executive in the company is Rs 30,000, then what was the increase in the expense \\(in Rs lakhs\\) due to salaries that had to be paid when posts were filled for the vacancies in the year 2017?",
     "questionImage": "ssc_chsl_tier1_paper9_q17to20.png",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "9",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "12",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\nTotal monthly expense = $$$$$$$$$$$$40 * 30$$$$$$$$$$$$,000 = Rs 12,00,000 = 12 lakhs.",
+    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\nTotal monthly expense = \\(\\)\\(\\)\\(\\)\\(\\)\\(40 * 30\\)\\(\\)\\(\\)\\(\\)\\(\\),000 = Rs 12,00,000 = 12 lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -747,32 +747,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "If the lengths of the two parallel sides of a trapezium are 8 cm and 10 cm and the distance between these parallel sides is 6 cm. Find its area (in cm^2).",
+    "question": "If the lengths of the two parallel sides of a trapezium are 8 cm and 10 cm and the distance between these parallel sides is 6 cm. Find its area \\(in cm^2\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "27",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "108",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "54",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "81",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Area of trapezium = $\\frac{1}{2}$ * (sum of parallel sides) * height = $\\frac{1}{2}$ * $$$$$$$$$$$$(8 + 10) * 6 = 9 * 6 = 54$$$$$$$$$$$$ cm^2.",
+    "explanation": "Area of trapezium = \\(\\frac{1}{2}\\) * \\(sum of parallel sides\\) * height = \\(\\frac{1}{2}\\) * \\(\\)\\(\\)\\(\\)\\(\\)\\(8 + 10\\) * 6 = 9 * 6 = 54\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) cm^2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -784,32 +784,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "If the diameter of a circle is 7 cm, then what will be its circumference (in cm)?",
+    "question": "If the diameter of a circle is 7 cm, then what will be its circumference \\(in cm\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "44",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "22",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "26",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "52",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Circumference = 2 * pi * r = pi * d = ($\\frac{22}{7}$) * 7 = 22 cm.",
+    "explanation": "Circumference = 2 * pi * r = pi * d = \\(\\frac{22}{7}\\) * 7 = 22 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -821,7 +821,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "Find the volume (in cm^3) of a cube of side 6.5 cm.",
+    "question": "Find the volume \\(in cm^3\\) of a cube of side 6.5 cm.",
     "questionImage": null,
     "options": [
       {
@@ -846,7 +846,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Volume of cube = a^3 = (6.5)^3 = 274.625 cm^3.",
+    "explanation": "Volume of cube = a^3 = \\(6.5\\)^3 = 274.625 cm^3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,17 +858,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔDEF is right angled at E. If m∠D = 30°, then find the value of (cosF + √3).",
+    "question": "ΔDEF is right angled at E. If m∠D = 30°, then find the value of \\(cosF + √3\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\$(7 / 2$\\)√3",
+        "text": "\\((7 / 2\\)\\)√3",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($(1 + 2$\\)√3)/2",
+        "text": "\\((1 + 2\\)√3)/2",
         "image": null
       },
       {
@@ -878,12 +878,12 @@
       },
       {
         "id": "D",
-        "text": "(√\\$(3 + 4)/2$\\)",
+        "text": "(√\\(\\)(3 + 4\\(\\)/2\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\ncos F + √3 = cos(60°) + √3 = $\\frac{1}{2}$ + √3 = $$$$$$$$$$$$(1 + 2$$$$$$$$$$$$√3)/2.",
+    "explanation": "In ΔDEF, ∠F = 180° - \\(90° + 30°\\) = 60°.\ncos F + √3 = cos\\(60°\\) + √3 = \\(\\frac{1}{2}\\) + √3 = \\(\\)\\(\\)\\(\\)\\(\\)\\((1 + 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√3)/2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "sin D = EF / DF = $\\frac{15}{17}$. Let EF = 15, DF = 17.\nDE = sqrt(DF^2 - EF^2) = sqrt$$$$$$$$$$$$(289 - 225)$$$$$$$$$$$$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = $\\frac{15}{8}$.",
+    "explanation": "sin D = EF / DF = \\(\\frac{15}{17}\\). Let EF = 15, DF = 17.\nDE = sqrt\\(DF^2 - EF^2\\) = sqrt\\(\\)\\(\\)\\(\\)\\(\\)\\(289 - 225\\)\\(\\)\\(\\)\\(\\)\\(\\) = sqrt\\(64\\) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\(\\frac{15}{8}\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,32 +969,32 @@
     "subject": "General Intelligence",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number pair from the given alternatives.\n\n\\($16:48$\\) : : ? : ?",
+    "question": "Select the related number pair from the given alternatives.\n\n\\(16:48\\) : : ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($25:75$\\)",
+        "text": "\\(25:75\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($11:32$\\)",
+        "text": "\\(11:32\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($25:64$\\)",
+        "text": "\\(25:64\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($49:72$\\)",
+        "text": "\\(49:72\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The relationship is n : 3n. $$$$$$$$$$$$16 * 3 = 48.$$$$$$$$$$$$ Similarly, $$$$$$$$$$$$25 * 3 = 75.$$$$$$$$$$$$",
+    "explanation": "The relationship is n : 3n. \\(\\)\\(\\)\\(\\)\\(\\)\\(16 * 3 = 48.\\)\\(\\)\\(\\)\\(\\)\\(\\) Similarly, \\(\\)\\(\\)\\(\\)\\(\\)\\(25 * 3 = 75.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1031,7 +1031,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern followed is incrementing each letter by 1 (+1):\nA(+1)->B, P(+1)->Q, R(+1)->S. \nSimilarly for ETV: E(+1)->F, T(+1)->U, V(+1)->W. Thus, the missing term is FUW.",
+    "explanation": "The pattern followed is incrementing each letter by 1 \\(+1\\):\nA\\(+1\\)->B, P\\(+1\\)->Q, R\\(+1\\)->S. \nSimilarly for ETV: E\\(+1\\)->F, T\\(+1\\)->U, V\\(+1\\)->W. Thus, the missing term is FUW.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$(7 - 14$\\)",
+        "text": "\\((7 - 14\\)\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(11 - 22$\\)",
+        "text": "\\((11 - 22\\)\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(5 - 10$\\)",
+        "text": "\\((5 - 10\\)\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(3 - 8$\\)",
+        "text": "\\((3 - 8\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all options except D, the second number is exactly double of the first number. In option D, $$$$$$$$$$$$3 * 2 = 6$$$$$$$$$$$$ (not 8).",
+    "explanation": "In all options except D, the second number is exactly double of the first number. In option D, \\(\\)\\(\\)\\(\\)\\(\\)\\(3 * 2 = 6\\)\\(\\)\\(\\)\\(\\)\\(\\) \\(not 8\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1142,7 +1142,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In options A, B and C, the letters are incremented by 7 (+7): K(+7)->R(+7)->Y, etc.\nIn option D, L(+10)->V(+4)->Z. So, LVZ is the odd one.",
+    "explanation": "In options A, B and C, the letters are incremented by 7 \\(+7\\): K\\(+7\\)->R\\(+7\\)->Y, etc.\nIn option D, L\\(+10\\)->V\\(+4\\)->Z. So, LVZ is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1179,7 +1179,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Dictionary order: Conflict (3) -> Congratulate (4) -> Conservative (1) -> Cooker (2) -> Cool (5). Congratulate comes at the second position.",
+    "explanation": "Dictionary order: Conflict \\(3\\) -> Congratulate \\(4\\) -> Conservative \\(1\\) -> Cooker \\(2\\) -> Cool \\(5\\). Congratulate comes at the second position.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1191,32 +1191,32 @@
     "subject": "General Intelligence",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n\n\\($14,19,26,37,50,67$\\), ?",
+    "question": "Select the missing number from the given series.\n\n\\(14,19,26,37,50,67\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "83",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "85",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "86",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "93",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Consecutive prime numbers are added to each term: \n$$$$$$$$$$$$14 + 5 = 19$$$$$$$$$$$$ \n$$$$$$$$$$$$19 + 7 = 26$$$$$$$$$$$$ \n$$$$$$$$$$$$26 + 11 = 37$$$$$$$$$$$$ \n$$$$$$$$$$$$37 + 13 = 50$$$$$$$$$$$$ \n$$$$$$$$$$$$50 + 17 = 67$$$$$$$$$$$$ \n$$$$$$$$$$$$67 + 19 = 86.$$$$$$$$$$$$",
+    "explanation": "Consecutive prime numbers are added to each term: \n\\(\\)\\(\\)\\(\\)\\(\\)\\(14 + 5 = 19\\)\\(\\)\\(\\)\\(\\)\\(\\) \n\\(\\)\\(\\)\\(\\)\\(\\)\\(19 + 7 = 26\\)\\(\\)\\(\\)\\(\\)\\(\\) \n\\(\\)\\(\\)\\(\\)\\(\\)\\(26 + 11 = 37\\)\\(\\)\\(\\)\\(\\)\\(\\) \n\\(\\)\\(\\)\\(\\)\\(\\)\\(37 + 13 = 50\\)\\(\\)\\(\\)\\(\\)\\(\\) \n\\(\\)\\(\\)\\(\\)\\(\\)\\(50 + 17 = 67\\)\\(\\)\\(\\)\\(\\)\\(\\) \n\\(\\)\\(\\)\\(\\)\\(\\)\\(67 + 19 = 86.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1253,7 +1253,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern followed is incrementing by 4 letters (+4): K(+4)->O(+4)->S(+4)->W(+4)->A.",
+    "explanation": "The pattern followed is incrementing by 4 letters \\(+4\\): K\\(+4\\)->O\\(+4\\)->S\\(+4\\)->W\\(+4\\)->A.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1265,7 +1265,7 @@
     "subject": "General Intelligence",
     "topic": "Directions",
     "difficulty": "Medium",
-    "question": "From a hospital S, Pritam walked 49 metres to the south, then after turning to right he walked 49 metres. He again turned right and walked another 34 metres and finally turned to right and walked 49 metres. At what distance (in metres) and in which direction is he from the hospital S now?",
+    "question": "From a hospital S, Pritam walked 49 metres to the south, then after turning to right he walked 49 metres. He again turned right and walked another 34 metres and finally turned to right and walked 49 metres. At what distance \\(in metres\\) and in which direction is he from the hospital S now?",
     "questionImage": null,
     "options": [
       {
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Pritam starts at hospital S. Walks 49m South to T (0, -49). Turns right (West) 49m to U (-49, -49). Turns right (North) 34m to V (-49, -15). Turns right (East) 49m to W (0, -15).\nHe is at W, which is 15m South of S.",
+    "explanation": "Pritam starts at hospital S. Walks 49m South to T \\(0, -49\\). Turns right \\(West\\) 49m to U \\(-49, -49\\). Turns right \\(North\\) 34m to V \\(-49, -15\\). Turns right \\(East\\) 49m to W \\(0, -15\\).\nHe is at W, which is 15m South of S.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1401,7 +1401,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Each letter in the terms is incremented by 1 (+1):\n1st letter: P(+1)->Q(+1)->R(+1)->S(+1)->T\n2nd letter: C(+1)->D(+1)->E(+1)->F(+1)->G\n3rd letter: O(+1)->P(+1)->Q(+1)->R(+1)->S\nMissing term is SFR.",
+    "explanation": "Each letter in the terms is incremented by 1 \\(+1\\):\n1st letter: P\\(+1\\)->Q\\(+1\\)->R\\(+1\\)->S\\(+1\\)->T\n2nd letter: C\\(+1\\)->D\\(+1\\)->E\\(+1\\)->F\\(+1\\)->G\n3rd letter: O\\(+1\\)->P\\(+1\\)->Q\\(+1\\)->R\\(+1\\)->S\nMissing term is SFR.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,32 +1413,32 @@
     "subject": "General Intelligence",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n\\($133,136,139,142$\\), ?, 148",
+    "question": "Select the missing number from the given series.\n\n\\(133,136,139,142\\), ?, 148",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "146",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "145",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "144",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "147",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern is adding 3 (+3) to each term: $$$$$$$$$$$$142 + 3 = 145.$$$$$$$$$$$$",
+    "explanation": "The pattern is adding 3 \\(+3\\) to each term: \\(\\)\\(\\)\\(\\)\\(\\)\\(142 + 3 = 145.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1455,27 +1455,27 @@
     "options": [
       {
         "id": "A",
-        "text": "(57, 61, 65)",
+        "text": "\\(57, 61, 65\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "(92, 96, 100)",
+        "text": "\\(92, 96, 100\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "(63, 67, 71)",
+        "text": "\\(63, 67, 71\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "(64, 68, 70)",
+        "text": "\\(64, 68, 70\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In options A, B, and C, the pattern is (x, x + 4, x + 8). In option D, $$$$$$$$$$$$64 + 8 = 72$$$$$$$$$$$$ (not 70), so (64, 68, 70) is the odd one.",
+    "explanation": "In options A, B, and C, the pattern is \\(x, x + 4, x + 8\\). In option D, \\(\\)\\(\\)\\(\\)\\(\\)\\(64 + 8 = 72\\)\\(\\)\\(\\)\\(\\)\\(\\) \\(not 70\\), so \\(64, 68, 70\\) is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1487,32 +1487,32 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n\\$(20 + 6$\\) x $5 \\div \\$(20 - 14 = ?$\\)",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n\\(\\((20 + 6\\)\\(\\) x \\)5 \\div \\(\\)(20 - 14 = ?\\)$\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "45",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "26",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "12",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Decoding the expression gives: $$$$$$$$$$$$20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18.$$$$$$$$$$$$",
+    "explanation": "Decoding the expression gives: \\(\\)\\(\\)\\(\\)\\(\\)\\(20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1524,7 +1524,7 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(19 - 16 + 5$\\) \\div 10$ x 2 = 28",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\($(19 - 16 + 5\\)\\(\\) \\div 10\\) x 2 = 28",
     "questionImage": null,
     "options": [
       {
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Interchanging '÷' and 'x' gives: $$$$$$$$$$$$19 - 16 + 5 * 10 / 2 = 3 + 25 = 28.$$$$$$$$$$$$ This balances the equation.",
+    "explanation": "Interchanging '÷' and 'x' gives: \\(\\)\\(\\)\\(\\)\\(\\)\\(19 - 16 + 5 * 10 / 2 = 3 + 25 = 28.\\)\\(\\)\\(\\)\\(\\)\\(\\) This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1566,27 +1566,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "40",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "100",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "20",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "90",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The operation is: a & b = (a + b) * 10. Thus, 5&5 = $$$$$$$$$$$$(5 + 5) * 10 = 100.$$$$$$$$$$$$",
+    "explanation": "The operation is: a & b = \\(a + b\\) * 10. Thus, 5&5 = \\(\\)\\(\\)\\(\\)\\(\\)\\(5 + 5\\) * 10 = 100.\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1623,7 +1623,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern followed is that the lowercase letter shifts one position to the right in each term. In the 6th term, the second last letter (y) is at the end: 'XYXYXYxY'.",
+    "explanation": "The pattern followed is that the lowercase letter shifts one position to the right in each term. In the 6th term, the second last letter \\(y\\) is at the end: 'XYXYXYxY'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1660,7 +1660,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Cruiser A ends at (-60, -50). \nCruiser B goes 105m West -> (-105, 0), turns left (South) 50m -> (-105, -50), turns West 45m -> (-150, -50).\nCruiser A's position with respect to B is -60 - (-150) = 90 miles East.",
+    "explanation": "Cruiser A ends at \\(-60, -50\\). \nCruiser B goes 105m West -> \\(-105, 0\\), turns left \\(South\\) 50m -> \\(-105, -50\\), turns West 45m -> \\(-150, -50\\).\nCruiser A's position with respect to B is -60 - \\(-150\\) = 90 miles East.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1697,7 +1697,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since all doors are windows, and no openings are windows, it implies no openings can be doors (Conclusion II is true). Conclusion I is clearly false. Thus, only conclusion II follows.",
+    "explanation": "Since all doors are windows, and no openings are windows, it implies no openings can be doors \\(Conclusion II is true\\). Conclusion I is clearly false. Thus, only conclusion II follows.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1734,7 +1734,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Boxers (square) who are Playwrights (triangle) are represented by the intersection region of the square and the triangle, which is 'JA'.",
+    "explanation": "Boxers \\(square\\) who are Playwrights \\(triangle\\) are represented by the intersection region of the square and the triangle, which is 'JA'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($44,34,68,10$\\)",
+        "text": "\\(44,34,68,10\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($11,89,13,77$\\)",
+        "text": "\\(11,89,13,77\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($20,88,11,86$\\)",
+        "text": "\\(20,88,11,86\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($42,67,12,89$\\)",
+        "text": "\\(42,67,12,89\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So $$$$$$$$$$$$44,34,68,10$$$$$$$$$$$$ represents 'HIND'.",
+    "explanation": "Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So \\(\\)\\(\\)\\(\\)\\(\\)\\(44,34,68,10\\)\\(\\)\\(\\)\\(\\)\\(\\) represents 'HIND'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1968,7 +1968,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Easy",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nI don't think I shall (A)/get through all (B)/this work this afternoon.(C)/No error (D)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nI don't think I shall \\(A\\)/get through all \\(B\\)/this work this afternoon.\\(C\\)/No error \\(D\\)",
     "questionImage": null,
     "options": [
       {
@@ -1993,7 +1993,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The sentence is grammatically correct. Hence, option D (No error) is the correct answer.",
+    "explanation": "The sentence is grammatically correct. Hence, option D \\(No error\\) is the correct answer.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2030,7 +2030,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "'Divulgence' means revealing secret information. Its opposite (antonym) is 'repudiation' (denial/rejection) or suppression.",
+    "explanation": "'Divulgence' means revealing secret information. Its opposite \\(antonym\\) is 'repudiation' \\(denial/rejection\\) or suppression.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2178,7 +2178,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The correct spelling is 'neoplasm'. (Others are correctly spelled as 'imminent', 'mourning', 'latticed').",
+    "explanation": "The correct spelling is 'neoplasm'. \\(Others are correctly spelled as 'imminent', 'mourning', 'latticed'\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2190,7 +2190,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Improve the bracketed part of the sentence.\n\nYour character depends on (your upbringing).",
+    "question": "Improve the bracketed part of the sentence.\n\nYour character depends on \\(your upbringing\\).",
     "questionImage": null,
     "options": [
       {
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
     "questionImage": null,
     "options": [
       {
@@ -2326,7 +2326,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The printed key in this paper is C (Inside).",
+    "explanation": "The printed key in this paper is C \\(Inside\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
     "questionImage": null,
     "options": [
       {
@@ -2363,7 +2363,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The printed key is D (with), though grammatically 'command over' is also commonly used.",
+    "explanation": "The printed key is D \\(with\\), though grammatically 'command over' is also commonly used.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
     "questionImage": null,
     "options": [
       {
@@ -2400,7 +2400,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The printed key in this paper is A (smelly).",
+    "explanation": "The printed key in this paper is A \\(smelly\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
     "questionImage": null,
     "options": [
       {
@@ -2437,7 +2437,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The printed key is B (to).",
+    "explanation": "The printed key is B \\(to\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
     "questionImage": null,
     "options": [
       {
@@ -2486,7 +2486,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Improve the bracketed part of the sentence.\n\nMy daughter (is loving) Glucose biscuits.",
+    "question": "Improve the bracketed part of the sentence.\n\nMy daughter \\(is loving\\) Glucose biscuits.",
     "questionImage": null,
     "options": [
       {
@@ -2585,7 +2585,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The printed key in this paper is D (vibrate), although 'fluctuate' is also a common usage in this context.",
+    "explanation": "The printed key in this paper is D \\(vibrate\\), although 'fluctuate' is also a common usage in this context.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2622,7 +2622,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The printed key in this paper is A (organic).",
+    "explanation": "The printed key in this paper is A \\(organic\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2696,7 +2696,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The printed key in this paper is B (facile), although 'elaborate' fits the definition of being detailed and complicated.",
+    "explanation": "The printed key in this paper is B \\(facile\\), although 'elaborate' fits the definition of being detailed and complicated.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2708,7 +2708,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Easy",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nHe has seen (A)/some bad days (B)/but now he is well of.(C)/No error(D)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nHe has seen \\(A\\)/some bad days \\(B\\)/but now he is well of.\\(C\\)/No error\\(D\\)",
     "questionImage": null,
     "options": [
       {
@@ -2807,7 +2807,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Titanic (1997) won 11 Academy Awards, which ties it for the record of most Oscar wins by a single film.",
+    "explanation": "Titanic \\(1997\\) won 11 Academy Awards, which ties it for the record of most Oscar wins by a single film.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2918,7 +2918,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Willow bark contains salicin, which is chemically similar to aspirin and is used to synthesize acetylsalicylic acid (aspirin).",
+    "explanation": "Willow bark contains salicin, which is chemically similar to aspirin and is used to synthesize acetylsalicylic acid \\(aspirin\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3004,7 +3004,7 @@
     "subject": "General Awareness",
     "topic": "Chemistry",
     "difficulty": "Easy",
-    "question": "Atomic number of which of the following elements is greater than that of Bromine (35)?",
+    "question": "Atomic number of which of the following elements is greater than that of Bromine \\(35\\)?",
     "questionImage": null,
     "options": [
       {
@@ -3029,7 +3029,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Atomic numbers: Silver (Ag) is 47, Bromine (Br) is 35, Copper (Cu) is 29, Iron (Fe) is 26, Chromium (Cr) is 24. Thus, Silver is greater.",
+    "explanation": "Atomic numbers: Silver \\(Ag\\) is 47, Bromine \\(Br\\) is 35, Copper \\(Cu\\) is 29, Iron \\(Fe\\) is 26, Chromium \\(Cr\\) is 24. Thus, Silver is greater.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3066,7 +3066,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "GUI stands for Graphical User Interface (often referred to as Graphic User Interface in exam questions).",
+    "explanation": "GUI stands for Graphical User Interface \\(often referred to as Graphic User Interface in exam questions\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3103,7 +3103,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Tamil is one of the official languages of the Union Territory of Puducherry (along with French and Telugu).",
+    "explanation": "Tamil is one of the official languages of the Union Territory of Puducherry \\(along with French and Telugu\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3140,7 +3140,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Price Elasticity of Demand (Ed) = % Change in Quantity Demanded / % Change in Price\n=> -1.6 = 4% / % Change in Price\n=> % Change in Price = 4% / -1.6 = -2.5%.\nThus, it must lower its price by 2.5 percent.",
+    "explanation": "Price Elasticity of Demand \\(Ed\\) = % Change in Quantity Demanded / % Change in Price\n=> -1.6 = 4% / % Change in Price\n=> % Change in Price = 4% / -1.6 = -2.5%.\nThus, it must lower its price by 2.5 percent.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3177,7 +3177,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The printed key has option A, though option C also has the exact same text ('increase; decrease'). We write A.",
+    "explanation": "The printed key has option A, though option C also has the exact same text \\('increase; decrease'\\). We write A.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3251,7 +3251,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Bacillary dysentery is caused by Shigella bacteria. Amoebic dysentery is caused by Entamoeba histolytica (protozoan). The printed key selects option D (Bacterial).",
+    "explanation": "Bacillary dysentery is caused by Shigella bacteria. Amoebic dysentery is caused by Entamoeba histolytica \\(protozoan\\). The printed key selects option D \\(Bacterial\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3416,22 +3416,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1902",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1912",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1922",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1932",
         "image": null
       }
     ],
@@ -3510,7 +3510,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "A psophometer is an instrument used to measure the noise level in audio frequency (AF) circuits.",
+    "explanation": "A psophometer is an instrument used to measure the noise level in audio frequency \\(AF\\) circuits.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3547,7 +3547,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Units: ampere (I) * meters (L) / second^2 (T^2) = [I LT-2].",
+    "explanation": "Units: ampere \\(I\\) * meters \\(L\\) / second^2 \\(T^2\\) = [I LT-2].",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3564,22 +3564,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1947",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1976",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1991",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2016",
         "image": null
       }
     ],
@@ -3596,27 +3596,27 @@
     "subject": "General Awareness",
     "topic": "Polity",
     "difficulty": "Easy",
-    "question": "The number of parliamentary seats (Rajya Sabha) of Chhattisgarh is _______.",
+    "question": "The number of parliamentary seats \\(Rajya Sabha\\) of Chhattisgarh is _______.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "5",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "11",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "16",
         "image": null
       }
     ],

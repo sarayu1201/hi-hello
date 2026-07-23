@@ -12,27 +12,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "7",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "0",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "8",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "6",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "For a number to be divisible by 9, the sum of its digits must be divisible by 9. Sum = $$$$$$$$$$$$6 + 5 + 7 + 3 + 5 + 4 + 7$$$$$$$$$$$$ + x + $$$$$$$$$$$$4 + 5$$$$$$$$$$$$ = x + 46. The next multiple of 9 is 54. x = $$$$$$$$$$$$54 - 46 = 8.$$$$$$$$$$$$",
+    "explanation": "For a number to be divisible by 9, the sum of its digits must be divisible by 9. Sum = \\(\\)\\(\\)\\(\\)\\(\\)\\(6 + 5 + 7 + 3 + 5 + 4 + 7\\)\\(\\)\\(\\)\\(\\)\\(\\) + x + \\(\\)\\(\\)\\(\\)\\(\\)\\(4 + 5\\)\\(\\)\\(\\)\\(\\)\\(\\) = x + 46. The next multiple of 9 is 54. x = \\(\\)\\(\\)\\(\\)\\(\\)\\(54 - 46 = 8.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "Calculate the value of \\($(59881 * 59881 - 49681 * 49681) / 10200$\\)",
+    "question": "Calculate the value of \\((59881 * 59881 - 49681 * 49681\\) / 10200\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "110956",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "109562",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "109652",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "109662",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using the algebraic identity a^2 - b^2 = (a - b)(a + b):\nExpression = $$$$$$$$$$$$(59881 - 49681)$$$$$$$$$$$$$$$$$$$$$$$$(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562.$$$$$$$$$$$$",
+    "explanation": "Using the algebraic identity a^2 - b^2 = \\(a - b\\)\\(a + b\\):\nExpression = \\(\\)\\(\\)\\(\\)\\(\\)\\(59881 - 49681\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(59881 + 49681\\) / 10200 = 10200 * 109562 / 10200 = 109562.\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,7 +81,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If (\\(\\frac{5}{7}\\))^(4x) * (\\(\\frac{7}{5}\\))^(3x-1) = (\\(\\frac{7}{5}\\))^6, then the value of \\(x\\) which satisfies the equation.",
+    "question": "If \\(\\(\\frac{5}{7}\\))^\\(4x\\) * \\(\\(\\frac{7}{5}\\))^\\(3x-1\\) = \\(\\(\\frac{7}{5}\\))^6, then the value of \\(x\\) which satisfies the equation.",
     "questionImage": null,
     "options": [
       {
@@ -96,17 +96,17 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "7",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "We can rewrite ($\\frac{5}{7}$)^(4x) as ($\\frac{7}{5}$)^(-4x).\nHence, ($\\frac{7}{5}$)^(-4x) * ($\\frac{7}{5}$)^(3x-1) = ($\\frac{7}{5}$)^6\n=> ($\\frac{7}{5}$)^(-4x + 3x - 1) = ($\\frac{7}{5}$)^6\n=> -x - 1 = 6 => x = -7.",
+    "explanation": "We can rewrite \\(\\frac{5}{7}\\)^\\(4x\\) as \\(\\frac{7}{5}\\)^\\(-4x\\).\nHence, \\(\\frac{7}{5}\\)^\\(-4x\\) * \\(\\frac{7}{5}\\)^\\(3x-1\\) = \\(\\frac{7}{5}\\)^6\n=> \\(\\frac{7}{5}\\)^\\(-4x + 3x - 1\\) = \\(\\frac{7}{5}\\)^6\n=> -x - 1 = 6 => x = -7.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -118,32 +118,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If x^16 = (x^\\$(32 - 1)/5$\\), then find the value of (x^\\$(96 - 1)$\\)/x^48.",
+    "question": "If x^16 = (x^\\(\\)(32 - 1\\(\\)/5\\)\\), then find the value of (x^\\(\\)(96 - 1\\(\\)\\)\\)/x^48.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "40",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "70",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "140",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "180",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given: x^16 = (x^$$$$$$$$$$$$32 - 1)/5 => 5 = ($$$$$$$$$$$$x^$$$$$$$$$$$$32 - 1)$$$$$$$$$$$$/x^16 => x^$$$$$$$$$$$$16 - 1$$$$$$$$$$$$/x^16 = 5.\nCubing both sides: (x^$$$$$$$$$$$$16 - 1$$$$$$$$$$$$/x^16)^3 = 5^3\n=> x^$$$$$$$$$$$$48 - 1$$$$$$$$$$$$/x^$$$$$$$$$$$$48 - 3$$$$$$$$$$$$(x^16)(1/x^16)(x^$$$$$$$$$$$$16 - 1$$$$$$$$$$$$/x^16) = 125\n=> x^$$$$$$$$$$$$48 - 1$$$$$$$$$$$$/x^$$$$$$$$$$$$48 - 3$$$$$$$$$$$$(5) = 125\n=> x^$$$$$$$$$$$$48 - 1$$$$$$$$$$$$/x^48 = 140 => (x^$$$$$$$$$$$$96 - 1)$$$$$$$$$$$$/x^48 = 140.",
+    "explanation": "Given: x^16 = (x^\\(\\)\\(\\)\\(\\)\\(\\)\\(32 - 1)/5 => 5 = (\\)\\(\\)\\(\\)\\(\\)\\(\\)x^\\(\\)\\(\\)\\(\\)\\(\\)\\(32 - 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^16 => x^\\(\\)\\(\\)\\(\\)\\(\\)\\(16 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^16 = 5.\nCubing both sides: (x^\\(\\)\\(\\)\\(\\)\\(\\)\\(16 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^16)^3 = 5^3\n=> x^\\(\\)\\(\\)\\(\\)\\(\\)\\(48 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^\\(\\)\\(\\)\\(\\)\\(\\)\\(48 - 3\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(x^16\\)\\(1/x^16\\)(x^\\(\\)\\(\\)\\(\\)\\(\\)\\(16 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^16) = 125\n=> x^\\(\\)\\(\\)\\(\\)\\(\\)\\(48 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^\\(\\)\\(\\)\\(\\)\\(\\)\\(48 - 3\\)\\(\\)\\(\\)\\(\\)\\(\\)\\(5\\) = 125\n=> x^\\(\\)\\(\\)\\(\\)\\(\\)\\(48 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^48 = 140 => (x^\\(\\)\\(\\)\\(\\)\\(\\)\\(96 - 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)/x^48 = 140.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -155,7 +155,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Medium",
-    "question": "If the length of the transverse tangent is 8 cm, then calculate the centre distance (in cm) of the two circles with radii 7 cm and 3 cm.",
+    "question": "If the length of the transverse tangent is 8 cm, then calculate the centre distance \\(in cm\\) of the two circles with radii 7 cm and 3 cm.",
     "questionImage": null,
     "options": [
       {
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The formula for the length of a transverse common tangent is: L = sqrt(d^2 - (r1 + r2)^2)\n=> 8 = sqrt(d^2 - $$$$$$$$$$$$(7 + 3)$$$$$$$$$$$$^2)\n=> 64 = d^$$$$$$$$$$$$2 - 100$$$$$$$$$$$$ => d^2 = 164 => d = √164 cm.",
+    "explanation": "The formula for the length of a transverse common tangent is: L = sqrt\\(d^2 - (r1 + r2\\)^2)\n=> 8 = sqrt(d^2 - \\(\\)\\(\\)\\(\\)\\(\\)\\(7 + 3\\)\\(\\)\\(\\)\\(\\)\\(\\)^2)\n=> 64 = d^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 100\\)\\(\\)\\(\\)\\(\\)\\(\\) => d^2 = 164 => d = √164 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -217,7 +217,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since O is the circumcentre of ΔABC, ∠BOC = 2∠BAC.\nIn ΔOBC, OB = OC (radii) => ∠OBC = ∠OCB.\nSum of angles in ΔOBC: ∠OBC + ∠OCB + ∠BOC = 180°\n=> 2∠OBC + 2∠BAC = 180°\n=> ∠OBC + ∠BAC = 90°.",
+    "explanation": "Since O is the circumcentre of ΔABC, ∠BOC = 2∠BAC.\nIn ΔOBC, OB = OC \\(radii\\) => ∠OBC = ∠OCB.\nSum of angles in ΔOBC: ∠OBC + ∠OCB + ∠BOC = 180°\n=> 2∠OBC + 2∠BAC = 180°\n=> ∠OBC + ∠BAC = 90°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -229,7 +229,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Percentage",
     "difficulty": "Medium",
-    "question": "Weight of A and B are in the ratio \\($11:8$\\). A’s weight increases by 40% and the total weight of A and B increases by 30%. What is the percentage increase in the B's weight?",
+    "question": "Weight of A and B are in the ratio \\(11:8\\). A’s weight increases by 40% and the total weight of A and B increases by 30%. What is the percentage increase in the B's weight?",
     "questionImage": null,
     "options": [
       {
@@ -254,7 +254,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let A's weight = 11 kg and B's weight = 8 kg. Total weight = 19 kg.\nA's new weight = $$$$$$$$$$$$11 * 1.4 = 15.4$$$$$$$$$$$$ kg.\nTotal new weight = $$$$$$$$$$$$19 * 1.30 = 24.7$$$$$$$$$$$$ kg.\nB's new weight = $$$$$$$$$$$$24.7 - 15.4 = 9.3$$$$$$$$$$$$ kg.\nIncrease in B's weight = $$$$$$$$$$$$9.3 - 8 = 1.3$$$$$$$$$$$$ kg.\nPercentage increase = $$$$$$$$$$$$(1.3 / 8) * 100 = 16.25$$$$$$$$$$$$%.",
+    "explanation": "Let A's weight = 11 kg and B's weight = 8 kg. Total weight = 19 kg.\nA's new weight = \\(\\)\\(\\)\\(\\)\\(\\)\\(11 * 1.4 = 15.4\\)\\(\\)\\(\\)\\(\\)\\(\\) kg.\nTotal new weight = \\(\\)\\(\\)\\(\\)\\(\\)\\(19 * 1.30 = 24.7\\)\\(\\)\\(\\)\\(\\)\\(\\) kg.\nB's new weight = \\(\\)\\(\\)\\(\\)\\(\\)\\(24.7 - 15.4 = 9.3\\)\\(\\)\\(\\)\\(\\)\\(\\) kg.\nIncrease in B's weight = \\(\\)\\(\\)\\(\\)\\(\\)\\(9.3 - 8 = 1.3\\)\\(\\)\\(\\)\\(\\)\\(\\) kg.\nPercentage increase = \\(\\)\\(\\)\\(\\)\\(\\)\\(1.3 / 8\\) * 100 = 16.25\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,32 +266,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Medium",
-    "question": "The income of S, T and U are in the ratio of \\($7:9$\\) : 6 and their expenses in the ratio of \\($4:5$\\) : 3. If S saves Rs 2000 out of an income of Rs 14000, then what will be the saving (in Rs) of T?",
+    "question": "The income of S, T and U are in the ratio of \\(7:9\\) : 6 and their expenses in the ratio of \\(4:5\\) : 3. If S saves Rs 2000 out of an income of Rs 14000, then what will be the saving \\(in Rs\\) of T?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "2400",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1500",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "3000",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2000",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "S's income = Rs 14,000. Since income ratio is $$$$$$$$$$$$7:9$$$$$$$$$$$$:6, T's income = ($\\frac{9}{7}$) * 14000 = Rs 18,000.\nS's savings = Rs 2,000 => S's expenditure = $$$$$$$$$$$$14000 - 2000$$$$$$$$$$$$ = Rs 12,000.\nSince expenditure ratio is $$$$$$$$$$$$4:5$$$$$$$$$$$$:3, T's expenditure = ($\\frac{5}{4}$) * 12000 = Rs 15,000.\nT's savings = $$$$$$$$$$$$18000 - 15000$$$$$$$$$$$$ = Rs 3,000.",
+    "explanation": "S's income = Rs 14,000. Since income ratio is \\(\\)\\(\\)\\(\\)\\(\\)\\(7:9\\)\\(\\)\\(\\)\\(\\)\\(\\):6, T's income = \\(\\frac{9}{7}\\) * 14000 = Rs 18,000.\nS's savings = Rs 2,000 => S's expenditure = \\(\\)\\(\\)\\(\\)\\(\\)\\(14000 - 2000\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 12,000.\nSince expenditure ratio is \\(\\)\\(\\)\\(\\)\\(\\)\\(4:5\\)\\(\\)\\(\\)\\(\\)\\(\\):3, T's expenditure = \\(\\frac{5}{4}\\) * 12000 = Rs 15,000.\nT's savings = \\(\\)\\(\\)\\(\\)\\(\\)\\(18000 - 15000\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 3,000.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -303,32 +303,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Easy",
-    "question": "A mixture contains acid and water in the ratio of \\($7:3$\\). If 4 litres of water is added to it, then the ratio of acid and water becomes \\($7:4$\\). What is the quantity (in litres) of acid in the mixture?",
+    "question": "A mixture contains acid and water in the ratio of \\(7:3\\). If 4 litres of water is added to it, then the ratio of acid and water becomes \\(7:4\\). What is the quantity \\(in litres\\) of acid in the mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "28",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "22",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "20",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "32",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the original quantity of acid and water be 7x and 3x litres respectively.\nAdding 4 litres of water: 7x / (3x + 4) = $$$$$$$$$$$$7 / 4 => 28$$$$$$$$$$$$x = 21x + 28 => 7x = 28 => x = 4.\nQuantity of acid = 7x = 28 litres.",
+    "explanation": "Let the original quantity of acid and water be 7x and 3x litres respectively.\nAdding 4 litres of water: 7x / \\(3x + 4\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(7 / 4 => 28\\)\\(\\)\\(\\)\\(\\)\\(\\)x = 21x + 28 => 7x = 28 => x = 4.\nQuantity of acid = 7x = 28 litres.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -345,27 +345,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "45",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "35",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "40",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "32",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The first 7 positive odd numbers divisible by 5 are: $$$$$$$$$$$$5,15,25,35,45,55,65$$$$$$$$$$$$.\nSum = $$$$$$$$$$$$5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.$$$$$$$$$$$$\nAverage = $$$$$$$$$$$$245 / 7 = 35.$$$$$$$$$$$$",
+    "explanation": "The first 7 positive odd numbers divisible by 5 are: \\(\\)\\(\\)\\(\\)\\(\\)\\(5,15,25,35,45,55,65\\)\\(\\)\\(\\)\\(\\)\\(\\).\nSum = \\(\\)\\(\\)\\(\\)\\(\\)\\(5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.\\)\\(\\)\\(\\)\\(\\)\\(\\)\nAverage = \\(\\)\\(\\)\\(\\)\\(\\)\\(245 / 7 = 35.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -377,12 +377,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest",
     "difficulty": "Easy",
-    "question": "The simple interest on a sum is \\(\\frac{7}{8}\\) of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
+    "question": "The simple interest on a sum is \\(\\frac{7}{8}\\) of the principal for 5 years. What is the rate \\(in percentage\\) of interest per annum?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
@@ -392,7 +392,7 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "14",
         "image": null
       },
       {
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let Principal = 8x. Simple Interest = 7x.\nSI = (P * R * T) / 100 => 7x = (8x * R * 5) / 100\n=> 7 = 40R / 100 => R = $$$$$$$$$$$$700 / 40 = 17.5$$$$$$$$$$$$%.",
+    "explanation": "Let Principal = 8x. Simple Interest = 7x.\nSI = \\(P * R * T\\) / 100 => 7x = \\(8x * R * 5\\) / 100\n=> 7 = 40R / 100 => R = \\(\\)\\(\\)\\(\\)\\(\\)\\(700 / 40 = 17.5\\)\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -419,27 +419,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "212",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "224",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "248",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "194",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Cost Price (CP) of 9 chairs = Rs 5 => CP of 45 chairs = Rs 25.\nSelling Price (SP) of 5 chairs = Rs 9 => SP of 45 chairs = Rs 81.\nProfit % = (SP - CP)/CP * 100 = $$$$$$$$$$$$(81 - 25)/25 * 100 = 56 * 4 = 224$$$$$$$$$$$$%.",
+    "explanation": "Cost Price \\(CP\\) of 9 chairs = Rs 5 => CP of 45 chairs = Rs 25.\nSelling Price \\(SP\\) of 5 chairs = Rs 9 => SP of 45 chairs = Rs 81.\nProfit % = \\(SP - CP\\)/CP * 100 = \\(\\)\\(\\)\\(\\)\\(\\)\\(81 - 25\\)/25 * 100 = 56 * 4 = 224\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -451,32 +451,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "The marked price of a pen is Rs 3000. The shopkeeper gives two successive discounts of 15% and a% to the customer. If the customer pays Rs 2142 for the pen, then what is the value (in percentage) of a?",
+    "question": "The marked price of a pen is Rs 3000. The shopkeeper gives two successive discounts of 15% and a% to the customer. If the customer pays Rs 2142 for the pen, then what is the value \\(in percentage\\) of a?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "16",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "14",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "17",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - (15% of 3000) = $$$$$$$$$$$$3000 - 450$$$$$$$$$$$$ = Rs 2550.\nAfter second discount of a%: 2550 - (a% of 2550) = 2142\n=> 25.5a = $$$$$$$$$$$$2550 - 2142 = 408$$$$$$$$$$$$\n=> a = $$$$$$$$$$$$408 / 25.5 = 16$$$$$$$$$$$$%.",
+    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - \\(15% of 3000\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(3000 - 450\\)\\(\\)\\(\\)\\(\\)\\(\\) = Rs 2550.\nAfter second discount of a%: 2550 - \\(a% of 2550\\) = 2142\n=> 25.5a = \\(\\)\\(\\)\\(\\)\\(\\)\\(2550 - 2142 = 408\\)\\(\\)\\(\\)\\(\\)\\(\\)\n=> a = \\(\\)\\(\\)\\(\\)\\(\\)\\(408 / 25.5 = 16\\)\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,32 +488,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What is the value of sqrt(1054 + sqrt(196) + sqrt(169) + sqrt(64))?",
+    "question": "What is the value of sqrt\\(1054 + sqrt(196\\) + sqrt\\(169\\) + sqrt\\(64\\))?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "33",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "37",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "29",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "31",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = sqrt$$$$$$$$$$$$(1054 + 14 + 13 + 8)$$$$$$$$$$$$ = sqrt(1089) = 33.",
+    "explanation": "Expression = sqrt\\(\\)\\(\\)\\(\\)\\(\\)\\(1054 + 14 + 13 + 8\\)\\(\\)\\(\\)\\(\\)\\(\\) = sqrt\\(1089\\) = 33.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -525,32 +525,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Work",
     "difficulty": "Medium",
-    "question": "X and Y undertook to do a piece of work for Rs 5400. X alone could do this work in 18 days and Y alone could do this work in 24 days. With the assistance of Z they finished the work in 8 days. What is the share (in Rs) of Z ?",
+    "question": "X and Y undertook to do a piece of work for Rs 5400. X alone could do this work in 18 days and Y alone could do this work in 24 days. With the assistance of Z they finished the work in 8 days. What is the share \\(in Rs\\) of Z ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1200",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1500",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1600",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1800",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let total work = LCM(18, 24) = 72 units.\nX's efficiency = $$$$$$$$$$$$72 / 18 = 4$$$$$$$$$$$$ units/day.\nY's efficiency = $$$$$$$$$$$$72 / 24 = 3$$$$$$$$$$$$ units/day.\nTogether (X + Y + Z) efficiency = $$$$$$$$$$$$72 / 8 = 9$$$$$$$$$$$$ units/day.\nZ's efficiency = 9 - $$$$$$$$$$$$(4 + 3) = 2$$$$$$$$$$$$ units/day.\nRatio of efficiency (X:Y:Z) = $$$$$$$$$$$$4:3$$$$$$$$$$$$:2.\nZ's share = ($\\frac{2}{9}$) * 5400 = Rs 1200.",
+    "explanation": "Let total work = LCM\\(18, 24\\) = 72 units.\nX's efficiency = \\(\\)\\(\\)\\(\\)\\(\\)\\(72 / 18 = 4\\)\\(\\)\\(\\)\\(\\)\\(\\) units/day.\nY's efficiency = \\(\\)\\(\\)\\(\\)\\(\\)\\(72 / 24 = 3\\)\\(\\)\\(\\)\\(\\)\\(\\) units/day.\nTogether \\(X + Y + Z\\) efficiency = \\(\\)\\(\\)\\(\\)\\(\\)\\(72 / 8 = 9\\)\\(\\)\\(\\)\\(\\)\\(\\) units/day.\nZ's efficiency = 9 - \\(\\)\\(\\)\\(\\)\\(\\)\\(4 + 3\\) = 2\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) units/day.\nRatio of efficiency \\(X:Y:Z\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(4:3\\)\\(\\)\\(\\)\\(\\)\\(\\):2.\nZ's share = \\(\\frac{2}{9}\\) * 5400 = Rs 1200.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -562,7 +562,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Distance",
     "difficulty": "Easy",
-    "question": "A boat covers 12 km upstream in 4 hours and can cover the same distance downstream in 3 hours. What is the speed (in km/hr) of the boat in still water?",
+    "question": "A boat covers 12 km upstream in 4 hours and can cover the same distance downstream in 3 hours. What is the speed \\(in km/hr\\) of the boat in still water?",
     "questionImage": null,
     "options": [
       {
@@ -572,7 +572,7 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
@@ -582,12 +582,12 @@
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\nUpstream speed = x - y = $\\frac{12}{4}$ = 3 km/hr\nDownstream speed = x + y = $\\frac{12}{3}$ = 4 km/hr\nAdding the two equations: 2x = 7 => x = 3.5 km/hr.",
+    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\nUpstream speed = x - y = \\(\\frac{12}{4}\\) = 3 km/hr\nDownstream speed = x + y = \\(\\frac{12}{3}\\) = 4 km/hr\nAdding the two equations: 2x = 7 => x = 3.5 km/hr.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "600",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "780",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "640",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "720",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total number of employees = $$$$$$$$$$$$100 + 140 + 20 + 180 + 50 + 70 + 160 = 720.$$$$$$$$$$$$",
+    "explanation": "Total number of employees = \\(\\)\\(\\)\\(\\)\\(\\)\\(100 + 140 + 20 + 180 + 50 + 70 + 160 = 720.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,27 +678,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "60",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "50",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "100",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Number of employees speaking language A = 100. Total employees = 720.\nRequired central angle = $$$$$$$$$$$$(100 / 720) * 360$$$$$$$$$$$$° = 50°.",
+    "explanation": "Number of employees speaking language A = 100. Total employees = 720.\nRequired central angle = \\(\\)\\(\\)\\(\\)\\(\\)\\(100 / 720\\) * 360\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)° = 50°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -720,12 +720,12 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "36",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
@@ -735,7 +735,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total employees = 720. Average salary = $5000.\nTotal salaries = 720 * $5000 = $3,600,000 = $3.6 million.",
+    "explanation": "Total employees = 720. Average salary = $5000.\nTotal salaries = 720 * \\(5000 =\\)3,600,000 = $3.6 million.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -747,32 +747,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The area and the breadth of a rectangle are 288 cm^2 and 16 cm respectively. Find its perimeter (in cm).",
+    "question": "The area and the breadth of a rectangle are 288 cm^2 and 16 cm respectively. Find its perimeter \\(in cm\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "68",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "136",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "102",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Area = length * breadth => 288 = l * 16 => l = 18 cm.\nPerimeter = 2(l + b) = 2$$$$$$$$$$$$(18 + 16) = 2 * 34 = 68$$$$$$$$$$$$ cm.",
+    "explanation": "Area = length * breadth => 288 = l * 16 => l = 18 cm.\nPerimeter = 2\\(l + b\\) = 2\\(\\)\\(\\)\\(\\)\\(\\)\\(18 + 16\\) = 2 * 34 = 68\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -784,12 +784,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "Calculate the area (in cm^2) of a circle whose diameter is 35 cm.",
+    "question": "Calculate the area \\(in cm^2\\) of a circle whose diameter is 35 cm.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1925",
         "image": null
       },
       {
@@ -804,12 +804,12 @@
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1715",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Radius r = $$$$$$$$$$$$35 / 2 = 17.5$$$$$$$$$$$$ cm.\nArea = pi * r^2 = ($\\frac{22}{7}$) * $$$$$$$$$$$$17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5$$$$$$$$$$$$ cm^2.",
+    "explanation": "Radius r = \\(\\)\\(\\)\\(\\)\\(\\)\\(35 / 2 = 17.5\\)\\(\\)\\(\\)\\(\\)\\(\\) cm.\nArea = pi * r^2 = \\(\\frac{22}{7}\\) * \\(\\)\\(\\)\\(\\)\\(\\)\\(17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5\\)\\(\\)\\(\\)\\(\\)\\(\\) cm^2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -821,7 +821,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "Find the volume (in cm^3) of a hemisphere of diameter 14 cm.",
+    "question": "Find the volume \\(in cm^3\\) of a hemisphere of diameter 14 cm.",
     "questionImage": null,
     "options": [
       {
@@ -836,17 +836,17 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "628",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "825",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\nVolume of hemisphere = ($\\frac{2}{3}$) * pi * r^3 = ($\\frac{2}{3}$) * ($\\frac{22}{7}$) * 7^3 = $$$$$$$$$$$$(44 * 49) / 3 = 2156 / 3 = 718.67$$$$$$$$$$$$ cm^3.",
+    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\nVolume of hemisphere = \\(\\frac{2}{3}\\) * pi * r^3 = \\(\\frac{2}{3}\\) * \\(\\frac{22}{7}\\) * 7^3 = \\(\\)\\(\\)\\(\\)\\(\\)\\(44 * 49\\) / 3 = 2156 / 3 = 718.67\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) cm^3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,32 +858,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "What is the value of (√\\(\\frac{2}{3}\\) - Cosec60°)?",
+    "question": "What is the value of \\(√\\(\\frac{2}{3}\\) - Cosec60°)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "(√\\$(6 - 6)/(3$\\)√3)",
+        "text": "(√\\(\\)(6 - 6\\(\\)/(3\\)\\)√3)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($(2 - 2$\\)√3)/√3",
+        "text": "\\((2 - 2\\)√3)/√3",
         "image": null
       },
       {
         "id": "C",
-        "text": "(1 - √6)/√2",
+        "text": "\\(1 - √6\\)/√2",
         "image": null
       },
       {
         "id": "D",
-        "text": "(4 - √3)/(2√3)",
+        "text": "\\(4 - √3\\)/\\(2√3\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = √$\\frac{2}{3}$ - Cosec60° = √$\\frac{2}{3}$ - 2/√3.\nTo find common denominator: (√$$$$$$$$$$$$2 - 2$$$$$$$$$$$$√3) / 3. \nMultiplying numerator and denominator by √3: ((√$$$$$$$$$$$$2 - 2$$$$$$$$$$$$√3) * √3) / (3 * √3) = (√$$$$$$$$$$$$6 - 6) / 3$$$$$$$$$$$$√3.",
+    "explanation": "Expression = √\\(\\frac{2}{3}\\) - Cosec60° = √\\(\\frac{2}{3}\\) - 2/√3.\nTo find common denominator: (√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√3) / 3. \nMultiplying numerator and denominator by √3: ((√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√3) * √3) / \\(3 * √3\\) = (√\\(\\)\\(\\)\\(\\)\\(\\)\\(6 - 6) / 3\\)\\(\\)\\(\\)\\(\\)\\(\\)√3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given: cot X = $\\frac{5}{12}$ => XY / YZ = $$$$$$$$$$$$5 / 12.$$$$$$$$$$$$\nLet XY = 5 cm and YZ = 12 cm. \nHypotenuse XZ = sqrt(XY^2 + YZ^2) = sqrt(5^$$$$$$$$$$$$2 + 12$$$$$$$$$$$$^2) = 13 cm.\nsec Z = Hypotenuse / Adjacent = XZ / YZ = $\\frac{13}{12}$.",
+    "explanation": "Given: cot X = \\(\\frac{5}{12}\\) => XY / YZ = \\(\\)\\(\\)\\(\\)\\(\\)\\(5 / 12.\\)\\(\\)\\(\\)\\(\\)\\(\\)\nLet XY = 5 cm and YZ = 12 cm. \nHypotenuse XZ = sqrt\\(XY^2 + YZ^2\\) = sqrt(5^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 12\\)\\(\\)\\(\\)\\(\\)\\(\\)^2) = 13 cm.\nsec Z = Hypotenuse / Adjacent = XZ / YZ = \\(\\frac{13}{12}\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,27 +969,27 @@
     "subject": "General Intelligence",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives.\n\n\\($5:125$\\) : : 7 : ?",
+    "question": "Select the related number from the given alternatives.\n\n\\(5:125\\) : : 7 : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "343",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "512",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "243",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "729",
         "image": null
       }
     ],
@@ -1031,7 +1031,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern followed is: B(+1)->C, G(+2)->I, R(+3)->U.\nSimilarly for HCY: H(+1)->I, C(+2)->E, Y(+3)->B. Thus, the missing term is IEB.",
+    "explanation": "The pattern followed is: B\\(+1\\)->C, G\\(+2\\)->I, R\\(+3\\)->U.\nSimilarly for HCY: H\\(+1\\)->I, C\\(+2\\)->E, Y\\(+3\\)->B. Thus, the missing term is IEB.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$(25 - 21$\\)",
+        "text": "\\((25 - 21\\)\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(39 - 35$\\)",
+        "text": "\\((39 - 35\\)\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(51 - 47$\\)",
+        "text": "\\((51 - 47\\)\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(93 - 87$\\)",
+        "text": "\\((93 - 87\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The difference between each pair of numbers is 4 $$$$$$$$$$$$(25-21=4$$$$$$$$$$$$, $$$$$$$$$$$$39-35=4$$$$$$$$$$$$, $$$$$$$$$$$$51-47=4).$$$$$$$$$$$$ In the last option, $$$$$$$$$$$$93 - 87 = 6$$$$$$$$$$$$, making it the odd one.",
+    "explanation": "The difference between each pair of numbers is 4 \\(\\)\\(\\)\\(\\)\\(\\)\\((25-21=4\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(39-35=4\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(51-47=4).\\)\\(\\)\\(\\)\\(\\)\\(\\) In the last option, \\(\\)\\(\\)\\(\\)\\(\\)\\(93 - 87 = 6\\)\\(\\)\\(\\)\\(\\)\\(\\), making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1142,7 +1142,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In options B, C and D, the difference between consecutive letters is +4 (I+4->M+4->Q, etc). In option A, C(+4)->G(+3)->J, so CGJ is the odd one.",
+    "explanation": "In options B, C and D, the difference between consecutive letters is +4 \\(I+4->M+4->Q, etc\\). In option A, C\\(+4\\)->G\\(+3\\)->J, so CGJ is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1159,27 +1159,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "51423",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "53241",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "25143",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "52143",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Dictionary order: Tiring (5) -> Toast (3) -> Toddle (2) -> Toilet (4) -> Tolerate (1). So, the order is 53241.",
+    "explanation": "Dictionary order: Tiring \\(5\\) -> Toast \\(3\\) -> Toddle \\(2\\) -> Toilet \\(4\\) -> Tolerate \\(1\\). So, the order is 53241.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1191,32 +1191,32 @@
     "subject": "General Intelligence",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n\n\\($18,37,76,155,314$\\), ?",
+    "question": "Select the missing number from the given series.\n\n\\(18,37,76,155,314\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "633",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "628",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "537",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "528",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern is: term * 2 + index (1-based):\n$$$$$$$$$$$$18 * 2 + 1 = 37$$$$$$$$$$$$\n$$$$$$$$$$$$37 * 2 + 2 = 76$$$$$$$$$$$$\n$$$$$$$$$$$$76 * 2 + 3 = 155$$$$$$$$$$$$\n$$$$$$$$$$$$155 * 2 + 4 = 314$$$$$$$$$$$$\n$$$$$$$$$$$$314 * 2 + 5 = 633.$$$$$$$$$$$$",
+    "explanation": "The pattern is: term * 2 + index \\(1-based\\):\n\\(\\)\\(\\)\\(\\)\\(\\)\\(18 * 2 + 1 = 37\\)\\(\\)\\(\\)\\(\\)\\(\\)\n\\(\\)\\(\\)\\(\\)\\(\\)\\(37 * 2 + 2 = 76\\)\\(\\)\\(\\)\\(\\)\\(\\)\n\\(\\)\\(\\)\\(\\)\\(\\)\\(76 * 2 + 3 = 155\\)\\(\\)\\(\\)\\(\\)\\(\\)\n\\(\\)\\(\\)\\(\\)\\(\\)\\(155 * 2 + 4 = 314\\)\\(\\)\\(\\)\\(\\)\\(\\)\n\\(\\)\\(\\)\\(\\)\\(\\)\\(314 * 2 + 5 = 633.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1253,7 +1253,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The pattern followed in each letter of the terms is:\n1st letter: H(+2)->J(+2)->L(+2)->N(+2)->P\n2nd letter: J(+3)->M(+3)->P(+3)->S(+3)->V\n3rd letter: R(+2)->T(+2)->V(+2)->X(+2)->Z\n4th letter: N(+3)->Q(+3)->T(+3)->W(+3)->Z\nThus, missing term is PVZZ.",
+    "explanation": "The pattern followed in each letter of the terms is:\n1st letter: H\\(+2\\)->J\\(+2\\)->L\\(+2\\)->N\\(+2\\)->P\n2nd letter: J\\(+3\\)->M\\(+3\\)->P\\(+3\\)->S\\(+3\\)->V\n3rd letter: R\\(+2\\)->T\\(+2\\)->V\\(+2\\)->X\\(+2\\)->Z\n4th letter: N\\(+3\\)->Q\\(+3\\)->T\\(+3\\)->W\\(+3\\)->Z\nThus, missing term is PVZZ.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Raman: $$$$$$$$$$$$14,15,16,17,18,19$$$$$$$$$$$$ July.\nMother: 17, 18, 19 July.\nFather: $$$$$$$$$$$$14,15,16,17,18$$$$$$$$$$$$ July.\nThe common dates in all three lists are 17 or 18 July.",
+    "explanation": "Raman: \\(\\)\\(\\)\\(\\)\\(\\)\\(14,15,16,17,18,19\\)\\(\\)\\(\\)\\(\\)\\(\\) July.\nMother: 17, 18, 19 July.\nFather: \\(\\)\\(\\)\\(\\)\\(\\)\\(14,15,16,17,18\\)\\(\\)\\(\\)\\(\\)\\(\\) July.\nThe common dates in all three lists are 17 or 18 July.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1344,22 +1344,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "-> 6",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "69832",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "48621",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "29647",
         "image": null
       }
     ],
@@ -1376,32 +1376,32 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n9 x $18 \\div \\$(5 - 90 + 8 = ?$\\)",
+    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n9 x \\(18 \\div\\)\\((5 - 90 + 8 = ?\\)$\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "35",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "11",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Decoding the expression gives: $$$$$$$$$$$$9 + 18 * 5 / 90 - 8 = 9 + 90 / 90 - 8 = 9 + 1 - 8 = 2.$$$$$$$$$$$$",
+    "explanation": "Decoding the expression gives: \\(\\)\\(\\)\\(\\)\\(\\)\\(9 + 18 * 5 / 90 - 8 = 9 + 90 / 90 - 8 = 9 + 1 - 8 = 2.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,7 +1413,7 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(24 + 4 - 20$\\) \\div 9$ x 5 = 31",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\($(24 + 4 - 20\\)\\(\\) \\div 9\\) x 5 = 31",
     "questionImage": null,
     "options": [
       {
@@ -1438,7 +1438,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Interchanging '÷' and '+' gives: $24 \\div $$$$$$$$$$$4 - 20 + 9 * 5 = 6 - 20 + 45 = 31.$$$$$$$$$$$$ This balances the equation.",
+    "explanation": "Interchanging '÷' and '+' gives: \\(24 \\div\\)\\(\\)\\(\\)\\(\\)\\(\\)4 - 20 + 9 * 5 = 6 - 20 + 45 = 31.\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1455,7 +1455,7 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "49",
         "image": null
       },
       {
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The operation is: a # b = -1 * (a * b). Thus, 4#5 = -1 * $$$$$$$$$$$$(4 * 5)$$$$$$$$$$$$ = -20.",
+    "explanation": "The operation is: a # b = -1 * \\(a * b\\). Thus, 4#5 = -1 * \\(\\)\\(\\)\\(\\)\\(\\)\\(4 * 5\\)\\(\\)\\(\\)\\(\\)\\(\\) = -20.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Chand ends at coordinates (55, $$$$$$$$$$$$105 - 75) = (55$$$$$$$$$$$$, 30). Dhyan ends at (55, -45).\nChand's position with respect to Dhyan is 30 - (-45) = 75 m North.",
+    "explanation": "Chand ends at coordinates (55, \\(\\)\\(\\)\\(\\)\\(\\)\\(105 - 75) = (55\\)\\(\\)\\(\\)\\(\\)\\(\\), 30). Dhyan ends at \\(55, -45\\).\nChand's position with respect to Dhyan is 30 - \\(-45\\) = 75 m North.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1586,7 +1586,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Conclusion I cannot be verified definitively. Conclusion II (Some fast foods are burgers) is a direct converse of Statement I (Some burgers are fast foods) and is true. Thus, only conclusion II follows.",
+    "explanation": "Conclusion I cannot be verified definitively. Conclusion II \\(Some fast foods are burgers\\) is a direct converse of Statement I \\(Some burgers are fast foods\\) and is true. Thus, only conclusion II follows.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1623,7 +1623,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Art critics (circle) who are not Riders (triangle) are represented by the region of the circle that does not overlap with the triangle: B, L, E, F. Thus, 'BLEF'.",
+    "explanation": "Art critics \\(circle\\) who are not Riders \\(triangle\\) are represented by the region of the circle that does not overlap with the triangle: B, L, E, F. Thus, 'BLEF'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1660,7 +1660,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern followed is:\n1st letter: C(-2)->A(-2)->Y(-2)->W(-2)->U\n2nd letter: P(-3)->M(-3)->J(-3)->G(-3)->D\n3rd letter: I(-4)->E(-4)->A(-4)->W(-4)->S\nMissing term is 'UDS'.",
+    "explanation": "The pattern followed is:\n1st letter: C\\(-2\\)->A\\(-2\\)->Y\\(-2\\)->W\\(-2\\)->U\n2nd letter: P\\(-3\\)->M\\(-3\\)->J\\(-3\\)->G\\(-3\\)->D\n3rd letter: I\\(-4\\)->E\\(-4\\)->A\\(-4\\)->W\\(-4\\)->S\nMissing term is 'UDS'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1677,27 +1677,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "30",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "32",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "29",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Subtract 4 (-4) from each term: $$$$$$$$$$$$44 - 4 = 40$$$$$$$$$$$$, $$$$$$$$$$$$40 - 4 = 36$$$$$$$$$$$$, $$$$$$$$$$$$36 - 4 = 32$$$$$$$$$$$$, $$$$$$$$$$$$32 - 4 = 28$$$$$$$$$$$$, $$$$$$$$$$$$28 - 4 = 24.$$$$$$$$$$$$",
+    "explanation": "Subtract 4 \\(-4\\) from each term: \\(\\)\\(\\)\\(\\)\\(\\)\\(44 - 4 = 40\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(40 - 4 = 36\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(36 - 4 = 32\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(32 - 4 = 28\\)\\(\\)\\(\\)\\(\\)\\(\\), \\(\\)\\(\\)\\(\\)\\(\\)\\(28 - 4 = 24.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1714,27 +1714,27 @@
     "options": [
       {
         "id": "A",
-        "text": "(8, 23, 15)",
+        "text": "\\(8, 23, 15\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "(12, 35, 23)",
+        "text": "\\(12, 35, 23\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "(15, 44, 31)",
+        "text": "\\(15, 44, 31\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "(17, 50, 33)",
+        "text": "\\(17, 50, 33\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The relationship format is (x, 3x - 1, 2x - 1). For option C: $$$$$$$$$$$$2 * 15 - 1 = 29$$$$$$$$$$$$ (not 31), making it the odd one.",
+    "explanation": "The relationship format is \\(x, 3x - 1, 2x - 1\\). For option C: \\(\\)\\(\\)\\(\\)\\(\\)\\(2 * 15 - 1 = 29\\)\\(\\)\\(\\)\\(\\)\\(\\) \\(not 31\\), making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1808,7 +1808,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In the unfolded cube: square with circle is opposite to square with X; square with dot is opposite to square with plus (+). Therefore, dot and plus cannot be adjacent. In Cube B, dot and plus are adjacent, which is impossible.",
+    "explanation": "In the unfolded cube: square with circle is opposite to square with X; square with dot is opposite to square with plus \\(+\\). Therefore, dot and plus cannot be adjacent. In Cube B, dot and plus are adjacent, which is impossible.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($97,12,21,42$\\)",
+        "text": "\\(97,12,21,42\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($42,67,10,55$\\)",
+        "text": "\\(42,67,10,55\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($30,55,42,68$\\)",
+        "text": "\\(30,55,42,68\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($12,77,21,68$\\)",
+        "text": "\\(12,77,21,68\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 97 = S, 12 = A, 21 = C, 42 = K. So $$$$$$$$$$$$97,12,21,42$$$$$$$$$$$$ represents 'SACK'.",
+    "explanation": "Checking option A: 97 = S, 12 = A, 21 = C, 42 = K. So \\(\\)\\(\\)\\(\\)\\(\\)\\(97,12,21,42\\)\\(\\)\\(\\)\\(\\)\\(\\) represents 'SACK'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1857,7 +1857,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Medium",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nExcessive use of pesticides (a)/ and contamination of soil (b)/ have negatively effected soil output. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nExcessive use of pesticides \\(a\\)/ and contamination of soil \\(b\\)/ have negatively effected soil output. \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -1882,7 +1882,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The word 'effected' (noun/verb meaning to bring about) should be replaced with 'affected' (verb meaning to influence).",
+    "explanation": "The word 'effected' \\(noun/verb meaning to bring about\\) should be replaced with 'affected' \\(verb meaning to influence\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1894,7 +1894,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Medium",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nThe truth is that when people seeing you zoned into your work and (a)/ in harmony with yourself, (b)/ they come to distract you. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nThe truth is that when people seeing you zoned into your work and \\(a\\)/ in harmony with yourself, \\(b\\)/ they come to distract you. \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nAdministration (NASA) working _______ satellite data tracking",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration \\(NASA\\) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nAdministration \\(NASA\\) working _______ satellite data tracking",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nwas growing _________.",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration \\(NASA\\) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nwas growing _________.",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nand 300 feet ________.",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration \\(NASA\\) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nand 300 feet ________.",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nshelf, now __________ official iceberg",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration \\(NASA\\) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nshelf, now __________ official iceberg",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nindeed the ____________-ever such iceberg",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration \\(NASA\\) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nindeed the ____________-ever such iceberg",
     "questionImage": null,
     "options": [
       {
@@ -2634,7 +2634,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select \"no improvement\".\n\nBy the time we set out, the sun (sit) pretty in the blue sky.",
+    "question": "Select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select \"no improvement\".\n\nBy the time we set out, the sun \\(sit\\) pretty in the blue sky.",
     "questionImage": null,
     "options": [
       {
@@ -2659,7 +2659,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Past continuous 'was sitting' is appropriate to denote the background activity that was ongoing when the main event ('we set out') took place.",
+    "explanation": "Past continuous 'was sitting' is appropriate to denote the background activity that was ongoing when the main event \\('we set out'\\) took place.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2671,7 +2671,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select \"no improvement\".\n\nThe greeting card (also reducing) the need to sit down and write loving messages to our dear ones.",
+    "question": "Select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select \"no improvement\".\n\nThe greeting card \\(also reducing\\) the need to sit down and write loving messages to our dear ones.",
     "questionImage": null,
     "options": [
       {
@@ -2696,7 +2696,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "'has also reduced' (present perfect) is grammatically correct and fits the singular subject 'The greeting card'.",
+    "explanation": "'has also reduced' \\(present perfect\\) is grammatically correct and fits the singular subject 'The greeting card'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2918,7 +2918,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "After ascending the throne, Alauddin Khilji's first major military expedition was against Ranthambore (1301).",
+    "explanation": "After ascending the throne, Alauddin Khilji's first major military expedition was against Ranthambore \\(1301\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3029,7 +3029,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Sage Patanjali is the exponent of the Yoga school (Yog Darshana) of Hindu philosophy.",
+    "explanation": "Sage Patanjali is the exponent of the Yoga school \\(Yog Darshana\\) of Hindu philosophy.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3041,7 +3041,7 @@
     "subject": "General Awareness",
     "topic": "National Affairs",
     "difficulty": "Easy",
-    "question": "At which of the following places the 5th Global Conference on Cyber Space (GCCS) was held on November \\$(23-24$\\), 2017?",
+    "question": "At which of the following places the 5th Global Conference on Cyber Space \\(GCCS\\) was held on November \\((23-24\\)\\), 2017?",
     "questionImage": null,
     "options": [
       {
@@ -3066,7 +3066,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The 5th Global Conference on Cyber Space (GCCS) was hosted by India in New Delhi in November 2017.",
+    "explanation": "The 5th Global Conference on Cyber Space \\(GCCS\\) was hosted by India in New Delhi in November 2017.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3214,7 +3214,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Gamma (γ) radiations have the highest penetrating power among alpha, beta, and gamma radiations because they are uncharged high-frequency electromagnetic waves.",
+    "explanation": "Gamma \\(γ\\) radiations have the highest penetrating power among alpha, beta, and gamma radiations because they are uncharged high-frequency electromagnetic waves.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3251,7 +3251,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The Executive branch (II) is responsible for executing and implementing laws passed by the legislature.",
+    "explanation": "The Executive branch \\(II\\) is responsible for executing and implementing laws passed by the legislature.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3337,7 +3337,7 @@
     "subject": "General Awareness",
     "topic": "Biology",
     "difficulty": "Easy",
-    "question": "Which among the following constituents of xylem is/are tubular structure(s)?\nI. Tracheids\nII. Vessels\nIII. Xylem fibres",
+    "question": "Which among the following constituents of xylem is/are tubular structure\\(s\\)?\nI. Tracheids\nII. Vessels\nIII. Xylem fibres",
     "questionImage": null,
     "options": [
       {
@@ -3362,7 +3362,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Tracheids (I) and Vessels (II) are tubular structures in xylem that help in conducting water. Xylem fibres are supportive structures.",
+    "explanation": "Tracheids \\(I\\) and Vessels \\(II\\) are tubular structures in xylem that help in conducting water. Xylem fibres are supportive structures.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3374,7 +3374,7 @@
     "subject": "General Awareness",
     "topic": "Social Welfare Schemes",
     "difficulty": "Easy",
-    "question": "Indian Government is hopeful of bringing at least one crore subscribers by March 2018 under the Atal Pension Yojana (APY). What is the age limit for APY?",
+    "question": "Indian Government is hopeful of bringing at least one crore subscribers by March 2018 under the Atal Pension Yojana \\(APY\\). What is the age limit for APY?",
     "questionImage": null,
     "options": [
       {
@@ -3473,7 +3473,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The National Payments Corporation of India (NPCI) declared the winners of these lucky draw schemes aimed at promoting digital transactions.",
+    "explanation": "The National Payments Corporation of India \\(NPCI\\) declared the winners of these lucky draw schemes aimed at promoting digital transactions.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3522,32 +3522,32 @@
     "subject": "General Awareness",
     "topic": "Physics",
     "difficulty": "Easy",
-    "question": "Find the potential energy gained by a body of mass 60 kg, if it is raised by 12 m. (use g = 10m/s^2)",
+    "question": "Find the potential energy gained by a body of mass 60 kg, if it is raised by 12 m. \\(use g = 10m/s^2\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "7200",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "50",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "3600",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Potential Energy (PE) = m * g * h = 60 kg * 10 m/s^$$$$$$$$$$$$2 * 12$$$$$$$$$$$$ m = 7200 Joules.",
+    "explanation": "Potential Energy \\(PE\\) = m * g * h = 60 kg * 10 m/s^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 * 12\\)\\(\\)\\(\\)\\(\\)\\(\\) m = 7200 Joules.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3658,7 +3658,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Statement A is incorrect (Steve Smith captained RPS in 2017, Virat Kohli was captain of RCB). Statement C is incorrect (Canada hosted the 2017 ITTF Women's World Cup). Statement B is correct.",
+    "explanation": "Statement A is incorrect \\(Steve Smith captained RPS in 2017, Virat Kohli was captain of RCB\\). Statement C is incorrect \\(Canada hosted the 2017 ITTF Women's World Cup\\). Statement B is correct.",
     "marks": 2,
     "negativeMarks": 0.5
   },

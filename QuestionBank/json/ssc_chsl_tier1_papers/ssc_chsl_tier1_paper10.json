@@ -12,27 +12,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1213",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "1223",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1203",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1233",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Among the given options, only the square of 1213 will end in 69 (since 3^2 = 9 and 13^2 = 169). Thus, (1213)^2 = 1471369.",
+    "explanation": "Among the given options, only the square of 1213 will end in 69 \\(since 3^2 = 9 and 13^2 = 169\\). Thus, \\(1213\\)^2 = 1471369.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Number System",
     "difficulty": "Medium",
-    "question": "Calculate the total numbers of prime factors in the expression (9)^11 * (5)^7 * (7)^5 * (3)^2 * (17)^2",
+    "question": "Calculate the total numbers of prime factors in the expression \\(9\\)^11 * \\(5\\)^7 * \\(7\\)^5 * \\(3\\)^2 * \\(17\\)^2",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "35",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "36",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "37",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "38",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Prime factorization of the expression: \n(3^2)^$$$$$$$$$$$$11 * 5$$$$$$$$$$$$^$$$$$$$$$$$$7 * 7$$$$$$$$$$$$^$$$$$$$$$$$$5 * 3$$$$$$$$$$$$^$$$$$$$$$$$$2 * 17$$$$$$$$$$$$^2 = 3^$$$$$$$$$$$$22 * 5$$$$$$$$$$$$^$$$$$$$$$$$$7 * 7$$$$$$$$$$$$^$$$$$$$$$$$$5 * 3$$$$$$$$$$$$^$$$$$$$$$$$$2 * 17$$$$$$$$$$$$^2 = 3^$$$$$$$$$$$$24 * 5$$$$$$$$$$$$^$$$$$$$$$$$$7 * 7$$$$$$$$$$$$^$$$$$$$$$$$$5 * 17$$$$$$$$$$$$^2.\nTotal number of prime factors = $$$$$$$$$$$$24 + 7 + 5 + 2 = 38.$$$$$$$$$$$$",
+    "explanation": "Prime factorization of the expression: \n\\(3^2\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(11 * 5\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(7 * 7\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(5 * 3\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 * 17\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 = 3^\\(\\)\\(\\)\\(\\)\\(\\)\\(22 * 5\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(7 * 7\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(5 * 3\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 * 17\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 = 3^\\(\\)\\(\\)\\(\\)\\(\\)\\(24 * 5\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(7 * 7\\)\\(\\)\\(\\)\\(\\)\\(\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(5 * 17\\)\\(\\)\\(\\)\\(\\)\\(\\)^2.\nTotal number of prime factors = \\(\\)\\(\\)\\(\\)\\(\\)\\(24 + 7 + 5 + 2 = 38.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,7 +81,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Coordinate Geometry",
     "difficulty": "Easy",
-    "question": "Find the y-intercept of the line joining two points (1, 3) and (3, 5).",
+    "question": "Find the y-intercept of the line joining two points \\(1, 3\\) and \\(3, 5\\).",
     "questionImage": null,
     "options": [
       {
@@ -91,22 +91,22 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "0",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "4",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Equation of the line passing through (1, 3) and (3, 5) is: \ny - 3 = [$$$$$$$$$$$$(5 - 3)/(3 - 1)$$$$$$$$$$$$] * (x - 1) => y - 3 = 1 * (x - 1) => y = x + 2.\nComparing with y = mx + c, the y-intercept is 2.",
+    "explanation": "Equation of the line passing through \\(1, 3\\) and \\(3, 5\\) is: \ny - 3 = [\\(\\)\\(\\)\\(\\)\\(\\)\\(5 - 3\\)/\\(3 - 1\\)\\(\\)\\(\\)\\(\\)\\(\\)] * \\(x - 1\\) => y - 3 = 1 * \\(x - 1\\) => y = x + 2.\nComparing with y = mx + c, the y-intercept is 2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -123,27 +123,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "8",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "10",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "For parallel lines: a1/a2 = b1/b2 != c1/c2.\n=> $\\frac{4}{1}$ = 4k/6 => 4k = 24 => k = 6.",
+    "explanation": "For parallel lines: a1/a2 = b1/b2 != c1/c2.\n=> \\(\\frac{4}{1}\\) = 4k/6 => 4k = 24 => k = 6.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -155,32 +155,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Hard",
-    "question": "The two circles with radii 6 cm and 3 cm centered at the point P and Q respectively. A transverse common tangent AC to the both circles cuts line joining P and Q at the point B such that AB = 8 cm. Calculate the length (in cm) of PQ.",
+    "question": "The two circles with radii 6 cm and 3 cm centered at the point P and Q respectively. A transverse common tangent AC to the both circles cuts line joining P and Q at the point B such that AB = 8 cm. Calculate the length \\(in cm\\) of PQ.",
     "questionImage": "ssc_chsl_tier1_paper10_q5.png",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "12435",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "54123",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "15423",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25413",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^$$$$$$$$$$$$2 + 8$$$$$$$$$$$$^2 = 100 => PB = 10 cm.\nSince ΔAPB ~ ΔCQB (by AA similarity):\nAP/CQ = PB/QB => $\\frac{6}{3}$ = 10/QB => QB = 5 cm.\nLength of PQ = PB + QB = $$$$$$$$$$$$10 + 5 = 15$$$$$$$$$$$$ cm.",
+    "explanation": "In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 8\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 = 100 => PB = 10 cm.\nSince ΔAPB ~ ΔCQB \\(by AA similarity\\):\nAP/CQ = PB/QB => \\(\\frac{6}{3}\\) = 10/QB => QB = 5 cm.\nLength of PQ = PB + QB = \\(\\)\\(\\)\\(\\)\\(\\)\\(10 + 5 = 15\\)\\(\\)\\(\\)\\(\\)\\(\\) cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -192,32 +192,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "The circle of radius 4 cm and centre O has a tangent PR. If ∠POR = 90° and OR = 7 cm and OP = 24 cm. Calculate the length (in cm) of PR.",
+    "question": "The circle of radius 4 cm and centre O has a tangent PR. If ∠POR = 90° and OR = 7 cm and OP = 24 cm. Calculate the length \\(in cm\\) of PR.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "20",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "24",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "25",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "35",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "In right ΔOPR, PR^2 = OP^2 + OR^2 = 24^$$$$$$$$$$$$2 + 7$$$$$$$$$$$$^2 = $$$$$$$$$$$$576 + 49 = 625$$$$$$$$$$$$ => PR = 25 cm.",
+    "explanation": "In right ΔOPR, PR^2 = OP^2 + OR^2 = 24^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 7\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 = \\(\\)\\(\\)\\(\\)\\(\\)\\(576 + 49 = 625\\)\\(\\)\\(\\)\\(\\)\\(\\) => PR = 25 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -234,27 +234,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "30000",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "25000",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "22500",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "27000",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let total votes polled = 100x. Valid votes = 90x. \nWinning candidate gets 70% of 90x = 63x. Losing candidate gets 30% of 90x = 27x. \nDifference = 63x - 27x = 36x = 9000 => x = 250. \nTotal votes polled = $$$$$$$$$$$$100 * 250 = 25000.$$$$$$$$$$$$",
+    "explanation": "Let total votes polled = 100x. Valid votes = 90x. \nWinning candidate gets 70% of 90x = 63x. Losing candidate gets 30% of 90x = 27x. \nDifference = 63x - 27x = 36x = 9000 => x = 250. \nTotal votes polled = \\(\\)\\(\\)\\(\\)\\(\\)\\(100 * 250 = 25000.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,32 +266,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Medium",
-    "question": "If (\\(\\frac{3}{2}\\))X = (\\(\\frac{5}{7}\\))Y = (\\(\\frac{6}{5}\\))Z, then what is X:Y:Z ?",
+    "question": "If \\(\\(\\frac{3}{2}\\))X = \\(\\(\\frac{5}{7}\\))Y = \\(\\(\\frac{6}{5}\\))Z, then what is X:Y:Z ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($105:50$\\) : 84",
+        "text": "\\(105:50\\) : 84",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($24:25$\\) : 32",
+        "text": "\\(24:25\\) : 32",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($15:21$\\) : 25",
+        "text": "\\(15:21\\) : 25",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($20:42$\\) : 25",
+        "text": "\\(20:42\\) : 25",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let ($\\frac{3}{2}$)X = ($\\frac{5}{7}$)Y = ($\\frac{6}{5}$)Z = k. \n=> X = 2k/3, Y = 7k/5, Z = 5k/6. \n=> X : Y : Z = $\\frac{2}{3}$ : $\\frac{7}{5}$ : $\\frac{5}{6}$. \nMultiplying by LCM(3, 5, 6) = 30 gives: $$$$$$$$$$$$20:42$$$$$$$$$$$$ : 25.",
+    "explanation": "Let \\(\\frac{3}{2}\\)X = \\(\\frac{5}{7}\\)Y = \\(\\frac{6}{5}\\)Z = k. \n=> X = 2k/3, Y = 7k/5, Z = 5k/6. \n=> X : Y : Z = \\(\\frac{2}{3}\\) : \\(\\frac{7}{5}\\) : \\(\\frac{5}{6}\\). \nMultiplying by LCM\\(3, 5, 6\\) = 30 gives: \\(\\)\\(\\)\\(\\)\\(\\)\\(20:42\\)\\(\\)\\(\\)\\(\\)\\(\\) : 25.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -308,27 +308,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "10",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "20",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Quantity of water in original mixture = 30% of 7 = 2.1 litres. \nTotal new mixture = $$$$$$$$$$$$7 + 3.5 = 10.5$$$$$$$$$$$$ litres. \nPercentage of water in new mixture = $$$$$$$$$$$$(2.1 / 10.5) * 100 = 20$$$$$$$$$$$$%.",
+    "explanation": "Quantity of water in original mixture = 30% of 7 = 2.1 litres. \nTotal new mixture = \\(\\)\\(\\)\\(\\)\\(\\)\\(7 + 3.5 = 10.5\\)\\(\\)\\(\\)\\(\\)\\(\\) litres. \nPercentage of water in new mixture = \\(\\)\\(\\)\\(\\)\\(\\)\\(2.1 / 10.5\\) * 100 = 20\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -340,32 +340,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Easy",
-    "question": "If the average of 31, x, \\($42,39,56,78,83$\\) and 91 is 58.5, then what is the value of \\(x\\)?",
+    "question": "If the average of 31, x, \\(42,39,56,78,83\\) and 91 is 58.5, then what is the value of \\(x\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "26",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "58",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "48",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Sum of terms = 31 + x + $$$$$$$$$$$$42 + 39 + 56 + 78 + 83 + 91$$$$$$$$$$$$ = x + 420. \nAverage = (x + 420) / 8 = 58.5 => x + 420 = 468 => x = 48.",
+    "explanation": "Sum of terms = 31 + x + \\(\\)\\(\\)\\(\\)\\(\\)\\(42 + 39 + 56 + 78 + 83 + 91\\)\\(\\)\\(\\)\\(\\)\\(\\) = x + 420. \nAverage = \\(x + 420\\) / 8 = 58.5 => x + 420 = 468 => x = 48.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -377,32 +377,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest",
     "difficulty": "Easy",
-    "question": "The difference between simple interest on a certain sum at the rate of 6% per annum for 5 years and 6 years is 25.8. What is the sum (in Rs)?",
+    "question": "The difference between simple interest on a certain sum at the rate of 6% per annum for 5 years and 6 years is 25.8. What is the sum \\(in Rs\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "480",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "430",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "400",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "516",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let sum be P. \nSI for 6 years - SI for 5 years = SI for 1 year = P * $$$$$$$$$$$$6 * 1 / 100 = 25.8 => 0.06$$$$$$$$$$$$P = 25.8 => P = Rs 430.",
+    "explanation": "Let sum be P. \nSI for 6 years - SI for 5 years = SI for 1 year = P * \\(\\)\\(\\)\\(\\)\\(\\)\\(6 * 1 / 100 = 25.8 => 0.06\\)\\(\\)\\(\\)\\(\\)\\(\\)P = 25.8 => P = Rs 430.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -414,7 +414,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The ratio of the cost price and selling price of a shirt is \\($32:37$\\). What is the profit percentage?",
+    "question": "The ratio of the cost price and selling price of a shirt is \\(32:37\\). What is the profit percentage?",
     "questionImage": null,
     "options": [
       {
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Profit = $$$$$$$$$$$$37 - 32 = 5.$$$$$$$$$$$$ \nProfit % = $$$$$$$$$$$$(5 / 32) * 100 = 15.625$$$$$$$$$$$$%.",
+    "explanation": "Profit = \\(\\)\\(\\)\\(\\)\\(\\)\\(37 - 32 = 5.\\)\\(\\)\\(\\)\\(\\)\\(\\) \nProfit % = \\(\\)\\(\\)\\(\\)\\(\\)\\(5 / 32\\) * 100 = 15.625\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -451,7 +451,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "A shopkeeper offers the following 3 schemes. Which scheme has the lowest discount percentage (all articles have same marked price)?\n\nI. Two successive discounts of 10% and 10%\nII. Buy 7 get 8\nIII. Buy 9 get 1 free",
+    "question": "A shopkeeper offers the following 3 schemes. Which scheme has the lowest discount percentage \\(all articles have same marked price\\)?\n\nI. Two successive discounts of 10% and 10%\nII. Buy 7 get 8\nIII. Buy 9 get 1 free",
     "questionImage": null,
     "options": [
       {
@@ -476,7 +476,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let marked price of each article = Rs 100.\nScheme I: Net discount = 10% + 10% - $$$$$$$$$$$$(10*10)/100 = 19$$$$$$$$$$$$%.\nScheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = ($\\frac{1}{8}$)*100 = 12.5%.\nScheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount % = ($\\frac{1}{10}$)*100 = 10%.\nScheme III has the lowest discount percentage.",
+    "explanation": "Let marked price of each article = Rs 100.\nScheme I: Net discount = 10% + 10% - \\(\\)\\(\\)\\(\\)\\(\\)\\(10*10\\)/100 = 19\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)%.\nScheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = \\(\\frac{1}{8}\\)*100 = 12.5%.\nScheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount % = \\(\\frac{1}{10}\\)*100 = 10%.\nScheme III has the lowest discount percentage.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,12 +488,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If x = (√\\$(2 + 1)/($\\)√\\$(2 - 1)$\\) and y = (√\\$(2 - 1)/($\\)√\\$(2 + 1)$\\), then what is the value of \\(x\\)+y ?",
+    "question": "If x = (√\\(\\)(2 + 1\\(\\)/\\(\\)√\\\\)\\((2 - 1\\)\\)\\(\\) and y = (√\\\\)\\((2 - 1\\)\\)/\\(\\)√\\(\\)(2 + 1\\(\\)\\)\\), then what is the value of \\(x\\)+y ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
@@ -503,7 +503,7 @@
       },
       {
         "id": "C",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
@@ -513,7 +513,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "x + y = [(√$$$$$$$$$$$$2 + 1)$$$$$$$$$$$$^2 + (√$$$$$$$$$$$$2 - 1)$$$$$$$$$$$$^2] / [(√$$$$$$$$$$$$2 - 1)$$$$$$$$$$$$(√$$$$$$$$$$$$2 + 1)$$$$$$$$$$$$] = [$$$$$$$$$$$$(2 + 1 + 2$$$$$$$$$$$$√2) + $$$$$$$$$$$$(2 + 1 - 2$$$$$$$$$$$$√2)] / $$$$$$$$$$$$(2 - 1) = 6.$$$$$$$$$$$$",
+    "explanation": "x + y = [(√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 + (√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)^2] / [(√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)(√\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 1)\\)\\(\\)\\(\\)\\(\\)\\(\\)] = [\\(\\)\\(\\)\\(\\)\\(\\)\\((2 + 1 + 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√2) + \\(\\)\\(\\)\\(\\)\\(\\)\\((2 + 1 - 2\\)\\(\\)\\(\\)\\(\\)\\(\\)√2)] / \\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 1\\) = 6.\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -530,27 +530,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "4",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "3",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "12",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "X can complete the full work in 10 * $\\frac{7}{5}$ = 14 days. \nY can complete the full work in 9 * $\\frac{4}{3}$ = 12 days. \nTogether, 1 day's work = $\\frac{1}{14}$ + $\\frac{1}{12}$ = $\\frac{13}{84}$. \nTime taken to complete $\\frac{13}{21}$ of the work = ($\\frac{13}{21}$) / ($\\frac{13}{84}$) = $$$$$$$$$$$$84 / 21 = 4$$$$$$$$$$$$ days.",
+    "explanation": "X can complete the full work in 10 * \\(\\frac{7}{5}\\) = 14 days. \nY can complete the full work in 9 * \\(\\frac{4}{3}\\) = 12 days. \nTogether, 1 day's work = \\(\\frac{1}{14}\\) + \\(\\frac{1}{12}\\) = \\(\\frac{13}{84}\\). \nTime taken to complete \\(\\frac{13}{21}\\) of the work = \\(\\frac{13}{21}\\) / \\(\\frac{13}{84}\\) = \\(\\)\\(\\)\\(\\)\\(\\)\\(84 / 21 = 4\\)\\(\\)\\(\\)\\(\\)\\(\\) days.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -562,32 +562,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Distance",
     "difficulty": "Easy",
-    "question": "A train starts from a place A at \\($8:00$\\) a.m. and arrives at another place B at \\($1:30$\\) p.m. on the same day. If the speed of the train is 30 km/hr, then what will be the distance (in km) covered by the train?",
+    "question": "A train starts from a place A at \\(8:00\\) a.m. and arrives at another place B at \\(1:30\\) p.m. on the same day. If the speed of the train is 30 km/hr, then what will be the distance \\(in km\\) covered by the train?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "165",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "175",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "150",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "135",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Time duration = $$$$$$$$$$$$8:00$$$$$$$$$$$$ a.m. to $$$$$$$$$$$$1:30$$$$$$$$$$$$ p.m. = 5.5 hours. \nDistance = Speed * Time = $$$$$$$$$$$$30 * 5.5 = 165$$$$$$$$$$$$ km.",
+    "explanation": "Time duration = \\(\\)\\(\\)\\(\\)\\(\\)\\(8:00\\)\\(\\)\\(\\)\\(\\)\\(\\) a.m. to \\(\\)\\(\\)\\(\\)\\(\\)\\(1:30\\)\\(\\)\\(\\)\\(\\)\\(\\) p.m. = 5.5 hours. \nDistance = Speed * Time = \\(\\)\\(\\)\\(\\)\\(\\)\\(30 * 5.5 = 165\\)\\(\\)\\(\\)\\(\\)\\(\\) km.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "1020",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "960",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "1080",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "920",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total number of employees = $$$$$$$$$$$$180 + 150 + 180 + 240 + 60 + 120 + 150 = 1080.$$$$$$$$$$$$",
+    "explanation": "Total number of employees = \\(\\)\\(\\)\\(\\)\\(\\)\\(180 + 150 + 180 + 240 + 60 + 120 + 150 = 1080.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,27 +678,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "80",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "60",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "75",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "50",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Central angle for B = $$$$$$$$$$$$(150 / 1080) * 360$$$$$$$$$$$$° = 50°.",
+    "explanation": "Central angle for B = \\(\\)\\(\\)\\(\\)\\(\\)\\(150 / 1080\\) * 360\\)\\(\\(\\)\\(\\)\\(\\)\\(\\)° = 50°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -710,32 +710,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "If the average monthly salary of the employees of this company is Rs 25,000 then what is the total of the salaries (in Rs lakhs) paid to all the employees of this company?",
+    "question": "If the average monthly salary of the employees of this company is Rs 25,000 then what is the total of the salaries \\(in Rs lakhs\\) paid to all the employees of this company?",
     "questionImage": "ssc_chsl_tier1_paper10_q17to20.png",
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "27",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "270",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "36",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "360",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Total number of employees = 1080. \nTotal salary = $$$$$$$$$$$$1080 * 25$$$$$$$$$$$$,000 = Rs $$$$$$$$$$$$2,70,00,000$$$$$$$$$$$$ = 270 lakhs.",
+    "explanation": "Total number of employees = 1080. \nTotal salary = \\(\\)\\(\\)\\(\\)\\(\\)\\(1080 * 25\\)\\(\\)\\(\\)\\(\\)\\(\\),000 = Rs \\(\\)\\(\\)\\(\\)\\(\\)\\(2,70,00,000\\)\\(\\)\\(\\)\\(\\)\\(\\) = 270 lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -747,7 +747,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The side of an equilateral triangle is 10 cm. Find its area (in cm^2).",
+    "question": "The side of an equilateral triangle is 10 cm. Find its area \\(in cm^2\\).",
     "questionImage": null,
     "options": [
       {
@@ -772,7 +772,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Area of equilateral triangle = (√$\\frac{3}{4}$) * s^2 = (√$\\frac{3}{4}$) * 100 = 25√3 cm^2.",
+    "explanation": "Area of equilateral triangle = (√\\(\\frac{3}{4}\\)) * s^2 = (√\\(\\frac{3}{4}\\)) * 100 = 25√3 cm^2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -789,22 +789,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "8",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "9",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "5",
         "image": null
       }
     ],
@@ -821,32 +821,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The curved surface area and the diameter of a right circular cylinder are 660 cm^2 and 21 cm respectively. Find its height (in cm).",
+    "question": "The curved surface area and the diameter of a right circular cylinder are 660 cm^2 and 21 cm respectively. Find its height \\(in cm\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "9",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "10",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "12",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "8",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \nCurved Surface Area = 2 * pi * r * h = 660 => 2 * ($\\frac{22}{7}$) * ($\\frac{21}{2}$) * h = 660 => 66h = 660 => h = 10 cm.",
+    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \nCurved Surface Area = 2 * pi * r * h = 660 => 2 * \\(\\frac{22}{7}\\) * \\(\\frac{21}{2}\\) * h = 660 => 66h = 660 => h = 10 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,17 +858,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of (1/√3 + cos 60°)?",
+    "question": "What is the value of \\(1/√3 + cos 60°\\)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($(2 + 2$\\)√3)/√3",
+        "text": "\\((2 + 2\\)√3)/√3",
         "image": null
       },
       {
         "id": "B",
-        "text": "(2 + √3)/2√3",
+        "text": "\\(2 + √3\\)/2√3",
         "image": null
       },
       {
@@ -878,12 +878,12 @@
       },
       {
         "id": "D",
-        "text": "(√\\$(2 + 1)$\\)/√2",
+        "text": "(√\\(\\)(2 + 1\\(\\)\\)\\)/√2",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Expression = 1/√3 + cos(60°) = 1/√3 + $\\frac{1}{2}$ = (2 + √3)/2√3.",
+    "explanation": "Expression = 1/√3 + cos\\(60°\\) = 1/√3 + \\(\\frac{1}{2}\\) = \\(2 + √3\\)/2√3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "cos A = AB/AC = $\\frac{8}{17}$. Let AB = 8, AC = 17.\nBC = sqrt(AC^2 - AB^2) = sqrt$$$$$$$$$$$$(289 - 64)$$$$$$$$$$$$ = sqrt(225) = 15.\ncot C = Adjacent / Opposite = BC / AB = $\\frac{15}{8}$.",
+    "explanation": "cos A = AB/AC = \\(\\frac{8}{17}\\). Let AB = 8, AC = 17.\nBC = sqrt\\(AC^2 - AB^2\\) = sqrt\\(\\)\\(\\)\\(\\)\\(\\)\\(289 - 64\\)\\(\\)\\(\\)\\(\\)\\(\\) = sqrt\\(225\\) = 15.\ncot C = Adjacent / Opposite = BC / AB = \\(\\frac{15}{8}\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,27 +969,27 @@
     "subject": "General Intelligence",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number pair from the given alternatives.\n\n\\($43:27$\\) : : ? : ?",
+    "question": "Select the related number pair from the given alternatives.\n\n\\(43:27\\) : : ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($77:65$\\)",
+        "text": "\\(77:65\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($91:87$\\)",
+        "text": "\\(91:87\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($65:49$\\)",
+        "text": "\\(65:49\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($69:55$\\)",
+        "text": "\\(69:55\\)",
         "image": null
       }
     ],
@@ -1031,7 +1031,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The relationship is incrementing each letter by 1 (+1): A->B, P->Q, X->Y. \nSimilarly, C(+1)->D, S(+1)->T, N(+1)->O. So, CSN : DTO is the correct pair.",
+    "explanation": "The relationship is incrementing each letter by 1 \\(+1\\): A->B, P->Q, X->Y. \nSimilarly, C\\(+1\\)->D, S\\(+1\\)->T, N\\(+1\\)->O. So, CSN : DTO is the correct pair.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1068,7 +1068,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "For options A, C and D, the first term is the equipment or entity required to play the sport in the second term. In option B, the order is reversed (sport - equipment), making Boxing - Gloves the odd one out.",
+    "explanation": "For options A, C and D, the first term is the equipment or entity required to play the sport in the second term. In option B, the order is reversed \\(sport - equipment\\), making Boxing - Gloves the odd one out.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$(13 - 14$\\)",
+        "text": "\\((13 - 14\\)\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(15 - 16$\\)",
+        "text": "\\((15 - 16\\)\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(24 - 25$\\)",
+        "text": "\\((24 - 25\\)\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(19 - 21$\\)",
+        "text": "\\((19 - 21\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The difference between the numbers in each pair is 1 except in option D, where $$$$$$$$$$$$21 - 19 = 2.$$$$$$$$$$$$",
+    "explanation": "The difference between the numbers in each pair is 1 except in option D, where \\(\\)\\(\\)\\(\\)\\(\\)\\(21 - 19 = 2.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1142,7 +1142,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In options A, B and C, the letters are incremented by 6 (+6): G(+6)->M(+6)->S. \nIn option D, N(+6)->T(+5)->Y. So, NTY is the odd one.",
+    "explanation": "In options A, B and C, the letters are incremented by 6 \\(+6\\): G\\(+6\\)->M\\(+6\\)->S. \nIn option D, N\\(+6\\)->T\\(+5\\)->Y. So, NTY is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1159,27 +1159,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "12435",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "54123",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "15423",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "25413",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Dictionary order: Throttle (1) -> Thrust (5) -> Tier (4) -> Tight (2) -> Time (3). So the correct order is $$$$$$$$$$$$1,5,4,2,3$$$$$$$$$$$$.",
+    "explanation": "Dictionary order: Throttle \\(1\\) -> Thrust \\(5\\) -> Tier \\(4\\) -> Tight \\(2\\) -> Time \\(3\\). So the correct order is \\(\\)\\(\\)\\(\\)\\(\\)\\(1,5,4,2,3\\)\\(\\)\\(\\)\\(\\)\\(\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1196,27 +1196,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "482",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "384",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "396",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "424",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Each number is divided by 2 to get the next number: $$$$$$$$$$$$964 / 2 = 482.$$$$$$$$$$$$",
+    "explanation": "Each number is divided by 2 to get the next number: \\(\\)\\(\\)\\(\\)\\(\\)\\(964 / 2 = 482.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1253,7 +1253,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The pattern followed is incrementing by 5 letters (+5): D(+5)->I(+5)->N(+5)->S(+5)->X.",
+    "explanation": "The pattern followed is incrementing by 5 letters \\(+5\\): D\\(+5\\)->I\\(+5\\)->N\\(+5\\)->S\\(+5\\)->X.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1265,7 +1265,7 @@
     "subject": "General Intelligence",
     "topic": "Directions",
     "difficulty": "Medium",
-    "question": "Ganga leaves from her college at \\($10:00$\\) a.m. She starts walking towards north and covers a distance of 14 km. She turns right and walks 20 km to reach point K. She turns left and walk 16 km. She again turns left and walks 10 km. How far (in km) and in which direction is she now from point K?",
+    "question": "Ganga leaves from her college at \\(10:00\\) a.m. She starts walking towards north and covers a distance of 14 km. She turns right and walks 20 km to reach point K. She turns left and walk 16 km. She again turns left and walks 10 km. How far \\(in km\\) and in which direction is she now from point K?",
     "questionImage": null,
     "options": [
       {
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let point K be (0,0). \nAfter reaching K, Ganga turns left (North) 16km to L (0, 16). Then turns left (West) 10km to stop at M (-10, 16).\nDistance KM = sqrt((-10)^$$$$$$$$$$$$2 + 16$$$$$$$$$$$$^2) = sqrt$$$$$$$$$$$$(100 + 256)$$$$$$$$$$$$ = sqrt(356) = 2√89 km.\nDirection of M with respect to K is North-West.",
+    "explanation": "Let point K be \\(0,0\\). \nAfter reaching K, Ganga turns left \\(North\\) 16km to L \\(0, 16\\). Then turns left \\(West\\) 10km to stop at M \\(-10, 16\\).\nDistance KM = sqrt\\((-10\\)^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 + 16\\)\\(\\)\\(\\)\\(\\)\\(\\)^2) = sqrt\\(\\)\\(\\)\\(\\)\\(\\)\\(100 + 256\\)\\(\\)\\(\\)\\(\\)\\(\\) = sqrt\\(356\\) = 2√89 km.\nDirection of M with respect to K is North-West.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1344,22 +1344,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "206191316",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "121562019",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "121562020",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1515121119",
         "image": null
       }
     ],
@@ -1376,32 +1376,32 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n18 x $12 \\div \\$(5 - 10 + 10 = ?$\\)",
+    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n18 x \\(12 \\div\\)\\((5 - 10 + 10 = ?\\)$\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "14",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "6",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "39",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "2",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Decoding the expression: $$$$$$$$$$$$18 + 12 * 5 / 10 - 10 = 18 + 6 - 10 = 14.$$$$$$$$$$$$",
+    "explanation": "Decoding the expression: \\(\\)\\(\\)\\(\\)\\(\\)\\(18 + 12 * 5 / 10 - 10 = 18 + 6 - 10 = 14.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,7 +1413,7 @@
     "subject": "General Intelligence",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(10 + 14$\\) x \\$(20 - 7$\\) \\div 10 = 40$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\($(10 + 14\\)\\(\\) x \\\\)\\((20 - 7\\)\\(\\) \\div 10 = 40\\)",
     "questionImage": null,
     "options": [
       {
@@ -1438,7 +1438,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Interchanging '-' and '÷' gives: $$$$$$$$$$$$10 + 14 * 20 / 7 - 10 = 10 + 40 - 10 = 40.$$$$$$$$$$$$ This balances the equation.",
+    "explanation": "Interchanging '-' and '÷' gives: \\(\\)\\(\\)\\(\\)\\(\\)\\(10 + 14 * 20 / 7 - 10 = 10 + 40 - 10 = 40.\\)\\(\\)\\(\\)\\(\\)\\(\\) This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1460,12 +1460,12 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "8",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "4",
         "image": null
       },
       {
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The operation is: a @ b = (a - b) / 2. Thus, 6@10 = $$$$$$$$$$$$(6 - 10) / 2$$$$$$$$$$$$ = -2.",
+    "explanation": "The operation is: a @ b = \\(a - b\\) / 2. Thus, 6@10 = \\(\\)\\(\\)\\(\\)\\(\\)\\(6 - 10\\) / 2\\)\\(\\(\\)\\(\\)\\(\\)\\(\\) = -2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "A starts at (0,0), goes 3.5km West -> (-3.5, 0), turns right (North) 7km -> (-3.5, 7).\nB starts at (0,0), goes 1km East -> (1, 0), turns North 7km -> (1, 7), turns left (West) 2km -> (-1, 7).\nB's position relative to A is -1 - (-3.5) = 2.5 km East.",
+    "explanation": "A starts at \\(0,0\\), goes 3.5km West -> \\(-3.5, 0\\), turns right \\(North\\) 7km -> \\(-3.5, 7\\).\nB starts at \\(0,0\\), goes 1km East -> \\(1, 0\\), turns North 7km -> \\(1, 7\\), turns left \\(West\\) 2km -> \\(-1, 7\\).\nB's position relative to A is -1 - \\(-3.5\\) = 2.5 km East.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1586,7 +1586,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Since all rags are napkins, and all napkins are towels, it follows that all rags are towels (Conclusion II is true). Also, some towels are rags is also true (Conclusion I is true). Thus, both conclusions follow.",
+    "explanation": "Since all rags are napkins, and all napkins are towels, it follows that all rags are towels \\(Conclusion II is true\\). Also, some towels are rags is also true \\(Conclusion I is true\\). Thus, both conclusions follow.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1623,7 +1623,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Pharmacists (rectangle) who are either Fathers (square) or Cooks (triangle) are represented by the letters in the intersection of the rectangle with either the square or the triangle, which is 'CEF'.",
+    "explanation": "Pharmacists \\(rectangle\\) who are either Fathers \\(square\\) or Cooks \\(triangle\\) are represented by the letters in the intersection of the rectangle with either the square or the triangle, which is 'CEF'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1660,7 +1660,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern followed is decrementing each letter by 4 (-4):\n1st letter: D(-4)->Z(-4)->V(-4)->R(-4)->N\n2nd letter: E(-4)->A(-4)->W(-4)->S(-4)->O\n3rd letter: W(-4)->S(-4)->O(-4)->K(-4)->G\nThus, missing term is NOG.",
+    "explanation": "The pattern followed is decrementing each letter by 4 \\(-4\\):\n1st letter: D\\(-4\\)->Z\\(-4\\)->V\\(-4\\)->R\\(-4\\)->N\n2nd letter: E\\(-4\\)->A\\(-4\\)->W\\(-4\\)->S\\(-4\\)->O\n3rd letter: W\\(-4\\)->S\\(-4\\)->O\\(-4\\)->K\\(-4\\)->G\nThus, missing term is NOG.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1672,32 +1672,32 @@
     "subject": "General Intelligence",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n\\($1,3,5,7$\\), ?",
+    "question": "Select the missing number from the given series.\n\n\\(1,3,5,7\\), ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "9",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "11",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "10",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "12",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern is adding 2 (+2) to each term: $$$$$$$$$$$$7 + 2 = 9.$$$$$$$$$$$$",
+    "explanation": "The pattern is adding 2 \\(+2\\) to each term: \\(\\)\\(\\)\\(\\)\\(\\)\\(7 + 2 = 9.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1714,27 +1714,27 @@
     "options": [
       {
         "id": "A",
-        "text": "(31, 34, 37)",
+        "text": "\\(31, 34, 37\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "(43, 45, 48)",
+        "text": "\\(43, 45, 48\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "(39, 42, 45)",
+        "text": "\\(39, 42, 45\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "(7, 10, 13)",
+        "text": "\\(7, 10, 13\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In options A, C and D, the difference between consecutive numbers is 3: (x, x+3, x+6). In option B, $$$$$$$$$$$$43+3 = 46$$$$$$$$$$$$ (not 45), making (43, 45, 48) the odd one.",
+    "explanation": "In options A, C and D, the difference between consecutive numbers is 3: \\(x, x+3, x+6\\). In option B, \\(\\)\\(\\)\\(\\)\\(\\)\\(43+3 = 46\\)\\(\\)\\(\\)\\(\\)\\(\\) \\(not 45\\), making \\(43, 45, 48\\) the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($21,99,31,85$\\)",
+        "text": "\\(21,99,31,85\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($12,87,11,78$\\)",
+        "text": "\\(12,87,11,78\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($31,65,14,76$\\)",
+        "text": "\\(31,65,14,76\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($76,10,68,23$\\)",
+        "text": "\\(76,10,68,23\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Checking option D: 76 = S, 10 = I, 68 = N, 23 = E. So $$$$$$$$$$$$76,10,68,23$$$$$$$$$$$$ represents 'SINE'.",
+    "explanation": "Checking option D: 76 = S, 10 = I, 68 = N, 23 = E. So \\(\\)\\(\\)\\(\\)\\(\\)\\(76,10,68,23\\)\\(\\)\\(\\)\\(\\)\\(\\) represents 'SINE'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1857,7 +1857,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Easy",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nShe has a (a)/ kind eyes (b)/ with a beautiful face. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nShe has a \\(a\\)/ kind eyes \\(b\\)/ with a beautiful face. \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -1882,7 +1882,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The indefinite article 'a' is incorrect before plural noun 'kind eyes'. It should be 'She has kind eyes'. Hence, error is in part (a).",
+    "explanation": "The indefinite article 'a' is incorrect before plural noun 'kind eyes'. It should be 'She has kind eyes'. Hence, error is in part \\(a\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1894,7 +1894,7 @@
     "subject": "English Language",
     "topic": "Error Spotting",
     "difficulty": "Easy",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nExperts have predict that (a) within ten years ethanol will emerge (b) as the primary automatic fuel in the world. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nExperts have predict that \\(a\\) within ten years ethanol will emerge \\(b\\) as the primary automatic fuel in the world. \\(c\\)/ No error \\(d\\)",
     "questionImage": null,
     "options": [
       {
@@ -1919,7 +1919,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The present perfect tense requires the past participle form of the verb: 'Experts have predicted'. Hence, error is in part (a).",
+    "explanation": "The present perfect tense requires the past participle form of the verb: 'Experts have predicted'. Hence, error is in part \\(a\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2141,7 +2141,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "'Cozen' means to trick or deceive. Its antonym is 'Honest' (or treat honestly).",
+    "explanation": "'Cozen' means to trick or deceive. Its antonym is 'Honest' \\(or treat honestly\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nand the world, ________ to the worst",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nand the world, ________ to the worst",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nwrong _________ the world.",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nwrong _________ the world.",
     "questionImage": null,
     "options": [
       {
@@ -2363,7 +2363,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The printed key selects C (with), meaning 'wrong with the world'.",
+    "explanation": "The printed key selects C \\(with\\), meaning 'wrong with the world'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\noften __________ pieces of ‘news’",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\noften __________ pieces of ‘news’",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nsuch a disparity _________ to the same effect",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\nsuch a disparity _________ to the same effect",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\ndoes not ____________ our lives.",
+    "question": "Instructions [\\((63 - 67\\)\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nPeople are now either exposed to the very best of their inner circle and the world, ________ to the worst — articles that look to shock, to provoke rage and put a lens on everything that is wrong _________ the world. Imperceptibly, it goes unsaid that often __________ pieces of ‘news’ fail to actually provide a constructive solution. The effect of such a disparity _________ to the same effect as news of TV and newspapers — a feeling that what we see does not ____________ our lives.\n\ndoes not ____________ our lives.",
     "questionImage": null,
     "options": [
       {
@@ -2634,7 +2634,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Improve the bracketed part of the sentence. In case no improvement is needed, select 'no improvement'.\n\nI (had been) a unique case of slow learning.",
+    "question": "Improve the bracketed part of the sentence. In case no improvement is needed, select 'no improvement'.\n\nI \\(had been\\) a unique case of slow learning.",
     "questionImage": null,
     "options": [
       {
@@ -2671,7 +2671,7 @@
     "subject": "English Language",
     "topic": "Sentence Improvement",
     "difficulty": "Easy",
-    "question": "Improve the bracketed part of the sentence. In case no improvement is needed, select 'no improvement'.\n\nYou (will being surprised) to learn that some leading philosophers have supported immoral views.",
+    "question": "Improve the bracketed part of the sentence. In case no improvement is needed, select 'no improvement'.\n\nYou \\(will being surprised\\) to learn that some leading philosophers have supported immoral views.",
     "questionImage": null,
     "options": [
       {
@@ -2807,7 +2807,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "An increase in the money supply, other things being equal, leads to a decrease in interest rates (liquidity effect).",
+    "explanation": "An increase in the money supply, other things being equal, leads to a decrease in interest rates \\(liquidity effect\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3029,7 +3029,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "St. Francis Church, built in 1503 in Fort Kochi (Cochin), Kerala, is the oldest European church in India.",
+    "explanation": "St. Francis Church, built in 1503 in Fort Kochi \\(Cochin\\), Kerala, is the oldest European church in India.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3066,7 +3066,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The world's first commercial carbon capture plant started operating in Iceland (specifically Orca plant developed by Climeworks).",
+    "explanation": "The world's first commercial carbon capture plant started operating in Iceland \\(specifically Orca plant developed by Climeworks\\).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3078,7 +3078,7 @@
     "subject": "General Awareness",
     "topic": "Awards",
     "difficulty": "Easy",
-    "question": "Who among the following is a recipient of V. Shantaram Lifetime Achievement Award at the Mumbai International Film Festival (MIFF) in year 2018?",
+    "question": "Who among the following is a recipient of V. Shantaram Lifetime Achievement Award at the Mumbai International Film Festival \\(MIFF\\) in year 2018?",
     "questionImage": null,
     "options": [
       {
@@ -3177,7 +3177,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The well-known Dobereiner triads are (Li, Na, K), (Cl, Br, I) and (Ca, Sr, Ba). N, P, Au does not form a Dobereiner triad.",
+    "explanation": "The well-known Dobereiner triads are \\(Li, Na, K\\), \\(Cl, Br, I\\) and \\(Ca, Sr, Ba\\). N, P, Au does not form a Dobereiner triad.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3251,7 +3251,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The Tenth Schedule (added by 52nd Amendment in 1985) contains the Anti-Defection Law.",
+    "explanation": "The Tenth Schedule \\(added by 52nd Amendment in 1985\\) contains the Anti-Defection Law.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3337,7 +3337,7 @@
     "subject": "General Awareness",
     "topic": "Government Schemes",
     "difficulty": "Easy",
-    "question": "In October 2017, which two ministries jointly launched ‘SAATHI’ (Sustainable and Accelerated Adoption of efficient Textile technologies to help small Industries) initiative?",
+    "question": "In October 2017, which two ministries jointly launched ‘SAATHI’ \\(Sustainable and Accelerated Adoption of efficient Textile technologies to help small Industries\\) initiative?",
     "questionImage": null,
     "options": [
       {
@@ -3416,27 +3416,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "18",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "17",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "11",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "15",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Under the Prompt Corrective Action (PCA) framework of RBI in early 2018, 11 public sector banks were placed under restrictions.",
+    "explanation": "Under the Prompt Corrective Action \\(PCA\\) framework of RBI in early 2018, 11 public sector banks were placed under restrictions.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3448,32 +3448,32 @@
     "subject": "General Awareness",
     "topic": "Government Schemes",
     "difficulty": "Easy",
-    "question": "The Cabinet Committee on Economic Affairs (CCEA) has approved expansion of \"Beti Bachao Beti Padhao\" yojana for a pan India coverage from \\$(2017 - 2018$\\) to _____.",
+    "question": "The Cabinet Committee on Economic Affairs \\(CCEA\\) has approved expansion of \"Beti Bachao Beti Padhao\" yojana for a pan India coverage from \\((2017 - 2018\\)\\) to _____.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\$(2018-2019$\\)",
+        "text": "\\((2018-2019\\)\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(2019-2020$\\)",
+        "text": "\\((2019-2020\\)\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(2020-2021$\\)",
+        "text": "\\((2020-2021\\)\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(2021-2022$\\)",
+        "text": "\\((2021-2022\\)\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The CCEA approved the expansion of Beti Bachao Beti Padhao for a pan-India coverage from $$$$$$$$$$$$2017-18$$$$$$$$$$$$ to $$$$$$$$$$$$2019-20.$$$$$$$$$$$$",
+    "explanation": "The CCEA approved the expansion of Beti Bachao Beti Padhao for a pan-India coverage from \\(\\)\\(\\)\\(\\)\\(\\)\\(2017-18\\)\\(\\)\\(\\)\\(\\)\\(\\) to \\(\\)\\(\\)\\(\\)\\(\\)\\(2019-20.\\)\\(\\)\\(\\)\\(\\)\\(\\)",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3522,12 +3522,12 @@
     "subject": "General Awareness",
     "topic": "Physics",
     "difficulty": "Easy",
-    "question": "Due to an acceleration of 1 m/s^2 the velocity of a body increases from 5 m/s to 10 m/s in a certain period. Find the displacement (in m) of the body in that period.",
+    "question": "Due to an acceleration of 1 m/s^2 the velocity of a body increases from 5 m/s to 10 m/s in a certain period. Find the displacement \\(in m\\) of the body in that period.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "125",
         "image": null
       },
       {
@@ -3542,12 +3542,12 @@
       },
       {
         "id": "D",
-        "text": "",
+        "text": "75",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using equation: v^2 - u^2 = 2as => 10^$$$$$$$$$$$$2 - 5$$$$$$$$$$$$^2 = $$$$$$$$$$$$2 * 1$$$$$$$$$$$$ * s => $$$$$$$$$$$$100 - 25 = 2$$$$$$$$$$$$s => s = 37.5 meters.",
+    "explanation": "Using equation: v^2 - u^2 = 2as => 10^\\(\\)\\(\\)\\(\\)\\(\\)\\(2 - 5\\)\\(\\)\\(\\)\\(\\)\\(\\)^2 = \\(\\)\\(\\)\\(\\)\\(\\)\\(2 * 1\\)\\(\\)\\(\\)\\(\\)\\(\\) * s => \\(\\)\\(\\)\\(\\)\\(\\)\\(100 - 25 = 2\\)\\(\\)\\(\\)\\(\\)\\(\\)s => s = 37.5 meters.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3658,7 +3658,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In 2017, Sandeep Narwal played for Puneri Paltan. Dani Pedrosa raced in MotoGP for Repsol Honda (statement B is correct). Glenn Maxwell was captain of Kings XI Punjab in IPL 2017. Thus, only B is correct.",
+    "explanation": "In 2017, Sandeep Narwal played for Puneri Paltan. Dani Pedrosa raced in MotoGP for Repsol Honda \\(statement B is correct\\). Glenn Maxwell was captain of Kings XI Punjab in IPL 2017. Thus, only B is correct.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3695,7 +3695,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Ctrl + Down Arrow moves the cursor to the last cell in the current column (end of column).",
+    "explanation": "Ctrl + Down Arrow moves the cursor to the last cell in the current column \\(end of column\\).",
     "marks": 2,
     "negativeMarks": 0.5
   }
