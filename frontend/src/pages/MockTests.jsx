@@ -828,6 +828,10 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
   };
 
   const handleStartTest = (test) => {
+    if (test && test.id && test.id.includes("sbi_clerk")) {
+      alert("No questions uploaded for this mock test yet.");
+      return;
+    }
     requestAuth(() => {
       setActiveExam(test);
     });
