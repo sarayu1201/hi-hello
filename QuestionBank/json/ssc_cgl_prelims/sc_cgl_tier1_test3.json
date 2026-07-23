@@ -1806,7 +1806,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "The sum of two positive integers is $80$ and the difference between them is $20$. Then what is the difference of the squares of those numbers?",
+    "question": "The sum of two positive integers is$80$and the difference between them is$20$. Then what is the difference of the squares of those numbers?",
     "questionImage": null,
     "options": [
       {
@@ -1831,7 +1831,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the numbers be $x$ and $y$. Given $x+y=80$ and $x-y=20$. Using the identity $x^2-y^2=(x+y)(x-y)$, we get $(80)(20)=1600$.",
+    "explanation": "Let the numbers be$x$and$y$. Given$x+y=80$and$x-y=20$. Using the identity$x^2-y^2=(x+y)(x-y)$, we get$(80)(20)=1600$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1842,7 +1842,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The difference between the selling prices of an article sold at $4\\%$ and $3\\%$ profits is ₹$3$. The cost price of the article is:",
+    "question": "The difference between the selling prices of an article sold at$4\\%$and$3\\%$profits is ₹$3$. The cost price of the article is:",
     "questionImage": null,
     "options": [
       {
@@ -1867,7 +1867,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The difference in profit percentages is $1\\%$. If $1\\%$ of the cost price equals ₹$3$, then the cost price is $\\frac{3\\times100}{1}=₹300$.",
+    "explanation": "The difference in profit percentages is$1\\%$. If$1\\%$of the cost price equals ₹$3$, then the cost price is$\\frac{3\\times100}{1}=₹300$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1878,7 +1878,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Percentage",
     "difficulty": "Easy",
-    "question": "In a school there are $1500$ students, $44\\%$ of them are girls. The monthly fee of each boy is ₹$540$ and the fee of each girl is $25\\%$ less than that of a boy. The total monthly fee collected from all the students is:",
+    "question": "In a school there are$1500$students,$44\\%$of them are girls. The monthly fee of each boy is ₹$540$and the fee of each girl is$25\\%$less than that of a boy. The total monthly fee collected from all the students is:",
     "questionImage": null,
     "options": [
       {
@@ -1903,7 +1903,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Girls $=44\\%$ of $1500=660$. Boys $=$1500-660=840$. Girl's fee $=75\\%$ of ₹$540=₹405$. Total fee $=(840\\times540)+(660\\times405)=₹720900$.",
+    "explanation": "Girls$=44\\%$of$1500=660$. Boys$=$1500-660=840$. Girl's fee$=75\\%$of ₹$540=₹405$. Total fee$=(840\\times540)+(660\\times405)=₹720900$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1914,32 +1914,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time, Speed and Distance",
     "difficulty": "Easy",
-    "question": "The time taken by a train of length $110$ metres running at a speed of $72\\ \\text{km/h}$ to cross a bridge of length $132$ metres is:",
+    "question": "The time taken by a train of length$110$metres running at a speed of$72\\ \\text{km/h}$to cross a bridge of length$132$metres is:",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$9.8$ sec",
+        "text": "$9.8$sec",
         "image": null
       },
       {
         "id": "B",
-        "text": "$12.1$ sec",
+        "text": "$12.1$sec",
         "image": null
       },
       {
         "id": "C",
-        "text": "$12.42$ sec",
+        "text": "$12.42$sec",
         "image": null
       },
       {
         "id": "D",
-        "text": "$14.3$ sec",
+        "text": "$14.3$sec",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Speed $=72\\times\\frac{5}{18}=20\\ \\text{m/s}$. Total distance $=$110+132=242$ m. Therefore, time $=\\frac{242}{20}=12.1$ seconds.",
+    "explanation": "Speed$=72\\times\\frac{5}{18}=20\\ \\text{m/s}$. Total distance$=$110+132=242$m. Therefore, time$$=\\frac{242}{20}=12.1$$seconds.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1950,7 +1950,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebraic Identities",
     "difficulty": "Medium",
-    "question": "Simplify $\\dfrac{(0.7)^3+(0.3)^3}{(0.7)^2-(0.7)(0.3)+(0.3)^2}$.",
+    "question": "Simplify$\\dfrac{(0.7)^3+(0.3)^3}{(0.7)^2-(0.7)(0.3)+(0.3)^2}$.",
     "questionImage": null,
     "options": [
       {
@@ -1975,7 +1975,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the identity $a^3+b^3=(a+b)(a^2-ab+b^2)$ with $a=0.7$ and $b=0.3$, the given expression simplifies to $a+b=1$.",
+    "explanation": "Using the identity$a^3+b^3=(a+b)(a^2-ab+b^2)$with$a=0.7$and$b=0.3$, the given expression simplifies to$a+b=1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1986,7 +1986,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If $x + \\frac{1}{x} = -2$, then the value of $x^7 + \\frac{1}{x^7}$ is",
+    "question": "If$x + \\frac{1}{x} = -2$, then the value of$x^7 + \\frac{1}{x^7}$is",
     "questionImage": null,
     "options": [
       {
@@ -2011,7 +2011,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Given $x+\\frac{1}{x}=-2$. Multiplying by $x$, we get $x^$2+2$x+1=0$, which gives $(x+1)^2=0$. Hence, $x=-1$. Therefore, $x^7+\\frac{1}{x^7}=(-1)^7+(-1)^7=-$1-1=-2$.",
+    "explanation": "Given$x+\\frac{1}{x}=-2$. Multiplying by$x$, we get$x^$2+2$x+1=0$, which gives$(x+1)^2=0$. Hence,$x=-1$. Therefore,$x^7+\\frac{1}{x^7}=(-1)^7+(-1)^7=-$1-1=-2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2022,7 +2022,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "In a circle, two arcs of unequal length subtend angles in the ratio $5:3$. If the smaller angle is $45^\\circ$, then the measure of the other angle is",
+    "question": "In a circle, two arcs of unequal length subtend angles in the ratio$5:3$. If the smaller angle is$45^\\circ$, then the measure of the other angle is",
     "questionImage": null,
     "options": [
       {
@@ -2047,7 +2047,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the angles be $5x$ and $3x$. Since the smaller angle is $45^\\circ$, $3x=45^\\circ$, giving $x=15^\\circ$. Hence, the larger angle is $5\\times15^\\circ=75^\\circ$.",
+    "explanation": "Let the angles be$5x$and$3x$. Since the smaller angle is$45^\\circ$,$3x=45^\\circ$, giving$x=15^\\circ$. Hence, the larger angle is$5\\times15^\\circ=75^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2094,7 +2094,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "If $a\\sin45^\\circ\\cos45^\\circ\\tan60^\\circ=\\tan^245^\\circ-\\cos60^\\circ$, then the value of $a$ is",
+    "question": "If$a\\sin45^\\circ\\cos45^\\circ\\tan60^\\circ=\\tan^245^\\circ-\\cos60^\\circ$, then the value of$a$is",
     "questionImage": null,
     "options": [
       {
@@ -2119,7 +2119,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using $\\sin45^\\circ=\\cos45^\\circ=\\frac{1}{\\sqrt{2}}$, $\\tan60^\\circ=\\sqrt{3}$, $\\tan45^\\circ=1$, and $\\cos60^\\circ=\\frac{1}{2}$, we get $a\\left(\\frac{1}{2}\\right)\\sqrt{3}=\\frac{1}{2}$. Therefore, $a=\\frac{1}{\\sqrt{3}}$.",
+    "explanation": "Using$\\sin45^\\circ=\\cos45^\\circ=\\frac{1}{\\sqrt{2}}$,$\\tan60^\\circ=\\sqrt{3}$,$\\tan45^\\circ=1$, and$\\cos60^\\circ=\\frac{1}{2}$, we get$a\\left(\\frac{1}{2}\\right)\\sqrt{3}=\\frac{1}{2}$. Therefore,$a=\\frac{1}{\\sqrt{3}}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2130,7 +2130,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Work",
     "difficulty": "Easy",
-    "question": "Ganesh, Ram and Sohan together can complete a work in $16$ days. If Ganesh and Ram together can complete the same work in $24$ days, then the number of days Sohan alone takes to finish the work is",
+    "question": "Ganesh, Ram and Sohan together can complete a work in$16$days. If Ganesh and Ram together can complete the same work in$24$days, then the number of days Sohan alone takes to finish the work is",
     "questionImage": null,
     "options": [
       {
@@ -2155,7 +2155,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Assume total work is $48$ units. Together, Ganesh, Ram and Sohan complete $\\frac{48}{16}=3$ units/day. Ganesh and Ram together complete $\\frac{48}{24}=2$ units/day. Therefore, Sohan's efficiency is $1$ unit/day, so he takes $48$ days to complete $48$ units of work.",
+    "explanation": "Assume total work is$48$units. Together, Ganesh, Ram and Sohan complete$\\frac{48}{16}=3$units/day. Ganesh and Ram together complete$\\frac{48}{24}=2$units/day. Therefore, Sohan's efficiency is$1$unit/day, so he takes$48$days to complete$48$units of work.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2166,7 +2166,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Easy",
-    "question": "The radius of the base of a right circular cone is $6$ cm and its slant height is $10$ cm. Then its volume is (Use $\\pi=\\frac{22}{7}$)",
+    "question": "The radius of the base of a right circular cone is$6$cm and its slant height is$10$cm. Then its volume is (Use$\\pi=\\frac{22}{7}$)",
     "questionImage": null,
     "options": [
       {
@@ -2191,7 +2191,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Height $h=\\sqrt{l^2-r^2}=\\sqrt{10^$2-6$^2}=\\sqrt{64}=8$ cm. Volume $=\\frac{1}{3}\\pi r^2h=\\frac{1}{3}\\times\\frac{22}{7}\\times6^2\\times8=301.71\\ \\text{cm}^3$.",
+    "explanation": "Height$h=\\sqrt{l^2-r^2}=\\sqrt{10^$2-6$^2}=\\sqrt{64}=8$cm. Volume$=\\frac{1}{3}\\pi r^2h=\\frac{1}{3}\\times\\frac{22}{7}\\times6^2\\times8=301.71\\ \\text{cm}^3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2202,7 +2202,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "A shopkeeper allows a $20\\%$ discount on the marked price of an article. Find the marked price of an article for which he charges ₹$740$.",
+    "question": "A shopkeeper allows a$20\\%$discount on the marked price of an article. Find the marked price of an article for which he charges ₹$740$.",
     "questionImage": null,
     "options": [
       {
@@ -2227,7 +2227,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Selling price $=80\\%$ of marked price. Therefore, Marked Price $=\\frac{740\\times100}{80}=₹925$.",
+    "explanation": "Selling price$=80\\%$of marked price. Therefore, Marked Price$=\\frac{740\\times100}{80}=₹925$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2238,7 +2238,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time, Speed and Distance",
     "difficulty": "Easy",
-    "question": "A truck covers a distance of $550$ metres in one minute whereas a bus covers a distance of $33$ km in $\\frac{3}{4}$ hour. Then the ratio of their speeds is",
+    "question": "A truck covers a distance of$550$metres in one minute whereas a bus covers a distance of$33$km in$\\frac{3}{4}$hour. Then the ratio of their speeds is",
     "questionImage": null,
     "options": [
       {
@@ -2263,7 +2263,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Truck speed $=550$ m/min $=0.55$ km/min. Bus speed $=\\frac{33}{45}=0.7333$ km/min. Ratio $=0.$55:0$.7333=$3:4$.",
+    "explanation": "Truck speed$=550$m/min$=0.55$km/min. Bus speed$=\\frac{33}{45}=0.7333$km/min. Ratio$=0.$55:0$.7333=$3:4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2274,7 +2274,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Easy",
-    "question": "Seven years ago, the average age of A, B and C was $51$ years. If A is $3$ years older than B and B is $3$ years older than C, then the present ages of A, B and C respectively are",
+    "question": "Seven years ago, the average age of A, B and C was$51$years. If A is$3$years older than B and B is$3$years older than C, then the present ages of A, B and C respectively are",
     "questionImage": null,
     "options": [
       {
@@ -2299,7 +2299,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let C's present age be $x$. Then $B=x+3$ and $A=x+6$. Seven years ago: $\\frac{(x-7)+(x-4)+(x-1)}{3}=51$. Solving gives $x=55$. Hence, present ages are $61$, $58$, $55$ years.",
+    "explanation": "Let C's present age be$x$. Then$B=x+3$and$A=x+6$. Seven years ago:$\\frac{(x-7)+(x-4)+(x-1)}{3}=51$. Solving gives$x=55$. Hence, present ages are$61$,$58$,$55$years.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2310,7 +2310,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If $a^2+b^2+c^2=14$ and $a+b+c=6$, then the value of $ab+bc+ca$ is",
+    "question": "If$a^2+b^2+c^2=14$and$a+b+c=6$, then the value of$ab+bc+ca$is",
     "questionImage": null,
     "options": [
       {
@@ -2335,7 +2335,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using $(a+b+c)^2=a^2+b^2+c^$2+2$(ab+bc+ca)$, we get $36=$14+2$(ab+bc+ca)$. Hence, $ab+bc+ca=11$.",
+    "explanation": "Using$(a+b+c)^2=a^2+b^2+c^$2+2$(ab+bc+ca)$, we get$36=$14+2$(ab+bc+ca)$. Hence,$ab+bc+ca=11$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2346,7 +2346,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If $\\frac{a}{b}+\\frac{b}{a}=1$, then the value of $\\frac{a^3+b^3}{ab(a+b)}$ is",
+    "question": "If$\\frac{a}{b}+\\frac{b}{a}=1$, then the value of$\\frac{a^3+b^3}{ab(a+b)}$is",
     "questionImage": null,
     "options": [
       {
@@ -2371,7 +2371,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Given $\\frac{a}{b}+\\frac{b}{a}=1$, therefore $\\frac{a^2+b^2}{ab}=1$, which gives $a^2+b^2=ab$. Using $a^3+b^3=(a+b)(a^2-ab+b^2)$, the numerator becomes $(a+b)(ab-ab)=0$. Hence, the value is $0$.",
+    "explanation": "Given$\\frac{a}{b}+\\frac{b}{a}=1$, therefore$\\frac{a^2+b^2}{ab}=1$, which gives$a^2+b^2=ab$. Using$a^3+b^3=(a+b)(a^2-ab+b^2)$, the numerator becomes$(a+b)(ab-ab)=0$. Hence, the value is$0$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2382,7 +2382,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Medium",
-    "question": "If $O$ is the centre of a circle of radius $5$ cm. At a distance of $13$ cm from $O$, a point $P$ is taken. From this point, two tangents $PQ$ and $PR$ are drawn to the circle. Then the area of quadrilateral $PQOR$ is",
+    "question": "If$O$is the centre of a circle of radius$5$cm. At a distance of$13$cm from$O$, a point$P$is taken. From this point, two tangents$PQ$and$PR$are drawn to the circle. Then the area of quadrilateral$PQOR$is",
     "questionImage": null,
     "options": [
       {
@@ -2407,7 +2407,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Since radius is perpendicular to the tangent, $PQ=\\sqrt{13^$2-5$^2}=12$ cm. Similarly, $PR=12$ cm. Area of quadrilateral $PQOR=\\triangle POQ+\\triangle POR=\\frac{1}{2}(12)(5)+\\frac{1}{2}(12)(5)=60\\ \\text{cm}^2$.",
+    "explanation": "Since radius is perpendicular to the tangent,$PQ=\\sqrt{13^$2-5$^2}=12$cm. Similarly,$PR=12$cm. Area of quadrilateral$PQOR=\\triangle POQ+\\triangle POR=\\frac{1}{2}(12)(5)+\\frac{1}{2}(12)(5)=60\\ \\text{cm}^2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2418,7 +2418,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Hard",
-    "question": "A, B and C are three points on a circle with centre $O$. The tangent at $C$ meets $BA$ produced at $T$. If $\\angle ATC=30^\\circ$ and $\\angle ACT=48^\\circ$, then the value of $\\angle AOB$ is",
+    "question": "A, B and C are three points on a circle with centre$O$. The tangent at$C$meets$BA$produced at$T$. If$\\angle ATC=30^\\circ$and$\\angle ACT=48^\\circ$, then the value of$\\angle AOB$is",
     "questionImage": null,
     "options": [
       {
@@ -2443,7 +2443,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Using the angle sum property in $\\triangle ACT$, the radius–tangent perpendicular property, and the angle sum in isosceles triangles, we obtain $\\angle OAB=36^\\circ$. Hence, $\\angle AOB=180^\\circ-2\\times36^\\circ=108^\\circ$.",
+    "explanation": "Using the angle sum property in$\\triangle ACT$, the radius–tangent perpendicular property, and the angle sum in isosceles triangles, we obtain$\\angle OAB=36^\\circ$. Hence,$\\angle AOB=180^\\circ-2\\times36^\\circ=108^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2454,7 +2454,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "If $3\\sin\\theta+4\\cos\\theta=5$, where $0<\\theta<90^\\circ$, then the value of $\\sin\\theta$ is",
+    "question": "If$3\\sin\\theta+4\\cos\\theta=5$, where$0<\\theta<90^\\circ$, then the value of$\\sin\\theta$is",
     "questionImage": null,
     "options": [
       {
@@ -2479,7 +2479,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using $\\cos^2\\theta=1-\\sin^2\\theta$ and squaring the given equation, we obtain $(5\\sin\\theta-3)^2=0$. Hence, $\\sin\\theta=\\frac{3}{5}$.",
+    "explanation": "Using$\\cos^2\\theta=1-\\sin^2\\theta$and squaring the given equation, we obtain$(5\\sin\\theta-3)^2=0$. Hence,$\\sin\\theta=\\frac{3}{5}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2490,7 +2490,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Heights and Distances",
     "difficulty": "Medium",
-    "question": "Two men standing on the same side of a pillar $75$ metres high observe the angles of elevation of the top of the pillar to be $30^\\circ$ and $60^\\circ$ respectively. The distance between the two men is",
+    "question": "Two men standing on the same side of a pillar$75$metres high observe the angles of elevation of the top of the pillar to be$30^\\circ$and$60^\\circ$respectively. The distance between the two men is",
     "questionImage": null,
     "options": [
       {
@@ -2515,7 +2515,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "For the nearer man, distance from the pillar is $\\frac{75}{\\sqrt{3}}=25\\sqrt{3}$ m. For the farther man, distance is $75\\sqrt{3}$ m. Hence, the distance between them is $75\\sqrt{3}-25\\sqrt{3}=50\\sqrt{3}$ m.",
+    "explanation": "For the nearer man, distance from the pillar is$\\frac{75}{\\sqrt{3}}=25\\sqrt{3}$m. For the farther man, distance is$75\\sqrt{3}$m. Hence, the distance between them is$75\\sqrt{3}-25\\sqrt{3}=50\\sqrt{3}$m.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2526,7 +2526,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest and Compound Interest",
     "difficulty": "Easy",
-    "question": "The difference between compound interest and simple interest on ₹$5000$ for $2$ years at $8\\%$ per annum, payable yearly, is",
+    "question": "The difference between compound interest and simple interest on ₹$5000$for$2$years at$8\\%$per annum, payable yearly, is",
     "questionImage": null,
     "options": [
       {
@@ -2551,7 +2551,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Simple Interest $=\\frac{5000\\times8\\times2}{100}=₹800$. Compound Interest $=5000\\left[\\left(1+\\frac{8}{100}\right)^$2-1$\right]=₹832$. Therefore, $CI-SI=₹32$.",
+    "explanation": "Simple Interest$=\\frac{5000\\times8\\times2}{100}=₹800$. Compound Interest$=5000\\left[\\left(1+\\frac{8}{100}\right)^$2-1$ight]=₹832$. Therefore,$CI-SI=₹32$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2587,7 +2587,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Cricket accounts for $25\\%$ and Hockey for $15\\%$. Together they account for $40\\%$ of the total. Therefore, $0.40\\times15,000,000=₹6,000,000$.",
+    "explanation": "Cricket accounts for$25\\%$and Hockey for$15\\%$. Together they account for$40\\%$of the total. Therefore,$0.40\\times15,000,000=₹6,000,000$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2623,7 +2623,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Basketball accounts for $12.5\\%$ of the total expenditure. Hence, $\\frac{12.5}{100}\\times12,000,000=₹1,500,000$.",
+    "explanation": "Basketball accounts for$12.5\\%$of the total expenditure. Hence,$\\frac{12.5}{100}\\times12,000,000=₹1,500,000$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2659,7 +2659,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Football and Hockey each account for $15\\%$ of the total expenditure. Therefore, their ratio is $15:15$=$1:1$.",
+    "explanation": "Football and Hockey each account for$15\\%$of the total expenditure. Therefore, their ratio is$15:15$=$1:1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2695,7 +2695,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Tennis accounts for $10\\%$ of the total expenditure. Therefore, the central angle is $\\frac{10}{100}\\times360^\\circ=36^\\circ$.",
+    "explanation": "Tennis accounts for$10\\%$of the total expenditure. Therefore, the central angle is$\\frac{10}{100}\\times360^\\circ=36^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2780,7 +2780,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives.\n\n$841:29$ :: 289 : ?",
+    "question": "Select the related number from the given alternatives.$841:29$:: 289 : ?",
     "questionImage": null,
     "options": [
       {
@@ -3002,7 +3002,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Which number will complete the series?\n\n$1,8,27,64,125,216$, _____",
+    "question": "Which number will complete the series?$1,8,27,64,125,216$, _____",
     "questionImage": null,
     "options": [
       {
@@ -3101,7 +3101,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Total distance = 60 km. Time taken = $\\frac{30}{30}$ + $\\frac{30}{20}$ = $1 + 1.5 = 2.5$ hours. Average speed = $\\frac{60}{2}$.5 = 24 km/h.",
+    "explanation": "Total distance = 60 km. Time taken =$\\frac{30}{30}$+$\\frac{30}{20}$=$1 + 1.5 = 2.5$hours. Average speed =$\\frac{60}{2}$.5 = 24 km/h.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -3192,27 +3192,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$100 + 5$ − $10 \\times 250 \\div 200 = 100$",
+        "text": "$100 + 5$−$10 \\times 250 \\div 200 = 100$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$200 + 10$ − $20 \\times 200 \\div 100 = 150$",
+        "text": "$200 + 10$−$20 \\times 200 \\div 100 = 150$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$50 \\times 5 \\div $10 + 100$ − 75 = 50",
+        "text": "$50 \\times 5 \\div$10 + 100$− 75 = 50",
         "image": null
       },
       {
         "id": "D",
-        "text": "$300 + 5$ − $20 \\times 200 \\div 100 = 200$",
+        "text": "$300 + 5$−$20 \\times 200 \\div 100 = 200$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Replacing the symbols: (+) → multiplication, (−) → division, (×) → addition and (÷) → subtraction. Option A becomes $100 \\times 5 \\div $10 + 250$ − 200 = 100, which is correct.",
+    "explanation": "Replacing the symbols: (+) → multiplication, (−) → division, (×) → addition and (÷) → subtraction. Option A becomes$100 \\times 5 \\div$10 + 250$− 200 = 100, which is correct.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -3224,7 +3224,7 @@
     "subject": "Reasoning Ability",
     "topic": "Pattern Recognition",
     "difficulty": "Easy",
-    "question": "If $1 \\times 2 = 1$, $2 \\times 3$ = −1 and $3 \\times 4$ = −5, then the value of $7 \\times 9$ is",
+    "question": "If$1 \\times 2 = 1$,$2 \\times 3$= −1 and$3 \\times 4$= −5, then the value of$7 \\times 9$is",
     "questionImage": null,
     "options": [
       {
@@ -3249,7 +3249,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern is (sum of the numbers) − (product of the numbers). Thus, $(7 + 9)$ − $(7 \\times 9) = 16$ − 63 = −47.",
+    "explanation": "The pattern is (sum of the numbers) − (product of the numbers). Thus,$(7 + 9)$−$(7 \\times 9) = 16$− 63 = −47.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -3434,7 +3434,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using the principle of inclusion-exclusion, total notebooks = $14 + 22$ − 4 = 32.",
+    "explanation": "Using the principle of inclusion-exclusion, total notebooks =$14 + 22$− 4 = 32.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -3619,7 +3619,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Using the coordinates from the given matrices, the code sequence $65,22,23,67$ correctly represents the word 'ARTS'.",
+    "explanation": "Using the coordinates from the given matrices, the code sequence$65,22,23,67$correctly represents the word 'ARTS'.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
