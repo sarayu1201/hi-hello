@@ -596,7 +596,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                 const optImgs = q.option_images || [];
                 return {
                   question_number: q.question_number,
-                  q: q.question || q.question_text || q.q,
+                  q: q.question_text || q.q || q.question || "",
                   question_image: q.question_image || "",
                   options: cleanedOpts.map((o, idx) => ({
                     text: o.text,
