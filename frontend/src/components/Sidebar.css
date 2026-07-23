@@ -1,0 +1,152 @@
+.sidebar {
+  position: fixed; top: 0; left: 0;
+  width: var(--sidebar-w);
+  height: 100vh;
+  background: linear-gradient(180deg, #0D1B3E 0%, #0A1530 60%, #06101F 100%);
+  display: flex; flex-direction: column;
+  z-index: 200;
+  border-right: 1px solid rgba(212,175,55,0.12);
+  transition: transform 0.3s cubic-bezier(0.4,0,0.2,1);
+}
+
+.sidebar-logo-container-premium {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 20px;
+  background: rgba(0, 0, 0, 0.35);
+  border-bottom: 1.5px solid rgba(212, 175, 55, 0.18);
+  position: relative;
+  text-align: center;
+  gap: 12px;
+}
+
+.sidebar-logo-img-large {
+  height: 110px !important;
+  width: auto;
+  object-fit: contain;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  filter: drop-shadow(0 6px 16px rgba(0, 0, 0, 0.45));
+  margin: 0 auto;
+}
+
+.sidebar-logo-brand-text {
+  font-weight: 800;
+  font-size: 1.05rem;
+  color: #FFFFFF;
+  letter-spacing: 0.5px;
+  font-family: 'Sora', sans-serif;
+  border-top: 1.5px solid rgba(255, 255, 255, 0.08);
+  padding-top: 10px;
+  width: 100%;
+}
+
+.sidebar-close-btn {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  color: #FFFFFF;
+  border-radius: 50%;
+  padding: 6px;
+  cursor: pointer;
+  display: none;
+  z-index: 10;
+  transition: all 0.2s ease;
+  line-height: 0;
+}
+
+.sidebar-close-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+}
+
+@media (max-width: 900px) {
+  .sidebar-close-btn {
+    display: block; /* Show close button on mobile drawer */
+  }
+}
+
+.sidebar-scrollable-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 0;
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+}
+.sidebar-scrollable-content::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari, Opera */
+}
+
+.sidebar-section-label {
+  padding: 16px 18px 8px;
+  font-size: 11px; font-weight: 800; letter-spacing: 1.5px;
+  color: var(--accent); /* Golden yellow from theme */
+  font-family: 'Sora', sans-serif;
+  opacity: 0.85;
+}
+
+.sidebar-nav { display: flex; flex-direction: column; gap: 1px; }
+
+.nav-item {
+  display: flex; align-items: center; gap: 12px;
+  padding: 11px 18px;
+  background: none;
+  color: rgba(255,255,255,0.75);
+  font-size: 13.5px; font-weight: 600;
+  transition: all 0.15s ease;
+  text-align: left; width: 100%;
+}
+.nav-item:hover { background: rgba(255,255,255,0.06); color: white; }
+
+.nav-item.active {
+  background: rgba(212,175,55,0.1);
+  color: var(--accent);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 6px 6px 0;
+  padding-left: 15px;
+}
+.nav-item-label {
+  flex: 1;
+}
+
+/* Yellow Free badge pill from screenshot */
+.free-pill {
+  background: var(--accent);
+  color: var(--navy-text);
+  font-size: 9px;
+  font-weight: 850;
+  padding: 2px 7px;
+  border-radius: 12px;
+  text-transform: uppercase;
+  margin-right: 6px;
+  box-shadow: 0 2px 5px rgba(229,193,88,0.3);
+}
+
+.nav-arrow { opacity: 0; transition: opacity 0.2s; }
+.nav-item:hover .nav-arrow { opacity: 0.5; color: white; }
+.nav-item.active .nav-arrow { opacity: 0.8; color: var(--accent); }
+
+.sidebar-divider {
+  height: 1px;
+  background: rgba(255,255,255,0.08);
+  margin: 14px 18px;
+}
+
+.sidebar-footer {
+  padding: 14px 18px 24px;
+  border-top: 1px solid rgba(212,175,55,0.1);
+  font-size: 11px; color: rgba(255,255,255,0.3);
+  line-height: 1.8;
+  background: rgba(0,0,0,0.2);
+}
+.sidebar-footer a { color: rgba(212,175,55,0.6); font-weight: 600; }
+.sidebar-footer a:hover { color: var(--accent); }
+
+@media (max-width: 900px) {
+  .sidebar { transform: translateX(-100%); }
+  .sidebar.open { transform: translateX(0); }
+  .sidebar-close { display: flex; }
+}

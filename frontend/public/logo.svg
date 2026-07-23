@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="512" height="512">
+  <!-- Base Blue Circle -->
+  <circle cx="60" cy="55" r="38" fill="#1B365D"/>
+  <!-- Concentric Gold Rings -->
+  <circle cx="60" cy="52" r="18" fill="none" stroke="#ECC036" strokeWidth="2.5"/>
+  <circle cx="60" cy="52" r="12" fill="none" stroke="#ECC036" strokeWidth="2"/>
+  <circle cx="60" cy="52" r="6" fill="#ECC036"/>
+  
+  <!-- Golden Mortarboard (Graduation Cap) -->
+  <polygon points="60,24 82,32 60,40 38,32" fill="#ECC036"/>
+  <polygon points="48,34 48,42 60,46 72,42 72,34" fill="#D4AF37"/>
+  <!-- Tassel -->
+  <line x1="78" y1="33" x2="82" y2="48" stroke="#ECC036" strokeWidth="2"/>
+  <circle cx="82" cy="48" r="2" fill="#ECC036"/>
+
+  <!-- Gold Laurel Wreaths -->
+  <path d="M 32,82 C 16,74 18,36 30,30" fill="none" stroke="#ECC036" strokeWidth="2"/>
+  <path d="M 23,40 Q 18,36 16,42" fill="none" stroke="#ECC036" strokeWidth="1.5"/>
+  <path d="M 20,54 Q 14,52 14,58" fill="none" stroke="#ECC036" strokeWidth="1.5"/>
+  <path d="M 88,82 C 104,74 102,36 90,30" fill="none" stroke="#ECC036" strokeWidth="2"/>
+  <path d="M 97,40 Q 102,36 104,42" fill="none" stroke="#ECC036" strokeWidth="1.5"/>
+  <path d="M 100,54 Q 106,52 106,58" fill="none" stroke="#ECC036" strokeWidth="1.5"/>
+
+  <!-- Open Book at Bottom -->
+  <path d="M38,82 Q50,78 60,86 Q70,78 82,82 L82,68 Q70,64 60,72 Q50,64 38,68 Z" fill="#FFFFFF" stroke="#364972" strokeWidth="1.5"/>
+  <!-- Letter K in Blue, R in Red -->
+  <text x="49" y="77" fontSize="11" fontWeight="900" fill="#1B365D" textAnchor="middle" fontFamily="sans-serif">K</text>
+  <text x="71" y="77" fontSize="11" fontWeight="900" fill="#E53935" textAnchor="middle" fontFamily="sans-serif">R</text>
+</svg>

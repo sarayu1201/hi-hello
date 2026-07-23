@@ -1,0 +1,310 @@
+{
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "ParsedQuestion: A shopkeeper offers the following schemes on toys of the same marked price.\n(A) Successive discounts of 50% and 16% on any number of toys bought.\n(B) Successive discounts of 49%, 8% and 13% on any number of toys bought.\n(C) 35% discount on the first 6 toys and 45% discount on each toy thereon.\n(D) On buying eight items, the customer is billed for only four items.\nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her??\n\nWhich of the above schemes is the least beneficial to her?\n(Note: Schemes are represented by options as follows: B, D, C, A respectively in original options list). \nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her? \nWhich of the above schemes is the least beneficial to her? \n(A) Scheme B\n(B) Scheme D\n(C) Scheme C\n(D) Scheme A\n\nOptions list mapping:\n- Scheme B\n- Scheme D\n- Scheme C\n- Scheme A\nLet's write down the clean question representation with options mapping as they appear in the options list:\n\nA shopkeeper offers the following schemes on toys of the same marked price.\n(A) Successive discounts of 50% and 16% on any number of toys bought.\n(B) Successive discounts of 49%, 8% and 13% on any number of toys bought.\n(C) 35% discount on the first 6 toys and 45% discount on each toy thereon.\n(D) On buying eight items, the customer is billed for only four items.\n\nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her?\n\nOptions as they are shown on the screen:\n- A. B\n- B. D\n- C. C\n- D. A\n(Here 'B', 'D', 'C', 'A' stand for schemes B, D, C, A respectively.)\n\nSo let's extract exactly as shown in the options:\nOption A text: \"B\"\nOption B text: \"D\"\nOption C text: \"C\"\nOption D text: \"A\"\nThis represents Scheme B, D, C, and A respectively.\n\nLet's make sure it's 100% accurate as printed in the exam paper:\n\"A shopkeeper offers the following schemes on toys of the same marked price.\n(A) Successive discounts of 50% and 16% on any number of toys bought.\n(B) Successive discounts of 49%, 8% and 13% on any number of toys bought.\n(C) 35% discount on the first 6 toys and 45% discount on each toy thereon.\n(D) On buying eight items, the customer is billed for only four items.\n\nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her?\"\nOptions:\nA: B\nB: D\nC: C\nD: A\nCorrect Option: C\n\nLet's format this neatly with standard formatting.\n\nParsedQuestion: A shopkeeper offers the following schemes on toys of the same marked price.\n(A) Successive discounts of 50% and 16% on any number of toys bought.\n(B) Successive discounts of 49%, 8% and 13% on any number of toys bought.\n(C) 35% discount on the first 6 toys and 45% discount on each toy thereon.\n(D) On buying eight items, the customer is billed for only four items.\nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her?\n\nOptions:\nA: B\nB: D\nC: C\nD: A\n\nCorrect Option: C\n\nLet's keep the JSON structured accordingly: \n\nCorrect Option: C\n\nKeep Q1 consistent with standard options mapping:\nA: \"B\"\nB: \"D\"\nC: \"C\"\nD: \"A\"\nCorrect Option: C\n\nPerfect. Let's do the rest similarly.\n\nQ2:\nParsedQuestion: A shopkeeper buys two types of rice costing ₹32 per kg and ₹40 per kg. He buys a total of 45 kg of rice for ₹1600. The ratio of the quantity (in kg) of rice costing ₹32 per kg to that costing ₹40 per kg is\nOptions:\nA: \"3:2\"\nB: \"5:4\"\nC: \"4:5\"\nD: \"2:3\"\nCorrect Option: B\n\nQ3:\nParsedQuestion: The value of the expression $0.125 \\times 4^4 \\times 2^{-5} \\times 0.25^2 \\times 8^2$ is ______.\nOptions:\nA: \"2\"\nB: \"16\"\nC: \"4\"\nD: \"8\"\nCorrect Option: C\n\nQ4:\nParsedQuestion: Two taps can fill a cistern in 4 hours and 12 hours, respectively. A third tap can empty it in 12 hours. How long (in hours) will it take to fill one-fourth of the empty cistern if all the taps are opened together?\nOptions:\nA: \"4\"\nB: \"2\"\nC: \"3\"\nD: \"1\"\nCorrect Option: D\n\nQ5:\nParsedQuestion: A total of money is split among E, F, G and H in the ratio 9:7:5:3. If G gets ₹4000 less than F, how much does E receive?\nOptions:\nA: \"₹16000\"\nB: \"₹20000\"\nC: \"₹18000\"\nD: \"₹17000\"\nCorrect Option: C\n\nQ6:\nParsedQuestion: A car travels from City A to City B at a speed of 60 km/h. After reaching City B, the driver increases the speed by 20 km/h for the return journey. Due to road repairs on the way back, the car is forced to slow down for 30 minutes, during which it travels at only 30 km/h instead of the increased speed. If the total time for the round trip is 7 hours, find the distance between City A and City B.\nOptions:\nA: \"$229\\frac{2}{7}\\text{ km}$\"\nB: \"$227\\frac{2}{5}\\text{ km}$\"\nC: \"$219\\frac{2}{7}\\text{ km}$\"\nD: \"$229\\frac{2}{5}\\text{ km}$\"\nCorrect Option: A\n\nQ7:\nParsedQuestion: The arithmetic mean of 10 observations is 42. Three of the observations are 30, 38, and 50. The remaining six observations have an average of 45. Find the missing observation.\nOptions:\nA: \"31\"\nB: \"33\"\nC: \"32\"\nD: \"34\"\nCorrect Option: C\n\nQ8:\nParsedQuestion: A sum of ₹20,000 amounts to ₹21,218 in 2 years under compound interest, compounded annually. Find the rate of interest per annum.\nOptions:\nA: \"3%\"\nB: \"5%\"\nC: \"8%\"\nD: \"4%\"\nCorrect Option: A\n\nQ9:\nParsedQuestion: Find the value of $\\left\\{3.46 + 3\\frac{1}{4} - 5\\frac{1}{8} + 4.25 + 0.165\\right\\}$.\nOptions:\nA: \"7\"\nB: \"7.4\"\nC: \"6\"\nD: \"6.8\"\nCorrect Option: C\n\nQ10:\nParsedQuestion: A sum of ₹8,000 is borrowed at a simple interest rate of 5% per annum for 3 years. What is the simple interest payable?\nOptions:\nA: \"₹1,200\"\nB: \"₹1,600\"\nC: \"₹1,400\"\nD: \"₹1,000\"\nCorrect Option: A\n\nQ11:\nParsedQuestion: The angle of elevation of the top of a building from a point 40 m away is 45°. What is the height of the building?\nOptions:\nA: \"20 m\"\nB: \"40 m\"\nC: \"36 m\"\nD: \"30 m\"\nCorrect Option: B\n\nQ12:\nParsedQuestion: How many sides does a regular polygon have if each interior angle measures 150°?\nOptions:\nA: \"15 sides\"\nB: \"10 sides\"\nC: \"8 sides\"\nD: \"12 sides\"\nCorrect Option: D\n\nPerfect. This is more than sufficient and covers all requested features, LaTeX conversion, formatting, exact text correctness and is perfectly schema compliant.\n\nLet's write down the final JSON structured block containing questions Q1 to Q12.\n\nWe will outputs JSON with \"questions\" property as an array.\nLet's do this now.\n\nWait, double check that there are no backslashes in JSON that aren't escaped.\nE.g., \"\\left\\{\" should be double-escaped as \"\\\\left\\\\{\". In JSON strings, any backslash inside string must be escaped as \\\\. So \\frac becomes \\\\frac. Let's make sure this is handled properly.\n\nCorrect LaTeX strings to use:\n\"$229\\\\frac{2}{7}\\\\text{ km}$\"\n\"\\\\left\\\\{3.46 + 3\\\\frac{1}{4} - 5\\\\frac{1}{8} + 4.25 + 0.165\\\\right\\\\}\"\nThis is standard JSON escaping. Perfect.\n\nLet's form the final clean single-line parseable JSON output. \nNo extra text outside of the JSON block.\n```\nParsedQuestion: A shopkeeper offers the following schemes on toys of the same marked price. (A) Successive discounts of 50% and 16% on any number of toys bought. (B) Successive discounts of 49%, 8% and 13% on any number of toys bought. (C) 35% discount on the first 6 toys and 45% discount on each toy thereon. (D) On buying eight items, the customer is billed for only four items. A customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "C",
+      "options": [
+        {
+          "id": "A",
+          "text": "B"
+        },
+        {
+          "id": "B",
+          "text": "D"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "A"
+        }
+      ],
+      "question_number": 1,
+      "question_text": "ParsedQuestion: A shopkeeper offers the following schemes on toys of the same marked price.\n(A) Successive discounts of 50% and 16% on any number of toys bought.\n(B) Successive discounts of 49%, 8% and 13% on any number of toys bought.\n(C) 35% discount on the first 6 toys and 45% discount on each toy thereon.\n(D) On buying eight items, the customer is billed for only four items.\nA customer wants to buy 8 toys. Which of the above schemes is the least beneficial to her?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "B",
+      "options": [
+        {
+          "id": "A",
+          "text": "3:2"
+        },
+        {
+          "id": "B",
+          "text": "5:4"
+        },
+        {
+          "id": "C",
+          "text": "4:5"
+        },
+        {
+          "id": "D",
+          "text": "2:3"
+        }
+      ],
+      "question_number": 2,
+      "question_text": "ParsedQuestion: A shopkeeper buys two types of rice costing ₹32 per kg and ₹40 per kg. He buys a total of 45 kg of rice for ₹1600. The ratio of the quantity (in kg) of rice costing ₹32 per kg to that costing ₹40 per kg is",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "C",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "question_number": 3,
+      "question_text": "ParsedQuestion: The value of the expression $0.125 \\times 4^4 \\times 2^{-5} \\times 0.25^2 \\times 8^2$ is ______.",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "D",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "question_number": 4,
+      "question_text": "ParsedQuestion: Two taps can fill a cistern in 4 hours and 12 hours, respectively. A third tap can empty it in 12 hours. How long (in hours) will it take to fill one-fourth of the empty cistern if all the taps are opened together?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "C",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹16,000"
+        },
+        {
+          "id": "B",
+          "text": "₹20,000"
+        },
+        {
+          "id": "C",
+          "text": "₹18,000"
+        },
+        {
+          "id": "D",
+          "text": "₹17,000"
+        }
+      ],
+      "question_number": 5,
+      "question_text": "ParsedQuestion: A total of money is split among E, F, G and H in the ratio 9:7:5:3. If G gets ₹4000 less than F, how much does E receive?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "A",
+      "options": [
+        {
+          "id": "A",
+          "text": "$229\\frac{2}{7}\\text{ km}$"
+        },
+        {
+          "id": "B",
+          "text": "$227\\frac{2}{5}\\text{ km}$"
+        },
+        {
+          "id": "C",
+          "text": "$219\\frac{2}{7}\\text{ km}$"
+        },
+        {
+          "id": "D",
+          "text": "$229\\frac{2}{5}\\text{ km}$"
+        }
+      ],
+      "question_number": 6,
+      "question_text": "ParsedQuestion: A car travels from City A to City B at a speed of 60 km/h. After reaching City B, the driver increases the speed by 20 km/h for the return journey. Due to road repairs on the way back, the car is forced to slow down for 30 minutes, during which it travels at only 30 km/h instead of the increased speed. If the total time for the round trip is 7 hours, find the distance between City A and City B.",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "C",
+      "options": [
+        {
+          "id": "A",
+          "text": "31"
+        },
+        {
+          "id": "B",
+          "text": "33"
+        },
+        {
+          "id": "C",
+          "text": "32"
+        },
+        {
+          "id": "D",
+          "text": "34"
+        }
+      ],
+      "question_number": 7,
+      "question_text": "ParsedQuestion: The arithmetic mean of 10 observations is 42. Three of the observations are 30, 38, and 50. The remaining six observations have an average of 45. Find the missing observation.",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "A",
+      "options": [
+        {
+          "id": "A",
+          "text": "3%"
+        },
+        {
+          "id": "B",
+          "text": "5%"
+        },
+        {
+          "id": "C",
+          "text": "8%"
+        },
+        {
+          "id": "D",
+          "text": "4%"
+        }
+      ],
+      "question_number": 8,
+      "question_text": "ParsedQuestion: A sum of ₹20,000 amounts to ₹21,218 in 2 years under compound interest, compounded annually. Find the rate of interest per annum.",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "C",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "7.4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "6.8"
+        }
+      ],
+      "question_number": 9,
+      "question_text": "ParsedQuestion: Find the value of $\\left\\{3.46 + 3\\frac{1}{4} - 5\\frac{1}{8} + 4.25 + 0.165\\right\\}$.",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "A",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1,200"
+        },
+        {
+          "id": "B",
+          "text": "₹1,600"
+        },
+        {
+          "id": "C",
+          "text": "₹1,400"
+        },
+        {
+          "id": "D",
+          "text": "₹1,000"
+        }
+      ],
+      "question_number": 10,
+      "question_text": "ParsedQuestion: A sum of ₹8,000 is borrowed at a simple interest rate of 5% per annum for 3 years. What is the simple interest payable?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "B",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 m"
+        },
+        {
+          "id": "B",
+          "text": "40 m"
+        },
+        {
+          "id": "C",
+          "text": "36 m"
+        },
+        {
+          "id": "D",
+          "text": "30 m"
+        }
+      ],
+      "question_number": 11,
+      "question_text": "ParsedQuestion: The angle of elevation of the top of a building from a point 40 m away is 45°. What is the height of the building?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    },
+    {
+      "correct_answer": "D",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 sides"
+        },
+        {
+          "id": "B",
+          "text": "10 sides"
+        },
+        {
+          "id": "C",
+          "text": "8 sides"
+        },
+        {
+          "id": "D",
+          "text": "12 sides"
+        }
+      ],
+      "question_number": 12,
+      "question_text": "ParsedQuestion: How many sides does a regular polygon have if each interior angle measures 150°?",
+      "exam_type": "Banking",
+      "sub_type": "SBI PO Prelims"
+    }
+  ]
+}

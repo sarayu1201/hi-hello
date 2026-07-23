@@ -1,0 +1,28 @@
+{
+  "short_name": "KR Academy",
+  "name": "KR Academy AI English Coach & Test Prep",
+  "description": "AI-powered test prep platform with an interactive AI English Coach, Mock Tests, and Solved PYQs.",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B1528",
+  "theme_color": "#1B365D",
+  "display": "standalone",
+  "orientation": "portrait"
+}
