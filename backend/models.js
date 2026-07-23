@@ -106,6 +106,11 @@ const QuestionSchema = new mongoose.Schema({
   explanation: { type: String },
   question_image: { type: String, default: "" },
   option_images: [{ type: String }],
+  direction: { type: String, default: "" },
+  raw_direction: { type: String, default: "" },
+  raw_question: { type: String, default: "" },
+  raw_explanation: { type: String, default: "" },
+  raw_options: [{ type: String }],
   created_at: { type: Date, default: Date.now },
   updated_at: { type: Date, default: Date.now },
   

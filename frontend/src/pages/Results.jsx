@@ -17,8 +17,8 @@ const stripLaTeX = (text) => {
 
 import QuestionRenderer from "../components/QuestionRenderer";
 
-const renderLaTeX = (text, subject = "") => {
-  return <QuestionRenderer text={text} subject={subject} />;
+const renderLaTeX = (text, subject = "", direction = "") => {
+  return <QuestionRenderer text={text} direction={direction} subject={subject} />;
 };
 
 // Helper to reconstruct questions list for past attempts if they don't contain it
@@ -706,7 +706,7 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
                                   {isCorrect ? '✓ Correct' : isUnattempted ? '⚠️ Unattempted' : '✗ Incorrect'}
                                 </span>
                               </div>
-                              <p style={{ fontWeight: '700', fontSize: '15px', marginBottom: '14px', lineHeight: '1.4' }}>{renderLaTeX(q.q, q.subject || q.section)}</p>
+                              <p style={{ fontWeight: '700', fontSize: '15px', marginBottom: '14px', lineHeight: '1.4' }}>{renderLaTeX(q.q, q.subject || q.section, q.direction)}</p>
                               {q.question_image && (
                                 <div style={{ marginBottom: '14px', display: 'flex', flexDirection: 'column', gap: '10px' }}>
                                   {(Array.isArray(q.question_image) 

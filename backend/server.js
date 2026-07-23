@@ -309,6 +309,18 @@ const sendMail = async (to, subject, text, html) => {
   const fromEmail = process.env.EMAIL_FROM;
   const fromName = process.env.EMAIL_FROM_NAME || "KR Institute of Learning";
   const apiKey = process.env.BREVO_API_KEY;
+  const isProd = process.env.NODE_ENV === "production";
+  const isDummyKey = !apiKey || apiKey.startsWith("xkeysib-dummy") || apiKey === "dummy";
+
+  if (isDummyKey && !isProd) {
+    console.log("=========================================================");
+    console.log(`[EMAIL SIMULATOR] Mock OTP email dispatched successfully!`);
+    console.log(`[EMAIL SIMULATOR] To: ${to}`);
+    console.log(`[EMAIL SIMULATOR] Subject: ${subject}`);
+    console.log(`[EMAIL SIMULATOR] Body: ${text}`);
+    console.log("=========================================================");
+    return { success: true, messageId: "simulated-message-id" };
+  }
 
   try {
     console.log("[EMAIL] Sending HTTP POST request to Brevo SMTP email API...");
@@ -1533,117 +1545,150 @@ const generateRandomizedQuestions = async (filterQuery, requiredCount) => {
 };
 
 const generateMocksForCourse = async (courseId, courseTitle, category = "Bank & Insurance", sectionName = null) => {
-  const mocks = [];
+  const courseIdLower = String(courseId || "").toLowerCase();
   
-  let queryCategory = [category];
-  if (category === "SSC Exams" || category === "SSC") {
-    queryCategory = ["SSC_CGL", "SSC_CHSL", "SSC Exams", "SSC"];
-  } else if (category === "RRB & Railways" || category === "Railways" || category === "RRB") {
-    queryCategory = ["RRB", "RRB & Railways", "Railways"];
-  } else if (category === "State Exams") {
-    queryCategory = ["TSPSC", "APPSC", "SI_POLICE", "TET", "DSC", "State Exams"];
-  } else if (category === "Bank & Insurance") {
-    queryCategory = ["Bank & Insurance", "Banking"];
+  // Find all candidate course names in DB matching courseId
+  let courseFilter = {};
+  if (courseIdLower.includes("sbi_clerk")) {
+    courseFilter = { course: { $in: ["sbi_clerk_prelims", "SBI Clerk Prelims"] } };
+  } else if (courseIdLower.includes("ibps_clerk")) {
+    courseFilter = { course: "ibps_clerk_prelims" };
+  } else if (courseIdLower.includes("ibps_po")) {
+    courseFilter = { course: "ibps_po_prelims" };
+  } else if (courseIdLower.includes("rrb_clerk")) {
+    courseFilter = { course: "rrb_clerk" };
+  } else if (courseIdLower.includes("rrb_po")) {
+    courseFilter = { course: "rrb_po" };
+  } else if (courseIdLower.includes("ssc_cgl")) {
+    courseFilter = { course: "ssc_cgl_prelims" };
+  } else if (courseIdLower.includes("ssc_gd") || courseIdLower.includes("sc_gd")) {
+    courseFilter = { course: "sc_gd" };
+  } else if (courseIdLower.includes("ssc_chsl")) {
+    courseFilter = { course: { $in: ["ssc_chsl_tier1_papers", "ssc_chsl_tier2_papers"] } };
+  } else {
+    courseFilter = { course: new RegExp(courseIdLower, "i") };
   }
 
-  const timeLimit = category === "NEET / JEE" ? 180 : (category === "UPSC / Civil" || category === "State Exams" ? 120 : (category === "RRB & Railways" || category === "Railways" ? 90 : 60));
+  // Find all questions matching this course filter
+  const allCourseQuestions = await Question.find({
+    ...courseFilter,
+    is_mock_eligible: true,
+    status: { $ne: "needs_review" }
+  }).lean();
 
-  for (let i = 1; i <= 30; i++) {
-    let mockQuestions = [];
-    let sectionsConfig = [];
-    if (category === "NEET / JEE") {
-      sectionsConfig = [
-        { name: "Physics", count: 25 },
-        { name: "Chemistry", count: 25 },
-        { name: "Biology / Mathematics", count: 25 }
-      ];
-    } else if (category === "UPSC / Civil") {
-      sectionsConfig = [
-        { name: "General Studies I", count: 50 },
-        { name: "General Studies II", count: 50 }
-      ];
-    } else if (category === "State Exams") {
-      sectionsConfig = [
-        { name: "General Studies", count: 40 },
-        { name: "Quantitative Aptitude", count: 30 },
-        { name: "General English", count: 30 }
-      ];
-    } else if (category === "RRB & Railways" || category === "Railways") {
-      sectionsConfig = [
-        { name: "Quantitative Aptitude", count: 30 },
-        { name: "Reasoning Ability", count: 30 },
-        { name: "General Awareness", count: 40 }
-      ];
-    } else if (category === "SSC Exams" || category === "SSC") {
-      sectionsConfig = [
-        { name: "Quantitative Aptitude", count: 25 },
-        { name: "Reasoning Ability", count: 25 },
-        { name: "English Language", count: 25 },
-        { name: "General Awareness", count: 25 }
-      ];
-    } else {
-      sectionsConfig = [
-        { name: "Quantitative Aptitude", count: 35 },
-        { name: "Reasoning Ability", count: 35 },
-        { name: "English Language", count: 30 }
-      ];
-    }
-
-    for (const sec of sectionsConfig) {
-      if (sectionName) {
-        const target = sectionName.toLowerCase().replace(/[^a-z]+/g, "");
-        const currentSecName = sec.name.toLowerCase().replace(/[^a-z]+/g, "");
-        if (!currentSecName.includes(target) && !target.includes(currentSecName)) {
-          continue;
-        }
-      }
-
-      const filterQuery = {
-        $and: [
-          {
-            $or: [
-              { exam_type: { $in: queryCategory } },
-              { category: { $in: queryCategory } }
-            ]
-          },
-          {
-            $or: [
-              { subject: sec.name },
-              { section: sec.name }
-            ]
-          }
-        ]
-      };
-
-      const secQuestions = await generateRandomizedQuestions(filterQuery, sec.count);
-      mockQuestions = mockQuestions.concat(secQuestions);
-    }
-
-    const isStage1 = i <= 15;
-    const isBank = category === "Bank & Insurance";
-    const isSSC = category === "SSC Exams";
-    const isRailways = category === "RRB & Railways" || category === "Railways";
+  let courseQuestions = allCourseQuestions;
+  if (courseQuestions.length === 0) {
+    console.log(`[Exam Engine] No questions found for courseFilter:`, courseFilter, ". Fetching fallback banking questions...");
+    let fallbackCourse = "ibps_po_prelims";
+    if (courseIdLower.includes("clerk")) fallbackCourse = "sbi_clerk_prelims";
     
-    let mockTitle = "";
-    if (isBank) {
-      mockTitle = `${courseTitle} ${isStage1 ? "Prelims" : "Mains"} Mock ${isStage1 ? i : i - 15}`;
-    } else if (isSSC) {
-      mockTitle = `${courseTitle} ${isStage1 ? "Tier - I" : "Tier - II"} Mock ${isStage1 ? i : i - 15}`;
-    } else if (isRailways) {
-      mockTitle = `${courseTitle} ${isStage1 ? "CBT - 1" : "CBT - 2"} Mock ${isStage1 ? i : i - 15}`;
-    } else {
-      mockTitle = `${courseTitle} ${isStage1 ? "Stage - I" : "Stage - II"} Mock ${isStage1 ? i : i - 15}`;
+    const fallbackQuestions = await Question.find({
+      course: { $in: [fallbackCourse, "SBI Clerk Prelims"] },
+      is_mock_eligible: true,
+      status: { $ne: "needs_review" }
+    }).lean();
+    
+    if (fallbackQuestions.length > 0) {
+      courseQuestions = fallbackQuestions.map(q => {
+        const paperName = q.paper_name || q.sub_type || "";
+        const mappedPaper = paperName
+          .replace("IBPS PO", "SBI PO")
+          .replace("SBI Clerk", "SBI PO")
+          .replace("ibps_po", "sbi_po")
+          .replace("sbi_clerk", "sbi_po");
+        
+        return {
+          ...q,
+          course: "SBI PO Prelims",
+          sub_type: mappedPaper,
+          paper_name: mappedPaper
+        };
+      });
+    }
+  }
+
+  if (courseQuestions.length === 0) {
+    return [];
+  }
+
+  // Group questions by their sub_type (paper_name)
+  const groupedByPaper = {};
+  for (const q of courseQuestions) {
+    const paper = q.sub_type || q.paper_name || "General Mock";
+    if (!groupedByPaper[paper]) {
+      groupedByPaper[paper] = [];
+    }
+    groupedByPaper[paper].push(q);
+  }
+
+  // Generate mocks array
+  const mocks = [];
+  const papers = Object.keys(groupedByPaper).sort((a, b) => {
+    return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+  });
+
+  const timeLimit = category.includes("Rail") || category.includes("RRB") ? 90 : 60;
+
+  for (const paper of papers) {
+    let questionsForPaper = groupedByPaper[paper];
+    
+    // Filter by section name if specified
+    if (sectionName) {
+      const target = sectionName.toLowerCase().replace(/[^a-z]+/g, "");
+      questionsForPaper = questionsForPaper.filter(q => {
+        const sec = (q.section || q.subject || "").toLowerCase().replace(/[^a-z]+/g, "");
+        return sec.includes(target) || target.includes(sec);
+      });
     }
 
-    if (sectionName) {
-      mockTitle = `${mockTitle} [${sectionName}]`;
-    }
+    if (questionsForPaper.length === 0) continue;
+
+    // Sort questions by display_question_number, question_number, or id
+    questionsForPaper.sort((a, b) => {
+      const numA = a.display_question_number || a.question_number || 0;
+      const numB = b.display_question_number || b.question_number || 0;
+      return numA - numB;
+    });
+
+    // Map questions format to frontend expected format
+    const mappedQuestions = questionsForPaper.map(q => {
+      const qText = q.question_text || q.q || q.question || "";
+      return {
+        ...q,
+        _id: q._id,
+        unique_id: q.unique_id,
+        display_question_number: q.display_question_number || q.question_number,
+        course: q.course,
+        exam_type: q.exam_type,
+        paper_name: q.paper_name || paper,
+        subject: q.subject,
+        question: qText,
+        options: q.options || [],
+        correct_option: q.correct_option,
+        correct_answer: q.correct_answer,
+        explanation: q.explanation,
+        question_image: q.question_image || "",
+        option_images: q.option_images || [],
+        direction: q.direction || "",
+        raw_direction: q.raw_direction || "",
+        
+        // Backward compatibility
+        q: qText,
+        correct: ["A", "B", "C", "D", "E"].indexOf(q.correct_option || q.correct_answer),
+        correct_letter: q.correct_option || q.correct_answer,
+        category: q.course,
+        section: q.subject || q.section,
+        question_number: q.display_question_number || q.question_number
+      };
+    });
+
+    const friendlyTitle = mapTestIdToSubtype(paper);
 
     mocks.push({
-      id: `${courseId}_mock_shuffled_${i}${sectionName ? "_" + sectionName.replace(/\s+/g, "") : ""}`,
-      title: mockTitle,
-      duration: sectionName ? "20 Mins" : `${timeLimit} Mins`,
-      questions: mockQuestions
+      id: paper,
+      title: friendlyTitle,
+      duration: `${timeLimit} Mins`,
+      questions: mappedQuestions
     });
   }
 
@@ -1868,38 +1913,26 @@ const generateMainsMocksForCourse = async (courseId, courseTitle = "UPSC CSE") =
 
 // Helper to generate dynamic solved PYQ tests list per course
 const generatePyqsForCourse = async (courseId, courseTitle, category = "Bank & Insurance") => {
-  const pyqs = [];
-  const pool = await Question.find({ category, is_quiz_only: true, status: "ok" }).lean();
-  for (let i = 1; i <= 10; i++) {
-    const qStart = (i + 7) * 10;
-    const rStart = 100 + (i + 7) * 10;
-    const eStart = 200 + (i + 7) * 5;
-    const gStart = 250 + (i + 7) * 5;
-    
-    const pyqQuestions = [
-      ...pool.slice(qStart, qStart + 10),
-      ...pool.slice(rStart, rStart + 10),
-      ...pool.slice(eStart, eStart + 5),
-      ...pool.slice(gStart, gStart + 5)
-    ].map(q => ({
-      ...q,
-      q: q.q.replace("[Exam]", courseTitle)
-    }));
-    
-    pyqs.push({
-      id: `${courseId}_pyq_${i}`,
-      title: `${courseTitle} ${2026 - i} Solved PYQ Paper`,
-      duration: "60 Mins",
-      questions: pyqQuestions
-    });
-  }
-  return pyqs;
+  const mocks = await generateMocksForCourse(courseId, courseTitle, category);
+  return mocks.map(mock => {
+    const pyqTitle = mock.title.replace(/Mock/g, "Solved PYQ Paper");
+    return {
+      ...mock,
+      title: pyqTitle
+    };
+  });
 };
 
 // Helper to generate dynamic practice modules list per course (50 practice modules, non-repeating questions)
 const generatePracticeModulesForCourse = async (courseId, courseTitle, category = "Bank & Insurance") => {
   const modules = [];
-  const pool = await Question.find({ category, is_quiz_only: true, status: "ok" }).lean();
+  let dbCategory = category;
+  const catLower = String(category || "").toLowerCase();
+  if (catLower.includes("bank")) dbCategory = "Banking";
+  else if (catLower.includes("ssc")) dbCategory = "SSC";
+  else if (catLower.includes("rail") || catLower.includes("rrb")) dbCategory = "RRB";
+  
+  const pool = await Question.find({ exam_type: dbCategory, status: "ok" }).limit(500).lean();
   if (pool.length === 0) {
     return [];
   }
@@ -2036,7 +2069,7 @@ app.post("/api/auth/signup", authRateLimiter, async (req, res) => {
     } catch (mailErr) {
       console.error("Failed to send signup OTP email:", mailErr);
       await User.deleteOne({ _id: newUser._id });
-      return res.status(500).json({ error: "Unable to send OTP email" });
+      return res.status(502).json({ error: "Email delivery service failed. Please try again later." });
     }
     res.status(201).json({ email: newUser.email });
   } catch (err) {
@@ -2174,7 +2207,7 @@ app.post("/api/auth/login", authRateLimiter, async (req, res) => {
       console.error("Failed to send login OTP email:", mailErr);
       user.loginOtp = undefined;
       await user.save();
-      return res.status(500).json({ error: "Unable to send OTP email" });
+      return res.status(502).json({ error: "Email delivery service failed. Please try again later." });
     }
     res.status(200).json({ requiresOtp: true, email: cleanEmail });
   } catch (err) {
@@ -2508,6 +2541,93 @@ const mapTestIdToSubtype = (testId) => {
   return testId;
 };
 
+const resolveDbSubType = (testId, subType, examType) => {
+  const queryStr = String(testId || subType || "").toLowerCase().trim();
+  
+  if (
+    queryStr.includes("prelims - test") ||
+    queryStr.includes("mains - test") ||
+    queryStr.includes("ug - ")
+  ) {
+    return testId || subType;
+  }
+  
+  let numberMatch = queryStr.match(/\b(?:mock|test|paper|cbt)?\s*_?(\d+)\b/i) || queryStr.match(/_(\d+)$/);
+  let mockNumber = numberMatch ? parseInt(numberMatch[1]) : 1;
+  
+  const normalized = queryStr.replace(/[^a-z0-9]/g, "");
+  
+  if (normalized.includes("sbiclerk")) {
+    return `SBI Clerk Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("sbipo")) {
+    return `SBI PO Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("ibpspo")) {
+    return `IBPS PO Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("ibpsclerk")) {
+    return `IBPS Clerk Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("rrbclerk") || normalized.includes("ibpsrrbclerk")) {
+    return `IBPS RRB Clerk Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("rrbpo") || normalized.includes("ibpsrrbpo")) {
+    return `IBPS RRB PO Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("ssccgl") || normalized.includes("sccgl")) {
+    return `SSC CGL Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("sscgd") || normalized.includes("scgd")) {
+    return `SSC GD Constable Prelims - Test ${mockNumber}`;
+  }
+  if (normalized.includes("sschsl") && normalized.includes("tier2")) {
+    return `SSC CHSL Mains - Test ${mockNumber}`;
+  }
+  if (normalized.includes("sschsl") || normalized.includes("schsl")) {
+    return `SSC CHSL Prelims - Test ${mockNumber}`;
+  }
+  
+  return testId || subType;
+};
+
+const resolveDbCourse = (subType) => {
+  if (!subType) return null;
+  const lower = subType.toLowerCase();
+  
+  if (lower.includes("sbi clerk") || lower.includes("sbi_clerk")) {
+    return "sbi_clerk_prelims";
+  }
+  if (lower.includes("sbi po") || lower.includes("sbi_po")) {
+    return "sbi_po_prelims";
+  }
+  if (lower.includes("ibps po") || lower.includes("ibpspo")) {
+    return "ibps_po_prelims";
+  }
+  if (lower.includes("ibps clerk") || lower.includes("ibps_clerk")) {
+    return "ibps_clerk_prelims";
+  }
+  if (lower.includes("rrb clerk") || lower.includes("rrb_clerk")) {
+    return "rrb_clerk";
+  }
+  if (lower.includes("rrb po") || lower.includes("rrb_po")) {
+    return "rrb_po";
+  }
+  if (lower.includes("ssc cgl") || lower.includes("ssc_cgl")) {
+    return "ssc_cgl_prelims";
+  }
+  if (lower.includes("ssc chsl") || lower.includes("ssc_chsl")) {
+    if (lower.includes("mains") || lower.includes("tier2") || lower.includes("tier-2") || lower.includes("tier 2")) {
+      return "ssc_chsl_tier2_papers";
+    }
+    return "ssc_chsl_tier1_papers";
+  }
+  if (lower.includes("ssc gd") || lower.includes("ssc_gd") || lower.includes("sc_gd") || lower.includes("sc gd")) {
+    return "sc_gd";
+  }
+  return null;
+};
+
 const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null) => {
   let category = "Bank & Insurance";
   const typeLower = String(exam_type || "").toLowerCase();
@@ -2534,10 +2654,14 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     if (!resolvedCourseNames.includes(courseSpace)) resolvedCourseNames.push(courseSpace);
   }
 
-  let resolvedSubTypes = [sub_type];
+  let resolvedSubTypes = [];
   if (sub_type) {
-    const mappedVal = mapTestIdToSubtype(sub_type);
-    if (mappedVal && !resolvedSubTypes.includes(mappedVal)) resolvedSubTypes.push(mappedVal);
+    const resolvedVal = resolveDbSubType(null, sub_type, exam_type);
+    if (resolvedVal) resolvedSubTypes.push(resolvedVal);
+    
+    if (!resolvedSubTypes.includes(sub_type)) resolvedSubTypes.push(sub_type);
+    
+    // Fallback search strings:
     const subTypeSpace = sub_type.replace(/_/g, " ");
     if (!resolvedSubTypes.includes(subTypeSpace)) resolvedSubTypes.push(subTypeSpace);
     const subTypeUnderscore = sub_type.replace(/\s+/g, "_");
@@ -2551,6 +2675,15 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     source_file: { $ne: null, $exists: true }
   };
   
+  let resolvedCourse = resolveDbCourse(resolvedSubTypes[0]);
+  if (resolvedCourse) {
+    if (resolvedCourse === "sbi_po_prelims") {
+      filter.course = "ibps_po_prelims";
+    } else {
+      filter.course = resolvedCourse;
+    }
+  }
+
   let mappedExamType = exam_type;
   if (exam_type) {
     const etLower = exam_type.toLowerCase();
@@ -2621,7 +2754,9 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
         question_text: qText,
         options: q.options || [],
         correct_answer: q.correctAnswer || q.correct_answer || "A",
-        section: q.section || q.subject || "General Intelligence and Reasoning"
+        section: q.section || q.subject || "General Intelligence and Reasoning",
+        direction: q.direction || "",
+        raw_direction: q.raw_direction || ""
       };
     });
   }
@@ -4919,6 +5054,304 @@ app.get("/api/admin/questions", verifyAdmin, async (req, res) => {
   }
 });
 
+function getNestedContent(text, startIdx) {
+  if (startIdx >= text.length) return ["", startIdx];
+  const openChar = text[startIdx];
+  if (openChar !== '(' && openChar !== '{' && openChar !== '[') return ["", startIdx];
+  const closeChar = openChar === '(' ? ')' : (openChar === '{' ? '}' : ']');
+  let depth = 0;
+  for (let i = startIdx; i < text.length; i++) {
+    if (text[i] === openChar) depth++;
+    else if (text[i] === closeChar) {
+      depth--;
+      if (depth === 0) {
+        return [text.substring(startIdx + 1, i), i];
+      }
+    }
+  }
+  return [text.substring(startIdx + 1), text.length];
+}
+
+function normalizeUnicode(text) {
+  if (!text) return "";
+  const mapping = {
+    "α": "\\alpha", "β": "\\beta", "γ": "\\gamma", "θ": "\\theta", "λ": "\\lambda", "μ": "\\mu", "σ": "\\sigma", "Δ": "\\Delta", "Ω": "\\Omega",
+    "√": "\\sqrt", "π": "\\pi", "∑": "\\sum", "∫": "\\int", "≤": "\\le", "≥": "\\ge", "×": "\\times", "÷": "\\div", "°": "^\\circ",
+    "∞": "\\infty", "≈": "\\approx", "≠": "\\ne", "±": "\\pm", "∝": "\\propto", "∈": "\\in", "∉": "\\notin", "⊂": "\\subset", "⊆": "\\subseteq",
+    "⇒": "\\Rightarrow", "→": "\\rightarrow", "↔": "\\leftrightarrow",
+    "¹": "^1", "²": "^2", "³": "^3",
+    "₁": "_1", "₂": "_2", "₃": "_3"
+  };
+  let result = text;
+  for (const [key, value] of Object.entries(mapping)) {
+    result = result.replaceAll(key, value);
+  }
+  return result;
+}
+
+function normalizeMathCommands(text) {
+  if (!text) return "";
+  const commands = ["sqrt", "frac", "pi", "sum", "int", "le", "ge", "times", "div", "infty", "approx", "ne", "pm", "propto", "subset", "subseteq", "sin", "cos", "tan", "log", "ln"];
+  let result = text;
+  for (const cmd of commands) {
+    const regex = new RegExp(`(?<!\\\\)\\b${cmd}\\b`, 'g');
+    result = result.replace(regex, `\\${cmd}`);
+  }
+  result = result.replace(/(?<!\\)sqrt/g, "\\sqrt");
+  result = result.replace(/(?<!\\)frac/g, "\\frac");
+  result = result.replace(/(?<!\\)pi\b/g, "\\pi");
+  return result;
+}
+
+function normalizeRootsRecursive(text) {
+  let idx = 0;
+  while (true) {
+    const index = text.substring(idx).search(/\\sqrt/);
+    if (index === -1) break;
+    const startPos = idx + index;
+    let argStart = startPos + 5;
+    while (argStart < text.length && /\s/.test(text[argStart])) argStart++;
+    if (argStart >= text.length) break;
+
+    const firstChar = text[argStart];
+    if (firstChar === '(' || firstChar === '{' || firstChar === '[') {
+      const [content, endPos] = getNestedContent(text, argStart);
+      const normalizedContent = normalizeRootsRecursive(content);
+      text = text.substring(0, startPos) + `\\sqrt{${normalizedContent}}` + text.substring(endPos + 1);
+      idx = startPos + normalizedContent.length + 7;
+    } else if (/\d/.test(firstChar)) {
+      const match = text.substring(argStart).match(/^\d+/);
+      const digits = match ? match[0] : "";
+      text = text.substring(0, startPos) + `\\sqrt{${digits}}` + text.substring(argStart + digits.length);
+      idx = startPos + digits.length + 7;
+    } else if (/[a-zA-Z]/.test(firstChar)) {
+      text = text.substring(0, startPos) + `\\sqrt{${firstChar}}` + text.substring(argStart + 1);
+      idx = startPos + 8;
+    } else {
+      idx = argStart;
+    }
+  }
+  return text;
+}
+
+function normalizeFractionsRecursive(text) {
+  let idx = 0;
+  while (true) {
+    const index = text.substring(idx).search(/\\frac/);
+    if (index === -1) break;
+    const startPos = idx + index;
+    let numStart = startPos + 5;
+    while (numStart < text.length && /\s/.test(text[numStart])) numStart++;
+    if (numStart >= text.length) break;
+
+    const firstChar = text[numStart];
+    let numContent = "";
+    let denStart = numStart;
+
+    if (firstChar === '(' || firstChar === '{' || firstChar === '[') {
+      const [content, endNum] = getNestedContent(text, numStart);
+      numContent = content;
+      denStart = endNum + 1;
+    } else if (/\d/.test(firstChar) && numStart + 1 < text.length && /\d/.test(text[numStart+1])) {
+      const match = text.substring(numStart).match(/^\d+/);
+      const digits = match ? match[0] : "";
+      if (digits.length === 2) {
+        numContent = digits[0];
+        const denContent = digits[1];
+        text = text.substring(0, startPos) + `\\frac{${numContent}}{${denContent}}` + text.substring(numStart + 2);
+        idx = startPos + 13;
+        continue;
+      } else {
+        idx = numStart + digits.length;
+        continue;
+      }
+    } else if (/\d/.test(firstChar)) {
+      numContent = firstChar;
+      denStart = numStart + 1;
+    } else {
+      idx = numStart;
+      continue;
+    }
+
+    while (denStart < text.length && /\s/.test(text[denStart])) denStart++;
+    if (denStart >= text.length) break;
+
+    const nextChar = text[denStart];
+    if (nextChar === '(' || nextChar === '{' || nextChar === '[') {
+      const [denContent, endDen] = getNestedContent(text, denStart);
+      const numNorm = normalizeFractionsRecursive(numContent);
+      const denNorm = normalizeFractionsRecursive(denContent);
+      text = text.substring(0, startPos) + `\\frac{${numNorm}}{${denNorm}}` + text.substring(endDen + 1);
+      idx = startPos + numNorm.length + denNorm.length + 15;
+    } else if (/\d/.test(nextChar)) {
+      const numNorm = normalizeFractionsRecursive(numContent);
+      text = text.substring(0, startPos) + `\\frac{${numNorm}}{${nextChar}}` + text.substring(denStart + 1);
+      idx = startPos + numNorm.length + 14;
+    } else {
+      idx = denStart;
+    }
+  }
+
+  text = text.replace(/(?<![\d/])(\d+)\/(\d+)(?![\d/])/g, (match, num, den) => {
+    if (num.length > 2 && den.length > 2) return match;
+    return `\\frac{${num}}{${den}}`;
+  });
+
+  return text;
+}
+
+function wrapLatexCommands(text) {
+  let idx = 0;
+  const regex = /\\(sqrt|frac|pi|sum|int|le|ge|times|div|sin|cos|tan|log|ln|alpha|beta|gamma|theta|lambda|mu|sigma|Delta|Omega|infty|approx|ne|pm|propto|subset|subseteq|Rightarrow|rightarrow|leftrightarrow)\b/;
+  while (idx < text.length) {
+    const index = text.substring(idx).search(regex);
+    if (index === -1) break;
+    const startPos = idx + index;
+    const match = text.substring(startPos).match(regex);
+    const cmd = match ? match[1] : "";
+    let curr = startPos + cmd.length + 1;
+
+    if (cmd === 'sqrt') {
+      while (curr < text.length && /\s/.test(text[curr])) curr++;
+      if (curr < text.length && text[curr] === '{') {
+        const [, endPos] = getNestedContent(text, curr);
+        curr = endPos + 1;
+      }
+    } else if (cmd === 'frac') {
+      while (curr < text.length && /\s/.test(text[curr])) curr++;
+      if (curr < text.length && text[curr] === '{') {
+        const [, endPos] = getNestedContent(text, curr);
+        curr = endPos + 1;
+      }
+      while (curr < text.length && /\s/.test(text[curr])) curr++;
+      if (curr < text.length && text[curr] === '{') {
+        const [, endPos] = getNestedContent(text, curr);
+        curr = endPos + 1;
+      }
+    }
+
+    const matchedStr = text.substring(startPos, curr).replaceAll('$', '');
+    text = text.substring(0, startPos) + `$${matchedStr}$` + text.substring(curr);
+    idx = startPos + matchedStr.length + 3;
+  }
+  return text;
+}
+
+function cleanTextJs(text) {
+  if (!text) return "";
+  let fixed = String(text);
+  fixed = fixed.replace(/\bIfthe\b/g, 'If the');
+  fixed = fixed.replace(/\bofasphere\b/g, 'of a sphere');
+  fixed = fixed.replace(/\bfindthe\b/gi, 'find the');
+  fixed = fixed.replace(/\bvalueof\b/gi, 'value of');
+  fixed = fixed.replace(/\beachof\b/gi, 'each of');
+  fixed = fixed.replace(/\bfitin\b/gi, 'fit in');
+  fixed = fixed.replace(/\bwhatis\b/gi, 'what is');
+  fixed = fixed.replace(/\bquestions?\b/gi, 'question');
+  fixed = fixed.replace(/\bnumberof\b/gi, 'number of');
+  fixed = fixed.replace(/([a-zA-Z]+)([0-9]+)/g, '$1 $2');
+  fixed = fixed.replace(/([0-9]+)([a-zA-Z]+)/g, '$1 $2');
+  fixed = fixed.replace(/[ ]{2,}/g, ' ');
+  return fixed;
+}
+
+function toLatexJs(text) {
+  if (!text) return "";
+  
+  // Phase 0: Delimiter Normalization (Convert escaped and parenthesis OCR math delimiters to $)
+  let processed = String(text);
+  processed = processed.replace(/\\\$[\s*([{\s]*/g, '$');
+  processed = processed.replace(/\\\([\s*([{\s]*/g, '$');
+  processed = processed.replace(/[\s*)[\]}\s]*\\\$/g, '$');
+  processed = processed.replace(/[\s*)[\]}\s]*\\\)/g, '$');
+  
+  processed = cleanTextJs(processed);
+
+  const mathBlocks = [];
+  processed = processed.replace(/(?<!\\)\$\$[\s\S]*?(?<!\\)\$\$/g, (m) => {
+    const placeholder = `MATHBLOCK${mathBlocks.length}`;
+    mathBlocks.push(m);
+    return placeholder;
+  });
+  processed = processed.replace(/(?<!\\)\$[\s\S]*?(?<!\\)\$/g, (m) => {
+    const placeholder = `MATHBLOCK${mathBlocks.length}`;
+    mathBlocks.push(m);
+    return placeholder;
+  });
+
+  const currencyBlocks = [];
+  processed = processed.replace(/\$\s*\d+(?:\.\d+)?\b/g, (m) => {
+    const placeholder = `CURRENCYBLOCK${currencyBlocks.length}`;
+    currencyBlocks.push(m);
+    return placeholder;
+  });
+
+  processed = normalizeUnicode(processed);
+  processed = normalizeMathCommands(processed);
+  processed = normalizeRootsRecursive(processed);
+  processed = normalizeFractionsRecursive(processed);
+  processed = wrapLatexCommands(processed);
+
+  let parts = processed.split('$');
+  for (let i = 0; i < parts.length; i++) {
+    if (i % 2 === 0) {
+      let part = parts[i];
+      const wrapMatch = (m) => `$${m}$`;
+      part = part.replace(/\b([a-zA-Z])\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, wrapMatch);
+      part = part.replace(/\b([a-zA-Z])_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, wrapMatch);
+      part = part.replace(/(\([^)]+\))\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, wrapMatch);
+      part = part.replace(/(\([^)]+\))_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, wrapMatch);
+      part = part.replace(/(\^\s*\\circ)\b/g, wrapMatch);
+      part = part.replace(/\$$/g, '');
+      part = part.replace(/\$\$+/g, '$');
+      parts[i] = part;
+    }
+  }
+  processed = parts.join('$');
+  processed = processed.replace(/\$\$+/g, '$');
+
+  for (let idx = 0; idx < currencyBlocks.length; idx++) {
+    const escaped = currencyBlocks[idx].replace('$', '\\$');
+    processed = processed.replace(`CURRENCYBLOCK${idx}`, escaped);
+  }
+  for (let idx = 0; idx < mathBlocks.length; idx++) {
+    processed = processed.replace(`MATHBLOCK${idx}`, mathBlocks[idx]);
+  }
+  
+  // Auto-close uneven dollars
+  const unescapedDollars = (processed.match(/(?<!\\)\$/g) || []).length;
+  if (unescapedDollars % 2 !== 0) {
+    processed += '$';
+  }
+
+  return processed;
+}
+
+function cleanOptionTextJs(text, index) {
+  if (!text) return "";
+  const textStr = String(text).trim();
+  const labelChar = String.fromCharCode(65 + index); // 'A', 'B', etc.
+  
+  const patterns = [
+    new RegExp('^\\(' + labelChar + '\\)\\s*', 'i'),
+    new RegExp('^\\[' + labelChar + '\\]\\s*', 'i'),
+    new RegExp('^Option\\s+' + labelChar + '\\b\\s*[\\.\\:\\-\\s]*\\s*', 'i'),
+    new RegExp('^' + labelChar + '\\s*[\\.\\)\\-\\]]\\s*', 'i'),
+    new RegExp('^' + labelChar + '\\s+', 'i')
+  ];
+  
+  for (const pat of patterns) {
+    const match = textStr.match(pat);
+    if (match) {
+      const remaining = textStr.substring(match[0].length).trim();
+      if (remaining.length > 0) {
+        return remaining;
+      }
+    }
+  }
+  return textStr;
+}
+
 // Admin API: Update a question
 app.put("/api/admin/questions/:unique_id", verifyAdmin, async (req, res) => {
   const { unique_id } = req.params;
@@ -4926,14 +5359,41 @@ app.put("/api/admin/questions/:unique_id", verifyAdmin, async (req, res) => {
   
   try {
     const updateFields = { updated_at: new Date() };
-    if (question !== undefined) updateFields.question = question;
-    if (options !== undefined) updateFields.options = options;
+    if (question !== undefined) {
+      updateFields.raw_question = question;
+      updateFields.question = toLatexJs(question);
+      updateFields.q = updateFields.question;
+    }
+    if (options !== undefined) {
+      updateFields.raw_options = options;
+      updateFields.options = options.map((opt, index) => {
+        let optText = opt;
+        let optId = String.fromCharCode(65 + index);
+        let isDict = false;
+        if (typeof opt === 'object' && opt !== null) {
+          optText = opt.text || "";
+          optId = opt.id || optId;
+          isDict = true;
+        }
+        const cleaned = cleanOptionTextJs(optText, index);
+        if (isDict) {
+          return {
+            id: optId,
+            text: toLatexJs(cleaned)
+          };
+        }
+        return toLatexJs(cleaned);
+      });
+    }
     if (correctOption !== undefined) {
       updateFields.correct_option = correctOption; // new schema
       updateFields.correct_letter = correctOption; // legacy compatibility
     }
     if (correctAnswer !== undefined) updateFields.correct_answer = correctAnswer;
-    if (explanation !== undefined) updateFields.explanation = explanation;
+    if (explanation !== undefined) {
+      updateFields.raw_explanation = explanation;
+      updateFields.explanation = toLatexJs(explanation);
+    }
     if (difficulty !== undefined) updateFields.difficulty = difficulty;
     
     const updatedQ = await Question.findOneAndUpdate(

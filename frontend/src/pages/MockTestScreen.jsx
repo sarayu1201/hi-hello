@@ -57,8 +57,8 @@ const cleanMathText = (text) => {
   return text || "";
 };
 
-const renderLaTeX = (text, subject = "") => {
-  return <QuestionRenderer text={text} subject={subject} />;
+const renderLaTeX = (text, subject = "", direction = "") => {
+  return <QuestionRenderer text={text} direction={direction} subject={subject} />;
 };
 
 const getSectionTimeLimit = (examType) => {
@@ -1087,7 +1087,7 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
               <>
                 {/* Clean question text rendering with LaTeX */}
                 <div className="text-slate-900 text-sm md:text-base leading-relaxed font-semibold">
-                  {renderLaTeX(currentQuestion.question_text, currentQuestion.subject || currentQuestion.section)}
+                  {renderLaTeX(currentQuestion.question_text, currentQuestion.subject || currentQuestion.section, currentQuestion.direction)}
                 </div>
                 {currentQuestion.question_image && (
                   <div className="mt-4 flex flex-col items-start gap-1">

@@ -49,8 +49,15 @@ async function runScraper(scraperName, force = false) {
         const users = await User.find({ fcmToken: { $ne: null } });
 
         for (const job of scrapedJobs) {
-            // Check duplicate
-            const existingJob = await Job.findOne({ guid: job.guid });
+            // Check duplicate by guid or official_notification_url to satisfy unique index constraint
+            const query = { guid: job.guid };
+            if (job.official_notification_url) {
+                query.$or = [
+                    { guid: job.guid },
+                    { official_notification_url: job.official_notification_url }
+                ];
+            }
+            const existingJob = await Job.findOne(job.official_notification_url ? { $or: [ { guid: job.guid }, { official_notification_url: job.official_notification_url } ] } : { guid: job.guid });
             if (existingJob) {
                 continue;
             }

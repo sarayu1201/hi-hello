@@ -41,22 +41,24 @@ export const cleanLaTeX = (text) => {
     closeBraceCount++;
   }
 
-  // Ensure closed dollar block delimiters
-  const dollarCount = (fixed.match(/\$/g) || []).length;
+  // Ensure closed dollar block delimiters (ignoring escaped ones)
+  const dollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
   if (dollarCount % 2 !== 0) {
     fixed += "$";
   }
 
-  // Escape raw % percentage signs in LaTeX math blocks to avoid parsing warnings
-  fixed = fixed.replace(/\$([\s\S]*?)\$/g, (match, mathContent) => {
-    const escapedMath = mathContent.replace(/(?<!\\)%/g, "\\%");
+  // Escape raw % percentage, hash (#), and ampersand (&) signs in LaTeX math blocks to avoid parsing warnings or KaTeX crashes
+  fixed = fixed.replace(/(?<!\\)\$([\s\S]*?)(?<!\\)\$/g, (match, mathContent) => {
+    let escapedMath = mathContent.replace(/(?<!\\)%/g, "\\%");
+    escapedMath = escapedMath.replace(/(?<!\\)#/g, "\\#");
+    escapedMath = escapedMath.replace(/(?<!\\)&/g, "\\&");
     return `$${escapedMath}$`;
   });
 
   return fixed;
 };
 
-export default function QuestionRenderer({ text, subject = "", className = "" }) {
+export default function QuestionRenderer({ text, direction = "", subject = "", className = "" }) {
   const containerRef = useRef(null);
 
   // Trigger MathJax typeset on mount and update
@@ -66,18 +68,22 @@ export default function QuestionRenderer({ text, subject = "", className = "" })
         console.warn("MathJax formatting pipeline warning:", err);
       });
     }
-  }, [text]);
+  }, [text, direction]);
 
-  if (!text) return null;
+  if (!text && !direction) return null;
 
   // 1. Text Parsing & Self-Healing Spacing
-  let processedText = cleanText(text);
+  let processedText = cleanText(text || "");
+  let processedDirection = cleanText(direction || "");
 
   // 2. Math Parsing & Self-Healing LaTeX Delimiters
   processedText = cleanLaTeX(processedText);
+  processedDirection = cleanLaTeX(processedDirection);
 
   // 3. Question Type / Table Representation Parsing
   const tableJsonMatch = processedText.match(/\{[\s\S]*?"headers"[\s\S]*?"rows"[\s\S]*?\}/);
+  
+  let contentNode = null;
   if (tableJsonMatch) {
     const beforeTable = processedText.substring(0, tableJsonMatch.index);
     const afterTable = processedText.substring(tableJsonMatch.index + tableJsonMatch[0].length);
@@ -86,8 +92,8 @@ export default function QuestionRenderer({ text, subject = "", className = "" })
       const headers = tableData.headers || [];
       const rows = tableData.rows || [];
 
-      return (
-        <div ref={containerRef} className={`space-y-4 mathjax-process leading-relaxed ${className}`}>
+      contentNode = (
+        <div className="space-y-4">
           <div className="whitespace-pre-wrap">{beforeTable}</div>
           <div className="overflow-x-auto my-4 max-w-full rounded-lg border border-slate-200 shadow-sm">
             <table className="min-w-full border-collapse text-center">
@@ -121,10 +127,21 @@ export default function QuestionRenderer({ text, subject = "", className = "" })
     }
   }
 
-  // Default rendering path
+  if (!contentNode) {
+    contentNode = <div className="whitespace-pre-wrap">{processedText}</div>;
+  }
+
   return (
-    <span ref={containerRef} className={`mathjax-process whitespace-pre-wrap leading-relaxed ${className}`}>
-      {processedText}
-    </span>
+    <div ref={containerRef} className={`mathjax-process leading-relaxed ${className}`}>
+      {processedDirection && (
+        <div className="bg-slate-50 border-l-4 border-indigo-600 p-4 rounded-r-lg mb-4 text-slate-700 text-sm md:text-base font-normal shadow-sm whitespace-pre-wrap">
+          <div className="font-bold text-xs text-indigo-600 uppercase tracking-wider mb-2">Directions</div>
+          <div>{processedDirection}</div>
+        </div>
+      )}
+      <div className="font-semibold text-slate-900">
+        {contentNode}
+      </div>
+    </div>
   );
 }

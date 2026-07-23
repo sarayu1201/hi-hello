@@ -3,7 +3,20 @@ import time
 import re
 import json
 
-MONGO_URI = "mongodb+srv://allampallivinaya_db_user:sarayu%40akhil2509@cluster0.l1t116x.mongodb.net/kr_academy?appName=Cluster0"
+import os
+
+MONGO_URI = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
+if not MONGO_URI:
+    env_path = os.path.join(os.path.dirname(__file__), "backend", ".env")
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("MONGODB_URI="):
+                    MONGO_URI = line.split("=", 1)[1].strip()
+                    break
+
+if not MONGO_URI:
+    MONGO_URI = "mongodb+srv://allampallivinaya_db_user:6lbDyU6GocG8JxLY@cluster0.l1t116x.mongodb.net/kr_academy?retryWrites=true&w=majority&appName=Cluster0"
 
 def run_suite():
     print("====================================================")
@@ -55,12 +68,13 @@ def run_suite():
         if re.search(r'\b(Ifthe|findthe|valueof|ofasphere|eachof|fitin|whatis|numberof)\b', q_text, re.IGNORECASE):
             merged_words += 1
             
-        # Check unclosed math signs (odd number of '$')
-        if q_text.count('$') % 2 != 0:
+        # Check unclosed math signs (odd number of unescaped '$')
+        unescaped_dollars = len(re.findall(r'(?<!\\)\$', q_text))
+        if unescaped_dollars % 2 != 0:
             broken_formulas += 1
             
         # Check malformed LaTeX tags (e.g. unescaped raw percent sign inside math mode or raw 'sqrt{')
-        math_blocks = re.findall(r'\$([\s\S]*?)\$', q_text)
+        math_blocks = re.findall(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', q_text)
         for block in math_blocks:
             if "%" in block and "\\%" not in block:
                 broken_formulas += 1
