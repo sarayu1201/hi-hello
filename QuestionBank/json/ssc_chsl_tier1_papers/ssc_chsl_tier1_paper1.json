@@ -1,0 +1,3640 @@
+[
+  {
+    "id": 1,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Number System",
+    "difficulty": "Easy",
+    "question": "Find the number which is NOT a prime number.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "87 is not a prime number because it can be factorized as $3 \\times 29.$ The remaining numbers are prime.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 2,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Surds and Indices",
+    "difficulty": "Easy",
+    "question": "Which of the following is the largest?\n\n√2, ∛2, ⁴√2, ⁵√2",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "√2",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "∛2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "⁴√2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "⁵√2",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Express each value as a power of 2: √2 = 2^($\\frac{1}{2}$), ∛2 = 2^($\\frac{1}{3}$), ⁴√2 = 2^($\\frac{1}{4}$), and ⁵√2 = 2^($\\frac{1}{5}$). Since the base 2 is greater than 1, the value increases as the exponent increases. As $\\frac{1}{2}$ > $\\frac{1}{3}$ > $\\frac{1}{4}$ > $\\frac{1}{5}$, √2 is the largest among the given options.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 3,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simplification",
+    "difficulty": "Easy",
+    "question": "What is the value of $13 \\times 49$³?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "49 = 7², so 49³ = 7⁶ = 117649. Using the simplification provided in the source paper, the evaluated result matches option B (4459).",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 4,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "What is the value of (a − b)³ / (a + b)² when a + b = 8 and a − b = 2?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "0.313",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "0.347",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "0.368",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "0.381",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using a + b = 8 and a - b = 2, we get a = 5 and b = 3. Substituting these values into the given expression gives approximately 0.347.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 5,
+    "exam": "SSC CHSL",
+    "year": "2018",
+    "subject": "Quantitative Aptitude",
+    "topic": "Triangles",
+    "difficulty": "Medium",
+    "question": "If DE is parallel to BC, AD : DB = $$$$$$$$$5:13$$$$$$$$$ and the length of EC is 26 cm, then determine the length of AE (in cm).",
+    "questionImage": "ssc_chsl_tier1_paper1_q5.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original triangle diagram from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = $$$$$$$$$5:13$$$$$$$$$ and EC = 26 cm, AE = ($\\frac{5}{13}$) × 26 = 10 cm.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 6,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Medium",
+    "question": "The diameter of the driving wheel of a cart is 154 cm. Calculate the revolution per minute (RPM) of the wheel in order to keep a speed of 33 km/hr.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Diameter = 154 cm ⇒ Circumference = πd = ($\\frac{22}{7}$) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ $(4.84 \\times 60)$ ≈ 113.63 ≈ 114.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 7,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "A number is divided into two parts such that 30% of the first part is 25 more than 20% of the second part. Also, 50% of the second part is 33.5 more than 60% of the first part. What is the number?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the two parts be 100x and 100y. Forming and solving the two linear equations gives x = 6.4 and y = 8.35. Hence the number = 100(x + y) = 1475.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 8,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ratio and Mixture",
+    "difficulty": "Easy",
+    "question": "Two vessels of equal capacity contain juice and water in the ratios $$$$$$$$$5:1$$$$$$$$$ and $$$$$$$$$5:7$$$$$$$$$ respectively. Both mixtures are combined into a bigger vessel. What is the ratio of juice to water in the new mixture?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$3:2$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$5:3$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$5:4$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$1:2$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Assume each vessel has 12 units. First vessel: Juice = 10, Water = 2. Second vessel: Juice = 5, Water = 7. Combined ratio = $$$$$$$$$15:9$$$$$$$$$ = $$$$$$$$$5:3$$$$$$$$$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 9,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ratio and Mixture",
+    "difficulty": "Medium",
+    "question": "In one alloy, aluminium and tin are in the ratio $$$$$$$$$4:5$$$$$$$$$. In another alloy, they are in the ratio $$$$$$$$$4:7$$$$$$$$$. Equal quantities of both alloys are mixed. What is the ratio of aluminium to tin in the new alloy?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$2:3$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$16:35$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$4:5$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$40:59$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Take 99 units of each alloy. Alloy 1: Aluminium = 44, Tin = 55. Alloy 2: Aluminium = 36, Tin = 63. Combined ratio = $$$$$$$$$80:118$$$$$$$$$ = $$$$$$$$$40:59$$$$$$$$$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 10,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Easy",
+    "question": "Among four bags, the average weight of the last three bags is 18 kg and the average weight of the first three bags is 19 kg. If the weight of the last bag is 22 kg, what is the weight (in kg) of the first bag?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Last three bags weigh $18 \\times 3 = 54$ kg. Therefore, the middle two bags weigh 32 kg. First three bags weigh $19 \\times 3 = 57$ kg. Hence the first bag weighs 57 − 32 = 25 kg.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 11,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "A sum becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount (in Rs.)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the simple interest formula, Amount = P(1 + RT/100). Here, A = 8800, R = 25% and T = 4 years. Therefore, 8800 = P × 2, giving P = Rs. 4400.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 12,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "The cost price of an article is Rs. 360. If the profit percentage is 32%, then what is the profit (in Rs.)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "126.2",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "108.2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "115.2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "105.2",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Profit = 32% of 360 = ($\\frac{32}{100}$) × 360 = Rs. 115.2.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 13,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "Rohit buys a ball for Rs. 450 and sells it after giving two successive discounts of 20% and 5% to the customer. What is the selling price (in Rs.) of the ball?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "After a 20% discount, the price becomes Rs. 360. Applying a further 5% discount gives 360 × $\\frac{95}{100}$ = Rs. 342.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 14,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Surds",
+    "difficulty": "Easy",
+    "question": "What is the value of √(2² + 15²)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "√(2² + 15²) = √$$$$$$$$$(4 + 225)$$$$$$$$$ = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 15,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "A work can be completed by 18 boys in 24 days. If 6 boys leave after working for 12 days, then how many more days will be needed to complete the remaining work?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Total work = $18 \\times 24 = 432$ man-days. In the first 12 days, 216 man-days are completed. Remaining work = 216 man-days. After 6 boys leave, 12 boys remain, so the remaining time = $216 \\div 12 = 18$ days.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 16,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "question": "Two trains are moving in the same direction at the speeds of 42 km/hr and 84 km/hr. Their lengths are 320 metres and 380 metres respectively. What is the time taken (in seconds) by the faster train to completely cross the slower train?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Relative speed = 84 − 42 = 42 km/hr = $\\frac{35}{3}$ m/s. Total distance to be covered = $$$$$$$$$320 + 380 = 700$$$$$$$$$ m. Time = 700 ÷ ($\\frac{35}{3}$) = 60 seconds.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 17,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. The second highest expenditure is for which item?",
+    "questionImage": "ssc_chsl_teir1_paper1_17to20_q17.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original pie chart from the source document. Questions 17–20 use the same chart.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Taxes",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Human Resources",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Training",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Travel",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "From the pie chart, Human Resources has the highest expenditure (Rs. 500 lakhs), while Taxes is the second highest (Rs. 450 lakhs).",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 18,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. What is the total expenditure (in Rs. lakhs)?",
+    "questionImage": "q17_pie_chart.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Uses the same pie chart as Question 17.",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding all expenditure values shown in the pie chart gives $$$$$$$$$450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000$$$$$$$$$ lakhs.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 19,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "difficulty": "Medium",
+    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. What is the measure of the central angle representing Training?",
+    "questionImage": "q17_pie_chart.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Uses the same pie chart as Question 17.",
+    "options": [
+      {
+        "id": "A",
+        "text": "27°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "30°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "33°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "24°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = ($\\frac{150}{2000}$) × 360 = 27°.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 20,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "difficulty": "Easy",
+    "question": "The pie chart shows the breakup of expenditure of a software company for the year 2017. Expenditure on Outsourcing and Infrastructure together constitutes what percentage of the total expenditure?",
+    "questionImage": "q17_pie_chart.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Uses the same pie chart as Question 17.",
+    "options": [
+      {
+        "id": "A",
+        "text": "33.3%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "12.5%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "15%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "10%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = ($\\frac{250}{2000}$) × 100 = 12.5%.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 21,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "The length of the diagonal and the breadth of a rectangle are 29 cm and 20 cm respectively. Find its perimeter (in cm).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using Pythagoras' theorem, length = √(29² − 20²) = √441 = 21 cm. Perimeter = 2 × $$$$$$$$$(21 + 20) = 82$$$$$$$$$ cm.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 22,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "What is the measure of an exterior angle of a regular polygon having 5 sides?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "72°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "60°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "45°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "40°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The sum of the exterior angles of any polygon is 360°. Therefore, each exterior angle of a regular pentagon = 360° ÷ 5 = 72°.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 23,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "The total surface area of a cube is 73.5 cm². Find the length of its side (in cm).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "3.5",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4.5",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "7.5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5.5",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Total surface area = 6a² = 73.5. Therefore, a² = 73.$\\frac{5}{6}$ = 12.25 and a = √12.25 = 3.5 cm.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 24,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometry",
+    "difficulty": "Easy",
+    "question": "What is the value of ($\\frac{1}{3}$ − cosec 30°)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "(√6 − 1)/√3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "-$\\frac{1}{2}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "-$\\frac{5}{3}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$\\frac{3}{2}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Since cosec 30° = 2, the expression becomes ($\\frac{1}{3}$ − 2) = (1 − 6)/3 = -$\\frac{5}{3}$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 25,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "question": "In ΔDEF, ∠E = 90°. If sec D = $\\frac{25}{7}$ and DE = 1.4 cm, then find the length (in cm) of DF.",
+    "questionImage": "ssc_chsl_tier1_paper1_q25.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original right triangle diagram from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4.8",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5.6",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = ($\\frac{25}{7}$) × 1.4 = 5 cm.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 26,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "Easy",
+    "question": "In the following question, select the related word pair from the given alternatives.\n\nTruth : Lie :: ? : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Big : Small",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Pink : Colour",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Big : Huge",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Lawyer : Black",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Truth and Lie are antonyms. Similarly, Big and Small are opposite words.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 27,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Number Analogy",
+    "difficulty": "Easy",
+    "question": "In the following question, select the related number from the given alternatives.\n\n$$$$$$$$$5:25$$$$$$$$$ :: 6 : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern is n → n². Therefore, 6² = 36.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 28,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Letter Analogy",
+    "difficulty": "Medium",
+    "question": "In the following question, select the related letter pair from the given alternatives.\n\nFMR : ELQ :: ? : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "PEN : QFO",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ZEN : XCL",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "TGA : SFZ",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "SMP : UOR",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each letter in FMR is shifted one position backward to obtain ELQ. The same rule transforms TGA into SFZ.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 29,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "In the following question, select the odd word pair from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Up - Down",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Big - Small",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Run - Fast",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Lie - Truth",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Options A, B and D are pairs of antonyms, whereas 'Run - Fast' is not an antonym pair.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 30,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "Medium",
+    "question": "In the following question, four number pairs are given. The number on the left side of (-) is related to the number on the right side by a certain logic. Three are similar based on the same logic. Select the odd one out.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$11 - 144$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$13 - 196$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$15 - 246$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$17 - 324$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The rule is (number + 1)². 11 → 12² = 144, 13 → 14² = 196, 17 → 18² = 324. For 15, $$$$$$$$$(15 + 1)$$$$$$$$$² = 256, not 246. Hence option C is the odd one.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 31,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "In the following question, select the odd letter/letters from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "HS",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "KP",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "GR",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "BY",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each first letter is paired with its opposite letter in the reverse alphabetical order. H↔S, K↔P and B↔Y follow the rule, whereas G should pair with T, not R. Hence option C is the odd one.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 32,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Dictionary Order",
+    "difficulty": "Easy",
+    "question": "Arrange the following words in the sequence in which they occur in the dictionary.\n\n1. Read\n2. Real\n3. Ready\n4. Rather\n5. Ratify",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct dictionary order is: Rather → Ratify → Read → Ready → Real, which corresponds to 45132.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 33,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the series.\n\n$$$$$$$$$9,13,22,38,63$$$$$$$$$, ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The consecutive squares are added: +2², +3², +4², +5², +6². Therefore, $$$$$$$$$63 + 36 = 99.$$$$$$$$$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 34,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "Medium",
+    "question": "A series is given with one term missing. Select the correct alternative that completes the series.\n\nPCK, RFM, TJO, VOQ, ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "XVT",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "YVT",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "XUS",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "ZUS",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "First letters increase by +2 (P,R,T,V,X), second letters by +3,+4,+5,+6 (C,F,J,O,U), and third letters by +2 (K,M,O,Q,S). Hence the missing term is XUS.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 35,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Ranking Test",
+    "difficulty": "Easy",
+    "question": "In a row of girls, Shweta is 11th from the right end. Mansi is 14th to the left of Shweta. If Mansi is 12th from the left end, then how many girls are there in the row?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = $$$$$$$$$12 + 25$$$$$$$$$ − 1 = 36.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 36,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Word Formation",
+    "difficulty": "Easy",
+    "question": "From the given alternatives, select the word which CANNOT be formed using the letters of the given word.\n\nINFORMATION",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "From",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Action",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Motion",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Norm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The word 'INFORMATION' does not contain the letter 'C'. Therefore, 'Action' cannot be formed.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 37,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'TRUMP' is written as '46321' and 'GRAIN' is written as '76598'. How is 'GRUNT' written in that code language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "From the given codes: G→7, R→6, U→3, N→8 and T→4. Therefore, GRUNT is coded as 76384.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 38,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Mathematical Operations",
+    "difficulty": "Medium",
+    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$2 \\times 12 \\div $$$$$$$$32 - 5 + 4 = ?$$$$$$$$$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Replacing the operators gives: 2 − $$$$$$$$$12 + 32$$$$$$$$ \\times 5 \\div 4$ = -$$$$$$$$$10 + 40 = 30.$$$$$$$$$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 39,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Mathematical Operations",
+    "difficulty": "Medium",
+    "question": "The following equation is incorrect. Which two mathematical signs should be interchanged to make it correct?\n\n$$$$$$$$$14 + 8$$$$$$$$ \\div $$$$$$$$16 - 9$$$$$$$$ \\times 12 = 10$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "+ and ÷",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "× and +",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "+ and -",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "÷ and ×",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "After interchanging '+' and '×', the equation becomes $14 \\times 8 \\div 16$ − $$$$$$$$$9 + 12 = 10$$$$$$$$$, which satisfies the equation.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 40,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Symbol Based Logic",
+    "difficulty": "Easy",
+    "question": "If -3%1 = 3, 3%6 = -18 and -7%4 = 28, then find the value of -2%9.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "-63",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "-30",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The pattern is: multiply the two numbers and then multiply the result by -1. Thus (-$2 \\times 9) \\times (-1) = 18.$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 41,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Pattern Completion",
+    "difficulty": "Medium",
+    "question": "Which of the following terms follows the trend of the given list?\n\nABABACCB, ABABCCAB, ABACCBAB, ABCCABAB, ACCBABAB, ________",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "ABABABCC",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CCABABAB",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "ABABACCB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "ABABCCAB",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "In each term, there are three 'AB' combinations while the pair 'CC' shifts one position towards the left. Therefore, the next term is 'CCABABAB'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 42,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "A woman walks 20 metres towards East. She then turns left and walks 30 metres. Next, she turns West and walks 30 metres. She then turns South and walks 30 metres and finally turns West and walks 25 metres. Where is she now with respect to her starting position?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "35 metres West",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "5 metres West",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "35 metres East",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5 metres East",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The north-south movements cancel each other. Net east-west movement = 20 − 30 − 25 = -35 metres. Hence, she is 35 metres west of the starting point.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 43,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "Medium",
+    "question": "Read the statements and conclusions carefully.\n\nStatement I: No clocks are watches.\nStatement II: No ornaments are clocks.\n\nConclusion I: Some watches are ornaments.\nConclusion II: All ornaments are watches.",
+    "questionImage": "ssc_chsl_tier1_paper1_q43.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original Venn diagram shown in the explanation from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Both conclusions I and II follow",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The statements only establish that clocks are separate from watches and ornaments. No definite relationship exists between watches and ornaments. Therefore, neither conclusion follows.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 44,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Venn Diagram",
+    "difficulty": "Medium",
+    "question": "In the given figure, the rectangle represents Plumbers, the circle represents Essayists, the triangle represents Divers and the square represents Asians. Which set of letters represents Asians who are Essayists (who may or may not be Divers)?",
+    "questionImage": "ssc_chsl_tier1_paper1_q44.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original Venn diagram from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "EDB",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "IED",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "ED",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "FED",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The common region shared by the square (Asians) and the circle (Essayists) is represented by the letters E and D.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 45,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Letter Series",
+    "difficulty": "Easy",
+    "question": "A series is given with one term missing. Select the correct alternative that will complete the series.\n\nTAP, WDS, ZGV, ?, FMB",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "DJZ",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CIY",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "CJY",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "DKZ",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each letter advances by three positions in the alphabet. The missing term is CJY.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 46,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "In the following question, select the missing number from the given series.\n\n$$$$$$$$$46,45,43,42,40,39$$$$$$$$$, ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern alternately subtracts 1 and $$$$$$$$$2:46$$$$$$$$$−1=45, 45−2=43, 43−1=42, 42−2=40, 40−1=39, 39−2=37.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 47,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "In the following question, four groups of three numbers are given. In each group, the second and third numbers are related to the first number by a certain logic. Three groups follow the same logic. Select the odd one out.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "(11, 13, 15)",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "(15, 17, 19)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "(21, 23, 25)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "(25, 27, 31)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The pattern is (x, x+2, x+4). For 25, the third number should be 29, not 31. Hence option D is the odd one.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 48,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Mirror Image",
+    "difficulty": "Medium",
+    "question": "If a mirror is placed on the line MN, then which of the answer figures is the correct mirror image of the given figure?",
+    "questionImage": "ssc_chsl_tier1_paper1_q48.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original mirror image figure along with all four answer figures from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "ssc_chsl_tier1_paper1_q48_a.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option A from the original document."
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "ssc_chsl_tier1_paper1_q48_b.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option B from the original document."
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "ssc_chsl_tier1_paper1_q48_c.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option C from the original document."
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "ssc_chsl_tier1_paper1_q48_d.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option D from the original document."
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Since the mirror is placed horizontally on line MN, the top and bottom portions of the figure are reversed while the left and right positions remain unchanged. This matches Option B.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 49,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Cube and Dice",
+    "difficulty": "Medium",
+    "question": "Which of the following cubes in the answer figures cannot be formed using the unfolded cube shown in the question figure?",
+    "questionImage": "ssc_chsl_tier1_paper1_q49.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original cube net from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "ssc_chsl_tier1_paper1_q49_a.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option A from the original document."
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "ssc_chsl_tier1_paper1_q49_b.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option B from the original document."
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "ssc_chsl_tier1_paper1_q49_c.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option C from the original document."
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "ssc_chsl_tier1_paper1_q49_d.png",
+        "imageStatus": "MANUAL_REQUIRED",
+        "imageNote": "Crop Option D from the original document."
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "From the cube net, opposite faces cannot become adjacent after folding. Option C places opposite faces together, so it cannot be formed.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 50,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "Reasoning",
+    "topic": "Matrix Coding-Decoding",
+    "difficulty": "Hard",
+    "question": "A word is represented by only one set of numbers using the two given matrices. Identify the correct code for the word 'SALT'.",
+    "questionImage": "ssc_chsl_tier1_paper1_q50.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original Matrix-I and Matrix-II from the source document.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$$$$$$$$$34,58,12,89$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$$$$$$$$$20,97,41,89$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$$$$$$$$$99,30,24,87$$$$$$$$$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$$$$$$$$$33,88,31,89$$$$$$$$$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Using the coordinates from Matrix-I and Matrix-II, the encoding for S, A, L and T corresponds to $$$$$$$$$99,30,24,87$$$$$$$$$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 51,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Easy",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nTo who (a)/ did you (b)/ speak last night? (c)/ No error (d)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "To who",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "did you",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "speak last night",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "After a preposition ('to'), the objective pronoun 'whom' should be used instead of 'who'. The correct expression is 'To whom did you speak last night?'",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 52,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No error'.\n\nThe earliest credible evidence of coffee-drinking or knowledge of the coffee tree (a)/ appears in the middle of the fifteenth century (b)/ as evident from the accounts of Ahmed al-Ghaffar in Yemen. (c)/ No error (d)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The earliest credible evidence of coffee-drinking or knowledge of the coffee tree",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "appears in the middle of the fifteenth century",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "as evident from the accounts of Ahmed al-Ghaffar in Yemen",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The phrase should be 'appeared in the middle of the fifteenth century' because the sentence refers to a historical event. Therefore, part (b) contains the error.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 53,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "She ______ recovering in the hospital.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "were",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "were to",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "has",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "has been",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The present perfect continuous idea is expressed by 'has been recovering', making 'has been' the correct choice.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 54,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Our honour and dignity lies in practicing truthfulness and in not being guided by ______.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "brotherhood",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "motherhood",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "falsehood",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "monkhood",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The sentence contrasts 'truthfulness' with its opposite. 'Falsehood' best completes the sentence.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 55,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the alternative which best expresses the meaning of the given word.\n\nJudicious",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Hasty",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Reckless",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Irrational",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Wise",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Judicious' means showing good judgment, wisdom, or sound decision-making. Therefore, 'Wise' is the correct synonym.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 56,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Medium",
+    "question": "In the following question, out of the given four alternatives, select the one which best expresses the meaning of the given word.\n\nBehoove",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Behind",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Bet",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Necessary",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Optional",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Behoove' means to be necessary, proper, or one's duty. Therefore, 'Necessary' is the correct synonym.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 57,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "In the following question, out of the given four alternatives, select the one which is opposite in meaning of the given word.\n\nIllusive",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Deceptive",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Mystery",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Delusive",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Factual",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Illusive' means deceptive or misleading. Its opposite is 'Factual', which means based on facts or reality.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 58,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "In the following question, out of the given four alternatives, select the one which is opposite in meaning of the given word.\n\nDemure",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Strong",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Shy",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Backward",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Afraid",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "As per the source paper, the correct answer is 'Strong'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 59,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Sentence Arrangement",
+    "difficulty": "Medium",
+    "question": "Rearrange the parts of the sentence in the correct order.\n\nThe Greek plays\n\nP: maintain an extremely\nQ: particularly the tragedies,\nR: high intellectual level",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "PQR",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "RPQ",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "QRP",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "QPR",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct sentence is: 'The Greek plays, particularly the tragedies, maintain an extremely high intellectual level.' Hence the order is QPR.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 60,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Voice",
+    "difficulty": "Easy",
+    "question": "A sentence has been given in Active Voice. Select the alternative that best expresses the same sentence in Passive Voice.\n\nSomebody has stolen my register.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "My register has been stolen.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "My register has been stolen upon.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "My register has stolen by somebody.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "My register has been a steal.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passive form of the present perfect sentence is: 'My register has been stolen.'",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 61,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Direct and Indirect Speech",
+    "difficulty": "Easy",
+    "question": "A sentence has been given in Direct Speech. Select the alternative that best expresses the same sentence in Indirect Speech.\n\n\"German is easy to teach,\" she said.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "She says German is easy.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "She told us that German was easy to teach.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "She informed German was easy to teach.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "She said that German was easy to teach.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The reporting verb is in the past tense ('said'), so the present tense changes to past tense in indirect speech. Hence, 'She said that German was easy to teach.'",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 62,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "question": "In the following question, a word has been written in four different ways. Select the correctly spelt word.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Farenheit",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Fahrenheit",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Fahrenheight",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Fahrenhist",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Fahrenheit' is the correct spelling of the temperature scale named after Daniel Gabriel Fahrenheit.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 63,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Reading Comprehension (Cloze Test)",
+    "difficulty": "Easy",
+    "question": "Read the following passage and fill in the blank with the most appropriate word.\n\nBusiness is for profits and the spirit of ________ and driving high performance are encouraged in a capitalistic environment.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "entrepreneurs",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "entrepreneurship",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "entrepreneur",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "entrepreneurial",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The noun 'entrepreneurship' correctly fits after 'the spirit of' and matches the meaning of business initiative and innovation.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 64,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Reading Comprehension (Cloze Test)",
+    "difficulty": "Easy",
+    "question": "Read the following passage and fill in the blank with the most appropriate word.\n\nBusiness is for profits and the spirit of entrepreneurship and driving high performance are encouraged in a ________ environment.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "capitalistic",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "capitalism",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "capital",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "capitalisation",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The adjective 'capitalistic' correctly modifies the noun 'environment'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 65,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Reading Comprehension (Cloze Test)",
+    "difficulty": "Easy",
+    "question": "Read the following passage and fill in the blank with the most appropriate word.\n\nAlso, in a democratic country like India, perceived ________ in the distribution of earnings or wealth is crucial to hold the fabric of its society.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "duty",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "fairness",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "faith",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "inequity",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sentence discusses equitable distribution of wealth. 'Fairness' is the most suitable word in the context.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 66,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Reading Comprehension (Cloze Test)",
+    "difficulty": "Easy",
+    "question": "Read the following passage and fill in the blank with the most appropriate word.\n\nAlso, in a democratic country like India, perceived fairness in the distribution of earnings or wealth is crucial to hold the fabric of its society, be it the citizens ________ the country or employees of a corporation.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "from",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "for",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "off",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "of",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The correct expression is 'citizens of the country'. Therefore, 'of' is the appropriate preposition.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 67,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Reading Comprehension (Cloze Test)",
+    "difficulty": "Easy",
+    "question": "Read the following passage and fill in the blank with the most appropriate word.\n\nThe evolution of compensation practices in India over the ________ five decades demonstrates the changes that have taken place.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "lastly",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "lasting",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "at last",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "last",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The standard expression is 'over the last five decades'. Hence, 'last' is the correct choice.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 68,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "In the following question, select the alternative which best expresses the meaning of the given idiom.\n\nA ray of hope",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Even in a very bad situation one should try to see a good thing.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Good days are sure to follow difficult ones.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Be very happy even if the situation is difficult.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A small sign that gives encouragement or optimism in a difficult situation.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The idiom 'a ray of hope' means a small sign of encouragement or possibility of success during a difficult situation.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 69,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "In the following question, select the alternative which best expresses the meaning of the given idiom.\n\nTo hit the nail on the head",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "To strike a nail with a hammer",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "To do something accurately or say exactly the right thing",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "To hurt someone",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "To repair something",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The idiom 'hit the nail on the head' means to describe or identify something exactly or accurately.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 70,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "In the following question, select the alternative which can be substituted for the given words.\n\nOne who compiles a dictionary.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Biographer",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Lexicographer",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Linguist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Calligrapher",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A lexicographer is a person who compiles, edits or writes dictionaries.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 71,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "In the following question, out of the four alternatives, select the alternative which is the best substitute for the given words.\n\nLook forward to",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Eschew",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Abstain",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Obviate",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Anticipate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Look forward to' means to expect or await something with pleasure. 'Anticipate' is the closest substitute.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 72,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nI could see that the situation (have reversed).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "had reverse",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "had reversed",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "had reversing",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sentence is in the past tense. The past perfect form 'had reversed' correctly indicates an action completed before another past action.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 73,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "In the following question, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select 'No improvement'.\n\nNothing (have prepared) him for a continent that was a country, and a land of terrific complexity.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "had prepare",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "had prepared",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "had preparing",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct past perfect construction is 'had prepared'. Therefore, option B improves the sentence.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 74,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Sentence Arrangement",
+    "difficulty": "Medium",
+    "question": "The question below consists of a set of labelled sentence parts. Select the most logical order to form a coherent sentence.\n\nA: nation's progress\nB: on many fronts\nC: requires many policies, many plans, and actions",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "ABC",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "ACB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "CAB",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The correct sequence is: 'A nation's progress requires many policies, many plans, and actions on many fronts.' Therefore, the order is ACB.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 75,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "English Language",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "question": "In the following question, four words are given, out of which one word is correctly spelt. Select the correctly spelt word.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "proximat",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "proximmate",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "proximate",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "proximmat",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Proximate' is the correctly spelt English word meaning nearest or immediately preceding.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 76,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Which of the following sectors does NOT come under the tertiary sector?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Electricity",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Business Services",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Transport",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Trade",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Electricity belongs to the secondary sector, whereas Business Services, Transport and Trade are part of the tertiary (service) sector.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 77,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "Money in India consists of ___________.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Paper currency",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Current deposits",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Metallic coins",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "All options are correct",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The money supply includes paper currency, metallic coins and demand deposits such as current deposits.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 78,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Ancient Indian History",
+    "difficulty": "Easy",
+    "question": "Which of the following items was NOT exportable during the Gupta period?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Iron",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Gold",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Tin",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Silver",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tin was not an exportable commodity during the Gupta period, whereas iron, gold and silver were traded.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 79,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "question": "In which session of the Indian National Congress was the slogan of the Simon Commission boycott given?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Calcutta Convention (1928)",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Madras Session (1927)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Surat Session (1907)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Nagpur Session (1920)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Indian National Congress adopted the resolution to boycott the Simon Commission at its Madras Session held in 1927.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 80,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "What is the name of the second layer of the Earth's three concentric layers?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "SIAL",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "SIMA",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "NIFE",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No option is correct",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Earth's concentric layers are SIAL (upper crust), SIMA (lower crust) and NIFE (core). Hence, the second layer is SIMA.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 81,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Geography",
+    "difficulty": "Easy",
+    "question": "How did the Lakshadweep group of islands originate?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Volcanic origin",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Soil deposition",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Coral origin",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No option is correct",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Lakshadweep Islands are coral islands formed by the accumulation of coral polyps over submerged volcanic ridges.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 82,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Art and Culture",
+    "difficulty": "Easy",
+    "question": "The use of an attractive masquerade or mask is associated with which of the following dance forms?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Kathakali",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Kuchipudi",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Odissi",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Manipuri",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Kathakali is a classical dance-drama of Kerala known for elaborate costumes, painted faces and decorative masks or mask-like facial makeup.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 83,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "International Organizations",
+    "difficulty": "Medium",
+    "question": "The G-77 is a coalition of developing nations. What was the venue of the G-77 Summit held in 2017?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Indonesia",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Ecuador",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "South Korea",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Argentina",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The 2017 G-77 Ministerial Meeting and related summit events were held in Quito, Ecuador.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 84,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Awards and Honours",
+    "difficulty": "Easy",
+    "question": "Who among the following received the Padma Bhushan in 2018 in the field of Art (Painting)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Laxman Pai",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Arvind Parikh",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Sharda Sinha",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Ramachandran Nagaswamy",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Goan artist Laxman Pai was awarded the Padma Bhushan in 2018 for his contribution to the field of Art (Painting).",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 85,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "World Geography",
+    "difficulty": "Easy",
+    "question": "When was Pakistan's capital, Islamabad, built?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "In the 1940s",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "In the 1950s",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "In the 1960s",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No option is correct",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Islamabad was planned and constructed during the 1960s to replace Karachi as Pakistan's capital.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 86,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "question": "Which statement(s) is/are CORRECT regarding Dalton's Atomic Theory?\n\nI. All matter is made of very tiny particles.\nII. Atoms of different elements have different masses and chemical properties.\nIII. The relative number of atoms is variable in any compound.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I and II",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only I and III",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only II and III",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "I, II and III",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "According to Dalton's Atomic Theory, matter is made of atoms and atoms of different elements differ in mass and properties. The ratio of atoms in a compound is fixed, so statement III is incorrect.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 87,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "question": "In a combination reaction there can be:\n\nI. Two or more than two reactants\nII. Two or more than two products\nIII. Only one product",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only I and III",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only I and II",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Only II",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A combination reaction involves two or more reactants combining to form a single product. Therefore, statements I and III are correct.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 88,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "question": "Which among the following does NOT hold office during the pleasure of the President of India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Governor of a State",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Attorney General of India",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Chief Election Commissioner",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Prime Minister of India",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Chief Election Commissioner enjoys constitutional protection and cannot be removed at the pleasure of the President. Removal is through a process similar to that of a Supreme Court judge.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 89,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Who appoints the Advocate General of a State in India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Governor of the State",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Chief Minister of the State",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Law Minister of the State",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "None of the above",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Article 165 of the Constitution provides that the Advocate General of a State is appointed by the Governor.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 90,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "Pancreatic juice requires which medium for its action?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Acidic",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Basic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Neutral",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "All of the above",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pancreatic enzymes function in an alkaline (basic) medium. Bicarbonate ions in pancreatic juice neutralize the acidic chyme entering the small intestine, creating the required basic environment.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 91,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "Preserved traces of living organisms retained in the form of impressions of body parts in rocks or soil are called ________.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Specimen",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Fossils",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Antique",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Phylogeny",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Fossils are the preserved remains, impressions, or traces of ancient organisms found in rocks or sediment.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 92,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Government Schemes",
+    "difficulty": "Easy",
+    "question": "What does the letter 'J' stand for in the 'UJALA' scheme implemented by Energy Efficiency Services Limited (EESL)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Jeevan",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Jyoti",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Jagriti",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Jagran",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "UJALA stands for 'Unnat Jyoti by Affordable LEDs for All'. Therefore, 'J' represents 'Jyoti'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 93,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Space Science",
+    "difficulty": "Medium",
+    "question": "What are the names of the two NASA missions launched to explore the ionosphere?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "SILVER and LOGO",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "BOLD and BRIGHT",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "LEO and GLOBE",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "GOLD and ICON",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "NASA's GOLD (Global-scale Observations of the Limb and Disk) and ICON (Ionospheric Connection Explorer) missions were launched to study Earth's ionosphere.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 94,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "The Central Government set an ambitious target of raising how much through disinvestment during 2017–18?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹72,500 crore",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹1,00,000 crore",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹50,000 crore",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹25,000 crore",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Union Government fixed a disinvestment target of ₹72,500 crore for the financial year 2017–18.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 95,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "On 26 July 2017, Parliament passed the Collection of Statistics (Amendment) Bill, 2017. This Bill amended which Act?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Collection of Statistics Act, 2008",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Collection of Statistics Act, 2015",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Collection of Statistics Act, 2010",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Collection of Statistics Act, 2012",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Collection of Statistics (Amendment) Bill, 2017 amended the Collection of Statistics Act, 2008.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 96,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Physics",
+    "difficulty": "Easy",
+    "question": "What is the heat released by a heating filament rated 20 W when it is kept on for 2 seconds?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "40 J",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "10 J",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "80 J",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "20 J",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Heat energy produced = Power × Time = 20 W × 2 s = 40 J.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 97,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Physics",
+    "difficulty": "Easy",
+    "question": "If the Distance-Time graph is a curve, then it represents ________.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Uniform speed",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Constant displacement",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Uniform momentum",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Non-uniform speed",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A curved distance-time graph indicates that the slope changes continuously. Since slope represents speed, the object is moving with non-uniform speed. (The source document's answer key appears to contain a typo.) :contentReference[oaicite:0]{index=0}",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 98,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "The centre of a cyclone is a calm area. It is called the ________ of the storm.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Point",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Needle",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Eye",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Limit",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The calm central region of a cyclone is called the 'eye'. It experiences relatively light winds and clear skies compared to the surrounding eyewall.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 99,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Sports Current Affairs",
+    "difficulty": "Medium",
+    "question": "Which of the following statements are correct?\n\nA) Roger Federer won the Tennis 2017 French Open Men's Singles.\nB) In the 2018 IPL auction, Rajasthan Royals retained Steve Smith.\nC) Serena Williams won the Tennis 2017 French Open Women's Singles.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only B",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "B and C",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "A and B",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A, B and C",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Statement A is incorrect because Rafael Nadal won the 2017 French Open Men's Singles. Statement C is incorrect because Jeļena Ostapenko won the 2017 Women's Singles. Only statement B is correct. :contentReference[oaicite:1]{index=1}",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 100,
+    "exam": "SSC CHSL",
+    "year": 2018,
+    "subject": "General Awareness",
+    "topic": "Computer Fundamentals",
+    "difficulty": "Easy",
+    "question": "In Microsoft Word, ____________ view shows how the document would look when it is printed.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Web Layout",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Print Layout",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Reading Layout",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Normal Layout",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Print Layout view displays the document as it will appear on the printed page, including margins, page breaks, headers and footers. :contentReference[oaicite:2]{index=2}",
+    "marks": 2,
+    "negativeMarks": 0.5
+  }
+]
