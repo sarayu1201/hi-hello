@@ -1134,193 +1134,110 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 19,
-    "unique_id": "ibps_po_prelims_test10_19",
-    "content_hash": "953675fbf53e569c",
-    "display_question_number": 19,
-    "question_number": 19,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 10",
-    "paper_name": "IBPS PO Prelims - Test 10",
-    "test_title": "IBPS PO Prelims - Test 10",
-    "test_id": "ibps_po_prelims_test10",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "pastors’ churches, John finally has (A)/ after spending fifteen years as (B)/ his own house \nof worship (C)/ an itinerant preacher at other (D) \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
-    "q": "pastors’ churches, John finally has (A)/ after spending fifteen years as (B)/ his own house \nof worship (C)/ an itinerant preacher at other (D) \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "questionImage": null,
     "options": [
       {
-        "id": "a",
-        "text": "BACD",
+        "id": "A",
+        "text": "was pleased with",
         "image": null
       },
       {
-        "id": "b",
-        "text": "BDAC",
+        "id": "B",
+        "text": "the performance of the team",
         "image": null
       },
       {
-        "id": "c",
-        "text": "DBCA",
+        "id": "C",
+        "text": "and give them a bonus",
         "image": null
       },
       {
-        "id": "d",
-        "text": "CDAB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement needed",
+        "id": "D",
+        "text": "No error",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test10.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "C",
+    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 19
   },
   {
-    "id": 20,
-    "unique_id": "ibps_po_prelims_test10_20",
-    "content_hash": "3093d9591331a026",
-    "display_question_number": 20,
-    "question_number": 20,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 10",
-    "paper_name": "IBPS PO Prelims - Test 10",
-    "test_title": "IBPS PO Prelims - Test 10",
-    "test_id": "ibps_po_prelims_test10",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "the proliferation of technology (A)/ over the last 100 years has (B) /happened so quickly \nand (C)/ caused many societal changes (D). \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
-    "q": "the proliferation of technology (A)/ over the last 100 years has (B) /happened so quickly \nand (C)/ caused many societal changes (D). \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**ABUNDANT**",
     "options": [
       {
-        "id": "a",
-        "text": "BCDA",
+        "id": "A",
+        "text": "Scarce",
         "image": null
       },
       {
-        "id": "b",
-        "text": "BADC",
+        "id": "B",
+        "text": "Plentiful",
         "image": null
       },
       {
-        "id": "c",
-        "text": "CABD",
+        "id": "C",
+        "text": "Rare",
         "image": null
       },
       {
-        "id": "d",
-        "text": "CDAB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement needed",
+        "id": "D",
+        "text": "Deficient",
         "image": null
       }
     ],
-    "correct_option": "E",
-    "correct_answer": "E",
-    "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option E represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test10.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "'Abundant' means existing or available in large quantities; overflowing or rich. 'Plentiful' is its direct synonym. 'Scarce', 'Rare', and 'Deficient' are antonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 20
   },
   {
-    "id": 21,
-    "unique_id": "ibps_po_prelims_test10_21",
-    "content_hash": "a6ce98e6aa7689e7",
-    "display_question_number": 21,
-    "question_number": 21,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 10",
-    "paper_name": "IBPS PO Prelims - Test 10",
-    "test_title": "IBPS PO Prelims - Test 10",
-    "test_id": "ibps_po_prelims_test10",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "focusing on the betterment (A)/ to private school (B)/ worked two jobs to send him (C)/ of \nher son’s life, the mother (D). \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
-    "q": "focusing on the betterment (A)/ to private school (B)/ worked two jobs to send him (C)/ of \nher son’s life, the mother (D). \nIn the given question, each sentence is divided into four parts, which are may or may not be \narranged in the correct order. Choose the order of the arrangement from the options that will \nprovide correct meaning to the sentence. If the sentence is already correctly arranged, choose \n“No rearrangement needed”.",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "Select the antonym of the given word.\n\n**HOSTILE**",
     "options": [
       {
-        "id": "a",
-        "text": "ADCB",
+        "id": "A",
+        "text": "Friendly",
         "image": null
       },
       {
-        "id": "b",
-        "text": "DBCA",
+        "id": "B",
+        "text": "Adverse",
         "image": null
       },
       {
-        "id": "c",
-        "text": "BDAC",
+        "id": "C",
+        "text": "Antagonistic",
         "image": null
       },
       {
-        "id": "d",
-        "text": "CDAB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement needed",
+        "id": "D",
+        "text": "Unfavorable",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option A represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test10.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "A",
+    "explanation": "'Hostile' means unfriendly, antagonistic, or opposed. The opposite of hostile is 'Friendly'. 'Adverse', 'Antagonistic', and 'Unfavorable' are synonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 21
   },
   {
     "id": 22,
@@ -1386,67 +1303,39 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 23,
-    "unique_id": "ibps_po_prelims_test10_23",
-    "content_hash": "857207f0cbc30488",
-    "display_question_number": 23,
-    "question_number": 23,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 10",
-    "paper_name": "IBPS PO Prelims - Test 10",
-    "test_title": "IBPS PO Prelims - Test 10",
-    "test_id": "ibps_po_prelims_test10",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "Preventive",
-    "q": "Preventive",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n**A person who presents a radio or television program**",
     "options": [
       {
-        "id": "a",
-        "text": "measures must be taken to make sure that current",
+        "id": "A",
+        "text": "Actor",
         "image": null
       },
       {
-        "id": "b",
-        "text": "investments",
+        "id": "B",
+        "text": "Anchor",
         "image": null
       },
       {
-        "id": "c",
-        "text": "do \nnot fail like the future(D) ones. \nEach question has four words given in bold which may or may not be arranged in the correct \norder and need an interchange between them. Choose the interchange required to make the \nsentence grammatically and contextually correct. \n(a) Only (A)-(C) \n(b) Only (B)-(D) \n(c) Only (A)-(C) and (B)-(D)",
+        "id": "C",
+        "text": "Compere",
         "image": null
       },
       {
-        "id": "d",
-        "text": "Only (A)-(D) and (B)-(C)",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No interchange needed",
+        "id": "D",
+        "text": "Journalist",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test10.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "An 'Anchor' is a person who presents a radio or television program. A 'Compere' is a person who introduces the performers in a variety show. Hence, Anchor is the correct choice.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 23
   },
   {
     "id": 24,
@@ -1701,67 +1590,39 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 28,
-    "unique_id": "ibps_po_prelims_test10_28",
-    "content_hash": "8be48ed5634ea6cd",
-    "display_question_number": 28,
-    "question_number": 28,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 10",
-    "paper_name": "IBPS PO Prelims - Test 10",
-    "test_title": "IBPS PO Prelims - Test 10",
-    "test_id": "ibps_po_prelims_test10",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "After hiding",
-    "q": "After hiding",
+    "topic": "Idioms & Phrases",
+    "difficulty": "Medium",
+    "question": "Select the most appropriate meaning of the given idiom.\n\n**Spill the beans**",
     "options": [
       {
-        "id": "a",
-        "text": "of hours (B), the police found the thief searching (C) in the bushes. \nIn the following questions, three words have been highlighted. These words may or may not be \nat their correct position. Following each question four possible arrangements are provided. \nChoose the arrangement that will make the given sentence contextually meaningful and \ngrammatically correct as your answer. \n(a) ACB",
+        "id": "A",
+        "text": "To drop something by mistake",
         "image": null
       },
       {
-        "id": "b",
-        "text": "BAC",
+        "id": "B",
+        "text": "To reveal a secret prematurely",
         "image": null
       },
       {
-        "id": "c",
-        "text": "BCA",
+        "id": "C",
+        "text": "To work very hard",
         "image": null
       },
       {
-        "id": "d",
-        "text": "CAB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "To waste food",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option C represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test10.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "The idiom 'Spill the beans' means to disclose secret information, often unintentionally or prematurely. Hence, option B is the correct interpretation.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 28
   },
   {
     "id": 29,
@@ -1909,27 +1770,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -1972,27 +1833,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -2035,27 +1896,27 @@
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$7:4$$$$$$$$$",
+        "text": "$$$$7:4$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$7:3$$$$$$$$$",
+        "text": "$$$$7:3$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$4:3$$$$$$$$$",
+        "text": "$$$$4:3$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$7:2$$$$$$$$$",
+        "text": "$$$$7:2$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$5:3$$$$$$$$$",
+        "text": "$$$$5:3$$$$",
         "image": null
       }
     ],
@@ -2093,32 +1954,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "In shop F, total number of pens (red & green) are two times the total number of green pens \nin bag C and the ratio of green pen to red pen in bag F is $$$$$$$$$3:5$$$$$$$$$, then find the number of red pens in \nbag F? \nThe line graph given below shows the total number of pens (red & green) in five different bags \n(A, B, C, D and E) and number of green pen in these bags. Read the line graph carefully and answer \nthe question given below.",
+    "question": "In shop F, total number of pens (red & green) are two times the total number of green pens \nin bag C and the ratio of green pen to red pen in bag F is $$$$3:5$$$$, then find the number of red pens in \nbag F? \nThe line graph given below shows the total number of pens (red & green) in five different bags \n(A, B, C, D and E) and number of green pen in these bags. Read the line graph carefully and answer \nthe question given below.",
     "q": "In shop F, total number of pens (red & green) are two times the total number of green pens \nin bag C and the ratio of green pen to red pen in bag F is 3:5, then find the number of red pens in \nbag F? \nThe line graph given below shows the total number of pens (red & green) in five different bags \n(A, B, C, D and E) and number of green pen in these bags. Read the line graph carefully and answer \nthe question given below.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$110$",
         "image": null
       }
     ],
@@ -2219,32 +2080,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The sum of perimeter of a rectangle and circumference of a circle is 168 cm. If the ratio of \nlength to breadth of the rectangle is $$$$$$$$$4:1$$$$$$$$$ and radius of the circle is 75% more than breadth of the \nrectangle. Find the difference between area of the rectangle and the circle (in cm square)?",
+    "question": "The sum of perimeter of a rectangle and circumference of a circle is 168 cm. If the ratio of \nlength to breadth of the rectangle is $$$$4:1$$$$ and radius of the circle is 75% more than breadth of the \nrectangle. Find the difference between area of the rectangle and the circle (in cm square)?",
     "q": "The sum of perimeter of a rectangle and circumference of a circle is 168 cm. If the ratio of \nlength to breadth of the rectangle is 4 : 1 and radius of the circle is 75% more than breadth of the \nrectangle. Find the difference between area of the rectangle and the circle (in cm square)?",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -2413,27 +2274,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$110$",
         "image": null
       }
     ],
@@ -2471,32 +2332,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Uday and Amir entered into partnership business. Amir invested Rs. 1600 for whole year \nand Uday invested Rs. 1200 for first six months and withdraw $\\frac{1}{4}$thth of his capital and invested \nremaining amount for next ‘x’ month. If Uday and Amir got profit in the ratio of $$$$$$$$$9:16$$$$$$$$$. Find the \nvalue of $x$?",
+    "question": "Uday and Amir entered into partnership business. Amir invested Rs. 1600 for whole year \nand Uday invested Rs. 1200 for first six months and withdraw $\\frac{1}{4}$thth of his capital and invested \nremaining amount for next ‘x’ month. If Uday and Amir got profit in the ratio of $$$$9:16$$$$. Find the \nvalue of $x$?",
     "q": "Uday and Amir entered into partnership business. Amir invested Rs. 1600 for whole year \nand Uday invested Rs. 1200 for first six months and withdraw 1/4thth of his capital and invested \nremaining amount for next ‘x’ month. If Uday and Amir got profit in the ratio of 9 : 16. Find the \nvalue of x?",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -2534,7 +2395,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Total gyms in city X are $\\frac{3}{4}$th of total gyms in P and total clubs in city X are 80% more than \ntotal gyms in R. Find total gyms and clubs in city X are what percent of total clubs in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$$$$$$4:3$$$$$$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$$$$$$9:4$$$$$$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
+    "question": "Total gyms in city X are $\\frac{3}{4}$th of total gyms in P and total clubs in city X are 80% more than \ntotal gyms in R. Find total gyms and clubs in city X are what percent of total clubs in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$4:3$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$9:4$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
     "q": "Total gyms in city X are 3/4th of total gyms in P and total clubs in city X are 80% more than \ntotal gyms in R. Find total gyms and clubs in city X are what percent of total clubs in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is 4 : 3 and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is 9 : 4. Total clubs and gyms in city P is 240. Total gyms \nin R are 5/4th of total clubs in the same city.",
     "options": [
       {
@@ -2597,32 +2458,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the difference between total clubs in Q and total gyms in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$$$$$$4:3$$$$$$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$$$$$$9:4$$$$$$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
+    "question": "Find the difference between total clubs in Q and total gyms in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$4:3$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$9:4$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
     "q": "Find the difference between total clubs in Q and total gyms in R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is 4 : 3 and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is 9 : 4. Total clubs and gyms in city P is 240. Total gyms \nin R are 5/4th of total clubs in the same city.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -2660,32 +2521,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the total number of gyms in all three cities P, Q and R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$$$$$$4:3$$$$$$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$$$$$$9:4$$$$$$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
+    "question": "Find the total number of gyms in all three cities P, Q and R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$4:3$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$9:4$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
     "q": "Find the total number of gyms in all three cities P, Q and R? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is 4 : 3 and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is 9 : 4. Total clubs and gyms in city P is 240. Total gyms \nin R are 5/4th of total clubs in the same city.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$115$",
         "image": null
       }
     ],
@@ -2723,32 +2584,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the ratio of total gyms in R to total clubs in P and Q together? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$$$$$$4:3$$$$$$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$$$$$$9:4$$$$$$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
+    "question": "Find the ratio of total gyms in R to total clubs in P and Q together? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is $$$$4:3$$$$ and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is $$$$9:4$$$$. Total clubs and gyms in city P is 240. Total gyms \nin R are $\\frac{5}{4}$th of total clubs in the same city.",
     "q": "Find the ratio of total gyms in R to total clubs in P and Q together? \nRead the information carefully and answer the questions given below. \nThere are three cities P, Q and R in which there are some clubs & gyms. The ratio of clubs in P to \nthat of R is 4 : 3 and total clubs in all three cities are 255. Total gyms in city P and Q are 320 and \nratio of total gyms in Q to total clubs in P is 9 : 4. Total clubs and gyms in city P is 240. Total gyms \nin R are 5/4th of total clubs in the same city.",
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$16:69$$$$$$$$$",
+        "text": "$$$$16:69$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$20:69$$$$$$$$$",
+        "text": "$$$$20:69$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$22:69$$$$$$$$$",
+        "text": "$$$$22:69$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$22:67$$$$$$$$$",
+        "text": "$$$$22:67$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$20:67$$$$$$$$$",
+        "text": "$$$$20:67$$$$",
         "image": null
       }
     ],
@@ -2786,32 +2647,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The ratio of present age of A to B’s is $$$$$$$$$3:2$$$$$$$$$. Five years ago, A age was twice than that of B age \nat that time. Five years hence, sum of ages of A and B is equal to C age at that time. Find present \nage of C (in years)?",
+    "question": "The ratio of present age of A to B’s is $$$$3:2$$$$. Five years ago, A age was twice than that of B age \nat that time. Five years hence, sum of ages of A and B is equal to C age at that time. Find present \nage of C (in years)?",
     "q": "The ratio of present age of A to B’s is 3 : 2. Five years ago, A age was twice than that of B age \nat that time. Five years hence, sum of ages of A and B is equal to C age at that time. Find present \nage of C (in years)?",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -2912,32 +2773,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A 180 meters long train crosses another train having length 270 m in $\\frac{54}{5}$ seconds by \nrunning towards each other. If the ratio of speed of the first train to second train is $$$$$$$$$2:3$$$$$$$$$, then find \nthe time taken by 2nd train to cross first train if both running in the same direction?",
+    "question": "A 180 meters long train crosses another train having length 270 m in $\\frac{54}{5}$ seconds by \nrunning towards each other. If the ratio of speed of the first train to second train is $$$$2:3$$$$, then find \nthe time taken by 2nd train to cross first train if both running in the same direction?",
     "q": "A 180 meters long train crosses another train having length 270 m in 54/5 seconds by \nrunning towards each other. If the ratio of speed of the first train to second train is 2 : 3, then find \nthe time taken by 2nd train to cross first train if both running in the same direction?",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -2975,7 +2836,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A container has a mixture of milk and water in the ratio $$$$$$$$$4:1$$$$$$$$$. If ‘x’ liters of milk are added to \nthe mixture, the ratio becomes $$$$$$$$$5:1$$$$$$$$$, while ‘y’ liters of water are added, the ratio becomes $$$$$$$$$3:1$$$$$$$$$. If \nthe sum of x and y is 20 liters, then find the quantity of the original mixture.",
+    "question": "A container has a mixture of milk and water in the ratio $$$$4:1$$$$. If ‘x’ liters of milk are added to \nthe mixture, the ratio becomes $$$$5:1$$$$, while ‘y’ liters of water are added, the ratio becomes $$$$3:1$$$$. If \nthe sum of x and y is 20 liters, then find the quantity of the original mixture.",
     "q": "A container has a mixture of milk and water in the ratio 4:1. If ‘x’ liters of milk are added to \nthe mixture, the ratio becomes 5:1, while ‘y’ liters of water are added, the ratio becomes 3:1. If \nthe sum of x and y is 20 liters, then find the quantity of the original mixture.",
     "options": [
       {
@@ -3106,27 +2967,27 @@
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$57:52$$$$$$$$$",
+        "text": "$$$$57:52$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$57:53$$$$$$$$$",
+        "text": "$$$$57:53$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$59:53$$$$$$$$$",
+        "text": "$$$$59:53$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$57:58$$$$$$$$$",
+        "text": "$$$$57:58$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$57:59$$$$$$$$$",
+        "text": "$$$$57:59$$$$",
         "image": null
       }
     ],
@@ -3169,27 +3030,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -3232,27 +3093,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -3358,27 +3219,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -3736,27 +3597,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -3799,27 +3660,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -3862,27 +3723,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -3925,27 +3786,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -3988,27 +3849,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -4051,27 +3912,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$110$",
         "image": null
       }
     ],

@@ -83,7 +83,7 @@
     "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
-    "question": "Select the related word/letters/numbers from the given alternatives:$12:20$::30: ?",
+    "question": "Select the related word/letters/numbers from the given alternatives:$$$12:20$$$::30: ?",
     "questionImage": null,
     "options": [
       {
@@ -108,7 +108,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Expression =$12:20$::30: ? \nThe pattern followed is =$3 \\times 4 = 12$$4 \\times 5 = 20$$5 \\times 6 = 30$$6 \\times 7 = 42$",
+    "explanation": "Expression =$$$12:20$$$::30: ? \nThe pattern followed is =$3 \\times 4 = 12$$4 \\times 5 = 20$$5 \\times 6 = 30$$6 \\times 7 = 42$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -240,27 +240,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$4,5,2,3,1$",
+        "text": "$$$4,5,2,3,1$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5,4,3,2,1$",
+        "text": "$$$5,4,3,2,1$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$5,3,4,1,2$",
+        "text": "$$$5,3,4,1,2$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4,1,2,3,5$",
+        "text": "$$$4,1,2,3,5$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "As per the dictionary, \n= Submerge -> Synarchy -> Syncretism -> Syphilis -> Syringe\n≡$5,4,3,2,1$",
+    "explanation": "As per the dictionary, \n= Submerge -> Synarchy -> Syncretism -> Syphilis -> Syringe\n≡$$$5,4,3,2,1$$$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -311,7 +311,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Which number will complete the series?$6,8,17,19,28,30$, ?",
+    "question": "Which number will complete the series?$$$6,8,17,19,28,30$$$, ?",
     "questionImage": null,
     "options": [
       {
@@ -336,7 +336,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The numbers '2' and '9' are alternatively added.$6 + 2 = 8$$8 + 9 = 17$$17 + 2 = 19$$19 + 9 = 28$$28 + 2 = 30$$30 + 9 = 39$",
+    "explanation": "The numbers '2' and '9' are alternatively added.$$$6 + 2 = 8$$$$$$8 + 9 = 17$$$$$$17 + 2 = 19$$$$$$19 + 9 = 28$$$$$$28 + 2 = 30$$$$$$30 + 9 = 39$$$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -526,7 +526,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Expression : 28B7P8T6M4 = ? \n≡$28 \\div 7 \\times 8$−$6 + 4 = 4$\\times 8$−2 \n= 32 −2 = 30",
+    "explanation": "Expression : 28B7P8T6M4 = ? \n≡$28 \\div 7 \\times 8$−$$$6 + 4 = 4$$$\\times 8$−2 \n= 32 −2 = 30",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -924,27 +924,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$96,32,34,68$",
+        "text": "$$$96,32,34,68$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$77,13,69,75$",
+        "text": "$$$77,13,69,75$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$65,21,58,99$",
+        "text": "$$$65,21,58,99$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$89,44,30,87$",
+        "text": "$$$89,44,30,87$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "(A) :$96,32,34,68$= NESK \n(B) :$77,13,69,75$= NEUK \n(C) :$65,21,58,99$= NONK \n(D) :$89,44,30,87$= NECK \n=> Ans - (D) \n\nMathematics",
+    "explanation": "(A) :$$$96,32,34,68$$$= NESK \n(B) :$$$77,13,69,75$$$= NEUK \n(C) :$$$65,21,58,99$$$= NONK \n(D) :$$$89,44,30,87$$$= NECK \n=> Ans - (D) \n\nMathematics",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -957,7 +957,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "The value of$\\sqrt{$9 - 2$\\sqrt{16} + 3\\sqrt[3]{512} }$is:",
+    "question": "The value of$\\sqrt{$$$9 - 2$$$\\sqrt{16} + 3\\sqrt[3]{512} }$is:",
     "questionImage": null,
     "options": [
       {
@@ -982,7 +982,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Expression:$\\sqrt{$9 - 2$\\sqrt{16} + 3\\sqrt[3]{512} }$$= \\sqrt{$9 - 2$(4) + 3(8) }$$= \\sqrt{$9 - 8 + 24$}$$= \\sqrt{25} = 5.$",
+    "explanation": "Expression:$\\sqrt{$$$9 - 2$$$\\sqrt{16} + 3\\sqrt[3]{512} }$$= \\sqrt{$$$9 - 2$$$(4) + 3(8) }$$= \\sqrt{$$$9 - 8 + 24$$$}$$= \\sqrt{25} = 5.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1019,7 +1019,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The diagonals of a rhombus bisect each other at right angles.\nLet$ABCD$be the rhombus with diagonals intersecting at$O$.\n*$OB = \\frac{24}{2} = 12\\text{ cm}$*$OA = \\frac{10}{2} = 5\\text{ cm}$In right-angled$\\triangle OAB$:$AB^2 = OA^2 + OB^2$$AB^2 = 5^$2 + 12$^2 =$25 + 144 = 169$$AB$= \\sqrt{169} = 13\\$text{ cm}$Perimeter of the rhombus:$\\text{Perimeter} = 4 \\times AB = 4 \\times 13 = 52\\text{ cm}.$",
+    "explanation": "The diagonals of a rhombus bisect each other at right angles.\nLet$ABCD$be the rhombus with diagonals intersecting at$O$.\n*$OB = \\frac{24}{2} = 12\\text{ cm}$*$OA = \\frac{10}{2} = 5\\text{ cm}$In right-angled$\\triangle OAB$:$AB^2 = OA^2 + OB^2$$AB^2 = 5^$$$2 + 12$$$^2 =$$$25 + 144 = 169$$$$AB$= \\sqrt{169} = 13\\$text{ cm}$Perimeter of the rhombus:$\\text{Perimeter} = 4 \\times AB = 4 \\times 13 = 52\\text{ cm}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1056,7 +1056,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The dealer gives$875\\text{ g}$instead of$1000\\text{ g}$.\n\nProfit on cost weight:$\\text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100$$= \\frac{1000 - 950}{950} \\times 100$$= \\frac{50}{950} \\times 100$$= \\frac{1}{19} \\times 100 = 5\\frac{5}{19}\\%.$",
+    "explanation": "The dealer gives$875\\text{ g}$instead of$1000\\text{ g}$.\n\nProfit on cost weight:$\\text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100$$= \\frac{$$1000 - 950$$}{950} \\times 100$$= \\frac{50}{950} \\times 100$$= \\frac{1}{19} \\times 100 = 5\\frac{5}{19}\\%.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1068,7 +1068,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ages",
     "difficulty": "Medium",
-    "question": "Ratio of A's age to B's age is$4:3$. 'A' will be 26 years old after 6 years. The age of B now is",
+    "question": "Ratio of A's age to B's age is$$$4:3$$$. 'A' will be 26 years old after 6 years. The age of B now is",
     "questionImage": null,
     "options": [
       {
@@ -1093,7 +1093,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "It is given that A will be 26 years old after 6 \nyears \n=> A's present age =$26 - 6 = 20$years \nAlso, ratio of A : B present ages =$4:3$=> B's present age = \n3 4 \n× \n\n=$3 \\times 5 = 15$years",
+    "explanation": "It is given that A will be 26 years old after 6 \nyears \n=> A's present age =$$$26 - 6 = 20$$$years \nAlso, ratio of A : B present ages =$$$4:3$$$=> B's present age = \n3 4 \n× \n\n=$3 \\times 5 = 15$years",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1130,7 +1130,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The arithmetic mean of 7, 5, 13,$x$, and 9 is 10:$\\frac{$7 + 5 + 13$+ x + 9}{5} = 10$$34 + x = 50$$x =$50 - 34 = 16.$",
+    "explanation": "The arithmetic mean of 7, 5, 13,$x$, and 9 is 10:$\\frac{$$$7 + 5 + 13$$$+ x + 9}{5} = 10$$34 + x = 50$$x =$$$50 - 34 = 16.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1204,7 +1204,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let A's initial salary be$100$.\n* After decreasing by 50%, new salary$= 50$.\n* After increasing by 50% of the new salary, final salary$=$50 + 50$\\% \\text{ of } 50 =$50 + 25 = 75$.\n\nNet loss percentage is:$$\\frac{100 - 75}{100} \\$times 100 = 25\\%.$",
+    "explanation": "Let A's initial salary be$100$.\n* After decreasing by 50%, new salary$= 50$.\n* After increasing by 50% of the new salary, final salary$=$$$50 + 50$$$\\% \\text{ of } 50 =$$$50 + 25 = 75$$$.\n\nNet loss percentage is:$$\\frac{$$100 - 75$$}{100} \\$times 100 = 25\\%.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1290,7 +1290,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If$x = \\frac{1}{\\sqrt{2}+1}$, then the value of$x^$2 + 2$x - 1$is:",
+    "question": "If$x = \\frac{1}{\\sqrt{2}+1}$, then the value of$x^$$$2 + 2$$$x - 1$is:",
     "questionImage": null,
     "options": [
       {
@@ -1315,7 +1315,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Rationalizing$x$:$x = \\frac{1}{\\sqrt{2}+1} \\times \\frac{\\sqrt{2}-1}{\\sqrt{2}-1} = \\frac{\\sqrt{2}-1}{2-1} = \\sqrt{2}-1$$x + 1 = \\sqrt{2}$Squaring both sides:$(x + 1)^2 = (\\sqrt{2})^2$$x^$2 + 2$x + 1 = 2$$x^$2 + 2$x - 1 = 0.$",
+    "explanation": "Rationalizing$x$:$x = \\frac{1}{\\sqrt{2}+1} \\times \\frac{\\sqrt{2}-1}{\\sqrt{2}-1} = \\frac{\\sqrt{2}-1}{$$2-1$$} = \\sqrt{2}-1$$x + 1 = \\sqrt{2}$Squaring both sides:$(x + 1)^2 = (\\sqrt{2})^2$$x^$$$2 + 2$$$x + 1 = 2$$x^$$$2 + 2$$$x - 1 = 0.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1327,7 +1327,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If$x + \\frac{1}{x} = \\sqrt{13}$, then what is the value of$\\frac{3x}{x^$2-1$}$?",
+    "question": "If$x + \\frac{1}{x} = \\sqrt{13}$, then what is the value of$\\frac{3x}{x^$$$2-1$$$}$?",
     "questionImage": null,
     "options": [
       {
@@ -1352,7 +1352,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given:$x + \\frac{1}{x} = \\sqrt{13}$Squaring both sides:$\\left(x + \\frac{1}{x}\\right)^2 = 13$$x^2 + \\frac{1}{x^2} + 2 = 13 \\implies x^2 + \\frac{1}{x^2} = 11 \\quad \\text{---(i)}$Also:$\\left(x - \\frac{1}{x}\\right)^2 = x^2 + \\frac{1}{x^2} - 2$$\\left(x - \\frac{1}{x}\\right)^2 =$11 - 2 = 9$$$x - \\frac{1}{x} = 3$$$\\frac{x^$2 - 1$}{x} = 3 \\implies x^$2 - 1 = 3$x$Therefore:$\\frac{3x}{x^$2 - 1$}$= \\frac{3x}{3x} = 1.$$",
+    "explanation": "Given:$x + \\frac{1}{x} = \\sqrt{13}$Squaring both sides:$\\left(x + \\frac{1}{x}\\right)^2 = 13$$x^2 + \\frac{1}{x^2} + 2 = 13 \\implies x^2 + \\frac{1}{x^2} = 11 \\quad \\text{---(i)}$Also:$\\left(x - \\frac{1}{x}\\right)^2 = x^2 + \\frac{1}{x^2} - 2$$\\left(x - \\frac{1}{x}\\right)^2 =$$$11 - 2 = 9$$$$$x - \\frac{1}{x} = 3$$$\\frac{x^$$$2 - 1$$$}{x} = 3 \\implies x^$$$2 - 1 = 3$$$x$Therefore:$\\frac{3x}{x^$$$2 - 1$$$}$= \\frac{3x}{3x} = 1.$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1389,7 +1389,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The radius of a circle intersects the tangent at a right angle, so$\\angle OTP = 90^\\circ$where$T$is the point of contact.\n\nIn right-angled$\\triangle OPT$:$PT^2 = OP^2 - OT^2$$PT^2 = 13^$2 - 5$^2 =$169 - 25 = 144$$PT$= \\sqrt{144} = 12\\$text{ cm}.$",
+    "explanation": "The radius of a circle intersects the tangent at a right angle, so$\\angle OTP = 90^\\circ$where$T$is the point of contact.\n\nIn right-angled$\\triangle OPT$:$PT^2 = OP^2 - OT^2$$PT^2 = 13^$$$2 - 5$$$^2 =$$$169 - 25 = 144$$$$PT$= \\sqrt{144} = 12\\$text{ cm}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1463,7 +1463,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "18 men$\\equiv$36 boys$\\implies 1\\text{ man} \\equiv 2\\text{ boys}$.\n\nTherefore, 24 men and 24 boys is equivalent to:$24 \\times$2 + 24 = 72$\\text{ boys}$Using the work formula$M_1 D_1 H_1 = M_2 D_2 H_2$:$36\\text{ boys} \\times 24\\text{ days} \\times 6\\text{ hours} = 72\\text{ boys} \\times D_2 \\times 9\\text{ hours}$$36 \\times 24 \\times 6 = 72 \\times D_2 \\times 9$$24 \\times 3 = 9 \\times D_2 \\implies 72 = 9 D_2 \\implies D_2 = 8\\text{ days}.$",
+    "explanation": "18 men$\\equiv$36 boys$\\implies 1\\text{ man} \\equiv 2\\text{ boys}$.\n\nTherefore, 24 men and 24 boys is equivalent to:$24 \\times$$$2 + 24 = 72$$$\\text{ boys}$Using the work formula$M_1 D_1 H_1 = M_2 D_2 H_2$:$36\\text{ boys} \\times 24\\text{ days} \\times 6\\text{ hours} = 72\\text{ boys} \\times D_2 \\times 9\\text{ hours}$$36 \\times 24 \\times 6 = 72 \\times D_2 \\times 9$$24 \\times 3 = 9 \\times D_2 \\implies 72 = 9 D_2 \\implies D_2 = 8\\text{ days}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1500,7 +1500,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Given:$a(x + y) = 2ab \\implies x + y = 2b$$b(x - y) = 2ab \\implies x - y = 2a$Squaring both equations:$(x + y)^2 = 4b^2 \\implies x^2 + y^$2 + 2$xy = 4b^2$$(x - y)^2 = 4a^2 \\implies x^2 + y^$2 - 2$xy = 4a^2$Adding these two equations:$2(x^2 + y^2) = 4(a^2 + b^2).$",
+    "explanation": "Given:$a(x + y) = 2ab \\implies x + y = 2b$$b(x - y) = 2ab \\implies x - y = 2a$Squaring both equations:$(x + y)^2 = 4b^2 \\implies x^2 + y^$$$2 + 2$$$xy = 4b^2$$(x - y)^2 = 4a^2 \\implies x^2 + y^$$$2 - 2$$$xy = 4a^2$Adding these two equations:$2(x^2 + y^2) = 4(a^2 + b^2).$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1574,7 +1574,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In an equilateral triangle with side$a = 9\\text{ cm}$:\n* Median/Altitude$AD = \\frac{\\sqrt{3}}{2} a = \\frac{\\sqrt{3}}{2} \\times 9 = 4.5\\sqrt{3}\\text{ cm}$Since$G$is the centroid, it divides the median$AD$in the ratio$2:1$from the vertex:$AG = \\frac{2}{3} AD = \\frac{2}{3} \\times \\frac{9\\sqrt{3}}{2} = 3\\sqrt{3}\\text{ cm}.$",
+    "explanation": "In an equilateral triangle with side$a = 9\\text{ cm}$:\n* Median/Altitude$AD = \\frac{\\sqrt{3}}{2} a = \\frac{\\sqrt{3}}{2} \\times 9 = 4.5\\sqrt{3}\\text{ cm}$Since$G$is the centroid, it divides the median$AD$in the ratio$$$2:1$$$from the vertex:$AG = \\frac{2}{3} AD = \\frac{2}{3} \\times \\frac{9\\sqrt{3}}{2} = 3\\sqrt{3}\\text{ cm}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1722,7 +1722,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the bridge be at point$A$at height$AC = 2.5\\text{ m}$above the river bed$BD$. The banks on opposite sides are$B$and$D$.\n\nIn right-angled$\\triangle ACD$:$\\tan 45^\\circ = \\frac{AC}{CD} \\implies 1 = \\frac{2.5}{CD} \\implies CD = 2.5\\text{ m}$In right-angled$\\triangle ACB$:$\\tan 30^\\circ = \\frac{AC}{BC} \\implies \\frac{1}{\\sqrt{3}} = \\frac{2.5}{BC} \\implies BC = 2.5\\sqrt{3} = 2.5 \\times 1.732 = 4.33\\text{ m}$Width of the river:$BD = BC + CD =$4.33 + 2.5 = 6.83$\\text{ m}.$",
+    "explanation": "Let the bridge be at point$A$at height$AC = 2.5\\text{ m}$above the river bed$BD$. The banks on opposite sides are$B$and$D$.\n\nIn right-angled$\\triangle ACD$:$\\tan 45^\\circ = \\frac{AC}{CD} \\implies 1 = \\frac{2.5}{CD} \\implies CD = 2.5\\text{ m}$In right-angled$\\triangle ACB$:$\\tan 30^\\circ = \\frac{AC}{BC} \\implies \\frac{1}{\\sqrt{3}} = \\frac{2.5}{BC} \\implies BC = 2.5\\sqrt{3} = 2.5 \\times 1.732 = 4.33\\text{ m}$Width of the river:$BD = BC + CD =$$$4.33 + 2.5 = 6.83$$$\\text{ m}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1776,22 +1776,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$3:4$",
+        "text": "$$$3:4$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$2:3$",
+        "text": "$$$2:3$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4:3$",
+        "text": "$$$4:3$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2:5$",
+        "text": "$$$2:5$$$",
         "image": null
       }
     ],
@@ -1870,7 +1870,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Usage of steel, cement and miscellaneous items in the construction \n=$36+ 72+ 108= 216$∘ \nAverage usage of the three = \n216∘3 \n= \n72∘ \n∴ \n Average of percentages of steel, cement and miscellaneous items used in the construction \n= \n\n× \n100 = \n100 5 \n= \n20% \n\n=== PAGE 52 ===\n\n=> Ans - (C) \n\n General Awareness",
+    "explanation": "Usage of steel, cement and miscellaneous items in the construction \n=$$$36+ 72+ 108= 216$$$∘ \nAverage usage of the three = \n216∘3 \n= \n72∘ \n∴ \n Average of percentages of steel, cement and miscellaneous items used in the construction \n= \n\n× \n100 = \n100 5 \n= \n20% \n\n=== PAGE 52 ===\n\n=> Ans - (C) \n\n General Awareness",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3535,7 +3535,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The phrase \" so much \" in connection to the extent of cowardice is \nunwarranted. \n\n=== PAGE 69 ===\n\n=== PAGE 70 ===\n\n\" too much of a coward \" is the correct connotation and hence the answer is B \nInstructions [$96 - 100$] \nA passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the \nfour alternatives and click the button corresponding to it. In the world today we make health an end in itself. We have forgotten that \nhealth really means to enable a person to do his work and do it well. A lot of modern medicine, and this includes many patients as \nwell as many physicians, pay very little attention to health but very much attention to those who imagine they are ill. Our great \nconcern with health is shown by the medical columns in newspapers, the health articles in popular magazines and the popularity of \ntelevision programmes and all those books on medicine. We talk about health all the time. Yet for the most part the only result is \nmore people with imaginary illness. A healthy man should not be wasting time talking about health : he should be using health for \nwork.",
+    "explanation": "The phrase \" so much \" in connection to the extent of cowardice is \nunwarranted. \n\n=== PAGE 69 ===\n\n=== PAGE 70 ===\n\n\" too much of a coward \" is the correct connotation and hence the answer is B \nInstructions [$$$96 - 100$$$] \nA passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the \nfour alternatives and click the button corresponding to it. In the world today we make health an end in itself. We have forgotten that \nhealth really means to enable a person to do his work and do it well. A lot of modern medicine, and this includes many patients as \nwell as many physicians, pay very little attention to health but very much attention to those who imagine they are ill. Our great \nconcern with health is shown by the medical columns in newspapers, the health articles in popular magazines and the popularity of \ntelevision programmes and all those books on medicine. We talk about health all the time. Yet for the most part the only result is \nmore people with imaginary illness. A healthy man should not be wasting time talking about health : he should be using health for \nwork.",
     "marks": 2,
     "negativeMarks": 0.5
   },

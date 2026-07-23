@@ -980,7 +980,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives:$27:125$:: 64 : ?",
+    "question": "Select the related number from the given alternatives:$$$27:125$$$:: 64 : ?",
     "questionImage": null,
     "options": [
       {
@@ -1096,27 +1096,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$65 - 90$",
+        "text": "$$$65 - 90$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$73 - 97$",
+        "text": "$$$73 - 97$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$112 - 137$",
+        "text": "$$$112 - 137$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$162 - 187$",
+        "text": "$$$162 - 187$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The difference between the numbers in each pair is$25$, except for option B:\n*$90 - 65 = 25$*$97 - 73 = 24$*$137 - 112 = 25$*$187 - 162 = 25$",
+    "explanation": "The difference between the numbers in each pair is$25$, except for option B:\n*$$$90 - 65 = 25$$$*$$$97 - 73 = 24$$$*$$$137 - 112 = 25$$$*$$$187 - 162 = 25$$$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1202,7 +1202,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Find the missing number in the series:$219,211,204,198$, ?, 189",
+    "question": "Find the missing number in the series:$$$219,211,204,198$$$, ?, 189",
     "questionImage": null,
     "options": [
       {
@@ -1227,7 +1227,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The series decreases by consecutive decreasing integers starting from$-8$:\n*$219 - 8 = 211$*$211 - 7 = 204$*$204 - 6 = 198$*$198 - 5 = 193$*$193 - 4 = 189$",
+    "explanation": "The series decreases by consecutive decreasing integers starting from$-8$:\n*$$$219 - 8 = 211$$$*$$$211 - 7 = 204$$$*$$$204 - 6 = 198$$$*$$$198 - 5 = 193$$$*$$$193 - 4 = 189$$$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1387,7 +1387,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "If$\\times$stands for$-$,$+$means$\\times$,$\\div$means$+$and$-$means$\\div$, then what is the value of the given expression?$175 - 25$\\div$5 + 2$\\times$3 + 10 = ?$",
+    "question": "If$\\times$stands for$-$,$+$means$\\times$,$\\div$means$+$and$-$means$\\div$, then what is the value of the given expression?$$$175 - 25$$$\\div$$$5 + 2$$$\\times$$$3 + 10 = ?$$$",
     "questionImage": null,
     "options": [
       {
@@ -1412,7 +1412,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Substituting the signs according to the instructions:$175 \\div$25 + 5$\\times$2 - 3$\\times 10$$=$7 + 10 - 30$$=$17 - 30$$= -13$.",
+    "explanation": "Substituting the signs according to the instructions:$175 \\div$$$25 + 5$$$\\times$$$2 - 3$$$\\times 10$$=$$$7 + 10 - 30$$$$=$$$17 - 30$$$$= -13$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1424,7 +1424,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "If$4 * 2 = 3$and$8 * 4 = 3$, then what is the value of$21 * 7 = ?$",
+    "question": "If$$$4 * 2 = 3$$$and$$$8 * 4 = 3$$$, then what is the value of$$$21 * 7 = ?$$$",
     "questionImage": null,
     "options": [
       {
@@ -1449,7 +1449,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern is$A * B = \\frac{A + B}{B}$:\n*$4 * 2$$= \\frac{4 + 2}{2}$$= \\frac{6}{2} = 3$$*$8 * 4$= \\frac{8 + 4}{4} = \\frac{12}{4} = 3$* Similarly,$21 * 7$$= \\frac{21 + 7}{7}$$= \\frac{28}{7} = 4$$.",
+    "explanation": "The pattern is$A * B = \\frac{A + B}{B}$:\n*$$$4 * 2$$$$= \\frac{$$4 + 2$$}{2}$$= \\frac{6}{2} = 3$$*$$$8 * 4$$$= \\frac{$$8 + 4$$}{4} = \\frac{12}{4} = 3$* Similarly,$$$21 * 7$$$$= \\frac{$$21 + 7$$}{7}$$= \\frac{28}{7} = 4$$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1486,7 +1486,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In each column, the bottom number is obtained by taking the square of the difference of the other two numbers:\n* Column 1:$(17 - 12)$^2 = 5^2 = 25$* Column 2:$(11 - 13)$^2 = (-2)^2 = 4$* Column 3:$(19 - 16)$^2 = 3^2 = 9$.",
+    "explanation": "In each column, the bottom number is obtained by taking the square of the difference of the other two numbers:\n* Column 1:$$$(17 - 12)$$$^2 = 5^2 = 25$* Column 2:$$$(11 - 13)$$$^2 = (-2)^2 = 4$* Column 3:$$$(19 - 16)$$$^2 = 3^2 = 9$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1596,7 +1596,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "By listing all individual triangles and combinations:\n* 1-unit triangles (6):$ABC$,$ACD$,$ADE$,$FGJ$,$GHJ$,$HIJ$* 2-unit triangles (7):$ABD$,$ACE$,$AFG$,$AGH$,$AHI$,$FHJ$,$GIJ$* 3-unit triangles (2):$ABE$,$FIJ$* 4-unit triangles (2):$AFH$,$AGI$* 6-unit triangles (1):$AFI$Total number of triangles$=$6 + 7 + 2 + 2 + 1 = 18$.",
+    "explanation": "By listing all individual triangles and combinations:\n* 1-unit triangles (6):$ABC$,$ACD$,$ADE$,$FGJ$,$GHJ$,$HIJ$* 2-unit triangles (7):$ABD$,$ACE$,$AFG$,$AGH$,$AHI$,$FHJ$,$GIJ$* 3-unit triangles (2):$ABE$,$FIJ$* 4-unit triangles (2):$AFH$,$AGI$* 6-unit triangles (1):$AFI$Total number of triangles$=$$$6 + 7 + 2 + 2 + 1 = 18$$$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1798,27 +1798,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$32,55,69,24$",
+        "text": "$$$32,55,69,24$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$32,03,66,57$",
+        "text": "$$$32,03,66,57$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$67,42,66,00$",
+        "text": "$$$67,42,66,00$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$23,30,66,97$",
+        "text": "$$$23,30,66,97$$$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let's check the letters for option C ($67,42,66,00$):\n* 67 corresponds to B\n* 42 corresponds to A\n* 66 corresponds to R\n* 00 corresponds to K\n\nHence, the combination represents the word BARK.",
+    "explanation": "Let's check the letters for option C ($$$67,42,66,00$$$):\n* 67 corresponds to B\n* 42 corresponds to A\n* 66 corresponds to R\n* 00 corresponds to K\n\nHence, the combination represents the word BARK.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1855,7 +1855,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The square root of 18265 is$\\sqrt{18265} \\approx 135.14$.\n\nThe closest lower perfect square is:$135^2 = 18225$Therefore, the least number to be subtracted is:$18265 - 18225 = 40.$",
+    "explanation": "The square root of 18265 is$\\sqrt{18265} \\approx 135.14$.\n\nThe closest lower perfect square is:$135^2 = 18225$Therefore, the least number to be subtracted is:$$$18265 - 18225 = 40.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1891,7 +1891,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the total work be the LCM of 36, 24, and 18, which is$72$units.\n\nEfficiencies:\n* A + B efficiency$= \\frac{72}{36} = 2$units/day\n* B + C efficiency$= \\frac{72}{24} = 3$units/day\n* A + C efficiency$= \\frac{72}{18} = 4$units/day\n\nAdding these together:$2(A + B + C) =$2 + 3 + 4 = 9$$A + B + C$= \\frac{9}{2} = 4.5\\$text{ units/day}$Time taken by all three working together:$\\text{Time}$= \\frac{72}{4.5} = 16\\$text{ days}.$",
+    "explanation": "Let the total work be the LCM of 36, 24, and 18, which is$72$units.\n\nEfficiencies:\n* A + B efficiency$= \\frac{72}{36} = 2$units/day\n* B + C efficiency$= \\frac{72}{24} = 3$units/day\n* A + C efficiency$= \\frac{72}{18} = 4$units/day\n\nAdding these together:$2(A + B + C) =$$$2 + 3 + 4 = 9$$$$A + B + C$= \\frac{9}{2} = 4.5\\$text{ units/day}$Time taken by all three working together:$\\text{Time}$= \\frac{72}{4.5} = 16\\$text{ days}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1927,7 +1927,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "A diagonal divides a parallelogram into two triangles of equal area.\n\nFor a triangle with sides$a = 29\\text{ cm}$,$b = 21\\text{ cm}$, and$c = 20\\text{ cm}$:\n* Semi-perimeter$s = \\frac{a+b+c}{2} = \\frac{29+21+20}{2} = 35\\text{ cm}$Using Heron's Formula:$\\text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}$$= \\sqrt{35 \\times$(35-29)$\\times$(35-21)$\\times$(35-20)$}$$= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2$Therefore, the area of the parallelogram is:$\\text{Area} = 2 \\times 210 = 420\\text{ cm}^2.$*(Note: Since$20^$2 + 21$^2 =$400 + 441 = 841 = 29$^2$, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simply$\\text{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2$.)*",
+    "explanation": "A diagonal divides a parallelogram into two triangles of equal area.\n\nFor a triangle with sides$a = 29\\text{ cm}$,$b = 21\\text{ cm}$, and$c = 20\\text{ cm}$:\n* Semi-perimeter$s = \\frac{a+b+c}{2} = \\frac{$$29+21+20$$}{2} = 35\\text{ cm}$Using Heron's Formula:$\\text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}$$= \\sqrt{35 \\times$$$(35-29)$$$\\times$$$(35-21)$$$\\times$$$(35-20)$$$}$$= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2$Therefore, the area of the parallelogram is:$\\text{Area} = 2 \\times 210 = 420\\text{ cm}^2.$*(Note: Since$20^$$$2 + 21$$$^2 =$$$400 + 441 = 841 = 29$$$^2$, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simply$\\text{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2$.)*",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1979,27 +1979,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$1:2$",
+        "text": "$$$1:2$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$2:1$",
+        "text": "$$$2:1$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$3:1$",
+        "text": "$$$3:1$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$1:3$",
+        "text": "$$$1:3$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the two numbers be$x$and$y$.$x + y = 3(x - y)$$x + y = 3x - 3y$$2x = 4y$$\\frac{x}{y} = \\frac{4}{2} = \\frac{2}{1}$Hence, the ratio of the numbers is$2:1$.",
+    "explanation": "Let the two numbers be$x$and$y$.$x + y = 3(x - y)$$x + y = 3x - 3y$$2x = 4y$$\\frac{x}{y} = \\frac{4}{2} = \\frac{2}{1}$Hence, the ratio of the numbers is$$$2:1$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2035,7 +2035,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Sum of ages of 36 students$= 36 \\times 14 = 504$years.\n\nLet the teacher's age be$x$years. The new group size is$37$and the new average is$14 + 1 = 15$years.$\\frac{504 + x}{37} = 15$$504 + x = 555$$x =$555 - 504 = 51$\\text{ years}.$",
+    "explanation": "Sum of ages of 36 students$= 36 \\times 14 = 504$years.\n\nLet the teacher's age be$x$years. The new group size is$37$and the new average is$$$14 + 1 = 15$$$years.$\\frac{504 + x}{37} = 15$$504 + x = 555$$x =$$$555 - 504 = 51$$$\\text{ years}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2071,7 +2071,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The dealer gives$875\\text{ g}$instead of$1000\\text{ g}$.\n\nProfit on cost weight:$\\text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100$$= \\frac{1000 - 875}{875} \\times 100$$= \\frac{125}{875} \\times 100$$= \\frac{1}{7} \\times 100 = 14\\frac{2}{7}\\%.$",
+    "explanation": "The dealer gives$875\\text{ g}$instead of$1000\\text{ g}$.\n\nProfit on cost weight:$\\text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100$$= \\frac{$$1000 - 875$$}{875} \\times 100$$= \\frac{125}{875} \\times 100$$= \\frac{1}{7} \\times 100 = 14\\frac{2}{7}\\%.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2107,7 +2107,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let B's salary be$100$.\n* A's salary$= 150$(50% more than B)\n\nB's salary is less than A's by:$\\frac{150 - 100}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%.$",
+    "explanation": "Let B's salary be$100$.\n* A's salary$= 150$(50% more than B)\n\nB's salary is less than A's by:$\\frac{$$150 - 100$$}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2143,7 +2143,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the speed of the boat in still water be$u$and the speed of the current be$v$.\n* Downstream speed$u + v = 14\\text{ km/hr}$* Upstream speed$u - v = 8\\text{ km/hr}$Subtracting the two equations:$2v =$14 - 8 = 6$$v = 3\\text{ km/hr}.$",
+    "explanation": "Let the speed of the boat in still water be$u$and the speed of the current be$v$.\n* Downstream speed$u + v = 14\\text{ km/hr}$* Upstream speed$u - v = 8\\text{ km/hr}$Subtracting the two equations:$2v =$$$14 - 8 = 6$$$$v = 3\\text{ km/hr}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2226,7 +2226,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If$p = 99$, then the value of$p(p^$2 + 3$p + 3)$will be:",
+    "question": "If$p = 99$, then the value of$p(p^$$$2 + 3$$$p + 3)$will be:",
     "questionImage": null,
     "options": [
       {
@@ -2251,7 +2251,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the given expression be$E = p(p^$2 + 3$p + 3) = p^$3 + 3$p^$2 + 3$p$.\n\nAdding 1 to the expression:$E + 1 = p^$3 + 3$p^$2 + 3$p + 1 = (p + 1)^3$Given$p = 99$, we have:$E + 1 =$(99 + 1)$^3 = 100^3 = 1000000$$E =$1000000 - 1 = 999999.$",
+    "explanation": "Let the given expression be$E = p(p^$$$2 + 3$$$p + 3) = p^$$$3 + 3$$$p^$$$2 + 3$$$p$.\n\nAdding 1 to the expression:$E + 1 = p^$$$3 + 3$$$p^$$$2 + 3$$$p + 1 = (p + 1)^3$Given$p = 99$, we have:$E + 1 =$$$(99 + 1)$$$^3 = 100^3 = 1000000$$E =$$$1000000 - 1 = 999999.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2287,7 +2287,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "We know the algebraic identity:$a^3 - b^3 = (a - b)^$3 + 3$ab(a - b)$Substituting the given values:$61 = 1^$3 + 3$ab(1)$$61 =$1 + 3$ab$$3ab = 60 \\implies ab = 20.$",
+    "explanation": "We know the algebraic identity:$a^3 - b^3 = (a - b)^$$$3 + 3$$$ab(a - b)$Substituting the given values:$61 = 1^$$$3 + 3$$$ab(1)$$61 =$$$1 + 3$$$ab$$3ab = 60 \\implies ab = 20.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2395,7 +2395,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using the Pythagorean theorem in$\\triangle ABC$:$AC = \\sqrt{AB^2 + BC^2} = \\sqrt{3^$2 + 4$^2} = \\sqrt{$9 + 16$} = 5\\text{ cm}$The area of the triangle can be calculated in two ways:$\\text{Area} = \\frac{1}{2} \\times AB \\times BC = \\frac{1}{2} \\times 3 \\times 4 = 6\\text{ cm}^2$$\\text{Area} = \\frac{1}{2} \\times AC \\times BD = \\frac{1}{2} \\times 5 \\times BD$Equating the two expressions for area:$\\frac{1}{2} \\times 5 \\times BD = 6$$5 \\times BD = 12 \\implies BD = 2.4\\text{ cm}.$",
+    "explanation": "Using the Pythagorean theorem in$\\triangle ABC$:$AC = \\sqrt{AB^2 + BC^2} = \\sqrt{3^$$$2 + 4$$$^2} = \\sqrt{$$$9 + 16$$$} = 5\\text{ cm}$The area of the triangle can be calculated in two ways:$\\text{Area} = \\frac{1}{2} \\times AB \\times BC = \\frac{1}{2} \\times 3 \\times 4 = 6\\text{ cm}^2$$\\text{Area} = \\frac{1}{2} \\times AC \\times BD = \\frac{1}{2} \\times 5 \\times BD$Equating the two expressions for area:$\\frac{1}{2} \\times 5 \\times BD = 6$$5 \\times BD = 12 \\implies BD = 2.4\\text{ cm}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2411,27 +2411,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$5:3$",
+        "text": "$$$5:3$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4:1$",
+        "text": "$$$4:1$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8:5$",
+        "text": "$$$8:5$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4:3$",
+        "text": "$$$4:3$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Since$D$and$E$are midpoints of$AB$and$AC$respectively, by midpoint theorem,$DE \\parallel BC$and$DE = \\frac{1}{2}BC$.\n\nThus,$\\triangle ADE \\sim \\triangle ABC$with a similarity ratio of$1:2$.\n\nThe ratio of their areas is:$\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$If the area of$\\triangle ABC$is$4x$, then the area of$\\triangle ADE$is$x$.\n\nThe area of trapezium$BDEC$is:$\\text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3x$Reflecting the ratio:$\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies$4:3$.$",
+    "explanation": "Since$D$and$E$are midpoints of$AB$and$AC$respectively, by midpoint theorem,$DE \\parallel BC$and$DE = \\frac{1}{2}BC$.\n\nThus,$\\triangle ADE \\sim \\triangle ABC$with a similarity ratio of$$$1:2$$$.\n\nThe ratio of their areas is:$\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$If the area of$\\triangle ABC$is$4x$, then the area of$\\triangle ADE$is$x$.\n\nThe area of trapezium$BDEC$is:$\\text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3x$Reflecting the ratio:$\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies$$$4:3$$$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2503,7 +2503,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "We can simplify the expression:$E = \\sec^2 17^\\circ - \\cot^2 73^\\circ - \\sin 17^\\circ \\sec 73^\\circ$Since$\\cot(90^\\circ - \\theta) = \\tan \\theta$, we have$\\cot 73^\\circ = \\tan 17^\\circ$.\nSince$\\sec 73^\\circ = \\csc 17^\\circ$:$E = (\\sec^2 17^\\circ - \\tan^2 17^\\circ) - \\sin 17^\\circ \\csc 17^\\circ$Using the identities$\\sec^2 \\theta - \\tan^2 \\theta = 1$and$\\sin \\theta \\csc \\theta = 1$:$E =$1 - 1 = 0.$",
+    "explanation": "We can simplify the expression:$E = \\sec^2 17^\\circ - \\cot^2 73^\\circ - \\sin 17^\\circ \\sec 73^\\circ$Since$\\cot(90^\\circ - \\theta) = \\tan \\theta$, we have$\\cot 73^\\circ = \\tan 17^\\circ$.\nSince$\\sec 73^\\circ = \\csc 17^\\circ$:$E = (\\sec^2 17^\\circ - \\tan^2 17^\\circ) - \\sin 17^\\circ \\csc 17^\\circ$Using the identities$\\sec^2 \\theta - \\tan^2 \\theta = 1$and$\\sin \\theta \\csc \\theta = 1$:$E =$$$1 - 1 = 0.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2575,7 +2575,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let$CE$be the observer of height$1.6\\text{ m}$at a distance of$DE = 45\\text{ m}$from the tower$AD$.\n\nBy symmetry:\n*$BC = DE = 45\\text{ m}$*$BD = CE = 1.6\\text{ m}$In right-angled$\\triangle ABC$:$\\tan 30^\\circ = \\frac{AB}{BC}$$\\frac{1}{\\sqrt{3}} = \\frac{AB}{45} \\implies AB = \\frac{45}{\\sqrt{3}} = 15\\sqrt{3}\\text{ m}$$AB = 15 \\times 1.732 = 25.98\\text{ m}$Total height of the tower:$AD = AB + BD =$25.98 + 1.6 = 27.58$\\text{ m}.$",
+    "explanation": "Let$CE$be the observer of height$1.6\\text{ m}$at a distance of$DE = 45\\text{ m}$from the tower$AD$.\n\nBy symmetry:\n*$BC = DE = 45\\text{ m}$*$BD = CE = 1.6\\text{ m}$In right-angled$\\triangle ABC$:$\\tan 30^\\circ = \\frac{AB}{BC}$$\\frac{1}{\\sqrt{3}} = \\frac{AB}{45} \\implies AB = \\frac{45}{\\sqrt{3}} = 15\\sqrt{3}\\text{ m}$$AB = 15 \\times 1.732 = 25.98\\text{ m}$Total height of the tower:$AD = AB + BD =$$$25.98 + 1.6 = 27.58$$$\\text{ m}.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2627,27 +2627,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$11:23$",
+        "text": "$$$11:23$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$13:11$",
+        "text": "$$$13:11$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$23:11$",
+        "text": "$$$23:11$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$11:13$",
+        "text": "$$$11:13$$$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The ratio of the below poverty line population of village 'T' to that of village 'Z' is determined directly by their corresponding angles/percentages in the pie chart, which is$23:11$.",
+    "explanation": "The ratio of the below poverty line population of village 'T' to that of village 'Z' is determined directly by their corresponding angles/percentages in the pie chart, which is$$$23:11$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

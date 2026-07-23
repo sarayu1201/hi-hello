@@ -248,6 +248,17 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
         questions_col = db["questions"]
         print("Clearing questions collection for a clean import...")
         questions_col.delete_many({})
+        
+        # Drop existing indexes to prevent IndexKeySpecsConflict
+        try:
+            questions_col.drop_index("unique_id_1")
+        except Exception:
+            pass
+        try:
+            questions_col.drop_index("content_hash_1")
+        except Exception:
+            pass
+            
         questions_col.create_index("unique_id", unique=True)
         questions_col.create_index("content_hash")
     except Exception as e:
@@ -265,6 +276,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
     total_success = 0
     total_duplicate = 0
     total_error = 0
+    docs_to_insert = []
 
     for filepath in all_json_files:
         filename = os.path.basename(filepath)
@@ -328,7 +340,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 question_text = q.get("question", "") or ""
                 direction = q.get("direction", "") or ""
                 question_image_ref = q.get("questionImage", "") or ""
-                correct_ans = q.get("correctAnswer")
+                correct_ans = q.get("correctAnswer") or q.get("correct_answer")
                 options = q.get("options", [])
 
                 has_question_content = bool(str(question_text).strip() or str(direction).strip() or str(question_image_ref).strip())
@@ -422,20 +434,19 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                     'is_mock_eligible': True
                 }
 
-                # Overwrite on duplicate unique_id
-                existing_unique = questions_col.find_one({"unique_id": unique_id})
-                if existing_unique:
-                    questions_col.replace_one({"unique_id": unique_id}, doc)
-                    total_duplicate += 1
-                    total_success += 1
-                    continue
-
-                questions_col.insert_one(doc)
+                docs_to_insert.append(doc)
                 total_success += 1
 
             except Exception as e:
                 print(f"  Error processing question index {idx} in {filename}: {e}")
                 total_error += 1
+
+    if docs_to_insert:
+        print(f"Bulk inserting {len(docs_to_insert)} questions into MongoDB...")
+        try:
+            questions_col.insert_many(docs_to_insert, ordered=False)
+        except Exception as e:
+            print(f"Error during bulk insertion: {e}")
 
     print("\n=== OVERALL IMPORT SUMMARY ===")
     print(f"Total Processed JSON Files: {len(all_json_files)}")
@@ -453,9 +464,21 @@ if __name__ == "__main__":
     # 1. Copy images from backend uploads folder to QuestionBank images folder
     copy_images(uploads_images_folder, images_folder)
     
+    # Try to load MONGODB_URI from backend/.env
+    mongo_uri = "mongodb://localhost:27017/kr_academy"
+    env_file = os.path.join(workspace_root, "backend", ".env")
+    if os.path.exists(env_file):
+        with open(env_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("MONGODB_URI="):
+                    mongo_uri = line.split("=", 1)[1].strip()
+                    break
+    
+    print(f"Using MongoDB URI: {mongo_uri[:35]}...")
+    
     # 2. Run MongoDB Ingestion
     import_all_papers(
         json_dir=json_folder,
         images_dir=images_folder,
-        mongo_uri="mongodb://localhost:27017/kr_academy"
+        mongo_uri=mongo_uri
     )

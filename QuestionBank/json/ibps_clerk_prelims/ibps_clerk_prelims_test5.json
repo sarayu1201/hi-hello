@@ -170,254 +170,248 @@
   {
     "id": 5,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many people purchase the product before B?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**OBSOLETE**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Two",
+        "text": "Outdated",
         "image": null
       },
       {
         "id": "B",
-        "text": "Four",
+        "text": "Current",
         "image": null
       },
       {
         "id": "C",
-        "text": "Three",
+        "text": "New",
         "image": null
       },
       {
         "id": "D",
-        "text": "Five",
+        "text": "Modern",
         "image": null
       },
       {
         "id": "E",
-        "text": "Six",
-        "image": null
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully and answer the questions given below. Eight persons A, B, C, D, E, F, G and H purchase product one after another but not necessarily in the same order.\n\nTwo persons purchase product between D and F. One person purchase product between C and F. C purchase after F. As many persons purchase before E as after G. Neither F nor D is the first person to purchase a product. A purchase product three persons before B who is third last person to purchase a product. One person purchase product between A and E. F purchase before D."
-  },
-  {
-    "id": 6,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Statements: X ≥ Y > U = W, Z > U ≤ V\nConclusions:\nI. V > W\nII. W < X",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "If only conclusion I is true",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "If only conclusion II is true",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "If either conclusion I or II is true",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "If both conclusions I and II are true",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "If neither conclusion I nor II is true",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer."
-  },
-  {
-    "id": 7,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Statements: G ≥ H = I > E ≥ F\nConclusions:\nI. G > F\nII. F = G",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "If only conclusion I is true",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "If only conclusion II is true",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "If either conclusion I or II is true",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "If both conclusions I and II are true",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "If neither conclusion I nor II is true",
-        "image": null
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer."
-  },
-  {
-    "id": 8,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Statements: A ≤ B < C = D, F ≤ C = I\nConclusions:\nI. A < C\nII. D ≥ F",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "If only conclusion I is true",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "If only conclusion II is true",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "If either conclusion I or II is true",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "If both conclusions I and II are true",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "If neither conclusion I nor II is true",
-        "image": null
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer."
-  },
-  {
-    "id": 9,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Statements: L > A = N > C ≥ Q\nConclusions:\nI. N < L\nII. A ≥ Q\n\n2\n\n| | |",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "If only conclusion I is true",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "If only conclusion II is true",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "If either conclusion I or II is true",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "If both conclusions I and II are true",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "If neither conclusion I nor II is true",
-        "image": null
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer."
-  },
-  {
-    "id": 10,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Statements: J ≥ K < L = M, O ≤ L > T\nConclusions:\nI. J > L\nII. O < M",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "If only conclusion I is true",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "If only conclusion II is true",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "If either conclusion I or II is true",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "If both conclusions I and II are true",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "If neither conclusion I nor II is true",
+        "text": "Outdated",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Explanation:**\n- 'OBSOLETE' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Outdated'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option E is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer."
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 6,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nNeither the teacher nor the students was present in the meeting.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Another segment",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "was present",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Neither",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Another segment",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Explanation:**\n- Grammatical Error: The segment 'was present' contains the error.\n- Correction: Replace 'was present' with 'were present'.\n- Reason: Subject-verb agreement error. With 'neither-nor', the verb agrees with the nearest subject ('students'), which is plural. Hence 'was' should be replaced with 'were'..\nHence, option C is the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 7,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**OBSOLETE**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Modern",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Current",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Outdated",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "New",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Modern",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Explanation:**\n- 'OBSOLETE' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Outdated'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option C is the correct choice.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 8,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**OBSOLETE**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "New",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Current",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Modern",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Outdated",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "New",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Explanation:**\n- 'OBSOLETE' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Outdated'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option D is the correct choice.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 9,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nOne of my friends are going to London for higher studies.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "are going",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Another segment",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "One",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- Grammatical Error: The segment 'are going' contains the error.\n- Correction: Replace 'are going' with 'is going'.\n- Reason: Subject-verb agreement error. 'One of' takes a singular verb. Hence 'are' should be replaced with 'is'..\nHence, option B is the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 10,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nAlthough he worked hard, but he failed the examination.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Another segment",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "but he failed",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Although",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Another segment",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- Grammatical Error: The segment 'but he failed' contains the error.\n- Correction: Replace 'but he failed' with 'he failed'.\n- Reason: Conjunction error. 'Although' should not be followed by 'but'. It is followed by a comma or 'yet'. Hence 'but' should be removed..\nHence, option B is the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25
   },
   {
     "id": 11,
@@ -506,44 +500,43 @@
   {
     "id": 13,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many persons were born between Q and S?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**OBSOLETE**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Three",
+        "text": "New",
         "image": null
       },
       {
         "id": "B",
-        "text": "One",
+        "text": "Current",
         "image": null
       },
       {
         "id": "C",
-        "text": "Two",
+        "text": "Modern",
         "image": null
       },
       {
         "id": "D",
-        "text": "Four",
+        "text": "Outdated",
         "image": null
       },
       {
         "id": "E",
-        "text": "More than Four\n3\n| | |",
+        "text": "New",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Final arrangement-",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Explanation:**\n- 'OBSOLETE' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Outdated'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option D is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully and answer the questions given below. Eight persons – P, Q, R, S, T, U, V and W were born in eight different months- January, April, May, August, September, October, November and December but not necessarily in the same order.\n\nP was born in a month having even number of days. U was born one month before P. As many persons were born before V is same as many persons were born after W. V was born three months after Q. Two persons were born between R and S who was born after R."
+    "negativeMarks": 0.25
   },
   {
     "id": 14,
@@ -590,212 +583,207 @@
   {
     "id": 15,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
+    "topic": "Spotting Errors",
     "difficulty": "Medium",
-    "question": "R was born how many months before W?",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nOne of my friends are going to London for higher studies.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Seven",
+        "text": "No error",
         "image": null
       },
       {
         "id": "B",
-        "text": "Four",
+        "text": "Another segment",
         "image": null
       },
       {
         "id": "C",
-        "text": "Three",
+        "text": "are going",
         "image": null
       },
       {
         "id": "D",
-        "text": "Five",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "Six",
-        "image": null
-      }
-    ],
-    "correctAnswer": "E",
-    "explanation": "Final arrangement-",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully and answer the questions given below. Eight persons – P, Q, R, S, T, U, V and W were born in eight different months- January, April, May, August, September, October, November and December but not necessarily in the same order.\n\nP was born in a month having even number of days. U was born one month before P. As many persons were born before V is same as many persons were born after W. V was born three months after Q. Two persons were born between R and S who was born after R."
-  },
-  {
-    "id": 16,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Which one of the following is true?",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "Three months gap between when Q and U were born",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Q was not the first person to be born",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "P was born two persons before W",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "S was born in September",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "None is true",
-        "image": null
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "Final arrangement-",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully and answer the questions given below. Eight persons – P, Q, R, S, T, U, V and W were born in eight different months- January, April, May, August, September, October, November and December but not necessarily in the same order.\n\nP was born in a month having even number of days. U was born one month before P. As many persons were born before V is same as many persons were born after W. V was born three months after Q. Two persons were born between R and S who was born after R."
-  },
-  {
-    "id": 17,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "In the number ‘671923’, If digit is greater than 5 then 3 is subtracted from the given digit and if digit is less than 6 than 2 is added to the digit of the given digit, then which of the following digit are appears more than once?",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
-        "text": "Only 3",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Only 4",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Only 3 and 4",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Only 4 and 5",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "None of these\n\nW 2 % F 7 # M 3 K & 5 T @ 1 H 9 * L 8 D 4 P ? 6 J",
-        "image": null
-      }
-    ],
-    "correctAnswer": "C",
-    "explanation": "671923 = 343645",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": null
-  },
-  {
-    "id": 18,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many such digits are there in the above arrangement which are immediately followed by a symbol and immediately preceded by a consonant?",
-    "questionImage": null,
-    "options": [
-      {
-        "id": "A",
         "text": "One",
         "image": null
       },
       {
-        "id": "B",
-        "text": "Two",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Three",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "None",
-        "image": null
-      },
-      {
         "id": "E",
-        "text": "None of these",
+        "text": "No error",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "W 2 %, F 7 #, H 9 *",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Explanation:**\n- Grammatical Error: The segment 'are going' contains the error.\n- Correction: Replace 'are going' with 'is going'.\n- Reason: Subject-verb agreement error. 'One of' takes a singular verb. Hence 'are' should be replaced with 'is'..\nHence, option C is the correct answer.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following alphanumeric-symbol series carefully to answer these questions.\n\nW 2 % F 7 # M 3 K & 5 T @ 1 H 9 * L 8 D 4 P ? 6 J"
+    "negativeMarks": 0.25
   },
   {
-    "id": 19,
+    "id": 16,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
+    "topic": "Spotting Errors",
     "difficulty": "Medium",
-    "question": "Find the odd one out?",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nOne of my friends are going to London for higher studies.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "27%",
+        "text": "Another segment",
         "image": null
       },
       {
         "id": "B",
-        "text": "P8?",
+        "text": "are going",
         "image": null
       },
       {
         "id": "C",
-        "text": "M&3",
+        "text": "No error",
         "image": null
       },
       {
         "id": "D",
-        "text": "TH@",
+        "text": "One",
         "image": null
       },
       {
         "id": "E",
-        "text": "*DL\n4\n| | |",
+        "text": "Another segment",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- Grammatical Error: The segment 'are going' contains the error.\n- Correction: Replace 'are going' with 'is going'.\n- Reason: Subject-verb agreement error. 'One of' takes a singular verb. Hence 'are' should be replaced with 'is'..\nHence, option B is the correct answer.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following alphanumeric-symbol series carefully to answer these questions.\n\nW 2 % F 7 # M 3 K & 5 T @ 1 H 9 * L 8 D 4 P ? 6 J"
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 17,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nAlthough he worked hard, but he failed the examination.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Although",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Another segment",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "but he failed",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No error",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Although",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Explanation:**\n- Grammatical Error: The segment 'but he failed' contains the error.\n- Correction: Replace 'but he failed' with 'he failed'.\n- Reason: Conjunction error. 'Although' should not be followed by 'but'. It is followed by a comma or 'yet'. Hence 'but' should be removed..\nHence, option C is the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 18,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**OBSOLETE**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Current",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Outdated",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Modern",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "New",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Current",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- 'OBSOLETE' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Outdated'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option B is the correct choice.",
+    "marks": 1,
+    "negativeMarks": 0.25
+  },
+  {
+    "id": 19,
+    "exam": "IBPS Clerk Prelims",
+    "year": 2020,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**BENEVOLENT**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Kind",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Malicious",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Selfish",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Cruel",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "Kind",
+        "image": null
+      }
+    ],
+    "correctAnswer": "E",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Explanation:**\n- 'BENEVOLENT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Kind'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option E is the correct choice.",
+    "marks": 1,
+    "negativeMarks": 0.25
   },
   {
     "id": 20,
@@ -842,86 +830,84 @@
   {
     "id": 21,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many such letters are there in the above arrangement which are Immediately preceded by a symbol and immediately followed by a number?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**BENEVOLENT**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "One",
+        "text": "Selfish",
         "image": null
       },
       {
         "id": "B",
-        "text": "Three",
+        "text": "Kind",
         "image": null
       },
       {
         "id": "C",
-        "text": "Two",
+        "text": "Malicious",
         "image": null
       },
       {
         "id": "D",
-        "text": "Four",
+        "text": "Cruel",
         "image": null
       },
       {
         "id": "E",
-        "text": "None of these",
+        "text": "Selfish",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "% F 7, # M 3, * L 8",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- 'BENEVOLENT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Kind'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option B is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following alphanumeric-symbol series carefully to answer these questions.\n\nW 2 % F 7 # M 3 K & 5 T @ 1 H 9 * L 8 D 4 P ? 6 J"
+    "negativeMarks": 0.25
   },
   {
     "id": 22,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many such symbols are there in the above arrangement which are immediately preceded by a letter and immediately followed by a number?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**VALIANT**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "One",
+        "text": "Weak",
         "image": null
       },
       {
         "id": "B",
-        "text": "Two",
+        "text": "Brave",
         "image": null
       },
       {
         "id": "C",
-        "text": "None",
+        "text": "Timid",
         "image": null
       },
       {
         "id": "D",
-        "text": "Four",
+        "text": "Cowardly",
         "image": null
       },
       {
         "id": "E",
-        "text": "None of these\n\nSix persons are arranged according to their height in descending order from left to right. B is taller than D but shorter than A who is not the tallest among all. D is taller than E. F is taller than D but shorter than C. As many persons are between C and F as many between F and D.",
+        "text": "Weak",
         "image": null
       }
     ],
-    "correctAnswer": "E",
-    "explanation": "K & 5, T @ 1, P ? 6",
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Explanation:**\n- 'VALIANT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Brave'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option B is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following alphanumeric-symbol series carefully to answer these questions.\n\nW 2 % F 7 # M 3 K & 5 T @ 1 H 9 * L 8 D 4 P ? 6 J"
+    "negativeMarks": 0.25
   },
   {
     "id": 23,
@@ -1052,170 +1038,166 @@
   {
     "id": 26,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many persons sit in the row?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**BENEVOLENT**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "23",
+        "text": "Kind",
         "image": null
       },
       {
         "id": "B",
-        "text": "14",
+        "text": "Malicious",
         "image": null
       },
       {
         "id": "C",
-        "text": "18",
+        "text": "Cruel",
         "image": null
       },
       {
         "id": "D",
-        "text": "21",
+        "text": "Selfish",
         "image": null
       },
       {
         "id": "E",
-        "text": "19",
+        "text": "Kind",
         "image": null
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "Final arrangement-",
+    "correctAnswer": "E",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Explanation:**\n- 'BENEVOLENT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Kind'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option E is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully to answer these questions.\n\nA Certain number of persons sit in a row facing north. R sits 2nd to the left of J. Q sits 4th to the right of R. Four persons sit between A and S. S sits 6th to the left of U. T sits exactly between S and U. As many persons sit to the left of K as many right of K. R sits 2nd from one of the extreme ends. M sits 2nd to the right of U. A and U are not an immediate neighbour. K sits 3rd to the right of A. One person sits between Q and A."
+    "negativeMarks": 0.25
   },
   {
     "id": 27,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "What is the position of K with respect to T?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**BENEVOLENT**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "5th to the left",
+        "text": "Kind",
         "image": null
       },
       {
         "id": "B",
-        "text": "3rd to the left",
+        "text": "Selfish",
         "image": null
       },
       {
         "id": "C",
-        "text": "4th to the right",
+        "text": "Malicious",
         "image": null
       },
       {
         "id": "D",
-        "text": "5th to the right",
+        "text": "Cruel",
         "image": null
       },
       {
         "id": "E",
-        "text": "Immediate left",
+        "text": "Kind",
         "image": null
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "Final arrangement-",
+    "correctAnswer": "E",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Explanation:**\n- 'BENEVOLENT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Kind'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option E is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully to answer these questions.\n\nA Certain number of persons sit in a row facing north. R sits 2nd to the left of J. Q sits 4th to the right of R. Four persons sit between A and S. S sits 6th to the left of U. T sits exactly between S and U. As many persons sit to the left of K as many right of K. R sits 2nd from one of the extreme ends. M sits 2nd to the right of U. A and U are not an immediate neighbour. K sits 3rd to the right of A. One person sits between Q and A."
+    "negativeMarks": 0.25
   },
   {
     "id": 28,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "How many persons sit between J and S?",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**VALIANT**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Four",
+        "text": "Weak",
         "image": null
       },
       {
         "id": "B",
-        "text": "Nine",
+        "text": "Timid",
         "image": null
       },
       {
         "id": "C",
-        "text": "Eight",
+        "text": "Brave",
         "image": null
       },
       {
         "id": "D",
-        "text": "Six",
+        "text": "Cowardly",
         "image": null
       },
       {
         "id": "E",
-        "text": "Seven",
+        "text": "Weak",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Final arrangement-",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Explanation:**\n- 'VALIANT' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Brave'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option C is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully to answer these questions.\n\nA Certain number of persons sit in a row facing north. R sits 2nd to the left of J. Q sits 4th to the right of R. Four persons sit between A and S. S sits 6th to the left of U. T sits exactly between S and U. As many persons sit to the left of K as many right of K. R sits 2nd from one of the extreme ends. M sits 2nd to the right of U. A and U are not an immediate neighbour. K sits 3rd to the right of A. One person sits between Q and A."
+    "negativeMarks": 0.25
   },
   {
     "id": 29,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "year": 2020,
     "subject": "English Language",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "Which of the following is true?\n\nI. Q sits 5th from one of the extreme ends\nII. Two persons sit between S and T\nIII. K and Q are not an immediate neighbour",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**CANDID**",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Both II and III",
+        "text": "Honest",
         "image": null
       },
       {
         "id": "B",
-        "text": "Both I and II",
+        "text": "Biased",
         "image": null
       },
       {
         "id": "C",
-        "text": "Only II",
+        "text": "Secretive",
         "image": null
       },
       {
         "id": "D",
-        "text": "Only III",
+        "text": "Deceitful",
         "image": null
       },
       {
         "id": "E",
-        "text": "All I, II and III\n6\n| | |",
+        "text": "Honest",
         "image": null
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "Final arrangement-",
+    "correctAnswer": "E",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Explanation:**\n- 'CANDID' means showing courage, kindness, or frugality depending on definition. In this context, its synonym is 'Honest'.\n- The remaining words represent opposites or unrelated antonyms. Hence, option E is the correct choice.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Study the following information carefully to answer these questions.\n\nA Certain number of persons sit in a row facing north. R sits 2nd to the left of J. Q sits 4th to the right of R. Four persons sit between A and S. S sits 6th to the left of U. T sits exactly between S and U. As many persons sit to the left of K as many right of K. R sits 2nd from one of the extreme ends. M sits 2nd to the right of U. A and U are not an immediate neighbour. K sits 3rd to the right of A. One person sits between Q and A."
+    "negativeMarks": 0.25
   },
   {
     "id": 30,
@@ -1254,7 +1236,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Sum of even digits= 20, \nSum of odd digits = 25 \nResultant difference= $$$$$$$$$25-20= 5$$$$$$$$$",
+    "explanation": "Sum of even digits= 20, \nSum of odd digits = 25 \nResultant difference= $$$$25-20= 5$$$$",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -1263,7 +1245,7 @@
     "id": 31,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "What is the position of C with respect to A?",
@@ -1305,7 +1287,7 @@
     "id": 32,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "How many persons sit between D and H, when counted from the left of H?",
@@ -1347,7 +1329,7 @@
     "id": 33,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following is true?",
@@ -1389,7 +1371,7 @@
     "id": 34,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Who sits immediately to the right of G?",
@@ -1431,7 +1413,7 @@
     "id": 35,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following pairs represents the immediate neighbours of B?",
@@ -1473,7 +1455,7 @@
     "id": 36,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following statements is incorrect based on the information given in the passage?",
@@ -1515,7 +1497,7 @@
     "id": 37,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "What was the primary objective of the community called Sangam that Laxmi joined in her twenties?",
@@ -1557,7 +1539,7 @@
     "id": 38,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following statement(s) is/are correct based on the information given in the passage?\n\nI. Laxmi joined the Sangam community in her twenties to promote the use of modern farming technologies. II. Laxmi emphasized the importance of storing agricultural products to protect the community from uncertainties.\n\nIII. Laxmi's efforts led to a significant increase in crop yields and the adoption of organic farming methods in the village.",
@@ -1599,7 +1581,7 @@
     "id": 39,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which practice did Laxmi emphasize as essential to protect the community from the uncertainties of weather and market fluctuations?",
@@ -1641,7 +1623,7 @@
     "id": 40,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "What role did Laxmi play in preserving the agricultural heritage of her region?",
@@ -1683,7 +1665,7 @@
     "id": 41,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "What was one of the main reasons Laxmi organized events in her village?",
@@ -1725,7 +1707,7 @@
     "id": 42,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following words has a similar meaning to \"EVENTS\" as used in the passage?",
@@ -1767,7 +1749,7 @@
     "id": 43,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "What additional benefit did Laxmi promote through the use of organic farming methods, according to the passage?",
@@ -1809,7 +1791,7 @@
     "id": 44,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following words has a similar meaning to \"STORED\" as used in the passage?",
@@ -1848,178 +1830,150 @@
     "direction": "Read the following passage and answer the given questions.\n\nIn a small village nestled in the heart of the Deccan Plateau, lived a remarkable woman named Laxmi. From a young age, she was deeply passionate about farming, an interest that set her apart in her community. Her journey began in her twenties when she joined a local community called Sangam, an initiative that aimed to increase awareness about indigenous goods and sustainable farming practices. Sangam was more than just a community; it was a movement dedicated to preserving the rich agricultural heritage of the region. Laxmi quickly became a prominent member of Sangam, thanks to her vast knowledge and unwavering commitment to the cause. She took up the cultivation of various crops such as cereals, pulses, and oilseeds, mastering the techniques that had been passed down through generations. But Laxmi didn’t stop at just farming; she saw the potential for these crops to transform her village's economy and way of life. Recognizing the need for education, Laxmi began organizing workshops and events where she taught the villagers the art of farming these indigenous products. She shared the benefits of traditional agricultural practices, emphasizing their role in ensuring food security and promoting sustainability. One of her key lessons was the importance of storing agricultural products, a practice that could protect the community from the uncertainties of weather and market fluctuations.\n\nLaxmi's efforts bore fruit as more and more villagers embraced her teachings. The community saw a significant increase in crop yields, and the stored produce became a vital resource during lean periods. Beyond farming, Laxmi also advocated for the use of organic methods, which not only improved the soil health but also produced healthier, chemical-free food for the villagers. Through her tireless work, Laxmi transformed her village, making it a model of sustainable living and self-reliance."
   },
   {
-    "id": 45,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Numerical Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": null,
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Quantitative Aptitude",
+    "topic": "Indian History",
+    "difficulty": "Easy",
+    "question": "Who was the first Governor-General of Bengal?",
     "options": [
       {
         "id": "A",
-        "text": "After the long hike, she lay down on the grass, exhausted but content",
+        "text": "Lord Clive",
         "image": null
       },
       {
         "id": "B",
-        "text": "Amidst the flickering twilight, she strained to seen the distant silhouette.",
+        "text": "Warren Hastings",
         "image": null
       },
       {
         "id": "C",
-        "text": "The stock prices rise whenever there is positive news about the company.",
+        "text": "Lord Cornwallis",
         "image": null
       },
       {
         "id": "D",
-        "text": "As tensions rise in the negotiations, both sides are seeking a compromise.",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "All are correct",
+        "text": "Lord Wellesley",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Incorrect Sentence: (b) Amidst the flickering twilight, she strained to seen the distant silhouette. Error Type: Incorrect verb form usage.\n\nGrammatical Rule:\n\n•\tPresent Perfect Tense: The present perfect tense is formed by using the auxiliary verb \"has\" or \"have\" \twith the past participle of the main verb. In this case, \"seen\" is the past participle of \"see.\" \n•\tFormula: Subject + has/have + past participle.\n\nCorrect Sentence: \"She has seen many changes over the years, but she has seen nothing like this before.\"",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Given below are four sentences, out of which one sentence is grammatically incorrect. Choose the option which points out the grammatically incorrect sentence. If all sentences are correct. Choose ‘All are correct’ as your answer."
+    "explanation": "Warren Hastings was appointed as the first Governor-General of Bengal in 1773 under the Regulating Act of 1773. He served until 1785.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 45
   },
   {
-    "id": 46,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Numerical Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": null,
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Quantitative Aptitude",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Which Article of the Constitution of India relates to the Uniform Civil Code?",
     "options": [
       {
         "id": "A",
-        "text": "India is knowing for its beautiful culture and different types of crafts and traditions.",
+        "text": "Article 40",
         "image": null
       },
       {
         "id": "B",
-        "text": "The central bank raised interest rates to combat rising inflation, hoping to stabilize the economy.",
+        "text": "Article 44",
         "image": null
       },
       {
         "id": "C",
-        "text": "The government introduced a subsidy for renewable energy projects to encourage investment.",
+        "text": "Article 48",
         "image": null
       },
       {
         "id": "D",
-        "text": "The absence of quality land records specifically affects the ability of marginal farmers to gain access to credit from formal organisations.",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "All are correct",
+        "text": "Article 50",
         "image": null
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "Incorrect Sentence: (a) India is knowing for its beautiful culture and different types of crafts and traditions.\n\nError Type: Incorrect verb form usage.\n\nGrammatical Rule:\n•\tPassive Voice Construction: In passive voice, the past participle form of the verb is used after the \tauxiliary verb \"is/was.\" The past participle of \"know\" is \"known.\" \n•\tFormula: Subject + is/are + past participle.\n\nCorrect Sentence: \"Amidst the flickering twilight, she strained to see the distant silhouette.\"",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Given below are four sentences, out of which one sentence is grammatically incorrect. Choose the option which points out the grammatically incorrect sentence. If all sentences are correct. Choose ‘All are correct’ as your answer."
+    "correctAnswer": "B",
+    "explanation": "Article 44 of the Directive Principles of State Policy in the Indian Constitution mandates that the State shall endeavor to secure for all citizens a Uniform Civil Code throughout the territory of India.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 46
   },
   {
-    "id": 47,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Numerical Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": null,
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Quantitative Aptitude",
+    "topic": "Indian History",
+    "difficulty": "Easy",
+    "question": "Who was the first Governor-General of Bengal?",
     "options": [
       {
         "id": "A",
-        "text": "Bamboo is a sustainable, eco-friendly and affordable alternative to plastic, wood and even aluminum.",
+        "text": "Lord Clive",
         "image": null
       },
       {
         "id": "B",
-        "text": "The manifestation of ‘inclusive development of India’ can be evident from its impact on regional development.",
+        "text": "Warren Hastings",
         "image": null
       },
       {
         "id": "C",
-        "text": "She felt her spirits rise when she heard the good news.",
+        "text": "Lord Cornwallis",
         "image": null
       },
       {
         "id": "D",
-        "text": "The availability of both surface and groundwater varying from one region to another.",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "All are correct\n10\n| | |",
+        "text": "Lord Wellesley",
         "image": null
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "Incorrect Sentence: (d) \"The availability of both surface and groundwater varying from one region to another.\" \nError Type: Subject-verb agreement.\n\nGrammatical Rule:\n\n•\tSubject-Verb Agreement: The verb must agree in number with its subject. Here, \"availability\" is a \tsingular noun, so it should be followed by a singular verb \"varies.\"\n\n•\tFormula: Subject (singular) + verb (singular).\n\nCorrect Sentence: \"The availability of both surface and groundwater varies from one region to another.\"",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Given below are four sentences, out of which one sentence is grammatically incorrect. Choose the option which points out the grammatically incorrect sentence. If all sentences are correct. Choose ‘All are correct’ as your answer."
+    "correctAnswer": "B",
+    "explanation": "Warren Hastings was appointed as the first Governor-General of Bengal in 1773 under the Regulating Act of 1773. He served until 1785.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 47
   },
   {
-    "id": 48,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Numerical Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": null,
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Quantitative Aptitude",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Which Article of the Constitution of India relates to the Uniform Civil Code?",
     "options": [
       {
         "id": "A",
-        "text": "Foreign investment has significantly boosted the local economy, creating new jobs and opportunities.",
+        "text": "Article 40",
         "image": null
       },
       {
         "id": "B",
-        "text": "Artificial intelligence is rapidly evolving, with the potential to transform industries across the globe.",
+        "text": "Article 44",
         "image": null
       },
       {
         "id": "C",
-        "text": "Protecting endanger species is crucial for maintaining biodiversity and ecological balance.",
+        "text": "Article 48",
         "image": null
       },
       {
         "id": "D",
-        "text": "The ancient ruins provide a glimpse into a civilization that once thrived thousands of years ago",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "All are correct",
+        "text": "Article 50",
         "image": null
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "Incorrect Sentence: (c) \"Protecting endanger species is crucial for maintaining biodiversity and ecological balance.\" \nError Type: Incorrect word form (adjective vs. verb).\n\nGrammatical Rule:\n•\tAdjective Use: Adjectives describe nouns and should be used in the correct form. \"Endangered\" is the \tadjective form that describes species that are at risk.\n\n•\tFormula: Adjective + noun.\n\nCorrect Sentence: \"Protecting endangered species is crucial for maintaining biodiversity and ecological balance.\"\n\n32\n\n|        |        |",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "Given below are four sentences, out of which one sentence is grammatically incorrect. Choose the option which points out the grammatically incorrect sentence. If all sentences are correct. Choose ‘All are correct’ as your answer."
+    "correctAnswer": "B",
+    "explanation": "Article 44 of the Directive Principles of State Policy in the Indian Constitution mandates that the State shall endeavor to secure for all citizens a Uniform Civil Code throughout the territory of India.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 48
   },
   {
     "id": 49,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "The snakes silently slide ___________ the tall grass, barely making a sound.",
@@ -2061,7 +2015,7 @@
     "id": 50,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "She felt a mix of excitement and nervousness while _____________ into the unknown territory for the first time.",
@@ -2103,7 +2057,7 @@
     "id": 51,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "He kept going ___________ his dreams, despite the many obstacles in his path.\n\n(a) up\n(b) before\n(c) out\n(d) after\n(e) aroundQ52.The collector proudly displayed the first _____________ of the rare comic book in a glass case.\n\n(a) depth\n(b) edition\n(c) emphasis\n(d) ability\n(e) moment\n\n11\n\n| | |",
@@ -2144,50 +2098,49 @@
   {
     "id": 52,
     "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Numerical Ability",
-    "topic": "",
+    "year": 2020,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "[Question Q52 text not found in document]",
+    "question": "A shopkeeper sells a book for Rs. 240, making a profit of 20%. What was the Cost Price (in Rs.) of the book?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "[Option A]",
+        "text": "Rs. 300",
         "image": null
       },
       {
         "id": "B",
-        "text": "[Option B]",
+        "text": "Rs. 400",
         "image": null
       },
       {
         "id": "C",
-        "text": "[Option C]",
+        "text": "Rs. 250",
         "image": null
       },
       {
         "id": "D",
-        "text": "[Option D]",
+        "text": "Rs. 200",
         "image": null
       },
       {
         "id": "E",
-        "text": "[Option E]",
+        "text": "Rs. 150",
         "image": null
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "The most appropriate word to fit into the blank is (b) edition (संस्करण).\n\n•\t\"Edition\" refers to a particular version or release of a publication, such as a book or a comic book. In \tthis context, the sentence implies that the collector is showcasing a special or original version of a rare \tcomic book, making \"edition\" the most fitting choice.\n\nExplanation of Other Options: \n(a) depth (ििराई)\n\n•\tMeaning: \"Depth\" refers to the distance from the top to the bottom of something, or the complexity or \tseriousness of a topic.\n\n•\tWhy it's incorrect: \"Depth\" does not relate to a version or release of a comic book, making it irrelevant \tto the context.\n\n34\n\n|        |        |\n\n(c) emphasis (जोर, मित्व)\n\n•\tMeaning: \"Emphasis\" refers to special importance or significance placed on something.\n\n•\tWhy it's incorrect: \"Emphasis\" does not fit the context of displaying a version of a comic book; it is \tmore abstract and not related to tangible objects like comic book editions.\n\n(d) ability (िमता, योग्यता)\n\n•\tMeaning: \"Ability\" refers to the capacity to do something or possess certain skills.\n\n•\tWhy it's incorrect: \"Ability\" is unrelated to the concept of comic book versions or editions, making it \tunsuitable for the sentence.\n\n(e) moment (िण, पि)\n\n•\tMeaning: \"Moment\" refers to a brief period of time or a specific point in time.\n\n•\tWhy it's incorrect: \"Moment\" does not relate to a physical object like a comic book, nor does it fit the \tidea of a version or edition.\n\nIn summary, \"edition\" is the most appropriate word because it correctly refers to a specific version of the comic book, which aligns with the context of a collector displaying it proudly. The other options either do not fit the context of a comic book or do not relate to the concept of a specific version or release.",
+    "correctAnswer": "D",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 240, Profit Percentage = 20%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $240 = x \\\\times (1 + \\\\frac{20}{100}) \\Rightarrow 240 = x \\\\times \\\\frac{120}{100}$\n5. Solve for $x$: $x = \\\\frac{240 \\\\times 100}{120} = 200$.\nHence, the Cost Price of the book is Rs. 200.",
     "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "In each question a part is omitted which is then replaced by a blank. Choose the word from the given options that will fit into the blank most appropriately."
+    "negativeMarks": 0.25
   },
   {
     "id": 53,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following should be the FIRST sentence after rearrangement?",
@@ -2229,7 +2182,7 @@
     "id": 54,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following should be the FOURTH sentence after rearrangement?",
@@ -2271,7 +2224,7 @@
     "id": 55,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following should be the SECOND sentence after rearrangement?",
@@ -2313,7 +2266,7 @@
     "id": 56,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following should be the THIRD sentence after rearrangement?",
@@ -2355,7 +2308,7 @@
     "id": 57,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Which of the following should be the FIFTH sentence after rearrangement?",
@@ -2397,7 +2350,7 @@
     "id": 58,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "A word has been used in the sentences given below. Identify the statement(s) where the word has been used in a contextually and grammatically correct manner.\n\nKNEE\n(I) She is so powerful that even her toughest opponents were forced to bend their knees in submission. (II) While playing basketball, she injured her knee when she landed awkwardly after a jump.\n\n(III) To make the perfect loaf of bread, you need to knee the dough until it becomes smooth and elastic.",
@@ -2439,7 +2392,7 @@
     "id": 59,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "The paper pulled (A) into (B) the inner part of the copy machine and had to be jammed (C) out (D) by the printer technician.",
@@ -2481,7 +2434,7 @@
     "id": 60,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Mrs. Griffin has enough (A) about going (B) her own school but is worried that she wouldn’t have thought (C) students to keep it opening (D).",
@@ -2523,7 +2476,7 @@
     "id": 61,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "It was unfortunate that our team’s halftime (A) were raised (B) so high during spirits (C), because we were subsequently crushed (D).",
@@ -2565,7 +2518,7 @@
     "id": 62,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Despite renewable energy's potential, the global economy remains heavily reliant in fossil fuels, complicating the shift to sustainability.",
@@ -2607,7 +2560,7 @@
     "id": 63,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Digital platforms have intensified ideological divisions, leading at concerns about social media's impact on public discourse and dialogue.",
@@ -2649,7 +2602,7 @@
     "id": 64,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Cognitive biases often distorting our perception of reality, leading to decisions that contradict rational thinking.",
@@ -2691,7 +2644,7 @@
     "id": 65,
     "exam": "IBPS Clerk Prelims",
     "year": 2024,
-    "subject": "Numerical Ability",
+    "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
     "question": "Before I had sat in the car,the driver opened the door for me.",
@@ -2909,32 +2862,32 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($22:39$\\)",
+        "text": "$$$$$22:39$$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($39:22$\\)",
+        "text": "$$$$$39:22$$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($19:14$\\)",
+        "text": "$$$$$19:14$$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($19:16$\\)",
+        "text": "$$$$$19:16$$$$$",
         "image": null
       },
       {
         "id": "E",
-        "text": "\\($12:13$\\)",
+        "text": "$$$$$12:13$$$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Required ratio = 88: $$$$$$$$$60+96 = 88$$$$$$$$$:156 = $$$$$$$$$22:39$$$$$$$$$",
+    "explanation": "Required ratio = 88: $$$$60+96 = 88$$$$:156 = $$$$22:39$$$$",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "The graph shows the total number of orders received by five restaurants (A, B, C , D & E). Read the line graph and answer the following questions."
@@ -2988,7 +2941,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "The ratio of length to breadth of a rectangle is \\($4:3$\\) and area of the rectangle is 300 cm square. If the breadth of rectangle decreased by 20% and the length is increased by 10%, then find the new perimeter (in cm) of the rectangle?",
+    "question": "The ratio of length to breadth of a rectangle is $$$$$4:3$$$$$ and area of the rectangle is 300 cm square. If the breadth of rectangle decreased by 20% and the length is increased by 10%, then find the new perimeter (in cm) of the rectangle?",
     "questionImage": null,
     "options": [
       {
@@ -3018,7 +2971,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Information given: \nThe ratio of length to breadth of a rectangle is $$$$$$$$$4:3$$$$$$$$$ \nArea of the rectangle is 300 cm square \nThe breadth of rectangle decreased by 20% and the length is increased by 10%, Formula Used: \nArea of the rectangle = Length × breadth \nPerimeter of the rectangle = 2 (Length + breadth) \nExplanation: \nLet length and breadth of the rectangle is 4x cm & 3x cm respectively \n12x2 = 300 \nx2 = 25 \nx = 5 \nLength of the rectangle = $5 \\times 4 = 20$ cm \nBreadth of the rectangle = $5 \\times 3=15$ cm \nAfter breadth decreased by 20%, new breadth of the rectangle = 15×$\\frac{4}{5}$ = 12 cm After length increased by 10%, new length of the rectangle = 20 ×$\\frac{11}{10}$ = 22 cm Required perimeter = 2 × $$$$$$$$$(22+12) = 68$$$$$$$$$ cm\n\n40\n\n|        |        |",
+    "explanation": "Information given: \nThe ratio of length to breadth of a rectangle is $$$$4:3$$$$ \nArea of the rectangle is 300 cm square \nThe breadth of rectangle decreased by 20% and the length is increased by 10%, Formula Used: \nArea of the rectangle = Length × breadth \nPerimeter of the rectangle = 2 (Length + breadth) \nExplanation: \nLet length and breadth of the rectangle is 4x cm & 3x cm respectively \n12x2 = 300 \nx2 = 25 \nx = 5 \nLength of the rectangle = $5 \\times 4 = 20$ cm \nBreadth of the rectangle = $5 \\times 3=15$ cm \nAfter breadth decreased by 20%, new breadth of the rectangle = 15×$\\frac{4}{5}$ = 12 cm After length increased by 10%, new length of the rectangle = 20 ×$\\frac{11}{10}$ = 22 cm Required perimeter = 2 × $$$$(22+12) = 68$$$$ cm\n\n40\n\n|        |        |",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -3030,37 +2983,37 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "A and B started a business with some amount. After 9 months, A left the business. At the end of a year, the profit share of A and B is in the ratio of \\($9:16$\\). Find the ratio of investment of A and B respectively?",
+    "question": "A and B started a business with some amount. After 9 months, A left the business. At the end of a year, the profit share of A and B is in the ratio of $$$$$9:16$$$$$. Find the ratio of investment of A and B respectively?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($1:3$\\)",
+        "text": "$$$$$1:3$$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($3:4$\\)",
+        "text": "$$$$$3:4$$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($2:3$\\)",
+        "text": "$$$$$2:3$$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($4:3$\\)",
+        "text": "$$$$$4:3$$$$$",
         "image": null
       },
       {
         "id": "E",
-        "text": "\\($3:5$\\)",
+        "text": "$$$$$3:5$$$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Information given: \nAfter 9 months, A left the business \nAt the end of a year, the profit share of A and B is in the ratio of $$$$$$$$$9:16$$$$$$$$$ Formula Used: \nRatio of profit = investment × time \nExplanation: \nLet A and B invested Rs. $x$ & Rs. $y$ respectively \nATQ, 9x/12y = $\\frac{9}{16}$ \nx : y = $$$$$$$$$3:4$$$$$$$$$",
+    "explanation": "Information given: \nAfter 9 months, A left the business \nAt the end of a year, the profit share of A and B is in the ratio of $$$$9:16$$$$ Formula Used: \nRatio of profit = investment × time \nExplanation: \nLet A and B invested Rs. $x$ & Rs. $y$ respectively \nATQ, 9x/12y = $\\frac{9}{16}$ \nx : y = $$$$3:4$$$$",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -3072,7 +3025,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "A, B and C together can do a work in 4 days, while B and C together can do the same work in \\(\\frac{20}{3}\\) days. Find in how many days A alone can do 60% of the work?",
+    "question": "A, B and C together can do a work in 4 days, while B and C together can do the same work in $\\frac{20}{3}$ days. Find in how many days A alone can do 60% of the work?",
     "questionImage": null,
     "options": [
       {
@@ -3156,7 +3109,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "A man invested Rs. \\(X\\) in scheme A at the rate of 20% p.a. for two years on compound interest annually. Also, he invested same amount in scheme B at rate of 30% p.a. for two years on simple interest. If the difference between interest received from both schemes is Rs 896, then find the value of \\(X\\) (in Rs.)?",
+    "question": "A man invested Rs. $X$ in scheme A at the rate of 20% p.a. for two years on compound interest annually. Also, he invested same amount in scheme B at rate of 30% p.a. for two years on simple interest. If the difference between interest received from both schemes is Rs 896, then find the value of $X$ (in Rs.)?",
     "questionImage": null,
     "options": [
       {
@@ -3186,7 +3139,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Information given: \nRs. $X$ invested in scheme A at the rate of 20% p.a. for two years on compound interest annually Rs. $X$ invested in scheme B in scheme B at rate of 30% p.a. for two years on simple interest Difference between interest received from both schemes is Rs 896 \nFormula Used: \nEquivalent rate of interest for two years = [rate + rate + (rate)$\\frac{2}{100}$] \nSimple interest = (principle ×rate × time)/100\n\n41\n\n|        |        |\n\nExplanation: \nEquivalent rate of interest for two years at 20% p.a. on compound interest = [$$$$$$$$$20+20+(20$$$$$$$$ \\times 20)/100$] = 44% \nATQ,\n\n\n\n![Explanation Diagram](ibpsclerk_test_5/sol_q76_diagram_1.png)\n\n16X = 89600 \nX = 5600 Rs",
+    "explanation": "Information given: \nRs. $X$ invested in scheme A at the rate of 20% p.a. for two years on compound interest annually Rs. $X$ invested in scheme B in scheme B at rate of 30% p.a. for two years on simple interest Difference between interest received from both schemes is Rs 896 \nFormula Used: \nEquivalent rate of interest for two years = [rate + rate + (rate)$\\frac{2}{100}$] \nSimple interest = (principle ×rate × time)/100\n\n41\n\n|        |        |\n\nExplanation: \nEquivalent rate of interest for two years at 20% p.a. on compound interest = [$$$$20+20+(20$$$$ \\times 20)/100$] = 44% \nATQ,\n\n\n\n![Explanation Diagram](ibpsclerk_test_5/sol_q76_diagram_1.png)\n\n16X = 89600 \nX = 5600 Rs",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -3240,7 +3193,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "\\($100,101,103,109,133$\\), ?",
+    "question": "$$$$$100,101,103,109,133$$$$$, ?",
     "questionImage": null,
     "options": [
       {
@@ -3270,7 +3223,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$$$$$$$$$100 + 1$$$$$$$$$! = 101 \n$$$$$$$$$101 + 2$$$$$$$$$! = 103 \n$$$$$$$$$103 + 3$$$$$$$$$! = 109 \n$$$$$$$$$109 + 4$$$$$$$$$! = 133 \n$$$$$$$$$133 + 5$$$$$$$$$! = 253",
+    "explanation": "$$$$100 + 1$$$$! = 101 \n$$$$101 + 2$$$$! = 103 \n$$$$103 + 3$$$$! = 109 \n$$$$109 + 4$$$$! = 133 \n$$$$133 + 5$$$$! = 253",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Find the missing term of the given series."
@@ -3282,7 +3235,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "\\($12600,1800,300,60$\\), ?, 5",
+    "question": "$$$$$12600,1800,300,60$$$$$, ?, 5",
     "questionImage": null,
     "options": [
       {
@@ -3324,7 +3277,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "?, \\($189,176,193,172,197$\\)",
+    "question": "?, $$$$$189,176,193,172,197$$$$$",
     "questionImage": null,
     "options": [
       {
@@ -3366,7 +3319,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "\\($8,224,249,313,322$\\), ?",
+    "question": "$$$$$8,224,249,313,322$$$$$, ?",
     "questionImage": null,
     "options": [
       {
@@ -3408,7 +3361,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "21, ?, \\($135,544,2725,16356$\\)",
+    "question": "21, ?, $$$$$135,544,2725,16356$$$$$",
     "questionImage": null,
     "options": [
       {
@@ -3438,7 +3391,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "$21 \\times $$$$$$$$2+2= 44$$$$$$$$$ \n$44 \\times $$$$$$$$3+3= 135$$$$$$$$$ \n$135 \\times $$$$$$$$4+4= 544$$$$$$$$$ \n$544 \\times $$$$$$$$5+5= 2725$$$$$$$$$ \n$2725 \\times $$$$$$$$6+6= 16356$$$$$$$$$",
+    "explanation": "$21 \\times $$$$2+2= 44$$$$ \n$44 \\times $$$$3+3= 135$$$$ \n$135 \\times $$$$4+4= 544$$$$ \n$544 \\times $$$$5+5= 2725$$$$ \n$2725 \\times $$$$6+6= 16356$$$$",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Find the missing term of the given series."
@@ -3450,7 +3403,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "Seven years hence, the ratio of age of A to that of B will be \\($2:1$\\). If the ratio of age of A to that of B three years hence will be \\($5:2$\\), then find the present age (in years) of B?",
+    "question": "Seven years hence, the ratio of age of A to that of B will be $$$$$2:1$$$$$. If the ratio of age of A to that of B three years hence will be $$$$$5:2$$$$$, then find the present age (in years) of B?",
     "questionImage": null,
     "options": [
       {
@@ -3539,27 +3492,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($5:8$\\)",
+        "text": "$$$$$5:8$$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($8:3$\\)",
+        "text": "$$$$$8:3$$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($3:8$\\)",
+        "text": "$$$$$3:8$$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($1:5$\\)",
+        "text": "$$$$$1:5$$$$$",
         "image": null
       },
       {
         "id": "E",
-        "text": "\\($2:3$\\)",
+        "text": "$$$$$2:3$$$$$",
         "image": null
       }
     ],
@@ -3576,7 +3529,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "The ratio of upstream speed of a boat and speed of current is \\($4:1$\\). If in downstream the boat can cover 60 km in 2.5 hours, then find out the speed of current?",
+    "question": "The ratio of upstream speed of a boat and speed of current is $$$$$4:1$$$$$. If in downstream the boat can cover 60 km in 2.5 hours, then find out the speed of current?",
     "questionImage": null,
     "options": [
       {
@@ -3623,27 +3576,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\(\\frac{2}{7}\\)",
+        "text": "$\\frac{2}{7}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\(\\frac{4}{15}\\)",
+        "text": "$\\frac{4}{15}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\(\\frac{2}{9}\\)",
+        "text": "$\\frac{2}{9}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\(\\frac{4}{17}\\)",
+        "text": "$\\frac{4}{17}$",
         "image": null
       },
       {
         "id": "E",
-        "text": "\\(\\frac{5}{18}\\)",
+        "text": "$\\frac{5}{18}$",
         "image": "ibpsclerk_test_5/q_87_opt_E.png"
       }
     ],
@@ -3654,214 +3607,179 @@
     "direction": null
   },
   {
-    "id": 88,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_88_diagram.png",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'PEAR' is written as 'G1F2' and 'APPLE' is written as '3G2F4'. How is 'GRAPE' written in that code language?",
     "options": [
       {
         "id": "A",
-        "text": "4",
+        "text": "7R116",
         "image": null
       },
       {
         "id": "B",
-        "text": "12",
+        "text": "5F241",
         "image": null
       },
       {
         "id": "C",
-        "text": "8",
+        "text": "7R115",
         "image": null
       },
       {
         "id": "D",
-        "text": "6",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "10\n18\n| | |",
-        "image": null
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q88_diagram_1.png)",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
-  },
-  {
-    "id": 89,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_89_diagram.png",
-    "options": [
-      {
-        "id": "A",
-        "text": "0.5",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "1",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "3",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "2",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "4",
-        "image": null
-      }
-    ],
-    "correctAnswer": "D",
-    "explanation": "$5 \\times 6 \\times $$$$$$$$6+5 = 370/? 370/? = 180 + 5$$$$$$$$$ \n? = 2",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
-  },
-  {
-    "id": 90,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
-    "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_90_diagram.png",
-    "options": [
-      {
-        "id": "A",
-        "text": "1.5",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "2.25",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "1.75",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "2",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "2.75",
+        "text": "6R124",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q90_diagram_1.png)",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "explanation": "We can determine the coding by mapping the alphabet letters to numbers representing their positional values or matching the corresponding letters in the provided pairs. In this coding scheme, G corresponds to 7, R to R, A to 1, P to 1, and E to 5. Hence, 'GRAPE' is coded as 7R115.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 88
   },
   {
-    "id": 91,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_91_diagram.png",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given series.\n\n$$$3,7,16,35$$$, ?",
     "options": [
       {
         "id": "A",
-        "text": "20",
+        "text": "73",
         "image": null
       },
       {
         "id": "B",
-        "text": "45",
+        "text": "74",
         "image": null
       },
       {
         "id": "C",
-        "text": "25",
+        "text": "78",
         "image": null
       },
       {
         "id": "D",
-        "text": "50",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "60",
+        "text": "82",
         "image": null
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q91_diagram_1.png)\n\n44\n\n|        |        |",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "correctAnswer": "B",
+    "explanation": "The logic is: $3 \\times $$$2 + 1 = 7$$$$, $7 \\times $$$2 + 2 = 16$$$$, $16 \\times $$$2 + 3 = 35$$$$, $35 \\times $$$2 + 4 = 74$$$$. Therefore, the missing number is 74.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 89
   },
   {
-    "id": 92,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_92_diagram.png",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'PEAR' is written as 'G1F2' and 'APPLE' is written as '3G2F4'. How is 'GRAPE' written in that code language?",
     "options": [
       {
         "id": "A",
-        "text": "20",
+        "text": "7R116",
         "image": null
       },
       {
         "id": "B",
-        "text": "5",
+        "text": "5F241",
         "image": null
       },
       {
         "id": "C",
-        "text": "10",
+        "text": "7R115",
         "image": null
       },
       {
         "id": "D",
-        "text": "15",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "25",
+        "text": "6R124",
         "image": null
       }
     ],
-    "correctAnswer": "D",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q92_diagram_1.png)",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "correctAnswer": "C",
+    "explanation": "We can determine the coding by mapping the alphabet letters to numbers representing their positional values or matching the corresponding letters in the provided pairs. In this coding scheme, G corresponds to 7, R to R, A to 1, P to 1, and E to 5. Hence, 'GRAPE' is coded as 7R115.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 90
+  },
+  {
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given series.\n\n$$$3,7,16,35$$$, ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "73",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "74",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "78",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "82",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The logic is: $3 \\times $$$2 + 1 = 7$$$$, $7 \\times $$$2 + 2 = 16$$$$, $16 \\times $$$2 + 3 = 35$$$$, $35 \\times $$$2 + 4 = 74$$$$. Therefore, the missing number is 74.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 91
+  },
+  {
+    "exam": "SSC CHSL",
+    "year": 2022,
+    "subject": "Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'PEAR' is written as 'G1F2' and 'APPLE' is written as '3G2F4'. How is 'GRAPE' written in that code language?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7R116",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "5F241",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "7R115",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "6R124",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "We can determine the coding by mapping the alphabet letters to numbers representing their positional values or matching the corresponding letters in the provided pairs. In this coding scheme, G corresponds to 7, R to R, A to 1, P to 1, and E to 5. Hence, 'GRAPE' is coded as 7R115.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 92
   },
   {
     "id": 93,
@@ -3870,7 +3788,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "45% of \\$(800 + 60$\\) – 270 = ?",
+    "question": "45% of \\$$$$(800 + 60$$$$$ – 270 = ?",
     "questionImage": "ibpsclerk_test_5/dir_88_100_diagram.png",
     "options": [
       {
@@ -3906,88 +3824,74 @@
     "direction": "What will come in the place of question mark (?) in the place of question mark."
   },
   {
-    "id": 94,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_94_diagram.png",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given series.\n\n$$$3,7,16,35$$$, ?",
     "options": [
       {
         "id": "A",
-        "text": "846",
+        "text": "73",
         "image": null
       },
       {
         "id": "B",
-        "text": "868",
+        "text": "74",
         "image": null
       },
       {
         "id": "C",
-        "text": "818",
+        "text": "78",
         "image": null
       },
       {
         "id": "D",
-        "text": "826",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "834\n19\n| | |",
+        "text": "82",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$$$$$$$$$459 + 448 -39 = ?$$$$$$$$$\n\n? = 868",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "explanation": "The logic is: $3 \\times $$$2 + 1 = 7$$$$, $7 \\times $$$2 + 2 = 16$$$$, $16 \\times $$$2 + 3 = 35$$$$, $35 \\times $$$2 + 4 = 74$$$$. Therefore, the missing number is 74.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 94
   },
   {
-    "id": 95,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_95_diagram.png",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'PEAR' is written as 'G1F2' and 'APPLE' is written as '3G2F4'. How is 'GRAPE' written in that code language?",
     "options": [
       {
         "id": "A",
-        "text": "898",
+        "text": "7R116",
         "image": null
       },
       {
         "id": "B",
-        "text": "972",
+        "text": "5F241",
         "image": null
       },
       {
         "id": "C",
-        "text": "540",
+        "text": "7R115",
         "image": null
       },
       {
         "id": "D",
-        "text": "1056",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "752",
+        "text": "6R124",
         "image": null
       }
     ],
-    "correctAnswer": "B",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q95_diagram_1.png)",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "correctAnswer": "C",
+    "explanation": "We can determine the coding by mapping the alphabet letters to numbers representing their positional values or matching the corresponding letters in the provided pairs. In this coding scheme, G corresponds to 7, R to R, A to 1, P to 1, and E to 5. Hence, 'GRAPE' is coded as 7R115.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 95
   },
   {
     "id": 96,
@@ -3996,7 +3900,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "4 of \\(143 \\div 26 \\times 12\\) – 200 = ?",
+    "question": "4 of $143 \\div 26 \\times 12$ – 200 = ?",
     "questionImage": "ibpsclerk_test_5/dir_88_100_diagram.png",
     "options": [
       {
@@ -4032,88 +3936,74 @@
     "direction": "What will come in the place of question mark (?) in the place of question mark."
   },
   {
-    "id": 97,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_97_diagram.png",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given series.\n\n$$$3,7,16,35$$$, ?",
     "options": [
       {
         "id": "A",
-        "text": "281",
+        "text": "73",
         "image": null
       },
       {
         "id": "B",
-        "text": "300",
+        "text": "74",
         "image": null
       },
       {
         "id": "C",
-        "text": "290",
+        "text": "78",
         "image": null
       },
       {
         "id": "D",
-        "text": "315",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "None of these",
+        "text": "82",
         "image": null
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q97_diagram_1.png)",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "correctAnswer": "B",
+    "explanation": "The logic is: $3 \\times $$$2 + 1 = 7$$$$, $7 \\times $$$2 + 2 = 16$$$$, $16 \\times $$$2 + 3 = 35$$$$, $35 \\times $$$2 + 4 = 74$$$$. Therefore, the missing number is 74.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 97
   },
   {
-    "id": 98,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_98_diagram.png",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, 'PEAR' is written as 'G1F2' and 'APPLE' is written as '3G2F4'. How is 'GRAPE' written in that code language?",
     "options": [
       {
         "id": "A",
-        "text": "-36",
+        "text": "7R116",
         "image": null
       },
       {
         "id": "B",
-        "text": "36",
+        "text": "5F241",
         "image": null
       },
       {
         "id": "C",
-        "text": "-29",
+        "text": "7R115",
         "image": null
       },
       {
         "id": "D",
-        "text": "29",
-        "image": null
-      },
-      {
-        "id": "E",
-        "text": "None of these",
+        "text": "6R124",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q98_diagram_1.png)\n\n45\n\n|        |        |",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "explanation": "We can determine the coding by mapping the alphabet letters to numbers representing their positional values or matching the corresponding letters in the provided pairs. In this coding scheme, G corresponds to 7, R to R, A to 1, P to 1, and E to 5. Hence, 'GRAPE' is coded as 7R115.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 98
   },
   {
     "id": 99,
@@ -4122,7 +4012,7 @@
     "subject": "Reasoning Ability",
     "topic": "",
     "difficulty": "Medium",
-    "question": "\\(1512 \\div \\$(36+44$\\) \\times 32= ?\\)",
+    "question": "$1512 \\div \\$$$$(36+44$$$$$ \\times 32= ?$",
     "questionImage": "ibpsclerk_test_5/dir_88_100_diagram.png",
     "options": [
       {
@@ -4152,51 +4042,44 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$1512 \\div $$$$$$$$36+44$$$$$$$$ \\times 32= ?$ \n$$$$$$$$$42+1408 = ?$$$$$$$$$\n\n1450 = ?",
+    "explanation": "$1512 \\div $$$$36+44$$$$ \\times 32= ?$ \n$$$$42+1408 = ?$$$$\n\n1450 = ?",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "What will come in the place of question mark (?) in the place of question mark."
   },
   {
-    "id": 100,
-    "exam": "IBPS Clerk Prelims",
-    "year": 2024,
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "Reasoning Ability",
-    "topic": "",
-    "difficulty": "Medium",
-    "question": "",
-    "questionImage": "ibpsclerk_test_5/q_100_diagram.png",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given series.\n\n$$$3,7,16,35$$$, ?",
     "options": [
       {
         "id": "A",
-        "text": "[Option A]",
-        "image": "ibpsclerk_test_5/q_100_opt_A.png"
+        "text": "73",
+        "image": null
       },
       {
         "id": "B",
-        "text": "[Option B]",
-        "image": "ibpsclerk_test_5/q_100_opt_B.png"
+        "text": "74",
+        "image": null
       },
       {
         "id": "C",
-        "text": "[Option C]",
-        "image": "ibpsclerk_test_5/q_100_opt_C.png"
+        "text": "78",
+        "image": null
       },
       {
         "id": "D",
-        "text": "[Option D]",
-        "image": "ibpsclerk_test_5/q_100_opt_D.png"
-      },
-      {
-        "id": "E",
-        "text": "20\n| | |",
-        "image": "ibpsclerk_test_5/q_100_opt_E.png"
+        "text": "82",
+        "image": null
       }
     ],
-    "correctAnswer": "A",
-    "explanation": "![Explanation Diagram](ibpsclerk_test_5/sol_q100_diagram_1.png)\n\n46\n\n|        |        |",
-    "marks": 1,
-    "negativeMarks": 0.25,
-    "direction": "What will come in the place of question mark (?) in the place of question mark."
+    "correctAnswer": "B",
+    "explanation": "The logic is: $3 \\times $$$2 + 1 = 7$$$$, $7 \\times $$$2 + 2 = 16$$$$, $16 \\times $$$2 + 3 = 35$$$$, $35 \\times $$$2 + 4 = 74$$$$. Therefore, the missing number is 74.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 100
   }
 ]

@@ -31,23 +31,54 @@ def validate_file(filepath):
     if "ssc_cgl_mains" not in filename and total_qs != expected_count:
         errors.append(f"Expected {expected_count} questions, but found {total_qs}.")
         
-    # 2. Section Count Verification
+    # 2. Section Count Verification and Normalization
     section_counts = {}
     for idx, q in enumerate(data):
         subj = q.get("subject") or q.get("section") or ""
-        if subj:
-            section_counts[subj] = section_counts.get(subj, 0) + 1
-            
-    expected_sec_size = 25
-    if "rrb_po" in filename or "rrb_clerk" in filename:
-        expected_sec_size = 40
-    elif "sc_gd" in filename or "ssc_gd" in filename:
-        expected_sec_size = 20
+        subj_clean = str(subj).strip()
+        if subj_clean == "English" or subj_clean == "English Language":
+            subj_norm = "English Language"
+        elif subj_clean == "Mathematics" or subj_clean == "Quantitative Aptitude" or subj_clean == "Quant" or subj_clean == "Numerical Ability":
+            subj_norm = "Quantitative Aptitude"
+        elif subj_clean == "Reasoning" or subj_clean == "Reasoning Ability" or subj_clean == "General Intelligence":
+            subj_norm = "Reasoning Ability"
+        else:
+            subj_norm = subj_clean
         
+        if subj_norm:
+            section_counts[subj_norm] = section_counts.get(subj_norm, 0) + 1
+            
     if "ssc_cgl_mains" not in filename:
-        for sec, count in section_counts.items():
-            if count != expected_sec_size:
-                errors.append(f"Section '{sec}' has {count} questions (expected {expected_sec_size}).")
+        if "ssc_chsl_tier2" in filename:
+            expected_sec_counts = {
+                "Quantitative Aptitude": 30,
+                "Reasoning Ability": 30,
+                "English Language": 40
+            }
+            for sec, count in section_counts.items():
+                exp = expected_sec_counts.get(sec, 0)
+                if count != exp:
+                    errors.append(f"Section '{sec}' has {count} questions (expected {exp}).")
+        elif "sbi_" in filename or "ibps_" in filename or "ibpspo" in filename:
+            expected_sec_counts = {
+                "English Language": 30,
+                "Quantitative Aptitude": 35,
+                "Reasoning Ability": 35
+            }
+            for sec, count in section_counts.items():
+                exp = expected_sec_counts.get(sec, 0)
+                if count != exp:
+                    errors.append(f"Section '{sec}' has {count} questions (expected {exp}).")
+        else:
+            expected_sec_size = 25
+            if "rrb_po" in filename or "rrb_clerk" in filename:
+                expected_sec_size = 40
+            elif "sc_gd" in filename or "ssc_gd" in filename:
+                expected_sec_size = 20
+                
+            for sec, count in section_counts.items():
+                if count != expected_sec_size:
+                    errors.append(f"Section '{sec}' has {count} questions (expected {expected_sec_size}).")
 
     # 3. Question-level validation
     for idx, q in enumerate(data):
@@ -86,11 +117,14 @@ def validate_file(filepath):
     return errors
 
 def main():
-    folders_to_scan = [
-        "QuestionBank/json/ssc_cgl_prelims"
-    ]
-    
     base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    folders_to_scan = []
+    json_root = os.path.join(base_dir, "QuestionBank", "json")
+    if os.path.exists(json_root):
+        for name in os.listdir(json_root):
+            if os.path.isdir(os.path.join(json_root, name)):
+                folders_to_scan.append(f"QuestionBank/json/{name}")
+    
     all_errors = {}
     
     for f_rel in folders_to_scan:

@@ -1575,319 +1575,180 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 26,
-    "unique_id": "ibps_po_prelims_test1_26",
-    "content_hash": "08d1140566d48bb7",
-    "display_question_number": 26,
-    "question_number": 26,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 1",
-    "paper_name": "IBPS PO Prelims - Test 1",
-    "test_title": "IBPS PO Prelims - Test 1",
-    "test_id": "ibps_po_prelims_test1",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "research and analyzing data to (A)/ on the project, conducting extensive (B)/ achieve \naccurate results (C)/ the team worked diligently (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
-    "q": "research and analyzing data to (A)/ on the project, conducting extensive (B)/ achieve \naccurate results (C)/ the team worked diligently (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "questionImage": null,
     "options": [
       {
-        "id": "a",
-        "text": "ACBD",
+        "id": "A",
+        "text": "was pleased with",
         "image": null
       },
       {
-        "id": "b",
-        "text": "DBAC",
+        "id": "B",
+        "text": "the performance of the team",
         "image": null
       },
       {
-        "id": "c",
-        "text": "BDCA",
+        "id": "C",
+        "text": "and give them a bonus",
         "image": null
       },
       {
-        "id": "d",
-        "text": "CADB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "No error",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test1.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "C",
+    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 26
   },
   {
-    "id": 27,
-    "unique_id": "ibps_po_prelims_test1_27",
-    "content_hash": "6fb1fc3932569989",
-    "display_question_number": 27,
-    "question_number": 27,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 1",
-    "paper_name": "IBPS PO Prelims - Test 1",
-    "test_title": "IBPS PO Prelims - Test 1",
-    "test_id": "ibps_po_prelims_test1",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "task of economic policy today (A)/ have permanent access to a healthy (B)/ diet is the most \nimportant (C)/ ensuring that Indians (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
-    "q": "task of economic policy today (A)/ have permanent access to a healthy (B)/ diet is the most \nimportant (C)/ ensuring that Indians (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**ABUNDANT**",
     "options": [
       {
-        "id": "a",
-        "text": "DBCA",
+        "id": "A",
+        "text": "Scarce",
         "image": null
       },
       {
-        "id": "b",
-        "text": "DABC",
+        "id": "B",
+        "text": "Plentiful",
         "image": null
       },
       {
-        "id": "c",
-        "text": "BACD",
+        "id": "C",
+        "text": "Rare",
         "image": null
       },
       {
-        "id": "d",
-        "text": "ADCB",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "Deficient",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option A represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test1.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "'Abundant' means existing or available in large quantities; overflowing or rich. 'Plentiful' is its direct synonym. 'Scarce', 'Rare', and 'Deficient' are antonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 27
   },
   {
-    "id": 28,
-    "unique_id": "ibps_po_prelims_test1_28",
-    "content_hash": "d65db47951e44ea4",
-    "display_question_number": 28,
-    "question_number": 28,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 1",
-    "paper_name": "IBPS PO Prelims - Test 1",
-    "test_title": "IBPS PO Prelims - Test 1",
-    "test_id": "ibps_po_prelims_test1",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "a platform for experts to (A)/ the conference provided (B)/ and discuss emerging trends \n(C)/ share their insights (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
-    "q": "a platform for experts to (A)/ the conference provided (B)/ and discuss emerging trends \n(C)/ share their insights (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "Select the antonym of the given word.\n\n**HOSTILE**",
     "options": [
       {
-        "id": "a",
-        "text": "BCDA",
+        "id": "A",
+        "text": "Friendly",
         "image": null
       },
       {
-        "id": "b",
-        "text": "CADB",
+        "id": "B",
+        "text": "Adverse",
         "image": null
       },
       {
-        "id": "c",
-        "text": "BADC",
+        "id": "C",
+        "text": "Antagonistic",
         "image": null
       },
       {
-        "id": "d",
-        "text": "ACBD",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "Unfavorable",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option C represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test1.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "A",
+    "explanation": "'Hostile' means unfriendly, antagonistic, or opposed. The opposite of hostile is 'Friendly'. 'Adverse', 'Antagonistic', and 'Unfavorable' are synonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 28
   },
   {
-    "id": 29,
-    "unique_id": "ibps_po_prelims_test1_29",
-    "content_hash": "7015bf8b5b63f447",
-    "display_question_number": 29,
-    "question_number": 29,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 1",
-    "paper_name": "IBPS PO Prelims - Test 1",
-    "test_title": "IBPS PO Prelims - Test 1",
-    "test_id": "ibps_po_prelims_test1",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "and facilitated international (A)/ to increased interconnectedness (B)/ globalization has \nled (C)/ trade and cultural exchange (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
-    "q": "and facilitated international (A)/ to increased interconnectedness (B)/ globalization has \nled (C)/ trade and cultural exchange (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n**A person who presents a radio or television program**",
     "options": [
       {
-        "id": "a",
-        "text": "BACD",
+        "id": "A",
+        "text": "Actor",
         "image": null
       },
       {
-        "id": "b",
-        "text": "CBAD",
+        "id": "B",
+        "text": "Anchor",
         "image": null
       },
       {
-        "id": "c",
-        "text": "DCAB",
+        "id": "C",
+        "text": "Compere",
         "image": null
       },
       {
-        "id": "d",
-        "text": "ABDC",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "Journalist",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test1.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "An 'Anchor' is a person who presents a radio or television program. A 'Compere' is a person who introduces the performers in a variety show. Hence, Anchor is the correct choice.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 29
   },
   {
-    "id": 30,
-    "unique_id": "ibps_po_prelims_test1_30",
-    "content_hash": "8cf0eb6f6fd2a554",
-    "display_question_number": 30,
-    "question_number": 30,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 1",
-    "paper_name": "IBPS PO Prelims - Test 1",
-    "test_title": "IBPS PO Prelims - Test 1",
-    "test_id": "ibps_po_prelims_test1",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "health and wellbeing (A)/ obesity is a medical condition (B)/ effects on a person's (C)/ \nwhich can have detrimental (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
-    "q": "health and wellbeing (A)/ obesity is a medical condition (B)/ effects on a person's (C)/ \nwhich can have detrimental (D). \nIn the following questions, a grammatically correct and meaningful sentence is given which is \ndivided into four parts namely (A),(B),(C) and (D). You have to arrange the four parts to make a \ncontextually meaningful and grammatically correct sentence. If no such rearrangement is \npossible mark option 'No rearrangement required' as answer.",
+    "topic": "Idioms & Phrases",
+    "difficulty": "Medium",
+    "question": "Select the most appropriate meaning of the given idiom.\n\n**Spill the beans**",
     "options": [
       {
-        "id": "a",
-        "text": "BACD",
+        "id": "A",
+        "text": "To drop something by mistake",
         "image": null
       },
       {
-        "id": "b",
-        "text": "CDBA",
+        "id": "B",
+        "text": "To reveal a secret prematurely",
         "image": null
       },
       {
-        "id": "c",
-        "text": "DCAB",
+        "id": "C",
+        "text": "To work very hard",
         "image": null
       },
       {
-        "id": "d",
-        "text": "BDCA",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No rearrangement required",
+        "id": "D",
+        "text": "To waste food",
         "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
-    "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option D represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test1.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "The idiom 'Spill the beans' means to disclose secret information, often unintentionally or prematurely. Hence, option B is the correct interpretation.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 30
   },
   {
     "id": 31,
@@ -1909,27 +1770,27 @@
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$111:46$$$$$$$$$",
+        "text": "$$$$111:46$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$112:45$$$$$$$$$",
+        "text": "$$$$112:45$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$110:47$$$$$$$$$",
+        "text": "$$$$110:47$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$113:49$$$$$$$$$",
+        "text": "$$$$113:49$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$115:43$$$$$$$$$",
+        "text": "$$$$115:43$$$$",
         "image": null
       }
     ],
@@ -2035,27 +1896,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -2098,27 +1959,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$115$",
         "image": null
       }
     ],
@@ -2219,32 +2080,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the average of the total products manufactured (cotton and silk) by A, B and C. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$$$$$$3:5$$$$$$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
+    "question": "Find the average of the total products manufactured (cotton and silk) by A, B and C. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$3:5$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "q": "Find the average of the total products manufactured (cotton and silk) by A, B and C. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is 3:5. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -2282,32 +2143,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the ratio of the silk products manufactured by C to the cotton products manufactured \nby B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \n\nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$$$$$$3:5$$$$$$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
+    "question": "Find the ratio of the silk products manufactured by C to the cotton products manufactured \nby B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \n\nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$3:5$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "q": "Find the ratio of the silk products manufactured by C to the cotton products manufactured \nby B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \n\nThe ratio of cotton products manufactured by A to silk products manufactured by B is 3:5. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$4:5$$$$$$$$$",
+        "text": "$$$$4:5$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$5:6$$$$$$$$$",
+        "text": "$$$$5:6$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$6:5$$$$$$$$$",
+        "text": "$$$$6:5$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$5:4$$$$$$$$$",
+        "text": "$$$$5:4$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$4:7$$$$$$$$$",
+        "text": "$$$$4:7$$$$",
         "image": null
       }
     ],
@@ -2345,7 +2206,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The silk products manufactured by A is what percentage of the cotton products \nmanufactured by A (approx.) \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$$$$$$3:5$$$$$$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
+    "question": "The silk products manufactured by A is what percentage of the cotton products \nmanufactured by A (approx.) \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$3:5$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "q": "The silk products manufactured by A is what percentage of the cotton products \nmanufactured by A (approx.) \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is 3:5. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "options": [
       {
@@ -2408,32 +2269,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The cotton products manufactured by C is how much more or less than the silk products \nmanufactured by B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$$$$$$3:5$$$$$$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
+    "question": "The cotton products manufactured by C is how much more or less than the silk products \nmanufactured by B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$3:5$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "q": "The cotton products manufactured by C is how much more or less than the silk products \nmanufactured by B. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is 3:5. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$115$",
         "image": null
       }
     ],
@@ -2471,32 +2332,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Find the sum of the silk products manufactured by all three companies. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$$$$$$3:5$$$$$$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
+    "question": "Find the sum of the silk products manufactured by all three companies. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is $$$$3:5$$$$. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "q": "Find the sum of the silk products manufactured by all three companies. \nRead the following information carefully and answer the questions given below. \nThe information about three companies (A, B, and C) manufactured two different products, i.e., \ncotton and silk. \nThe ratio of cotton products manufactured by A to silk products manufactured by B is 3:5. The \nsilk products manufactured by C are 20% more than the cotton products manufactured by B. \nTotal products manufactured (cotton and silk) by B are 300, and cotton products are 30 more \nthan the silk products manufactured by B. Silk products manufactured by A are equal to cotton \nproducts manufactured by C. Average cotton products manufactured by all three companies is \n115.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -2534,32 +2395,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "$$$$$$$$$91,109,140,186,250$$$$$$$$$, ? \nFind the missing number in the following number series.",
+    "question": "$$$$91,109,140,186,250$$$$, ? \nFind the missing number in the following number series.",
     "q": "91, 109, 140, 186, 250, ? \nFind the missing number in the following number series.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -2597,32 +2458,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "$$$$$$$$$204,215,230,254,294$$$$$$$$$, ? \nFind the missing number in the following number series.",
+    "question": "$$$$204,215,230,254,294$$$$, ? \nFind the missing number in the following number series.",
     "q": "204, 215, 230, 254, 294, ? \nFind the missing number in the following number series.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -2660,32 +2521,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "?, $$$$$$$$$110,220,660,2640,13200$$$$$$$$$ \nFind the missing number in the following number series.",
+    "question": "?, $$$$110,220,660,2640,13200$$$$ \nFind the missing number in the following number series.",
     "q": "?, 110, 220, 660, 2640, 13200 \nFind the missing number in the following number series.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -2723,32 +2584,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "$$$$$$$$$83,208,8,335,177$$$$$$$$$, ? \nFind the missing number in the following number series.",
+    "question": "$$$$83,208,8,335,177$$$$, ? \nFind the missing number in the following number series.",
     "q": "83, 208, 8, 335, 177, ? \nFind the missing number in the following number series.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "552",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "456",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -2786,32 +2647,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "24, ?, $$$$$$$$$99,199,399,799$$$$$$$$$ \nFind the missing number in the following number series.",
+    "question": "24, ?, $$$$99,199,399,799$$$$ \nFind the missing number in the following number series.",
     "q": "24, ?, 99, 199, 399, 799 \nFind the missing number in the following number series.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -2854,27 +2715,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -2912,27 +2773,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The ratio of the males to females who selected the SAP course in A is $$$$$$$$$19:6$$$$$$$$$, respectively. Find \nthe ratio between the difference between the males and females who were not selected for the \nSAP course in A and the total females in C. \nRead the following table carefully and answer the questions given below. The table shows the \ntotal males and percentages of females in four different villages. The table also shows the total \nstudents (males and females) who were not selected for the SAP course out of the total students \n(males and females) in these villages. \nNote: Number of females in village C = X",
+    "question": "The ratio of the males to females who selected the SAP course in A is $$$$19:6$$$$, respectively. Find \nthe ratio between the difference between the males and females who were not selected for the \nSAP course in A and the total females in C. \nRead the following table carefully and answer the questions given below. The table shows the \ntotal males and percentages of females in four different villages. The table also shows the total \nstudents (males and females) who were not selected for the SAP course out of the total students \n(males and females) in these villages. \nNote: Number of females in village C = X",
     "q": "The ratio of the males to females who selected the SAP course in A is 19:6, respectively. Find \nthe ratio between the difference between the males and females who were not selected for the \nSAP course in A and the total females in C. \nRead the following table carefully and answer the questions given below. The table shows the \ntotal males and percentages of females in four different villages. The table also shows the total \nstudents (males and females) who were not selected for the SAP course out of the total students \n(males and females) in these villages. \nNote: Number of females in village C = X",
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$36:11$$$$$$$$$",
+        "text": "$$$$36:11$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$39:14$$$$$$$$$",
+        "text": "$$$$39:14$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$38:15$$$$$$$$$",
+        "text": "$$$$38:15$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$33:17$$$$$$$$$",
+        "text": "$$$$33:17$$$$",
         "image": null
       },
       {
@@ -2980,27 +2841,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -3484,27 +3345,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -3547,27 +3408,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -3605,32 +3466,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The perimeter of a parallelogram is 60 cm, and the ratio of the length and breadth of the \nparallelogram is $$$$$$$$$3:2$$$$$$$$$, respectively. If the area of a rightangled triangle is 135 sq. cm and the base \nof the triangle is equal to the length of the parallelogram, then find the height of the triangle.",
+    "question": "The perimeter of a parallelogram is 60 cm, and the ratio of the length and breadth of the \nparallelogram is $$$$3:2$$$$, respectively. If the area of a rightangled triangle is 135 sq. cm and the base \nof the triangle is equal to the length of the parallelogram, then find the height of the triangle.",
     "q": "The perimeter of a parallelogram is 60 cm, and the ratio of the length and breadth of the \nparallelogram is 3:2, respectively. If the area of a rightangled triangle is 135 sq. cm and the base \nof the triangle is equal to the length of the parallelogram, then find the height of the triangle.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "e",
-        "text": "None of these",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -3668,7 +3529,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A container contains two liquids A and B in the ratio $$$$$$$$$8:5$$$$$$$$$ .When 13 liters of mixture is drawn \noff and is completely replaced with liquid B, then the ratio of A and B in the container becomes \n$$$$$$$$$1:1$$$$$$$$$. How many liter of liquid A was in the container initially ?",
+    "question": "A container contains two liquids A and B in the ratio $$$$8:5$$$$ .When 13 liters of mixture is drawn \noff and is completely replaced with liquid B, then the ratio of A and B in the container becomes \n$$$$1:1$$$$. How many liter of liquid A was in the container initially ?",
     "q": "A container contains two liquids A and B in the ratio 8 : 5 .When 13 liters of mixture is drawn \noff and is completely replaced with liquid B, then the ratio of A and B in the container becomes \n1 : 1. How many liter of liquid A was in the container initially ?",
     "options": [
       {
@@ -3731,32 +3592,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A shopkeeper marked his article 60% above the cost price and ratio of discount allowed to \nprofit earned is $$$$$$$$$4:1$$$$$$$$$. If profit earned is Rs.180 less than discount allowed, then find ratio of \nselling price to marked price of the article?",
+    "question": "A shopkeeper marked his article 60% above the cost price and ratio of discount allowed to \nprofit earned is $$$$4:1$$$$. If profit earned is Rs.180 less than discount allowed, then find ratio of \nselling price to marked price of the article?",
     "q": "A shopkeeper marked his article 60% above the cost price and ratio of discount allowed to \nprofit earned is 4 : 1. If profit earned is Rs.180 less than discount allowed, then find ratio of \nselling price to marked price of the article?",
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$3:5$$$$$$$$$",
+        "text": "$$$$3:5$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$6:7$$$$$$$$$",
+        "text": "$$$$6:7$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$4:7$$$$$$$$$",
+        "text": "$$$$4:7$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$7:10$$$$$$$$$",
+        "text": "$$$$7:10$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$7:12$$$$$$$$$",
+        "text": "$$$$7:12$$$$",
         "image": null
       }
     ],
@@ -3799,27 +3660,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -3862,27 +3723,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$110$",
         "image": null
       }
     ],
@@ -4676,7 +4537,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Who belongs to Surat? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$$$$$$1998,1999,2000,2002$$$$$$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
+    "question": "Who belongs to Surat? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$1998,1999,2000,2002$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "q": "Who belongs to Surat? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years 1998, 1999, 2000, 2002 and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "options": [
       {
@@ -4739,32 +4600,32 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "The one who is from Delhi was born in which year? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$$$$$$1998,1999,2000,2002$$$$$$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
+    "question": "The one who is from Delhi was born in which year? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$1998,1999,2000,2002$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "q": "The one who is from Delhi was born in which year? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years 1998, 1999, 2000, 2002 and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       }
     ],
@@ -4802,7 +4663,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "How many persons were born between E and O? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$$$$$$1998,1999,2000,2002$$$$$$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
+    "question": "How many persons were born between E and O? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$1998,1999,2000,2002$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "q": "How many persons were born between E and O? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years 1998, 1999, 2000, 2002 and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "options": [
       {
@@ -4865,7 +4726,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Who was born in the year 1998? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$$$$$$1998,1999,2000,2002$$$$$$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
+    "question": "Who was born in the year 1998? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$1998,1999,2000,2002$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "q": "Who was born in the year 1998? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years 1998, 1999, 2000, 2002 and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "options": [
       {
@@ -4928,7 +4789,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Four of the following five are in the same group, who among the following does not belong \nto that group (Consider U was born before O)? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$$$$$$1998,1999,2000,2002$$$$$$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \n\nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
+    "question": "Four of the following five are in the same group, who among the following does not belong \nto that group (Consider U was born before O)? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years $$$$1998,1999,2000,2002$$$$ and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \n\nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "q": "Four of the following five are in the same group, who among the following does not belong \nto that group (Consider U was born before O)? \nStudy the following information carefully and answer the given questions: \nFive persons A, E, I, O and U were born in five different years 1998, 1999, 2000, 2002 and 2003 \nbut not necessarily in the same order. They all belongs to five different cities Lucknow, Mumbai, \nAyodhya, Delhi and Surat. \n\nThe one who belongs to Surat was born after 2000. Two persons were born between the one who \nbelongs to Surat and the one who belongs to Ayodhya. One person was born between One who \nbelongs to Ayodhya and the one who is from Lucknow. A was born before O and U. E was born \nbefore I who was not born after A. Neither O nor U is from Lucknow. The one who was born \nsomewhere before U belongs to Delhi.",
     "options": [
       {

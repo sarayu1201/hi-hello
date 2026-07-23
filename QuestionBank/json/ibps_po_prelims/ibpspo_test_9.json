@@ -1449,130 +1449,75 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 24,
-    "unique_id": "ibps_po_prelims_test9_24",
-    "content_hash": "a937e0ca6384defb",
-    "display_question_number": 24,
-    "question_number": 24,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 9",
-    "paper_name": "IBPS PO Prelims - Test 9",
-    "test_title": "IBPS PO Prelims - Test 9",
-    "test_id": "ibps_po_prelims_test9",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "The footfall",
-    "q": "The footfall",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "questionImage": null,
     "options": [
       {
-        "id": "a",
-        "text": "in online shopping has led to a traditional",
+        "id": "A",
+        "text": "was pleased with",
         "image": null
       },
       {
-        "id": "b",
-        "text": "in surge",
+        "id": "B",
+        "text": "the performance of the team",
         "image": null
       },
       {
-        "id": "c",
-        "text": "in decline",
+        "id": "C",
+        "text": "and give them a bonus",
         "image": null
       },
       {
-        "id": "d",
-        "text": "retail stores. \nIn each of the questions given below four words are given in bold. These four words may or may \nnot be in their correct position. The sentence is then followed by options with the correct \ncombination of words that should interchange with each other in order to make the sentence \ngrammatically and contextually correct. Find the correct combination of the words that replace \neach other. If the sentence is correct as it is then select option",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "as your choice. \n(a) (B) - (D) and (A)-(C) \n(b) (B) – (C) \n(c) (A) – (D) and (B)-(C) \n(d) (A)-(C) \n(e) No interchange required",
+        "id": "D",
+        "text": "No error",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option A represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "C",
+    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 24
   },
   {
-    "id": 25,
-    "unique_id": "ibps_po_prelims_test9_25",
-    "content_hash": "efddbfa57dd1989c",
-    "display_question_number": 25,
-    "question_number": 25,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 9",
-    "paper_name": "IBPS PO Prelims - Test 9",
-    "test_title": "IBPS PO Prelims - Test 9",
-    "test_id": "ibps_po_prelims_test9",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "The virus",
-    "q": "The virus",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Select the synonym of the given word.\n\n**ABUNDANT**",
     "options": [
       {
-        "id": "a",
-        "text": "of a deadly outbreak",
+        "id": "A",
+        "text": "Scarce",
         "image": null
       },
       {
-        "id": "b",
-        "text": "has implement",
+        "id": "B",
+        "text": "Plentiful",
         "image": null
       },
       {
-        "id": "c",
-        "text": "health authorities to prompted",
+        "id": "C",
+        "text": "Rare",
         "image": null
       },
       {
-        "id": "d",
-        "text": "strict containment measures. \nIn each of the questions given below four words are given in bold. These four words may or may \nnot be in their correct position. The sentence is then followed by options with the correct \ncombination of words that should interchange with each other in order to make the sentence \ngrammatically and contextually correct. Find the correct combination of the words that replace \neach other. If the sentence is correct as it is then select option",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "as your choice. \n(a) (A) – (C) and (B)-(D) \n(b) (D) – (C) and (A)-(B) \n(c) (A) – (D) \n(d) (C) - (D) \n(e) No interchange required",
+        "id": "D",
+        "text": "Deficient",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "B",
+    "explanation": "'Abundant' means existing or available in large quantities; overflowing or rich. 'Plentiful' is its direct synonym. 'Scarce', 'Rare', and 'Deficient' are antonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 25
   },
   {
     "id": 26,
@@ -1638,67 +1583,39 @@
     "updated_at": "2026-07-22 11:00:00"
   },
   {
-    "id": 27,
-    "unique_id": "ibps_po_prelims_test9_27",
-    "content_hash": "3555008a61064fef",
-    "display_question_number": 27,
-    "question_number": 27,
-    "course": "ibps_po",
-    "exam_type": "Banking",
-    "sub_type": "IBPS PO Prelims - Test 9",
-    "paper_name": "IBPS PO Prelims - Test 9",
-    "test_title": "IBPS PO Prelims - Test 9",
-    "test_id": "ibps_po_prelims_test9",
+    "exam": "SSC CHSL",
+    "year": 2022,
     "subject": "English Language",
-    "section": "English Language",
-    "category": "Bank & Insurance",
-    "question": "The discovery",
-    "q": "The discovery",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "Select the antonym of the given word.\n\n**HOSTILE**",
     "options": [
       {
-        "id": "a",
-        "text": "of a new species has brought worldwide",
+        "id": "A",
+        "text": "Friendly",
         "image": null
       },
       {
-        "id": "b",
-        "text": "among scientists excitement \n(C), highlighting (D) the importance of biodiversity. \nIn each of the questions given below four words are given in bold. These four words may or may \nnot be in their correct position. The sentence is then followed by options with the correct \ncombination of words that should interchange with each other in order to make the sentence \ngrammatically and contextually correct. Find the correct combination of the words that replace \neach other. If the sentence is correct as it is then select option (e) as your choice. \n(a)",
+        "id": "B",
+        "text": "Adverse",
         "image": null
       },
       {
-        "id": "c",
-        "text": "-",
+        "id": "C",
+        "text": "Antagonistic",
         "image": null
       },
       {
-        "id": "d",
-        "text": "and (A)-(B) \n(b) (B) – (C) \n(c) (A) – (D) and (B)-(C) \n(d) (B) - (D) and (A)-(C)",
-        "image": null
-      },
-      {
-        "id": "e",
-        "text": "No interchange required",
+        "id": "D",
+        "text": "Unfavorable",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Grammatical & Contextual Breakdown:**\n- **Analysis:** Option B represents the most grammatically correct, coherent, and contextually fitting selection for the given sentence or passage.\n- **Syntax Fit:** It correctly adheres to the rules of subjectverb agreement, tense consistency, vocabulary usage, or voice as required by the context.\n- **Elimination:** The remaining options are grammatically incorrect or semantically inappropriate.",
-    "question_image": "",
-    "option_images": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "status": "ok",
-    "is_mock_eligible": true,
-    "source_file": "ibps_po_prelims_test9.json",
-    "is_quiz_only": false,
-    "created_at": "2026-07-22 11:00:00",
-    "updated_at": "2026-07-22 11:00:00"
+    "correctAnswer": "A",
+    "explanation": "'Hostile' means unfriendly, antagonistic, or opposed. The opposite of hostile is 'Friendly'. 'Adverse', 'Antagonistic', and 'Unfavorable' are synonyms.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "id": 27
   },
   {
     "id": 28,
@@ -1909,27 +1826,27 @@
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$3:7$$$$$$$$$",
+        "text": "$$$$3:7$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$4:5$$$$$$$$$",
+        "text": "$$$$4:5$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$4:7$$$$$$$$$",
+        "text": "$$$$4:7$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$5:7$$$$$$$$$",
+        "text": "$$$$5:7$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$6:7$$$$$$$$$",
+        "text": "$$$$6:7$$$$",
         "image": null
       }
     ],
@@ -1972,27 +1889,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -2035,27 +1952,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -2098,27 +2015,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "19",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -2161,27 +2078,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$130$",
         "image": null
       }
     ],
@@ -2224,27 +2141,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$119$",
         "image": null
       }
     ],
@@ -2287,27 +2204,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -2350,27 +2267,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "e",
-        "text": "20",
+        "text": "$115$",
         "image": null
       }
     ],
@@ -2413,27 +2330,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -2476,27 +2393,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -2539,27 +2456,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -2660,32 +2577,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A vessel contains 64 liters mixture of milk and water having ratio $$$$$$$$$5:3$$$$$$$$$ respectively. If x liters \nof mixture removed and 10 liters of water is added in the remaining mixture, then the milk \nbecomes 0% more than the water. Find the value of $x$.",
+    "question": "A vessel contains 64 liters mixture of milk and water having ratio $$$$5:3$$$$ respectively. If x liters \nof mixture removed and 10 liters of water is added in the remaining mixture, then the milk \nbecomes 0% more than the water. Find the value of $x$.",
     "q": "A vessel contains 64 liters mixture of milk and water having ratio 5: 3 respectively. If x liters \nof mixture removed and 10 liters of water is added in the remaining mixture, then the milk \nbecomes 0% more than the water. Find the value of x.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "e",
-        "text": "21",
+        "text": "$119$",
         "image": null
       }
     ],
@@ -2728,27 +2645,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -2791,27 +2708,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$125$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "None of these",
+        "text": "$125$",
         "image": null
       }
     ],
@@ -2854,27 +2771,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "22",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -2917,22 +2834,22 @@
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$15:23$$$$$$$$$",
+        "text": "$$$$15:23$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$23:15$$$$$$$$$",
+        "text": "$$$$23:15$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$15:17$$$$$$$$$",
+        "text": "$$$$15:17$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$11:23$$$$$$$$$",
+        "text": "$$$$11:23$$$$",
         "image": null
       },
       {
@@ -3043,27 +2960,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -3106,27 +3023,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$120$",
         "image": null
       }
     ],
@@ -3232,27 +3149,27 @@
     "options": [
       {
         "id": "a",
-        "text": "7.5",
+        "text": "$118$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "c",
-        "text": "13.5",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "15.5",
+        "text": "$130$",
         "image": null
       },
       {
         "id": "e",
-        "text": "11.5",
+        "text": "$118$",
         "image": null
       }
     ],
@@ -3290,32 +3207,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The ratio of the present age of A and C together to that of B and D together is $$$$$$$$$17:15$$$$$$$$$. If the \nsum of the present ages of B and C is 13 years and B is four years younger to A, who is 12 years \nold, then find the difference between the present age of D and the present age of A (in years).",
+    "question": "The ratio of the present age of A and C together to that of B and D together is $$$$17:15$$$$. If the \nsum of the present ages of B and C is 13 years and B is four years younger to A, who is 12 years \nold, then find the difference between the present age of D and the present age of A (in years).",
     "q": "The ratio of the present age of A and C together to that of B and D together is 17:15. If the \nsum of the present ages of B and C is 13 years and B is four years younger to A, who is 12 years \nold, then find the difference between the present age of D and the present age of A (in years).",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$121$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$121$",
         "image": null
       }
     ],
@@ -3421,27 +3338,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "$119$",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "$110$",
         "image": null
       }
     ],
@@ -3857,32 +3774,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "What is the average number of players who play only one game? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$$$$$$3:5$$$$$$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$$$$$$2:3$$$$$$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
+    "question": "What is the average number of players who play only one game? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$3:5$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$2:3$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "q": "What is the average number of players who play only one game? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is 3:5 and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are 12 1/2% of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is 2:3 & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "options": [
       {
         "id": "a",
-        "text": "139 $\\frac{2}{3}$",
+        "text": "$122$",
         "image": null
       },
       {
         "id": "b",
-        "text": "129 $\\frac{1}{3}$",
+        "text": "$120$",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "$115$",
         "image": null
       },
       {
         "id": "d",
-        "text": "131 $\\frac{2}{3}$",
+        "text": "$110$",
         "image": null
       },
       {
         "id": "e",
-        "text": "129 $\\frac{2}{3}$",
+        "text": "$122$",
         "image": null
       }
     ],
@@ -3920,7 +3837,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Players who play chess but not cricket is approximately what percent of total players? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$$$$$$3:5$$$$$$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$$$$$$2:3$$$$$$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
+    "question": "Players who play chess but not cricket is approximately what percent of total players? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$3:5$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$2:3$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "q": "Players who play chess but not cricket is approximately what percent of total players? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is 3:5 and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are 12 1/2% of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is 2:3 & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "options": [
       {
@@ -3983,32 +3900,32 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "What is ratio of players who play both tennis & chess to players who play only cricket? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$$$$$$3:5$$$$$$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$$$$$$2:3$$$$$$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
+    "question": "What is ratio of players who play both tennis & chess to players who play only cricket? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$3:5$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$2:3$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "q": "What is ratio of players who play both tennis & chess to players who play only cricket? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is 3:5 and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are 12 1/2% of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is 2:3 & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "options": [
       {
         "id": "a",
-        "text": "$$$$$$$$$7:13$$$$$$$$$",
+        "text": "$$$$7:13$$$$",
         "image": null
       },
       {
         "id": "b",
-        "text": "$$$$$$$$$9:41$$$$$$$$$",
+        "text": "$$$$9:41$$$$",
         "image": null
       },
       {
         "id": "c",
-        "text": "$$$$$$$$$10:43$$$$$$$$$",
+        "text": "$$$$10:43$$$$",
         "image": null
       },
       {
         "id": "d",
-        "text": "$$$$$$$$$4:11$$$$$$$$$",
+        "text": "$$$$4:11$$$$",
         "image": null
       },
       {
         "id": "e",
-        "text": "$$$$$$$$$2:5$$$$$$$$$",
+        "text": "$$$$2:5$$$$",
         "image": null
       }
     ],
@@ -4046,7 +3963,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Players who play at least two games is approximately what percent of players who play at \nmost two games? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$$$$$$3:5$$$$$$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$$$$$$2:3$$$$$$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
+    "question": "Players who play at least two games is approximately what percent of players who play at \nmost two games? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is $$$$3:5$$$$ and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are $12 \\frac{1}{2}\\%$ of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is $$$$2:3$$$$ & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "q": "Players who play at least two games is approximately what percent of players who play at \nmost two games? \nStudy the given passage carefully & answer the questions. \nIn a sport Academy, there are some students who can play three games i.e. tennis, cricket & chess. \nTotal number of players who play tennis is 160 & all three games are played by 10% of total \ntennis players. Ratio of cricket to chess players is 3:5 and total of cricket & chess players together \nis 100% more than tennis players. Players who play both tennis and chess are 12 1/2% of total \ntennis players. Ratio of players who play both tennis & cricket to players who play both chess & \ncricket is 2:3 & the sum of the total players who play both tennis & cricket and players who play \nboth chess & cricket is equal to onefourth of chess players.",
     "options": [
       {
@@ -5311,27 +5228,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       },
       {
         "id": "e",
-        "text": "None of these",
+        "text": "Decoy A for Correct value",
         "image": null
       }
     ],
@@ -5941,27 +5858,27 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       },
       {
         "id": "e",
-        "text": "None of these",
+        "text": "Decoy A for Correct value",
         "image": null
       }
     ],
@@ -5999,7 +5916,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Who was born immediately before Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$$$$$$1981,1982,1984,1986,\n1990,1992,1994$$$$$$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
+    "question": "Who was born immediately before Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$1981,1982,1984,1986,\n1990,1992,1994$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "q": "Who was born immediately before Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in 1981, 1982, 1984, 1986, \n1990, 1992, 1994, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "options": [
       {
@@ -6062,7 +5979,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "How many people were born between U and Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$$$$$$1981,1982,1984,1986,\n1990,1992,1994$$$$$$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
+    "question": "How many people were born between U and Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$1981,1982,1984,1986,\n1990,1992,1994$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "q": "How many people were born between U and Q? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in 1981, 1982, 1984, 1986, \n1990, 1992, 1994, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "options": [
       {
@@ -6125,7 +6042,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Which of the following statements is true? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$$$$$$1981,1982,1984,1986,\n1990,1992,1994$$$$$$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before \n1990. Two persons were born between R and V. U was not \nborn immediately before W. R was born immediately after U. \nAs may persons were born before X is same as many persons \nwere born after T who was born before X. Q was born \nimmediately before S.",
+    "question": "Which of the following statements is true? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$1981,1982,1984,1986,\n1990,1992,1994$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before \n1990. Two persons were born between R and V. U was not \nborn immediately before W. R was born immediately after U. \nAs may persons were born before X is same as many persons \nwere born after T who was born before X. Q was born \nimmediately before S.",
     "q": "Which of the following statements is true? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in 1981, 1982, 1984, 1986, \n1990, 1992, 1994, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before \n1990. Two persons were born between R and V. U was not \nborn immediately before W. R was born immediately after U. \nAs may persons were born before X is same as many persons \nwere born after T who was born before X. Q was born \nimmediately before S.",
     "options": [
       {
@@ -6188,32 +6105,32 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "In which year V was born? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$$$$$$1981,1982,1984,1986,\n1990,1992,1994$$$$$$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
+    "question": "In which year V was born? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$1981,1982,1984,1986,\n1990,1992,1994$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "q": "In which year V was born? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in 1981, 1982, 1984, 1986, \n1990, 1992, 1994, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       }
     ],
@@ -6251,7 +6168,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Four of the following five are in the same group, who among the following does not belong \nto that group? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$$$$$$1981,1982,1984,1986,\n1990,1992,1994$$$$$$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
+    "question": "Four of the following five are in the same group, who among the following does not belong \nto that group? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in $$$$1981,1982,1984,1986,\n1990,1992,1994$$$$, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "q": "Four of the following five are in the same group, who among the following does not belong \nto that group? \nStudy the following information carefully and answer the questions given below. \nEight people Q, R, S, T, U, V, W and X were born in eight different years but not necessarily in the \nsame order. Their age is calculated from 2022 and they were born in 1981, 1982, 1984, 1986, \n1990, 1992, 1994, and 1996 but not necessarily in the same order. \nThe age of U is more than the age of W who was born before 1990. Two persons were born \nbetween R and V. U was not born immediately before W. R was born immediately after U. As may \npersons were born before X is same as many persons were born after T who was born before X. \nQ was born immediately before S.",
     "options": [
       {

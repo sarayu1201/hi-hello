@@ -12,27 +12,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$800$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$799$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$810$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$795$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n64% of the number = $$$$$$$$$$$$64 * 12.5 = 800.$$$$$$$$$$$$",
+    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n64% of the number = $$$64 * 12.5 = 800.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "Calculate the value of (5^(\\(\\frac{1}{4}\\)) - 1)(5^(\\(\\frac{3}{4}\\)) + 5^(\\(\\frac{2}{4}\\)) + 5^(\\(\\frac{1}{4}\\)) + 1)",
+    "question": "Calculate the value of (5^($\\frac{1}{4}$) - 1)(5^($\\frac{3}{4}$) + 5^($\\frac{2}{4}$) + 5^($\\frac{1}{4}$) + 1)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$2$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$4$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$14$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$3$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let 5^($\\frac{1}{4}$) = x. \nExpression = (x - 1)(x^3 + x^2 + x + 1) = x^$$$$$$$$$$$$4 - 1 = (5$$$$$$$$$$$$^($\\frac{1}{4}$))^$$$$$$$$$$$$4 - 1 = 5 - 1 = 4.$$$$$$$$$$$$",
+    "explanation": "Let 5^($\\frac{1}{4}$) = x. \nExpression = (x - 1)(x^3 + x^2 + x + 1) = x^$$$4 - 1 = (5$$$^($\\frac{1}{4}$))^$$$4 - 1 = 5 - 1 = 4.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,32 +81,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "Find 'x' if sqrt\\($(2 + 7$\\)x) = sqrt(3x + 4)",
+    "question": "Find 'x' if sqrt$$$$(2 + 7$$$$x) = sqrt(3x + 4)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "0.5",
+        "text": "$0$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$-2$",
         "image": null
       },
       {
         "id": "C",
-        "text": "1.5",
+        "text": "$-1$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$10$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Squaring both sides: $$$$$$$$$$$$2 + 7$$$$$$$$$$$$x = 3x + 4 => 4x = 2 => x = 0.5.",
+    "explanation": "Squaring both sides: $$$2 + 7$$$x = 3x + 4 => 4x = 2 => x = 0.5.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -123,27 +123,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$21$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$31$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$27$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$26$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the two consecutive even numbers be x and (x + 2).\nx(x + 2) = 168 => x^$$$$$$$$$$$$2 + 2$$$$$$$$$$$$x - 168 = 0 => (x + 14)(x - 12) = 0.\nSince x must be positive, x = 12. The numbers are 12 and 14.\nSum = $$$$$$$$$$$$12 + 14 = 26.$$$$$$$$$$$$",
+    "explanation": "Let the two consecutive even numbers be x and (x + 2).\nx(x + 2) = 168 => x^$$$2 + 2$$$x - 168 = 0 => (x + 14)(x - 12) = 0.\nSince x must be positive, x = 12. The numbers are 12 and 14.\nSum = $$$12 + 14 = 26.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -155,27 +155,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=\\(\\frac{1}{6}\\) AB and AE=\\(\\frac{1}{6}\\) AC. If the value of BC is 18 cm then calculate the value of DE (in cm).",
+    "question": "A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=$\\frac{1}{6}$ AB and AE=$\\frac{1}{6}$ AC. If the value of BC is 18 cm then calculate the value of DE (in cm).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$4cm$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "3cm",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$5cm$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$8cm$",
         "image": null
       }
     ],
@@ -229,27 +229,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The value of \\(a\\) car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value (in Rs) of the car 2 years ago?",
+    "question": "The value of $a$ car depreciates at the rate of 15% per annum. If its present value is Rs 433500, then what was the value (in Rs) of the car 2 years ago?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$599998Rs6,00,000$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$600001Rs6,00,000$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$600005Rs6,00,000$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Rs6,00,000",
         "image": null
       }
     ],
@@ -266,32 +266,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "If A : B : C = \\($2:3$\\) : 5 and C : D = \\($2:5$\\), then what is A : D?",
+    "question": "If A : B : C = $$$$2:3$$$$ : 5 and C : D = $$$$2:5$$$$, then what is A : D?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($4:25$\\)",
+        "text": "$$$$4:25$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($8:21$\\)",
+        "text": "$$$$8:21$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($6:25$\\)",
+        "text": "$$$$6:25$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($12:35$\\)",
+        "text": "$$$$12:35$$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "To make C common: Multiply A:B:C = $$$$$$$$$$$$2:3$$$$$$$$$$$$:5 by 2 => A:B:C = $$$$$$$$$$$$4:6$$$$$$$$$$$$:10. \nMultiply C:D = $$$$$$$$$$$$2:5$$$$$$$$$$$$ by 5 => C:D = $$$$$$$$$$$$10:25$$$$$$$$$$$$. \nTherefore, A : D = $$$$$$$$$$$$4:25$$$$$$$$$$$$.",
+    "explanation": "To make C common: Multiply A:B:C = $$$2:3$$$:5 by 2 => A:B:C = $$$4:6$$$:10. \nMultiply C:D = $$$2:5$$$ by 5 => C:D = $$$10:25$$$. \nTherefore, A : D = $$$4:25$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -303,32 +303,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Easy",
-    "question": "In a mixture of 35 litres, the ratio of water and acid is \\($6:1$\\). If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
+    "question": "In a mixture of 35 litres, the ratio of water and acid is $$$$6:1$$$$. If 5 litres of acid is added to the mixture, then what will be the ratio of water and acid in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($5:2$\\)",
+        "text": "$$$$5:2$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($4:1$\\)",
+        "text": "$$$$4:1$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($3:1$\\)",
+        "text": "$$$$3:1$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($6:5$\\)",
+        "text": "$$$$6:5$$$$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Original Water = 35 * $\\frac{6}{7}$ = 30 litres. Original Acid = $$$$$$$$$$$$35 - 30 = 5$$$$$$$$$$$$ litres.\nAdding 5 litres of acid: new acid = 10 litres.\nNew ratio of water and acid = $$$$$$$$$$$$30:10$$$$$$$$$$$$ = $$$$$$$$$$$$3:1$$$$$$$$$$$$.",
+    "explanation": "Original Water = 35 * $\\frac{6}{7}$ = 30 litres. Original Acid = $$$35 - 30 = 5$$$ litres.\nAdding 5 litres of acid: new acid = 10 litres.\nNew ratio of water and acid = $$$30:10$$$ = $$$3:1$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -345,27 +345,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$168Rs$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$174Rs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$163Rs$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Rs173",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total savings in 5 days = $$$$$$$$$$$$5 * 160$$$$$$$$$$$$ = Rs 800. \nSavings in first 4 days = $$$$$$$$$$$$155 + 170 + 134 + 168$$$$$$$$$$$$ = Rs 627. \nSaving of 5th day = $$$$$$$$$$$$800 - 627$$$$$$$$$$$$ = Rs 173.",
+    "explanation": "Total savings in 5 days = $$$5 * 160$$$ = Rs 800. \nSavings in first 4 days = $$$155 + 170 + 134 + 168$$$ = Rs 627. \nSaving of 5th day = $$$800 - 627$$$ = Rs 173.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -382,27 +382,27 @@
     "options": [
       {
         "id": "A",
-        "text": "6998.4",
+        "text": "Rs6998",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$6996Rs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "6784.4",
+        "text": "$7008Rs$",
         "image": null
       },
       {
         "id": "D",
-        "text": "6869.4",
+        "text": "$7000Rs$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Amount = P(1 + R/100)^T = 6000 * (1 + $\\frac{8}{100}$)^2 = 6000 * (1.08)^2 = $$$$$$$$$$$$6000 * 1.1664$$$$$$$$$$$$ = Rs 6998.4.",
+    "explanation": "Amount = P(1 + R/100)^T = 6000 * (1 + $\\frac{8}{100}$)^2 = 6000 * (1.08)^2 = $$$6000 * 1.1664$$$ = Rs 6998.4.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "SP = CP * (1 + Profit%/100) = 122 + ($\\frac{56}{100}$)*122 = $$$$$$$$$$$$122 + 68.32$$$$$$$$$$$$ = Rs 190.32.",
+    "explanation": "SP = CP * (1 + Profit%/100) = 122 + ($\\frac{56}{100}$)*122 = $$$122 + 68.32$$$ = Rs 190.32.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -451,32 +451,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "On Selling a watch at \\(\\frac{4}{5}\\) of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
+    "question": "On Selling a watch at $\\frac{4}{5}$ of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($6:5$\\)",
+        "text": "$$$$6:5$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($5:3$\\)",
+        "text": "$$$$5:3$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($10:7$\\)",
+        "text": "$$$$10:7$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($7:5$\\)",
+        "text": "$$$$7:5$$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \nRatio of MP to CP = 50x : 125x/3 = $$$$$$$$$$$$150:125$$$$$$$$$$$$ = $$$$$$$$$$$$6:5$$$$$$$$$$$$.",
+    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \nRatio of MP to CP = 50x : 125x/3 = $$$150:125$$$ = $$$6:5$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -488,32 +488,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What is the positive square root of [\\$(19 + 4$\\)√21]?",
+    "question": "What is the positive square root of [\\$$$(19 + 4$$$$√21]?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "√\\$(7 + 2$\\)√3",
+        "text": "√\\$$$(7 + 2$$$$√3",
         "image": null
       },
       {
         "id": "B",
-        "text": "√\\$(3 + 2$\\)√7",
+        "text": "√\\$$$(3 + 2$$$$√7",
         "image": null
       },
       {
         "id": "C",
-        "text": "√\\$(2 + 3$\\)√7",
+        "text": "√\\$$$(2 + 3$$$$√7",
         "image": null
       },
       {
         "id": "D",
-        "text": "√\\$(7 + 3$\\)√3",
+        "text": "√\\$$$(7 + 3$$$$√3",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = $$$$$$$$$$$$19 + 4$$$$$$$$$$$$√21 = $$$$$$$$$$$$7 + 12 + 2$$$$$$$$$$$$ * √7 * √12 = (√7 + √12)^2.\nSquare root = √7 + √12 = √$$$$$$$$$$$$7 + 2$$$$$$$$$$$$√3.",
+    "explanation": "Expression = $$$19 + 4$$$√21 = $$$7 + 12 + 2$$$ * √7 * √12 = (√7 + √12)^2.\nSquare root = √7 + √12 = √$$$7 + 2$$$√3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -530,27 +530,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\(\\frac{112}{17}\\)",
+        "text": "$\\frac{112}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\(\\frac{125}{12}\\)",
+        "text": "$\\frac{125}{12}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\(\\frac{115}{12}\\)",
+        "text": "$\\frac{115}{12}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\(\\frac{125}{17}\\)",
+        "text": "$\\frac{125}{17}$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "18 men = 25 boys => 1 man = $\\frac{25}{18}$ boys. \n36 men + 10 boys = 36*($\\frac{25}{18}$) + 10 = $$$$$$$$$$$$50 + 10 = 60$$$$$$$$$$$$ boys. \nSince 25 boys take 25 days, 60 boys take $$$$$$$$$$$$(25 * 25) / 60$$$$$$$$$$$$ = $\\frac{125}{12}$ days.",
+    "explanation": "18 men = 25 boys => 1 man = $\\frac{25}{18}$ boys. \n36 men + 10 boys = 36*($\\frac{25}{18}$) + 10 = $$$50 + 10 = 60$$$ boys. \nSince 25 boys take 25 days, 60 boys take $$$(25 * 25) / 60$$$ = $\\frac{125}{12}$ days.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -567,22 +567,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$170km/hr$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$181km/hr$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$185km/hr$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "180km/hr",
         "image": null
       }
     ],
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$3990$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$3995$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$4000$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$4010$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total elephants = $$$$$$$$$$$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$$$$$$$$$$",
+    "explanation": "Total elephants = $$$600 + 350 + 900 + 400 + 750 + 400 + 600 = 4000.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,22 +678,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$41°$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$26°$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "36°",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$37°$",
         "image": null
       }
     ],
@@ -715,27 +715,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$13lakhs$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$14lakhs$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$10lakhs$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "12lakhs",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\nTotal monthly expense = $$$$$$$$$$$$40 * 30$$$$$$$$$$$$,000 = Rs 12,00,000 = 12 lakhs.",
+    "explanation": "Number of vacancies in 2017 = 40. \nSalary of an executive = Rs 30,000.\nTotal monthly expense = $$$40 * 30$$$,000 = Rs 12,00,000 = 12 lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -752,27 +752,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$64$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$52$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$54$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$44$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Area of trapezium = $\\frac{1}{2}$ * (sum of parallel sides) * height = $\\frac{1}{2}$ * $$$$$$$$$$$$(8 + 10) * 6 = 9 * 6 = 54$$$$$$$$$$$$ cm^2.",
+    "explanation": "Area of trapezium = $\\frac{1}{2}$ * (sum of parallel sides) * height = $\\frac{1}{2}$ * $$$(8 + 10) * 6 = 9 * 6 = 54$$$ cm^2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -789,22 +789,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$32cm$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "22cm",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$12cm$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$17cm$",
         "image": null
       }
     ],
@@ -863,12 +863,12 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$(7 / 2$\\)√3",
+        "text": "\\$$$(7 / 2$$$$√3",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($(1 + 2$\\)√3)/2",
+        "text": "$$$$(1 + 2$$$$√3)/2",
         "image": null
       },
       {
@@ -878,12 +878,12 @@
       },
       {
         "id": "D",
-        "text": "(√\\$(3 + 4)/2$\\)",
+        "text": "(√\\$$$(3 + 4)/2$$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\ncos F + √3 = cos(60°) + √3 = $\\frac{1}{2}$ + √3 = $$$$$$$$$$$$(1 + 2$$$$$$$$$$$$√3)/2.",
+    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\ncos F + √3 = cos(60°) + √3 = $\\frac{1}{2}$ + √3 = $$$(1 + 2$$$√3)/2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔDEF is right angled at E. If sinD = \\(\\frac{15}{17}\\), then what is the value of cotF ?",
+    "question": "ΔDEF is right angled at E. If sinD = $\\frac{15}{17}$, then what is the value of cotF ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\(\\frac{15}{17}\\)",
+        "text": "$\\frac{15}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\(\\frac{8}{17}\\)",
+        "text": "$\\frac{8}{17}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\(\\frac{15}{8}\\)",
+        "text": "$\\frac{15}{8}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\(\\frac{17}{15}\\)",
+        "text": "$\\frac{17}{15}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "sin D = EF / DF = $\\frac{15}{17}$. Let EF = 15, DF = 17.\nDE = sqrt(DF^2 - EF^2) = sqrt$$$$$$$$$$$$(289 - 225)$$$$$$$$$$$$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = $\\frac{15}{8}$.",
+    "explanation": "sin D = EF / DF = $\\frac{15}{17}$. Let EF = 15, DF = 17.\nDE = sqrt(DF^2 - EF^2) = sqrt$$$(289 - 225)$$$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = $\\frac{15}{8}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -929,7 +929,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
     "question": "Select the related word pair from the given alternatives.\n\nTurtle : Reptile : : ? : ?",
@@ -966,35 +966,35 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number pair from the given alternatives.\n\n\\($16:48$\\) : : ? : ?",
+    "question": "Select the related number pair from the given alternatives.\n\n$$$$16:48$$$$ : : ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "\\($25:75$\\)",
+        "text": "$$$$25:75$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($11:32$\\)",
+        "text": "$$$$11:32$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($25:64$\\)",
+        "text": "$$$$25:64$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($49:72$\\)",
+        "text": "$$$$49:72$$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The relationship is n : 3n. $$$$$$$$$$$$16 * 3 = 48.$$$$$$$$$$$$ Similarly, $$$$$$$$$$$$25 * 3 = 75.$$$$$$$$$$$$",
+    "explanation": "The relationship is n : 3n. $$$16 * 3 = 48.$$$ Similarly, $$$25 * 3 = 75.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1003,7 +1003,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
     "question": "Select the related letter/letters from the given alternatives.\n\nAPR : BQS : : ETV : ?",
@@ -1040,7 +1040,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Select the odd word pair from the given alternatives.",
@@ -1077,7 +1077,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Select the odd one out from the given alternatives.",
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$(7 - 14$\\)",
+        "text": "\\$$$(7 - 14$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$(11 - 22$\\)",
+        "text": "\\$$$(11 - 22$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$(5 - 10$\\)",
+        "text": "\\$$$(5 - 10$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$(3 - 8$\\)",
+        "text": "\\$$$(3 - 8$$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all options except D, the second number is exactly double of the first number. In option D, $$$$$$$$$$$$3 * 2 = 6$$$$$$$$$$$$ (not 8).",
+    "explanation": "In all options except D, the second number is exactly double of the first number. In option D, $$$3 * 2 = 6$$$ (not 8).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1114,7 +1114,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Medium",
     "question": "Select the odd letter/letters from the given alternatives.",
@@ -1151,7 +1151,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Logical Order",
     "difficulty": "Easy",
     "question": "According to dictionary, which word will come at SECOND position?\n\n1. Conservative\n2. Cooker\n3. Conflict\n4. Congratulate\n5. Cool",
@@ -1188,35 +1188,35 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n\n\\($14,19,26,37,50,67$\\), ?",
+    "question": "Select the missing number from the given series.\n\n$$$$14,19,26,37,50,67$$$$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$85$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$84$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$86$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$81$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Consecutive prime numbers are added to each term: \n$$$$$$$$$$$$14 + 5 = 19$$$$$$$$$$$$ \n$$$$$$$$$$$$19 + 7 = 26$$$$$$$$$$$$ \n$$$$$$$$$$$$26 + 11 = 37$$$$$$$$$$$$ \n$$$$$$$$$$$$37 + 13 = 50$$$$$$$$$$$$ \n$$$$$$$$$$$$50 + 17 = 67$$$$$$$$$$$$ \n$$$$$$$$$$$$67 + 19 = 86.$$$$$$$$$$$$",
+    "explanation": "Consecutive prime numbers are added to each term: \n$$$14 + 5 = 19$$$ \n$$$19 + 7 = 26$$$ \n$$$26 + 11 = 37$$$ \n$$$37 + 13 = 50$$$ \n$$$50 + 17 = 67$$$ \n$$$67 + 19 = 86.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1225,7 +1225,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Letter Series",
     "difficulty": "Easy",
     "question": "Select the correct alternative from the given ones that will complete the series.\n\nK, O, S, W, ?",
@@ -1262,7 +1262,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Directions",
     "difficulty": "Medium",
     "question": "From a hospital S, Pritam walked 49 metres to the south, then after turning to right he walked 49 metres. He again turned right and walked another 34 metres and finally turned to right and walked 49 metres. At what distance (in metres) and in which direction is he from the hospital S now?",
@@ -1299,7 +1299,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Easy",
     "question": "Select the word which CANNOT be formed using the letters of the given word.\n\nGramophone",
@@ -1336,7 +1336,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Coding Decoding",
     "difficulty": "Easy",
     "question": "In a certain code language, “Sun is hot” is written as “fi lat muk”, “milk is sour” is written as “muk ti mu” and “milk makes sour” is written as “ti mu fa”. What is the code for “is” in that code language?",
@@ -1373,7 +1373,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Letter Series",
     "difficulty": "Easy",
     "question": "Select the correct alternative from the given ones that will complete the series.\n\nPCO, QDP, REQ, ?, TGS",
@@ -1410,35 +1410,35 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n\\($133,136,139,142$\\), ?, 148",
+    "question": "Select the missing number from the given series.\n\n$$$$133,136,139,142$$$$, ?, 148",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$135$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$145$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$144$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$147$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern is adding 3 (+3) to each term: $$$$$$$$$$$$142 + 3 = 145.$$$$$$$$$$$$",
+    "explanation": "The pattern is adding 3 (+3) to each term: $$$142 + 3 = 145.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1447,7 +1447,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Classification",
     "difficulty": "Easy",
     "question": "Select the odd one out from the given alternatives.",
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In options A, B, and C, the pattern is (x, x + 4, x + 8). In option D, $$$$$$$$$$$$64 + 8 = 72$$$$$$$$$$$$ (not 70), so (64, 68, 70) is the odd one.",
+    "explanation": "In options A, B, and C, the pattern is (x, x + 4, x + 8). In option D, $$$64 + 8 = 72$$$ (not 70), so (64, 68, 70) is the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1484,35 +1484,35 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n\\$(20 + 6$\\) x $5 \\div \\$(20 - 14 = ?$\\)",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n\\$$$(20 + 6$$$$ x $5 \\div \\$$$(20 - 14 = ?$$$$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$20$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$8$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$18$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$23$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Decoding the expression gives: $$$$$$$$$$$$20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18.$$$$$$$$$$$$",
+    "explanation": "Decoding the expression gives: $$$20 * 6 / 5 - 20 + 14 = 24 - 20 + 14 = 18.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1521,10 +1521,10 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(19 - 16 + 5$\\) \\div 10$ x 2 = 28",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$$$(19 - 16 + 5$$$$ \\div 10$ x 2 = 28",
     "questionImage": null,
     "options": [
       {
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Interchanging '÷' and 'x' gives: $$$$$$$$$$$$19 - 16 + 5 * 10 / 2 = 3 + 25 = 28.$$$$$$$$$$$$ This balances the equation.",
+    "explanation": "Interchanging '÷' and 'x' gives: $$$19 - 16 + 5 * 10 / 2 = 3 + 25 = 28.$$$ This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1558,7 +1558,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Logical Puzzle",
     "difficulty": "Medium",
     "question": "If 1&7 = 80, 4&5 = 90 and 6&8 = 140, then find the value of 5&5 = ?",
@@ -1566,27 +1566,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$95$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$100$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$102$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$90$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The operation is: a & b = (a + b) * 10. Thus, 5&5 = $$$$$$$$$$$$(5 + 5) * 10 = 100.$$$$$$$$$$$$",
+    "explanation": "The operation is: a & b = (a + b) * 10. Thus, 5&5 = $$$(5 + 5) * 10 = 100.$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1595,7 +1595,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Letter Series",
     "difficulty": "Hard",
     "question": "Which of the following terms follows the trend of the given list?\n\nXyXYXYXY, XYxYXYXY, XYXyXYXY, XYXYxYXY, XYXYXyXY, _______________.",
@@ -1632,7 +1632,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Directions",
     "difficulty": "Medium",
     "question": "Two cruisers start from the same port. Cruiser A sails 50 miles South, then it turns right and sails 60 miles. In the meanwhile cruiser B sails 105 miles West, then it turns left and sails 50 miles, then it turns West and sails 45 miles. Where is cruiser A with respect to cruiser B?",
@@ -1669,7 +1669,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Syllogism",
     "difficulty": "Medium",
     "question": "In the question two statements are given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.\n\nStatement I: All doors are windows\nStatement II: No openings are windows\n\nConclusion I: All windows are openings\nConclusion II: No openings are doors",
@@ -1706,7 +1706,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Venn Diagram",
     "difficulty": "Medium",
     "question": "In the following figure, rectangle represents Reporters, circle represents Dancers, triangle represents Playwrights and square represents Boxers. Which set of letters represents Boxers who are Playwrights?",
@@ -1743,7 +1743,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mirror Image",
     "difficulty": "Medium",
     "question": "If a mirror is placed on the line MN, then which of the answer figures is the right image of the given figure?",
@@ -1780,7 +1780,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Cube Fold",
     "difficulty": "Medium",
     "question": "Which of the following cube in the answer figure cannot be made based on the unfolded cube in the question figure?",
@@ -1817,7 +1817,7 @@
     "exam": "SSC CHSL",
     "year": 2018,
     "shift": "Evening Shift",
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Matrix Coding",
     "difficulty": "Medium",
     "question": "Identify the set of numbers representing the word 'HIND' from the given matrices.",
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\($44,34,68,10$\\)",
+        "text": "$$$$44,34,68,10$$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\($11,89,13,77$\\)",
+        "text": "$$$$11,89,13,77$$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\($20,88,11,86$\\)",
+        "text": "$$$$20,88,11,86$$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\($42,67,12,89$\\)",
+        "text": "$$$$42,67,12,89$$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So $$$$$$$$$$$$44,34,68,10$$$$$$$$$$$$ represents 'HIND'.",
+    "explanation": "Checking option A: 44 = H, 34 = I, 68 = N, 10 = D. So $$$44,34,68,10$$$ represents 'HIND'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
+    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\n________________ democracies",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
+    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncitizens have command ________________",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
+    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nOutside the domain of often _________________ party",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
+    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\nterrain of collective action ______________ which citizens press",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$(63 - 67$\\) ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
+    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\n________________ democracies, citizens have command ________________ who they want to be represented by as well as the competence to define issues worthy of representation. Outside the domain of often _________________ party politics lies an entire terrain of collective action ______________ which citizens press their collective will upon those __________________ rule.\n\ncollective will upon those __________________ rule.",
     "questionImage": null,
     "options": [
       {
@@ -3416,22 +3416,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       }
     ],
@@ -3564,22 +3564,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       }
     ],
@@ -3601,22 +3601,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       }
     ],

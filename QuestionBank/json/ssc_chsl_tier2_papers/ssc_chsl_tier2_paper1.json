@@ -47,27 +47,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$1205liters$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$1202liters$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$1195liters$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "1200liters",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the capacity of the tank be C liters. Rate of filling of Pipe 1 = C/36 liters/min. Rate of filling of Pipe 2 = C/45 liters/min. Rate of emptying of outlet pipe = 40 liters/min. Together they fill the tank in 60 mins: 60 * (C/36 + C/$$$$$$$$$$$$45 - 40)$$$$$$$$$$$$ = C => 60 * (9C/$$$$$$$$$$$$180 - 40)$$$$$$$$$$$$ = C => 60 * (C/$$$$$$$$$$$$20 - 40)$$$$$$$$$$$$ = C => 3C - 2400 = C => 2C = 2400 => C = 1200 liters.",
+    "explanation": "Let the capacity of the tank be C liters. Rate of filling of Pipe 1 = C/36 liters/min. Rate of filling of Pipe 2 = C/45 liters/min. Rate of emptying of outlet pipe = 40 liters/min. Together they fill the tank in 60 mins: 60 * (C/36 + C/$$$45 - 40)$$$ = C => 60 * (9C/$$$180 - 40)$$$ = C => 60 * (C/$$$20 - 40)$$$ = C => 3C - 2400 = C => 2C = 2400 => C = 1200 liters.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -103,7 +103,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Using the empirical relation: Mode = 3 * Median - 2 * Mean = 3(4900) - 2(4500) = $$$$$$$$$$$$14700 - 9000$$$$$$$$$$$$ = ₹5,700.",
+    "explanation": "Using the empirical relation: Mode = 3 * Median - 2 * Mean = 3(4900) - 2(4500) = $$$14700 - 9000$$$ = ₹5,700.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -119,27 +119,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$384$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$382$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$379$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$394$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Volume of cube a^3 = 512 => a = 8. Total surface area of a cube = 6a^2 = $$$$$$$$$$$$6 * 64 = 384$$$$$$$$$$$$ square units.",
+    "explanation": "Volume of cube a^3 = 512 => a = 8. Total surface area of a cube = 6a^2 = $$$6 * 64 = 384$$$ square units.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -155,27 +155,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$7199$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$7210$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$7198$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$7200$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Volume of box = 160 cm * 90 cm * 60 cm = 864,000 cm^3. Volume of one soap cake = 6 cm * 5 cm * 4 cm = 120 cm^3 (since 40 mm = 4 cm). Number of soap cakes = 864,$$$$$$$$$$$$000 / 120 = 7200.$$$$$$$$$$$$",
+    "explanation": "Volume of box = 160 cm * 90 cm * 60 cm = 864,000 cm^3. Volume of one soap cake = 6 cm * 5 cm * 4 cm = 120 cm^3 (since 40 mm = 4 cm). Number of soap cakes = 864,$$$000 / 120 = 7200.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -191,27 +191,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$7:3$$$$$$$$$$$$",
+        "text": "$$$7:3$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$5:2$$$$$$$$$$$$",
+        "text": "$$$5:2$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$3:2$$$$$$$$$$$$",
+        "text": "$$$3:2$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$5:3$$$$$$$$$$$$",
+        "text": "$$$5:3$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let present ages of father and son be f and s. Given: f - 10 = 3(s - 10) => f - 3s = -20. Also: f + 10 = 2(s + 10) => f - 2s = 10. Subtracting the two equations gives s = 30, and substituting back gives f = 70. Ratio of present ages = $$$$$$$$$$$$70:30$$$$$$$$$$$$ = $$$$$$$$$$$$7:3$$$$$$$$$$$$.",
+    "explanation": "Let present ages of father and son be f and s. Given: f - 10 = 3(s - 10) => f - 3s = -20. Also: f + 10 = 2(s + 10) => f - 2s = 10. Subtracting the two equations gives s = 30, and substituting back gives f = 70. Ratio of present ages = $$$70:30$$$ = $$$7:3$$$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -222,32 +222,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Statistics",
     "difficulty": "Easy",
-    "question": "The runs scored by 11 players in a cricket match are: $$$$$$$$$$$$7,16,121,51,101,81,1,16,9,11,16$$$$$$$$$$$$. Calculate the median of the data.",
+    "question": "The runs scored by 11 players in a cricket match are: $$$7,16,121,51,101,81,1,16,9,11,16$$$. Calculate the median of the data.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$18$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$6$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$21$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$16$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Arranging data in ascending order: $$$$$$$$$$$$1,7,9,11,16,16,16,51,81,101,121$$$$$$$$$$$$. The median is the 6th term, which is 16.",
+    "explanation": "Arranging data in ascending order: $$$1,7,9,11,16,16,16,51,81,101,121$$$. The median is the 6th term, which is 16.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -263,27 +263,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$14years$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$9years$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "4years",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$6years$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Simple Interest = 4,$$$$$$$$$$$$100 - 2$$$$$$$$$$$$,500 = ₹1,600. SI = (P * R * T) / 100 => 1600 = $$$$$$$$$$$$(2500 * 16$$$$$$$$$$$$ * T) / 100 => 1600 = 400 * T => T = 4 years.",
+    "explanation": "Simple Interest = 4,$$$100 - 2$$$,500 = ₹1,600. SI = (P * R * T) / 100 => 1600 = $$$(2500 * 16$$$ * T) / 100 => 1600 = 400 * T => T = 4 years.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -294,7 +294,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "A sum of ₹7,786 is divided among A, B, and C such that the ratio of the share of A to B is $$$$$$$$$$$$3:4$$$$$$$$$$$$ and that of B to C is $$$$$$$$$$$$12:13$$$$$$$$$$$$. What is the share obtained by B?",
+    "question": "A sum of ₹7,786 is divided among A, B, and C such that the ratio of the share of A to B is $$$3:4$$$ and that of B to C is $$$12:13$$$. What is the share obtained by B?",
     "questionImage": null,
     "options": [
       {
@@ -319,7 +319,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "A : B = $$$$$$$$$$$$3:4$$$$$$$$$$$$ = $$$$$$$$$$$$9:12$$$$$$$$$$$$. B : C = $$$$$$$$$$$$12:13$$$$$$$$$$$$. Therefore, A : B : C = $$$$$$$$$$$$9:12$$$$$$$$$$$$ : 13. Total parts = $$$$$$$$$$$$9 + 12 + 13 = 34.$$$$$$$$$$$$ Share of B = ($\\frac{12}{34}$) * 7786 = $$$$$$$$$$$$12 * 229$$$$$$$$$$$$ = ₹2,748.",
+    "explanation": "A : B = $$$3:4$$$ = $$$9:12$$$. B : C = $$$12:13$$$. Therefore, A : B : C = $$$9:12$$$ : 13. Total parts = $$$9 + 12 + 13 = 34.$$$ Share of B = ($\\frac{12}{34}$) * 7786 = $$$12 * 229$$$ = ₹2,748.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -335,27 +335,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$7:5$$$$$$$$$$$$",
+        "text": "$$$7:5$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$5:12$$$$$$$$$$$$",
+        "text": "$$$5:12$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$7:12$$$$$$$$$$$$",
+        "text": "$$$7:12$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$5:7$$$$$$$$$$$$",
+        "text": "$$$5:7$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "By the Angle Bisector Theorem, YQ / QZ = XY / XZ = $$$$$$$$$$$$5 / 7.$$$$$$$$$$$$ Thus, YQ : QZ = $$$$$$$$$$$$5:7$$$$$$$$$$$$.",
+    "explanation": "By the Angle Bisector Theorem, YQ / QZ = XY / XZ = $$$5 / 7.$$$ Thus, YQ : QZ = $$$5:7$$$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -371,27 +371,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$78$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$79$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$80$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$77$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Prime numbers between 69 and 92 are $$$$$$$$$$$$71,73,79,83$$$$$$$$$$$$, and 89. Average = $$$$$$$$$$$$(71 + 73 + 79 + 83 + 89) / 5 = 395 / 5 = 79.$$$$$$$$$$$$",
+    "explanation": "Prime numbers between 69 and 92 are $$$71,73,79,83$$$, and 89. Average = $$$(71 + 73 + 79 + 83 + 89) / 5 = 395 / 5 = 79.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -407,22 +407,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$1001$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$1000$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$1010$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$999$",
         "image": null
       }
     ],
@@ -463,7 +463,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Calculation: $$$$$$$$$$$$25 + 2.5 + 0.25 + 0.025 = 27.775.$$$$$$$$$$$$",
+    "explanation": "Calculation: $$$25 + 2.5 + 0.25 + 0.025 = 27.775.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -499,7 +499,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Amount A = P * (1 + R$\\frac{1}{100}$) * (1 + R$\\frac{2}{100}$) = $$$$$$$$$$$$6000 * 1.025 * 1.02 = 6273.$$$$$$$$$$$$ Compound Interest = $$$$$$$$$$$$6273 - 6000$$$$$$$$$$$$ = ₹273.",
+    "explanation": "Amount A = P * (1 + R$\\frac{1}{100}$) * (1 + R$\\frac{2}{100}$) = $$$6000 * 1.025 * 1.02 = 6273.$$$ Compound Interest = $$$6273 - 6000$$$ = ₹273.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -551,27 +551,27 @@
     "options": [
       {
         "id": "A",
-        "text": "42^3",
+        "text": "$43$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$52$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$42$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\sqrt[3]{42}",
+        "text": "$40$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Expression simplifies to: \\sqrt[3]{343} * \\sqrt[3]{216} = $$$$$$$$$$$$7 * 6 = 42.$$$$$$$$$$$$",
+    "explanation": "Expression simplifies to: \\sqrt[3]{343} * \\sqrt[3]{216} = $$$7 * 6 = 42.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -607,7 +607,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let CP of A be x. x * $$$$$$$$$$$$1.33 * 0.80 = 532$$$$$$$$$$$$ => x * 1.064 = 532 => x = 500.",
+    "explanation": "Let CP of A be x. x * $$$1.33 * 0.80 = 532$$$ => x * 1.064 = 532 => x = 500.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -618,7 +618,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Partnership",
     "difficulty": "Medium",
-    "question": "The ratio of Richa's expenditure and savings is $$$$$$$$$$$$2:1$$$$$$$$$$$$. If her income and expenditure increase by 20% and 15% respectively, find the percentage increase in her savings.",
+    "question": "The ratio of Richa's expenditure and savings is $$$2:1$$$. If her income and expenditure increase by 20% and 15% respectively, find the percentage increase in her savings.",
     "questionImage": null,
     "options": [
       {
@@ -643,7 +643,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let Expenditure = 200, Savings = 100. Then Income = 300. New Income = $$$$$$$$$$$$300 * 1.20 = 360.$$$$$$$$$$$$ New Expenditure = $$$$$$$$$$$$200 * 1.15 = 230.$$$$$$$$$$$$ New Savings = $$$$$$$$$$$$360 - 230 = 130.$$$$$$$$$$$$ Percentage increase in savings = $$$$$$$$$$$$(130 - 100)/100 * 100 = 30$$$$$$$$$$$$%.",
+    "explanation": "Let Expenditure = 200, Savings = 100. Then Income = 300. New Income = $$$300 * 1.20 = 360.$$$ New Expenditure = $$$200 * 1.15 = 230.$$$ New Savings = $$$360 - 230 = 130.$$$ Percentage increase in savings = $$$(130 - 100)/100 * 100 = 30$$$%.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -679,7 +679,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "LSA = Perimeter of base * height => 120 = $$$$$$$$$$$$(3 * 4)$$$$$$$$$$$$ * h => h = 10 cm. Volume = Base Area * height = (\\sqrt{3}/$$$$$$$$$$$$4 * 4$$$$$$$$$$$$^2) * 10 = 4\\sqrt{3} * 10 = 40\\sqrt{3} cm^3.",
+    "explanation": "LSA = Perimeter of base * height => 120 = $$$(3 * 4)$$$ * h => h = 10 cm. Volume = Base Area * height = (\\sqrt{3}/$$$4 * 4$$$^2) * 10 = 4\\sqrt{3} * 10 = 40\\sqrt{3} cm^3.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -731,27 +731,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$17$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$29$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$27$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$26$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Average of first n multiples of x is x * (n + 1) / 2. Here x = 6, n = 8. Average = $$$$$$$$$$$$6 * 9 / 2 = 27.$$$$$$$$$$$$",
+    "explanation": "Average of first n multiples of x is x * (n + 1) / 2. Here x = 6, n = 8. Average = $$$6 * 9 / 2 = 27.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -787,7 +787,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Equivalent discount of successive 20% and 10% = $$$$$$$$$$$$20 + 10 - (20 * 10)/100 = 28$$$$$$$$$$$$%. Difference between discounts = 28% - 27% = 1%. 1% of Bill = 56 => Bill = ₹5,600.",
+    "explanation": "Equivalent discount of successive 20% and 10% = $$$20 + 10 - (20 * 10)/100 = 28$$$%. Difference between discounts = 28% - 27% = 1%. 1% of Bill = 56 => Bill = ₹5,600.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -798,32 +798,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "The ratio of the prices of coffee and tea is $$$$$$$$$$$$3:4$$$$$$$$$$$$ and the ratio of their quantities consumed by a family is $$$$$$$$$$$$4:7$$$$$$$$$$$$. Find the ratio of expenditure on coffee and tea.",
+    "question": "The ratio of the prices of coffee and tea is $$$3:4$$$ and the ratio of their quantities consumed by a family is $$$4:7$$$. Find the ratio of expenditure on coffee and tea.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$7:4$$$$$$$$$$$$",
+        "text": "$$$7:4$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$3:7$$$$$$$$$$$$",
+        "text": "$$$3:7$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$4:7$$$$$$$$$$$$",
+        "text": "$$$4:7$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$7:3$$$$$$$$$$$$",
+        "text": "$$$7:3$$$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Ratio of expenditure = (Price ratio * Quantity ratio) = $$$$$$$$$$$$(3 * 4)$$$$$$$$$$$$ : $$$$$$$$$$$$(4 * 7) = 12$$$$$$$$$$$$ : 28 = $$$$$$$$$$$$3:7$$$$$$$$$$$$.",
+    "explanation": "Ratio of expenditure = (Price ratio * Quantity ratio) = $$$(3 * 4)$$$ : $$$(4 * 7) = 12$$$ : 28 = $$$3:7$$$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -859,7 +859,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Upstream speed U = $$$$$$$$$$$$3 / 1 = 3$$$$$$$$$$$$ km/h. Downstream speed D = 1 / ($\\frac{12}{60}$) = 5 km/h. Speed of boat in still water v = (U + D)/2 = $$$$$$$$$$$$(3+5)/2 = 4$$$$$$$$$$$$ km/h. Time taken to travel 6 km in still water = $$$$$$$$$$$$6 / 4 = 1.5$$$$$$$$$$$$ hours = 1 hour 30 minutes.",
+    "explanation": "Upstream speed U = $$$3 / 1 = 3$$$ km/h. Downstream speed D = 1 / ($\\frac{12}{60}$) = 5 km/h. Speed of boat in still water v = (U + D)/2 = $$$(3+5)/2 = 4$$$ km/h. Time taken to travel 6 km in still water = $$$6 / 4 = 1.5$$$ hours = 1 hour 30 minutes.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -906,7 +906,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "The measures of two angles of a triangle are in the ratio $$$$$$$$$$$$3:7$$$$$$$$$$$$. If the sum of these two measures is equal to the measure of the third angle, then find the smallest angle.",
+    "question": "The measures of two angles of a triangle are in the ratio $$$3:7$$$. If the sum of these two measures is equal to the measure of the third angle, then find the smallest angle.",
     "questionImage": null,
     "options": [
       {
@@ -931,7 +931,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let angles be 3x and 7x. Third angle = 3x + 7x = 10x. Sum of angles of a triangle = 180° => 3x + 7x + 10x = 180° => 20x = 180° => x = 9°. Smallest angle = 3x = $$$$$$$$$$$$3 * 9 = 27$$$$$$$$$$$$°.",
+    "explanation": "Let angles be 3x and 7x. Third angle = 3x + 7x = 10x. Sum of angles of a triangle = 180° => 3x + 7x + 10x = 180° => 20x = 180° => x = 9°. Smallest angle = 3x = $$$3 * 9 = 27$$$°.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -978,7 +978,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Hard",
-    "question": "Find the simplified form of the expression \\frac{(x^$$$$$$$$$$$$2 - 9)$$$$$$$$$$$$ \\times (9x^$$$$$$$$$$$$2 - 1)$$$$$$$$$$$$}{(x - \\frac{1}{3}) \\times (1 - \\frac{x}{3})} \\times \\frac{9}{(x + \\frac{1}{3})(1 + \\frac{x}{3})}.",
+    "question": "Find the simplified form of the expression \\frac{(x^$$$2 - 9)$$$ \\times (9x^$$$2 - 1)$$$}{(x - \\frac{1}{3}) \\times (1 - \\frac{x}{3})} \\times \\frac{9}{(x + \\frac{1}{3})(1 + \\frac{x}{3})}.",
     "questionImage": null,
     "options": [
       {
@@ -988,22 +988,22 @@
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$727-$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$731-$",
         "image": null
       },
       {
         "id": "D",
-        "text": "-81",
+        "text": "$724-$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Rearranging terms in the denominators and factoring out: (x^$$$$$$$$$$$$2-9)$$$$$$$$$$$$ = -(9-x^2) = -9(1 - x^$\\frac{2}{9}$). (9x^$$$$$$$$$$$$2-1) = 9($$$$$$$$$$$$x^2 - $\\frac{1}{9}$). Denominator terms: (x - $\\frac{1}{3}$) * (x + $\\frac{1}{3}$) = x^2 - $\\frac{1}{9}$, and (1 - x/3) * (1 + x/3) = 1 - x^$\\frac{2}{9}$. Thus the variables cancel out leaving -$$$$$$$$$$$$9 * 9 * 9$$$$$$$$$$$$ = -729.",
+    "explanation": "Rearranging terms in the denominators and factoring out: (x^$$$2-9)$$$ = -(9-x^2) = -9(1 - x^$\\frac{2}{9}$). (9x^$$$2-1) = 9($$$x^2 - $\\frac{1}{9}$). Denominator terms: (x - $\\frac{1}{3}$) * (x + $\\frac{1}{3}$) = x^2 - $\\frac{1}{9}$, and (1 - x/3) * (1 + x/3) = 1 - x^$\\frac{2}{9}$. Thus the variables cancel out leaving -$$$9 * 9 * 9$$$ = -729.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1075,7 +1075,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total salary of 40 employees = $$$$$$$$$$$$40 * 4000$$$$$$$$$$$$ = ₹160,000. Total salary of 35 non-teaching staff = $$$$$$$$$$$$35 * 4200$$$$$$$$$$$$ = ₹147,000. Total salary of remaining 5 staff = $$$$$$$$$$$$160000 - 147000$$$$$$$$$$$$ = ₹13,000. Average salary of remaining staff = $$$$$$$$$$$$13000 / 5$$$$$$$$$$$$ = ₹2,600.",
+    "explanation": "Total salary of 40 employees = $$$40 * 4000$$$ = ₹160,000. Total salary of 35 non-teaching staff = $$$35 * 4200$$$ = ₹147,000. Total salary of remaining 5 staff = $$$160000 - 147000$$$ = ₹13,000. Average salary of remaining staff = $$$13000 / 5$$$ = ₹2,600.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1083,7 +1083,7 @@
     "id": 31,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. C_EF HNE_ _NEP RN_U WNE_",
@@ -1119,7 +1119,7 @@
     "id": 32,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
     "question": "Figure A is related to Figure B in a certain pattern. Following the same pattern, Figure C is related to Figure D. Study the pattern and select the figure that can replace Figure D.",
@@ -1155,7 +1155,7 @@
     "id": 33,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Water Image",
     "difficulty": "Medium",
     "question": "If the water source is placed along X-Y as shown in the figure below, which of the following options will be the water image of the given figure?",
@@ -1191,35 +1191,35 @@
     "id": 34,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $163 \\div $$$$$$$$$$$5 + 147$$$$$$$$$$$ \\times 7$ − 19 = ?",
+    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $163 \\div $$$5 + 147$$$ \\times 7$ − 19 = ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$812$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$813$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$811$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$808$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Rewriting the equation with interchanged symbols: $$$$$$$$$$$$163 * 5 - 147 / 7 + 19 = 815 - 21 + 19 = 813.$$$$$$$$$$$$",
+    "explanation": "Rewriting the equation with interchanged symbols: $$$163 * 5 - 147 / 7 + 19 = 815 - 21 + 19 = 813.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1227,7 +1227,7 @@
     "id": 35,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Three of the following four word-pairs are alike in some manner and hence form a group. Select the word-pair that does not belong to that group.",
@@ -1263,7 +1263,7 @@
     "id": 36,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Statement and Course of Action",
     "difficulty": "Medium",
     "question": "A statement is followed by two courses of action numbered I and II. You have to assume everything in the statement to be true and decide which of the courses of action logically follow(s). Statement: Several new electrical appliances in A's house were damaged due to voltage fluctuations. Course of Action: I) A should consult an electrician and install a device to protect the electrical appliances from voltage fluctuations. II) A should replace all the damaged appliances with new ones.",
@@ -1299,7 +1299,7 @@
     "id": 37,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Relation",
     "difficulty": "Easy",
     "question": "Following a certain logic, 4 is related to 40. Following the same logic, 12 is related to 120. Following the same logic, 15 is related to which of the following?",
@@ -1307,27 +1307,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$140$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$150$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$151$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$149$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The relationship is x * 10 = y. Therefore, $$$$$$$$$$$$15 * 10 = 150.$$$$$$$$$$$$",
+    "explanation": "The relationship is x * 10 = y. Therefore, $$$15 * 10 = 150.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1335,7 +1335,7 @@
     "id": 38,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Ranking and Ordering",
     "difficulty": "Medium",
     "question": "In a class, all 20 students are standing in a straight line facing North. Neha is 10th from the right end, while Nalin is 12th from the left end. How many students are standing between Neha and Nalin?",
@@ -1363,7 +1363,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Neha's position from the left = Total - Position from right + 1 = $$$$$$$$$$$$20 - 10 + 1 = 11$$$$$$$$$$$$th. Nalin's position from the left is 12th. Since Neha is 11th and Nalin is 12th, there are 0 students standing between them.",
+    "explanation": "Neha's position from the left = Total - Position from right + 1 = $$$20 - 10 + 1 = 11$$$th. Nalin's position from the left is 12th. Since Neha is 11th and Nalin is 12th, there are 0 students standing between them.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1371,7 +1371,7 @@
     "id": 39,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Relation",
     "difficulty": "Easy",
     "question": "Following a certain logic, 11 is related to 55. Following the same logic, 12 is related to 60. Following the same logic, 15 is related to which of the following?",
@@ -1379,27 +1379,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$73$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$74$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$85$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$75$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The relationship is x * 5 = y. Therefore, $$$$$$$$$$$$15 * 5 = 75.$$$$$$$$$$$$",
+    "explanation": "The relationship is x * 5 = y. Therefore, $$$15 * 5 = 75.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1407,7 +1407,7 @@
     "id": 40,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
     "question": "Select the word-pair from the options that shares the same relationship as the given pair. Dilemma : Confused :: Consistency : Harmony",
@@ -1443,7 +1443,7 @@
     "id": 41,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Relation",
     "difficulty": "Easy",
     "question": "Following a certain logic, 82 is related to 41. Following the same logic, 94 is related to 47. Following the same logic, 66 is related to which of the following?",
@@ -1451,27 +1451,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$43$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$32$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$28$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$33$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The relationship is x / 2 = y. Therefore, $$$$$$$$$$$$66 / 2 = 33.$$$$$$$$$$$$",
+    "explanation": "The relationship is x / 2 = y. Therefore, $$$66 / 2 = 33.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1479,7 +1479,7 @@
     "id": 42,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Three of the following four options are alike in some manner and hence form a group. Which option does not belong to that group?",
@@ -1487,27 +1487,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$31-280$$$$$$$$$$$$",
+        "text": "$$$31-280$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$14-126$$$$$$$$$$$$",
+        "text": "$$$14-126$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$25-225$$$$$$$$$$$$",
+        "text": "$$$25-225$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$12-108$$$$$$$$$$$$",
+        "text": "$$$12-108$$$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In all options except $$$$$$$$$$$$31-280$$$$$$$$$$$$, the second number is 9 times the first number $$$$$$$$$$$$(14*9=126$$$$$$$$$$$$, $$$$$$$$$$$$25*9=225$$$$$$$$$$$$, $$$$$$$$$$$$12*9=108).$$$$$$$$$$$$ But $$$$$$$$$$$$31*9 = 279$$$$$$$$$$$$, not 280.",
+    "explanation": "In all options except $$$31-280$$$, the second number is 9 times the first number $$$(14*9=126$$$, $$$25*9=225$$$, $$$12*9=108).$$$ But $$$31*9 = 279$$$, not 280.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1515,7 +1515,7 @@
     "id": 43,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. GA_B M_PB SA_B YAB_ _AHB",
@@ -1551,7 +1551,7 @@
     "id": 44,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Syllogism",
     "difficulty": "Easy",
     "question": "Statements: Some bells are pumps. All pumps are skates. All bells are kites. Conclusions: 1. Some kites are skates. 2. Some skates are bells. 3. Some skates are pumps.",
@@ -1587,7 +1587,7 @@
     "id": 45,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Medium",
     "question": "How many meaningful English words of four letters can be formed using the 2nd, 3rd, 5th, and 7th letters of the word 'TOURIST' (using each letter only once)?",
@@ -1623,35 +1623,35 @@
     "id": 46,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $617 \\div 3$ − $$$$$$$$$$$$84 + 515$$$$$$$$$$$ \\times 5 = ?$",
+    "question": "If '+' and '-' are interchanged and '×' and '÷' are interchanged, then what will come in place of '?' in the following equation? $617 \\div 3$ − $$$84 + 515$$$ \\times 5 = ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$1834$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$1837$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$1832$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$1831$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Rewriting the equation with interchanged symbols: $$$$$$$$$$$$617 * 3 + 84 - 515 / 5 = 1851 + 84 - 103 = 1832.$$$$$$$$$$$$",
+    "explanation": "Rewriting the equation with interchanged symbols: $$$617 * 3 + 84 - 515 / 5 = 1851 + 84 - 103 = 1832.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1659,7 +1659,7 @@
     "id": 47,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Coding Decoding",
     "difficulty": "Medium",
     "question": "In a certain code language, '4378' is coded as 'IDOL' and '7832' is coded as 'IDLE'. How will '2' be coded in that language?",
@@ -1695,7 +1695,7 @@
     "id": 48,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Paper Folding",
     "difficulty": "Medium",
     "question": "A square sheet of paper is folded in the given directions along the dotted lines and then punched. How will it appear when unfolded?",
@@ -1731,7 +1731,7 @@
     "id": 49,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Hard",
     "question": "Four of the following five figures are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
@@ -1767,7 +1767,7 @@
     "id": 50,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Coding Decoding",
     "difficulty": "Medium",
     "question": "In a certain code language, 'KENT' is coded as '9^*7' and 'BENT' is coded as '*~79'. How will 'B' be coded in that language?",
@@ -1775,22 +1775,22 @@
     "options": [
       {
         "id": "A",
-        "text": "^",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "B",
-        "text": "*",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "C",
-        "text": "~",
+        "text": "Correct value",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Decoy C for Correct value",
         "image": null
       }
     ],
@@ -1803,7 +1803,7 @@
     "id": 51,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
     "question": "Select the word-pair that best represents the same relationship as the given pair. Console : Satisfy :: Nourish : Cherish",
@@ -1839,7 +1839,7 @@
     "id": 52,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Syllogism",
     "difficulty": "Easy",
     "question": "Statements: All apples are plums. Some plums are berries. Some berries are coconuts. Conclusions: 1. Some berries are plums. 2. All plums are apples. 3. Some coconuts are berries.",
@@ -1875,7 +1875,7 @@
     "id": 53,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Puzzles",
     "difficulty": "Hard",
     "question": "A, B, C, D, E and F live on six different floors of a building. The lowermost floor is numbered 1, the floor above it is 2, and so on, with the topmost floor numbered 6. E lives on an odd-numbered floor but not on floor 5. Only one person lives between E and C. D lives immediately above F. B lives on a floor below C. A does not live on the topmost floor. Who lives on the topmost floor?",
@@ -1911,7 +1911,7 @@
     "id": 54,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inequality",
     "difficulty": "Medium",
     "question": "Statement: P ≤ L ≥ M ≥ N = U < V < G Conclusions: I. P > V II. G ≤ L",
@@ -1947,7 +1947,7 @@
     "id": 55,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. CB_W V_SP _NLI HG_B A_XU",
@@ -1983,7 +1983,7 @@
     "id": 56,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inference",
     "difficulty": "Easy",
     "question": "Read the given statement and inferences carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given inferences can be derived from the statement. Statement: All mammals are warm-blooded animals. Inferences: I. Dogs are warm-blooded animals. II. All warm-blooded creatures are mammals.",
@@ -2019,7 +2019,7 @@
     "id": 57,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inequality",
     "difficulty": "Medium",
     "question": "Statement: T ≥ M < W = P ≥ Q > R ≤ S Conclusions: I. P ≤ M II. Q > T",
@@ -2055,7 +2055,7 @@
     "id": 58,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Medium",
     "question": "How many meaningful English words of four letters can be formed using the 1st, 4th, 5th, and 6th letters of the word 'SAVOUR' (using each letter only once)?",
@@ -2091,7 +2091,7 @@
     "id": 59,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Identify the figure from the options that will logically complete the series when placed in place of the question mark (?).",
@@ -2127,7 +2127,7 @@
     "id": 60,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Three of the following four options are alike in some manner and hence form a group. Which option does not belong to that group?",
@@ -2135,27 +2135,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$364-182$$$$$$$$$$$$",
+        "text": "$$$364-182$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$986-493$$$$$$$$$$$$",
+        "text": "$$$986-493$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$438-219$$$$$$$$$$$$",
+        "text": "$$$438-219$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$524-260$$$$$$$$$$$$",
+        "text": "$$$524-260$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all options except $$$$$$$$$$$$524-260$$$$$$$$$$$$, the second number is half the first number ($\\frac{364}{2}$=182, $\\frac{986}{2}$=493, $\\frac{438}{2}$=219). But $\\frac{524}{2}$ = 262, not 260.",
+    "explanation": "In all options except $$$524-260$$$, the second number is half the first number ($\\frac{364}{2}$=182, $\\frac{986}{2}$=493, $\\frac{438}{2}$=219). But $\\frac{524}{2}$ = 262, not 260.",
     "marks": 3,
     "negativeMarks": 1
   },

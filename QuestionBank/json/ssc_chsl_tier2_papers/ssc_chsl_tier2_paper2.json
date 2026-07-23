@@ -6,32 +6,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Medium",
-    "question": "The concentration of three wines A, B and C are 10%, 20% and 30%, respectively. They are mixed in the ratio $$$$$$$$$$$$2:3$$$$$$$$$$$$ : x resulting in a 23% concentration solution. Find the value of $x$.",
+    "question": "The concentration of three wines A, B and C are 10%, 20% and 30%, respectively. They are mixed in the ratio $$$2:3$$$ : x resulting in a 23% concentration solution. Find the value of $x$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$5$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$15$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$6$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$4$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Weighted average formula: $$$$$$$$$$$$(10*2 + 20*3 + 30$$$$$$$$$$$$*x) / $$$$$$$$$$$$(2 + 3$$$$$$$$$$$$ + x) = 23 => $$$$$$$$$$$$(20 + 60 + 30$$$$$$$$$$$$x) / (5 + x) = 23 => $$$$$$$$$$$$80 + 30$$$$$$$$$$$$x = $$$$$$$$$$$$115 + 23$$$$$$$$$$$$x => 7x = 35 => x = 5.",
+    "explanation": "Weighted average formula: $$$(10*2 + 20*3 + 30$$$*x) / $$$(2 + 3$$$ + x) = 23 => $$$(20 + 60 + 30$$$x) / (5 + x) = 23 => $$$80 + 30$$$x = $$$115 + 23$$$x => 7x = 35 => x = 5.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -78,7 +78,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Easy",
-    "question": "A sum of money is divided among A, B, and C in the ratio $$$$$$$$$$$$4:3$$$$$$$$$$$$ : 6. If the share of C is ₹600 more than B, then how much amount will A get more than B?",
+    "question": "A sum of money is divided among A, B, and C in the ratio $$$4:3$$$ : 6. If the share of C is ₹600 more than B, then how much amount will A get more than B?",
     "questionImage": null,
     "options": [
       {
@@ -139,7 +139,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Amount returned A = $\\frac{4}{3}$ * P. Simple Interest SI = A - P = $\\frac{1}{3}$ * P. SI = (P * R * T) / 100 => P/3 = (P * R * 3) / 100 => $\\frac{1}{3}$ = 3R / 100 => R = $$$$$$$$$$$$100 / 9 = 11$$$$$$$$$$$$ $\\frac{1}{9}$ % p.a.",
+    "explanation": "Amount returned A = $\\frac{4}{3}$ * P. Simple Interest SI = A - P = $\\frac{1}{3}$ * P. SI = (P * R * T) / 100 => P/3 = (P * R * 3) / 100 => $\\frac{1}{3}$ = 3R / 100 => R = $$$100 / 9 = 11$$$ $\\frac{1}{9}$ % p.a.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -175,7 +175,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let total distance be D. Time taken T = (D/4)/25 + (D/2)/40 + (D/4)/50 = D/100 + D/80 + D/200 = D * $$$$$$$$$$$$(8 + 10 + 4)/800 = 22$$$$$$$$$$$$D/800 = 11D/400. Average speed = Distance / Time = D / (11D/400) = $\\frac{400}{11}$ = 36 $\\frac{4}{11}$ km/h.",
+    "explanation": "Let total distance be D. Time taken T = (D/4)/25 + (D/2)/40 + (D/4)/50 = D/100 + D/80 + D/200 = D * $$$(8 + 10 + 4)/800 = 22$$$D/800 = 11D/400. Average speed = Distance / Time = D / (11D/400) = $\\frac{400}{11}$ = 36 $\\frac{4}{11}$ km/h.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -191,7 +191,7 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$2-$",
         "image": null
       },
       {
@@ -201,17 +201,17 @@
       },
       {
         "id": "C",
-        "text": "-2",
+        "text": "$6-$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$11-$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => cos^2 A / sin^4 A = 1 => cos^2 A = sin^4 A = (1 - cos^2 A)^2 = $$$$$$$$$$$$1 - 2$$$$$$$$$$$$cos^2 A + cos^4 A => cos^4 A - 3cos^2 A = -1.",
+    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => cos^2 A / sin^4 A = 1 => cos^2 A = sin^4 A = (1 - cos^2 A)^2 = $$$1 - 2$$$cos^2 A + cos^4 A => cos^4 A - 3cos^2 A = -1.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -227,22 +227,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$160$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$140$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$150$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$149$",
         "image": null
       }
     ],
@@ -283,7 +283,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Initial total weight = $$$$$$$$$$$$40 * 52 = 2080$$$$$$$$$$$$ kg. New average = 52.5 kg for 41 people. New total weight = $$$$$$$$$$$$41 * 52.5 = 2152.5$$$$$$$$$$$$ kg. Teacher's weight = $$$$$$$$$$$$2152.5 - 2080 = 72.5$$$$$$$$$$$$ kg.",
+    "explanation": "Initial total weight = $$$40 * 52 = 2080$$$ kg. New average = 52.5 kg for 41 people. New total weight = $$$41 * 52.5 = 2152.5$$$ kg. Teacher's weight = $$$2152.5 - 2080 = 72.5$$$ kg.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -319,7 +319,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Cube both sides: $$$$$$$$$$$$0.08 * 0.8$$$$$$$$$$$$ * p = $$$$$$$$$$$$(0.008 * 0.8)$$$$$$$$$$$$^3 * q => $$$$$$$$$$$$(8 * 10$$$$$$$$$$$$^-2) * $$$$$$$$$$$$(8 * 10$$$$$$$$$$$$^-1) * p = $$$$$$$$$$$$(8 * 10$$$$$$$$$$$$^-$$$$$$$$$$$$3 * 8 * 10$$$$$$$$$$$$^-1)^3 * q => 8^$$$$$$$$$$$$2 * 10$$$$$$$$$$$$^-3 * p = (8^$$$$$$$$$$$$2 * 10$$$$$$$$$$$$^-4)^3 * q => 8^$$$$$$$$$$$$2 * 10$$$$$$$$$$$$^-3 * p = 8^$$$$$$$$$$$$6 * 10$$$$$$$$$$$$^-12 * q => p/q = 8^$$$$$$$$$$$$4 * 10$$$$$$$$$$$$^-9.",
+    "explanation": "Cube both sides: $$$0.08 * 0.8$$$ * p = $$$(0.008 * 0.8)$$$^3 * q => $$$(8 * 10$$$^-2) * $$$(8 * 10$$$^-1) * p = $$$(8 * 10$$$^-$$$3 * 8 * 10$$$^-1)^3 * q => 8^$$$2 * 10$$$^-3 * p = (8^$$$2 * 10$$$^-4)^3 * q => 8^$$$2 * 10$$$^-3 * p = 8^$$$6 * 10$$$^-12 * q => p/q = 8^$$$4 * 10$$$^-9.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -340,7 +340,7 @@
       },
       {
         "id": "B",
-        "text": "If the sides of a triangle are in the ratio $$$$$$$$$$$$13:5$$$$$$$$$$$$ : 12, then two of its angles are acute.",
+        "text": "If the sides of a triangle are in the ratio $$$13:5$$$ : 12, then two of its angles are acute.",
         "image": null
       },
       {
@@ -391,7 +391,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Investment ratios: A = $$$$$$$$$$$$25000 * 9 = 225$$$$$$$$$$$$,000. B = $$$$$$$$$$$$50000 * 12 = 600$$$$$$$$$$$$,000. C = $$$$$$$$$$$$30000 * 5 = 150$$$$$$$$$$$$,000. Ratio = $$$$$$$$$$$$225:600$$$$$$$$$$$$ : 150 = $$$$$$$$$$$$9:24$$$$$$$$$$$$ : 6 = $$$$$$$$$$$$3:8$$$$$$$$$$$$ : 2. Total parts = $$$$$$$$$$$$3 + 8 + 2 = 13.$$$$$$$$$$$$ C's share = ($\\frac{2}{13}$) * 3900 = ₹600.",
+    "explanation": "Investment ratios: A = $$$25000 * 9 = 225$$$,000. B = $$$50000 * 12 = 600$$$,000. C = $$$30000 * 5 = 150$$$,000. Ratio = $$$225:600$$$ : 150 = $$$9:24$$$ : 6 = $$$3:8$$$ : 2. Total parts = $$$3 + 8 + 2 = 13.$$$ C's share = ($\\frac{2}{13}$) * 3900 = ₹600.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -427,7 +427,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Population = $$$$$$$$$$$$175000 * 1.04 * 1.05 = 182000 * 1.05 = 191$$$$$$$$$$$$,100.",
+    "explanation": "Population = $$$175000 * 1.04 * 1.05 = 182000 * 1.05 = 191$$$,100.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -443,27 +443,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$17$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$13$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$12$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$11$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let work be 72 units. Efficiency: A+B = 8, B+C = 4, A+B+C = 9. Thus, C = $$$$$$$$$$$$9 - 8 = 1.$$$$$$$$$$$$ A = $$$$$$$$$$$$9 - 4 = 5.$$$$$$$$$$$$ Efficiency of A+C = $$$$$$$$$$$$5 + 1 = 6.$$$$$$$$$$$$ Days taken by A+C = $$$$$$$$$$$$72 / 6 = 12$$$$$$$$$$$$ days.",
+    "explanation": "Let work be 72 units. Efficiency: A+B = 8, B+C = 4, A+B+C = 9. Thus, C = $$$9 - 8 = 1.$$$ A = $$$9 - 4 = 5.$$$ Efficiency of A+C = $$$5 + 1 = 6.$$$ Days taken by A+C = $$$72 / 6 = 12$$$ days.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -479,27 +479,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$15$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$8$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$10$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$5$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "(a + 2b)^2 = (a - 2b)^$$$$$$$$$$$$2 + 8$$$$$$$$$$$$ab = 8^$$$$$$$$$$$$2 + 4*(2$$$$$$$$$$$$ab) = $$$$$$$$$$$$64 + 4*9 = 64 + 36 = 100 => ($$$$$$$$$$$$a + 2b) = 10.",
+    "explanation": "(a + 2b)^2 = (a - 2b)^$$$2 + 8$$$ab = 8^$$$2 + 4*(2$$$ab) = $$$64 + 4*9 = 64 + 36 = 100 => ($$$a + 2b) = 10.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -535,7 +535,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let enrolled votes be V. Cast votes = 0.64V. Valid votes = $$$$$$$$$$$$0.96 * 0.64$$$$$$$$$$$$V. Candidate votes = $$$$$$$$$$$$0.64 * 0.96 * 0.64$$$$$$$$$$$$V = 12288 => 0.393216 V = 12288 => V = 31,250.",
+    "explanation": "Let enrolled votes be V. Cast votes = 0.64V. Valid votes = $$$0.96 * 0.64$$$V. Candidate votes = $$$0.64 * 0.96 * 0.64$$$V = 12288 => 0.393216 V = 12288 => V = 31,250.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -551,27 +551,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$53$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$46$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$56$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$51$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Weighted average age = $$$$$$$$$$$$(60 * 55 + 40 * 45) / 100 = (3300 + 1800) / 100 = 51$$$$$$$$$$$$ years.",
+    "explanation": "Weighted average age = $$$(60 * 55 + 40 * 45) / 100 = (3300 + 1800) / 100 = 51$$$ years.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -715,7 +715,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let true weight be 1000g. He gives w grams. Profit = 25% => (1000-w)/w = 0.25 => w = 800g. Now, he wants 10% profit. Let selling price be SP. Cost of 800g = 800. SP to make 10% profit on 800g = 880. Original marked price for 1000g = 1000. Discount offered = $$$$$$$$$$$$(1000 - 880)/1000 = 12$$$$$$$$$$$$%.",
+    "explanation": "Let true weight be 1000g. He gives w grams. Profit = 25% => (1000-w)/w = 0.25 => w = 800g. Now, he wants 10% profit. Let selling price be SP. Cost of 800g = 800. SP to make 10% profit on 800g = 880. Original marked price for 1000g = 1000. Discount offered = $$$(1000 - 880)/1000 = 12$$$%.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -751,7 +751,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Net change = $$$$$$$$$$$$25 - 16 - (25 * 16)/100 = 9 - 4$$$$$$$$$$$$ = +5%. Thus, the value increases by 5%.",
+    "explanation": "Net change = $$$25 - 16 - (25 * 16)/100 = 9 - 4$$$ = +5%. Thus, the value increases by 5%.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -762,27 +762,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Statistics",
     "difficulty": "Easy",
-    "question": "Find the mode of the given data: $$$$$$$$$$$$21,15,16,48,6,15,44,16,6,5,15,16,21,6,15$$$$$$$$$$$$ and 43",
+    "question": "Find the mode of the given data: $$$21,15,16,48,6,15,44,16,6,5,15,16,21,6,15$$$ and 43",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$14$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$10$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$15$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$20$",
         "image": null
       }
     ],
@@ -803,22 +803,22 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$70$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$71$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$72$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$60$",
         "image": null
       }
     ],
@@ -839,27 +839,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "20cm",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$15cm$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$30cm$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$19cm$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Congruent triangles have equal corresponding sides. Since ∠A = ∠P = 90°, BC = QR = 29 (hypotenuse) and AC = PR = 21. AB = \\sqrt{BC^2 - AC^2} = \\sqrt{29^$$$$$$$$$$$$2 - 21$$$$$$$$$$$$^2} = \\sqrt{$$$$$$$$$$$$841 - 441$$$$$$$$$$$$} = \\sqrt{400} = 20 cm.",
+    "explanation": "Congruent triangles have equal corresponding sides. Since ∠A = ∠P = 90°, BC = QR = 29 (hypotenuse) and AC = PR = 21. AB = \\sqrt{BC^2 - AC^2} = \\sqrt{29^$$$2 - 21$$$^2} = \\sqrt{$$$841 - 441$$$} = \\sqrt{400} = 20 cm.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -931,7 +931,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Volume of cone is proportional to r^2 * h. New Volume = (1.25)^$$$$$$$$$$$$2 * 1.25$$$$$$$$$$$$ * Old Volume = (1.25)^3 * Old Volume = 1.953125 * Old Volume. Increase% = 95.31%.",
+    "explanation": "Volume of cone is proportional to r^2 * h. New Volume = (1.25)^$$$2 * 1.25$$$ * Old Volume = (1.25)^3 * Old Volume = 1.953125 * Old Volume. Increase% = 95.31%.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -967,7 +967,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Equivalent discount of 26% and 5% = $$$$$$$$$$$$26 + 5 - (26*5)/100 = 31 - 1.3 = 29.7$$$$$$$$$$$$%. Difference = 30% - 29.7% = 0.3%. Difference amount = 0.3% of ₹50,000 = ₹150.",
+    "explanation": "Equivalent discount of 26% and 5% = $$$26 + 5 - (26*5)/100 = 31 - 1.3 = 29.7$$$%. Difference = 30% - 29.7% = 0.3%. Difference amount = 0.3% of ₹50,000 = ₹150.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -978,27 +978,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Statistics",
     "difficulty": "Easy",
-    "question": "Calculate the mode from the following data: Days of confinement ($$$$$$$$$$$$6,7,8,9,10$$$$$$$$$$$$), Number of patients ($$$$$$$$$$$$4,6,7,5,3$$$$$$$$$$$$).",
+    "question": "Calculate the mode from the following data: Days of confinement ($$$6,7,8,9,10$$$), Number of patients ($$$4,6,7,5,3$$$).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$7$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$9$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$2$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$6$",
         "image": null
       }
     ],
@@ -1083,7 +1083,7 @@
     "id": 31,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Paper Folding",
     "difficulty": "Medium",
     "question": "A square sheet of paper is folded along the dotted line successively along the directions shown and is then punched in the last. How would the paper look when unfolded?",
@@ -1119,7 +1119,7 @@
     "id": 32,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Hard",
     "question": "Identify the figure given in the options, which when put in place of ‘?’ will logically complete the series.",
@@ -1155,7 +1155,7 @@
     "id": 33,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inequality",
     "difficulty": "Medium",
     "question": "A statement is followed by two conclusions, numbered I and II. Find out which of the following conclusion(s) is/are true based on the given statements. Statement: Z < Y = J ≥ G ≥ P ≥ C ≥ R Conclusions: I. Z ≥ R II. J = C",
@@ -1191,7 +1191,7 @@
     "id": 34,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Coding Decoding",
     "difficulty": "Medium",
     "question": "In a certain code language, ‘FAWN’ is coded as ‘09( )’ and ‘LAWN’ is coded as ‘9( )1’. What is the code for ‘L’ in that code language?",
@@ -1199,22 +1199,22 @@
     "options": [
       {
         "id": "A",
-        "text": "(",
+        "text": "Decoy A for Correct value",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "Decoy B for Correct value",
         "image": null
       },
       {
         "id": "C",
-        "text": ")",
+        "text": "Decoy C for Correct value",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "Correct value",
         "image": null
       }
     ],
@@ -1227,7 +1227,7 @@
     "id": 35,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. TRY_ US_U V_YU _UYU XVY_",
@@ -1263,7 +1263,7 @@
     "id": 36,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Easy",
     "question": "How many meaningful English words can be formed using B, E, O and R using each letter only once in each word?",
@@ -1299,7 +1299,7 @@
     "id": 37,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. CDG_ IJ_Z O_SZ _VYZ _BEZ",
@@ -1335,7 +1335,7 @@
     "id": 38,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
     "question": "The first figure is related to the second figure in a certain way. Study the pattern and select the figure which should be placed in place of the question mark (?) such that the third figure is related to the fourth figure in the same way.",
@@ -1371,35 +1371,35 @@
     "id": 39,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Easy",
-    "question": "What should come in place of ‘?’ in the given series? $$$$$$$$$$$$154,159,169,184$$$$$$$$$$$$, ?, 229, 259",
+    "question": "What should come in place of ‘?’ in the given series? $$$154,159,169,184$$$, ?, 229, 259",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$202$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$205$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$204$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$206$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Differences are consecutive multiples of 5: +5, +10, +15, +20, +25, +30. $$$$$$$$$$$$184 + 20 = 204.$$$$$$$$$$$$",
+    "explanation": "Differences are consecutive multiples of 5: +5, +10, +15, +20, +25, +30. $$$184 + 20 = 204.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1407,7 +1407,7 @@
     "id": 40,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Relation",
     "difficulty": "Easy",
     "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (4, 12, 8) (2, 7, 5)",
@@ -1435,7 +1435,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Logic: First + Third = Second. $$$$$$$$$$$$4 + 8 = 12.$$$$$$$$$$$$ $$$$$$$$$$$$2 + 5 = 7.$$$$$$$$$$$$ Similarly, $$$$$$$$$$$$1 + 3 = 4.$$$$$$$$$$$$",
+    "explanation": "Logic: First + Third = Second. $$$4 + 8 = 12.$$$ $$$2 + 5 = 7.$$$ Similarly, $$$1 + 3 = 4.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1443,7 +1443,7 @@
     "id": 41,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Medium",
     "question": "How many meaningful English words can be formed using second, third, sixth and seventh letters of the word ‘CRACKER’ (when counted from left to right) using each letter only once in each word ?",
@@ -1479,35 +1479,35 @@
     "id": 42,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "What will come in place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? $292 \\div 2$ − $$$$$$$$$$$$15 + 164$$$$$$$$$$$ \\times 4 = ?$",
+    "question": "What will come in place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? $292 \\div 2$ − $$$15 + 164$$$ \\times 4 = ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$558$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$553$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$560$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$556$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Rewriting the equation with interchanged symbols: $$$$$$$$$$$$292 * 2 + 15 - 164 / 4 = 584 + 15 - 41 = 558.$$$$$$$$$$$$",
+    "explanation": "Rewriting the equation with interchanged symbols: $$$292 * 2 + 15 - 164 / 4 = 584 + 15 - 41 = 558.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1515,7 +1515,7 @@
     "id": 43,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Three of the following four word pairs are alike and thus form a group. Select the word pair that does NOT belong to that group.",
@@ -1551,7 +1551,7 @@
     "id": 44,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inequality",
     "difficulty": "Medium",
     "question": "A statement is followed by two conclusions, numbered I and II. Find out which of the following conclusion(s) is/are true based on the given statements. Statement: G < H > K ≤ S ≥ L = M < Q Conclusions: I. G > L II. H = Q",
@@ -1587,7 +1587,7 @@
     "id": 45,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
     "question": "Select the word-pair that best represents a similar relationship to the one expressed in the pairs of words given below. Docile : Defiant, Placid : Turbulent",
@@ -1623,7 +1623,7 @@
     "id": 46,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Ranking and Ordering",
     "difficulty": "Easy",
     "question": "Sunita is ranked 10th from the top and 18th from the bottom in her class. How many students are there in the class?",
@@ -1631,27 +1631,27 @@
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$27$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$28$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$26$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$22$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total number of students = Position from top + Position from bottom - 1 = $$$$$$$$$$$$10 + 18 - 1 = 27.$$$$$$$$$$$$",
+    "explanation": "Total number of students = Position from top + Position from bottom - 1 = $$$10 + 18 - 1 = 27.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1659,7 +1659,7 @@
     "id": 47,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Coding Decoding",
     "difficulty": "Medium",
     "question": "In a certain code language, ‘TALKER’ is coded as ‘!@#©$%’ and ‘TALKED’ is coded as ‘$%@#!£’. What is the code for ‘D’ in that code language?",
@@ -1695,7 +1695,7 @@
     "id": 48,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inference",
     "difficulty": "Medium",
     "question": "Read the following information and answer the question that follows. Suresh has started practicing critical reasoning after hearing about Ramesh’s incredible result in the competitive exam. Which of the following can be inferred from the given statement? I) Ramesh has scored most of the marks in critical reasoning. II) Most of the questions in the exam constitute of critical reasoning questions.",
@@ -1731,7 +1731,7 @@
     "id": 49,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Word Formation",
     "difficulty": "Easy",
     "question": "How many meaningful four-letter English words can be formed using T, U, K and S using each letter only once in each word?",
@@ -1767,7 +1767,7 @@
     "id": 50,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Syllogism",
     "difficulty": "Easy",
     "question": "This question has three statements followed by two conclusions numbered I and II. Statements: Some J’s are A’s. Some A’s are B’s. All the B’s are C’s. Conclusions: I. Some C’s are A’s. II. Some B’s are J’s.",
@@ -1803,7 +1803,7 @@
     "id": 51,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Medium",
     "question": "Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. FMD_ B_ZA _MVW TM_S PMN_",
@@ -1839,7 +1839,7 @@
     "id": 52,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Inference",
     "difficulty": "Medium",
     "question": "In this question, a statement is followed by two inferences numbered I and II. Statement: The eligibility for admission to the course is a minimum of 80% marks in the 10th standard board exams. However, students who have appeared for the 10th standard board exams this year can also apply. Inference: I. No 11th standard students can apply for the course. II. Students who have appeared for 10th standard exams will get admission only if they score 80% or more in their exam.",
@@ -1875,35 +1875,35 @@
     "id": 53,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "What will come in place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? $313 \\div 4$ − $2107 \\times $$$$$$$$$$$7 + 24 = ?$$$$$$$$$$$$",
+    "question": "What will come in place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged? $313 \\div 4$ − $2107 \\times $$$7 + 24 = ?$$$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$1527$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$1530$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$1519$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$1529$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Rewriting the equation: $$$$$$$$$$$$313 * 4 + 2107 / 7 - 24 = 1252 + 301 - 24 = 1529.$$$$$$$$$$$$",
+    "explanation": "Rewriting the equation: $$$313 * 4 + 2107 / 7 - 24 = 1252 + 301 - 24 = 1529.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1911,35 +1911,35 @@
     "id": 54,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Series",
     "difficulty": "Easy",
-    "question": "What should come in place of ‘?’ in the given series? 16, 21, ?, $$$$$$$$$$$$43,60,81,106$$$$$$$$$$$$",
+    "question": "What should come in place of ‘?’ in the given series? 16, 21, ?, $$$43,60,81,106$$$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "",
+        "text": "$53$",
         "image": null
       },
       {
         "id": "B",
-        "text": "",
+        "text": "$42$",
         "image": null
       },
       {
         "id": "C",
-        "text": "",
+        "text": "$33$",
         "image": null
       },
       {
         "id": "D",
-        "text": "",
+        "text": "$43$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Differences are increasing by 4: +5, +9, +13, +17, +21, +25. $$$$$$$$$$$$16 + 5 = 21$$$$$$$$$$$$; $$$$$$$$$$$$21 + 9 = 30$$$$$$$$$$$$; $$$$$$$$$$$$30 + 13 = 43.$$$$$$$$$$$$",
+    "explanation": "Differences are increasing by 4: +5, +9, +13, +17, +21, +25. $$$16 + 5 = 21$$$; $$$21 + 9 = 30$$$; $$$30 + 13 = 43.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1947,7 +1947,7 @@
     "id": 55,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Hard",
     "question": "Four of the following five figures are alike in a certain way and thus form a group. Select the one that does NOT belong to that group.",
@@ -1983,7 +1983,7 @@
     "id": 56,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Mirror Image",
     "difficulty": "Medium",
     "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.",
@@ -2019,7 +2019,7 @@
     "id": 57,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
     "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? (41, 164), (13, 52), (25, 100), (33, 152)",
@@ -2047,7 +2047,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all pairs except (33, 152), the second number is 4 times the first. $$$$$$$$$$$$33 * 4 = 132$$$$$$$$$$$$, not 152.",
+    "explanation": "In all pairs except (33, 152), the second number is 4 times the first. $$$33 * 4 = 132$$$, not 152.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -2055,35 +2055,35 @@
     "id": 58,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Classification",
     "difficulty": "Easy",
-    "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? $$$$$$$$$$$$(38-114)$$$$$$$$$$$$, $$$$$$$$$$$$(41-123)$$$$$$$$$$$$, $$$$$$$$$$$$(25-75)$$$$$$$$$$$$, $$$$$$$$$$$$(33-97)$$$$$$$$$$$$",
+    "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? $$$(38-114)$$$, $$$(41-123)$$$, $$$(25-75)$$$, $$$(33-97)$$$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$$$$38-114$$$$$$$$$$$$",
+        "text": "$$$38-114$$$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$$$$41-123$$$$$$$$$$$$",
+        "text": "$$$41-123$$$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$$$$25-75$$$$$$$$$$$$",
+        "text": "$$$25-75$$$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$$$$33-97$$$$$$$$$$$$",
+        "text": "$$$33-97$$$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In all pairs except $$$$$$$$$$$$(33-97)$$$$$$$$$$$$, the second number is 3 times the first. $$$$$$$$$$$$33 * 3 = 99$$$$$$$$$$$$, not 97.",
+    "explanation": "In all pairs except $$$(33-97)$$$, the second number is 3 times the first. $$$33 * 3 = 99$$$, not 97.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -2091,7 +2091,7 @@
     "id": 59,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Number Relation",
     "difficulty": "Easy",
     "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets. (3, 5, 18) (2, 3, 15)",
@@ -2119,7 +2119,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Logic: First + Second + 10 = Third. $$$$$$$$$$$$3 + 5 + 10 = 18.$$$$$$$$$$$$ $$$$$$$$$$$$2 + 3 + 10 = 15.$$$$$$$$$$$$ Similarly, $$$$$$$$$$$$1 + 2 + 10 = 13.$$$$$$$$$$$$",
+    "explanation": "Logic: First + Second + 10 = Third. $$$3 + 5 + 10 = 18.$$$ $$$2 + 3 + 10 = 15.$$$ Similarly, $$$1 + 2 + 10 = 13.$$$",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -2127,7 +2127,7 @@
     "id": 60,
     "exam": "SSC CHSL",
     "year": 2023,
-    "subject": "General Intelligence",
+    "subject": "Reasoning Ability",
     "topic": "Puzzles",
     "difficulty": "Medium",
     "question": "A certain number of people are sitting in a row, facing north. Only two people sit between K and L. L sits third to the right of M. Only three people sit between I and J. I sits to the immediate right of K. If no other person is sitting in the row, how many people are there in total?",
