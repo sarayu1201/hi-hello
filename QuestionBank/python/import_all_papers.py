@@ -166,10 +166,32 @@ def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
         
     return "General"
 
+def clean_text(text):
+    if not text:
+        return ""
+    fixed = str(text)
+    # Correct common merged words from PDF OCR / ingestion issues
+    fixed = re.sub(r'\bIfthe\b', 'If the', fixed)
+    fixed = re.sub(r'\bofasphere\b', 'of a sphere', fixed)
+    fixed = re.sub(r'\bfindthe\b', 'find the', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\bvalueof\b', 'value of', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\beachof\b', 'each of', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\bfitin\b', 'fit in', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\bwhatis\b', 'what is', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\bquestions?\b', 'question', fixed, flags=re.IGNORECASE)
+    fixed = re.sub(r'\bnumberof\b', 'number of', fixed, flags=re.IGNORECASE)
+    
+    # Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm", "sphere56" -> "sphere 56"
+    fixed = re.sub(r'([a-zA-Z]+)([0-9]+)', r'\1 \2', fixed)
+    fixed = re.sub(r'([0-9]+)([a-zA-Z]+)', r'\1 \2', fixed)
+    # Double spaces to single spaces
+    fixed = re.sub(r'[ ]{2,}', ' ', fixed)
+    return fixed
+
 def to_latex(text):
     return text
         
-    text = str(text)
+    text = clean_text(str(text))
     
     # 0. Pre-clean global unformatted square roots (both inside and outside math blocks)
     text = re.sub(r'(?<!\\)sqrt{', r'\\sqrt{', text)
