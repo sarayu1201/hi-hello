@@ -8,7 +8,7 @@ from pymongo import MongoClient
 
 def get_legacy_category(exam_type):
     exam_lower = str(exam_type).lower()
-    if "ssc" in exam_lower:
+    if "ssc" in exam_lower or "sc_gd" in exam_lower or "sc_cgl" in exam_lower or "chsl" in exam_lower:
         return "SSC Exams"
     elif "rrb" in exam_lower or "rail" in exam_lower:
         return "RRB & Railways"
@@ -299,6 +299,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
     for filepath in all_json_files:
         filename = os.path.basename(filepath)
+        folder = os.path.basename(os.path.dirname(filepath))
         sub_type_val = map_filename_to_subtype(filename)
         print(f"\nProcessing {filename} -> mapped to subtype: '{sub_type_val}'")
         
@@ -352,7 +353,9 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
         for idx, q in enumerate(questions_list):
             try:
                 q_id = q.get("id")
-                exam = q.get("exam", "General")
+                exam = q.get("exam")
+                if not exam or str(exam).lower() == "general":
+                    exam = folder
                 year = q.get("year", 2025)
                 original_subject = q.get("subject")
                 subject = get_standardized_subject(exam, sub_type_val, q_id, original_subject)
