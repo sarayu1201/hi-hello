@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Production builds
+dist/
+frontend/dist/
+build/
+frontend/build/
+
+# Environment files
+.env
+backend/.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary/Diagnostic folders
+scratch/
+.DS_Store
+Thumbs.db
