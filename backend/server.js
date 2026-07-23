@@ -2554,7 +2554,7 @@ const resolveDbSubType = (testId, subType, examType) => {
     return testId || subType;
   }
   
-  let numberMatch = queryStr.match(/\b(?:mock|test|paper|cbt)?\s*_?(\d+)\b/i) || queryStr.match(/_(\d+)$/);
+  let numberMatch = queryStr.match(/(?:mock|test|paper|cbt)?\s*_?(\d+)\b/i);
   let mockNumber = numberMatch ? parseInt(numberMatch[1]) : 1;
   
   const normalized = queryStr.replace(/[^a-z0-9]/g, "");

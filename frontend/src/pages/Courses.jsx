@@ -2011,7 +2011,8 @@ export default function Courses({ user, setUser, requestAuth, selectedCategory, 
             const optImgs = q.option_images || [];
             return {
               q: q.question_text || q.q,
-              question_image: q.question_image || "",
+              direction: q.direction || "",
+        question_image: q.question_image || "",
               options: cleanedOpts.map((o, idx) => ({
                 text: o,
                 image: optImgs[idx] || null

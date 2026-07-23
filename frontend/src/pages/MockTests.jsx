@@ -599,7 +599,8 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                 return {
                   question_number: q.question_number,
                   q: q.question_text || q.q || q.question || "",
-                  question_image: q.question_image || "",
+                  direction: q.direction || "",
+        question_image: q.question_image || "",
                   options: cleanedOpts.map((o, idx) => ({
                     text: o.text,
                     image: optImgs[idx] || null
