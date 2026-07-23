@@ -87,7 +87,7 @@ app.get("/api/images/*", (req, res) => {
     }
   }
 
-  console.warn(`[IMAGE NOT FOUND] Requested '${rawPath}' (filename: '${filename}') could not be located.`);
+  console.warn(`[IMAGE NOT FOUND] Requested '${rawPath}' (filename: '${filename}') could not be located. Searched candidates: ${candidatePaths.join(", ")}`);
   return res.status(404).send("Image not found");
 });
 
