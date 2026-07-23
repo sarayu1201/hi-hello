@@ -14,7 +14,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If a number 6573547x45 is divisible by 9, then find the value of $x$.",
+    "question": "If a number 6573547 x 45 is divisible by 9, then find the value of $x$.",
     "q": "If a number 6573547x45 is divisible by 9, then find the value of $x$.",
     "options": [
       {
@@ -88,7 +88,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Using the algebraic identity a^2 - b^2 = (a - b)(a + b):\n$Expression = (59881 - 49681)(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562$.",
+    "explanation": "Using the algebraic identity $a^2$ - $b^2$ = (a - b)(a + b):\n$Expression = (59881 - 49681)(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562$.",
     "question_image": "",
     "option_images": [
       "",
@@ -116,7 +116,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If (\\frac{5}{7})^(4x) * (\\frac{7}{5})^(3x-1) = (\\frac{7}{5})^6, then the value of x which satisfies the equation$.",
+    "question": "$If (\\frac{5}{7})^(4 x) * (\\frac{7}{5})^(3 x-1) = (\\frac{7}{5})^6, then the value of x which satisfies the equation$.",
     "q": "$If (\\frac{5}{7})^(4x) * (\\frac{7}{5})^(3x-1) = (\\frac{7}{5})^6, then the value of x which satisfies the equation$.",
     "options": [
       {
@@ -139,7 +139,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$We can rewrite (\\frac{5}{7})^(4x) as (\\frac{7}{5})^(-4x)$.\nHence, $(\\frac{7}{5})^(-4x) * (\\frac{7}{5})^(3x-1) = (\\frac{7}{5})^6$\n$=> (\\frac{7}{5})^(-4x + 3x - 1) = (\\frac{7}{5})^6$\n=> -x - 1 = 6 => x = -7.",
+    "explanation": "$We can rewrite (\\frac{5}{7})^(4 x) as (\\frac{7}{5})^(-4 x)$.\nHence, $(\\frac{7}{5})^(-4 x) * (\\frac{7}{5})^(3 x-1) = (\\frac{7}{5})^6$\n$=> (\\frac{7}{5})^(-4 x + 3 x - 1) = (\\frac{7}{5})^6$\n=> -x - 1 = 6 => x = -7.",
     "question_image": "",
     "option_images": [
       "",
@@ -190,7 +190,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $x^16 = (x^32 - 1)/5 => 5 = (x^32 - 1)/x^16 => x^16 - 1/x^16 = 5$.\nCubing both sides: (x^$16 - 1$/x^16)^3 = 5^3\n=> x^$48 - 1$/x^$48 - 3$(x^16)(1/x^16)(x^$16 - 1$/x^16) = 125\n=> x^$48 - 1$/x^$48 - 3$(5) = 125\n=> x^$48 - 1$/x^48 = 140 => (x^$96 - 1)$/x^48 = 140.",
+    "explanation": "Given: $x^16 = (x^32 - 1)/5 => 5 = (x^32 - 1)/x^16 => x^16 - 1/x^16 = 5$.\nCubing both sides: $($x^$16 - 1$$/$x^16$)^3$ = 5^3\n=> $x^$48 - 1$$/$x^$48 - 3$$($x^16$)(1/$x^16$)($x^$16 - 1$$/$x^16$) = 125\n=> $x^$48 - 1$$/$x^$48 - 3$$(5) = 125\n=> $x^$48 - 1$$/$x^48$ = 140 => ($x^$96 - 1)$$/$x^48$ = 140.",
     "question_image": "",
     "option_images": [
       "",
@@ -223,25 +223,25 @@
     "options": [
       {
         "id": "A",
-        "text": "√100"
+        "text": "$\\sqrt{100}$"
       },
       {
         "id": "B",
-        "text": "√120"
+        "text": "$\\sqrt{120}$"
       },
       {
         "id": "C",
-        "text": "√164"
+        "text": "$\\sqrt{164}$"
       },
       {
         "id": "D",
-        "text": "√180"
+        "text": "$\\sqrt{180}$"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The formula for the length of a transverse common tangent is: L = sqrt(d^2 - (r1 + r2)^2)\n$=> 8 = sqrt(d^2 - (7 + 3)^2)$\n=> 64 = d^$2 - 100$ => d^2 = 164 => d = √164 cm.",
+    "explanation": "The formula for the length of a transverse common tangent is: L = $\\sqrt{d^2 - (r 1 + r 2)^2}$\n$=> 8 = sqrt(d^2 - (7 + 3)^2)$\n=> 64 = $d^$2 - 100$$ => $d^2$ = 164 => d = $\\sqrt{164}$ cm.",
     "question_image": "",
     "option_images": [
       "",
@@ -274,25 +274,25 @@
     "options": [
       {
         "id": "A",
-        "text": "60°"
+        "text": "60$^\\circ$"
       },
       {
         "id": "B",
-        "text": "90°"
+        "text": "90$^\\circ$"
       },
       {
         "id": "C",
-        "text": "120°"
+        "text": "120$^\\circ$"
       },
       {
         "id": "D",
-        "text": "130°"
+        "text": "130$^\\circ$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Since O is the circumcentre of ΔABC, ∠BOC = 2∠BAC.\nIn ΔOBC, OB = OC (radii) => ∠OBC = ∠OCB.\nSum of angles in ΔOBC: ∠OBC + ∠OCB + ∠BOC = 180°\n=> 2∠OBC + 2∠BAC = 180°\n=> ∠OBC + ∠BAC = 90°.",
+    "explanation": "Since O is the circumcentre of \\DeltaABC, ∠BOC = 2∠BAC.\nIn \\DeltaOBC, OB = OC (radii) => ∠OBC = ∠OCB.\nSum of angles in \\DeltaOBC: ∠OBC + ∠OCB + ∠BOC = 180$^\\circ$\n=> 2∠OBC + 2∠BAC = 180$^\\circ$\n=> ∠OBC + ∠BAC = 90$^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -376,19 +376,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$3010Rs3,000$"
+        "text": "$3010 Rs 3,000$"
       },
       {
         "id": "B",
-        "text": "$3002Rs3,000$"
+        "text": "$3002 Rs 3,000$"
       },
       {
         "id": "C",
-        "text": "Rs3,000"
+        "text": "Rs 3,000"
       },
       {
         "id": "D",
-        "text": "$2990Rs3,000$"
+        "text": "$2990 Rs 3,000$"
       }
     ],
     "correct_option": "C",
@@ -427,25 +427,25 @@
     "options": [
       {
         "id": "A",
-        "text": "28litres"
+        "text": "28 litres"
       },
       {
         "id": "B",
-        "text": "$26litres$"
+        "text": "$26 litres$"
       },
       {
         "id": "C",
-        "text": "$30litres$"
+        "text": "$30 litres$"
       },
       {
         "id": "D",
-        "text": "$38litres$"
+        "text": "$38 litres$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the original quantity of acid and water be 7x and 3x litres respectively.\n$Adding 4 litres of water: 7x / (3x + 4) = 7 / 4 => 28x = 21x + 28 => 7x = 28 => x = 4$.\nQuantity of acid = 7x = 28 litres.",
+    "explanation": "Let the original quantity of acid and water be 7 x and 3 x litres respectively.\n$Adding 4 litres of water: 7 x / (3 x + 4) = 7 / 4 => 28 x = 21 x + 28 => 7 x = 28 => x = 4$.\nQuantity of acid = 7 x = 28 litres.",
     "question_image": "",
     "option_images": [
       "",
@@ -524,7 +524,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The simple interest on a sum is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
+    "question": "The simple interest on a $\\sum$ is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
     "q": "The simple interest on a sum is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
     "options": [
       {
@@ -547,7 +547,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let Principal = 8x. Simple Interest = 7x.\nSI = (P * R * T) / 100 => 7x = (8x * R * 5) / 100\n$=> 7 = 40R / 100 => R = 700 / 40 = 17.5\\%$.",
+    "explanation": "Let Principal = 8 x. Simple Interest = 7 x.\nSI = (P * R * T) / 100 => 7 x = (8 x * R * 5) / 100\n$=> 7 = 40 R / 100 => R = 700 / 40 = 17.5\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - (15% of 3000) = $3000 - 450$ = Rs 2550.\nAfter second discount of a%: 2550 - (a% of 2550) = 2142\n$=> 25.5a = 2550 - 2142 = 408 => a = 408 / 25.5 = 16\\%$.",
+    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - (15% of 3000) = $3000 - 450$ = Rs 2550.\nAfter second discount of a%: 2550 - (a% of 2550) = 2142\n$=> 25.5 a = 2550 - 2142 = 408 => a = 408 / 25.5 = 16\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -677,7 +677,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of sqrt(1054 + sqrt(196) + sqrt(169) + sqrt(64))?",
+    "question": "What is the value of $\\sqrt{1054 + \\sqrt{196} + \\sqrt{169} + \\sqrt{64}}$?",
     "q": "What is the value of sqrt(1054 + sqrt(196) + sqrt(169) + sqrt(64))?",
     "options": [
       {
@@ -733,19 +733,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Rs1200"
+        "text": "Rs 1200"
       },
       {
         "id": "B",
-        "text": "$1205Rs$"
+        "text": "$1205 Rs$"
       },
       {
         "id": "C",
-        "text": "$1201Rs$"
+        "text": "$1201 Rs$"
       },
       {
         "id": "D",
-        "text": "$1202Rs$"
+        "text": "$1202 Rs$"
       }
     ],
     "correct_option": "A",
@@ -802,7 +802,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\n$Upstream speed = x - y = \\frac{12}{4} = 3 km/hr\nDownstream speed = x + y = \\frac{12}{3} = 4 km/hr$\nAdding the two equations: 2x = 7 => x = 3.5 km/hr.",
+    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\n$Upstream speed = x - y = \\frac{12}{4} = 3 km/hr\nDownstream speed = x + y = \\frac{12}{3} = 4 km/hr$\nAdding the two equations: 2 x = 7 => x = 3.5 km/hr.",
     "question_image": "",
     "option_images": [
       "",
@@ -941,7 +941,7 @@
       },
       {
         "id": "B",
-        "text": "50°"
+        "text": "50$^\\circ$"
       },
       {
         "id": "C",
@@ -1187,7 +1187,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$What is the value of (√\\frac{2}{3} - Cosec60°)?$",
+    "question": "$What is the value of (√\\frac{2}{3} - Cosec 60°)?$",
     "q": "$What is the value of (√\\frac{2}{3} - Cosec60°)?$",
     "options": [
       {
@@ -1196,21 +1196,21 @@
       },
       {
         "id": "B",
-        "text": "$(2 - 2$√3)/√3"
+        "text": "$(2 - 2$$\\sqrt{3}$)/$\\sqrt{3}$"
       },
       {
         "id": "C",
-        "text": "(1 - √6)/√2"
+        "text": "(1 - $\\sqrt{6}$)/$\\sqrt{2}$"
       },
       {
         "id": "D",
-        "text": "(4 - √3)/(2√3)"
+        "text": "(4 - $\\sqrt{3}$)/(2$\\sqrt{3}$)"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Expression = √\\frac{2}{3} - Cosec60° = √\\frac{2}{3} - 2/√3$.\nTo find common denominator: (√$2 - 2$√3) / 3. \n$Multiplying numerator and denominator by √3: ((√2 - 2√3) * √3) / (3 * √3) = (√6 - 6) / 3√3$.",
+    "explanation": "$Expression = √\\frac{2}{3} - Cosec 60° = √\\frac{2}{3} - 2/√3$.\nTo find common denominator: ($\\sqrt{M}$ATHBLOCK1$\\sqrt{3}$) / 3. \n$Multiplying numerator and denominator by √3: ((√2 - 2√3) * √3) / (3 * √3) = (√6 - 6) / 3√3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $cot X = \\frac{5}{12} => XY / YZ = 5 / 12. Let XY = 5 cm and YZ = 12 cm$.\nHypotenuse XZ = sqrt(XY^2 + YZ^2) = sqrt(5^$2 + 12$^2) = 13 cm.\n$sec Z = Hypotenuse / Adjacent = XZ / YZ = \\frac{13}{12}$.",
+    "explanation": "Given: $cot X = \\frac{5}{12} => XY / YZ = 5 / 12. Let XY = 5 cm and YZ = 12 cm$.\nHypotenuse XZ = $\\sqrt{XY^2 + YZ^2}$ = $\\sqrt{5^$2 + 12$^2}$ = 13 cm.\n$sec Z = Hypotenuse / Adjacent = XZ / YZ = \\frac{13}{12}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1720,7 +1720,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The pattern followed in each letter of the terms is:\n1st letter: H(+2)->J(+2)->L(+2)->N(+2)->P\n2nd letter: J(+3)->M(+3)->P(+3)->S(+3)->V\n3rd letter: R(+2)->T(+2)->V(+2)->X(+2)->Z\n4th letter: N(+3)->Q(+3)->T(+3)->W(+3)->Z\nThus, missing term is PVZZ.",
+    "explanation": "The pattern followed in each letter of the terms is:\n1 st letter: H(+2)->J(+2)->L(+2)->N(+2)->P\n2 nd letter: J(+3)->M(+3)->P(+3)->S(+3)->V\n3 rd letter: R(+2)->T(+2)->V(+2)->X(+2)->Z\n4 th letter: N(+3)->Q(+3)->T(+3)->W(+3)->Z\nThus, missing term is PVZZ.",
     "question_image": "",
     "option_images": [
       "",
@@ -1748,7 +1748,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "Raman remembers that his marriage is before 20th July and after 13th July. His mother remembers that Raman’s marriage is after 16th July. His father remembers that Raman’s marriage is before 19th July. On which date of July is Raman’s marriage?",
+    "question": "Raman remembers that his marriage is before 20 th July and after 13 th July. His mother remembers that Raman’s marriage is after 16 th July. His father remembers that Raman’s marriage is before 19 th July. On which date of July is Raman’s marriage?",
     "q": "Raman remembers that his marriage is before 20th July and after 13th July. His mother remembers that Raman’s marriage is after 16th July. His father remembers that Raman’s marriage is before 19th July. On which date of July is Raman’s marriage?",
     "options": [
       {
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$9 x 18 \\div (5 - 90 + 8 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$9 x 18 \\div (5 - 90 + 8 = ?$",
     "q": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$9 x 18 \\div (5 - 90 + 8 = ?$",
     "options": [
       {
@@ -1961,7 +1961,7 @@
       },
       {
         "id": "B",
-        "text": "÷ and +"
+        "text": "$\\div$ and +"
       },
       {
         "id": "C",
@@ -1969,7 +1969,7 @@
       },
       {
         "id": "D",
-        "text": "x and ÷"
+        "text": "x and $\\div$"
       }
     ],
     "correct_option": "B",
@@ -2281,7 +2281,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The pattern followed is:\n1st letter: C(-2)->A(-2)->Y(-2)->W(-2)->U\n2nd letter: P(-3)->M(-3)->J(-3)->G(-3)->D\n3rd letter: I(-4)->E(-4)->A(-4)->W(-4)->S\nMissing term is 'UDS'.",
+    "explanation": "The pattern followed is:\n1 st letter: C(-2)->A(-2)->Y(-2)->W(-2)->U\n2 nd letter: P(-3)->M(-3)->J(-3)->G(-3)->D\n3 rd letter: I(-4)->E(-4)->A(-4)->W(-4)->S\nMissing term is 'UDS'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2383,7 +2383,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The relationship format is (x, 3x - 1, 2x - 1). For option C: 2 * 15 - 1 = 29 (not 31), making it the odd one$.",
+    "explanation": "$The relationship format is (x, 3 x - 1, 2 x - 1). For option C: 2 * 15 - 1 = 29 (not 31), making it the odd one$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4196,7 +4196,7 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "At which of the following places the 5th Global Conference on Cyber Space (GCCS) was held on November $(23-24$, 2017?",
+    "question": "At which of the following places the 5 th Global Conference on Cyber Space (GCCS) was held on November $(23-24$, 2017?",
     "q": "At which of the following places the 5th Global Conference on Cyber Space (GCCS) was held on November $(23-24$, 2017?",
     "options": [
       {
@@ -4219,7 +4219,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The 5th Global Conference on Cyber Space (GCCS) was hosted by India in New Delhi in November 2017.",
+    "explanation": "The 5 th Global Conference on Cyber Space (GCCS) was hosted by India in New Delhi in November 2017.",
     "question_image": "",
     "option_images": [
       "",
@@ -4405,15 +4405,15 @@
     "options": [
       {
         "id": "A",
-        "text": "α- radiations"
+        "text": "$\\alpha$- radiations"
       },
       {
         "id": "B",
-        "text": "β- radiations"
+        "text": "$\\beta$- radiations"
       },
       {
         "id": "C",
-        "text": "γ- radiations"
+        "text": "$\\gamma$- radiations"
       },
       {
         "id": "D",
@@ -4423,7 +4423,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Gamma (γ) radiations have the highest penetrating power among alpha, beta, and gamma radiations because they are uncharged high-frequency electromagnetic waves.",
+    "explanation": "Gamma ($\\gamma$) radiations have the highest penetrating power among alpha, beta, and gamma radiations because they are uncharged high-frequency electromagnetic waves.",
     "question_image": "",
     "option_images": [
       "",
@@ -4808,7 +4808,7 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "Where was the 7th edition of Rashtriya Sanskriti Mahotsava held from 14 January to 20 January, 2018?",
+    "question": "Where was the 7 th edition of Rashtriya Sanskriti Mahotsava held from 14 January to 20 January, 2018?",
     "q": "Where was the 7th edition of Rashtriya Sanskriti Mahotsava held from 14 January to 20 January, 2018?",
     "options": [
       {
@@ -4831,7 +4831,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The 7th edition of Rashtriya Sanskriti Mahotsav under Ek Bharat Shreshtha Bharat was held in Bengaluru, Karnataka.",
+    "explanation": "The 7 th edition of Rashtriya Sanskriti Mahotsav under Ek Bharat Shreshtha Bharat was held in Bengaluru, Karnataka.",
     "question_image": "",
     "option_images": [
       "",
@@ -4859,24 +4859,24 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "Find the potential energy gained by a body of mass 60 kg, if it is raised by 12 m. (use g = 10m/s^2)",
+    "question": "Find the potential energy gained by a body of mass 60 kg, if it is raised by 12 m. (use g = 10 m/$s^2$)",
     "q": "Find the potential energy gained by a body of mass 60 kg, if it is raised by 12 m. (use g = 10m/s^2)",
     "options": [
       {
         "id": "A",
-        "text": "7200Joules"
+        "text": "7200 Joules"
       },
       {
         "id": "B",
-        "text": "$7205Joules$"
+        "text": "$7205 Joules$"
       },
       {
         "id": "C",
-        "text": "$7198Joules$"
+        "text": "$7198 Joules$"
       },
       {
         "id": "D",
-        "text": "$7202Joules$"
+        "text": "$7202 Joules$"
       }
     ],
     "correct_option": "A",

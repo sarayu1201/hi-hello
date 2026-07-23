@@ -88,7 +88,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Each letter is shifted forward by increasing positions:\n\nE→F (+1), G→I (+2), I→L (+3), K→O (+4).\n\nApplying the same pattern:\n\nF→G, H→J, J→M, L→P.\n\nHence, the required term is GJMP.",
+    "explanation": "Each letter is shifted forward by increasing positions:\n\nE\\rightarrowF (+1), G\\rightarrowI (+2), I\\rightarrowL (+3), K\\rightarrowO (+4).\n\nApplying the same pattern:\n\nF\\rightarrowG, H\\rightarrowJ, J\\rightarrowM, L\\rightarrowP.\n\nHence, the required term is GJMP.",
     "question_image": "",
     "option_images": [
       "",
@@ -139,7 +139,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$The sum of the digits remains the same.5+8+3=162+9+5=16Similarly,4+8+6=18Among the options, only 378 has digit sum 18$.",
+    "explanation": "$The sum of the digits remains the same.5+8+3=162+9+5=16 Similarly,4+8+6=18 Among the options, only 378 has digit sum 18$.",
     "question_image": "",
     "option_images": [
       "",
@@ -343,7 +343,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Dictionary order:\n\nFranchise → Frantic → Fraternity → Fraudulent → Fraught.",
+    "explanation": "Dictionary order:\n\nFranchise $\\rightarrow$ Frantic $\\rightarrow$ Fraternity $\\rightarrow$ Fraudulent $\\rightarrow$ Fraught.",
     "question_image": "",
     "option_images": [
       "",
@@ -445,7 +445,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Each term increases by 9.\n\n63 → 72 → 81 → 90 → 99 → 108.",
+    "explanation": "Each term increases by 9.\n\n63 $\\rightarrow$ 72 $\\rightarrow$ 81 $\\rightarrow$ 90 $\\rightarrow$ 99 $\\rightarrow$ 108.",
     "question_image": "",
     "option_images": [
       "",
@@ -547,7 +547,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let the daughter's present age be$x$years.\n\n$Mother's present age=5x$.\n\n$After 5 years,5x+5=3(x+5)5x+5=3x+152x=10x=5Therefore, the mother's present age is5\\times5=25\\text{ years}$.",
+    "explanation": "Let the daughter's present age be$x$years.\n\n$Mother's present age=5 x$.\n\n$After 5 years,5 x+5=3(x+5)5 x+5=3 x+152 x=10 x=5 Therefore, the mother's present age is 5\\times 5=25\\text{ years}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Each letter is replaced by the previous letter in the English alphabet.\n\nC→B, O→N, R→Q, R→Q, E→D, C→B, T→S.\n\nHence, CORRECT is coded as BNQQDBS.",
+    "explanation": "Each letter is replaced by the previous letter in the English alphabet.\n\nC\\rightarrowB, O\\rightarrowN, R\\rightarrowQ, R\\rightarrowQ, E\\rightarrowD, C\\rightarrowB, T\\rightarrowS.\n\nHence, CORRECT is coded as BNQQDBS.",
     "question_image": "",
     "option_images": [
       "",
@@ -677,7 +677,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If A means '+', B means '×', C means '÷' and D means '−', then find the value of:\n\n9A2B6D4C2",
+    "question": "If A means '+', B means '$\\times$', C means '$\\div$' and D means '−', then find the value of:\n\n9 A 2 B 6 D 4 C 2",
     "q": "If A means '+', B means '×', C means '÷' and D means '−', then find the value of:\n\n9A2B6D4C2",
     "options": [
       {
@@ -700,7 +700,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Replacing the symbols:9+2times6-4div2Applying BODMAS,=9+12-2=19$.",
+    "explanation": "$Replacing the symbols:9+2 times 6-4 div 2 Applying BODMAS,=9+12-2=19$.",
     "question_image": "",
     "option_images": [
       "",
@@ -728,7 +728,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "$If4\\times3=14,5\\times4=18, and6\\times5=22, then find the value of7\\times6$.",
+    "question": "$If 4\\times 3=14,5\\times 4=18, and 6\\times 5=22, then find the value of 7\\times 6$.",
     "q": "$If4\\times3=14,5\\times4=18, and6\\times5=22, then find the value of7\\times6$.",
     "options": [
       {
@@ -751,7 +751,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Pattern:(a+b)\\times2(7+6)times2=13\\times2=26$.",
+    "explanation": "$Pattern:(a+b)\\times 2(7+6)times 2=13\\times 2=26$.",
     "question_image": "",
     "option_images": [
       "",
@@ -802,7 +802,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The middle number is the product of the two end numbers.7\\times8=5611\\times9=99Therefore,9\\times x=45x=5$.",
+    "explanation": "$The middle number is the product of the two end numbers.7\\times 8=5611\\times 9=99 Therefore,9\\times x=45 x=5$.",
     "question_image": "test5_q16.png",
     "option_images": [
       "",
@@ -2638,7 +2638,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the cost price be Rs.100.\n\n$Marked price=140$.\n\nSelling price=140\\times\\frac{75}{100}=105.\n\n$Profit=105-100=5$.\n\n$Hence,text{Profit \\%}=5\\%$.",
+    "explanation": "Let the cost price be Rs.100.\n\n$Marked price=140$.\n\nSelling price=140$\\times$\\frac{75}{100}=105.\n\n$Profit=105-100=5$.\n\n$Hence,text{Profit \\%}=5\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2689,7 +2689,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the present ages be3xand4x.\\frac{3x+3}{4x+3}=\\frac4515x+15=16x+12x=3.After 21 years,\\frac{9+21}{12+21}=\\frac{30}{33}=\\frac{10}{11}$.",
+    "explanation": "$Let the present ages be 3 xand 4 x.\\frac{3 x+3}{4 x+3}=\\frac 4515 x+15=16 x+12 x=3.After 21 years,\\frac{9+21}{12+21}=\\frac{30}{33}=\\frac{10}{11}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2740,7 +2740,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the cost price of one book bexand the selling price bey.25x=20y5x=4yTakex=4andy=5.text{Profit \\%}=\\frac{5-4}{4}\\times100=25\\%$.",
+    "explanation": "$Let the cost price of one book bexand the selling price bey.25 x=20 y 5 x=4 yTakex=4 andy=5.text{Profit \\%}=\\frac{5-4}{4}\\times 100=25\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2791,7 +2791,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let the larger number be$4x.\n\n$Then the smaller number isx.4x-x=123x=12x=4.Hence, the larger number is4\\times4=16$.$",
+    "explanation": "Let the larger number be$4 x.\n\n$Then the smaller number isx.4 x-x=123 x=12 x=4.Hence, the larger number is 4$\\times$ 4=16$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2842,7 +2842,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Total distance covered=500+221=721text{ m}.Speed=\\frac{721}{35}=20.6\\text{ m/s}.Converting into km/hr,20.6\\times\\frac{18}{5}=74.16\\text{ km/hr}$.",
+    "explanation": "$Total distance covered=500+221=721 text{ m}.Speed=\\frac{721}{35}=20.6\\text{ m/s}.Converting into km/hr,20.6\\times\\frac{18}{5}=74.16\\text{ km/hr}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2893,7 +2893,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$UsingSI=\\frac{PRT}{100}280=\\frac{400\\times R\\times10}{100}40R=280R=7\\%$.",
+    "explanation": "$UsingSI=\\frac{PRT}{100}280=\\frac{400\\times R\\times 10}{100}40 R=280 R=7\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2921,7 +2921,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Ifa+b=2c, wherea\\ne b\\ne c, then find the value offrac{a}{a-c}+\\frac{c}{b-c}$.",
+    "question": "$Ifa+b=2 c, wherea\\ne b\\ne c, then find the value offrac{a}{a-c}+\\frac{c}{b-c}$.",
     "q": "$Ifa+b=2c, wherea\\ne b\\ne c, then find the value offrac{a}{a-c}+\\frac{c}{b-c}$.",
     "options": [
       {
@@ -2944,7 +2944,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Froma+b=2cwe geta-c=c-b.Therefore,\\frac{a}{a-c}+\\frac{c}{b-c}=\\frac{a}{c-b}-\\frac{c}{c-b}=\\frac{a-c}{c-b}=1$.",
+    "explanation": "$Froma+b=2 cwe geta-c=c-b.Therefore,\\frac{a}{a-c}+\\frac{c}{b-c}=\\frac{a}{c-b}-\\frac{c}{c-b}=\\frac{a-c}{c-b}=1$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2972,7 +2972,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Ifx+\\frac1x=5,then find the value offrac{x}{1+x+x^2}$.",
+    "question": "$Ifx+\\frac 1 x=5,then find the value offrac{x}{1+x+x^2}$.",
     "q": "$Ifx+\\frac1x=5,then find the value offrac{x}{1+x+x^2}$.",
     "options": [
       {
@@ -2995,7 +2995,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Fromx+\\frac1x=5multiply byx:x^2+1=5x.Hence,1+x+x^2=x+5x=6x.Therefore,\\frac{x}{1+x+x^2}=\\frac{x}{6x}=\\frac16$.",
+    "explanation": "$Fromx+\\frac 1 x=5 multiply byx:x^2+1=5 x.Hence,1+x+x^2=x+5 x=6 x.Therefore,\\frac{x}{1+x+x^2}=\\frac{x}{6 x}=\\frac 16$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3148,7 +3148,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Squaring both sides,(\\sin\\theta+\\cos\\theta)^2=1sin^2\\theta+\\cos^2\\theta+2\\sin\\theta\\cos\\theta=11+2sinthetacostheta=1sinthetacostheta=0$.",
+    "explanation": "$Squaring both sides,(\\sin\\theta+\\cos\\theta)^2=1 sin^2\\theta+\\cos^2\\theta+2\\sin\\theta\\cos\\theta=11+2 sinthetacostheta=1 sinthetacostheta=0$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3199,7 +3199,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let the first term beaand common difference bed.7(a+6d)=11(a+10d)7a+42d=11a+110da=-17d.The 18th term isa+17d=-17d+17d=0$.",
+    "explanation": "$Let the first term beaand common difference bed.7(a+6 d)=11(a+10 d)7 a+42 d=11 a+110 da=-17 d.The 18 th term isa+17 d=-17 d+17 d=0$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3250,7 +3250,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Initial total age=8\\times40=320$.\n\nNew total age=$320-55+39=304.$\n\n$New averagefrac{304}{8}=38$.",
+    "explanation": "$Initial total age=8\\times 40=320$.\n\nNew total age=$320-55+39=304.$\n\n$New averagefrac{304}{8}=38$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3329,7 +3329,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If2\\left(x+\\frac{1}{x}\\right)=3,then find the value ofx^3+\\frac{1}{x^3}+2$.",
+    "question": "$If 2\\left(x+\\frac{1}{x}\\right)=3,then find the value ofx^3+\\frac{1}{x^3}+2$.",
     "q": "$If2\\left(x+\\frac{1}{x}\\right)=3,then find the value ofx^3+\\frac{1}{x^3}+2$.",
     "options": [
       {
@@ -3352,7 +3352,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Given,x+\\frac{1}{x}=\\frac{3}{2}.Usingleft(x+\\frac1x\\right)^3=x^3+\\frac1{x^3}+3\\left(x+\\frac1x\\right),we getx^3+\\frac1{x^3}=\\frac{27}{8}-\\frac{27}{4}=-\\frac98.Therefore,x^3+\\frac1{x^3}+2=-\\frac98+2=\\frac78$.",
+    "explanation": "$Given,x+\\frac{1}{x}=\\frac{3}{2}.Usingleft(x+\\frac 1 x\\right)^3=x^3+\\frac 1{x^3}+3\\left(x+\\frac 1 x\\right),we getx^3+\\frac 1{x^3}=\\frac{27}{8}-\\frac{27}{4}=-\\frac 98.Therefore,x^3+\\frac 1{x^3}+2=-\\frac 98+2=\\frac 78$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3436,19 +3436,19 @@
     "options": [
       {
         "id": "A",
-        "text": "90°"
+        "text": "90$^\\circ$"
       },
       {
         "id": "B",
-        "text": "45°"
+        "text": "45$^\\circ$"
       },
       {
         "id": "C",
-        "text": "60°"
+        "text": "60$^\\circ$"
       },
       {
         "id": "D",
-        "text": "75°"
+        "text": "75$^\\circ$"
       }
     ],
     "correct_option": "A",
@@ -3505,7 +3505,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$From the given equation,sin\\theta+\\cos\\theta=3(\\sin\\theta-\\cos\\theta).Hence,2\\sin\\theta=4\\cos\\theta,sotan\\theta=2.\n\nThus,sin\\theta=\\frac{2}{\\sqrt{5}},\\quad \\cos\\theta=\\frac1{\\sqrt{5}},which givessin\\theta-4\\cos\\theta=\\frac35$.",
+    "explanation": "$From the given equation,sin\\theta+\\cos\\theta=3(\\sin\\theta-\\cos\\theta).Hence,2\\sin\\theta=4\\cos\\theta,sotan\\theta=2.\n\nThus,sin\\theta=\\frac{2}{\\sqrt{5}},\\quad \\cos\\theta=\\frac 1{\\sqrt{5}},which givessin\\theta-4\\cos\\theta=\\frac 35$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3538,11 +3538,11 @@
     "options": [
       {
         "id": "A",
-        "text": "$5\\sqrt5cm$"
+        "text": "$5\\sqrt 5 cm$"
       },
       {
         "id": "B",
-        "text": "$5\\sqrt3cm$"
+        "text": "$5\\sqrt 3 cm$"
       },
       {
         "id": "C",
@@ -3607,7 +3607,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let the height of the tower be$h$m and the distance from point$B$to the foot of the tower be$xm.\n\n$From pointB,tan60^\\circ=\\frac{h}{x}\\sqrt{3}=\\frac{h}{x}x=\\frac{h}{\\sqrt{3}}.\\tag{1}From pointA,tan30^\\circ=\\frac{h}{x+20}frac1{\\sqrt{3}}=\\frac{h}{x+20}.\\tag{2}Substituting (1) into (2):sqrt3h-\\frac{h}{\\sqrt{3}}=20h=10\\sqrt{3}\\text{ m}$.$",
+    "explanation": "Let the height of the tower be$h$m and the distance from point$B$to the foot of the tower be$xm.\n\n$From pointB,$\\tan$ 60$^\\circ$=$\\frac{h}{x}$\\sqrt{3}=$\\frac{h}{x}$x=$\\frac{h}{\\sqrt{3}}$.\\tag{1}From pointA,$\\tan$ 30$^\\circ$=$\\frac{h}{x+20}$\\frac 1{$\\sqrt{3}$}=$\\frac{h}{x+20}$.\\tag{2}Substituting (1) into (2):$\\sqrt{3}$ h-$\\frac{h}{\\sqrt{3}}$=20 h=10$\\sqrt{3}$\\text{ m}$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3658,7 +3658,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "From the pie chart,\n\n2013 corresponds to$135^\\circ$and 2011 corresponds to$75^\\circ$.\n\n$Let the common factor bex.135x=31500x=\\frac{31500}{135}=\\frac{700}{3}.Price in 2011:75\\times\\frac{700}{3}=17,500$.",
+    "explanation": "From the pie chart,\n\n2013 corresponds to$135^\\circ$and 2011 corresponds to$75^\\circ$.\n\n$Let the common factor bex.135 x=31500 x=\\frac{31500}{135}=\\frac{700}{3}.Price in 2011:75\\times\\frac{700}{3}=17,500$.",
     "question_image": "test5_q72.png",
     "option_images": [
       "",
@@ -3709,7 +3709,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "From the pie chart:\n\n2010 corresponds to$45^\\circ.\n\n$2013 corresponds to135^\\circ.$45:135$=$1:3$.",
+    "explanation": "From the pie chart:\n\n2010 corresponds to$45^\\circ.\n\n$2013 corresponds to 135$^\\circ$.$45:135$=$1:3$.",
     "question_image": "test5_q72.png",
     "option_images": [
       "",
@@ -3760,7 +3760,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "From the pie chart:\n\n$2011 =75^\\circ2013 =135^\\circPercentage increase:\\frac{135-75}{75}\\times100=80\\%$.",
+    "explanation": "From the pie chart:\n\n$2011 =75^\\circ 2013 =135^\\circPercentage increase:\\frac{135-75}{75}\\times 100=80\\%$.",
     "question_image": "test5_q72.png",
     "option_images": [
       "",
@@ -3811,7 +3811,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "From the pie chart:\n\n$2011 =75^\\circ2012 =105^\\circ2013 =135^\\circ$.\n\nIncrease from 2011 to 2012:\\frac{$105-75$}{75}\\times100=40\\%.Increase from 2012 to 2013:\\frac{$135-105$}{105}\\times100=\\frac{200}{7}\\%.Required ratio:40:\\frac{200}{7}=$7:5$.",
+    "explanation": "From the pie chart:\n\n$2011 =75^\\circ 2012 =105^\\circ 2013 =135^\\circ$.\n\nIncrease from 2011 to 2012:$\\frac{$105-75$}{75}$\\times 100=40\\%.Increase from 2012 to 2013:$\\frac{$135-105$}{105}$\\times 100=$\\frac{200}{7}$\\%.Required ratio:40:$\\frac{200}{7}$=$7:5$.",
     "question_image": "test5_q72.png",
     "option_images": [
       "",
@@ -4400,7 +4400,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nNull and void",
+    "question": "In each of the question, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nNull and void",
     "q": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nNull and void",
     "options": [
       {
@@ -4859,7 +4859,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nThe artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face for the actor who is playing _____.",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nquestion:\nThe artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face for the actor who is playing _____.",
     "q": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nThe artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face for the actor who is playing _____.",
     "options": [
       {
@@ -4910,7 +4910,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat do artists use to help young actors playing old men?",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nquestion:\nWhat do artists use to help young actors playing old men?",
     "q": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat do artists use to help young actors playing old men?",
     "options": [
       {
@@ -4961,7 +4961,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat is the correct sequence for make-up?",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nquestion:\nWhat is the correct sequence for make-up?",
     "q": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat is the correct sequence for make-up?",
     "options": [
       {
@@ -5012,7 +5012,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nLines are drawn with a dark make-up pencil or brush to suggest _____.",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nquestion:\nLines are drawn with a dark make-up pencil or brush to suggest _____.",
     "q": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nLines are drawn with a dark make-up pencil or brush to suggest _____.",
     "options": [
       {
@@ -5063,7 +5063,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhen is powder usually applied?",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nquestion:\nWhen is powder usually applied?",
     "q": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhen is powder usually applied?",
     "options": [
       {

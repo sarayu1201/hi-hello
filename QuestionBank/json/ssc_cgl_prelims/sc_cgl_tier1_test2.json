@@ -88,7 +88,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Each letter is shifted one position forward in the alphabet:\nE→F, G→H, I→J, K→L.\nApplying the same pattern to MOQS gives NPRT.",
+    "explanation": "Each letter is shifted one position forward in the alphabet:\nE\\rightarrowF, G\\rightarrowH, I\\rightarrowJ, K\\rightarrowL.\nApplying the same pattern to MOQS gives NPRT.",
     "question_image": "",
     "option_images": [
       "",
@@ -139,7 +139,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The pattern is reversing the digits of the number.\n147 → 741\n869 → 968",
+    "explanation": "The pattern is reversing the digits of the number.\n147 $\\rightarrow$ 741\n869 $\\rightarrow$ 968",
     "question_image": "",
     "option_images": [
       "",
@@ -343,7 +343,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Comparing the words alphabetically gives the order: Manifest → Mentor → Meridian → Meticulous.",
+    "explanation": "Comparing the words alphabetically gives the order: Manifest $\\rightarrow$ Mentor $\\rightarrow$ Meridian $\\rightarrow$ Meticulous.",
     "question_image": "",
     "option_images": [
       "",
@@ -473,24 +473,24 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a row of 40 students, Ravi is 12th from the left end. What is his position from the right end?",
+    "question": "In a row of 40 students, Ravi is 12 th from the left end. What is his position from the right end?",
     "q": "In a row of 40 students, Ravi is 12th from the left end. What is his position from the right end?",
     "options": [
       {
         "id": "A",
-        "text": "28th"
+        "text": "28 th"
       },
       {
         "id": "B",
-        "text": "29th"
+        "text": "29 th"
       },
       {
         "id": "C",
-        "text": "30th"
+        "text": "30 th"
       },
       {
         "id": "D",
-        "text": "31st"
+        "text": "31 st"
       }
     ],
     "correct_option": "B",
@@ -547,7 +547,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let Anil's age be x years. If he is n years younger than Vivek and n years older than Tarun, then Vivek's age = (x + n) and Tarun's age = (x − n). Their total is 48.\n\n(x + n) + (x − n) = 48\n2x = 48\nx = 24\n\nTherefore, Anil is 24 years old.",
+    "explanation": "Let Anil's age be x years. If he is n years younger than Vivek and n years older than Tarun, then Vivek's age = (x + n) and Tarun's age = (x − n). Their total is 48.\n\n(x + n) + (x − n) = 48\n2 x = 48\nx = 24\n\nTherefore, Anil is 24 years old.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The coding pattern used in HOUSE → FQSUC is applied similarly to CHAIR. Following the same letter transformation, CHAIR is coded as AJYKP.",
+    "explanation": "The coding pattern used in HOUSE $\\rightarrow$ FQSUC is applied similarly to CHAIR. Following the same letter transformation, CHAIR is coded as AJYKP.",
     "question_image": "",
     "option_images": [
       "",
@@ -677,7 +677,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If P denotes ÷, Q denotes ×, R denotes + and S denotes −, then what is the value of 18Q12P4R5S6?",
+    "question": "If P denotes $\\div$, Q denotes $\\times$, R denotes + and S denotes −, then what is the value of 18 Q 12 P 4 R 5 S 6?",
     "q": "If P denotes ÷, Q denotes ×, R denotes + and S denotes −, then what is the value of 18Q12P4R5S6?",
     "options": [
       {
@@ -700,7 +700,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Replace the symbols according to the given conditions:\n\n18Q12P4R5S6\n$=18 \\times 12 \\div4 + 5− 6$\n=216 \\div$4 + 5$− 6\n$=54 + 5− 6$\n= 53",
+    "explanation": "Replace the symbols according to the given conditions:\n\n18 Q 12 P 4 R 5 S 6\n$=18 \\times 12 \\div 4 + 5− 6$\n=216 \\div$4 + 5$− 6\n$=54 + 5− 6$\n= 53",
     "question_image": "",
     "option_images": [
       "",
@@ -728,7 +728,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "$If4 + 3 = 25, and8 + 4 = 80, then3 + 2 = ?$",
+    "question": "$If 4 + 3 = 25, and 8 + 4 = 80, then 3 + 2 = ?$",
     "q": "$If4 + 3 = 25, and8 + 4 = 80, then3 + 2 = ?$",
     "options": [
       {
@@ -751,7 +751,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The pattern is the sum of the squares of the given numbers.\n\n$4² + 3² =16 + 9 = 258² + 4² =64 + 16 = 803² + 2² =9 + 4 = 13$",
+    "explanation": "The pattern is the $\\sum$ of the squares of the given numbers.\n\n$4² + 3² =16 + 9 = 258² + 4² =64 + 16 = 803² + 2² =9 + 4 = 13$",
     "question_image": "",
     "option_images": [
       "",
@@ -802,7 +802,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Observe the pattern in each row. The middle number is obtained by multiplying the numbers on the left and right.\n\n$First row:8 \\times 4 = 32Second row:2 \\times 3 = 6Third row:7 \\times 5 = 35Hence, the missing number is 35$.",
+    "explanation": "Observe the pattern in each row. The middle number is obtained by multiplying the numbers on the left and right.\n\n$First row:8 \\times 4 = 32 Second row:2 \\times 3 = 6 Third row:7 \\times 5 = 35 Hence, the missing number is 35$.",
     "question_image": "test2_q16.png",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Decoding each option using the given matrices:\n\nOption A → GIIL\nOption B → GIRB\nOption C → GIRL\nOption D → LIRG\n\nTherefore, Option C correctly represents the word 'GIRL'.",
+    "explanation": "Decoding each option using the given matrices:\n\nOption A $\\rightarrow$ GIIL\nOption B $\\rightarrow$ GIRB\nOption C $\\rightarrow$ GIRL\nOption D $\\rightarrow$ LIRG\n\nTherefore, Option C correctly represents the word 'GIRL'.",
     "question_image": "test2_q25.png",
     "option_images": [
       "",
@@ -1312,7 +1312,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "A bolt of lightning lasts only a fraction of a second, making it the shortest-duration natural hazard among the given options.",
+    "explanation": "A bolt of lightning lasts only a \\fraction of a second, making it the shortest-duration natural hazard among the given options.",
     "question_image": "",
     "option_images": [
       "",
@@ -2212,25 +2212,25 @@
     "options": [
       {
         "id": "A",
-        "text": "84th Amendment Act"
+        "text": "84 th Amendment Act"
       },
       {
         "id": "B",
-        "text": "85th Amendment Act"
+        "text": "85 th Amendment Act"
       },
       {
         "id": "C",
-        "text": "86th Amendment Act"
+        "text": "86 th Amendment Act"
       },
       {
         "id": "D",
-        "text": "87th Amendment Act"
+        "text": "87 th Amendment Act"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The 86th Constitutional Amendment Act, 2002 inserted Article 21A into the Constitution, making free and compulsory education a Fundamental Right for children between 6 and 14 years of age.",
+    "explanation": "The 86 th Constitutional Amendment Act, 2002 inserted Article 21 A into the Constitution, making free and compulsory education a Fundamental Right for children between 6 and 14 years of age.",
     "question_image": "",
     "option_images": [
       "",
@@ -2587,7 +2587,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the total work be60units. Together, A and B complete the work in30days, so their one day's work isfrac{60}{30}=2units. In20days they complete2\\times20=40units, leaving20units. A alone finishes the remaining20units in20days, so A's one day's work is1unit. Therefore, A alone requires60days to complete the entire work$.",
+    "explanation": "$Let the total work be 60 units. Together, A and B complete the work in 30 days, so their one day's work isfrac{60}{30}=2 units. In 20 days they complete 2\\times 20=40 units, leaving 20 units. A alone finishes the remaining 20 units in 20 days, so A's one day's work is 1 unit. Therefore, A alone requires 60 days to complete the entire work$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2615,7 +2615,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$The centroid of an equilateral triangle ABC is G. IfAB=6cm, then the length ofAGis$",
+    "question": "$The centroid of an equilateral triangle ABC is G. IfAB=6 cm, then the length ofAGis$",
     "q": "$The centroid of an equilateral triangle ABC is G. IfAB=6cm, then the length ofAGis$",
     "options": [
       {
@@ -2632,13 +2632,13 @@
       },
       {
         "id": "D",
-        "text": "2cm"
+        "text": "2 cm"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$For an equilateral triangle of side6cm, the median isfrac{\\sqrt{3}}{2}\\times6=3\\sqrt{3}cm. The centroid divides the median in the ratio2:1. Hence,AG=\\frac{2}{3}\\times3\\sqrt{3}=2\\sqrt{3}cm$.",
+    "explanation": "$For an equilateral triangle of side 6 cm, the median isfrac{\\sqrt{3}}{2}\\times 6=3\\sqrt{3}cm. The centroid divides the median in the ratio 2:1. Hence,AG=\\frac{2}{3}\\times 3\\sqrt{3}=2\\sqrt{3}cm$.",
     "question_image": "test2_q52.png",
     "option_images": [
       "",
@@ -2666,7 +2666,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "A merchant changed his trade discount from$25\\%to15\\%$. This would increase the selling price by",
+    "question": "A merchant changed his trade discount from$25\\%to 15\\%$. This would increase the selling price by",
     "q": "A merchant changed his trade discount from$25\\%to15\\%$. This would increase the selling price by",
     "options": [
       {
@@ -2689,7 +2689,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Let the marked price be100x. With a25\\%discount, the selling price is75x. With a15\\%discount, the selling price is85x. Percentage increase=\\frac{85x-75x}{75x}\\times100=13\\frac{1}{3}\\%$.",
+    "explanation": "$Let the marked price be 100 x. With a 25\\%discount, the selling price is 75 x. With a 15\\%discount, the selling price is 85 x. Percentage increase=\\frac{85 x-75 x}{75 x}\\times 100=13\\frac{1}{3}\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2717,7 +2717,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If177is divided into three parts in the ratiofrac{1}{2}:\\frac{2}{3}:\\frac{4}{5}, then the second part is$",
+    "question": "$If 177 is divided into three parts in the ratiofrac{1}{2}:\\frac{2}{3}:\\frac{4}{5}, then the second part is$",
     "q": "$If177is divided into three parts in the ratiofrac{1}{2}:\\frac{2}{3}:\\frac{4}{5}, then the second part is$",
     "options": [
       {
@@ -2740,7 +2740,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the parts befrac{x}{2},\\frac{2x}{3}andfrac{4x}{5}. Thenfrac{x}{2}+\\frac{2x}{3}+\\frac{4x}{5}=177. Solving givesx=90. Therefore, the second part isfrac{2}{3}\\times90=60$.",
+    "explanation": "$Let the parts befrac{x}{2},\\frac{2 x}{3}andfrac{4 x}{5}. Thenfrac{x}{2}+\\frac{2 x}{3}+\\frac{4 x}{5}=177. Solving givesx=90. Therefore, the second part isfrac{2}{3}\\times 90=60$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2768,7 +2768,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If the percentage of profit made when an article is sold for Rs.78is twice the percentage of profit made when it is sold for Rs.69, then the cost price of the article is",
+    "question": "If the percentage of profit made when an article is sold for Rs.78 is twice the percentage of profit made when it is sold for Rs.69, then the cost price of the article is",
     "q": "If the percentage of profit made when an article is sold for Rs.78is twice the percentage of profit made when it is sold for Rs.69, then the cost price of the article is",
     "options": [
       {
@@ -2791,7 +2791,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the cost price bex. Thenfrac{78-x}{x}=2\\times\\frac{69-x}{x}. Solving gives78-x=138-2x, sox=60. Hence, the cost price is Rs.60$.",
+    "explanation": "$Let the cost price bex. Thenfrac{78-x}{x}=2\\times\\frac{69-x}{x}. Solving gives 78-x=138-2 x, sox=60. Hence, the cost price is Rs.60$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2842,7 +2842,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let Ram's age be10years and Rahim's age be11years. Therefore, Rahim's age as a percentage of Ram's age isfrac{11}{10}\\times100=110\\%$.",
+    "explanation": "$Let Ram's age be 10 years and Rahim's age be 11 years. Therefore, Rahim's age as a percentage of Ram's age isfrac{11}{10}\\times 100=110\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2870,30 +2870,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Gautam travels160km at32km/h and returns at40km/h. What is his average speed for the entire journey?",
+    "question": "Gautam travels 160 km at 32 km/h and returns at 40 km/h. What is his average speed for the entire journey?",
     "q": "Gautam travels160km at32km/h and returns at40km/h. What is his average speed for the entire journey?",
     "options": [
       {
         "id": "A",
-        "text": "72km/h"
+        "text": "72 km/h"
       },
       {
         "id": "B",
-        "text": "$71.11km/h$"
+        "text": "$71.11 km/h$"
       },
       {
         "id": "C",
-        "text": "36km/h"
+        "text": "36 km/h"
       },
       {
         "id": "D",
-        "text": "$35.55km/h$"
+        "text": "$35.55 km/h$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Time for onward journey=\\frac{160}{32}=5hours. Time for return journey=\\frac{160}{40}=4hours. Total distance=320km and total time=9hours. Hence, average speed=\\frac{320}{9}=35.55km/h$.",
+    "explanation": "$Time for onward journey=\\frac{160}{32}=5 hours. Time for return journey=\\frac{160}{40}=4 hours. Total distance=320 km and total time=9 hours. Hence, average speed=\\frac{320}{9}=35.55 km/h$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2921,7 +2921,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If3^x=2, then the value of27^{x}-54^{x+2}-36^{x}-11is$",
+    "question": "$If 3^x=2, then the value of 27^{x}-54^{x+2}-36^{x}-11 is$",
     "q": "$If3^x=2, then the value of27^{x}-54^{x+2}-36^{x}-11is$",
     "options": [
       {
@@ -2944,7 +2944,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Using3^x=2, rewrite every exponential term in powers of2and simplify the given expression. After simplification, the value obtained isfrac{5}{12}$.",
+    "explanation": "$Using 3^x=2, rewrite every exponential term in powers of 2 and simplify the given expression. After simplification, the value obtained isfrac{5}{12}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2972,7 +2972,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Ifa+b+c=6andab+bc+ca=11, then find the value ofbc(b+c)+ca(c+a)+ab(a+b)+3abc$.",
+    "question": "$Ifa+b+c=6 andab+bc+ca=11, then find the value ofbc(b+c)+ca(c+a)+ab(a+b)+3 abc$.",
     "q": "$Ifa+b+c=6andab+bc+ca=11, then find the value ofbc(b+c)+ca(c+a)+ab(a+b)+3abc$.",
     "options": [
       {
@@ -2995,7 +2995,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Using the identitybc(b+c)+ca(c+a)+ab(a+b)+3abc=(a+b+c)(ab+bc+ca), substitute the given values:6\\times11=66$.",
+    "explanation": "$Using the identitybc(b+c)+ca(c+a)+ab(a+b)+3 abc=(a+b+c)(ab+bc+ca), substitute the given values:6\\times 11=66$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3046,7 +3046,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Let the angles be2x,3xand4x. Then2x+3x+4x=180^\\circ, giving9x=180^\\circandx=20^\\circ. Hence, the required difference is4x-2x=2x=40^\\circ$.",
+    "explanation": "$Let the angles be 2 x,3 xand 4 x. Then 2 x+3 x+4 x=180^\\circ, giving 9 x=180^\\circandx=20^\\circ. Hence, the required difference is 4 x-2 x=2 x=40^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3074,7 +3074,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Intriangle ABC,angle A=90^\\circ,AD \\perp BCandAD=BD=2cm. The length ofCDis$",
+    "question": "$Intriangle ABC,angle A=90^\\circ,AD \\perp BCandAD=BD=2 cm. The length ofCDis$",
     "q": "$Intriangle ABC,angle A=90^\\circ,AD \\perp BCandAD=BD=2cm. The length ofCDis$",
     "options": [
       {
@@ -3097,7 +3097,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Using the property of a right triangle,AD^2=BD\\times CD. GivenAD=2cm andBD=2cm, we get2^2=2\\times CD. Hence,CD=2cm$.",
+    "explanation": "$Using the property of a right triangle,AD^2=BD\\times CD. GivenAD=2 cm andBD=2 cm, we get 2^2=2\\times CD. Hence,CD=2 cm$.",
     "question_image": "test2_q61.png",
     "option_images": [
       "",
@@ -3125,7 +3125,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Iftan45^\\circ=\\cot\\theta, then the value oftheta, in radians, is$",
+    "question": "$Iftan 45^\\circ=\\cot\\theta, then the value oftheta, in radians, is$",
     "q": "$Iftan45^\\circ=\\cot\\theta, then the value oftheta, in radians, is$",
     "options": [
       {
@@ -3148,7 +3148,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Sincetan45^\\circ=1, we havecot\\theta=1. Therefore,theta=45^\\circ=\\frac{\\pi}{4}radians$.",
+    "explanation": "$Sincetan 45^\\circ=1, we havecot\\theta=1. Therefore,theta=45^\\circ=\\frac{\\pi}{4}radians$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3199,7 +3199,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Factor out2^{51}:2^{51}(1+2+4+8+16)=2^{51}\\times31. Since124=4\\times31, the expression is divisible by124$.",
+    "explanation": "$Factor out 2^{51}:2^{51}(1+2+4+8+16)=2^{51}\\times 31. Since 124=4\\times 31, the expression is divisible by 124$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3227,7 +3227,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The average of12numbers is9. If each number is multiplied by2and then increased by3, what will be the average of the new set of numbers?",
+    "question": "The average of 12 numbers is 9. If each number is multiplied by 2 and then increased by 3, what will be the average of the new set of numbers?",
     "q": "The average of12numbers is9. If each number is multiplied by2and then increased by3, what will be the average of the new set of numbers?",
     "options": [
       {
@@ -3250,7 +3250,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$When every observation is transformed using2x+3, the average also transforms the same way. Hence, new average=2\\times9+3=21$.",
+    "explanation": "$When every observation is transformed using 2 x+3, the average also transforms the same way. Hence, new average=2\\times 9+3=21$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3301,7 +3301,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Using the given relationa+\\frac{1}{a}=3, we obtaina\\times\\frac{1}{a}=1and simplify the required expression using standard identities. The expression evaluates to0$.",
+    "explanation": "$Using the given relationa+\\frac{1}{a}=3, we obtaina\\times\\frac{1}{a}=1 and simplify the required expression using standard identities. The expression evaluates to 0$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3352,7 +3352,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Leta=\\sqrt{2+x}andb=\\sqrt{2-x}. Givena+b=2. Using(a+b)^2=4+x+2\\sqrt{4-x^2}=4, we obtain\\sqrt{4-x^2}=0, which gives the required value after simplifying(a-b)^2=(a+b)^2-4ab=\\frac{64}{25}. Hence,a-b=\\frac{8}{5}$.",
+    "explanation": "$Leta=\\sqrt{2+x}andb=\\sqrt{2-x}. Givena+b=2. Using(a+b)^2=4+x+2\\sqrt{4-x^2}=4, we obtain\\sqrt{4-x^2}=0, which gives the required value after simplifying(a-b)^2=(a+b)^2-4 ab=\\frac{64}{25}. Hence,a-b=\\frac{8}{5}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3380,7 +3380,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$The perimeters of two similar trianglestriangle ABCandtriangle PQRare36cm and24cm respectively. IfPQ=10cm, then the length ofABis$",
+    "question": "$The perimeters of two similar trianglestriangle ABCandtriangle PQRare 36 cm and 24 cm respectively. IfPQ=10 cm, then the length ofABis$",
     "q": "$The perimeters of two similar trianglestriangle ABCandtriangle PQRare36cm and24cm respectively. IfPQ=10cm, then the length ofABis$",
     "options": [
       {
@@ -3403,7 +3403,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$For similar triangles, the ratio of corresponding sides equals the ratio of their perimeters.\\frac{AB}{PQ}=\\frac{36}{24}=\\frac{3}{2}Therefore,AB=10\\times\\frac{3}{2}=15cm$.",
+    "explanation": "$For similar triangles, the ratio of corresponding sides equals the ratio of their perimeters.\\frac{AB}{PQ}=\\frac{36}{24}=\\frac{3}{2}Therefore,AB=10\\times\\frac{3}{2}=15 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3431,7 +3431,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$In a triangleABC,AB=8cm,AC=10cm andangle B=90^\\circ. Then the area oftriangle ABCis$",
+    "question": "$In a triangleABC,AB=8 cm,AC=10 cm andangle B=90^\\circ. Then the area oftriangle ABCis$",
     "q": "$In a triangleABC,AB=8cm,AC=10cm andangle B=90^\\circ. Then the area oftriangle ABCis$",
     "options": [
       {
@@ -3454,7 +3454,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Sinceangle B=90^\\circ,ACis the hypotenuse$.\n\nUsing Pythagoras:BC=\\sqrt{10^$2-8$^2}=\\sqrt{$100-64$}=6cm.\n\n$Area of the right triangle:=\\frac{1}{2}\\times8\\times6=24\\text{ sq.cm}$.",
+    "explanation": "$Sinceangle B=90^\\circ,ACis the hypotenuse$.\n\nUsing Pythagoras:BC=$\\sqrt{10^$2-8$^2}$=$\\sqrt{$100-64$}$=6 cm.\n\n$Area of the right triangle:=\\frac{1}{2}\\times 8\\times 6=24\\text{ sq.cm}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3505,7 +3505,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$SinceA+B+C=180^\\circ, we havefrac{A+B}{2}=90^\\circ-\\frac{C}{2}. Therefore,sin\\left(90^\\circ-\\frac{C}{2}\\right)=\\cos\\left(\\frac{C}{2}\\right)=\\frac{\\sqrt{3}}{2}.\n\nHence,\\frac{C}{2}=30^\\circandsin\\left(\\frac{C}{2}\\right)=\\sin30^\\circ=\\frac{1}{2}$.",
+    "explanation": "$SinceA+B+C=180^\\circ, we havefrac{A+B}{2}=90^\\circ-\\frac{C}{2}. Therefore,sin\\left(90^\\circ-\\frac{C}{2}\\right)=\\cos\\left(\\frac{C}{2}\\right)=\\frac{\\sqrt{3}}{2}.\n\nHence,\\frac{C}{2}=30^\\circandsin\\left(\\frac{C}{2}\\right)=\\sin 30^\\circ=\\frac{1}{2}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3533,7 +3533,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The compound interest on Rs.$64,000$for3years, compounded annually at$7.5\\%$per annum, is",
+    "question": "The compound interest on Rs.$64,000$for 3 years, compounded annually at$7.5\\%$per annum, is",
     "q": "The compound interest on Rs.$64,000$for3years, compounded annually at$7.5\\%$per annum, is",
     "options": [
       {
@@ -3584,7 +3584,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The angles of elevation of the top of a temple, from the foot and the top of a building30m high, are$60^\\circ$and$30^\\circ$respectively. Then the height of the temple is",
+    "question": "The angles of elevation of the top of a temple, from the foot and the top of a building 30 m high, are$60^\\circ$and$30^\\circ$respectively. Then the height of the temple is",
     "q": "The angles of elevation of the top of a temple, from the foot and the top of a building30m high, are$60^\\circ$and$30^\\circ$respectively. Then the height of the temple is",
     "options": [
       {
@@ -3607,7 +3607,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let the horizontal distance between the building and the temple bexm. Usingtan60^\\circandtan30^\\circin the two right triangles,tan60^\\circ=\\frac{x+30}{y}andtan30^\\circ=\\frac{x}{y}.\n\nSubstituting the second equation into the first gives2x=30, sox=15m. Therefore, the height of the temple is15+30=45m$.",
+    "explanation": "$Let the horizontal distance between the building and the temple bexm. Usingtan 60^\\circandtan 30^\\circin the two right triangles,tan 60^\\circ=\\frac{x+30}{y}andtan 30^\\circ=\\frac{x}{y}.\n\nSubstituting the second equation into the first gives 2 x=30, sox=15 m. Therefore, the height of the temple is 15+30=45 m$.",
     "question_image": "test2_q71.png",
     "option_images": [
       "",
@@ -3658,7 +3658,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let the total cost be Rs.100x. Miscellaneous charges are4\\%of the total, so4x=6000, givingx=1500. Advertisement charges are18\\%of the total, i.e.,18x=18\\times1500=27,000$.",
+    "explanation": "$Let the total cost be Rs.100 x. Miscellaneous charges are 4\\%of the total, so 4 x=6000, givingx=1500. Advertisement charges are 18\\%of the total, i.e.,18 x=18\\times 1500=27,000$.",
     "question_image": "test2_q72.png",
     "option_images": [
       "",
@@ -3709,7 +3709,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Printing charges constitute35\\%and advertisement charges constitute18\\%of the total. Their difference is17\\%. Hence, the difference in central angles isfrac{17}{100}\\times360^\\circ=61.2^\\circ$.",
+    "explanation": "$Printing charges constitute 35\\%and advertisement charges constitute 18\\%of the total. Their difference is 17\\%. Hence, the difference in central angles isfrac{17}{100}\\times 360^\\circ=61.2^\\circ$.",
     "question_image": "test2_q72.png",
     "option_images": [
       "",
@@ -3760,7 +3760,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The percentage allotted to the cost of paper is10\\%. Therefore, the corresponding central angle isfrac{10}{100}\\times360^\\circ=36^\\circ$.",
+    "explanation": "$The percentage allotted to the cost of paper is 10\\%. Therefore, the corresponding central angle isfrac{10}{100}\\times 360^\\circ=36^\\circ$.",
     "question_image": "test2_q72.png",
     "option_images": [
       "",
@@ -3811,7 +3811,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Royalty accounts for15\\%of the total cost, while binder's charges account for18\\%. Therefore, the required ratio is15:18=5:6$.",
+    "explanation": "$Royalty accounts for 15\\%of the total cost, while binder's charges account for 18\\%. Therefore, the required ratio is 15:18=5:6$.",
     "question_image": "test2_q72.png",
     "option_images": [
       "",
@@ -4298,7 +4298,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nTo give oneself airs",
+    "question": "In each of the question, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nTo give oneself airs",
     "q": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nTo give oneself airs",
     "options": [
       {
@@ -4349,7 +4349,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nAt a stone's throw",
+    "question": "In each of the question, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nAt a stone's throw",
     "q": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nAt a stone's throw",
     "options": [
       {
@@ -4400,7 +4400,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nBone of contention",
+    "question": "In each of the question, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nBone of contention",
     "q": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nBone of contention",
     "options": [
       {
@@ -4576,7 +4576,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "'Expiate' means to make amends or atone for a fault, wrongdoing, or sin. Therefore, it is the correct one-word substitution.",
+    "explanation": "'Expiate' means to make amends or atone for a fault, wrongdoing, or $\\sin$. Therefore, it is the correct one-word substitution.",
     "question_image": "",
     "option_images": [
       "",

@@ -37,7 +37,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n$64\\% of the number = 64 * 12.5 = 800$.",
+    "explanation": "Let the number be 100 x. \n66 x - 44 x = 22 x = 275 => x = 12.5. \n$64\\% of the number = 64 * 12.5 = 800$.",
     "question_image": "",
     "option_images": [
       "",
@@ -116,7 +116,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Find 'x' if \\sqrt(2 + 7x) = \\sqrt(3x + 4)$",
+    "question": "$Find 'x' if \\sqrt(2 + 7 x) = \\sqrt(3 x + 4)$",
     "q": "$Find 'x' if \\sqrt(2 + 7x) = \\sqrt(3x + 4)$",
     "options": [
       {
@@ -139,7 +139,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Squaring both sides: 2 + 7x = 3x + 4 => 4x = 2 => x = 0.5$.",
+    "explanation": "$Squaring both sides: 2 + 7 x = 3 x + 4 => 4 x = 2 => x = 0.5$.",
     "question_image": "",
     "option_images": [
       "",
@@ -167,7 +167,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The product of two even consecutive numbers is 168. Find the sum of numbers.",
+    "question": "The product of two even consecutive numbers is 168. Find the $\\sum$ of numbers.",
     "q": "The product of two even consecutive numbers is 168. Find the sum of numbers.",
     "options": [
       {
@@ -190,7 +190,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let the two consecutive even numbers be x and (x + 2).\n$x(x + 2) = 168 => x^2 + 2x - 168 = 0 => (x + 14)(x - 12) = 0$.\nSince x must be positive, x = 12. The numbers are 12 and 14.\n$Sum = 12 + 14 = 26$.",
+    "explanation": "Let the two consecutive even numbers be x and (x + 2).\n$x(x + 2) = 168 => x^2 + 2 x - 168 = 0 => (x + 14)(x - 12) = 0$.\nSince x must be positive, x = 12. The numbers are 12 and 14.\n$Sum = 12 + 14 = 26$.",
     "question_image": "",
     "option_images": [
       "",
@@ -223,25 +223,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$4cm$"
+        "text": "$4 cm$"
       },
       {
         "id": "B",
-        "text": "3cm"
+        "text": "3 cm"
       },
       {
         "id": "C",
-        "text": "$5cm$"
+        "text": "$5 cm$"
       },
       {
         "id": "D",
-        "text": "$8cm$"
+        "text": "$8 cm$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\n$AD/AB = DE/BC => \\frac{1}{6} = DE/18 => DE = 3 cm$.",
+    "explanation": "Since DE || BC, \\DeltaADE ~ \\DeltaABC.\n$AD/AB = DE/BC => \\frac{1}{6} = DE/18 => DE = 3 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -325,25 +325,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$599998Rs6,00,000$"
+        "text": "$599998 Rs 6,00,000$"
       },
       {
         "id": "B",
-        "text": "$600001Rs6,00,000$"
+        "text": "$600001 Rs 6,00,000$"
       },
       {
         "id": "C",
-        "text": "$600005Rs6,00,000$"
+        "text": "$600005 Rs 6,00,000$"
       },
       {
         "id": "D",
-        "text": "Rs6,00,000"
+        "text": "Rs 6,00,000"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let the value 2 years ago be x. \n$x * (1 - \\frac{15}{100})^2 = 433500$\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
+    "explanation": "Let the value 2 years ago be x. \n$x * (1 - \\frac{15}{100})^2 = 433500$\n=> x * $(0.85)^2$ = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
     "question_image": "",
     "option_images": [
       "",
@@ -473,30 +473,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The average savings of Champak in 5 days is Rs 160. If his savings for the first 4 days is Rs 155, Rs 170, Rs 134 and Rs 168 respectively, then what is his saving (in Rs) of the 5th day?",
+    "question": "The average savings of Champak in 5 days is Rs 160. If his savings for the first 4 days is Rs 155, Rs 170, Rs 134 and Rs 168 respectively, then what is his saving (in Rs) of the 5 th day?",
     "q": "The average savings of Champak in 5 days is Rs 160. If his savings for the first 4 days is Rs 155, Rs 170, Rs 134 and Rs 168 respectively, then what is his saving (in Rs) of the 5th day?",
     "options": [
       {
         "id": "A",
-        "text": "$168Rs$"
+        "text": "$168 Rs$"
       },
       {
         "id": "B",
-        "text": "$174Rs$"
+        "text": "$174 Rs$"
       },
       {
         "id": "C",
-        "text": "$163Rs$"
+        "text": "$163 Rs$"
       },
       {
         "id": "D",
-        "text": "Rs173"
+        "text": "Rs 173"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Total savings in 5 days = 5 * 160 = Rs 800.\nSavings in first 4 days = 155 + 170 + 134 + 168 = Rs 627$.\nSaving of 5th day = $800 - 627$ = Rs 173.",
+    "explanation": "$Total savings in 5 days = 5 * 160 = Rs 800.\nSavings in first 4 days = 155 + 170 + 134 + 168 = Rs 627$.\nSaving of 5 th day = $800 - 627$ = Rs 173.",
     "question_image": "",
     "option_images": [
       "",
@@ -524,24 +524,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "A sum of Rs 6000 is borrowed at compound interest at the rate of 8% per annum. What will be the amount (in Rs) after 2 years?",
+    "question": "A $\\sum$ of Rs 6000 is borrowed at compound interest at the rate of 8% per annum. What will be the amount (in Rs) after 2 years?",
     "q": "A sum of Rs 6000 is borrowed at compound interest at the rate of 8% per annum. What will be the amount (in Rs) after 2 years?",
     "options": [
       {
         "id": "A",
-        "text": "Rs6998"
+        "text": "Rs 6998"
       },
       {
         "id": "B",
-        "text": "$6996Rs$"
+        "text": "$6996 Rs$"
       },
       {
         "id": "C",
-        "text": "$7008Rs$"
+        "text": "$7008 Rs$"
       },
       {
         "id": "D",
-        "text": "$7000Rs$"
+        "text": "$7000 Rs$"
       }
     ],
     "correct_option": "A",
@@ -649,7 +649,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let Marked Price = 50x. SP = 40x. \nLoss = 4% => SP = 96% of CP => CP = 40x / 0.96 = 125x/3. \n$Ratio of MP to CP = 50x : 125x/3 = 150:125 = 6:5$.",
+    "explanation": "Let Marked Price = 50 x. SP = 40 x. \nLoss = 4% => SP = 96% of CP => CP = 40 x / 0.96 = 125 x/3. \n$Ratio of MP to CP = 50 x : 125 x/3 = 150:125 = 6:5$.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$18 men = 25 boys => 1 man = \\frac{25}{18} boys$.\n36 men + 10 boys = 36*(\\frac{25}{18}) + 10 = $50 + 10 = 60$ boys.\n$Since 25 boys take 25 days, 60 boys take (25 * 25) / 60 = \\frac{125}{12} days$.",
+    "explanation": "$18 men = 25 boys => 1 man = \\frac{25}{18} boys$.\n36 men + 10 boys = 36*($\\frac{25}{18}$) + 10 = $50 + 10 = 60$ boys.\n$Since 25 boys take 25 days, 60 boys take (25 * 25) / 60 = \\frac{125}{12} days$.",
     "question_image": "",
     "option_images": [
       "",
@@ -784,19 +784,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$170km/hr$"
+        "text": "$170 km/hr$"
       },
       {
         "id": "B",
-        "text": "$181km/hr$"
+        "text": "$181 km/hr$"
       },
       {
         "id": "C",
-        "text": "$185km/hr$"
+        "text": "$185 km/hr$"
       },
       {
         "id": "D",
-        "text": "180km/hr"
+        "text": "180 km/hr"
       }
     ],
     "correct_option": "D",
@@ -945,7 +945,7 @@
       },
       {
         "id": "C",
-        "text": "36°"
+        "text": "36$^\\circ$"
       },
       {
         "id": "D",
@@ -988,19 +988,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$13lakhs$"
+        "text": "$13 lakhs$"
       },
       {
         "id": "B",
-        "text": "$14lakhs$"
+        "text": "$14 lakhs$"
       },
       {
         "id": "C",
-        "text": "$10lakhs$"
+        "text": "$10 lakhs$"
       },
       {
         "id": "D",
-        "text": "12lakhs"
+        "text": "12 lakhs"
       }
     ],
     "correct_option": "D",
@@ -1090,19 +1090,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$32cm$"
+        "text": "$32 cm$"
       },
       {
         "id": "B",
-        "text": "22cm"
+        "text": "22 cm"
       },
       {
         "id": "C",
-        "text": "$12cm$"
+        "text": "$12 cm$"
       },
       {
         "id": "D",
-        "text": "$17cm$"
+        "text": "$17 cm$"
       }
     ],
     "correct_option": "B",
@@ -1159,7 +1159,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Volume of cube = a^3 = (6.5)^3 = 274.625 cm^3.",
+    "explanation": "Volume of cube = $a^3$ = $(6.5)^3$ = 274.625 cm^3.",
     "question_image": "",
     "option_images": [
       "",
@@ -1187,7 +1187,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "ΔDEF is right angled at E. If m∠D = 30°, then find the value of (cosF + √3).",
+    "question": "\\DeltaDEF is right angled at E. If m∠D = 30$^\\circ$, then find the value of (cosF + $\\sqrt{3}$).",
     "q": "ΔDEF is right angled at E. If m∠D = 30°, then find the value of (cosF + √3).",
     "options": [
       {
@@ -1200,7 +1200,7 @@
       },
       {
         "id": "C",
-        "text": "4 / √3"
+        "text": "4 / $\\sqrt{3}$"
       },
       {
         "id": "D",
@@ -1210,7 +1210,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\n$cos F + √3 = cos(60°) + √3 = \\frac{1}{2} + √3 = (1 + 2√3)/2$.",
+    "explanation": "In \\DeltaDEF, ∠F = 180$^\\circ$ - (90$^\\circ$ + 30$^\\circ$) = 60$^\\circ$.\n$cos F + √3 = cos(60°) + √3 = \\frac{1}{2} + √3 = (1 + 2√3)/2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$sin D = EF / DF = \\frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt$(289 - 225)$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\frac{15}{8}$.$",
+    "explanation": "$sin D = EF / DF = \\frac{15}{17}. Let EF = 15, DF = 17$.\nDE = $\\sqrt{DF^2 - EF^2}$ = $\\sqrt{M}$ATHBLOCK1 = $\\sqrt{64}$ = 8.\ncot F = Adjacent / Opposite = EF / DE = $\\frac{15}{8}$$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1363,7 +1363,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$The relationship is n : 3n. 16 * 3 = 48. Similarly, 25 * 3 = 75$.",
+    "explanation": "$The relationship is n : 3 n. 16 * 3 = 48. Similarly, 25 * 3 = 75$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1669,7 +1669,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Consecutive prime numbers are added to each term:  14 + 5 = 19  19 + 7 = 26  26 + 11 = 37  37 + 13 = 50  50 + 17 = 67  67 + 19 = 86$.",
+    "explanation": "$Consecutive prime numbers are added to each term: 14 + 5 = 19 19 + 7 = 26 26 + 11 = 37 37 + 13 = 50 50 + 17 = 67 67 + 19 = 86$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1757,7 +1757,7 @@
       },
       {
         "id": "B",
-        "text": "22√3, North"
+        "text": "22$\\sqrt{3}$, North"
       },
       {
         "id": "C",
@@ -1765,13 +1765,13 @@
       },
       {
         "id": "D",
-        "text": "22√3, South"
+        "text": "22$\\sqrt{3}$, South"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Pritam starts at hospital S. Walks 49m South to T (0, -49). Turns right (West) 49m to U (-49, -49). Turns right (North) 34m to V (-49, -15). Turns right (East) 49m to W (0, -15).\nHe is at W, which is 15m South of S.",
+    "explanation": "Pritam starts at hospital S. Walks 49 m South to T (0, -49). Turns right (West) 49 m to U (-49, -49). Turns right (North) 34 m to V (-49, -15). Turns right (East) 49 m to W (0, -15).\nHe is at W, which is 15 m South of S.",
     "question_image": "",
     "option_images": [
       "",
@@ -1924,7 +1924,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Each letter in the terms is incremented by 1 (+1):\n1st letter: P(+1)->Q(+1)->R(+1)->S(+1)->T\n2nd letter: C(+1)->D(+1)->E(+1)->F(+1)->G\n3rd letter: O(+1)->P(+1)->Q(+1)->R(+1)->S\nMissing term is SFR.",
+    "explanation": "Each letter in the terms is incremented by 1 (+1):\n1 st letter: P(+1)->Q(+1)->R(+1)->S(+1)->T\n2 nd letter: C(+1)->D(+1)->E(+1)->F(+1)->G\n3 rd letter: O(+1)->P(+1)->Q(+1)->R(+1)->S\nMissing term is SFR.",
     "question_image": "",
     "option_images": [
       "",
@@ -2054,7 +2054,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '$\\div$' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
     "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
     "options": [
       {
@@ -2114,11 +2114,11 @@
       },
       {
         "id": "B",
-        "text": "÷ and -"
+        "text": "$\\div$ and -"
       },
       {
         "id": "C",
-        "text": "÷ and x"
+        "text": "$\\div$ and x"
       },
       {
         "id": "D",
@@ -2230,7 +2230,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The pattern followed is that the lowercase letter shifts one position to the right in each term. In the 6th term, the second last letter (y) is at the end: 'XYXYXYxY'.",
+    "explanation": "The pattern followed is that the lowercase letter shifts one position to the right in each term. In the 6 th term, the second last letter (y) is at the end: 'XYXYXYxY'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2281,7 +2281,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Cruiser A ends at (-60, -50). \nCruiser B goes 105m West -> (-105, 0), turns left (South) 50m -> (-105, -50), turns West 45m -> (-150, -50).\nCruiser A's position with respect to B is -60 - (-150) = 90 miles East.",
+    "explanation": "Cruiser A ends at (-60, -50). \nCruiser B goes 105 m West -> (-105, 0), turns left (South) 50 m -> (-105, -50), turns West 45 m -> (-150, -50).\nCruiser A's position with respect to B is -60 - (-150) = 90 miles East.",
     "question_image": "",
     "option_images": [
       "",
@@ -4219,7 +4219,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "GUI stands for Graphical User Interface (often referred to as Graphic User Interface in exam questions).",
+    "explanation": "GUI stands for Graphical User Interface (often referred to as Graphic User Interface in exam question).",
     "question_image": "",
     "option_images": [
       "",
@@ -4882,7 +4882,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Units: ampere (I) * meters (L) / second^2 (T^2) = [I LT-2].",
+    "explanation": "Units: ampere (I) * meters (L) / second^2 ($T^2$) = [I LT-2].",
     "question_image": "",
     "option_images": [
       "",
@@ -4910,7 +4910,7 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "The 42nd Amendment of the Constitution of India was enacted in the year ________.",
+    "question": "The 42 nd Amendment of the Constitution of India was enacted in the year ________.",
     "q": "The 42nd Amendment of the Constitution of India was enacted in the year ________.",
     "options": [
       {
@@ -4933,7 +4933,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The 42nd Amendment, known as the 'Mini-Constitution', was enacted in 1976 during the Emergency under Indira Gandhi's government.",
+    "explanation": "The 42 nd Amendment, known as the 'Mini-Constitution', was enacted in 1976 during the Emergency under Indira Gandhi's government.",
     "question_image": "",
     "option_images": [
       "",

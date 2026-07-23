@@ -65,12 +65,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Which of the following is the largest?\n\n√2, ∛2, ⁴√2, ⁵√2",
+    "question": "Which of the following is the largest?\n\n$\\sqrt{2}$, ∛2, ⁴$\\sqrt{2}$, ⁵$\\sqrt{2}$",
     "q": "Which of the following is the largest?\n\n√2, ∛2, ⁴√2, ⁵√2",
     "options": [
       {
         "id": "A",
-        "text": "√2"
+        "text": "$\\sqrt{2}$"
       },
       {
         "id": "B",
@@ -78,11 +78,11 @@
       },
       {
         "id": "C",
-        "text": "⁴√2"
+        "text": "⁴$\\sqrt{2}$"
       },
       {
         "id": "D",
-        "text": "⁵√2"
+        "text": "⁵$\\sqrt{2}$"
       }
     ],
     "correct_option": "C",
@@ -139,7 +139,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "49 = 7², so 49³ = 7⁶ = 117649. Using the simplification provided in the source paper, the evaluated result matches option B (4459).",
+    "explanation": "49 = 7^2, so 49^3 = 7⁶ = 117649. Using the simplification provided in the source paper, the evaluated result matches option B (4459).",
     "question_image": "",
     "option_images": [
       "",
@@ -167,7 +167,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of (a − b)³ / (a + b)² when a + b = 8 and a − b = 2?",
+    "question": "What is the value of $(a − b)^3$ / $(a + b)^2$ when a + b = 8 and a − b = 2?",
     "q": "What is the value of (a − b)³ / (a + b)² when a + b = 8 and a − b = 2?",
     "options": [
       {
@@ -223,19 +223,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$20cm$"
+        "text": "$20 cm$"
       },
       {
         "id": "B",
-        "text": "10cm"
+        "text": "10 cm"
       },
       {
         "id": "C",
-        "text": "$8cm$"
+        "text": "$8 cm$"
       },
       {
         "id": "D",
-        "text": "$9cm$"
+        "text": "$9 cm$"
       }
     ],
     "correct_option": "B",
@@ -274,7 +274,7 @@
     "options": [
       {
         "id": "A",
-        "text": "33000÷"
+        "text": "33000$\\div$"
       },
       {
         "id": "B",
@@ -343,7 +343,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the two parts be 100x and 100y. Forming and solving the two linear equations gives x = 6.4 and y = 8.35. Hence the number = 100(x + y) = 1475.",
+    "explanation": "Let the two parts be 100 x and 100 y. Forming and solving the two linear equations gives x = 6.4 and y = 8.35. Hence the number = 100(x + y) = 1475.",
     "question_image": "",
     "option_images": [
       "",
@@ -478,19 +478,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$20kg$"
+        "text": "$20 kg$"
       },
       {
         "id": "B",
-        "text": "$30kg$"
+        "text": "$30 kg$"
       },
       {
         "id": "C",
-        "text": "$27kg$"
+        "text": "$27 kg$"
       },
       {
         "id": "D",
-        "text": "25kg"
+        "text": "25 kg"
       }
     ],
     "correct_option": "D",
@@ -524,30 +524,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "A sum becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount (in Rs.)?",
+    "question": "A $\\sum$ becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount (in Rs.)?",
     "q": "A sum becomes Rs. 8800 in 4 years at simple interest at the rate of 25% per annum. What is the principal amount (in Rs.)?",
     "options": [
       {
         "id": "A",
-        "text": "P×2,givingP"
+        "text": "P\\times2,givingP"
       },
       {
         "id": "B",
-        "text": "$1P×,givingP$"
+        "text": "$1 P×,givingP$"
       },
       {
         "id": "C",
-        "text": "$4P×,givingP$"
+        "text": "$4 P×,givingP$"
       },
       {
         "id": "D",
-        "text": "$12P×,givingP$"
+        "text": "$12 P×,givingP$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Using the simple interest formula, Amount = P(1 + RT/100). Here, A = 8800, R = 25% and T = 4 years. Therefore, 8800 = P × 2, giving P = Rs. 4400.",
+    "explanation": "Using the simple interest formula, Amount = P(1 + RT/100). Here, A = 8800, R = 25% and T = 4 years. Therefore, 8800 = P $\\times$ 2, giving P = Rs. 4400.",
     "question_image": "",
     "option_images": [
       "",
@@ -677,7 +677,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of √(2² + 15²)?",
+    "question": "What is the value of $\\sqrt{2^2 + 15^2}$?",
     "q": "What is the value of √(2² + 15²)?",
     "options": [
       {
@@ -784,19 +784,19 @@
     "options": [
       {
         "id": "A",
-        "text": "60seconds"
+        "text": "60 seconds"
       },
       {
         "id": "B",
-        "text": "$70seconds$"
+        "text": "$70 seconds$"
       },
       {
         "id": "C",
-        "text": "$61seconds$"
+        "text": "$61 seconds$"
       },
       {
         "id": "D",
-        "text": "$50seconds$"
+        "text": "$50 seconds$"
       }
     ],
     "correct_option": "A",
@@ -937,19 +937,19 @@
     "options": [
       {
         "id": "A",
-        "text": "27°"
+        "text": "27$^\\circ$"
       },
       {
         "id": "B",
-        "text": "30°"
+        "text": "30$^\\circ$"
       },
       {
         "id": "C",
-        "text": "33°"
+        "text": "33$^\\circ$"
       },
       {
         "id": "D",
-        "text": "24°"
+        "text": "24$^\\circ$"
       }
     ],
     "correct_option": "A",
@@ -1090,25 +1090,25 @@
     "options": [
       {
         "id": "A",
-        "text": "72°"
+        "text": "72$^\\circ$"
       },
       {
         "id": "B",
-        "text": "60°"
+        "text": "60$^\\circ$"
       },
       {
         "id": "C",
-        "text": "45°"
+        "text": "45$^\\circ$"
       },
       {
         "id": "D",
-        "text": "40°"
+        "text": "40$^\\circ$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The sum of the exterior angles of any polygon is 360°. Therefore, each exterior angle of a regular pentagon = 360° ÷ 5 = 72°.",
+    "explanation": "The $\\sum$ of the exterior angles of any polygon is 360$^\\circ$. Therefore, each exterior angle of a regular pentagon = 360$^\\circ$ $\\div$ 5 = 72$^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1136,7 +1136,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The total surface area of a cube is 73.5 cm². Find the length of its side (in cm).",
+    "question": "The total surface area of a cube is 73.5 cm^2. Find the length of its side (in cm).",
     "q": "The total surface area of a cube is 73.5 cm². Find the length of its side (in cm).",
     "options": [
       {
@@ -1159,7 +1159,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Total surface area = 6a² = 73.5. Therefore, a² = 73.\\frac{5}{6} = 12.25 and a = √12.25 = 3.5 cm$.",
+    "explanation": "$Total surface area = 6 a² = 73.5. Therefore, a² = 73.\\frac{5}{6} = 12.25 and a = √12.25 = 3.5 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1187,12 +1187,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of ($\\frac{1}{3}$ − cosec 30°)?",
+    "question": "What is the value of ($\\frac{1}{3}$ − cosec 30$^\\circ$)?",
     "q": "What is the value of ($\\frac{1}{3}$ − cosec 30°)?",
     "options": [
       {
         "id": "A",
-        "text": "(√6 − 1)/√3"
+        "text": "($\\sqrt{6}$ − 1)/$\\sqrt{3}$"
       },
       {
         "id": "B",
@@ -1243,19 +1243,19 @@
     "options": [
       {
         "id": "A",
-        "text": "5cm"
+        "text": "5 cm"
       },
       {
         "id": "B",
-        "text": "$15cm$"
+        "text": "$15 cm$"
       },
       {
         "id": "C",
-        "text": "$3cm$"
+        "text": "$3 cm$"
       },
       {
         "id": "D",
-        "text": "$7cm$"
+        "text": "$7 cm$"
       }
     ],
     "correct_option": "A",
@@ -1363,7 +1363,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The pattern is n → n². Therefore, 6² = 36.",
+    "explanation": "The pattern is n $\\rightarrow$ $n^2$. Therefore, 6^2 = 36.",
     "question_image": "",
     "option_images": [
       "",
@@ -1567,7 +1567,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Each first letter is paired with its opposite letter in the reverse alphabetical order. H↔S, K↔P and B↔Y follow the rule, whereas G should pair with T, not R. Hence option C is the odd one.",
+    "explanation": "Each first letter is paired with its opposite letter in the reverse alphabetical order. H\\leftrightarrowS, K\\leftrightarrowP and B\\leftrightarrowY follow the rule, whereas G should pair with T, not R. Hence option C is the odd one.",
     "question_image": "",
     "option_images": [
       "",
@@ -1618,7 +1618,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The correct dictionary order is: Rather → Ratify → Read → Ready → Real, which corresponds to 45132.",
+    "explanation": "The correct dictionary order is: Rather $\\rightarrow$ Ratify $\\rightarrow$ Read $\\rightarrow$ Ready $\\rightarrow$ Real, which corresponds to 45132.",
     "question_image": "",
     "option_images": [
       "",
@@ -1748,7 +1748,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a row of girls, Shweta is 11th from the right end. Mansi is 14th to the left of Shweta. If Mansi is 12th from the left end, then how many girls are there in the row?",
+    "question": "In a row of girls, Shweta is 11 th from the right end. Mansi is 14 th to the left of Shweta. If Mansi is 12 th from the left end, then how many girls are there in the row?",
     "q": "In a row of girls, Shweta is 11th from the right end. Mansi is 14th to the left of Shweta. If Mansi is 12th from the left end, then how many girls are there in the row?",
     "options": [
       {
@@ -1771,7 +1771,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Mansi is 12th from the left. Since she is 14 places to the left of Shweta, Mansi is 25th from the right. Total girls = 12 + 25 − 1 = 36$.",
+    "explanation": "$Mansi is 12 th from the left. Since she is 14 places to the left of Shweta, Mansi is 25 th from the right. Total girls = 12 + 25 − 1 = 36$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1873,7 +1873,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "From the given codes: G→7, R→6, U→3, N→8 and T→4. Therefore, GRUNT is coded as 76384.",
+    "explanation": "From the given codes: G\\rightarrow7, R\\rightarrow6, U\\rightarrow3, N\\rightarrow8 and T\\rightarrow4. Therefore, GRUNT is coded as 76384.",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
+    "question": "In a certain code language, '-' represents '$\\times$', '$\\div$' represents '+', '+' represents '$\\div$' and '$\\times$' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
     "q": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
     "options": [
       {
@@ -1957,11 +1957,11 @@
     "options": [
       {
         "id": "A",
-        "text": "+ and ÷"
+        "text": "+ and $\\div$"
       },
       {
         "id": "B",
-        "text": "× and +"
+        "text": "$\\times$ and +"
       },
       {
         "id": "C",
@@ -1969,7 +1969,7 @@
       },
       {
         "id": "D",
-        "text": "÷ and ×"
+        "text": "$\\div$ and $\\times$"
       }
     ],
     "correct_option": "B",
@@ -4303,15 +4303,15 @@
     "options": [
       {
         "id": "A",
-        "text": "In the 1940s"
+        "text": "In the 1940 s"
       },
       {
         "id": "B",
-        "text": "In the 1950s"
+        "text": "In the 1950 s"
       },
       {
         "id": "C",
-        "text": "In the 1960s"
+        "text": "In the 1960 s"
       },
       {
         "id": "D",
@@ -4321,7 +4321,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Islamabad was planned and constructed during the 1960s to replace Karachi as Pakistan's capital.",
+    "explanation": "Islamabad was planned and constructed during the 1960 s to replace Karachi as Pakistan's capital.",
     "question_image": "",
     "option_images": [
       "",
@@ -4882,7 +4882,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Heat energy produced = Power × Time = 20 W × 2 s = 40 J.",
+    "explanation": "Heat energy produced = Power $\\times$ Time = 20 W $\\times$ 2 s = 40 J.",
     "question_image": "",
     "option_images": [
       "",

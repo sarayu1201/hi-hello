@@ -139,7 +139,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: x^3 + y^3 = 8 and x + y = 2.\n$We know (x + y)^3 = x^3 + y^3 + 3xy(x + y)$\n=> 8 = $8 + 3$xy(2) => 6xy = 0 => xy = 0.\nSquaring x + y = 2: x^2 + y^$2 + 2$xy = 4 => x^2 + y^2 = 4 (since xy = 0).\n$Squaring again: (x^2 + y^2)^2 = x^4 + y^4 + 2(xy)^2 => 16 = x^4 + y^4 + 0 => x^4 + y^4 = 16$.",
+    "explanation": "Given: $x^3$ + $y^3$ = 8 and x + y = 2.\n$We know (x + y)^3 = x^3 + y^3 + 3 xy(x + y)$\n=> 8 = $8 + 3$xy(2) => 6 xy = 0 => xy = 0.\nSquaring x + y = 2: $x^2$ + $y^$2 + 2$xy$ = 4 => $x^2$ + $y^2$ = 4 (since xy = 0).\n$Squaring again: (x^2 + y^2)^2 = x^4 + y^4 + 2(xy)^2 => 16 = x^4 + y^4 + 0 => x^4 + y^4 = 16$.",
     "question_image": "",
     "option_images": [
       "",
@@ -190,7 +190,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Given y^4 + 1/y^4 = 34$.\nWe can write: (y^$2 + 1$/y^2)^$2 - 2 = 34 => ($y^$2 + 1$/y^2)^2 = 36 => y^$2 + 1$/y^2 = 6.\n$Now, (y - 1/y)^2 = y^2 + 1/y^2 - 2 = 6 - 2 = 4$.",
+    "explanation": "$Given y^4 + 1/y^4 = 34$.\nWe can write: $($y^$2 + 1$$/$y^2$)^$2 - 2 = 34 => ($y$^$2 + 1$/$y^2$)^2 = 36 => $y^$2 + 1$$/$y^2$ = 6.\n$Now, (y - 1/y)^2 = y^2 + 1/y^2 - 2 = 6 - 2 = 4$.",
     "question_image": "",
     "option_images": [
       "",
@@ -241,7 +241,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Ratio of sides: AB/DE = \\frac{14}{7} = 2, BC/EF = \\frac{8}{4} = 2, AC/DF = \\frac{10}{5} = 2$.\nSince corresponding sides are proportional, ΔABC ~ ΔDEF. Hence, their corresponding angles are equal: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.",
+    "explanation": "$Ratio of sides: AB/DE = \\frac{14}{7} = 2, BC/EF = \\frac{8}{4} = 2, AC/DF = \\frac{10}{5} = 2$.\nSince corresponding sides are proportional, \\DeltaABC ~ \\DeltaDEF. Hence, their corresponding angles are equal: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.",
     "question_image": "ssc_chsl_tier1_paper6_q5.png",
     "option_images": [
       "",
@@ -343,7 +343,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$5\\% of (P + Q) = 20\\% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4P - 4Q => 3P = 5Q => P/Q = \\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = (\\frac{5}{3}) * 100 = 166.66%$.$",
+    "explanation": "$5\\% of (P + Q) = 20\\% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4 P - 4 Q => 3 P = 5 Q => P/Q = \\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = ($\\frac{5}{3}$) * 100 = 166.66%$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -394,7 +394,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the number added be x.\n(4 + x) / (16 + x) = (18 + x) / (58 + x)\n=> (4 + x)(58 + x) = (18 + x)(16 + x)\n=> x² + 62x + 232 = x² + 34x + 288\n=> 28x = 56 => x = 2.",
+    "explanation": "Let the number added be x.\n(4 + x) / (16 + x) = (18 + x) / (58 + x)\n=> (4 + x)(58 + x) = (18 + x)(16 + x)\n=> $x^2$ + 62 x + 232 = $x^2$ + 34 x + 288\n=> 28 x = 56 => x = 2.",
     "question_image": "",
     "option_images": [
       "",
@@ -427,25 +427,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$49litres$"
+        "text": "$49 litres$"
       },
       {
         "id": "B",
-        "text": "$45litres$"
+        "text": "$45 litres$"
       },
       {
         "id": "C",
-        "text": "$51litres$"
+        "text": "$51 litres$"
       },
       {
         "id": "D",
-        "text": "50litres"
+        "text": "50 litres"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Amount of soda originally = 250 * 7 / (7+18) = 70 litres. Amount of water = 250 - 70 = 180 litres.\nLet x litres of soda be added: (70 + x) / 180 = \\frac{2}{3} => 210 + 3x = 360 => 3x = 150 => x = 50 litres$.",
+    "explanation": "$Amount of soda originally = 250 * 7 / (7+18) = 70 litres. Amount of water = 250 - 70 = 180 litres.\nLet x litres of soda be added: (70 + x) / 180 = \\frac{2}{3} => 210 + 3 x = 360 => 3 x = 150 => x = 50 litres$.",
     "question_image": "",
     "option_images": [
       "",
@@ -496,7 +496,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let third number = 3x. First number = 4x. Second number = 3x + 20.\nSum = 3x + 4x + 3x + 20 = 10x + 20. Also, average * 3 = 120.\n10x + 20 = 120 => 10x = 100 => x = 10.\nSecond number = 3x + 20 = 3(10) + 20 = 50.",
+    "explanation": "Let third number = 3 x. First number = 4 x. Second number = 3 x + 20.\nSum = 3 x + 4 x + 3 x + 20 = 10 x + 20. Also, average * 3 = 120.\n10 x + 20 = 120 => 10 x = 100 => x = 10.\nSecond number = 3 x + 20 = 3(10) + 20 = 50.",
     "question_image": "",
     "option_images": [
       "",
@@ -524,24 +524,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "A sum of Rs 4000 becomes Rs 6000 in 1 year at a certain rate of compound interest. What will be the sum (in Rs) after 4 years?",
+    "question": "A $\\sum$ of Rs 4000 becomes Rs 6000 in 1 year at a certain rate of compound interest. What will be the $\\sum$ (in Rs) after 4 years?",
     "q": "A sum of Rs 4000 becomes Rs 6000 in 1 year at a certain rate of compound interest. What will be the sum (in Rs) after 4 years?",
     "options": [
       {
         "id": "A",
-        "text": "$20249Rs20,250$"
+        "text": "$20249 Rs 20,250$"
       },
       {
         "id": "B",
-        "text": "$20240Rs20,250$"
+        "text": "$20240 Rs 20,250$"
       },
       {
         "id": "C",
-        "text": "Rs20,250"
+        "text": "Rs 20,250"
       },
       {
         "id": "D",
-        "text": "$20248Rs20,250$"
+        "text": "$20248 Rs 20,250$"
       }
     ],
     "correct_option": "C",
@@ -598,7 +598,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let CP of 1st shirt = SP of 2nd shirt = Rs 100x.\nSP of 1st shirt = 100x + 30% of 100x = 130x.\n$Loss on 2nd shirt = 30\\% => SP of 2nd shirt = CP of 2nd shirt * 70\\% => 100x = CP2 * 0.7 => CP2 = 1000x/7.\n$Ratio of SP1 to CP2 = 130x : 1000x/7 = $910:1000$ = $91:100$.",
+    "explanation": "Let CP of 1 st shirt = SP of 2 nd shirt = Rs 100 x.\nSP of 1 st shirt = 100 x + 30% of 100 x = 130 x.\n$Loss on 2 nd shirt = 30\\% => SP of 2 nd shirt = CP of 2 nd shirt * 70\\% => 100 x = CP 2 * 0.7 => CP 2 = 1000 x/7.\n$Ratio of SP 1 to CP 2 = 130 x : 1000 x/7 = $910:1000$ = $91:100$.",
     "question_image": "",
     "option_images": [
       "",
@@ -700,7 +700,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let the number be x. x² - 169 = 7056 => x² = 7225 => x = sqrt(7225) = 85.",
+    "explanation": "Let the number be x. $x^2$ - 169 = 7056 => $x^2$ = 7225 => x = $\\sqrt{7225}$ = 85.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Using D1 * H1 = D2 * H2: 24 * 5 = 8 * H2 => H2 = 120 / 8 = 15 hours$.",
+    "explanation": "$Using D 1 * H 1 = D 2 * H 2: 24 * 5 = 8 * H 2 => H 2 = 120 / 8 = 15 hours$.",
     "question_image": "",
     "option_images": [
       "",
@@ -784,25 +784,25 @@
     "options": [
       {
         "id": "A",
-        "text": "36km/hr"
+        "text": "36 km/hr"
       },
       {
         "id": "B",
-        "text": "$31km/hr$"
+        "text": "$31 km/hr$"
       },
       {
         "id": "C",
-        "text": "$34km/hr$"
+        "text": "$34 km/hr$"
       },
       {
         "id": "D",
-        "text": "$41km/hr$"
+        "text": "$41 km/hr$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Relative speed = (Length of train 1 + Length of train 2) / Time = (120 + 120) / 12 = 20 m/s$.\nSince they are moving in opposite directions with same speed x, 2x = 20 => x = 10 m/s.\n$Speed in km/hr = 10 * \\frac{18}{5} = 36 km/hr$.",
+    "explanation": "$Relative speed = (Length of train 1 + Length of train 2) / Time = (120 + 120) / 12 = 20 m/s$.\nSince they are moving in opposite directions with same speed x, 2 x = 20 => x = 10 m/s.\n$Speed in km/hr = 10 * \\frac{18}{5} = 36 km/hr$.",
     "question_image": "",
     "option_images": [
       "",
@@ -988,19 +988,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$62lakhs$"
+        "text": "$62 lakhs$"
       },
       {
         "id": "B",
-        "text": "$65lakhs$"
+        "text": "$65 lakhs$"
       },
       {
         "id": "C",
-        "text": "60lakhs"
+        "text": "60 lakhs"
       },
       {
         "id": "D",
-        "text": "$70lakhs$"
+        "text": "$70 lakhs$"
       }
     ],
     "correct_option": "C",
@@ -1057,7 +1057,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Area of square = s² = 72.25 cm² => s = 8.5 cm. \n$Perimeter = 4 * s = 4 * 8.5 = 34 cm$.",
+    "explanation": "Area of square = $s^2$ = 72.25 cm^2 => s = 8.5 cm. \n$Perimeter = 4 * s = 4 * 8.5 = 34 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1090,19 +1090,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$111cm$"
+        "text": "$111 cm$"
       },
       {
         "id": "B",
-        "text": "110cm"
+        "text": "110 cm"
       },
       {
         "id": "C",
-        "text": "$120cm$"
+        "text": "$120 cm$"
       },
       {
         "id": "D",
-        "text": "$108cm$"
+        "text": "$108 cm$"
       }
     ],
     "correct_option": "B",
@@ -1141,25 +1141,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$3cm$"
+        "text": "$3 cm$"
       },
       {
         "id": "B",
-        "text": "8cm"
+        "text": "8 cm"
       },
       {
         "id": "C",
-        "text": "$13cm$"
+        "text": "$13 cm$"
       },
       {
         "id": "D",
-        "text": "$18cm$"
+        "text": "$18 cm$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\n$Curved Surface Area = 2 * pi * r * h = 352 => 2 * (\\frac{22}{7}) * 7 * h = 352 => 44h = 352 => h = 8 cm$.",
+    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\n$Curved Surface Area = 2 * pi * r * h = 352 => 2 * (\\frac{22}{7}) * 7 * h = 352 => 44 h = 352 => h = 8 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1196,7 +1196,7 @@
       },
       {
         "id": "B",
-        "text": "(2√3 - √6)/(2√2)"
+        "text": "(2$\\sqrt{3}$ - $\\sqrt{6}$)/(2$\\sqrt{2}$)"
       },
       {
         "id": "C",
@@ -1204,13 +1204,13 @@
       },
       {
         "id": "D",
-        "text": "(2 - √3)/(2√3)"
+        "text": "(2 - $\\sqrt{3}$)/(2$\\sqrt{3}$)"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "In ΔXYZ right-angled at Y, ∠X + ∠Z = 90° => ∠X + 60° = 90° => ∠X = 30°.\n$cot X - \\frac{1}{3} = cot(30°) - \\frac{1}{3} = √3 - \\frac{1}{3} = (3√3 - 1)/3$.",
+    "explanation": "In \\DeltaXYZ right-angled at Y, ∠X + ∠Z = 90$^\\circ$ => ∠X + 60$^\\circ$ = 90$^\\circ$ => ∠X = 30$^\\circ$.\n$cot X - \\frac{1}{3} = cot(30°) - \\frac{1}{3} = √3 - \\frac{1}{3} = (3√3 - 1)/3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$sin P = QR/PR = \\frac{12}{13}. Let QR = 12, PR = 13$.\nUsing Pythagoras: PQ = sqrt(PR² - QR²) = sqrt$(169 - 144) = 5.$ tan R = PQ/QR = \\frac{5}{12}$.$",
+    "explanation": "$sin P = QR/PR = \\frac{12}{13}. Let QR = 12, PR = 13$.\nUsing Pythagoras: PQ = $\\sqrt{PR^2 - QR^2}$ = $\\sqrt{M}$ATHBLOCK1 $\\tan$ R = PQ/QR = $\\frac{5}{12}$$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1720,7 +1720,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Each position is incremented by 1 (+1):\n1st letter: F(+1)->G(+1)->H(+1)->I(+1)->J\n2nd letter: J(+1)->K(+1)->L(+1)->M(+1)->N\nMissing term is 'IM'.",
+    "explanation": "Each position is incremented by 1 (+1):\n1 st letter: F(+1)->G(+1)->H(+1)->I(+1)->J\n2 nd letter: J(+1)->K(+1)->L(+1)->M(+1)->N\nMissing term is 'IM'.",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '$\\div$' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
     "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
     "options": [
       {
@@ -1961,11 +1961,11 @@
       },
       {
         "id": "B",
-        "text": "- and ÷"
+        "text": "- and $\\div$"
       },
       {
         "id": "C",
-        "text": "÷ and +"
+        "text": "$\\div$ and +"
       },
       {
         "id": "D",
@@ -2077,7 +2077,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The list contains 7-letter combinations of 'YXYXYXY' with a 'Z' inserted, which shifts two positions to the left in each subsequent term. In the 6th term, the 'Z' will be at the 3rd position: 'YXZYXYXY'.",
+    "explanation": "The list contains 7-letter combinations of 'YXYXYXY' with a 'Z' inserted, which shifts two positions to the left in each subsequent term. In the 6 th term, the 'Z' will be at the 3 rd position: 'YXZYXYXY'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2281,7 +2281,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The pattern is:\n1st letter: R(+1)->S(+1)->T(+1)->U(+1)->V\n2nd letter: L(+2)->N(+2)->P(+2)->R(+2)->T\n3rd letter: N(+3)->Q(+3)->T(+3)->W(+3)->Z\nMissing term is 'VTZ'.",
+    "explanation": "The pattern is:\n1 st letter: R(+1)->S(+1)->T(+1)->U(+1)->V\n2 nd letter: L(+2)->N(+2)->P(+2)->R(+2)->T\n3 rd letter: N(+3)->Q(+3)->T(+3)->W(+3)->Z\nMissing term is 'VTZ'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2383,7 +2383,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$The relationship format is (x, 5x - 1, 2x - 1). For option A: 2 * 17 - 1 = 33 (not 35), making it the odd one$.",
+    "explanation": "$The relationship format is (x, 5 x - 1, 2 x - 1). For option A: 2 * 17 - 1 = 33 (not 35), making it the odd one$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2564,7 +2564,7 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nA rainbow is cause by reflection, refraction, and dispersion (a)/ of light among water droplets resulting in a (b)/ spectrum of light appearing in the sky. (c)/ No error (d)",
+    "question": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nA rainbow is cause by reflection, re\\fraction, and dispersion (a)/ of light among water droplets resulting in a (b)/ spectrum of light appearing in the sky. (c)/ No error (d)",
     "q": "In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.\n\nA rainbow is cause by reflection, refraction, and dispersion (a)/ of light among water droplets resulting in a (b)/ spectrum of light appearing in the sky. (c)/ No error (d)",
     "options": [
       {
@@ -4196,12 +4196,12 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "What was the theme of the 5th Global Conference on Cyber Space (GCCS), held in November, 2017?",
+    "question": "What was the theme of the 5 th Global Conference on Cyber Space (GCCS), held in November, 2017?",
     "q": "What was the theme of the 5th Global Conference on Cyber Space (GCCS), held in November, 2017?",
     "options": [
       {
         "id": "A",
-        "text": "Cyber4All: AnInclusive, Sustainable, Developmental, Safe and Secure Cyberspace"
+        "text": "Cyber 4 All: AnInclusive, Sustainable, Developmental, Safe and Secure Cyberspace"
       },
       {
         "id": "B",
@@ -4219,7 +4219,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The GCCS 2017 held in New Delhi, India had the theme 'Cyber4All: An Inclusive, Sustainable, Developmental, Safe and Secure Cyberspace'.",
+    "explanation": "The GCCS 2017 held in New Delhi, India had the theme 'Cyber 4 All: An Inclusive, Sustainable, Developmental, Safe and Secure Cyberspace'.",
     "question_image": "",
     "option_images": [
       "",

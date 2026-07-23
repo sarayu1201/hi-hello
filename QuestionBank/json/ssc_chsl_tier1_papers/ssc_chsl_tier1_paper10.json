@@ -37,7 +37,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Among the given options, only the square of 1213 will end in 69 (since 3^2 = 9 and 13^2 = 169). Thus, (1213)^2 = 1471369.",
+    "explanation": "Among the given options, only the square of 1213 will end in 69 (since 3^2 = 9 and 13^2 = 169). Thus, $(1213)^2$ = 1471369.",
     "question_image": "",
     "option_images": [
       "",
@@ -65,7 +65,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Calculate the total numbers of prime factors in the expression (9)^11 * (5)^7 * (7)^5 * (3)^2 * (17)^2",
+    "question": "Calculate the total numbers of prime factors in the expression $(9)^11$ * $(5)^7$ * $(7)^5$ * $(3)^2$ * $(17)^2$",
     "q": "Calculate the total numbers of prime factors in the expression (9)^11 * (5)^7 * (7)^5 * (3)^2 * (17)^2",
     "options": [
       {
@@ -121,19 +121,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$1mx+c,they-interceptis$"
+        "text": "$1 mx+c,they-interceptis$"
       },
       {
         "id": "B",
-        "text": "$12mx+c,they-interceptis$"
+        "text": "$12 mx+c,they-interceptis$"
       },
       {
         "id": "C",
-        "text": "mx+c,they-interceptis2"
+        "text": "mx+c,they-interceptis 2"
       },
       {
         "id": "D",
-        "text": "$4mx+c,they-interceptis$"
+        "text": "$4 mx+c,they-interceptis$"
       }
     ],
     "correct_option": "C",
@@ -167,7 +167,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$The two equations are 4x + 4ky-6=0 and x+6y-12=0. Find the value of k for the pair of two linear equations represents the parallel lines$.",
+    "question": "$The two equations are 4 x + 4 ky-6=0 and x+6 y-12=0. Find the value of k for the pair of two linear equations represents the parallel lines$.",
     "q": "$The two equations are 4x + 4ky-6=0 and x+6y-12=0. Find the value of k for the pair of two linear equations represents the parallel lines$.",
     "options": [
       {
@@ -190,7 +190,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "For parallel lines: a1/a2 = b1/b2 != c1/c2.\n$=> \\frac{4}{1} = 4k/6 => 4k = 24 => k = 6$.",
+    "explanation": "For parallel lines: a 1/a 2 = b 1/b 2 != c 1/c 2.\n$=> \\frac{4}{1} = 4 k/6 => 4 k = 24 => k = 6$.",
     "question_image": "",
     "option_images": [
       "",
@@ -241,7 +241,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^2 + 8^2 = 100 => PB = 10 cm$.\nSince ΔAPB ~ ΔCQB (by AA similarity):\n$AP/CQ = PB/QB => \\frac{6}{3} = 10/QB => QB = 5 cm$.\n$Length of PQ = PB + QB = 10 + 5 = 15 cm$.",
+    "explanation": "$In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^2 + 8^2 = 100 => PB = 10 cm$.\nSince \\DeltaAPB ~ \\DeltaCQB (by AA similarity):\n$AP/CQ = PB/QB => \\frac{6}{3} = 10/QB => QB = 5 cm$.\n$Length of PQ = PB + QB = 10 + 5 = 15 cm$.",
     "question_image": "ssc_chsl_tier1_paper10_q5.png",
     "option_images": [
       "",
@@ -269,24 +269,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The circle of radius 4 cm and centre O has a tangent PR. If ∠POR = 90° and OR = 7 cm and OP = 24 cm. Calculate the length (in cm) of PR.",
+    "question": "The circle of radius 4 cm and centre O has a tangent PR. If ∠POR = 90$^\\circ$ and OR = 7 cm and OP = 24 cm. Calculate the length (in cm) of PR.",
     "q": "The circle of radius 4 cm and centre O has a tangent PR. If ∠POR = 90° and OR = 7 cm and OP = 24 cm. Calculate the length (in cm) of PR.",
     "options": [
       {
         "id": "A",
-        "text": "$26cm$"
+        "text": "$26 cm$"
       },
       {
         "id": "B",
-        "text": "$24cm$"
+        "text": "$24 cm$"
       },
       {
         "id": "C",
-        "text": "25cm"
+        "text": "25 cm"
       },
       {
         "id": "D",
-        "text": "$23cm$"
+        "text": "$23 cm$"
       }
     ],
     "correct_option": "C",
@@ -343,7 +343,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let total votes polled = 100x. Valid votes = 90x. \nWinning candidate gets 70% of 90x = 63x. Losing candidate gets 30% of 90x = 27x. \nDifference = 63x - 27x = 36x = 9000 => x = 250. \n$Total votes polled = 100 * 250 = 25000$.",
+    "explanation": "Let total votes polled = 100 x. Valid votes = 90 x. \nWinning candidate gets 70% of 90 x = 63 x. Losing candidate gets 30% of 90 x = 27 x. \nDifference = 63 x - 27 x = 36 x = 9000 => x = 250. \n$Total votes polled = 100 * 250 = 25000$.",
     "question_image": "",
     "option_images": [
       "",
@@ -394,7 +394,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Let (\\frac{3}{2})X = (\\frac{5}{7})Y = (\\frac{6}{5})Z = k.\n=> X = 2k/3, Y = 7k/5, Z = 5k/6. \n=> X : Y : Z = \\frac{2}{3} : \\frac{7}{5} : \\frac{5}{6}.\nMultiplying by LCM(3, 5, 6) = 30 gives: 20:42 : 25$.",
+    "explanation": "$Let (\\frac{3}{2})X = (\\frac{5}{7})Y = (\\frac{6}{5})Z = k.\n=> X = 2 k/3, Y = 7 k/5, Z = 5 k/6. \n=> X : Y : Z = \\frac{2}{3} : \\frac{7}{5} : \\frac{5}{6}.\nMultiplying by LCM(3, 5, 6) = 30 gives: 20:42 : 25$.",
     "question_image": "",
     "option_images": [
       "",
@@ -524,30 +524,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The difference between simple interest on a certain sum at the rate of 6% per annum for 5 years and 6 years is 25.8. What is the sum (in Rs)?",
+    "question": "The difference between simple interest on a certain $\\sum$ at the rate of 6% per annum for 5 years and 6 years is 25.8. What is the $\\sum$ (in Rs)?",
     "q": "The difference between simple interest on a certain sum at the rate of 6% per annum for 5 years and 6 years is 25.8. What is the sum (in Rs)?",
     "options": [
       {
         "id": "A",
-        "text": "$431Rs$"
+        "text": "$431 Rs$"
       },
       {
         "id": "B",
-        "text": "Rs430"
+        "text": "Rs 430"
       },
       {
         "id": "C",
-        "text": "$429Rs$"
+        "text": "$429 Rs$"
       },
       {
         "id": "D",
-        "text": "$440Rs$"
+        "text": "$440 Rs$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let sum be P. \n$SI for 6 years - SI for 5 years = SI for 1 year = P * 6 * 1 / 100 = 25.8 => 0.06P = 25.8 => P = Rs 430$.",
+    "explanation": "Let $\\sum$ be P. \n$SI for 6 years - SI for 5 years = SI for 1 year = P * 6 * 1 / 100 = 25.8 => 0.06 P = 25.8 => P = Rs 430$.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let marked price of each article = Rs 100.\n$Scheme I: Net discount = 10\\% + 10\\% - (10*10)/100 = 19\\%$.\nScheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = (\\frac{1}{8})*100 = 12.5%.\n$Scheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount \\% = (\\frac{1}{10})*100 = 10\\%$.\nScheme III has the lowest discount percentage.",
+    "explanation": "Let marked price of each article = Rs 100.\n$Scheme I: Net discount = 10\\% + 10\\% - (10*10)/100 = 19\\%$.\nScheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = ($\\frac{1}{8}$)*100 = 12.5%.\n$Scheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount \\% = (\\frac{1}{10})*100 = 10\\%$.\nScheme III has the lowest discount percentage.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$X can complete the full work in 10 * \\frac{7}{5} = 14 days$.\nY can complete the full work in 9 * \\frac{4}{3} = 12 days.\nTogether, 1 day's work = \\frac{1}{14} + \\frac{1}{12} = \\frac{13}{84}.\n$Time taken to complete \\frac{13}{21} of the work = (\\frac{13}{21}) / (\\frac{13}{84}) = 84 / 21 = 4 days$.",
+    "explanation": "$X can complete the full work in 10 * \\frac{7}{5} = 14 days$.\nY can complete the full work in 9 * $\\frac{4}{3}$ = 12 days.\nTogether, 1 day's work = $\\frac{1}{14}$ + $\\frac{1}{12}$ = $\\frac{13}{84}$.\n$Time taken to complete \\frac{13}{21} of the work = (\\frac{13}{21}) / (\\frac{13}{84}) = 84 / 21 = 4 days$.",
     "question_image": "",
     "option_images": [
       "",
@@ -949,7 +949,7 @@
       },
       {
         "id": "D",
-        "text": "50°"
+        "text": "50$^\\circ$"
       }
     ],
     "correct_option": "D",
@@ -988,19 +988,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$265lakhs$"
+        "text": "$265 lakhs$"
       },
       {
         "id": "B",
-        "text": "270lakhs"
+        "text": "270 lakhs"
       },
       {
         "id": "C",
-        "text": "$275lakhs$"
+        "text": "$275 lakhs$"
       },
       {
         "id": "D",
-        "text": "$280lakhs$"
+        "text": "$280 lakhs$"
       }
     ],
     "correct_option": "B",
@@ -1039,19 +1039,19 @@
     "options": [
       {
         "id": "A",
-        "text": "25√3"
+        "text": "25$\\sqrt{3}$"
       },
       {
         "id": "B",
-        "text": "36√3"
+        "text": "36$\\sqrt{3}$"
       },
       {
         "id": "C",
-        "text": "25√2"
+        "text": "25$\\sqrt{2}$"
       },
       {
         "id": "D",
-        "text": "36√2"
+        "text": "36$\\sqrt{2}$"
       }
     ],
     "correct_option": "A",
@@ -1085,30 +1085,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If the measure of the interior angle of a regular polygon is 108° then how many sides does it have?",
+    "question": "If the measure of the interior angle of a regular polygon is 108$^\\circ$ then how many sides does it have?",
     "q": "If the measure of the interior angle of a regular polygon is 108° then how many sides does it have?",
     "options": [
       {
         "id": "A",
-        "text": "$7sides$"
+        "text": "$7 sides$"
       },
       {
         "id": "B",
-        "text": "$10sides$"
+        "text": "$10 sides$"
       },
       {
         "id": "C",
-        "text": "$6sides$"
+        "text": "$6 sides$"
       },
       {
         "id": "D",
-        "text": "5sides"
+        "text": "5 sides"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Interior angle = 108° => Exterior angle = 180° - 108° = 72°.\nNumber of sides = 360° / 72° = 5 sides.",
+    "explanation": "Interior angle = 108$^\\circ$ => Exterior angle = 180$^\\circ$ - 108$^\\circ$ = 72$^\\circ$.\nNumber of sides = 360$^\\circ$ / 72$^\\circ$ = 5 sides.",
     "question_image": "",
     "option_images": [
       "",
@@ -1141,25 +1141,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$8cm$"
+        "text": "$8 cm$"
       },
       {
         "id": "B",
-        "text": "10cm"
+        "text": "10 cm"
       },
       {
         "id": "C",
-        "text": "$15cm$"
+        "text": "$15 cm$"
       },
       {
         "id": "D",
-        "text": "$9cm$"
+        "text": "$9 cm$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \n$Curved Surface Area = 2 * pi * r * h = 660 => 2 * (\\frac{22}{7}) * (\\frac{21}{2}) * h = 660 => 66h = 660 => h = 10 cm$.",
+    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \n$Curved Surface Area = 2 * pi * r * h = 660 => 2 * (\\frac{22}{7}) * (\\frac{21}{2}) * h = 660 => 66 h = 660 => h = 10 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1187,7 +1187,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of (1/√3 + cos 60°)?",
+    "question": "What is the value of (1/$\\sqrt{3}$ + $\\cos$ 60$^\\circ$)?",
     "q": "What is the value of (1/√3 + cos 60°)?",
     "options": [
       {
@@ -1196,7 +1196,7 @@
       },
       {
         "id": "B",
-        "text": "(2 + √3)/2√3"
+        "text": "(2 + $\\sqrt{3}$)/2$\\sqrt{3}$"
       },
       {
         "id": "C",
@@ -1261,7 +1261,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$cos A = AB/AC = \\frac{8}{17}. Let AB = 8, AC = 17$.\nBC = sqrt(AC^2 - AB^2) = sqrt$(289 - 64)$ = sqrt(225) = 15.\ncot C = Adjacent / Opposite = BC / AB = \\frac{15}{8}$.$",
+    "explanation": "$cos A = AB/AC = \\frac{8}{17}. Let AB = 8, AC = 17$.\nBC = $\\sqrt{AC^2 - AB^2}$ = $\\sqrt{M}$ATHBLOCK1 = $\\sqrt{225}$ = 15.\ncot C = Adjacent / Opposite = BC / AB = $\\frac{15}{8}$$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1298,7 +1298,7 @@
       },
       {
         "id": "B",
-        "text": "Mountain : K2"
+        "text": "Mountain : K 2"
       },
       {
         "id": "C",
@@ -1312,7 +1312,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Krishna is a river. Similarly, K2 is a mountain. So Mountain : K2 is the correct analogy.",
+    "explanation": "Krishna is a river. Similarly, K 2 is a mountain. So Mountain : K 2 is the correct analogy.",
     "question_image": "",
     "option_images": [
       "",
@@ -1753,25 +1753,25 @@
     "options": [
       {
         "id": "A",
-        "text": "3√33, North-West"
+        "text": "3$\\sqrt{33}$, North-West"
       },
       {
         "id": "B",
-        "text": "2√89, North-West"
+        "text": "2$\\sqrt{89}$, North-West"
       },
       {
         "id": "C",
-        "text": "3√33, North-East"
+        "text": "3$\\sqrt{33}$, North-East"
       },
       {
         "id": "D",
-        "text": "2√89, North-East"
+        "text": "2$\\sqrt{89}$, North-East"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let point K be (0,0). \nAfter reaching K, Ganga turns left (North) 16km to L (0, 16). Then turns left (West) 10km to stop at M (-10, 16).\n$Distance KM = sqrt((-10)^2 + 16^2) = sqrt(100 + 256) = sqrt(356) = 2√89 km$.\nDirection of M with respect to K is North-West.",
+    "explanation": "Let point K be (0,0). \nAfter reaching K, Ganga turns left (North) 16 km to L (0, 16). Then turns left (West) 10 km to stop at M (-10, 16).\n$Distance KM = sqrt((-10)^2 + 16^2) = sqrt(100 + 256) = sqrt(356) = 2√89 km$.\nDirection of M with respect to K is North-West.",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div (5 - 10 + 10 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div (5 - 10 + 10 = ?$",
     "q": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div (5 - 10 + 10 = ?$",
     "options": [
       {
@@ -1957,11 +1957,11 @@
     "options": [
       {
         "id": "A",
-        "text": "- and ÷"
+        "text": "- and $\\div$"
       },
       {
         "id": "B",
-        "text": "÷ and x"
+        "text": "$\\div$ and x"
       },
       {
         "id": "C",
@@ -2077,7 +2077,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The pair of consecutive 'Z's starts at the end and shifts one place to the left in each subsequent term. In the 6th term, the 'ZZ' will be at the second and third positions: XZZYXYXY.",
+    "explanation": "The pair of consecutive 'Z's starts at the end and shifts one place to the left in each subsequent term. In the 6 th term, the 'ZZ' will be at the second and third positions: XZZYXYXY.",
     "question_image": "",
     "option_images": [
       "",
@@ -2128,7 +2128,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "A starts at (0,0), goes 3.5km West -> (-3.5, 0), turns right (North) 7km -> (-3.5, 7).\nB starts at (0,0), goes 1km East -> (1, 0), turns North 7km -> (1, 7), turns left (West) 2km -> (-1, 7).\nB's position relative to A is -1 - (-3.5) = 2.5 km East.",
+    "explanation": "A starts at (0,0), goes 3.5 km West -> (-3.5, 0), turns right (North) 7 km -> (-3.5, 7).\nB starts at (0,0), goes 1 km East -> (1, 0), turns North 7 km -> (1, 7), turns left (West) 2 km -> (-1, 7).\nB's position relative to A is -1 - (-3.5) = 2.5 km East.",
     "question_image": "",
     "option_images": [
       "",
@@ -2281,7 +2281,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The pattern followed is decrementing each letter by 4 (-4):\n1st letter: D(-4)->Z(-4)->V(-4)->R(-4)->N\n2nd letter: E(-4)->A(-4)->W(-4)->S(-4)->O\n3rd letter: W(-4)->S(-4)->O(-4)->K(-4)->G\nThus, missing term is NOG.",
+    "explanation": "The pattern followed is decrementing each letter by 4 (-4):\n1 st letter: D(-4)->Z(-4)->V(-4)->R(-4)->N\n2 nd letter: E(-4)->A(-4)->W(-4)->S(-4)->O\n3 rd letter: W(-4)->S(-4)->O(-4)->K(-4)->G\nThus, missing term is NOG.",
     "question_image": "",
     "option_images": [
       "",
@@ -4474,7 +4474,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The Tenth Schedule (added by 52nd Amendment in 1985) contains the Anti-Defection Law.",
+    "explanation": "The Tenth Schedule (added by 52 nd Amendment in 1985) contains the Anti-Defection Law.",
     "question_image": "",
     "option_images": [
       "",
@@ -4859,7 +4859,7 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "Due to an acceleration of 1 m/s^2 the velocity of a body increases from 5 m/s to 10 m/s in a certain period. Find the displacement (in m) of the body in that period.",
+    "question": "Due to an acceleration of 1 m/$s^2$ the velocity of a body increases from 5 m/s to 10 m/s in a certain period. Find the displacement (in m) of the body in that period.",
     "q": "Due to an acceleration of 1 m/s^2 the velocity of a body increases from 5 m/s to 10 m/s in a certain period. Find the displacement (in m) of the body in that period.",
     "options": [
       {
@@ -4882,7 +4882,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Using equation: v^2 - u^2 = 2as => 10^2 - 5^2 = 2 * 1 * s => 100 - 25 = 2s => s = 37.5 meters$.",
+    "explanation": "$Using equation: v^2 - u^2 = 2 as => 10^2 - 5^2 = 2 * 1 * s => 100 - 25 = 2 s => s = 37.5 meters$.",
     "question_image": "",
     "option_images": [
       "",

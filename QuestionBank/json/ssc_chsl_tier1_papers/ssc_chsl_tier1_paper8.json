@@ -65,7 +65,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If (2x+3y)/(3x-4y) = \\frac{11}{7}, then the value of x/y is _______$",
+    "question": "$If (2 x+3 y)/(3 x-4 y) = \\frac{11}{7}, then the value of x/y is _______$",
     "q": "$If (2x+3y)/(3x-4y) = \\frac{11}{7}, then the value of x/y is _______$",
     "options": [
       {
@@ -88,7 +88,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$7(2x + 3y) = 11(3x - 4y) => 14x + 21y = 33x - 44y => 19x = 65y => x/y = \\frac{65}{19}$.",
+    "explanation": "$7(2 x + 3 y) = 11(3 x - 4 y) => 14 x + 21 y = 33 x - 44 y => 19 x = 65 y => x/y = \\frac{65}{19}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -116,7 +116,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Find the value of sqrt((2x - 5)^2) + 2*sqrt((x - 1)^2), if 1 < x < 2",
+    "question": "Find the value of $\\sqrt{(2 x - 5)^2}$ + 2*$\\sqrt{(x - 1)^2}$, if 1 < x < 2",
     "q": "Find the value of sqrt((2x - 5)^2) + 2*sqrt((x - 1)^2), if 1 < x < 2",
     "options": [
       {
@@ -139,7 +139,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Since 1 < x < 2, 2x - 5 is negative, so sqrt((2x-5)^2) = $5 - 2$x.\nx - 1 is positive, so sqrt((x-1)^2) = x - 1.\nExpression = $5 - 2$x + 2(x - 1) = $5 - 2$x + 2x - 2 = 3.",
+    "explanation": "Since 1 < x < 2, 2 x - 5 is negative, so $\\sqrt{(2 x-5)^2}$ = $5 - 2$x.\nx - 1 is positive, so $\\sqrt{(x-1)^2}$ = x - 1.\nExpression = $5 - 2$x + 2(x - 1) = $5 - 2$x + 2 x - 2 = 3.",
     "question_image": "",
     "option_images": [
       "",
@@ -167,7 +167,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The pair of equations are 7x+8ky-16=0 and 14x+112y-21=0. Find the value of ‘k’ for which the system is inconsistent.",
+    "question": "The pair of equations are 7 x+8 ky-16=0 and 14 x+112 y-21=0. Find the value of ‘k’ for which the system is inconsistent.",
     "q": "The pair of equations are 7x+8ky-16=0 and 14x+112y-21=0. Find the value of ‘k’ for which the system is inconsistent.",
     "options": [
       {
@@ -190,7 +190,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "For inconsistency (no solution): a1/a2 = b1/b2 != c1/c2.\n$=> \\frac{7}{14} = 8k/112$\n$=> \\frac{1}{2} = k/14 => k = 7$.",
+    "explanation": "For inconsistency (no solution): a 1/a 2 = b 1/b 2 != c 1/c 2.\n$=> \\frac{7}{14} = 8 k/112$\n$=> \\frac{1}{2} = k/14 => k = 7$.",
     "question_image": "",
     "option_images": [
       "",
@@ -218,30 +218,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Calculate the angle BAC if the angle BIC = 125° and 'I' be the in-center of the triangle?",
+    "question": "Calculate the angle BAC if the angle BIC = 125$^\\circ$ and 'I' be the in-center of the triangle?",
     "q": "Calculate the angle BAC if the angle BIC = 125° and 'I' be the in-center of the triangle?",
     "options": [
       {
         "id": "A",
-        "text": "50°"
+        "text": "50$^\\circ$"
       },
       {
         "id": "B",
-        "text": "60°"
+        "text": "60$^\\circ$"
       },
       {
         "id": "C",
-        "text": "70°"
+        "text": "70$^\\circ$"
       },
       {
         "id": "D",
-        "text": "80°"
+        "text": "80$^\\circ$"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Incentre angle BIC = 90° + A/2\n=> 125° = 90° + A/2\n=> A/2 = 35° => A = 70°.",
+    "explanation": "Incentre angle BIC = 90$^\\circ$ + A/2\n=> 125$^\\circ$ = 90$^\\circ$ + A/2\n=> A/2 = 35$^\\circ$ => A = 70$^\\circ$.",
     "question_image": "ssc_chsl_tier1_paper8_q5.png",
     "option_images": [
       "",
@@ -325,25 +325,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$2522Rs$"
+        "text": "$2522 Rs$"
       },
       {
         "id": "B",
-        "text": "Rs2520"
+        "text": "Rs 2520"
       },
       {
         "id": "C",
-        "text": "$2521Rs$"
+        "text": "$2521 Rs$"
       },
       {
         "id": "D",
-        "text": "$2518Rs$"
+        "text": "$2518 Rs$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let C = 100x. Then B = 140x, and A = 3 * 140x = 420x$.\nAverage = (100x + 140x + 420x) / 3 = 220x.\nGiven average is Rs 1320 => 220x = 1320 => x = 6.\n$Amount A has = 420 * 6 = Rs 2520$.",
+    "explanation": "$Let C = 100 x. Then B = 140 x, and A = 3 * 140 x = 420 x$.\nAverage = (100 x + 140 x + 420 x) / 3 = 220 x.\nGiven average is Rs 1320 => 220 x = 1320 => x = 6.\n$Amount A has = 420 * 6 = Rs 2520$.",
     "question_image": "",
     "option_images": [
       "",
@@ -445,7 +445,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let quantity mixed be x and y.\n$13x + 7y = 9(x + y) => 4x = 2y => x/y = \\frac{1}{2}$.\n$Required ratio = 1:2$.",
+    "explanation": "Let quantity mixed be x and y.\n$13 x + 7 y = 9(x + y) => 4 x = 2 y => x/y = \\frac{1}{2}$.\n$Required ratio = 1:2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -529,25 +529,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$82Rs$"
+        "text": "$82 Rs$"
       },
       {
         "id": "B",
-        "text": "$83Rs$"
+        "text": "$83 Rs$"
       },
       {
         "id": "C",
-        "text": "Rs81"
+        "text": "Rs 81"
       },
       {
         "id": "D",
-        "text": "$71Rs$"
+        "text": "$71 Rs$"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * (1.09)^2 = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\n$Amount annually = 10000 * 1.18 = Rs 11800$.\nDifference = $11881 - 11800$ = Rs 81.",
+    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * $(1.09)^2$ = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\n$Amount annually = 10000 * 1.18 = Rs 11800$.\nDifference = $11881 - 11800$ = Rs 81.",
     "question_image": "",
     "option_images": [
       "",
@@ -631,19 +631,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Rs385"
+        "text": "Rs 385"
       },
       {
         "id": "B",
-        "text": "$375Rs$"
+        "text": "$375 Rs$"
       },
       {
         "id": "C",
-        "text": "$390Rs$"
+        "text": "$390 Rs$"
       },
       {
         "id": "D",
-        "text": "$384Rs$"
+        "text": "$384 Rs$"
       }
     ],
     "correct_option": "A",
@@ -700,7 +700,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Rationalize: (3-2√2)(3-2√2) / ((3+2√2)(3-2√2)) = (3-2√2)^2 / (9-8) = (3-2√2)^2$.\nSquare root = $3 - 2$√2.",
+    "explanation": "$Rationalize: (3-2√2)(3-2√2) / ((3+2√2)(3-2√2)) = (3-2√2)^2 / (9-8) = (3-2√2)^2$.\nSquare root = $3 - 2$$\\sqrt{2}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let original men = x.\nx * 10 = (x + 3) * 8\n=> 10x = 8x + 24 => 2x = 24 => x = 12.",
+    "explanation": "Let original men = x.\nx * 10 = (x + 3) * 8\n=> 10 x = 8 x + 24 => 2 x = 24 => x = 12.",
     "question_image": "",
     "option_images": [
       "",
@@ -784,19 +784,19 @@
     "options": [
       {
         "id": "A",
-        "text": "1km/hr"
+        "text": "1 km/hr"
       },
       {
         "id": "B",
-        "text": "$3km/hr$"
+        "text": "$3 km/hr$"
       },
       {
         "id": "C",
-        "text": "$11km/hr$"
+        "text": "$11 km/hr$"
       },
       {
         "id": "D",
-        "text": "$6km/hr$"
+        "text": "$6 km/hr$"
       }
     ],
     "correct_option": "A",
@@ -945,7 +945,7 @@
       },
       {
         "id": "C",
-        "text": "36°"
+        "text": "36$^\\circ$"
       },
       {
         "id": "D",
@@ -988,19 +988,19 @@
     "options": [
       {
         "id": "A",
-        "text": "200(in1000sqkm)"
+        "text": "200(in 1000 sqkm)"
       },
       {
         "id": "B",
-        "text": "$2000999200(in1000sqkm)$"
+        "text": "$2000999200(in 1000 sqkm)$"
       },
       {
         "id": "C",
-        "text": "$2001001200(in1000sqkm)$"
+        "text": "$2001001200(in 1000 sqkm)$"
       },
       {
         "id": "D",
-        "text": "$2000995200(in1000sqkm)$"
+        "text": "$2000995200(in 1000 sqkm)$"
       }
     ],
     "correct_option": "A",
@@ -1034,24 +1034,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The area of an equilateral triangle is 36√3 cm^2. Find its side (in cm).",
+    "question": "The area of an equilateral triangle is 36$\\sqrt{3}$ cm^2. Find its side (in cm).",
     "q": "The area of an equilateral triangle is 36√3 cm^2. Find its side (in cm).",
     "options": [
       {
         "id": "A",
-        "text": "$11cm$"
+        "text": "$11 cm$"
       },
       {
         "id": "B",
-        "text": "$7cm$"
+        "text": "$7 cm$"
       },
       {
         "id": "C",
-        "text": "12cm"
+        "text": "12 cm"
       },
       {
         "id": "D",
-        "text": "$14cm$"
+        "text": "$14 cm$"
       }
     ],
     "correct_option": "C",
@@ -1085,30 +1085,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If the sum of the interior angles of a regular polygon is 540° then how many sides does it have?",
+    "question": "If the $\\sum$ of the interior angles of a regular polygon is 540$^\\circ$ then how many sides does it have?",
     "q": "If the sum of the interior angles of a regular polygon is 540° then how many sides does it have?",
     "options": [
       {
         "id": "A",
-        "text": "$4sides$"
+        "text": "$4 sides$"
       },
       {
         "id": "B",
-        "text": "$15sides$"
+        "text": "$15 sides$"
       },
       {
         "id": "C",
-        "text": "5sides"
+        "text": "5 sides"
       },
       {
         "id": "D",
-        "text": "$10sides$"
+        "text": "$10 sides$"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Sum of interior angles = (n - 2) * 180° = 540° => n - 2 = 3 => n = 5 sides.",
+    "explanation": "Sum of interior angles = (n - 2) * 180$^\\circ$ = 540$^\\circ$ => n - 2 = 3 => n = 5 sides.",
     "question_image": "",
     "option_images": [
       "",
@@ -1141,25 +1141,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$16cm$"
+        "text": "$16 cm$"
       },
       {
         "id": "B",
-        "text": "$5cm$"
+        "text": "$5 cm$"
       },
       {
         "id": "C",
-        "text": "$8cm$"
+        "text": "$8 cm$"
       },
       {
         "id": "D",
-        "text": "6cm"
+        "text": "6 cm"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Diameter = 7 cm => Radius r = 3.5 cm.\n$Curved Surface Area = 2 * pi * r * h = 132 => 2 * (\\frac{22}{7}) * (\\frac{7}{2}) * h = 132 => 22h = 132 => h = 6 cm$.",
+    "explanation": "Diameter = 7 cm => Radius r = 3.5 cm.\n$Curved Surface Area = 2 * pi * r * h = 132 => 2 * (\\frac{22}{7}) * (\\frac{7}{2}) * h = 132 => 22 h = 132 => h = 6 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1192,15 +1192,15 @@
     "options": [
       {
         "id": "A",
-        "text": "(2 + √3)/2"
+        "text": "(2 + $\\sqrt{3}$)/2"
       },
       {
         "id": "B",
-        "text": "(2√2 + √3)/2"
+        "text": "(2$\\sqrt{2}$ + $\\sqrt{3}$)/2"
       },
       {
         "id": "C",
-        "text": "1 + √3"
+        "text": "1 + $\\sqrt{3}$"
       },
       {
         "id": "D",
@@ -1210,7 +1210,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "In ΔXYZ right-angled at Y, ∠Z = 90° - ∠X = 90° - 30° = 60°.\n$cos Z + \\frac{1}{3} = cos(60°) + \\frac{1}{3} = \\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}$.",
+    "explanation": "In \\DeltaXYZ right-angled at Y, ∠Z = 90$^\\circ$ - ∠X = 90$^\\circ$ - 30$^\\circ$ = 60$^\\circ$.\n$cos Z + \\frac{1}{3} = cos(60°) + \\frac{1}{3} = \\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1238,7 +1238,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$In ΔXYZ measure of angle Y is 90°. If tanX = \\frac{15}{8}, and XY = 16cm, then what is the length (in cm) of side YZ?$",
+    "question": "$In ΔXYZ measure of angle Y is 90°. If tanX = \\frac{15}{8}, and XY = 16 cm, then what is the length (in cm) of side YZ?$",
     "q": "$In ΔXYZ measure of angle Y is 90°. If tanX = \\frac{15}{8}, and XY = 16cm, then what is the length (in cm) of side YZ?$",
     "options": [
       {
@@ -1363,7 +1363,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$The numbers are of the form n : 2.5n. 54 * 2.5 = 135. Similarly, 32 * 2.5 = 80$.",
+    "explanation": "$The numbers are of the form n : 2.5 n. 54 * 2.5 = 135. Similarly, 32 * 2.5 = 80$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1753,19 +1753,19 @@
     "options": [
       {
         "id": "A",
-        "text": "13√2"
+        "text": "13$\\sqrt{2}$"
       },
       {
         "id": "B",
-        "text": "14√4"
+        "text": "14$\\sqrt{4}$"
       },
       {
         "id": "C",
-        "text": "4√2"
+        "text": "4$\\sqrt{2}$"
       },
       {
         "id": "D",
-        "text": "11√2"
+        "text": "11$\\sqrt{2}$"
       }
     ],
     "correct_option": "A",
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$(16 - 2 + 35 x 20 \\div 2 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$(16 - 2 + 35 x 20 \\div 2 = ?$",
     "q": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$(16 - 2 + 35 x 20 \\div 2 = ?$",
     "options": [
       {
@@ -1961,7 +1961,7 @@
       },
       {
         "id": "B",
-        "text": "÷ and x"
+        "text": "$\\div$ and x"
       },
       {
         "id": "C",
@@ -1969,7 +1969,7 @@
       },
       {
         "id": "D",
-        "text": "- and ÷"
+        "text": "- and $\\div$"
       }
     ],
     "correct_option": "A",
@@ -2281,7 +2281,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The pattern followed is:\n1st letter: U(-4)->Q(-4)->M(-4)->I(-4)->E\n2nd letter: P(-4)->L(-4)->H(-4)->D(-4)->Z\n3rd letter: Y(-4)->U(-4)->Q(-4)->M(-4)->I\nMissing term is 'EZI'.",
+    "explanation": "The pattern followed is:\n1 st letter: U(-4)->Q(-4)->M(-4)->I(-4)->E\n2 nd letter: P(-4)->L(-4)->H(-4)->D(-4)->Z\n3 rd letter: Y(-4)->U(-4)->Q(-4)->M(-4)->I\nMissing term is 'EZI'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2383,7 +2383,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The relationship format is (x, 3x - 1, 5x - 1). For option C: 3 * 19 - 1 = 56 (not 57), making it the odd one$.",
+    "explanation": "$The relationship format is (x, 3 x - 1, 5 x - 1). For option C: 3 * 19 - 1 = 56 (not 57), making it the odd one$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4099,25 +4099,25 @@
     "options": [
       {
         "id": "A",
-        "text": "6° 4 N"
+        "text": "6$^\\circ$ 4 N"
       },
       {
         "id": "B",
-        "text": "7° 4 N"
+        "text": "7$^\\circ$ 4 N"
       },
       {
         "id": "C",
-        "text": "8° 4 N"
+        "text": "8$^\\circ$ 4 N"
       },
       {
         "id": "D",
-        "text": "6° 8 N"
+        "text": "6$^\\circ$ 8 N"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The southern boundary of mainland India is at Kanyakumari, located at 8° 4' N latitude.",
+    "explanation": "The southern boundary of mainland India is at Kanyakumari, located at 8$^\\circ$ 4' N latitude.",
     "question_image": "",
     "option_images": [
       "",
@@ -4358,15 +4358,15 @@
       },
       {
         "id": "B",
-        "text": "H2SO4 has same equivalent weight and molecular weight."
+        "text": "H 2 SO 4 has same equivalent weight and molecular weight."
       },
       {
         "id": "C",
-        "text": "CaCl2 has same equivalent weight and molecular weight."
+        "text": "CaCl 2 has same equivalent weight and molecular weight."
       },
       {
         "id": "D",
-        "text": "Na2SO4 has same equivalent weight and molecular weight"
+        "text": "Na 2 SO 4 has same equivalent weight and molecular weight"
       }
     ],
     "correct_option": "A",
@@ -4655,7 +4655,7 @@
     "subject": "General Awareness",
     "section": "General Awareness",
     "category": "SSC Exams",
-    "question": "Where was the India’s first ‘All India Institute of Ayurveda (AIIA)’ inaugurated on ‘Ayurveda Day’, 17th October 2017?",
+    "question": "Where was the India’s first ‘All India Institute of Ayurveda (AIIA)’ inaugurated on ‘Ayurveda Day’, 17 th October 2017?",
     "q": "Where was the India’s first ‘All India Institute of Ayurveda (AIIA)’ inaugurated on ‘Ayurveda Day’, 17th October 2017?",
     "options": [
       {
@@ -4864,19 +4864,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$143Joules$"
+        "text": "$143 Joules$"
       },
       {
         "id": "B",
-        "text": "144Joules"
+        "text": "144 Joules"
       },
       {
         "id": "C",
-        "text": "$145Joules$"
+        "text": "$145 Joules$"
       },
       {
         "id": "D",
-        "text": "$154Joules$"
+        "text": "$154 Joules$"
       }
     ],
     "correct_option": "B",

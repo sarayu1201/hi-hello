@@ -258,16 +258,16 @@ def normalize_math_commands(text):
     # Normalize command prefixes missing backslashes
     text = re.sub(r'(?<!\\)sqrt', r'\\sqrt', text)
     text = re.sub(r'(?<!\\)frac', r'\\frac', text)
-    text = re.sub(r'(?<!\\)pi\b', r'\\pi', text)
-    text = re.sub(r'(?<!\\)sum\b', r'\\sum', text)
-    text = re.sub(r'(?<!\\)int\b', r'\\int', text)
-    text = re.sub(r'(?<!\\)le\b', r'\\le', text)
-    text = re.sub(r'(?<!\\)ge\b', r'\\ge', text)
-    text = re.sub(r'(?<!\\)sin\b', r'\\sin', text)
-    text = re.sub(r'(?<!\\)cos\b', r'\\cos', text)
-    text = re.sub(r'(?<!\\)tan\b', r'\\tan', text)
-    text = re.sub(r'(?<!\\)log\b', r'\\log', text)
-    text = re.sub(r'(?<!\\)ln\b', r'\\ln', text)
+    text = re.sub(r'\b(?<!\\)pi\b', r'\\pi', text)
+    text = re.sub(r'\b(?<!\\)sum\b', r'\\sum', text)
+    text = re.sub(r'\b(?<!\\)int\b', r'\\int', text)
+    text = re.sub(r'\b(?<!\\)le\b', r'\\le', text)
+    text = re.sub(r'\b(?<!\\)ge\b', r'\\ge', text)
+    text = re.sub(r'\b(?<!\\)sin\b', r'\\sin', text)
+    text = re.sub(r'\b(?<!\\)cos\b', r'\\cos', text)
+    text = re.sub(r'\b(?<!\\)tan\b', r'\\tan', text)
+    text = re.sub(r'\b(?<!\\)log\b', r'\\log', text)
+    text = re.sub(r'\b(?<!\\)ln\b', r'\\ln', text)
     return text
 
 def normalize_roots_recursive(text):
@@ -417,7 +417,42 @@ def wrap_latex_commands(text):
 def to_latex(text):
     if not text:
         return ""
+
+    # Clean unescaped dollar signs inside LaTeX math blocks
+    parts = []
+    idx = 0
+    while idx < len(text):
+        open_idx = text.find("\\(", idx)
+        open_bracket_idx = text.find("\\[", idx)
         
+        first_open = -1
+        close_delim = ""
+        if open_idx != -1 and (open_bracket_idx == -1 or open_idx < open_bracket_idx):
+            first_open = open_idx
+            close_delim = "\\)"
+        elif open_bracket_idx != -1:
+            first_open = open_bracket_idx
+            close_delim = "\\]"
+            
+        if first_open == -1:
+            parts.append(text[idx:])
+            break
+            
+        parts.append(text[idx:first_open])
+        
+        close_idx = text.find(close_delim, first_open + 2)
+        if close_idx == -1:
+            block_content = text[first_open:].replace('$', '')
+            parts.append(block_content)
+            break
+            
+        block_content = text[first_open:close_idx + 2].replace('$', '')
+        parts.append(block_content)
+        idx = close_idx + 2
+        
+    text = "".join(parts)
+    
+    
     # Phase 0: Delimiter Normalization (Convert escaped and parenthesis OCR math delimiters to $)
     text = re.sub(r'\\\$[\s*([{\s]*', r'$', text)
     text = re.sub(r'\\\([\s*([{\s]*', r'$', text)

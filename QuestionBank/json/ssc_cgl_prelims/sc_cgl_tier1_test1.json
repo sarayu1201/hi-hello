@@ -343,7 +343,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Comparing the words alphabetically gives the order: Manifest → Merchant → Meridian → Meticulous. Therefore the correct sequence is$1,4,3,2$.",
+    "explanation": "Comparing the words alphabetically gives the order: Manifest $\\rightarrow$ Merchant $\\rightarrow$ Meridian $\\rightarrow$ Meticulous. Therefore the correct sequence is$1,4,3,2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "From the given coding example FRIEND → HUMJTK, each letter is transformed according to the pattern illustrated in the original figure. Applying the same transformation to CANDLE results in EDRIRL.",
+    "explanation": "From the given coding example FRIEND $\\rightarrow$ HUMJTK, each letter is transformed according to the pattern illustrated in the original figure. Applying the same transformation to CANDLE results in EDRIRL.",
     "question_image": "q13.png",
     "option_images": [
       "",
@@ -677,7 +677,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "$If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of14 \\times3 - 12 + 4div 2represented by the expression 14C3A12E4D2$.",
+    "question": "$If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of 14 \\times 3 - 12 + 4 div 2 represented by the expression 14 C 3 A 12 E 4 D 2$.",
     "q": "$If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of14 \\times3 - 12 + 4div 2represented by the expression 14C3A12E4D2$.",
     "options": [
       {
@@ -700,7 +700,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Replace the symbols according to the given meanings.\n$14C3A12E4D2 =14 \\times 3−12 + 4div 2 = 42−12 + 2 = 32$.",
+    "explanation": "Replace the symbols according to the given meanings.\n$14 C 3 A 12 E 4 D 2 =14 \\times 3−12 + 4 div 2 = 42−12 + 2 = 32$.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n$879 →(7 + 9)− 8 = 8$\n625 →$(2 + 5)$− 6 = 1\n586 →$(8 + 6)$− 5 = 9\n$785 →(8 + 5)− 7 = 6$.",
+    "explanation": "The coded value is obtained by subtracting the first digit from the $\\sum$ of the last two digits.\n$879 →(7 + 9)− 8 = 8$\n625 \\rightarrow$(2 + 5)$− 6 = 1\n586 \\rightarrow$(8 + 6)$− 5 = 9\n$785 →(8 + 5)− 7 = 6$.",
     "question_image": "",
     "option_images": [
       "",
@@ -802,7 +802,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.(8 + 7)times 6 = 90(7 + 6)times 5 = 65(6 + 5)times 4 = 44Hence, the missing number is 44$.",
+    "explanation": "$In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.(8 + 7)times 6 = 90(7 + 6)times 5 = 65(6 + 5)times 4 = 44 Hence, the missing number is 44$.",
     "question_image": "q16.png",
     "option_images": [
       "",
@@ -1312,7 +1312,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Nitrous oxide ($N_2O$), commonly known as laughing gas, is a chemical compound used in dentistry and surgery for its anesthetic and analgesic effects.",
+    "explanation": "Nitrous oxide ($N_2 O$), commonly known as laughing gas, is a chemical compound used in dentistry and surgery for its anesthetic and analgesic effects.",
     "question_image": "",
     "option_images": [
       "",
@@ -2063,11 +2063,11 @@
       },
       {
         "id": "B",
-        "text": "Nitrous Oxide (N₂O)"
+        "text": "Nitrous Oxide ($N_2O$)"
       },
       {
         "id": "C",
-        "text": "Carbon Dioxide (CO₂)"
+        "text": "Carbon Dioxide (CO_2)"
       },
       {
         "id": "D",
@@ -2077,7 +2077,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Nitrous oxide (N₂O), commonly known as laughing gas, is widely used as an inhalation anaesthetic and analgesic in medical and dental procedures.",
+    "explanation": "Nitrous oxide ($N_2O$), commonly known as laughing gas, is widely used as an inhalation anaesthetic and analgesic in medical and dental procedures.",
     "question_image": "",
     "option_images": [
       "",
@@ -2615,7 +2615,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Intriangle ABC, the heightCDintersectsABatD. The midpoints ofABandBCarePandQrespectively. IfAD = 8cm andCD = 6cm, then find the length ofPQ$.",
+    "question": "$Intriangle ABC, the heightCDintersectsABatD. The midpoints ofABandBCarePandQrespectively. IfAD = 8 cm andCD = 6 cm, then find the length ofPQ$.",
     "q": "$Intriangle ABC, the heightCDintersectsABatD. The midpoints ofABandBCarePandQrespectively. IfAD = 8cm andCD = 6cm, then find the length ofPQ$.",
     "options": [
       {
@@ -2638,7 +2638,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Using Pythagoras theorem,AC = \\sqrt{8^2+6^2}=10cm. The line joining the midpoints of two sides of a triangle is parallel to the third side and equal to half of its length. Therefore,PQ=\\frac{AC}{2}=\\frac{10}{2}=5cm$.",
+    "explanation": "$Using Pythagoras theorem,AC = \\sqrt{8^2+6^2}=10 cm. The line joining the midpoints of two sides of a triangle is parallel to the third side and equal to half of its length. Therefore,PQ=\\frac{AC}{2}=\\frac{10}{2}=5 cm$.",
     "question_image": "q52.png",
     "option_images": [
       "",
@@ -2740,7 +2740,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Let the cost price bex. Thenfrac{78-x}{x}=2\\times\\frac{69-x}{x}. Solving gives78-x=138-2x, hencex=60. Therefore, the cost price is Rs. 60$.",
+    "explanation": "$Let the cost price bex. Thenfrac{78-x}{x}=2\\times\\frac{69-x}{x}. Solving gives 78-x=138-2 x, hencex=60. Therefore, the cost price is Rs. 60$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2791,7 +2791,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Let the total population bex. Then14\\%ofxequals 574. Hence,x=\\frac{574\\times100}{14}=4100$.",
+    "explanation": "$Let the total population bex. Then 14\\%ofxequals 574. Hence,x=\\frac{574\\times 100}{14}=4100$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2842,7 +2842,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Speed =\\frac{240}{16}=15m/s. Converting to km/hr:15\\times\\frac{18}{5}=54km/hr$.",
+    "explanation": "$Speed =\\frac{240}{16}=15 m/s. Converting to km/hr:15\\times\\frac{18}{5}=54 km/hr$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2921,7 +2921,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Ifx+3y=-3x+y, then find the value offrac{x^2}{2y^2}$.",
+    "question": "$Ifx+3 y=-3 x+y, then find the value offrac{x^2}{2 y^2}$.",
     "q": "$Ifx+3y=-3x+y, then find the value offrac{x^2}{2y^2}$.",
     "options": [
       {
@@ -2944,7 +2944,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Fromx+3y=-3x+y, we get4x=-2y, sox=-\\frac{y}{2}. Therefore,\\frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}$.",
+    "explanation": "$Fromx+3 y=-3 x+y, we get 4 x=-2 y, sox=-\\frac{y}{2}. Therefore,\\frac{x^2}{2 y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2 y^2}=\\frac{1}{8}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2995,7 +2995,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The angle between two tangents drawn from an external point is equal to180^\\circminus the angle subtended by the chord at the centre. Hence,180^\\circ-72^\\circ=108^\\circ$.",
+    "explanation": "$The angle between two tangents drawn from an external point is equal to 180^\\circminus the angle subtended by the chord at the centre. Hence,180^\\circ-72^\\circ=108^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3046,7 +3046,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "A triangle is possible only if the sum of any two sides is greater than the third side. Only the lengths 8 cm, 15 cm and 17 cm satisfy the triangle inequality.",
+    "explanation": "A triangle is possible only if the $\\sum$ of any two sides is greater than the third side. Only the lengths 8 cm, 15 cm and 17 cm satisfy the triangle inequality.",
     "question_image": "",
     "option_images": [
       "",
@@ -3097,7 +3097,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Fromsin\\theta+\\frac{1}{\\sin\\theta}=2, we obtainsin\\theta=1. Therefore,sin^{-7}\\theta=1andcsc^{7}\\theta=1, giving a total value of 2$.",
+    "explanation": "$Fromsin\\theta+\\frac{1}{\\sin\\theta}=2, we obtainsin\\theta=1. Therefore,sin^{-7}\\theta=1 andcsc^{7}\\theta=1, giving a total value of 2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3148,7 +3148,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Let cows bexand hens bey. Thenx+y=50and4x+2y=142. Solving the equations givesx=21andy=29. Therefore, the number of cows is 21$.",
+    "explanation": "$Let cows bexand hens bey. Thenx+y=50 and 4 x+2 y=142. Solving the equations givesx=21 andy=29. Therefore, the number of cows is 21$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3199,7 +3199,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let the total number of students ben. Using the weighted average:na=10b+(n-10)cna=10b+nc-10cn(a-c)=10(b-c)Therefore,n=\\frac{10(b-c)}{a-c}$.",
+    "explanation": "$Let the total number of students ben. Using the weighted average:na=10 b+(n-10)cna=10 b+nc-10 cn(a-c)=10(b-c)Therefore,n=\\frac{10(b-c)}{a-c}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3250,7 +3250,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "By expressing each radical as the sum or difference of simpler surds and simplifying, all terms cancel out. Hence the final value is 0.",
+    "explanation": "By expressing each radical as the $\\sum$ or difference of simpler surds and simplifying, all terms cancel out. Hence the final value is 0.",
     "question_image": "",
     "option_images": [
       "",
@@ -3278,7 +3278,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If(a+b+6)-a+b+1+2b=2ab+2a, then find the value ofa$.",
+    "question": "$If(a+b+6)-a+b+1+2 b=2 ab+2 a, then find the value ofa$.",
     "q": "$If(a+b+6)-a+b+1+2b=2ab+2a, then find the value ofa$.",
     "options": [
       {
@@ -3352,7 +3352,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\n$Half chord =\\sqrt{17^2-8^2}=\\sqrt{289-64}=15cm$.\nTherefore, $chord length =2\\times15=30cm$.",
+    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\n$Half chord =\\sqrt{17^2-8^2}=\\sqrt{289-64}=15 cm$.\nTherefore, $chord length =2\\times 15=30 cm$.",
     "question_image": "q66.png",
     "option_images": [
       "",
@@ -3403,7 +3403,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$The smallest six-digit number is 100000. The next perfect square after this is317^2=100489. Hence, the least six-digit perfect square is 100489$.",
+    "explanation": "$The smallest six-digit number is 100000. The next perfect square after this is 317^2=100489. Hence, the least six-digit perfect square is 100489$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3482,24 +3482,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Find the angle of elevation of the Sun when the shadow of a 15 m long pole is5\\sqrt{3}m$.",
+    "question": "$Find the angle of elevation of the Sun when the shadow of a 15 m long pole is 5\\sqrt{3}m$.",
     "q": "$Find the angle of elevation of the Sun when the shadow of a 15 m long pole is5\\sqrt{3}m$.",
     "options": [
       {
         "id": "A",
-        "text": "45°"
+        "text": "45$^\\circ$"
       },
       {
         "id": "B",
-        "text": "60°"
+        "text": "60$^\\circ$"
       },
       {
         "id": "C",
-        "text": "30°"
+        "text": "30$^\\circ$"
       },
       {
         "id": "D",
-        "text": "90°"
+        "text": "90$^\\circ$"
       }
     ],
     "correct_option": "B",
@@ -3533,7 +3533,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If2y\\cos\\theta=x\\sin\\thetaand2x\\sec\\theta-y\\csc\\theta=3, then findx+4y^2$.",
+    "question": "$If 2 y\\cos\\theta=x\\sin\\thetaand 2 x\\sec\\theta-y\\csc\\theta=3, then findx+4 y^2$.",
     "q": "$If2y\\cos\\theta=x\\sin\\thetaand2x\\sec\\theta-y\\csc\\theta=3, then findx+4y^2$.",
     "options": [
       {
@@ -3607,7 +3607,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$For two years, Difference =P\\left(\\frac{R}{100}\\right)^2. Therefore15000\\left(\\frac{R}{100}\\right)^2=96. Solving givesR=8\\%$.",
+    "explanation": "$For two years, Difference =P\\left(\\frac{R}{100}\\right)^2. Therefore 15000\\left(\\frac{R}{100}\\right)^2=96. Solving givesR=8\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3635,7 +3635,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Study the given pie chart and answer the following question. Find the ratio of the sum of Wheat and Sugar production to the difference between Rice and Tea production.",
+    "question": "Study the given pie chart and answer the following question. Find the ratio of the $\\sum$ of Wheat and Sugar production to the difference between Rice and Tea production.",
     "q": "Study the given pie chart and answer the following question. Find the ratio of the sum of Wheat and Sugar production to the difference between Rice and Tea production.",
     "options": [
       {
@@ -3742,25 +3742,25 @@
     "options": [
       {
         "id": "A",
-        "text": "48°"
+        "text": "48$^\\circ$"
       },
       {
         "id": "B",
-        "text": "98°"
+        "text": "98$^\\circ$"
       },
       {
         "id": "C",
-        "text": "110°"
+        "text": "110$^\\circ$"
       },
       {
         "id": "D",
-        "text": "108°"
+        "text": "108$^\\circ$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Wheat represents 30\\% of the total production. Therefore, the central angle isfrac{30}{100}\\times360=108^\\circ$.",
+    "explanation": "$Wheat represents 30\\% of the total production. Therefore, the central angle isfrac{30}{100}\\times 360=108^\\circ$.",
     "question_image": "q72.png",
     "option_images": [
       "",
@@ -3811,7 +3811,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Rice accounts for 55\\% of the total production shown in the pie chart. Therefore, Rice production =0.55\\times500000=275000kg$.",
+    "explanation": "$Rice accounts for 55\\% of the total production shown in the pie chart. Therefore, Rice production =0.55\\times 500000=275000 kg$.",
     "question_image": "q72.png",
     "option_images": [
       "",
