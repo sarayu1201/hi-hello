@@ -118,7 +118,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "Two whole numbers are such that the square of the first number exceeds the second by 112 and the ratio of the numbers is $$$$$$$$$4:3$$$$$$$$$. What is the value of the smaller number?",
+    "question": "Two whole numbers are such that the square of the first number exceeds the second by 112 and the ratio of the numbers is \\($4:3$\\). What is the value of the smaller number?",
     "questionImage": null,
     "options": [
       {
@@ -269,7 +269,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Medium",
-    "question": "Of three positive numbers, the ratio of the first and second is $$$$$$$$$5:2$$$$$$$$$ and the ratio of the second and third is $$$$$$$$$5:4$$$$$$$$$. If the product of the first and third numbers is 1800, what is the sum of the three numbers?",
+    "question": "Of three positive numbers, the ratio of the first and second is \\($5:2$\\) and the ratio of the second and third is \\($5:4$\\). If the product of the first and third numbers is 1800, what is the sum of the three numbers?",
     "questionImage": null,
     "options": [
       {
@@ -294,7 +294,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Combining the ratios gives x:y:z = $$$$$$$$$25:10$$$$$$$$$:8. Let them be 25k, 10k and 8k. Since 25k × 8k = 1800, k = 3. Sum = 25k + 10k + 8k = 129.",
+    "explanation": "Combining the ratios gives x:y:z = $$$$$$$$$$$$25:10$$$$$$$$$$$$:8. Let them be 25k, 10k and 8k. Since 25k × 8k = 1800, k = 3. Sum = 25k + 10k + 8k = 129.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -306,32 +306,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixture and Alligation",
     "difficulty": "Medium",
-    "question": "The ratio of milk and water in three samples is $$$$$$$$$1:3$$$$$$$$$, $$$$$$$$$3:5$$$$$$$$$ and $$$$$$$$$11:5$$$$$$$$$. Equal quantities of all three samples are mixed. What will be the ratio of milk and water in the new mixture?",
+    "question": "The ratio of milk and water in three samples is \\($1:3$\\), \\($3:5$\\) and \\($11:5$\\). Equal quantities of all three samples are mixed. What will be the ratio of milk and water in the new mixture?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$7:9$$$$$$$$$",
+        "text": "\\($7:9$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$5:7$$$$$$$$$",
+        "text": "\\($5:7$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$15:13$$$$$$$$$",
+        "text": "\\($15:13$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$9:11$$$$$$$$$",
+        "text": "\\($9:11$\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Taking equal quantities of each sample and calculating the milk and water separately gives a final ratio of $$$$$$$$$21:27$$$$$$$$$, which simplifies to $$$$$$$$$7:9$$$$$$$$$.",
+    "explanation": "Taking equal quantities of each sample and calculating the milk and water separately gives a final ratio of $$$$$$$$$$$$21:27$$$$$$$$$$$$, which simplifies to $$$$$$$$$$$$7:9$$$$$$$$$$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -417,7 +417,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "The ratio of selling price to cost price is $$$$$$$$$13:17$$$$$$$$$. What is the loss percentage?",
+    "question": "The ratio of selling price to cost price is \\($13:17$\\). What is the loss percentage?",
     "questionImage": null,
     "options": [
       {
@@ -442,7 +442,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Loss % = ((17 − 13) / 17) × 100 = $$$$$$$$$(4 / 17)$$$$$$$$ \\times 100 = 23.52$%.",
+    "explanation": "Loss % = ((17 − 13) / 17) × 100 = $$$$$$$$$$$$(4 / 17)$$$$$$$$$$$ \\times 100 = 23.52$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -872,7 +872,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of (tan 30° − √$\\frac{3}{2}$)?",
+    "question": "What is the value of (tan 30° − √\\(\\frac{3}{2}\\))?",
     "questionImage": null,
     "options": [
       {
@@ -892,7 +892,7 @@
       },
       {
         "id": "D",
-        "text": "$\\frac{1}{6}$",
+        "text": "\\(\\frac{1}{6}\\)",
         "image": null
       }
     ],
@@ -909,29 +909,29 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "ΔDEF is right angled at E. If cotD = $\\frac{5}{12}$, then what is the value of sinF ?",
+    "question": "ΔDEF is right angled at E. If cotD = \\(\\frac{5}{12}\\), then what is the value of sinF ?",
     "questionImage": "ssc_chsl_tier1_paper2_q25.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original Data Interpretation figure from the source document.",
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{5}{12}$",
+        "text": "\\(\\frac{5}{12}\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{13}{5}$",
+        "text": "\\(\\frac{13}{5}\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{5}{13}$",
+        "text": "\\(\\frac{5}{13}\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{13}{12}$",
+        "text": "\\(\\frac{13}{12}\\)",
         "image": null
       }
     ],
@@ -987,27 +987,27 @@
     "subject": "Reasoning",
     "topic": "Number Analogy",
     "difficulty": "Easy",
-    "question": "In the following question, select the related number pair from the given alternatives.\n\n$$$$$$$$$3:9$$$$$$$$$ :: ? : ?",
+    "question": "In the following question, select the related number pair from the given alternatives.\n\n\\($3:9$\\) :: ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$4:11$$$$$$$$$",
+        "text": "\\($4:11$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$5:31$$$$$$$$$",
+        "text": "\\($5:31$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$7:57$$$$$$$$$",
+        "text": "\\($7:57$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$7:49$$$$$$$$$",
+        "text": "\\($7:49$\\)",
         "image": null
       }
     ],
@@ -1103,27 +1103,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$11 - 12$$$$$$$$$",
+        "text": "\\$(11 - 12$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$13 - 14$$$$$$$$$",
+        "text": "\\$(13 - 14$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$17 - 18$$$$$$$$$",
+        "text": "\\$(17 - 18$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$19 - 21$$$$$$$$$",
+        "text": "\\$(19 - 21$\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In the first three pairs, the difference between the numbers is 1. In the pair $$$$$$$$$19 - 21$$$$$$$$$, the difference is 2, making it the odd one out.",
+    "explanation": "In the first three pairs, the difference between the numbers is 1. In the pair $$$$$$$$$$$$19 - 21$$$$$$$$$$$$, the difference is 2, making it the odd one out.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1209,7 +1209,7 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "In the following question, select the missing number from the given series.\n\n$$$$$$$$$4,7,11,18,29$$$$$$$$$, ?",
+    "question": "In the following question, select the missing number from the given series.\n\n\\($4,7,11,18,29$\\), ?",
     "questionImage": null,
     "options": [
       {
@@ -1234,7 +1234,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "This is a Fibonacci-type series where each term is the sum of the previous two terms: $$$$$$$$$4+7=11$$$$$$$$$, $$$$$$$$$7+11=18$$$$$$$$$, $$$$$$$$$11+18=29$$$$$$$$$, $$$$$$$$$18+29=47.$$$$$$$$$",
+    "explanation": "This is a Fibonacci-type series where each term is the sum of the previous two terms: $$$$$$$$$$$$4+7=11$$$$$$$$$$$$, $$$$$$$$$$$$7+11=18$$$$$$$$$$$$, $$$$$$$$$$$$11+18=29$$$$$$$$$$$$, $$$$$$$$$$$$18+29=47.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1308,7 +1308,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Akash is at position 1. Bhumi is at position 14. To minimize the total, Charu is placed 6 positions before Bhumi, i.e., at position 7. Since there are 15 professors after Charu, the minimum total is $$$$$$$$$7 + 15 = 22.$$$$$$$$$",
+    "explanation": "Akash is at position 1. Bhumi is at position 14. To minimize the total, Charu is placed 6 positions before Bhumi, i.e., at position 7. Since there are 15 professors after Charu, the minimum total is $$$$$$$$$$$$7 + 15 = 22.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1394,7 +1394,7 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$7 \\times 10 \\div $$$$$$$$30 - 2 + 6 = ?$$$$$$$$$",
+    "question": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n\n$7 \\times 10 \\div \\$(30 - 2 + 6 = ?$\\)",
     "questionImage": null,
     "options": [
       {
@@ -1419,7 +1419,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Replace the operators: ×→−, ÷→+, −→×, +=÷. Expression becomes 7 − $$$$$$$$$10 + 30$$$$$$$$ \\times 2 \\div 6$ = -$$$$$$$$$3 + 10 = 7.$$$$$$$$$",
+    "explanation": "Replace the operators: ×→−, ÷→+, −→×, +=÷. Expression becomes 7 − $$$$$$$$$$$$10 + 30$$$$$$$$$$$ \\times 2 \\div 6$ = -$$$$$$$$$$$$3 + 10 = 7.$$$$$$$$$$$$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1431,7 +1431,7 @@
     "subject": "Reasoning",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$$$$$$$$$18 + 12$$$$$$$$ \\div $$$$$$$$9 - 30$$$$$$$$ \\times 16 = 10$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$(18 + 12$\\) \\div \\$(9 - 30$\\) \\times 16 = 10$",
     "questionImage": null,
     "options": [
       {
@@ -1456,7 +1456,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Interchanging '+' and '×' gives $18 \\times 12 \\div 9$ − $$$$$$$$$30 + 16 = 24$$$$$$$$$ − $$$$$$$$$30 + 16 = 10.$$$$$$$$$ Hence, the correct pair is '+ and ×'.",
+    "explanation": "Interchanging '+' and '×' gives $18 \\times 12 \\div 9$ − $$$$$$$$$$$$30 + 16 = 24$$$$$$$$$$$$ − $$$$$$$$$$$$30 + 16 = 10.$$$$$$$$$$$$ Hence, the correct pair is '+ and ×'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1690,7 +1690,7 @@
     "subject": "Reasoning",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "In the following question, select the missing number from the given series.\n\n$$$$$$$$$47,44,40,37$$$$$$$$$, ?, 30",
+    "question": "In the following question, select the missing number from the given series.\n\n\\($47,44,40,37$\\), ?, 30",
     "questionImage": null,
     "options": [
       {
@@ -1715,7 +1715,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern alternately subtracts 3 and $$$$$$$$$4:47$$$$$$$$$→44 (-3), 44→40 (-4), 40→37 (-3), 37→33 (-4), 33→30 (-3).",
+    "explanation": "The pattern alternately subtracts 3 and $$$$$$$$$$$$4:47$$$$$$$$$$$$→44 (-3), 44→40 (-4), 40→37 (-3), 37→33 (-4), 33→30 (-3).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1845,27 +1845,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$$$$$57,33,42,86$$$$$$$$$",
+        "text": "\\($57,33,42,86$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$$$$$33,58,14,76$$$$$$$$$",
+        "text": "\\($33,58,14,76$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$$$$$11,58,34,78$$$$$$$$$",
+        "text": "\\($11,58,34,78$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$$$$$34,97,13,86$$$$$$$$$",
+        "text": "\\($34,97,13,86$\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the given matrices, the code $$$$$$$$$57,33,42,86$$$$$$$$$ correctly represents the letters T, E, A and R respectively.",
+    "explanation": "Using the given matrices, the code $$$$$$$$$$$$57,33,42,86$$$$$$$$$$$$ correctly represents the letters T, E, A and R respectively.",
     "marks": 2,
     "negativeMarks": 0.5,
     "question_image": "ssc_chsl_tier1_paper2_q50.png"
