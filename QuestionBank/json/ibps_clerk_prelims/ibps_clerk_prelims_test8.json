@@ -428,7 +428,7 @@
     "subject": "English Language",
     "topic": "",
     "difficulty": "Medium",
-    "question": "? ×$$$$$(12+10$$$$$% of 60)=135",
+    "question": "? ×$$$$$$$(12+10$\\\\$\\\\$$$\\$\\$% of 60)=135",
     "questionImage": null,
     "options": [
       {
@@ -939,7 +939,7 @@
     "subject": "English Language",
     "topic": "",
     "difficulty": "Medium",
-    "question": "The ratio of the present ages of A to B is $$$$$16:9$$$$$, respectively. If the age of A eight years hence is twice the age of B two years hence, then find the present age of B (in years).",
+    "question": "The ratio of the present ages of A to B is \\\\$$$$\\\\$\\\\$$16:9$\\\\$\\\\$$$$\\$, respectively. If the age of A eight years hence is twice the age of B two years hence, then find the present age of B (in years).",
     "questionImage": null,
     "options": [
       {
@@ -1027,32 +1027,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$$2:4$$$$$:5",
+        "text": "\\\\$$$$\\\\$\\\\$$2:4$\\\\$\\\\$$$$\\$:5",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$$6:4$$$$$:7",
+        "text": "\\\\$$$$\\\\$\\\\$$6:4$\\\\$\\\\$$$$\\$:7",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$$9:3$$$$$:5",
+        "text": "\\\\$$$$\\\\$\\\\$$9:3$\\\\$\\\\$$$$\\$:5",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$$5:4$$$$$:9",
+        "text": "\\\\$$$$\\\\$\\\\$$5:4$\\\\$\\\\$$$$\\$:9",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$$9:4$$$$$:5",
+        "text": "\\\\$$$$\\\\$\\\\$$9:4$\\\\$\\\\$$$$\\$:5",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "Let C be c \nA = c + 8 \nB = c – 2 \nATQ, \nc + 8 + c – 2 = 26 \n2c = 26 – 6 \n2c = 20 \nc = 10 \nSo, A = c + 8 = 18 \nB = c – 2 = 8 \nC = 10 \nRequired ratio = $$$$18:8$$$$ : 10 \n= $$$$9:4$$$$: 5",
+    "explanation": "Let C be c \nA = c + 8 \nB = c – 2 \nATQ, \nc + 8 + c – 2 = 26 \n2c = 26 – 6 \n2c = 20 \nc = 10 \nSo, A = c + 8 = 18 \nB = c – 2 = 8 \nC = 10 \nRequired ratio = \\\\$$$\\\\$\\\\$$18:8$\\\\$\\\\$$$\\\\$ : 10 \n= \\\\$$$\\\\$\\\\$$9:4$\\\\$\\\\$$$\\$: 5",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -1094,7 +1094,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the total work (LCM of 20 and 12) = 60 units Efficiency of A, B and C together = $\\frac{60}{12}$ = 5 units/day Efficiency of B and C together = $\\frac{60}{20}$ = 3 units/day Efficiency of A = 5 – 3 =2 units/day \nRequired time = $\\frac{60}{2}$ = 30 days",
+    "explanation": "Let the total work (LCM of 20 and 12) = 60 units Efficiency of A, B and C together = \\\\$\\frac{60}{12}\\\\$ = 5 units/day Efficiency of B and C together = \\\\$\\frac{60}{20}\\\\$ = 3 units/day Efficiency of A = 5 – 3 =2 units/day \nRequired time = \\\\$\\frac{60}{2}\\\\$ = 30 days",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -1193,32 +1193,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$17$",
+        "text": "\\\\$17\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$16$",
+        "text": "\\\\$16\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$19$",
+        "text": "\\\\$19\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$24$",
+        "text": "\\\\$24\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$27$",
+        "text": "\\\\$27\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 12, Average age = 23 years.\n2. Total age of 12 friends = $12 \\times 23 = 276$ years.\n3. After one friend leaves, remaining friends = 11, New average age = 23.36 years.\n4. Total age of remaining 11 friends = $11 \\times 23.36 \\approx 257$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$276 - 257 = 19$$$$ years.\nHence, the correct answer is $19$.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 12, Average age = 23 years.\n2. Total age of 12 friends = \\\\$12 \\times 23 = 276\\\\$ years.\n3. After one friend leaves, remaining friends = 11, New average age = 23.36 years.\n4. Total age of remaining 11 friends = \\\\$11 \\times 23.36 \\approx 257\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$276 - 257 = 19$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$19\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1234,32 +1234,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$44$",
+        "text": "\\\\$44\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$46$",
+        "text": "\\\\$46\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$38$",
+        "text": "\\\\$38\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$43$",
+        "text": "\\\\$43\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$41$",
+        "text": "\\\\$41\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 5, Average age = 30 years.\n2. Total age of 5 friends = $5 \\times 30 = 150$ years.\n3. After one friend leaves, remaining friends = 4, New average age = 27.25 years.\n4. Total age of remaining 4 friends = $4 \\times 27.25 \\approx 109$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$150 - 109 = 41$$$$ years.\nHence, the correct answer is $41$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 5, Average age = 30 years.\n2. Total age of 5 friends = \\\\$5 \\times 30 = 150\\\\$ years.\n3. After one friend leaves, remaining friends = 4, New average age = 27.25 years.\n4. Total age of remaining 4 friends = \\\\$4 \\times 27.25 \\approx 109\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$150 - 109 = 41$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$41\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1300,7 +1300,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 1300, Profit Percentage = 30%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $1300 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 1300 = x \\\\times \\\\frac{130}{100}$\n5. Solve for $x$: $x = \\\\frac{1300 \\\\times 100}{130} = 1000$.\nHence, the Cost Price of the book is Rs. 1000.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 1300, Profit Percentage = 30%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$1300 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 1300 = x \\\\times \\\\frac{130}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{1300 \\\\times 100}{130} = 1000\\\\$.\nHence, the Cost Price of the book is Rs. 1000.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1311,7 +1311,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
-    "question": "The ratio of the weight of A to B is $$$$$1:2$$$$$, and the weight of A to C is $$$$$2:3$$$$$, respectively. If the average weight of A, B, and C is 18 kg, then find the weight of B (in kg).",
+    "question": "The ratio of the weight of A to B is \\\\$$$$\\\\$\\\\$$1:2$\\\\$\\\\$$$$$, and the weight of A to C is \\\\$$$$\\\\$\\\\$$2:3$\\\\$\\\\$$$$$, respectively. If the average weight of A, B, and C is 18 kg, then find the weight of B (in kg).",
     "questionImage": null,
     "options": [
       {
@@ -1353,7 +1353,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "",
     "difficulty": "Medium",
-    "question": "The perimeter of a rectangle is 92 cm, and the ratio of length to breadth of the rectangle is $$$$$14:9$$$$$, respectively. If the side of a square is 2 cm more than the breadth of the rectangle, then find the perimeter of the square (in cm).\n\n(a) 74\n(b) 80\n(c) 50\n(d) 64\n(e) None of these\n\n\n\nSolo travel is often romanticized in movies and travel blogs, yet the reality of venturing out alone requires not just enthusiasm, but a great deal of strength and conviction. For many, the idea of traveling solo is both exciting and intimidating. The freedom of making your own plans, waking up without a set schedule, and discovering new cultures at your own pace can be liberating. But it also comes with its own set of challenges that many people are hesitant to face.\n\nOne of the first hurdles is the initial hesitation. People often fear loneliness, safety concerns, or simply the discomfort of doing things alone. A surprisingly common fear is eating alone in a public space. The thought of sitting in a restaurant without company, with others watching, makes many people self-conscious. They worry about what others might think, and this anxiety is sometimes enough to discourage them from solo travel altogether.\n\nHowever, those who do take the plunge often discover that the benefits far outweigh the fears. Solo travel builds resilience. It teaches you how to _____________ for yourself, how to plan with precision, and how to handle unexpected situations with calm. With every solo trip, travelers gain more confidence in their decisions, and a stronger sense of independence.\n\nStaying safe while traveling alone is, understandably, a top concern. This is where preparation becomes key. Carrying travel insurance, knowing emergency contacts, researching local customs, and keeping a close watch on surroundings are all essential parts of traveling alone responsibly. It's not about being paranoid, but about being prepared and aware. A solo traveler must learn to make smart choices that keep them safe while still allowing for exploration and adventure.\n\nMoreover, solo travel allows deep personal reflection. Without distractions, many travelers find a sense of peace and clarity. They meet new people not because they have to, but because they genuinely want to. They engage in conversations, take risks, and often come back home changed in subtle but meaningful ways.",
+    "question": "The perimeter of a rectangle is 92 cm, and the ratio of length to breadth of the rectangle is \\\\$$$$\\\\$\\\\$$14:9$\\\\$\\\\$$$$\\$, respectively. If the side of a square is 2 cm more than the breadth of the rectangle, then find the perimeter of the square (in cm).\n\n(a) 74\n(b) 80\n(c) 50\n(d) 64\n(e) None of these\n\n\n\nSolo travel is often romanticized in movies and travel blogs, yet the reality of venturing out alone requires not just enthusiasm, but a great deal of strength and conviction. For many, the idea of traveling solo is both exciting and intimidating. The freedom of making your own plans, waking up without a set schedule, and discovering new cultures at your own pace can be liberating. But it also comes with its own set of challenges that many people are hesitant to face.\n\nOne of the first hurdles is the initial hesitation. People often fear loneliness, safety concerns, or simply the discomfort of doing things alone. A surprisingly common fear is eating alone in a public space. The thought of sitting in a restaurant without company, with others watching, makes many people self-conscious. They worry about what others might think, and this anxiety is sometimes enough to discourage them from solo travel altogether.\n\nHowever, those who do take the plunge often discover that the benefits far outweigh the fears. Solo travel builds resilience. It teaches you how to _____________ for yourself, how to plan with precision, and how to handle unexpected situations with calm. With every solo trip, travelers gain more confidence in their decisions, and a stronger sense of independence.\n\nStaying safe while traveling alone is, understandably, a top concern. This is where preparation becomes key. Carrying travel insurance, knowing emergency contacts, researching local customs, and keeping a close watch on surroundings are all essential parts of traveling alone responsibly. It's not about being paranoid, but about being prepared and aware. A solo traveler must learn to make smart choices that keep them safe while still allowing for exploration and adventure.\n\nMoreover, solo travel allows deep personal reflection. Without distractions, many travelers find a sense of peace and clarity. They meet new people not because they have to, but because they genuinely want to. They engage in conversations, take risks, and often come back home changed in subtle but meaningful ways.",
     "questionImage": null,
     "options": [
       {
@@ -1383,7 +1383,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the length and breadth of the rectangle be 14a and 9a respectively.\n\n2(14a+9a)=92 \n23a = 46 \na = 2 \nBreadth of the rectangle 9a = 18 cm Side of the square = $$$$18 + 2 = 20$$$$ cm Required perimeter = $4 \\times 20=80$ cm",
+    "explanation": "Let the length and breadth of the rectangle be 14a and 9a respectively.\n\n2(14a+9a)=92 \n23a = 46 \na = 2 \nBreadth of the rectangle 9a = 18 cm Side of the square = \\\\$$$\\\\$\\\\$$18 + 2 = 20$\\\\$\\\\$$$\\\\$ cm Required perimeter = \\\\$4 \\times 20=80\\\\$ cm",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": null
@@ -1400,32 +1400,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$45$",
+        "text": "\\\\$45\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$38$",
+        "text": "\\\\$38\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$43$",
+        "text": "\\\\$43\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$40$",
+        "text": "\\\\$40\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 10, Average age = 38 years.\n2. Total age of 10 friends = $10 \\times 38 = 380$ years.\n3. After one friend leaves, remaining friends = 9, New average age = 37.78 years.\n4. Total age of remaining 9 friends = $9 \\times 37.78 \\approx 340$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$380 - 340 = 40$$$$ years.\nHence, the correct answer is $40$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 10, Average age = 38 years.\n2. Total age of 10 friends = \\\\$10 \\times 38 = 380\\\\$ years.\n3. After one friend leaves, remaining friends = 9, New average age = 37.78 years.\n4. Total age of remaining 9 friends = \\\\$9 \\times 37.78 \\approx 340\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$380 - 340 = 40$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$40\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1466,7 +1466,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 375, Profit Percentage = 25%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $375 = x \\\\times (1 + \\\\frac{25}{100}) \\Rightarrow 375 = x \\\\times \\\\frac{125}{100}$\n5. Solve for $x$: $x = \\\\frac{375 \\\\times 100}{125} = 300$.\nHence, the Cost Price of the book is Rs. 300.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 375, Profit Percentage = 25%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$375 = x \\\\times (1 + \\\\frac{25}{100}) \\Rightarrow 375 = x \\\\times \\\\frac{125}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{375 \\\\times 100}{125} = 300\\\\$.\nHence, the Cost Price of the book is Rs. 300.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1507,7 +1507,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 550, Profit Percentage = 10%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $550 = x \\\\times (1 + \\\\frac{10}{100}) \\Rightarrow 550 = x \\\\times \\\\frac{110}{100}$\n5. Solve for $x$: $x = \\\\frac{550 \\\\times 100}{110} = 500$.\nHence, the Cost Price of the book is Rs. 500.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 550, Profit Percentage = 10%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$550 = x \\\\times (1 + \\\\frac{10}{100}) \\Rightarrow 550 = x \\\\times \\\\frac{110}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{550 \\\\times 100}{110} = 500\\\\$.\nHence, the Cost Price of the book is Rs. 500.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1716,7 +1716,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 1040, Profit Percentage = 30%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $1040 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 1040 = x \\\\times \\\\frac{130}{100}$\n5. Solve for $x$: $x = \\\\frac{1040 \\\\times 100}{130} = 800$.\nHence, the Cost Price of the book is Rs. 800.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 1040, Profit Percentage = 30%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$1040 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 1040 = x \\\\times \\\\frac{130}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{1040 \\\\times 100}{130} = 800\\\\$.\nHence, the Cost Price of the book is Rs. 800.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1732,32 +1732,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$41$",
+        "text": "\\\\$41\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$38$",
+        "text": "\\\\$38\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$39$",
+        "text": "\\\\$39\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$36$",
+        "text": "\\\\$36\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$49$",
+        "text": "\\\\$49\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 9, Average age = 40 years.\n2. Total age of 9 friends = $9 \\times 40 = 360$ years.\n3. After one friend leaves, remaining friends = 8, New average age = 39.88 years.\n4. Total age of remaining 8 friends = $8 \\times 39.88 \\approx 319$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$360 - 319 = 41$$$$ years.\nHence, the correct answer is $41$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 9, Average age = 40 years.\n2. Total age of 9 friends = \\\\$9 \\times 40 = 360\\\\$ years.\n3. After one friend leaves, remaining friends = 8, New average age = 39.88 years.\n4. Total age of remaining 8 friends = \\\\$8 \\times 39.88 \\approx 319\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$360 - 319 = 41$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$41\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1773,32 +1773,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$49$",
+        "text": "\\\\$49\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$44$",
+        "text": "\\\\$44\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$41$",
+        "text": "\\\\$41\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$52$",
+        "text": "\\\\$52\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$46$",
+        "text": "\\\\$46\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 6, Average age = 28 years.\n2. Total age of 6 friends = $6 \\times 28 = 168$ years.\n3. After one friend leaves, remaining friends = 5, New average age = 24.8 years.\n4. Total age of remaining 5 friends = $5 \\times 24.8 \\approx 124$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$168 - 124 = 44$$$$ years.\nHence, the correct answer is $44$.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 6, Average age = 28 years.\n2. Total age of 6 friends = \\\\$6 \\times 28 = 168\\\\$ years.\n3. After one friend leaves, remaining friends = 5, New average age = 24.8 years.\n4. Total age of remaining 5 friends = \\\\$5 \\times 24.8 \\approx 124\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$168 - 124 = 44$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$44\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1839,7 +1839,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 1150, Profit Percentage = 15%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $1150 = x \\\\times (1 + \\\\frac{15}{100}) \\Rightarrow 1150 = x \\\\times \\\\frac{115}{100}$\n5. Solve for $x$: $x = \\\\frac{1150 \\\\times 100}{115} = 1000$.\nHence, the Cost Price of the book is Rs. 1000.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 1150, Profit Percentage = 15%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$1150 = x \\\\times (1 + \\\\frac{15}{100}) \\Rightarrow 1150 = x \\\\times \\\\frac{115}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{1150 \\\\times 100}{115} = 1000\\\\$.\nHence, the Cost Price of the book is Rs. 1000.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1855,32 +1855,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$25$",
+        "text": "\\\\$25\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$27$",
+        "text": "\\\\$27\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$22$",
+        "text": "\\\\$22\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$33$",
+        "text": "\\\\$33\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$28$",
+        "text": "\\\\$28\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 9, Average age = 20 years.\n2. Total age of 9 friends = $9 \\times 20 = 180$ years.\n3. After one friend leaves, remaining friends = 8, New average age = 19.38 years.\n4. Total age of remaining 8 friends = $8 \\times 19.38 \\approx 155$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$180 - 155 = 25$$$$ years.\nHence, the correct answer is $25$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 9, Average age = 20 years.\n2. Total age of 9 friends = \\\\$9 \\times 20 = 180\\\\$ years.\n3. After one friend leaves, remaining friends = 8, New average age = 19.38 years.\n4. Total age of remaining 8 friends = \\\\$8 \\times 19.38 \\approx 155\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$180 - 155 = 25$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$25\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1891,37 +1891,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What value will come in place of question mark (?) in the following equation?\n\n$20 \\times $$$6 + 85 - ? = 177$$$$",
+    "question": "What value will come in place of question mark (?) in the following equation?\n \\\\$20 \\times \\\\$$\\\\$\\\\$$6 + 85 - ? = 177$\\\\$\\\\$$\\$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$33$",
+        "text": "\\\\$33\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$23$",
+        "text": "\\\\$23\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$27$",
+        "text": "\\\\$27\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$28$",
+        "text": "\\\\$28\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$26$",
+        "text": "\\\\$26\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Let the unknown value be $x$.\n2. The given equation is: $20 \\times $$$6 + 85$$$ - x = 177$\n3. Calculate: $20 \\times 6 = 120$\n4. The equation becomes: $$$$120 + 85$$$ - x = 177 \\Rightarrow 205 - x = 177$\n5. Solve for $x$: $x = $$$205 - 177 = 28$$$$.\nHence, the correct answer is $28$.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Let the unknown value be \\\\$x$.\n2. The given equation is: \\\\$20 \\times \\\\$$\\\\$\\\\$$6 + 85$\\\\$\\\\$$\\\\$ - x = 177\\\\$ 3. Calculate: \\\\$20 \\times 6 = 120\\\\$ 4. The equation becomes: \\\\$$$\\\\$\\\\$$120 + 85$\\\\$\\\\$$\\\\$ - x = 177 \\Rightarrow 205 - x = 177\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\$$\\\\$\\\\$$205 - 177 = 28$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$28\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -1932,37 +1932,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What value will come in place of question mark (?) in the following equation?\n\n$22 \\times $$$8 + 106 - ? = 238$$$$",
+    "question": "What value will come in place of question mark (?) in the following equation?\n \\\\$22 \\times \\\\$$\\\\$\\\\$$8 + 106 - ? = 238$\\\\$\\\\$$\\$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$43$",
+        "text": "\\\\$43\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$39$",
+        "text": "\\\\$39\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$49$",
+        "text": "\\\\$49\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$44$",
+        "text": "\\\\$44\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$46$",
+        "text": "\\\\$46\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Let the unknown value be $x$.\n2. The given equation is: $22 \\times $$$8 + 106$$$ - x = 238$\n3. Calculate: $22 \\times 8 = 176$\n4. The equation becomes: $$$$176 + 106$$$ - x = 238 \\Rightarrow 282 - x = 238$\n5. Solve for $x$: $x = $$$282 - 238 = 44$$$$.\nHence, the correct answer is $44$.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Let the unknown value be \\\\$x$.\n2. The given equation is: \\\\$22 \\times \\\\$$\\\\$\\\\$$8 + 106$\\\\$\\\\$$\\\\$ - x = 238\\\\$ 3. Calculate: \\\\$22 \\times 8 = 176\\\\$ 4. The equation becomes: \\\\$$$\\\\$\\\\$$176 + 106$\\\\$\\\\$$\\\\$ - x = 238 \\Rightarrow 282 - x = 238\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\$$\\\\$\\\\$$282 - 238 = 44$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$44\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2213,7 +2213,7 @@
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 780, Profit Percentage = 30%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $780 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 780 = x \\\\times \\\\frac{130}{100}$\n5. Solve for $x$: $x = \\\\frac{780 \\\\times 100}{130} = 600$.\nHence, the Cost Price of the book is Rs. 600.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 780, Profit Percentage = 30%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$780 = x \\\\times (1 + \\\\frac{30}{100}) \\Rightarrow 780 = x \\\\times \\\\frac{130}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{780 \\\\times 100}{130} = 600\\\\$.\nHence, the Cost Price of the book is Rs. 600.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2254,7 +2254,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 360, Profit Percentage = 20%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $360 = x \\\\times (1 + \\\\frac{20}{100}) \\Rightarrow 360 = x \\\\times \\\\frac{120}{100}$\n5. Solve for $x$: $x = \\\\frac{360 \\\\times 100}{120} = 300$.\nHence, the Cost Price of the book is Rs. 300.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 360, Profit Percentage = 20%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$360 = x \\\\times (1 + \\\\frac{20}{100}) \\Rightarrow 360 = x \\\\times \\\\frac{120}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{360 \\\\times 100}{120} = 300\\\\$.\nHence, the Cost Price of the book is Rs. 300.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2270,32 +2270,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$39$",
+        "text": "\\\\$39\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$29$",
+        "text": "\\\\$29\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$34$",
+        "text": "\\\\$34\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$31$",
+        "text": "\\\\$31\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$36$",
+        "text": "\\\\$36\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 6, Average age = 40 years.\n2. Total age of 6 friends = $6 \\times 40 = 240$ years.\n3. After one friend leaves, remaining friends = 5, New average age = 41.8 years.\n4. Total age of remaining 5 friends = $5 \\times 41.8 \\approx 209$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$240 - 209 = 31$$$$ years.\nHence, the correct answer is $31$.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 6, Average age = 40 years.\n2. Total age of 6 friends = \\\\$6 \\times 40 = 240\\\\$ years.\n3. After one friend leaves, remaining friends = 5, New average age = 41.8 years.\n4. Total age of remaining 5 friends = \\\\$5 \\times 41.8 \\approx 209\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$240 - 209 = 31$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$31\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2311,32 +2311,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$34$",
+        "text": "\\\\$34\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$31$",
+        "text": "\\\\$31\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$39$",
+        "text": "\\\\$39\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$29$",
+        "text": "\\\\$29\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 11, Average age = 20 years.\n2. Total age of 11 friends = $11 \\times 20 = 220$ years.\n3. After one friend leaves, remaining friends = 10, New average age = 18.6 years.\n4. Total age of remaining 10 friends = $10 \\times 18.6 \\approx 186$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$220 - 186 = 34$$$$ years.\nHence, the correct answer is $34$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 11, Average age = 20 years.\n2. Total age of 11 friends = \\\\$11 \\times 20 = 220\\\\$ years.\n3. After one friend leaves, remaining friends = 10, New average age = 18.6 years.\n4. Total age of remaining 10 friends = \\\\$10 \\times 18.6 \\approx 186\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$220 - 186 = 34$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$34\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2352,32 +2352,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$35$",
+        "text": "\\\\$35\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$27$",
+        "text": "\\\\$27\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$24$",
+        "text": "\\\\$24\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$25$",
+        "text": "\\\\$25\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$32$",
+        "text": "\\\\$32\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 11, Average age = 22 years.\n2. Total age of 11 friends = $11 \\times 22 = 242$ years.\n3. After one friend leaves, remaining friends = 10, New average age = 21.5 years.\n4. Total age of remaining 10 friends = $10 \\times 21.5 \\approx 215$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$242 - 215 = 27$$$$ years.\nHence, the correct answer is $27$.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 11, Average age = 22 years.\n2. Total age of 11 friends = \\\\$11 \\times 22 = 242\\\\$ years.\n3. After one friend leaves, remaining friends = 10, New average age = 21.5 years.\n4. Total age of remaining 10 friends = \\\\$10 \\times 21.5 \\approx 215\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$242 - 215 = 27$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$27\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2388,37 +2388,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What value will come in place of question mark (?) in the following equation?\n\n$18 \\times $$$6 + 78 - ? = 167$$$$",
+    "question": "What value will come in place of question mark (?) in the following equation?\n \\\\$18 \\times \\\\$$\\\\$\\\\$$6 + 78 - ? = 167$\\\\$\\\\$$\\$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$19$",
+        "text": "\\\\$19\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$29$",
+        "text": "\\\\$29\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$24$",
+        "text": "\\\\$24\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$17$",
+        "text": "\\\\$17\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$20$",
+        "text": "\\\\$20\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the unknown value be $x$.\n2. The given equation is: $18 \\times $$$6 + 78$$$ - x = 167$\n3. Calculate: $18 \\times 6 = 108$\n4. The equation becomes: $$$$108 + 78$$$ - x = 167 \\Rightarrow 186 - x = 167$\n5. Solve for $x$: $x = $$$186 - 167 = 19$$$$.\nHence, the correct answer is $19$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the unknown value be \\\\$x$.\n2. The given equation is: \\\\$18 \\times \\\\$$\\\\$\\\\$$6 + 78$\\\\$\\\\$$\\\\$ - x = 167\\\\$ 3. Calculate: \\\\$18 \\times 6 = 108\\\\$ 4. The equation becomes: \\\\$$$\\\\$\\\\$$108 + 78$\\\\$\\\\$$\\\\$ - x = 167 \\Rightarrow 186 - x = 167\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\$$\\\\$\\\\$$186 - 167 = 19$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$19\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2429,37 +2429,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "What value will come in place of question mark (?) in the following equation?\n\n$20 \\times $$$13 + 167 - ? = 415$$$$",
+    "question": "What value will come in place of question mark (?) in the following equation?\n \\\\$20 \\times \\\\$$\\\\$\\\\$$13 + 167 - ? = 415$\\\\$\\\\$$\\$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$7$",
+        "text": "\\\\$7\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$17$",
+        "text": "\\\\$17\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$14$",
+        "text": "\\\\$14\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$10$",
+        "text": "\\\\$10\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$12$",
+        "text": "\\\\$12\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the unknown value be $x$.\n2. The given equation is: $20 \\times $$$13 + 167$$$ - x = 415$\n3. Calculate: $20 \\times 13 = 260$\n4. The equation becomes: $$$$260 + 167$$$ - x = 415 \\Rightarrow 427 - x = 415$\n5. Solve for $x$: $x = $$$427 - 415 = 12$$$$.\nHence, the correct answer is $12$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Let the unknown value be \\\\$x$.\n2. The given equation is: \\\\$20 \\times \\\\$$\\\\$\\\\$$13 + 167$\\\\$\\\\$$\\\\$ - x = 415\\\\$ 3. Calculate: \\\\$20 \\times 13 = 260\\\\$ 4. The equation becomes: \\\\$$$\\\\$\\\\$$260 + 167$\\\\$\\\\$$\\\\$ - x = 415 \\Rightarrow 427 - x = 415\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\$$\\\\$\\\\$$427 - 415 = 12$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$12\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2475,32 +2475,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$34$",
+        "text": "\\\\$34\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$39$",
+        "text": "\\\\$39\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$47$",
+        "text": "\\\\$47\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$44$",
+        "text": "\\\\$44\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 5, Average age = 21 years.\n2. Total age of 5 friends = $5 \\times 21 = 105$ years.\n3. After one friend leaves, remaining friends = 4, New average age = 16.5 years.\n4. Total age of remaining 4 friends = $4 \\times 16.5 \\approx 66$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = $$$$105 - 66 = 39$$$$ years.\nHence, the correct answer is $39$.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Step-by-step Solution:**\n1. Initial number of friends = 5, Average age = 21 years.\n2. Total age of 5 friends = \\\\$5 \\times 21 = 105\\\\$ years.\n3. After one friend leaves, remaining friends = 4, New average age = 16.5 years.\n4. Total age of remaining 4 friends = \\\\$4 \\times 16.5 \\approx 66\\\\$ years.\n5. Age of the friend who left = Total initial age - Total remaining age = \\\\$$$\\\\$\\\\$$105 - 66 = 39$\\\\$\\\\$$$\\\\$ years.\nHence, the correct answer is \\\\$39\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2625,7 +2625,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. $x$.\n2. Selling Price (SP) = Rs. 345, Profit Percentage = 15%.\n3. Formula: $\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})$\n4. Substitute the values: $345 = x \\\\times (1 + \\\\frac{15}{100}) \\Rightarrow 345 = x \\\\times \\\\frac{115}{100}$\n5. Solve for $x$: $x = \\\\frac{345 \\\\times 100}{115} = 300$.\nHence, the Cost Price of the book is Rs. 300.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Let the Cost Price (CP) of the book be Rs. \\\\$x$.\n2. Selling Price (SP) = Rs. 345, Profit Percentage = 15%.\n3. Formula: \\\\$\\\\text{SP} = \\\\text{CP} \\\\times (1 + \\\\frac{\\\\text{Profit\\%}}{100})\\\\$ 4. Substitute the values: \\\\$345 = x \\\\times (1 + \\\\frac{15}{100}) \\Rightarrow 345 = x \\\\times \\\\frac{115}{100}\\\\$ 5. Solve for \\\\$x$: \\\\$x = \\\\frac{345 \\\\times 100}{115} = 300\\\\$.\nHence, the Cost Price of the book is Rs. 300.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -2883,37 +2883,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$6,11,21,36,56$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$6,11,21,36,56$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$81$",
+        "text": "\\\\$81\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$91$",
+        "text": "\\\\$91\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$84$",
+        "text": "\\\\$84\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$76$",
+        "text": "\\\\$76\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$83$",
+        "text": "\\\\$83\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$6,11,21,36,56$$$\n2. $$$$11 - 6 = 5$$$ \\\\times 1$\n3. $$$$21 - 11 = 5$$$ \\\\times 2$\n4. $$$$36 - 21 = 5$$$ \\\\times 3$\n5. $$$$56 - 36 = 5$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 5.\n7. Next difference = $5 \\\\times 5 = 25$.\n8. Missing number = $$$$56 + 25 = 81$$$$.\nHence, the correct answer is $81$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$6,11,21,36,56$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$11 - 6 = 5$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$21 - 11 = 5$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$36 - 21 = 5$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$56 - 36 = 5$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 5.\n7. Next difference = \\\\$5 \\\\times 5 = 25\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$56 + 25 = 81$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$81\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3131,37 +3131,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$7,12,22,37,57$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$7,12,22,37,57$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$79$",
+        "text": "\\\\$79\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$82$",
+        "text": "\\\\$82\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$80$",
+        "text": "\\\\$80\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$77$",
+        "text": "\\\\$77\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$92$",
+        "text": "\\\\$92\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$7,12,22,37,57$$$\n2. $$$$12 - 7 = 5$$$ \\\\times 1$\n3. $$$$22 - 12 = 5$$$ \\\\times 2$\n4. $$$$37 - 22 = 5$$$ \\\\times 3$\n5. $$$$57 - 37 = 5$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 5.\n7. Next difference = $5 \\\\times 5 = 25$.\n8. Missing number = $$$$57 + 25 = 82$$$$.\nHence, the correct answer is $82$.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$7,12,22,37,57$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$12 - 7 = 5$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$22 - 12 = 5$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$37 - 22 = 5$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$57 - 37 = 5$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 5.\n7. Next difference = \\\\$5 \\\\times 5 = 25\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$57 + 25 = 82$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$82\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3182,7 +3182,7 @@
       },
       {
         "id": "B",
-        "text": "$",
+        "text": "\\$",
         "image": null
       },
       {
@@ -3202,10 +3202,10 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "11th from the right end: 7 \n5th to the right of 7: $",
+    "explanation": "11th from the right end: 7 \n5th to the right of 7: \\\\$",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Study the following series carefully and answer the questions given below:\nD 3 P M 9 A Z % X 2 5 @ K C 6 * T 7 Q ^ 4 G $ 1 L ¥ B 8"
+    "direction": "Study the following series carefully and answer the questions given below:\nD 3 P M 9 A Z % X 2 5 @ K C 6 * T 7 Q ^ 4 G \\\\$ 1 L ¥ B 8"
   },
   {
     "id": 80,
@@ -3247,7 +3247,7 @@
     "explanation": "If all the odd digits are removed from the series, then T will be 14th from the left end",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Study the following series carefully and answer the questions given below:\nD 3 P M 9 A Z % X 2 5 @ K C 6 * T 7 Q ^ 4 G $ 1 L ¥ B 8"
+    "direction": "Study the following series carefully and answer the questions given below:\nD 3 P M 9 A Z % X 2 5 @ K C 6 * T 7 Q ^ 4 G \\\\$ 1 L ¥ B 8"
   },
   {
     "id": 81,
@@ -3256,37 +3256,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$10,13,19,28,40$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$10,13,19,28,40$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$58$",
+        "text": "\\\\$58\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$50$",
+        "text": "\\\\$50\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$57$",
+        "text": "\\\\$57\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$53$",
+        "text": "\\\\$53\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$55$",
+        "text": "\\\\$55\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$10,13,19,28,40$$$\n2. $$$$13 - 10 = 3$$$ \\\\times 1$\n3. $$$$19 - 13 = 3$$$ \\\\times 2$\n4. $$$$28 - 19 = 3$$$ \\\\times 3$\n5. $$$$40 - 28 = 3$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 3.\n7. Next difference = $3 \\\\times 5 = 15$.\n8. Missing number = $$$$40 + 15 = 55$$$$.\nHence, the correct answer is $55$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$10,13,19,28,40$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$13 - 10 = 3$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$19 - 13 = 3$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$28 - 19 = 3$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$40 - 28 = 3$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 3.\n7. Next difference = \\\\$3 \\\\times 5 = 15\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$40 + 15 = 55$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$55\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3297,37 +3297,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$4,10,22,40,64$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$4,10,22,40,64$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$94$",
+        "text": "\\\\$94\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$96$",
+        "text": "\\\\$96\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$92$",
+        "text": "\\\\$92\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$91$",
+        "text": "\\\\$91\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$97$",
+        "text": "\\\\$97\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$4,10,22,40,64$$$\n2. $$$$10 - 4 = 6$$$ \\\\times 1$\n3. $$$$22 - 10 = 6$$$ \\\\times 2$\n4. $$$$40 - 22 = 6$$$ \\\\times 3$\n5. $$$$64 - 40 = 6$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 6.\n7. Next difference = $6 \\\\times 5 = 30$.\n8. Missing number = $$$$64 + 30 = 94$$$$.\nHence, the correct answer is $94$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$4,10,22,40,64$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$10 - 4 = 6$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$22 - 10 = 6$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$40 - 22 = 6$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$64 - 40 = 6$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 6.\n7. Next difference = \\\\$6 \\\\times 5 = 30\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$64 + 30 = 94$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$94\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3338,37 +3338,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$10,16,28,46,70$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$10,16,28,46,70$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$102$",
+        "text": "\\\\$102\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$105$",
+        "text": "\\\\$105\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$98$",
+        "text": "\\\\$98\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$100$",
+        "text": "\\\\$100\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$103$",
+        "text": "\\\\$103\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$10,16,28,46,70$$$\n2. $$$$16 - 10 = 6$$$ \\\\times 1$\n3. $$$$28 - 16 = 6$$$ \\\\times 2$\n4. $$$$46 - 28 = 6$$$ \\\\times 3$\n5. $$$$70 - 46 = 6$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 6.\n7. Next difference = $6 \\\\times 5 = 30$.\n8. Missing number = $$$$70 + 30 = 100$$$$.\nHence, the correct answer is $100$.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$10,16,28,46,70$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$16 - 10 = 6$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$28 - 16 = 6$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$46 - 28 = 6$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$70 - 46 = 6$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 6.\n7. Next difference = \\\\$6 \\\\times 5 = 30\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$70 + 30 = 100$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$100\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3379,37 +3379,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$8,15,29,50,78$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$8,15,29,50,78$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$108$",
+        "text": "\\\\$108\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$123$",
+        "text": "\\\\$123\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$118$",
+        "text": "\\\\$118\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$116$",
+        "text": "\\\\$116\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$113$",
+        "text": "\\\\$113\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$8,15,29,50,78$$$\n2. $$$$15 - 8 = 7$$$ \\\\times 1$\n3. $$$$29 - 15 = 7$$$ \\\\times 2$\n4. $$$$50 - 29 = 7$$$ \\\\times 3$\n5. $$$$78 - 50 = 7$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 7.\n7. Next difference = $7 \\\\times 5 = 35$.\n8. Missing number = $$$$78 + 35 = 113$$$$.\nHence, the correct answer is $113$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$8,15,29,50,78$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$15 - 8 = 7$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$29 - 15 = 7$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$50 - 29 = 7$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$78 - 50 = 7$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 7.\n7. Next difference = \\\\$7 \\\\times 5 = 35\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$78 + 35 = 113$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$113\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3502,37 +3502,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$3,11,27,51,83$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$3,11,27,51,83$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\\\$125\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$133$",
+        "text": "\\\\$133\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$118$",
+        "text": "\\\\$118\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$128$",
+        "text": "\\\\$128\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$123$",
+        "text": "\\\\$123\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$3,11,27,51,83$$$\n2. $$$$11 - 3 = 8$$$ \\\\times 1$\n3. $$$$27 - 11 = 8$$$ \\\\times 2$\n4. $$$$51 - 27 = 8$$$ \\\\times 3$\n5. $$$$83 - 51 = 8$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 8.\n7. Next difference = $8 \\\\times 5 = 40$.\n8. Missing number = $$$$83 + 40 = 123$$$$.\nHence, the correct answer is $123$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$3,11,27,51,83$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$11 - 3 = 8$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$27 - 11 = 8$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$51 - 27 = 8$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$83 - 51 = 8$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 8.\n7. Next difference = \\\\$8 \\\\times 5 = 40\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$83 + 40 = 123$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$123\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3584,37 +3584,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$5,13,29,53,85$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$5,13,29,53,85$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\\\$125\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$122$",
+        "text": "\\\\$122\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$128$",
+        "text": "\\\\$128\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$123$",
+        "text": "\\\\$123\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$120$",
+        "text": "\\\\$120\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$5,13,29,53,85$$$\n2. $$$$13 - 5 = 8$$$ \\\\times 1$\n3. $$$$29 - 13 = 8$$$ \\\\times 2$\n4. $$$$53 - 29 = 8$$$ \\\\times 3$\n5. $$$$85 - 53 = 8$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 8.\n7. Next difference = $8 \\\\times 5 = 40$.\n8. Missing number = $$$$85 + 40 = 125$$$$.\nHence, the correct answer is $125$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$5,13,29,53,85$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$13 - 5 = 8$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$29 - 13 = 8$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$53 - 29 = 8$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$85 - 53 = 8$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 8.\n7. Next difference = \\\\$8 \\\\times 5 = 40\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$85 + 40 = 125$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$125\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3707,37 +3707,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$8,13,23,38,58$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$8,13,23,38,58$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$83$",
+        "text": "\\\\$83\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$78$",
+        "text": "\\\\$78\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$93$",
+        "text": "\\\\$93\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$80$",
+        "text": "\\\\$80\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$88$",
+        "text": "\\\\$88\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$8,13,23,38,58$$$\n2. $$$$13 - 8 = 5$$$ \\\\times 1$\n3. $$$$23 - 13 = 5$$$ \\\\times 2$\n4. $$$$38 - 23 = 5$$$ \\\\times 3$\n5. $$$$58 - 38 = 5$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 5.\n7. Next difference = $5 \\\\times 5 = 25$.\n8. Missing number = $$$$58 + 25 = 83$$$$.\nHence, the correct answer is $83$.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$8,13,23,38,58$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$13 - 8 = 5$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$23 - 13 = 5$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$38 - 23 = 5$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$58 - 38 = 5$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 5.\n7. Next difference = \\\\$5 \\\\times 5 = 25\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$58 + 25 = 83$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$83\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -3953,37 +3953,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$9,15,27,45,69$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$9,15,27,45,69$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$96$",
+        "text": "\\\\$96\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$97$",
+        "text": "\\\\$97\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$109$",
+        "text": "\\\\$109\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$101$",
+        "text": "\\\\$101\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$99$",
+        "text": "\\\\$99\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$9,15,27,45,69$$$\n2. $$$$15 - 9 = 6$$$ \\\\times 1$\n3. $$$$27 - 15 = 6$$$ \\\\times 2$\n4. $$$$45 - 27 = 6$$$ \\\\times 3$\n5. $$$$69 - 45 = 6$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 6.\n7. Next difference = $6 \\\\times 5 = 30$.\n8. Missing number = $$$$69 + 30 = 99$$$$.\nHence, the correct answer is $99$.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$9,15,27,45,69$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$15 - 9 = 6$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$27 - 15 = 6$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$45 - 27 = 6$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$69 - 45 = 6$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 6.\n7. Next difference = \\\\$6 \\\\times 5 = 30\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$69 + 30 = 99$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$99\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   },
@@ -4035,37 +4035,37 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$4,10,22,40,64$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$\\\\$\\\\$$4,10,22,40,64$\\\\$\\\\$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$97$",
+        "text": "\\\\$97\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$89$",
+        "text": "\\\\$89\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$92$",
+        "text": "\\\\$92\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$94$",
+        "text": "\\\\$94\\\\$",
         "image": null
       },
       {
         "id": "E",
-        "text": "$96$",
+        "text": "\\\\$96\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: $$$4,10,22,40,64$$$\n2. $$$$10 - 4 = 6$$$ \\\\times 1$\n3. $$$$22 - 10 = 6$$$ \\\\times 2$\n4. $$$$40 - 22 = 6$$$ \\\\times 3$\n5. $$$$64 - 40 = 6$$$ \\\\times 4$\n6. The pattern is adding consecutive multiples of 6.\n7. Next difference = $6 \\\\times 5 = 30$.\n8. Missing number = $$$$64 + 30 = 94$$$$.\nHence, the correct answer is $94$.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Step-by-step Solution:**\n1. Analyze the differences between consecutive terms in the series: \\\\$$\\\\$\\\\$$4,10,22,40,64$\\\\$\\\\$$\\\\$ 2. \\\\$$$\\\\$\\\\$$10 - 4 = 6$\\\\$\\\\$$\\\\$ \\\\times 1\\\\$ 3. \\\\$$$\\\\$\\\\$$22 - 10 = 6$\\\\$\\\\$$\\\\$ \\\\times 2\\\\$ 4. \\\\$$$\\\\$\\\\$$40 - 22 = 6$\\\\$\\\\$$\\\\$ \\\\times 3\\\\$ 5. \\\\$$$\\\\$\\\\$$64 - 40 = 6$\\\\$\\\\$$\\\\$ \\\\times 4\\\\$ 6. The pattern is adding consecutive multiples of 6.\n7. Next difference = \\\\$6 \\\\times 5 = 30\\\\$.\n8. Missing number = \\\\$$$\\\\$\\\\$$64 + 30 = 94$\\\\$\\\\$$$\\$.\nHence, the correct answer is \\\\$94\\\\$.",
     "marks": 1,
     "negativeMarks": 0.25
   }

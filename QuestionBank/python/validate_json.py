@@ -109,9 +109,11 @@ def validate_file(filepath):
             errors.append(f"Q{q_num}: Explanation is missing or too short.")
             
         # Check LaTeX delimiters
-        if q_text.count("$") % 2 != 0:
+        unescaped_q_dollars = len(re.findall(r'(?<!\\)\$', q_text))
+        unescaped_exp_dollars = len(re.findall(r'(?<!\\)\$', explanation))
+        if unescaped_q_dollars % 2 != 0:
             print(f"Warning [Q{q_num}]: Question text contains unclosed LaTeX '$' delimiters.")
-        if explanation.count("$") % 2 != 0:
+        if unescaped_exp_dollars % 2 != 0:
             print(f"Warning [Q{q_num}]: Explanation text contains unclosed LaTeX '$' delimiters.")
             
     return errors

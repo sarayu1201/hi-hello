@@ -84,110 +84,130 @@
     "direction": "Directions (1-2): In the question below, a part is\nomitted which is then replaced by a blank. Choose the\nword from the given options that will fit into the blank\nmost appropriately."
   },
   {
-    "exam": "SSC CHSL",
-    "year": 2022,
+    "id": 3,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
     "subject": "English Language",
-    "topic": "Spotting Errors",
+    "topic": "Blank Filler",
     "difficulty": "Medium",
-    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "question": "They needs",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "was pleased with",
+        "text": "/ to submit the report",
         "image": null
       },
       {
         "id": "B",
-        "text": "the performance of the team",
+        "text": "/ before the\ndeadline",
         "image": null
       },
       {
         "id": "C",
-        "text": "and give them a bonus",
+        "text": "/ to avoid penalties.",
         "image": null
       },
       {
         "id": "D",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Blank Filler - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS3. Ans. (a) \nSol. The subject \"They\" is plural, so the verb must also be plural. \"Needs\" is the singular form. The correct verb is \"need\". \nRule: Subject-verb agreement – a plural subject takes a plural verb without -s. \nCorrection: They need to submit the report before the deadline to avoid penalties.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (3-7): Read each sentence to find out\nwhether there is any grammatical or idiomatic error in\nit. The error, if any, will be in one part of the sentence.\nThe corresponding letter of that part is the answer. If\nthe given sentence is correct as it is, then choose option\n‘No error’ as your answer response. (Ignore errors of\npunctuation, if any)."
+  },
+  {
+    "id": 4,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Blank Filler",
+    "difficulty": "Medium",
+    "question": "She was hard",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "/ to convince as she",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "/ is use",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "/ to\nhaving her opinions valued.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
+        "image": null
+      },
+      {
+        "id": "E",
         "text": "No error",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 3
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Blank Filler - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS4. Ans. (c) \nSol. The phrase \"is use\" is incorrect. The correct form is \"is used\" – the past participle is needed after \"is\" in passive \nconstructions or expressions like \"be used to.\" \nRule: The correct form of \"be used to\" is be (is/are/was, etc.) + used + to + gerund/noun to express being accustomed \nto something. \nCorrection: She was hard to convince as she is used to having her opinions valued.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (3-7): Read each sentence to find out\nwhether there is any grammatical or idiomatic error in\nit. The error, if any, will be in one part of the sentence.\nThe corresponding letter of that part is the answer. If\nthe given sentence is correct as it is, then choose option\n‘No error’ as your answer response. (Ignore errors of\npunctuation, if any)."
   },
   {
-    "exam": "SSC CHSL",
-    "year": 2022,
+    "id": 5,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
     "subject": "English Language",
-    "topic": "Synonyms",
-    "difficulty": "Easy",
-    "question": "Select the synonym of the given word.\n\n**ABUNDANT**",
+    "topic": "Blank Filler",
+    "difficulty": "Medium",
+    "question": "She has being",
+    "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "Scarce",
+        "text": "/ working tirelessly",
         "image": null
       },
       {
         "id": "B",
-        "text": "Plentiful",
+        "text": "/ on the\nproject",
         "image": null
       },
       {
         "id": "C",
-        "text": "Rare",
+        "text": "/ for the past two weeks.",
         "image": null
       },
       {
         "id": "D",
-        "text": "Deficient",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "'Abundant' means existing or available in large quantities; overflowing or rich. 'Plentiful' is its direct synonym. 'Scarce', 'Rare', and 'Deficient' are antonyms.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 4
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Antonyms",
-    "difficulty": "Easy",
-    "question": "Select the antonym of the given word.\n\n**HOSTILE**",
-    "options": [
-      {
-        "id": "A",
-        "text": "Friendly",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
         "image": null
       },
       {
-        "id": "B",
-        "text": "Adverse",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Antagonistic",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Unfavorable",
+        "id": "E",
+        "text": "No error",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "'Hostile' means unfriendly, antagonistic, or opposed. The opposite of hostile is 'Friendly'. 'Adverse', 'Antagonistic', and 'Unfavorable' are synonyms.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 5
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Blank Filler - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS5. Ans. (a) \nSol. The phrase \"has being\" is incorrect. The correct form for the present perfect continuous tense is \"has been\", not \n\"has being.\" \"Being\" is not used as an auxiliary in this tense. \nRule: Present perfect continuous is formed using has/have been + present participle (verb + ing). \nCorrection: She has been working tirelessly on the project for the past two weeks.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (3-7): Read each sentence to find out\nwhether there is any grammatical or idiomatic error in\nit. The error, if any, will be in one part of the sentence.\nThe corresponding letter of that part is the answer. If\nthe given sentence is correct as it is, then choose option\n‘No error’ as your answer response. (Ignore errors of\npunctuation, if any)."
   },
   {
     "id": 6,
@@ -733,7 +753,7 @@
     "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Sentence Rearrangement - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS18. Ans. (d) \nSol. C-E: She took the antiseptic from the bottle and put it on the cotton ball. \nA-F:  The old clock in the hallway chimed softly at midnight. \nB-D: The child’s laughter echoed through the empty playground. \nOther options fail to pair all three phrases correctly. Therefore, option (d) is the best choice.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (8-17): Read the following passage and \nanswer the given questions. \nSayer Daheir began a modest printing press many decades \nago, choosing to begin his venture with a deep respect for \nthe traditional arts of printing and book binding. At a time \nwhen modern technology had started to look more \nappealing to many entrepreneurs, he remained loyal to the \nclassic methods passed down through skilled craftsmen. \nEvery page that left his workshop carried such precision \nthat visitors often felt, with quiet admiration, that there \nseems no mistake in the delicate strokes of his work. \nAs the years moved forward, Sayer gradually welcomed his \nchildren and relatives into the business so the heritage \nwould never fade. In 1999, his children and siblings finally \n______________ the company, having taken it much like one \ntook a treasure, determined to guard the original \ntechniques their ancestor had loved. They carefully \ncontinued the old art of binding and even enriched it by \noffering metal nameplates to customise each piece, which \ngave every book an identity of its own. Those who once \nworked at DA needed no other certificate; the very fact that \nthey had honed their skill there was proof enough of their \ncraftsmanship and dedication. \nToday, when tourists arrive, the entire workshop seems to \nlook like a living museum where every corner appears to \nhold stories of timeless artistry. Generations later, the \ntradition thrives with the same spirit. Hadiya, Sayer’s \nfourth-generation niece, now works beside her elders and \nadds her own quiet strength to the family’s work. The press \nthat Sayer once founded—and which his heirs later took \npossession from him—remains a place where artistry \nspeaks louder than machines. Visitors continue to be drawn \nto its quiet charm and enduring beauty. \nOver decades and decades, the Daheir legacy has shown that \ntrue artistry starts with passion and is sustained by \npatience. Without relying on modern technology, the \ncompany stands as a living example of how dedication and \nskill can transform simple materials into timeless art, \nkeeping alive a heritage where there seems no mistake in \nthe harmony between tradition and excellence."
   },
   {
     "id": 19,
@@ -988,110 +1008,130 @@
     "direction": "Directions (19-24): In the following question, a passage\nis given with few blanks. Choose the most suitable\noption to for the respective blank to make it\ngrammatically correct and contextually meaningful.\n______________ (A) up, Maria’s love for gardening began in\nchildhood, inspired by afternoons spent with her\ngrandmother in their backyard. Her grandmother patiently\ntaught her how to prepare the soil, sow seeds, and water\nplants correctly. Watching tiny shoots ______________ (B) gave\nMaria joy and a sense of responsibility. Over time,\n______________ (C) plants became more than a hobby; it\nbecame her way of staying close to nature.\nAs she grew older, Maria noticed people ______________ (D)\ngardens and pathways with plastics and wrappers, harming\nthe soil and plants. This troubled her deeply. She\n______________ (E) caring only for her own garden was not\nenough if the surroundings continued to suffer.\nWith the ______________ (F) of protecting nature, Maria\norganized clean-up drives and encouraged neighbors to\njoin. She educated children about the dangers of plastic\nwaste and the importance of safeguarding greenery. Her\nefforts inspired many to adopt cleaner habits, turning her\npassion into a movement for a greener community."
   },
   {
-    "exam": "SSC CHSL",
-    "year": 2022,
+    "id": 25,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
     "subject": "English Language",
-    "topic": "One Word Substitution",
+    "topic": "Reading Comprehension",
     "difficulty": "Medium",
-    "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n**A person who presents a radio or television program**",
-    "options": [
-      {
-        "id": "A",
-        "text": "Actor",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Anchor",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Compere",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Journalist",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "An 'Anchor' is a person who presents a radio or television program. A 'Compere' is a person who introduces the performers in a variety show. Hence, Anchor is the correct choice.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 25
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Idioms & Phrases",
-    "difficulty": "Medium",
-    "question": "Select the most appropriate meaning of the given idiom.\n\n**Spill the beans**",
-    "options": [
-      {
-        "id": "A",
-        "text": "To drop something by mistake",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "To reveal a secret prematurely",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "To work very hard",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "To waste food",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "The idiom 'Spill the beans' means to disclose secret information, often unintentionally or prematurely. Hence, option B is the correct interpretation.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 26
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Spotting Errors",
-    "difficulty": "Medium",
-    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "question": "The irritated",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "was pleased with",
+        "text": "of the morning",
         "image": null
       },
       {
         "id": "B",
-        "text": "the performance of the team",
+        "text": "alarm noise",
         "image": null
       },
       {
         "id": "C",
-        "text": "and give them a bonus",
+        "text": "her.\n(a) ACB\n(b) BAC\n(c) CAB",
         "image": null
       },
       {
         "id": "D",
-        "text": "No error",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Reading Comprehension - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS25. Ans. (d) \nSol. Correct sequence: CBA: The noise of the morning alarm irritated her. \nWhy CBA works \n• \nC (“noise”) forms the subject head. \n• \nB (“morning”) appropriately modifies “alarm.” \n• \nA (“irritated”) is the verb before the object “her.”\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (25-27): For the following question, a\nsentence is provided with few highlighted words that\nmay be incorrectly positioned. Choose the correct\nsequence to rearrange these words, ensuring the\nsentence is both grammatically and contextually\ncorrect."
+  },
+  {
+    "id": 26,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "She was climb",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "trying to struck",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "and couldn’t\nfigure",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "out the way.\n(a) ACB\n(b) BAC\n(c) CAB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Reading Comprehension - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS26. Ans. (b) \nSol. Correct sequence BAC: She was struck trying to climb and couldn’t figure out the way. \nWhy BAC works \n• \nB “struck” correctly follows “was” (passive: was struck). \n• \nA “climb” fits after “trying to” (base form needed). \n\n    www.sscadda.com                                         |                               Adda247 App  \n \n• \nC “figure” fits after “couldn’t” (bare infinitive).\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (25-27): For the following question, a\nsentence is provided with few highlighted words that\nmay be incorrectly positioned. Choose the correct\nsequence to rearrange these words, ensuring the\nsentence is both grammatically and contextually\ncorrect."
+  },
+  {
+    "id": 27,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "The cooled",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "rain scorching",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "the sudden",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "afternoon.\n(a) ACB\n(b) BAC\n(c) CAB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 27
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Reading Comprehension - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS27. Ans. (c) \nSol. Correct sequence: CAB: The sudden rain cooled the scorching afternoon. \nWhy CAB works \n• \nC “sudden” modifies “rain” to form the subject. \n• \nA “cooled” is the verb. \n• \nB “scorching” modifies “afternoon” as the object.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (25-27): For the following question, a\nsentence is provided with few highlighted words that\nmay be incorrectly positioned. Choose the correct\nsequence to rearrange these words, ensuring the\nsentence is both grammatically and contextually\ncorrect."
   },
   {
     "id": 28,
@@ -1133,7 +1173,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Reading Comprehension - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS28. Ans. (b) \nSol. The verb \"ascend\" means to go up, rise, or move to a higher position—either literally or figuratively. \n• \n(A) is incorrect: “Ascend the conversation” is not a valid or idiomatic use of the word. The intended meaning seems to \nbe \"de-escalate\" or \"calm down,\" which contradicts the meaning of \"ascend.\" \n• \n(B) is correct: Profits “ascend” figuratively as they rise or increase. \n• \n(C) is correct: Hikers literally ascend a mountain trail—this is a classic and accurate use of the word.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (25-27): For the following question, a \nsentence is provided with few highlighted words that \nmay be incorrectly positioned. Choose the correct \nsequence to rearrange these words, ensuring the \nsentence is both grammatically and contextually \ncorrect."
   },
   {
     "id": 29,
@@ -1142,32 +1182,32 @@
     "subject": "English Language",
     "topic": "Reading Comprehension",
     "difficulty": "Medium",
-    "question": "(A) in the\n(B) his grandmother tells him\n(C) freedom movement\n(D) heroic tales of his grandfather’s role\n(E) during the 18th century",
+    "question": "",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "CBEAD",
+        "text": "in the",
         "image": null
       },
       {
         "id": "B",
-        "text": "ACEBD",
+        "text": "his grandmother tells him",
         "image": null
       },
       {
         "id": "C",
-        "text": "BDACE",
+        "text": "freedom movement",
         "image": null
       },
       {
         "id": "D",
-        "text": "DCEBA",
+        "text": "heroic tales of his grandfather’s role",
         "image": null
       },
       {
         "id": "E",
-        "text": "No rearrangement required",
+        "text": "during the 18th century \n(a) CBEAD \n(b) ACEBD \n(c) BDACE \n(d) DCEBA \n(e) No rearrangement required",
         "image": null
       }
     ],
@@ -1184,32 +1224,32 @@
     "subject": "English Language",
     "topic": "Reading Comprehension",
     "difficulty": "Medium",
-    "question": "(A) dipped behind\n(B) to admire the crimson horizon\n(C) the traveler paused\n(D) the rolling hills\n(E) as the sun slowly",
+    "question": "",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "CBEAD",
+        "text": "dipped behind",
         "image": null
       },
       {
         "id": "B",
-        "text": "ACEBD",
+        "text": "to admire the crimson horizon",
         "image": null
       },
       {
         "id": "C",
-        "text": "BCDEA",
+        "text": "the traveler paused",
         "image": null
       },
       {
         "id": "D",
-        "text": "DCEBA",
+        "text": "the rolling hills",
         "image": null
       },
       {
         "id": "E",
-        "text": "No rearrangement required",
+        "text": "as the sun slowly \n(a) CBEAD \n(b) ACEBD \n(c) BCDEA \n(d) DCEBA \n(e) No rearrangement required",
         "image": null
       }
     ],
@@ -1231,27 +1271,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$130$",
+        "text": "\\(130\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$120$",
+        "text": "\\(120\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$125$",
+        "text": "\\(125\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$105$",
+        "text": "\\(105\\)",
         "image": null
       }
     ],
@@ -1273,27 +1313,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$24$",
+        "text": "\\(24\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       }
     ],
@@ -1315,32 +1355,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$15:16$$$$",
+        "text": "\\($15:16$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$20:21$$$$",
+        "text": "\\($20:21$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$12:29$$$$",
+        "text": "\\($12:29$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$29:12$$$$",
+        "text": "\\($29:12$\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$15:17$$$$",
+        "text": "\\($15:17$\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS33. Ans. (d) \nSol. Required answer = $$$32+26$$$: 24 = $$$58:24$$$ =$$$29:12$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS33. Ans. (d) \nSol. Required answer = \\\\$$$$$\\\\$$32+26$\\\\$$$$$$: 24 = \\\\$$$$$\\\\$$58:24$\\\\$$$$$\\\\$ =$$$$$\\\\$$29:12$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (31-35): The line graph given below shows\nthe number of visitor visited on Sunday in five parks\n(A,B,C,D & E) on Sunday."
@@ -1357,27 +1397,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$35$",
+        "text": "\\(35\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$24$",
+        "text": "\\(24\\)",
         "image": null
       }
     ],
@@ -1399,32 +1439,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$35$",
+        "text": "\\(35\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$30",
+        "text": "\\\\$30",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS35. Ans. (e) \nSol. Visitors visited in A on Wednesday = $25 \\times 2$ – 20 = 30\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS35. Ans. (e) \nSol. Visitors visited in A on Wednesday = \\\\$25 \\times 2\\\\$ – 20 = 30\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (31-35): The line graph given below shows\nthe number of visitor visited on Sunday in five parks\n(A,B,C,D & E) on Sunday."
@@ -1441,32 +1481,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$5:9$$$$",
+        "text": "\\($5:9$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$9:5$$$$",
+        "text": "\\($9:5$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$6:5$$$$",
+        "text": "\\($6:5$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$6:7$$$$",
+        "text": "\\($6:7$\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$6:1$$$$",
+        "text": "\\($6:1$\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS36. Ans. (a) \nSol. \nRequired answer = $$$20:36$$$  = $$$5:9$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS36. Ans. (a) \nSol. \nRequired answer = \\\\$$$$$\\\\$$20:36$\\\\$$$$$\\\\$  = \\\\$$$$$\\\\$$5:9$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (36-40): The table given below shows the\nnumber of students from two different schools playing\nthree different games i.e. cricket, hockey and football.\nGames\nA\nB\nCricket\n35\nHockey\n30\nFootball\n36"
@@ -1483,27 +1523,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       }
     ],
@@ -1525,32 +1565,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\(125\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$120$",
+        "text": "\\(120\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$90$",
+        "text": "\\(90\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$110$",
+        "text": "\\(110\\)",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS38. Ans. (e) \nSol. Required answer = $$$20 + 35+25+30 = 110$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS38. Ans. (e) \nSol. Required answer = \\\\$$$$$\\\\$$20 + 35+25+30 = 110$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (36-40): The table given below shows the\nnumber of students from two different schools playing\nthree different games i.e. cricket, hockey and football.\nGames\nA\nB\nCricket\n35\nHockey\n30\nFootball\n36"
@@ -1567,27 +1607,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$28$",
+        "text": "\\(28\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$19$",
+        "text": "\\(19\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$26$",
+        "text": "\\(26\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$66$",
+        "text": "\\(66\\)",
         "image": null
       }
     ],
@@ -1609,27 +1649,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$366.66$",
+        "text": "\\(366.66\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$309.69$",
+        "text": "\\(309.69\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$355.70$",
+        "text": "\\(355.70\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$388.67$",
+        "text": "\\(388.67\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$666.66",
+        "text": "\\\\$666.66",
         "image": null
       }
     ],
@@ -1651,32 +1691,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$203$",
+        "text": "\\(203\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$206$",
+        "text": "\\(206\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$207$",
+        "text": "\\(207\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$201$",
+        "text": "\\(201\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS41. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = $$$14 + 26 = 40$$$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nRequired answer = $$$86 + 120 = 206$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS41. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = \\\\$$$$$\\\\$$14 + 26 = 40$\\\\$$$$$\\\\$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nRequired answer = \\\\$$$$$\\\\$$86 + 120 = 206$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-45): Read the information answer the\nfollowing question.\nThere are three companies A, B and C. The sum of male\nworking in all the given companies is 86. The female\nworking in A is 25% more than that of males. The male\nworking in B is 26, which is 14 less than the males in A. the\nfemale working in A is equal to female working in C. Total\nemployees working in B is 46."
@@ -1693,32 +1733,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$120$",
+        "text": "\\(120\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$150$",
+        "text": "\\(150\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$50$",
+        "text": "\\(50\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$200$",
+        "text": "\\(200\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       }
     ],
     "correctAnswer": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS42. Ans. (e) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = $$$14 + 26 = 40$$$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS42. Ans. (e) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = \\\\$$$$$\\\\$$14 + 26 = 40$\\\\$$$$$\\\\$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-45): Read the information answer the\nfollowing question.\nThere are three companies A, B and C. The sum of male\nworking in all the given companies is 86. The female\nworking in A is 25% more than that of males. The male\nworking in B is 26, which is 14 less than the males in A. the\nfemale working in A is equal to female working in C. Total\nemployees working in B is 46."
@@ -1730,37 +1770,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Caselet DI",
     "difficulty": "Medium",
-    "question": "In C, the ratio of manager to associate are $$$$2:5$$$$ and\n35 associates are females. Find the male manager.",
+    "question": "In C, the ratio of manager to associate are \\($2:5$\\) and\n35 associates are females. Find the male manager.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2$",
+        "text": "\\(2\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS43. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = $$$14 + 26 = 40$$$ \n40 = 100x \n0.4 = x \n\n    www.sscadda.com                                         |                               Adda247 App  \n \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nTotal employees in C = 70 \nLet managers and associates be 2x and 5x respectively. \n2x + 5x = 70 \n10 = x \nManagers = 20 \nAssociates = 5x = 50 \nMale associates = 50 – 35=15 \nMales manager = 20 – 15 = 5\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS43. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = \\\\$$$$$\\\\$$14 + 26 = 40$\\\\$$$$$\\\\$ \n40 = 100x \n0.4 = x \n\n    www.sscadda.com                                         |                               Adda247 App  \n \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nTotal employees in C = 70 \nLet managers and associates be 2x and 5x respectively. \n2x + 5x = 70 \n10 = x \nManagers = 20 \nAssociates = 5x = 50 \nMale associates = 50 – 35=15 \nMales manager = 20 – 15 = 5\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-45): Read the information answer the\nfollowing question.\nThere are three companies A, B and C. The sum of male\nworking in all the given companies is 86. The female\nworking in A is 25% more than that of males. The male\nworking in B is 26, which is 14 less than the males in A. the\nfemale working in A is equal to female working in C. Total\nemployees working in B is 46."
@@ -1777,32 +1817,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$13:35$$$$",
+        "text": "\\($13:35$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$35:13$$$$",
+        "text": "\\($35:13$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$7:13$$$$",
+        "text": "\\($7:13$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$16:17$$$$",
+        "text": "\\($16:17$\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$16:11$$$$",
+        "text": "\\($16:11$\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS44. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = $$$14 + 26 = 40$$$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nRequired ratio = $$$20 + 50$$$ : 26 = $$$70:26$$$ = $$$35:13$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS44. Ans. (b) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = \\\\$$$$$\\\\$$14 + 26 = 40$\\\\$$$$$\\\\$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal \n\n\nRequired ratio = \\\\$$$$$\\\\$$20 + 50$\\\\$$$$$\\\\$ : 26 = \\\\$$$$$\\\\$$70:26$\\\\$$$$$\\\\$ = \\\\$$$$$\\\\$$35:13$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-45): Read the information answer the\nfollowing question.\nThere are three companies A, B and C. The sum of male\nworking in all the given companies is 86. The female\nworking in A is 25% more than that of males. The male\nworking in B is 26, which is 14 less than the males in A. the\nfemale working in A is equal to female working in C. Total\nemployees working in B is 46."
@@ -1819,32 +1859,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$68$",
+        "text": "\\(68\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$69$",
+        "text": "\\(69\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$70$",
+        "text": "\\(70\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$67$",
+        "text": "\\(67\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$66$",
+        "text": "\\(66\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS45. Ans. (a) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = $$$14 + 26 = 40$$$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS45. Ans. (a) \nSol. Total males working in all the companies =86 \nLet males working in A be 100x \nSo females working in A = 125% of 100x = 125x \nMales working in B = 26 \nMales working in A = \\\\$$$$$\\\\$$14 + 26 = 40$\\\\$$$$$\\\\$ \n40 = 100x \n0.4 = x \nFemales working in A = 125x = 50 = females working in C \nFemales working in B = 46 – 26 = 20 \nMales working in C = 86 – 40 – 26 = 20 \nCompanies \nMales \nFemales \nA \n\n\nB \n\n\nC \n\n\nTotal\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-45): Read the information answer the\nfollowing question.\nThere are three companies A, B and C. The sum of male\nworking in all the given companies is 86. The female\nworking in A is 25% more than that of males. The male\nworking in B is 26, which is 14 less than the males in A. the\nfemale working in A is equal to female working in C. Total\nemployees working in B is 46."
@@ -1856,40 +1896,40 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "The ratio of length to breadth of a rectangle is $$$$5:3$$$$,\nrespectively. If twice the perimeter of the rectangle is 96\ncm, then find the area of the rectangle (in sq. cm).",
+    "question": "The ratio of length to breadth of a rectangle is \\($5:3$\\),\nrespectively. If twice the perimeter of the rectangle is 96\ncm, then find the area of the rectangle (in sq. cm).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$225$",
+        "text": "\\(225\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$135$",
+        "text": "\\(135\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$196$",
+        "text": "\\(196\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$180$",
+        "text": "\\(180\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$154$",
+        "text": "\\(154\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS46. Ans (b) \nSol. Let the length and breadth of the rectangle be 5x and 3x respectively. \nGiven, \n\n    www.sscadda.com                                         |                               Adda247 App  \n \n48 = 16x \n3 = x \nThe length and breadth of the rectangle be 15 cm and 9 cm respectively. \nRequired area = $15 \\times 9 = 135$ sq. cm\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS46. Ans (b) \nSol. Let the length and breadth of the rectangle be 5x and 3x respectively. \nGiven, \n\n    www.sscadda.com                                         |                               Adda247 App  \n \n48 = 16x \n3 = x \nThe length and breadth of the rectangle be 15 cm and 9 cm respectively. \nRequired area = \\\\$15 \\times 9 = 135\\\\$ sq. cm\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 47,
@@ -1903,27 +1943,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$7.5$",
+        "text": "\\(7.5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$6.5$",
+        "text": "\\(6.5\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$8.5$",
+        "text": "\\(8.5\\)",
         "image": null
       }
     ],
@@ -1931,7 +1971,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS47. Ans (a) \n \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 48,
@@ -1940,32 +1980,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "A bike covers 150 km in 5 hours, and the speed of\na car is $\\frac{4}{5}$ of the speed of the bike. Find the speed of\nthe car. (in km/hr)",
+    "question": "A bike covers 150 km in 5 hours, and the speed of\na car is \\(\\frac{4}{5}\\) of the speed of the bike. Find the speed of\nthe car. (in km/hr)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$22$",
+        "text": "\\(22\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$26$",
+        "text": "\\(26\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$24$",
+        "text": "\\(24\\)",
         "image": null
       }
     ],
@@ -1973,7 +2013,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS48. Ans (e) \n \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 49,
@@ -1987,27 +2027,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$3000$",
+        "text": "\\(3000\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5500$",
+        "text": "\\(5500\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4000$",
+        "text": "\\(4000\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$3500$",
+        "text": "\\(3500\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$2500$",
+        "text": "\\(2500\\)",
         "image": null
       }
     ],
@@ -2015,7 +2055,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS49. Ans (c) \n \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 50,
@@ -2029,35 +2069,35 @@
     "options": [
       {
         "id": "A",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3$",
+        "text": "\\(3\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS50. Ans (c) \n \nSol. Let the capacity of the tank (LCM of 8, 12 and 24) = 24 units \nEfficiency of pipe P = $\\frac{24}{8}$ = 3 units/hour \nEfficiency of pipe Q = $\\frac{24}{12}$ = 2 units/hour \nEfficiency of pipe R = $\\frac{24}{24}$ = 1 units/hour\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS50. Ans (c) \n \nSol. Let the capacity of the tank (LCM of 8, 12 and 24) = 24 units \nEfficiency of pipe P = \\\\$\\frac{24}{8}\\\\$ = 3 units/hour \nEfficiency of pipe Q = \\\\$\\frac{24}{12}\\\\$ = 2 units/hour \nEfficiency of pipe R = \\\\$\\frac{24}{24}\\\\$ = 1 units/hour\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 51,
@@ -2066,32 +2106,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "A 150 liters mixture of milk and water contains\n30% water. 40 liters of this mixture is removed, and y\nliters of water is added to the remaining mixture. If in\nthe resultant mixture, the ratio of the milk to water\nbecomes $$$$11:6$$$$, then find the value of $y$.",
+    "question": "A 150 liters mixture of milk and water contains\n30% water. 40 liters of this mixture is removed, and y\nliters of water is added to the remaining mixture. If in\nthe resultant mixture, the ratio of the milk to water\nbecomes \\($11:6$\\), then find the value of \\(y\\).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$3$",
+        "text": "\\(3\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       }
     ],
@@ -2099,7 +2139,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS51. Ans (e) \n \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 52,
@@ -2113,27 +2153,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       }
     ],
@@ -2141,7 +2181,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS52. Ans (a) \n \nSol. \n\n    www.sscadda.com                                         |                               Adda247 App\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 53,
@@ -2150,40 +2190,40 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "The ratio of present ages of Aman and Rohan is $$$$3:5$$$$. Sohan is 8 years older than Aman and 4 years younger\nthan Rohan. Find the age of Rohan after 6 years (in\nyears).",
+    "question": "The ratio of present ages of Aman and Rohan is \\($3:5$\\). Sohan is 8 years older than Aman and 4 years younger\nthan Rohan. Find the age of Rohan after 6 years (in\nyears).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$24$",
+        "text": "\\(24\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$40$",
+        "text": "\\(40\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$36$",
+        "text": "\\(36\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$30$",
+        "text": "\\(30\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$32$",
+        "text": "\\(32\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS53. Ans (c) \n \nSol. Let the present age of Aman be X years \nThe present age of Sohan = X + 8 years \nAnd \nThe present age of Rohan = X + $$$8 + 4$$$ = X + 12 years \nATQ, \n \n5X = 3X + 36 \n2X = 36 \nX =18 \nRequired age = X + $$$12 + 6$$$ = X + 18 \n= $$$18 + 18 = 36$$$ years\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS53. Ans (c) \n \nSol. Let the present age of Aman be X years \nThe present age of Sohan = X + 8 years \nAnd \nThe present age of Rohan = X + \\\\$$$$$\\\\$$8 + 4$\\\\$$$$$\\\\$ = X + 12 years \nATQ, \n \n5X = 3X + 36 \n2X = 36 \nX =18 \nRequired age = X + \\\\$$$$$\\\\$$12 + 6$\\\\$$$$$\\\\$ = X + 18 \n= \\\\$$$$$\\\\$$18 + 18 = 36$\\\\$$$$$\\\\$ years\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 54,
@@ -2197,27 +2237,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$1500$",
+        "text": "\\(1500\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$1200$",
+        "text": "\\(1200\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$2400$",
+        "text": "\\(2400\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2200$",
+        "text": "\\(2200\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$1800$",
+        "text": "\\(1800\\)",
         "image": null
       }
     ],
@@ -2225,7 +2265,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS54. Ans (c) \n \nSol. Let cost price = X. \nSelling Price at 20% profit = 1.2×X \nSelling Price at 30% profit = 1.3×X \n1.3X – 1.2X = 240 \nX = 2400\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 55,
@@ -2239,35 +2279,35 @@
     "options": [
       {
         "id": "A",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$8",
+        "text": "\\\\$8",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS55. Ans (e) \n \nSol. Total work (LCM of 15 and 20) = 60 units \nEfficiency of A = $\\frac{60}{15}$ = 4 units/day \nEfficiency of B = $\\frac{60}{20}$ = 3 units/day \nAmount of work done by A and B together in 4 days = 4 × $$$(4 + 3) = 28$$$ units\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS55. Ans (e) \n \nSol. Total work (LCM of 15 and 20) = 60 units \nEfficiency of A = \\\\$\\frac{60}{15}\\\\$ = 4 units/day \nEfficiency of B = \\\\$\\frac{60}{20}\\\\$ = 3 units/day \nAmount of work done by A and B together in 4 days = 4 × \\\\$$$$$$$(4 + 3) = 28$\\\\$$$$\\$\\\\$ units\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (41-45): Read the information answer the \nfollowing question. \nThere are three companies A, B and C. The sum of male \nworking in all  the given  companies is 86. The female \nworking in A is 25% more than that of males. The male \nworking in B is 26, which is 14 less than the males in A. the \nfemale working in A is equal to female working in C. Total \nemployees working in B is 46."
   },
   {
     "id": 56,
@@ -2276,37 +2316,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$14^$$$$2 + 185$$$$\\div 37 = ? - 13$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(14^\\)$2 + 185$\\(\\div 37 = ? - 13\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$107$",
+        "text": "\\(107\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$150$",
+        "text": "\\(150\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$315$",
+        "text": "\\(315\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$220$",
+        "text": "\\(220\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$214$",
+        "text": "\\(214\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS56. Ans (e) \n \nSol. 14² + $185 \\div 37= ? -13$ \n$$$196 + 5 + 13 = ?$$$ \n214 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS56. Ans (e) \n \nSol. 14² + \\\\$185 \\div 37= ? -13\\\\$ \n\\\\$$$$$\\\\$$196 + 5 + 13 = ?$$$$$\\$\\\\$ \n214 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2318,37 +2358,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$\\sqrt{256} + 340 \\div$$$$34 + 39 = 16 + ? + 13$$$$$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(\\sqrt{256} + 340 \\div\\)$34 + 39 = 16 + ? + 13$\\(\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$36$",
+        "text": "\\(36\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$33$",
+        "text": "\\(33\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$14$",
+        "text": "\\(14\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$51$",
+        "text": "\\(51\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$93$",
+        "text": "\\(93\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS57. Ans (a) \n \nSol. √$$$256 + 340$$$ \\div $$$34+39 = 16 +? + 13$$$ \n$$$16 + 10 + 39 = 29 + ?$$$ \n36 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS57. Ans (a) \n \nSol. √$$$$$\\\\$$256 + 340$\\\\$$$$\\\\$ \\div \\\\$$$$\\\\$$34+39 = 16 +? + 13$\\\\$$$$$\\\\$ \n\\\\$$$$$\\\\$$16 + 10 + 39 = 29 + ?$$$$$$\\\\$ \n36 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2360,37 +2400,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$5 \\times$$$$14 - 246 + ? = 58$$$$$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(5 \\times\\)$14 - 246 + ? = 58$\\(\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$233$",
+        "text": "\\(233\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$235$",
+        "text": "\\(235\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$234$",
+        "text": "\\(234\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$221$",
+        "text": "\\(221\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$225$",
+        "text": "\\(225\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS58. Ans (c) \n \nSol. $5 \\times 14$ – 246 + ?=58 \n? = $$$58 + 246$$$ – 70 \n? = 234\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS58. Ans (c) \n \nSol. \\\\$5 \\times 14\\\\$ – 246 + ?=58 \n? = \\\\$$$$$\\\\$$58 + 246$\\\\$$$$$\\\\$ – 70 \n? = 234\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2402,37 +2442,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$3333 \\div$$$$11 + 150$$$$\\div 10 = 10 + ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(3333 \\div\\)$11 + 150$\\(\\div 10 = 10 + ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$164$",
+        "text": "\\(164\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$620$",
+        "text": "\\(620\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$308$",
+        "text": "\\(308\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$210$",
+        "text": "\\(210\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$453$",
+        "text": "\\(453\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS59. Ans (c) \n \nSol. $3333 \\div $$$11+150$$$ \\div 10 = 10+ ?$ \n$$$303 + 15$$$ – 10 = ? \n308 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS59. Ans (c) \n \nSol. \\\\$3333 \\div \\\\$$$$\\\\$$11+150$\\\\$$$$\\\\$ \\div 10 = 10+ ?\\\\$ \n\\\\$$$$$\\\\$$303 + 15$\\\\$$$$$\\\\$ – 10 = ? \n308 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2444,37 +2484,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$4500 \\div$$$$45 + 332 + 23 = ?$$$$$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(4500 \\div\\)$45 + 332 + 23 = ?$\\(\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$480$",
+        "text": "\\(480\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$325$",
+        "text": "\\(325\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$675$",
+        "text": "\\(675\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$220$",
+        "text": "\\(220\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$455$",
+        "text": "\\(455\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS60. Ans (e) \n \nSol. $4500 \\div $$$45 + 332 + 23 = ?$$$ \n$$$100 + 355 = ?$$$ \n455 =?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS60. Ans (e) \n \nSol. \\\\$4500 \\div \\\\$$$$\\\\$$45 + 332 + 23 = ?$$$$$$\\\\$ \n\\\\$$$$$\\\\$$100 + 355 = ?$$$$$\\$\\\\$ \n455 =?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2486,37 +2526,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$7^$$$$3 + 4524 + 19$$$$\\% \\text{ of } 600 = ? - \\frac{2}{5} \\text{ of } 450$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(7^\\)$3 + 4524 + 19$\\(\\% \\text{ of } 600 = ? - \\frac{2}{5} \\text{ of } 450\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$5161$",
+        "text": "\\(5161\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5262$",
+        "text": "\\(5262\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$5373$",
+        "text": "\\(5373\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5467$",
+        "text": "\\(5467\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$7656$",
+        "text": "\\(7656\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS61. Ans (a) \n \nSol. 7³ + $$$4524 + 19$$$% of 600 = ? – $\\frac{2}{5}$ of 450 \n $$$343 + 4524 + 114 = ?$$$ – 180 \n5161 = ? \n\n    www.sscadda.com                                         |                               Adda247 App\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS61. Ans (a) \n \nSol. 7³ + \\\\$$$$$\\\\$$4524 + 19$\\\\$$$$$$% of 600 = ? – \\\\$\\frac{2}{5}\\\\$ of 450 \n \\\\$$$$$\\\\$$343 + 4524 + 114 = ?$$$$$$\\\\$ – 180 \n5161 = ? \n\n    www.sscadda.com                                         |                               Adda247 App\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2528,37 +2568,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$45^$$$$2 + 3455 - 12$$$$\\% \\text{ of } 8900 = ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(45^\\)$2 + 3455 - 12$\\(\\% \\text{ of } 8900 = ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$4513$",
+        "text": "\\(4513\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4412$",
+        "text": "\\(4412\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4234$",
+        "text": "\\(4234\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4056$",
+        "text": "\\(4056\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$4055$",
+        "text": "\\(4055\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS62. Ans (b) \n \nSol. 45² + 3455 – 12% of 8900 = ? \n$$$2025 + 3455$$$ – 1068 = ? \n4412 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS62. Ans (b) \n \nSol. 45² + 3455 – 12% of 8900 = ? \n\\\\$$$$$\\\\$$2025 + 3455$\\\\$$$$$\\\\$ – 1068 = ? \n4412 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2570,32 +2610,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$\\left(\\frac{4560}{15}\\right) \\div \\left(\\frac{50}{2450}\\right) = ? - 45\\% \\text{ of } 500$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(\\left(\\frac{4560}{15}\\right) \\div \\left(\\frac{50}{2450}\\right) = ? - 45\\% \\text{ of } 500\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$13345$",
+        "text": "\\(13345\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$12323$",
+        "text": "\\(12323\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$19093$",
+        "text": "\\(19093\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$18118$",
+        "text": "\\(18118\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$15121$",
+        "text": "\\(15121\\)",
         "image": null
       }
     ],
@@ -2612,37 +2652,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n\\$$$(5456 + 4563 - 1344 - 4244 = ?$$$$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\$(5456 + 4563 - 1344 - 4244 = ?$\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$4431$",
+        "text": "\\(4431\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4345$",
+        "text": "\\(4345\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$4056$",
+        "text": "\\(4056\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5423$",
+        "text": "\\(5423\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$3434$",
+        "text": "\\(3434\\)",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS64. Ans (a) \n \nSol. $$$5456 + 4563- 1344$$$ – 4244 = ? \n4431 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS64. Ans (a) \n \nSol. \\\\$$$$$\\\\$$5456 + 4563- 1344$\\\\$$$$$\\\\$ – 4244 = ? \n4431 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (56-65): What value should come in place of\nquestion mark?"
@@ -2654,32 +2694,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$\\sqrt[3]{6859} \\times$$$$4 + 25$$$$\\% \\text{ of } 240 = ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(\\sqrt[3]{6859} \\times\\)$4 + 25$\\(\\% \\text{ of } 240 = ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$184$",
+        "text": "\\(184\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$136$",
+        "text": "\\(136\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$58$",
+        "text": "\\(58\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$124$",
+        "text": "\\(124\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$256$",
+        "text": "\\(256\\)",
         "image": null
       }
     ],
@@ -3065,7 +3105,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Syllogism - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS74. Ans. (a) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (71-73): In the given question, three \nstatement are followed by two conclusions. You have to \ntake the given statements to be true even if they seem to \nbe at variance with commonly known facts. Read all the \nconclusions and then decide which of the given \nconclusions logically follows from the given statements, \ndisregarding commonly known facts. Give an answer."
   },
   {
     "id": 75,
@@ -3527,7 +3567,7 @@
     "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Inequality - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS85. Ans. (d)\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (80-84): Read the given information \ncarefully and answer the related questions: \nEight persons A, B, C, D, E, F, G and H sit around a square-\nshaped table in such a way that four persons sit at each \ncorner (facing inside) and four sit at the middle of each side \nof the table (facing outside). \nG sits third to the right of E. Three persons sit between G and \nC. A sits immediate right of C. H sits second t the right of D. \nB faces F. A sits adjacent to B."
   },
   {
     "id": 86,
@@ -3821,7 +3861,7 @@
     "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Circular Seating - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS92. Ans. (c) \nSol. BORE, ROBE\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (89-91): In the given question, a relationship \nbetween different elements is shown in the statements. \nThe statements are followed by two conclusions. Give \nanswer that which conclusion is  logically true as per \nthe statement."
   },
   {
     "id": 93,

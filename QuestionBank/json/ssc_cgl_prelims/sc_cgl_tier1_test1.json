@@ -191,22 +191,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$24-42$$$",
+        "text": "\\\\$$\\\\$\\\\$$24-42$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$36-63$$$",
+        "text": "\\\\$$\\\\$\\\\$$36-63$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$37-73$$$",
+        "text": "\\\\$$\\\\$\\\\$$37-73$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$35-51$$$",
+        "text": "\\\\$$\\\\$\\\\$$35-51$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
@@ -227,27 +227,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$1,4,3,2$$$",
+        "text": "\\\\$$\\\\$\\\\$$1,4,3,2$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$2,1,4,3$$$",
+        "text": "\\\\$$\\\\$\\\\$$2,1,4,3$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$1,3,2,4$$$",
+        "text": "\\\\$$\\\\$\\\\$$1,3,2,4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$2,3,4,1$$$",
+        "text": "\\\\$$\\\\$\\\\$$2,3,4,1$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Comparing the words alphabetically gives the order: Manifest → Merchant → Meridian → Meticulous. Therefore the correct sequence is$$$1,4,3,2$$$.",
+    "explanation": "Comparing the words alphabetically gives the order: Manifest → Merchant → Meridian → Meticulous. Therefore the correct sequence is$$\\\\$\\\\$$1,4,3,2$\\\\$\\\\$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -294,7 +294,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Which number will complete the series?$$$14,27,52,101,198$$$, ?",
+    "question": "Which number will complete the series?$$\\\\$\\\\$$14,27,52,101,198$\\\\$\\\\$$$, ?",
     "questionImage": null,
     "options": [
       {
@@ -319,7 +319,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Each term is obtained by adding the previous term minus consecutive integers.\n14 +$$$(14 - 1) = 27$$$27 +$$$(27 - 2) = 52$$$52 +$$$(52 - 3) = 101$$$101 +$$$(101 - 4) = 198$$$198 +$$$(198 - 5) = 391$$$",
+    "explanation": "Each term is obtained by adding the previous term minus consecutive integers.\n14 +$$$$$(14 - 1) = 27$\\\\$\\\\$$\\\\$27 +$$$$$(27 - 2) = 52$\\\\$\\\\$$\\\\$52 +$$$$$(52 - 3) = 101$\\\\$\\\\$$\\\\$101 +$$$$$(101 - 4) = 198$\\\\$\\\\$$\\\\$198 +$$$$$(198 - 5) = 391$\\\\$\\\\$\\$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -475,7 +475,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of$14 \\times$$$3 - 12 + 4$$$\\div 2$represented by the expression 14C3A12E4D2.",
+    "question": "If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of\\\\$14 \\times$$\\\\$\\\\$$3 - 12 + 4$\\\\$\\\\$$$\\div 2\\\\$represented by the expression 14C3A12E4D2.",
     "questionImage": null,
     "options": [
       {
@@ -500,7 +500,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Replace the symbols according to the given meanings.\n14C3A12E4D2 =$14 \\times 3$−$$$12 + 4$$$\\div 2 = 42$−$$$12 + 2 = 32.$$$",
+    "explanation": "Replace the symbols according to the given meanings.\n14C3A12E4D2 =\\\\$14 \\times 3\\\\$−$$\\\\$\\\\$$12 + 4$\\\\$\\\\$$$\\div 2 = 42\\\\$−$$\\\\$\\\\$$12 + 2 = 32.$$$\\$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -536,7 +536,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n879 →$$$(7 + 9)$$$− 8 = 8\n625 →$$$(2 + 5)$$$− 6 = 1\n586 →$$$(8 + 6)$$$− 5 = 9\n785 →$$$(8 + 5)$$$− 7 = 6.",
+    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n879 →$$$$$(7 + 9)$$$$$− 8 = 8\n625 →$$$$$(2 + 5)$$$$$− 6 = 1\n586 →$$$$$(8 + 6)$$$$$− 5 = 9\n785 →$$$$$(8 + 5)$$$$$− 7 = 6.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -573,7 +573,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.$$$(8 + 7)$$$\\times 6 = 90$$$$(7 + 6)$$$\\times 5 = 65$$$$(6 + 5)$$$\\times 4 = 44$Hence, the missing number is 44.",
+    "explanation": "In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.$$$$$(8 + 7)$$$$$\\times 6 = 90\\\\$$$$$$(7 + 6)$$$$$\\times 5 = 65\\\\$$$$$$(6 + 5)$$$$$\\times 4 = 44\\\\$Hence, the missing number is 44.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -685,7 +685,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The figure contains 6 small triangles, 3 triangles formed by combining two small triangles, 6 larger triangles formed by combining three small triangles, and 1 outer triangle. Total =$$$6 + 3 + 6 + 1 = 16.$$$",
+    "explanation": "The figure contains 6 small triangles, 3 triangles formed by combining two small triangles, 6 larger triangles formed by combining three small triangles, and 1 outer triangle. Total =$$\\\\$\\\\$$6 + 3 + 6 + 1 = 16.$$$\\$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1871,7 +1871,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "A and B together complete$\\frac{7}{11}$of the work. Therefore, C completes the remaining$\\frac{4}{11}$of the work. Hence, C's share =$\\frac{4}{11} \\times 550 = 200$.",
+    "explanation": "A and B together complete$\\frac{7}{11}$of the work. Therefore, C completes the remaining$\\frac{4}{11}$of the work. Hence, C's share =\\$\\frac{4}{11} \\times 550 = 200\\\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1882,7 +1882,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Triangles",
     "difficulty": "Medium",
-    "question": "In$\\triangle ABC$, the height$CD$intersects$AB$at$D$. The midpoints of$AB$and$BC$are$P$and$Q$respectively. If$AD = 8$cm and$CD = 6$cm, then find the length of$PQ$.",
+    "question": "In$\\triangle ABC$, the height$CD$intersects$AB$at$D$. The midpoints of$AB$and$BC$are$P$and$Q$respectively. If$AD = 8\\\\$cm and$CD = 6\\\\$cm, then find the length of$PQ$.",
     "questionImage": "q52.png",
     "imageStatus": "MANUAL_REQUIRED",
     "options": [
@@ -1908,7 +1908,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Using Pythagoras theorem,$AC = \\sqrt{8^$$$2+6$$$^2}=10$cm. The line joining the midpoints of two sides of a triangle is parallel to the third side and equal to half of its length. Therefore,$PQ=\\frac{AC}{2}=\\frac{10}{2}=5$cm.",
+    "explanation": "Using Pythagoras theorem,$AC = \\sqrt{8^$$\\\\$\\\\$$2+6$\\\\$\\\\$$$^2}=10\\\\$cm. The line joining the midpoints of two sides of a triangle is parallel to the third side and equal to half of its length. Therefore,$PQ=\\frac{AC}{2}=\\frac{10}{2}=5\\\\$cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1944,7 +1944,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Selling price =$500 \\times 0.9 \\times 0.9 = 500 \\times 0.81 = 405$. Therefore, the selling price is Rs. 405.",
+    "explanation": "Selling price =\\\\$500 \\times 0.9 \\times 0.9 = 500 \\times 0.81 = 405\\\\$. Therefore, the selling price is Rs. 405.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1980,7 +1980,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the cost price be$x$. Then$\\frac{78-x}{x}=2\\times\\frac{69-x}{x}$. Solving gives$78-x=$$$138-2$$$x$, hence$x=60$. Therefore, the cost price is Rs. 60.",
+    "explanation": "Let the cost price be$x$. Then$\\frac{78-x}{x}=2\\times\\frac{69-x}{x}$. Solving gives\\\\$78-x=$$\\\\$\\\\$$138-2$\\\\$\\\\$$$x$, hence$x=60\\\\$. Therefore, the cost price is Rs. 60.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2016,7 +2016,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the total population be$x$. Then$14\\%$of$x$equals 574. Hence,$x=\\frac{574\\times100}{14}=4100$.",
+    "explanation": "Let the total population be$x$. Then\\\\$14\\%$of$x$equals 574. Hence,$x=\\frac{574\\times100}{14}=4100\\\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2052,7 +2052,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Speed =$\\frac{240}{16}=15$m/s. Converting to km/hr:$15\\times\\frac{18}{5}=54$km/hr.",
+    "explanation": "Speed =\\$\\frac{240}{16}=15\\\\$m/s. Converting to km/hr:\\\\$15\\times\\frac{18}{5}=54\\\\$km/hr.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2088,7 +2088,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given$\\sqrt{a}+1=\\sqrt{a}$. Rearranging and simplifying according to the given relation yields$a=-1$.",
+    "explanation": "Given$\\sqrt{a}+1=\\sqrt{a}$. Rearranging and simplifying according to the given relation yields\\$a=-1\\\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2104,27 +2104,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{1}{8}$",
+        "text": "\\\\$\\frac{1}{8}\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{3}{4}$",
+        "text": "\\\\$\\frac{3}{4}\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{1}{2}$",
+        "text": "\\\\$\\frac{1}{2}\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{1}{16}$",
+        "text": "\\\\$\\frac{1}{16}\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "From$x+3y=-3x+y$, we get$4x=-2y$, so$x=-\\frac{y}{2}$. Therefore,$\\frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}$.",
+    "explanation": "From$x+3y=-3x+y$, we get\\\\$4x=-2y$, so$x=-\\frac{y}{2}$. Therefore,$\\frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2135,32 +2135,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Circles",
     "difficulty": "Medium",
-    "question": "From an external point, two tangents are drawn to a circle. The chord joining the points of contact subtends an angle of$72^\\circ$at the centre. Find the angle between the tangents.",
+    "question": "From an external point, two tangents are drawn to a circle. The chord joining the points of contact subtends an angle of\\\\$72^\\circ\\$at the centre. Find the angle between the tangents.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$36^\\circ$",
+        "text": "\\\\$36^\\circ\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$72^\\circ$",
+        "text": "\\\\$72^\\circ\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$108^\\circ$",
+        "text": "\\\\$108^\\circ\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$144^\\circ$",
+        "text": "\\\\$144^\\circ\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The angle between two tangents drawn from an external point is equal to$180^\\circ$minus the angle subtended by the chord at the centre. Hence,$180^\\circ-72^\\circ=108^\\circ$.",
+    "explanation": "The angle between two tangents drawn from an external point is equal to\\\\$180^\\circ$minus the angle subtended by the chord at the centre. Hence,\\\\$180^\\circ-72^\\circ=108^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2207,7 +2207,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "If$\\sin\\theta+\\csc\\theta=2$, then find the value of$\\sin^{-7}\\theta+\\csc^{7}\\theta$.",
+    "question": "If$\\sin\\theta+\\csc\\theta=2\\\\$, then find the value of$\\sin^{-7}\\theta+\\csc^{7}\\theta\\$.",
     "questionImage": null,
     "options": [
       {
@@ -2232,7 +2232,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "From$\\sin\\theta+\\frac{1}{\\sin\\theta}=2$, we obtain$\\sin\\theta=1$. Therefore,$\\sin^{-7}\\theta=1$and$\\csc^{7}\\theta=1$, giving a total value of 2.",
+    "explanation": "From$\\sin\\theta+\\frac{1}{\\sin\\theta}=2\\\\$, we obtain$\\sin\\theta=1\\\\$. Therefore,$\\sin^{-7}\\theta=1\\\\$and$\\csc^{7}\\theta=1\\\\$, giving a total value of 2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2268,7 +2268,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let cows be$x$and hens be$y$. Then$x+y=50$and$4x+2y=142$. Solving the equations gives$x=21$and$y=29$. Therefore, the number of cows is 21.",
+    "explanation": "Let cows be$x$and hens be$y$. Then$x+y=50\\\\$and\\\\$4x+2y=142\\\\$. Solving the equations gives$x=21\\\\$and\\$y=29\\\\$. Therefore, the number of cows is 21.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2284,22 +2284,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{10(a-c)}{b-a}$",
+        "text": "\\\\$\\frac{10(a-c)}{b-a}\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{10(b-c)}{a-c}$",
+        "text": "\\\\$\\frac{10(b-c)}{a-c}\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{10(a-b)}{a-c}$",
+        "text": "\\\\$\\frac{10(a-b)}{a-c}\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{10(b-a)}{a-c}$",
+        "text": "\\\\$\\frac{10(b-a)}{a-c}\\\\$",
         "image": null
       }
     ],
@@ -2315,7 +2315,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Surds",
     "difficulty": "Medium",
-    "question": "Simplify$\\sqrt{$$$5+2$$$\\sqrt{2}}-\\sqrt{2+\\sqrt{7}}+\\sqrt{$$$7+5$$$}$.",
+    "question": "Simplify$\\sqrt{$$\\\\$\\\\$$5+2$\\\\$\\\\$$$\\sqrt{2}}-\\sqrt{2+\\sqrt{7}}+\\sqrt{$$\\\\$\\\\$$7+5$\\\\$\\\\$$$}$.",
     "questionImage": null,
     "options": [
       {
@@ -2351,7 +2351,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If$(a+b+6)-a+b+$$$1+2$$$b=2ab+2a$, then find the value of$a$.",
+    "question": "If$(a+b+6)-a+b+$$\\\\$\\\\$$1+2$\\\\$\\\\$$$b=2ab+2a$, then find the value of$a$.",
     "questionImage": null,
     "imageStatus": "MANUAL_REQUIRED",
     "options": [
@@ -2377,7 +2377,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The mathematical expression in the source document contains formatting that is not completely preserved by OCR. Evaluate the equation exactly as shown in the original figure to obtain$a=3.5$.",
+    "explanation": "The mathematical expression in the source document contains formatting that is not completely preserved by OCR. Evaluate the equation exactly as shown in the original figure to obtain\\$a=3.5\\\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2412,7 +2412,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\nHalf chord =$\\sqrt{17^$$$2-8$$$^2}=\\sqrt{$$$289-64$$$}=15$cm.\nTherefore, chord length =$2\\times15=30$cm.",
+    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\nHalf chord =$\\sqrt{17^$$\\\\$\\\\$$2-8$\\\\$\\\\$$$^2}=\\sqrt{$$\\\\$\\\\$$289-64$\\\\$\\\\$$\\$}=15\\\\$cm.\nTherefore, chord length =\\\\$2\\times15=30\\\\$cm.",
     "marks": 2,
     "negativeMarks": 0.5,
     "questionImage": "q66.png"
@@ -2449,7 +2449,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The smallest six-digit number is 100000. The next perfect square after this is$317^2=100489$. Hence, the least six-digit perfect square is 100489.",
+    "explanation": "The smallest six-digit number is 100000. The next perfect square after this is\\\\$317^2=100489\\\\$. Hence, the least six-digit perfect square is 100489.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2496,7 +2496,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Heights and Distances",
     "difficulty": "Medium",
-    "question": "Find the angle of elevation of the Sun when the shadow of a 15 m long pole is$5\\sqrt{3}$m.",
+    "question": "Find the angle of elevation of the Sun when the shadow of a 15 m long pole is\\\\$5\\sqrt{3}\\$m.",
     "options": [
       {
         "id": "A",
@@ -2520,7 +2520,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using$\\tan\\theta=\\frac{\\text{Height}}{\\text{Shadow}}=\\frac{15}{5\\sqrt3}=\\sqrt3$. Therefore,$\\theta=60^\\circ$.",
+    "explanation": "Using$\\tan\\theta=\\frac{\\text{Height}}{\\text{Shadow}}=\\frac{15}{5\\sqrt3}=\\sqrt3\\\\$. Therefore,$\\theta=60^\\circ\\$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "questionImage": "q69.png"
@@ -2532,7 +2532,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometric Equations",
     "difficulty": "Hard",
-    "question": "If$2y\\cos\\theta=x\\sin\\theta$and$2x\\sec\\theta-y\\csc\\theta=3$, then find$x+4y^2$.",
+    "question": "If\\\\$2y\\cos\\theta=x\\sin\\theta$and\\\\$2x\\sec\\theta-y\\csc\\theta=3\\\\$, then find$x+4y^2\\\\$.",
     "questionImage": null,
     "options": [
       {
@@ -2593,7 +2593,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "For two years, Difference =$P\\left(\\frac{R}{100}\\right)^2$. Therefore$15000\\left(\\frac{R}{100}\\right)^2=96$. Solving gives$R=8\\%$.",
+    "explanation": "For two years, Difference =$P\\left(\\frac{R}{100}\\right)^2\\\\$. Therefore\\\\$15000\\left(\\frac{R}{100}\\right)^2=96\\\\$. Solving gives$R=8\\%\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2610,27 +2610,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$4:5$$$",
+        "text": "\\\\$$\\\\$\\\\$$4:5$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$5:4$$$",
+        "text": "\\\\$$\\\\$\\\\$$5:4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$6:1$$$",
+        "text": "\\\\$$\\\\$\\\\$$6:1$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$1:6$$$",
+        "text": "\\\\$$\\\\$\\\\$$1:6$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the values shown in the given pie chart, the required ratio is$$$4:5$$$.",
+    "explanation": "Using the values shown in the given pie chart, the required ratio is$$\\\\$\\\\$$4:5$\\\\$\\\\$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2741,7 +2741,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Rice accounts for 55% of the total production shown in the pie chart. Therefore, Rice production =$0.55\\times500000=275000$kg.",
+    "explanation": "Rice accounts for 55% of the total production shown in the pie chart. Therefore, Rice production =\\\\$0.55\\times500000=275000\\\\$kg.",
     "marks": 2,
     "negativeMarks": 0.5
   },

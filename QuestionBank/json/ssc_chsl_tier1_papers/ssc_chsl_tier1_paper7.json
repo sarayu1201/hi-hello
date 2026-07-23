@@ -7,32 +7,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Number System",
     "difficulty": "Easy",
-    "question": "If a number 6573547x45 is divisible by 9, then find the value of $x$.",
+    "question": "If a number 6573547x45 is divisible by 9, then find the value of \\\\$x\\$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$3$",
+        "text": "\\\\$3\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$18$",
+        "text": "\\\\$18\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8$",
+        "text": "\\\\$8\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$7$",
+        "text": "\\\\$7\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "For a number to be divisible by 9, the sum of its digits must be divisible by 9. Sum = $$$6 + 5 + 7 + 3 + 5 + 4 + 7$$$ + x + $$$4 + 5$$$ = x + 46. The next multiple of 9 is 54. x = $$$54 - 46 = 8.$$$",
+    "explanation": "For a number to be divisible by 9, the sum of its digits must be divisible by 9. Sum = \\\\$$\\\\$\\\\$$6 + 5 + 7 + 3 + 5 + 4 + 7$\\\\$\\\\$$\\\\$ + x + \\\\$$\\\\$\\\\$$4 + 5$\\\\$\\\\$$\\\\$ = x + 46. The next multiple of 9 is 54. x = \\\\$$\\\\$\\\\$$54 - 46 = 8.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "Calculate the value of $$$$(59881 * 59881 - 49681 * 49681) / 10200$$$$",
+    "question": "Calculate the value of \\\\$$$$$$(59881 * 59881 - 49681 * 49681) / 10200$\\\\$\\\\$$$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$109560$",
+        "text": "\\\\$109560\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$109562$",
+        "text": "\\\\$109562\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$109552$",
+        "text": "\\\\$109552\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$109567$",
+        "text": "\\\\$109567\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Using the algebraic identity a^2 - b^2 = (a - b)(a + b):\nExpression = $$$(59881 - 49681)$$$$$(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562.$$$",
+    "explanation": "Using the algebraic identity a^2 - b^2 = (a - b)(a + b):\nExpression = \\\\$$$$$(59881 - 49681)$$$$$$$$$(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562.$$$\\$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,12 +81,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If ($\\frac{5}{7}$)^(4x) * ($\\frac{7}{5}$)^(3x-1) = ($\\frac{7}{5}$)^6, then the value of $x$ which satisfies the equation.",
+    "question": "If ($\\frac{5}{7}$)^(4x) * ($\\frac{7}{5}$)^(3x-1) = ($\\frac{7}{5}$)^6, then the value of \\\\$x\\\\$ which satisfies the equation.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$2-$",
+        "text": "\\\\$2-\\$",
         "image": null
       },
       {
@@ -96,12 +96,12 @@
       },
       {
         "id": "C",
-        "text": "$17-$",
+        "text": "\\\\$17-\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5-$",
+        "text": "\\\\$5-\\$",
         "image": null
       }
     ],
@@ -118,32 +118,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If x^16 = (x^\\$$$(32 - 1)/5$$$$, then find the value of (x^\\$$$(96 - 1)$$$$/x^48.",
+    "question": "If x^16 = (x^\\$$$$$(32 - 1)/5$\\\\$\\\\$$$$, then find the value of (x^\\$$$$$(96 - 1)$$$$\\$\\$/x^48.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$150$",
+        "text": "\\\\$150\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$139$",
+        "text": "\\\\$139\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$140$",
+        "text": "\\\\$140\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$138$",
+        "text": "\\\\$138\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given: x^16 = (x^$$$32 - 1)/5 => 5 = ($$$x^$$$32 - 1)$$$/x^16 => x^$$$16 - 1$$$/x^16 = 5.\nCubing both sides: (x^$$$16 - 1$$$/x^16)^3 = 5^3\n=> x^$$$48 - 1$$$/x^$$$48 - 3$$$(x^16)(1/x^16)(x^$$$16 - 1$$$/x^16) = 125\n=> x^$$$48 - 1$$$/x^$$$48 - 3$$$(5) = 125\n=> x^$$$48 - 1$$$/x^48 = 140 => (x^$$$96 - 1)$$$/x^48 = 140.",
+    "explanation": "Given: x^16 = (x^$$\\\\$\\\\$$32 - 1)/5 => 5 = ($$$$$x^$$\\\\$\\\\$$32 - 1)$$$$$/x^16 => x^$$\\\\$\\\\$$16 - 1$\\\\$\\\\$$$/x^16 = 5.\nCubing both sides: (x^$$\\\\$\\\\$$16 - 1$\\\\$\\\\$$$/x^16)^3 = 5^3\n=> x^$$\\\\$\\\\$$48 - 1$\\\\$\\\\$$$/x^$$\\\\$\\\\$$48 - 3$\\\\$\\\\$$$(x^16)(1/x^16)(x^$$\\\\$\\\\$$16 - 1$\\\\$\\\\$$$/x^16) = 125\n=> x^$$\\\\$\\\\$$48 - 1$\\\\$\\\\$$$/x^$$\\\\$\\\\$$48 - 3$\\\\$\\\\$$$(5) = 125\n=> x^$$\\\\$\\\\$$48 - 1$\\\\$\\\\$$$/x^48 = 140 => (x^$$\\\\$\\\\$$96 - 1)$$$\\$\\$/x^48 = 140.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The formula for the length of a transverse common tangent is: L = sqrt(d^2 - (r1 + r2)^2)\n=> 8 = sqrt(d^2 - $$$(7 + 3)$$$^2)\n=> 64 = d^$$$2 - 100$$$ => d^2 = 164 => d = √164 cm.",
+    "explanation": "The formula for the length of a transverse common tangent is: L = sqrt(d^2 - (r1 + r2)^2)\n=> 8 = sqrt(d^2 - \\\\$$$$$(7 + 3)$$$$$^2)\n=> 64 = d^$$\\\\$\\\\$$2 - 100$\\\\$\\\\$$\\\\$ => d^2 = 164 => d = √164 cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -229,7 +229,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Percentage",
     "difficulty": "Medium",
-    "question": "Weight of A and B are in the ratio $$$$11:8$$$$. A’s weight increases by 40% and the total weight of A and B increases by 30%. What is the percentage increase in the B's weight?",
+    "question": "Weight of A and B are in the ratio \\\\$$$\\\\$\\\\$$11:8$\\\\$\\\\$$$\\$. A’s weight increases by 40% and the total weight of A and B increases by 30%. What is the percentage increase in the B's weight?",
     "questionImage": null,
     "options": [
       {
@@ -254,7 +254,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let A's weight = 11 kg and B's weight = 8 kg. Total weight = 19 kg.\nA's new weight = $$$11 * 1.4 = 15.4$$$ kg.\nTotal new weight = $$$19 * 1.30 = 24.7$$$ kg.\nB's new weight = $$$24.7 - 15.4 = 9.3$$$ kg.\nIncrease in B's weight = $$$9.3 - 8 = 1.3$$$ kg.\nPercentage increase = $$$(1.3 / 8) * 100 = 16.25$$$%.",
+    "explanation": "Let A's weight = 11 kg and B's weight = 8 kg. Total weight = 19 kg.\nA's new weight = \\\\$$\\\\$\\\\$$11 * 1.4 = 15.4$\\\\$\\\\$$\\\\$ kg.\nTotal new weight = \\\\$$\\\\$\\\\$$19 * 1.30 = 24.7$\\\\$\\\\$$\\\\$ kg.\nB's new weight = \\\\$$\\\\$\\\\$$24.7 - 15.4 = 9.3$\\\\$\\\\$$\\\\$ kg.\nIncrease in B's weight = \\\\$$\\\\$\\\\$$9.3 - 8 = 1.3$\\\\$\\\\$$\\\\$ kg.\nPercentage increase = \\\\$$$$$(1.3 / 8) * 100 = 16.25$\\\\$\\\\$$\\$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,17 +266,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Medium",
-    "question": "The income of S, T and U are in the ratio of $$$$7:9$$$$ : 6 and their expenses in the ratio of $$$$4:5$$$$ : 3. If S saves Rs 2000 out of an income of Rs 14000, then what will be the saving (in Rs) of T?",
+    "question": "The income of S, T and U are in the ratio of \\\\$$$\\\\$\\\\$$7:9$\\\\$\\\\$$$\\\\$ : 6 and their expenses in the ratio of \\\\$$$\\\\$\\\\$$4:5$\\\\$\\\\$$$\\\\$ : 3. If S saves Rs 2000 out of an income of Rs 14000, then what will be the saving (in Rs) of T?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$3010Rs3,000$",
+        "text": "\\\\$3010Rs3,000\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3002Rs3,000$",
+        "text": "\\\\$3002Rs3,000\\\\$",
         "image": null
       },
       {
@@ -286,12 +286,12 @@
       },
       {
         "id": "D",
-        "text": "$2990Rs3,000$",
+        "text": "\\\\$2990Rs3,000\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "S's income = Rs 14,000. Since income ratio is $$$7:9$$$:6, T's income = ($\\frac{9}{7}$) * 14000 = Rs 18,000.\nS's savings = Rs 2,000 => S's expenditure = $$$14000 - 2000$$$ = Rs 12,000.\nSince expenditure ratio is $$$4:5$$$:3, T's expenditure = ($\\frac{5}{4}$) * 12000 = Rs 15,000.\nT's savings = $$$18000 - 15000$$$ = Rs 3,000.",
+    "explanation": "S's income = Rs 14,000. Since income ratio is \\\\$$\\\\$\\\\$$7:9$\\\\$\\\\$$$:6, T's income = ($\\frac{9}{7}$) * 14000 = Rs 18,000.\nS's savings = Rs 2,000 => S's expenditure = \\\\$$\\\\$\\\\$$14000 - 2000$\\\\$\\\\$$\\\\$ = Rs 12,000.\nSince expenditure ratio is \\\\$$\\\\$\\\\$$4:5$\\\\$\\\\$$$:3, T's expenditure = ($\\frac{5}{4}$) * 12000 = Rs 15,000.\nT's savings = \\\\$$\\\\$\\\\$$18000 - 15000$\\\\$\\\\$$\\\\$ = Rs 3,000.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -303,7 +303,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Easy",
-    "question": "A mixture contains acid and water in the ratio of $$$$7:3$$$$. If 4 litres of water is added to it, then the ratio of acid and water becomes $$$$7:4$$$$. What is the quantity (in litres) of acid in the mixture?",
+    "question": "A mixture contains acid and water in the ratio of \\\\$$$\\\\$\\\\$$7:3$\\\\$\\\\$$$$. If 4 litres of water is added to it, then the ratio of acid and water becomes \\\\$$$\\\\$\\\\$$7:4$\\\\$\\\\$$$$. What is the quantity (in litres) of acid in the mixture?",
     "questionImage": null,
     "options": [
       {
@@ -313,22 +313,22 @@
       },
       {
         "id": "B",
-        "text": "$26litres$",
+        "text": "\\\\$26litres\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$30litres$",
+        "text": "\\\\$30litres\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$38litres$",
+        "text": "\\\\$38litres\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the original quantity of acid and water be 7x and 3x litres respectively.\nAdding 4 litres of water: 7x / (3x + 4) = $$$7 / 4 => 28$$$x = 21x + 28 => 7x = 28 => x = 4.\nQuantity of acid = 7x = 28 litres.",
+    "explanation": "Let the original quantity of acid and water be 7x and 3x litres respectively.\nAdding 4 litres of water: 7x / (3x + 4) = \\\\$$\\\\$\\\\$$7 / 4 => 28$\\\\$\\\\$$\\$x = 21x + 28 => 7x = 28 => x = 4.\nQuantity of acid = 7x = 28 litres.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -345,27 +345,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$35$",
+        "text": "\\\\$35\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$45$",
+        "text": "\\\\$45\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$33$",
+        "text": "\\\\$33\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The first 7 positive odd numbers divisible by 5 are: $$$5,15,25,35,45,55,65$$$.\nSum = $$$5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.$$$\nAverage = $$$245 / 7 = 35.$$$",
+    "explanation": "The first 7 positive odd numbers divisible by 5 are: \\\\$$\\\\$\\\\$$5,15,25,35,45,55,65$\\\\$\\\\$$$.\nSum = \\\\$$\\\\$\\\\$$5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.$$$$\\\\$ Average = \\\\$$\\\\$\\\\$$245 / 7 = 35.$$$\\$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -377,32 +377,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest",
     "difficulty": "Easy",
-    "question": "The simple interest on a sum is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
+    "question": "The simple interest on a sum is \\\\$\\frac{7}{8}\\\\$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$22$",
+        "text": "\\\\$22\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$17$",
+        "text": "\\\\$17\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$18$",
+        "text": "\\\\$18\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$19$",
+        "text": "\\\\$19\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let Principal = 8x. Simple Interest = 7x.\nSI = (P * R * T) / 100 => 7x = (8x * R * 5) / 100\n=> 7 = 40R / 100 => R = $$$700 / 40 = 17.5$$$%.",
+    "explanation": "Let Principal = 8x. Simple Interest = 7x.\nSI = (P * R * T) / 100 => 7x = (8x * R * 5) / 100\n=> 7 = 40R / 100 => R = \\\\$$\\\\$\\\\$$700 / 40 = 17.5$\\\\$\\\\$$\\$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -419,27 +419,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$219$",
+        "text": "\\\\$219\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$224$",
+        "text": "\\\\$224\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$226$",
+        "text": "\\\\$226\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$222$",
+        "text": "\\\\$222\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Cost Price (CP) of 9 chairs = Rs 5 => CP of 45 chairs = Rs 25.\nSelling Price (SP) of 5 chairs = Rs 9 => SP of 45 chairs = Rs 81.\nProfit % = (SP - CP)/CP * 100 = $$$(81 - 25)/25 * 100 = 56 * 4 = 224$$$%.",
+    "explanation": "Cost Price (CP) of 9 chairs = Rs 5 => CP of 45 chairs = Rs 25.\nSelling Price (SP) of 5 chairs = Rs 9 => SP of 45 chairs = Rs 81.\nProfit % = (SP - CP)/CP * 100 = \\\\$$$$$(81 - 25)/25 * 100 = 56 * 4 = 224$\\\\$\\\\$$\\$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -456,27 +456,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$16$",
+        "text": "\\\\$16\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$14$",
+        "text": "\\\\$14\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$17$",
+        "text": "\\\\$17\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$15$",
+        "text": "\\\\$15\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - (15% of 3000) = $$$3000 - 450$$$ = Rs 2550.\nAfter second discount of a%: 2550 - (a% of 2550) = 2142\n=> 25.5a = $$$2550 - 2142 = 408$$$\n=> a = $$$408 / 25.5 = 16$$$%.",
+    "explanation": "Marked Price = Rs 3000.\nPrice after first discount of 15% = 3000 - (15% of 3000) = \\\\$$\\\\$\\\\$$3000 - 450$\\\\$\\\\$$\\\\$ = Rs 2550.\nAfter second discount of a%: 2550 - (a% of 2550) = 2142\n=> 25.5a = \\\\$$\\\\$\\\\$$2550 - 2142 = 408$\\\\$\\\\$$\\\\$ => a = \\\\$$\\\\$\\\\$$408 / 25.5 = 16$\\\\$\\\\$$\\$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -493,27 +493,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$33$",
+        "text": "\\\\$33\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$38$",
+        "text": "\\\\$38\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$31$",
+        "text": "\\\\$31\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$23$",
+        "text": "\\\\$23\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = sqrt$$$(1054 + 14 + 13 + 8)$$$ = sqrt(1089) = 33.",
+    "explanation": "Expression = sqrt$$$$$(1054 + 14 + 13 + 8)$$$\\$\\\\$ = sqrt(1089) = 33.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -535,22 +535,22 @@
       },
       {
         "id": "B",
-        "text": "$1205Rs$",
+        "text": "\\\\$1205Rs\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$1201Rs$",
+        "text": "\\\\$1201Rs\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$1202Rs$",
+        "text": "\\\\$1202Rs\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let total work = LCM(18, 24) = 72 units.\nX's efficiency = $$$72 / 18 = 4$$$ units/day.\nY's efficiency = $$$72 / 24 = 3$$$ units/day.\nTogether (X + Y + Z) efficiency = $$$72 / 8 = 9$$$ units/day.\nZ's efficiency = 9 - $$$(4 + 3) = 2$$$ units/day.\nRatio of efficiency (X:Y:Z) = $$$4:3$$$:2.\nZ's share = ($\\frac{2}{9}$) * 5400 = Rs 1200.",
+    "explanation": "Let total work = LCM(18, 24) = 72 units.\nX's efficiency = \\\\$$\\\\$\\\\$$72 / 18 = 4$\\\\$\\\\$$\\\\$ units/day.\nY's efficiency = \\\\$$\\\\$\\\\$$72 / 24 = 3$\\\\$\\\\$$\\\\$ units/day.\nTogether (X + Y + Z) efficiency = \\\\$$\\\\$\\\\$$72 / 8 = 9$\\\\$\\\\$$\\\\$ units/day.\nZ's efficiency = 9 - \\\\$$$$$(4 + 3) = 2$\\\\$\\\\$$\\\\$ units/day.\nRatio of efficiency (X:Y:Z) = \\\\$$\\\\$\\\\$$4:3$\\\\$\\\\$$$:2.\nZ's share = ($\\frac{2}{9}\\$) * 5400 = Rs 1200.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -567,27 +567,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$3$",
+        "text": "\\\\$3\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$1$",
+        "text": "\\\\$1\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8$",
+        "text": "\\\\$8\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5$",
+        "text": "\\\\$5\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\nUpstream speed = x - y = $\\frac{12}{4}$ = 3 km/hr\nDownstream speed = x + y = $\\frac{12}{3}$ = 4 km/hr\nAdding the two equations: 2x = 7 => x = 3.5 km/hr.",
+    "explanation": "Let speed of boat in still water = x km/hr, and speed of current = y km/hr.\nUpstream speed = x - y = \\\\$\\frac{12}{4}\\\\$ = 3 km/hr\nDownstream speed = x + y = \\\\$\\frac{12}{3}\\\\$ = 4 km/hr\nAdding the two equations: 2x = 7 => x = 3.5 km/hr.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -641,27 +641,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$718$",
+        "text": "\\\\$718\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$710$",
+        "text": "\\\\$710\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$719$",
+        "text": "\\\\$719\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$720$",
+        "text": "\\\\$720\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Total number of employees = $$$100 + 140 + 20 + 180 + 50 + 70 + 160 = 720.$$$",
+    "explanation": "Total number of employees = \\\\$$\\\\$\\\\$$100 + 140 + 20 + 180 + 50 + 70 + 160 = 720.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -678,7 +678,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$55°$",
+        "text": "\\\\$55°\\$",
         "image": null
       },
       {
@@ -688,17 +688,17 @@
       },
       {
         "id": "C",
-        "text": "$51°$",
+        "text": "\\\\$51°\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$48°$",
+        "text": "\\\\$48°\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Number of employees speaking language A = 100. Total employees = 720.\nRequired central angle = $$$(100 / 720) * 360$$$° = 50°.",
+    "explanation": "Number of employees speaking language A = 100. Total employees = 720.\nRequired central angle = \\\\$$$$$(100 / 720) * 360$\\\\$\\\\$$\\$° = 50°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -710,7 +710,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The HR department of an MNC prepared a report. The pie chart from this report represents all the employees of the MNC and the languages that they speak. Study the diagram and answer the following question.\n\nNo of Employees:\n- A = 100\n- B = 140\n- C = 20\n- D = 180\n- E = 50\n- F = 70\n- G = 160\n\nIf the average monthly salary of the employees of this MNC is $5000 then what is the total of the salaries (in$ millions) paid to all the employees of this MNC?",
+    "question": "The HR department of an MNC prepared a report. The pie chart from this report represents all the employees of the MNC and the languages that they speak. Study the diagram and answer the following question.\n\nNo of Employees:\n- A = 100\n- B = 140\n- C = 20\n- D = 180\n- E = 50\n- F = 70\n- G = 160\n\nIf the average monthly salary of the employees of this MNC is \\\\$5000 then what is the total of the salaries (in\\\\$ millions) paid to all the employees of this MNC?",
     "questionImage": "ssc_chsl_tier1_paper7_q17to20.png",
     "options": [
       {
@@ -720,22 +720,22 @@
       },
       {
         "id": "B",
-        "text": "$719*$",
+        "text": "\\\\$719*\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$715*$",
+        "text": "\\\\$715*\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$722*$",
+        "text": "\\\\$722*\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Total employees = 720. Average salary = $5000.\nTotal salaries = 720 * $5000 = $3,600,000 = $3.6 million.",
+    "explanation": "Total employees = 720. Average salary = \\\\$5000.\nTotal salaries = 720 * \\\\$5000 = \\\\$3,600,000 = \\\\$3.6 million.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -752,27 +752,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$66$",
+        "text": "\\\\$66\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$68$",
+        "text": "\\\\$68\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$69$",
+        "text": "\\\\$69\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$73$",
+        "text": "\\\\$73\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Area = length * breadth => 288 = l * 16 => l = 18 cm.\nPerimeter = 2(l + b) = 2$$$(18 + 16) = 2 * 34 = 68$$$ cm.",
+    "explanation": "Area = length * breadth => 288 = l * 16 => l = 18 cm.\nPerimeter = 2(l + b) = 2\\\\$$$\\$$(18 + 16) = 2 * 34 = 68$\\\\$\\\\$\\$\\\\$ cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -789,27 +789,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$961$",
+        "text": "\\\\$961\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$962$",
+        "text": "\\\\$962\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$957$",
+        "text": "\\\\$957\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$964$",
+        "text": "\\\\$964\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Radius r = $$$35 / 2 = 17.5$$$ cm.\nArea = pi * r^2 = ($\\frac{22}{7}$) * $$$17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5$$$ cm^2.",
+    "explanation": "Radius r = \\\\$$\\\\$\\\\$$35 / 2 = 17.5$\\\\$\\\\$$\\\\$ cm.\nArea = pi * r^2 = ($\\frac{22}{7}$) * \\\\$$\\\\$\\\\$$17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5$\\\\$\\\\$$\\\\$ cm^2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -826,27 +826,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$716$",
+        "text": "\\\\$716\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$718$",
+        "text": "\\\\$718\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$728$",
+        "text": "\\\\$728\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$723$",
+        "text": "\\\\$723\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\nVolume of hemisphere = ($\\frac{2}{3}$) * pi * r^3 = ($\\frac{2}{3}$) * ($\\frac{22}{7}$) * 7^3 = $$$(44 * 49) / 3 = 2156 / 3 = 718.67$$$ cm^3.",
+    "explanation": "Diameter = 14 cm => Radius r = 7 cm.\nVolume of hemisphere = ($\\frac{2}{3}$) * pi * r^3 = ($\\frac{2}{3}$) * ($\\frac{22}{7}$) * 7^3 = \\\\$$$\\$$(44 * 49) / 3 = 2156 / 3 = 718.67$\\\\$\\\\$\\$\\\\$ cm^3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,17 +858,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "What is the value of (√$\\frac{2}{3}$ - Cosec60°)?",
+    "question": "What is the value of (√\\$\\frac{2}{3}\\\\$ - Cosec60°)?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "(√\\$$$(6 - 6)/(3$$$$√3)",
+        "text": "(√\\$$$$$(6 - 6)/(3$\\\\$\\\\$$\\$\\$√3)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$(2 - 2$$$$√3)/√3",
+        "text": "\\\\$$$$$$(2 - 2$\\\\$\\\\$$$\\$√3)/√3",
         "image": null
       },
       {
@@ -883,7 +883,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Expression = √$\\frac{2}{3}$ - Cosec60° = √$\\frac{2}{3}$ - 2/√3.\nTo find common denominator: (√$$$2 - 2$$$√3) / 3. \nMultiplying numerator and denominator by √3: ((√$$$2 - 2$$$√3) * √3) / (3 * √3) = (√$$$6 - 6) / 3$$$√3.",
+    "explanation": "Expression = √$\\frac{2}{3}\\\\$ - Cosec60° = √$\\frac{2}{3}\\\\$ - 2/√3.\nTo find common denominator: (√$$\\\\$\\\\$$2 - 2$\\\\$\\\\$$$√3) / 3. \nMultiplying numerator and denominator by √3: ((√$$\\\\$\\\\$$2 - 2$\\\\$\\\\$$$√3) * √3) / (3 * √3) = (√$$\\\\$\\\\$$6 - 6) / 3$\\\\$\\\\$$$√3.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔXYZ is right angled at Y. If cotX = $\\frac{5}{12}$, then what is the value of secZ ?",
+    "question": "ΔXYZ is right angled at Y. If cotX = \\\\$\\frac{5}{12}\\$, then what is the value of secZ ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{5}{12}$",
+        "text": "\\\\$\\frac{5}{12}\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{13}{5}$",
+        "text": "\\\\$\\frac{13}{5}\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{13}{12}$",
+        "text": "\\\\$\\frac{13}{12}\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{12}{5}$",
+        "text": "\\\\$\\frac{12}{5}\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given: cot X = $\\frac{5}{12}$ => XY / YZ = $$$5 / 12.$$$\nLet XY = 5 cm and YZ = 12 cm. \nHypotenuse XZ = sqrt(XY^2 + YZ^2) = sqrt(5^$$$2 + 12$$$^2) = 13 cm.\nsec Z = Hypotenuse / Adjacent = XZ / YZ = $\\frac{13}{12}$.",
+    "explanation": "Given: cot X = \\\\$\\frac{5}{12}\\\\$ => XY / YZ = \\\\$$\\\\$\\\\$$5 / 12.$$$$\\\\$ Let XY = 5 cm and YZ = 12 cm. \nHypotenuse XZ = sqrt(XY^2 + YZ^2) = sqrt(5^$$\\\\$\\\\$$2 + 12$\\\\$\\\\$$$^2) = 13 cm.\nsec Z = Hypotenuse / Adjacent = XZ / YZ = \\\\$\\frac{13}{12}\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,27 +969,27 @@
     "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number from the given alternatives.\n\n$$$$5:125$$$$ : : 7 : ?",
+    "question": "Select the related number from the given alternatives.\n \\\\$$$\\\\$\\\\$$5:125$\\\\$\\\\$$$\\\\$ : : 7 : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$343$",
+        "text": "\\\\$343\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$344$",
+        "text": "\\\\$344\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$345$",
+        "text": "\\\\$345\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$342$",
+        "text": "\\\\$342\\\\$",
         "image": null
       }
     ],
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$$$(25 - 21$$$$",
+        "text": "\\$$$$$(25 - 21$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$$$(39 - 35$$$$",
+        "text": "\\$$$$$(39 - 35$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$$$(51 - 47$$$$",
+        "text": "\\$$$$$(51 - 47$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$$$(93 - 87$$$$",
+        "text": "\\$$$$$(93 - 87$\\\\$\\\\$$\\$\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The difference between each pair of numbers is 4 $$$(25-21=4$$$, $$$39-35=4$$$, $$$51-47=4).$$$ In the last option, $$$93 - 87 = 6$$$, making it the odd one.",
+    "explanation": "The difference between each pair of numbers is 4 \\\\$$$$$(25-21=4$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$39-35=4$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$51-47=4).$$$$\\\\$ In the last option, \\\\$$\\\\$\\\\$$93 - 87 = 6$\\\\$\\\\$$\\$, making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1159,22 +1159,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$53231$",
+        "text": "\\\\$53231\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$53241$",
+        "text": "\\\\$53241\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$53243$",
+        "text": "\\\\$53243\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$53236$",
+        "text": "\\\\$53236\\\\$",
         "image": null
       }
     ],
@@ -1191,32 +1191,32 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n\n$$$$18,37,76,155,314$$$$, ?",
+    "question": "Select the missing number from the given series.\n \\\\$$$\\\\$\\\\$$18,37,76,155,314$\\\\$\\\\$$$\\$, ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$633$",
+        "text": "\\\\$633\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$632$",
+        "text": "\\\\$632\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$634$",
+        "text": "\\\\$634\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$631$",
+        "text": "\\\\$631\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The pattern is: term * 2 + index (1-based):\n$$$18 * 2 + 1 = 37$$$\n$$$37 * 2 + 2 = 76$$$\n$$$76 * 2 + 3 = 155$$$\n$$$155 * 2 + 4 = 314$$$\n$$$314 * 2 + 5 = 633.$$$",
+    "explanation": "The pattern is: term * 2 + index (1-based): \\\\$$\\\\$\\\\$$18 * 2 + 1 = 37$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$37 * 2 + 2 = 76$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$76 * 2 + 3 = 155$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$155 * 2 + 4 = 314$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$314 * 2 + 5 = 633.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Raman: $$$14,15,16,17,18,19$$$ July.\nMother: 17, 18, 19 July.\nFather: $$$14,15,16,17,18$$$ July.\nThe common dates in all three lists are 17 or 18 July.",
+    "explanation": "Raman: \\\\$$\\\\$\\\\$$14,15,16,17,18,19$\\\\$\\\\$$\\\\$ July.\nMother: 17, 18, 19 July.\nFather: \\\\$$\\\\$\\\\$$14,15,16,17,18$\\\\$\\\\$$\\\\$ July.\nThe common dates in all three lists are 17 or 18 July.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1344,22 +1344,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$48611$",
+        "text": "\\\\$48611\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$48631$",
+        "text": "\\\\$48631\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$48621$",
+        "text": "\\\\$48621\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$48619$",
+        "text": "\\\\$48619\\\\$",
         "image": null
       }
     ],
@@ -1376,32 +1376,32 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n9 x $18 \\div \\$$$(5 - 90 + 8 = ?$$$$",
+    "question": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n9 x \\\\$18 \\div \\$$$$$(5 - 90 + 8 = ?$$$$\\$\\\\$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$1$",
+        "text": "\\\\$1\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4$",
+        "text": "\\\\$4\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$12$",
+        "text": "\\\\$12\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2$",
+        "text": "\\\\$2\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Decoding the expression gives: $$$9 + 18 * 5 / 90 - 8 = 9 + 90 / 90 - 8 = 9 + 1 - 8 = 2.$$$",
+    "explanation": "Decoding the expression gives: \\\\$$\\\\$\\\\$$9 + 18 * 5 / 90 - 8 = 9 + 90 / 90 - 8 = 9 + 1 - 8 = 2.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,7 +1413,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$$$(24 + 4 - 20$$$$ \\div 9$ x 5 = 31",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n\\$$$$$(24 + 4 - 20$\\\\$\\\\$$\\$\\\\$ \\div 9\\\\$ x 5 = 31",
     "questionImage": null,
     "options": [
       {
@@ -1438,7 +1438,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Interchanging '÷' and '+' gives: $24 \\div $$$4 - 20 + 9 * 5 = 6 - 20 + 45 = 31.$$$ This balances the equation.",
+    "explanation": "Interchanging '÷' and '+' gives: \\\\$24 \\div \\\\$$\\\\$\\\\$$4 - 20 + 9 * 5 = 6 - 20 + 45 = 31.$$\\$\\$\\\\$ This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1455,17 +1455,17 @@
     "options": [
       {
         "id": "A",
-        "text": "$25-$",
+        "text": "\\\\$25-\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$21-$",
+        "text": "\\\\$21-\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15-$",
+        "text": "\\\\$15-\\$",
         "image": null
       },
       {
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The operation is: a # b = -1 * (a * b). Thus, 4#5 = -1 * $$$(4 * 5)$$$ = -20.",
+    "explanation": "The operation is: a # b = -1 * (a * b). Thus, 4#5 = -1 * \\\\$$$$$(4 * 5)$$$$\\\\$ = -20.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Chand ends at coordinates (55, $$$105 - 75) = (55$$$, 30). Dhyan ends at (55, -45).\nChand's position with respect to Dhyan is 30 - (-45) = 75 m North.",
+    "explanation": "Chand ends at coordinates (55, \\\\$$\\\\$\\\\$$105 - 75) = (55$\\\\$\\\\$$\\$, 30). Dhyan ends at (55, -45).\nChand's position with respect to Dhyan is 30 - (-45) = 75 m North.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1677,27 +1677,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$23$",
+        "text": "\\\\$23\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$24$",
+        "text": "\\\\$24\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$29$",
+        "text": "\\\\$29\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$25$",
+        "text": "\\\\$25\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Subtract 4 (-4) from each term: $$$44 - 4 = 40$$$, $$$40 - 4 = 36$$$, $$$36 - 4 = 32$$$, $$$32 - 4 = 28$$$, $$$28 - 4 = 24.$$$",
+    "explanation": "Subtract 4 (-4) from each term: \\\\$$\\\\$\\\\$$44 - 4 = 40$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$40 - 4 = 36$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$36 - 4 = 32$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$32 - 4 = 28$\\\\$\\\\$$$, \\\\$$\\\\$\\\\$$28 - 4 = 24.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1734,7 +1734,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The relationship format is (x, 3x - 1, 2x - 1). For option C: $$$2 * 15 - 1 = 29$$$ (not 31), making it the odd one.",
+    "explanation": "The relationship format is (x, 3x - 1, 2x - 1). For option C: \\\\$$\\\\$\\\\$$2 * 15 - 1 = 29$\\\\$\\\\$$\\\\$ (not 31), making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$97,12,21,42$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$97,12,21,42$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$42,67,10,55$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$42,67,10,55$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$30,55,42,68$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$30,55,42,68$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$12,77,21,68$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$12,77,21,68$\\\\$\\\\$$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 97 = S, 12 = A, 21 = C, 42 = K. So $$$97,12,21,42$$$ represents 'SACK'.",
+    "explanation": "Checking option A: 97 = S, 12 = A, 21 = C, 42 = K. So \\\\$$\\\\$\\\\$$97,12,21,42$\\\\$\\\\$$\\\\$ represents 'SACK'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nAdministration (NASA) working _______ satellite data tracking",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nAdministration (NASA) working _______ satellite data tracking",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nwas growing _________.",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nwas growing _________.",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nand 300 feet ________.",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nand 300 feet ________.",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nshelf, now __________ official iceberg",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nshelf, now __________ official iceberg",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nindeed the ____________-ever such iceberg",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nStarting late-2014, scientists of the National Aeronautics and Space Administration (NASA) working _______ satellite data tracking the rift found that the defect in the Larsen C was growing _________. By 2016 the crack became 70 miles long and 300 feet ________. By January 2017 it measured 109 miles in length and 1,500 metres in breadth. On July 12, it broke. The broken shelf, now __________ official iceberg, was massive, indeed the ____________-ever such iceberg, weighing 1.1 trillion tons and measuring 2,200 square miles.\n\nindeed the ____________-ever such iceberg",
     "questionImage": null,
     "options": [
       {
@@ -3041,7 +3041,7 @@
     "subject": "General Awareness",
     "topic": "National Affairs",
     "difficulty": "Easy",
-    "question": "At which of the following places the 5th Global Conference on Cyber Space (GCCS) was held on November \\$$$(23-24$$$$, 2017?",
+    "question": "At which of the following places the 5th Global Conference on Cyber Space (GCCS) was held on November \\$$$$$(23-24$\\\\$\\\\$$\\$\\$, 2017?",
     "questionImage": null,
     "options": [
       {
@@ -3532,22 +3532,22 @@
       },
       {
         "id": "B",
-        "text": "$7205Joules$",
+        "text": "\\\\$7205Joules\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$7198Joules$",
+        "text": "\\\\$7198Joules\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$7202Joules$",
+        "text": "\\\\$7202Joules\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Potential Energy (PE) = m * g * h = 60 kg * 10 m/s^$$$2 * 12$$$ m = 7200 Joules.",
+    "explanation": "Potential Energy (PE) = m * g * h = 60 kg * 10 m/s^$$\\\\$\\\\$$2 * 12$\\\\$\\\\$\\$\\\\$ m = 7200 Joules.",
     "marks": 2,
     "negativeMarks": 0.5
   },

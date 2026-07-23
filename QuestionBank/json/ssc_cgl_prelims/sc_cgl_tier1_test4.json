@@ -1931,7 +1931,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let$M$be the number of mice killed,$C$the number of cats,$D$the number of days and$e$the number of mice killed by one cat in one day.\n\nSince$M \\propto C \\times D$,$M=C\\times D\\times e$Given,$100=100\\times100\\times e$$e=\\frac{1}{100}$Now,$4=4\\times D\\times\\frac{1}{100}$$D=100\\text{ days}$",
+    "explanation": "Let$M$be the number of mice killed,$C$the number of cats,$D$the number of days and$e$the number of mice killed by one cat in one day.\n\nSince$M \\propto C \\times D$,$M=C\\times D\\times e$Given,\\\\$100=100\\times100\\times e$$e=\\frac{1}{100}$Now,\\\\$4=4\\times D\\times\\frac{1}{100}$\\$D=100\\text{ days}\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -1943,7 +1943,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Triangles",
     "difficulty": "Medium",
-    "question": "In$\\triangle ABC$,$DE \\parallel BC$such that$\\dfrac{AD}{BD}=\\dfrac{3}{5}$. If$AC=5.6$cm, then$AE$is equal to:",
+    "question": "In$\\triangle ABC$,$DE \\parallel BC$such that$\\dfrac{AD}{BD}=\\dfrac{3}{5}$. If$AC=5.6\\\\$cm, then$AE\\$is equal to:",
     "questionImage": null,
     "options": [
       {
@@ -1968,7 +1968,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Since$DE\\parallel BC$,$\\frac{AD}{BD}=\\frac{AE}{EC}$$\\frac{3}{5}=\\frac{x}{5.6-x}$$$$16.8-3$$$x=5x$$8x=16.8$$x=2.1\\text{ cm}$",
+    "explanation": "Since$DE\\parallel BC$,$\\frac{AD}{BD}=\\frac{AE}{EC}$$\\frac{3}{5}=\\frac{x}{5.6-x}$$$\\\\$\\\\$$16.8-3$\\\\$\\\\$$$x=5x$\\\\$8x=16.8\\\\$$x=2.1\\text{ cm}\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -1980,7 +1980,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Circles",
     "difficulty": "Easy",
-    "question": "If two circles touch each other internally, the greater circle has radius$6$cm and the distance between their centres is$2$cm. The radius of the other circle is:",
+    "question": "If two circles touch each other internally, the greater circle has radius\\\\$6\\\\$cm and the distance between their centres is\\\\$2\\\\$cm. The radius of the other circle is:",
     "questionImage": null,
     "options": [
       {
@@ -2005,7 +2005,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "For internally touching circles,$R=d+r$$6=2+r$$r=4\\text{ cm}$",
+    "explanation": "For internally touching circles,$R=d+r$\\\\$6=2+r$$r=4\\text{ cm}\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2022,27 +2022,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$1:7$$$",
+        "text": "\\\\$$\\\\$\\\\$$1:7$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$1:14$$$",
+        "text": "\\\\$$\\\\$\\\\$$1:14$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$7:1$$$",
+        "text": "\\\\$$\\\\$\\\\$$7:1$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$14:1$$$",
+        "text": "\\\\$$\\\\$\\\\$$14:1$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Office hours$=7$hours.\n\nLunch interval$=30$minutes$=\\frac12$hour.\n\nRequired ratio$\\frac12:7=$$$1:14$$$",
+    "explanation": "Office hours$=7\\\\$hours.\n\nLunch interval$=30\\\\$minutes$=\\frac12\\\\$hour.\n\nRequired ratio$\\frac12:7=$$\\\\$\\\\$$1:14$\\\\$\\\\$\\$\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2054,7 +2054,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "A bookseller allowed a$15\\%$discount on the books sold. Sunil purchased books worth Rs.1500. How much will he have to pay to the bookseller?",
+    "question": "A bookseller allowed a\\\\$15\\%\\$discount on the books sold. Sunil purchased books worth Rs.1500. How much will he have to pay to the bookseller?",
     "questionImage": null,
     "options": [
       {
@@ -2079,7 +2079,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Marked price$=\\text{Rs. }1500$Discount$=15\\%$Selling price$=1500\\times\\frac{85}{100}$$=\\text{Rs. }1275$",
+    "explanation": "Marked price$=\\text{Rs. }1500\\\\$Discount$=15\\%$Selling price$=1500\\times\\frac{85}{100}$$=\\text{Rs. }1275\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2091,32 +2091,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Easy",
-    "question": "If the ratio between the profit and sale price of an article is$$$1:5$$$, then the ratio between the sale price and the cost price of that article is:",
+    "question": "If the ratio between the profit and sale price of an article is$$\\\\$\\\\$$1:5$\\\\$\\\\$$$, then the ratio between the sale price and the cost price of that article is:",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$3:2$$$",
+        "text": "\\\\$$\\\\$\\\\$$3:2$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$4:3$$$",
+        "text": "\\\\$$\\\\$\\\\$$4:3$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$5:4$$$",
+        "text": "\\\\$$\\\\$\\\\$$5:4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$6:5$$$",
+        "text": "\\\\$$\\\\$\\\\$$6:5$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the selling price be$5x$.\n\nProfit$=x$.\n\nTherefore,$\\text{Cost Price}=5x-x=4x$Hence,$\\text{SP:CP}=$$$5:4$$$.$",
+    "explanation": "Let the selling price be\\\\$5x$.\n\nProfit$=x$.\n\nTherefore,$\\text{Cost Price}=5x-x=4x$Hence,$\\text{SP:CP}=$$\\\\$\\\\$$5:4$\\\\$\\\\$$$.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2153,7 +2153,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "1 day$=24$hours$=1440$minutes.\n\nRequired percentage$=\\frac{36}{1440}\\times100=2.5\\%.$",
+    "explanation": "1 day$=24\\\\$hours$=1440\\\\$minutes.\n\nRequired percentage\\$=\\frac{36}{1440}\\times100=2.5\\%.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2190,7 +2190,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the original speed be$5x$km/hr.\n\nDistance covered in 25 hours$=25\\times5x=125x.$Reduced speed$=5x-\\frac{1}{5}(5x)=4x.$Distance covered$=25\\times4x=100x.$According to the question,$125x-100x=200$$25x=200$$x=8.$Therefore, speed$=5\\times8=40\\text{ km/hr}.$",
+    "explanation": "Let the original speed be\\\\$5x$km/hr.\n\nDistance covered in 25 hours$=25\\times5x=125x.$Reduced speed$=5x-\\frac{1}{5}(5x)=4x.$Distance covered$=25\\times4x=100x.$According to the question,\\\\$125x-100x=200\\\\$\\\\$25x=200\\\\$$x=8.$Therefore, speed$=5\\times8=40\\text{ km/hr}.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2207,17 +2207,17 @@
     "options": [
       {
         "id": "A",
-        "text": "$6\\frac{1}{3}\\%$",
+        "text": "\\\\$6\\frac{1}{3}\\%\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$6\\frac{2}{3}\\%$",
+        "text": "\\\\$6\\frac{2}{3}\\%\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$6\\frac{1}{2}\\%$",
+        "text": "\\\\$6\\frac{1}{2}\\%\\$",
         "image": null
       },
       {
@@ -2227,7 +2227,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the principal be$P$.\n\nSince the amount doubles,$\\text{SI}=P.$Using$\\text{SI}=\\frac{PRT}{100}$$P=\\frac{P\\times R\\times15}{100}$$15R=100$$R=\\frac{100}{15}=6\\frac{2}{3}\\%.$",
+    "explanation": "Let the principal be$P$.\n\nSince the amount doubles,$\\text{SI}=P.$Using$\\text{SI}=\\frac{PRT}{100}$$P=\\frac{P\\times R\\times15}{100}$\\\\$15R=100\\\\$\\$R=\\frac{100}{15}=6\\frac{2}{3}\\%.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2239,7 +2239,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If$\\dfrac{1}{a}-\\dfrac{1}{b}=0$, then the value of$\\dfrac{1}{a}+\\dfrac{1}{b}$is:",
+    "question": "If$\\dfrac{1}{a}-\\dfrac{1}{b}=0\\\\$, then the value of$\\dfrac{1}{a}+\\dfrac{1}{b}\\$is:",
     "questionImage": null,
     "options": [
       {
@@ -2264,7 +2264,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given,$\\frac{1}{a}-\\frac{1}{b}=0.$Squaring both sides,$\\left(\\frac{1}{a}-\\frac{1}{b}\\right)^2=0$$\\frac{1}{a^2}+\\frac{1}{b^2}-\\frac{2}{ab}=0.$Hence,$\\frac{1}{a}+\\frac{1}{b}=2.$",
+    "explanation": "Given,$\\frac{1}{a}-\\frac{1}{b}=0.$Squaring both sides,$\\left(\\frac{1}{a}-\\frac{1}{b}\\right)^2=0\\\\$$\\frac{1}{a^2}+\\frac{1}{b^2}-\\frac{2}{ab}=0.$Hence,$\\frac{1}{a}+\\frac{1}{b}=2.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2276,7 +2276,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "If$x^2+y^2+z^2=14$and$xy+yz+zx=11$, then the value of$(x+y+z)^2$is:",
+    "question": "If$x^2+y^2+z^2=14\\\\$and$xy+yz+zx=11\\\\$, then the value of\\$(x+y+z)^2\\\\$is:",
     "questionImage": null,
     "options": [
       {
@@ -2301,7 +2301,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using the identity,$(x+y+z)^2=x^2+y^2+z^$$$2+2$$$(xy+yz+zx)$Substituting the given values,$=(14)+2(11)=$$$14+22=36.$$$",
+    "explanation": "Using the identity,$(x+y+z)^2=x^2+y^2+z^$$\\\\$\\\\$$2+2$\\\\$\\\\$$$(xy+yz+zx)$Substituting the given values,$=(14)+2(11)=$$\\\\$\\\\$$14+22=36.$$$$\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2313,7 +2313,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "If$\\sqrt{3}\\tan\\theta=1$and$0<\\theta<45^\\circ$, then the value of$\\sin\\theta+\\sqrt{3}\\cos\\theta-2\\tan\\theta$is:",
+    "question": "If$\\sqrt{3}\\tan\\theta=1\\\\$and\\\\$0<\\theta<45^\\circ$, then the value of$\\sin\\theta+\\sqrt{3}\\cos\\theta-2\\tan\\theta$is:",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Given,$\\sqrt{3}\\tan\\theta=1$$\\tan\\theta=\\frac{1}{\\sqrt3}=\\tan30^\\circ$Hence,$\\theta=30^\\circ$.\n\nSubstituting the standard values,$\\sin30^\\circ+\\sqrt3\\cos30^\\circ-2\\tan30^\\circ$$=\\frac12+\\frac32-\\frac23=\\frac43.$",
+    "explanation": "Given,$\\sqrt{3}\\tan\\theta=1\\\\$$\\tan\\theta=\\frac{1}{\\sqrt3}=\\tan30^\\circ$Hence,$\\theta=30^\\circ$.\n\nSubstituting the standard values,$\\sin30^\\circ+\\sqrt3\\cos30^\\circ-2\\tan30^\\circ$$=\\frac12+\\frac32-\\frac23=\\frac43.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2350,7 +2350,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Quadratic Equations",
     "difficulty": "Medium",
-    "question": "A positive number when decreased by$4$is equal to$21$times the reciprocal of this number. The number is:",
+    "question": "A positive number when decreased by\\\\$4\\\\$is equal to\\\\$21\\\\$times the reciprocal of this number. The number is:",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the number be$x$.\n\nAccording to the question,$x-4=\\frac{21}{x}$$x^$$$2-4$$$x-21=0$$(x-7)(x+3)=0$The positive value is,$x=7.$",
+    "explanation": "Let the number be$x$.\n\nAccording to the question,$x-4=\\frac{21}{x}$$x^$$\\\\$\\\\$$2-4$\\\\$\\\\$$$x-21=0\\\\$$(x-7)(x+3)=0\\\\$The positive value is,\\$x=7.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2387,32 +2387,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Hard",
-    "question": "If$\\tan\\alpha=2$, then the value of$\\dfrac{\\sin\\alpha}{\\sin\\alpha+\\cos\\alpha}$is:",
+    "question": "If$\\tan\\alpha=2\\\\$, then the value of$\\dfrac{\\sin\\alpha}{\\sin\\alpha+\\cos\\alpha}\\$is:",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{2}{9}$",
+        "text": "\\\\$\\frac{2}{9}\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{5}{9}$",
+        "text": "\\\\$\\frac{5}{9}\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{10}{9}$",
+        "text": "\\\\$\\frac{10}{9}\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{5\\sqrt5}{9}$",
+        "text": "\\\\$\\frac{5\\sqrt5}{9}\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given,$\\tan\\alpha=2$Using the simplification shown in the solution,$\\frac{\\sin\\alpha}{\\sin\\alpha+\\cos\\alpha}\n=\\frac{\\tan\\alpha\\cdot\\sin\\alpha}{\\tan\\alpha\\cdot\\sin\\alpha+\\cos\\alpha}$Substituting the required values,$=\\frac{10}{9}.$",
+    "explanation": "Given,$\\tan\\alpha=2\\\\$Using the simplification shown in the solution,$\\frac{\\sin\\alpha}{\\sin\\alpha+\\cos\\alpha}\n=\\frac{\\tan\\alpha\\cdot\\sin\\alpha}{\\tan\\alpha\\cdot\\sin\\alpha+\\cos\\alpha}$Substituting the required values,$=\\frac{10}{9}.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2449,7 +2449,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given,$x=\\sqrt[3]{28},\\;y=\\sqrt[3]{27}=3.$Using the identity,$(x-y)(x^2+xy+y^2)=x^3-y^3$$=$$$28-27=1.$$$The given expression simplifies to,$=(x+y)-(x-y)=2y=2\\times3=6.$",
+    "explanation": "Given,$x=\\sqrt[3]{28},\\;y=\\sqrt[3]{27}=3.$Using the identity,$(x-y)(x^2+xy+y^2)=x^3-y^3\\\\$$=$$\\\\$\\\\$$28-27=1.$$$$$The given expression simplifies to,\\$=(x+y)-(x-y)=2y=2\\times3=6.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2461,12 +2461,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Indices",
     "difficulty": "Easy",
-    "question": "If$x=12$and$y=4$, then the value of$(x+y)^{\\frac{x}{y}}$is:",
+    "question": "If$x=12\\\\$and$y=4\\\\$, then the value of$(x+y)^{\\frac{x}{y}}$is:",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{32}{4}$",
+        "text": "\\\\$\\frac{32}{4}\\\\$",
         "image": null
       },
       {
@@ -2476,7 +2476,7 @@
       },
       {
         "id": "C",
-        "text": "$\\frac{12}{4}$",
+        "text": "\\\\$\\frac{12}{4}\\\\$",
         "image": null
       },
       {
@@ -2486,7 +2486,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given,$x=12,\\;y=4$$\\frac{x}{y}=\\frac{12}{4}=3$$x+y=16$Therefore,$(x+y)^{\\frac{x}{y}}=16^3=4096.$",
+    "explanation": "Given,$x=12,\\;y=4\\\\$$\\frac{x}{y}=\\frac{12}{4}=3\\\\$$x+y=16\\\\$Therefore,$(x+y)^{\\frac{x}{y}}=16^3=4096.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2523,7 +2523,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Since$PQ=PR$, the triangle is isosceles.\n\nLet$\\angle P=\\theta$.\n\nThen,$\\angle Q=\\angle R=2\\theta$Using the angle sum property,$\\theta+2\\theta+2\\theta=180^\\circ$$5\\theta=180^\\circ$$\\theta=36^\\circ$Hence,$\\angle Q=72^\\circ.$",
+    "explanation": "Since$PQ=PR$, the triangle is isosceles.\n\nLet$\\angle P=\\theta$.\n\nThen,$\\angle Q=\\angle R=2\\theta$Using the angle sum property,$\\theta+2\\theta+2\\theta=180^\\circ$\\\\$5\\theta=180^\\circ$$\\theta=36^\\circ$Hence,$\\angle Q=72^\\circ.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2535,12 +2535,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Circles",
     "difficulty": "Easy",
-    "question": "If the length of a chord of a circle is$16$cm and it is at a distance of$15$cm from the centre of the circle, then the radius of the circle is:",
+    "question": "If the length of a chord of a circle is\\\\$16\\\\$cm and it is at a distance of\\\\$15\\\\$cm from the centre of the circle, then the radius of the circle is:",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{36}{2}$",
+        "text": "\\\\$\\frac{36}{2}\\\\$",
         "image": null
       },
       {
@@ -2550,7 +2550,7 @@
       },
       {
         "id": "C",
-        "text": "$\\frac{16}{2}$",
+        "text": "\\\\$\\frac{16}{2}\\\\$",
         "image": null
       },
       {
@@ -2560,7 +2560,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The perpendicular from the centre bisects the chord.\n\nHalf chord$=\\frac{16}{2}=8\\text{ cm}$Using Pythagoras theorem,$r^2=15^$$$2+8$$$^2$$=$$$225+64=289$$$$r=17\\text{ cm}.$",
+    "explanation": "The perpendicular from the centre bisects the chord.\n\nHalf chord$=\\frac{16}{2}=8\\text{ cm}$Using Pythagoras theorem,$r^2=15^$$\\\\$\\\\$$2+8$\\\\$\\\\$$$^2\\\\$$=$$\\\\$\\\\$$225+64=289$\\\\$\\\\$$$\\$r=17\\text{ cm}.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2572,7 +2572,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Easy",
-    "question": "On 24th May 2008, the maximum temperatures of Delhi, Kolkata and Mumbai were$35^\\circ$C,$33^\\circ$C and$34^\\circ$C respectively. What was the maximum temperature of Chennai so that the average maximum temperature of these four cities would be$35^\\circ$C?",
+    "question": "On 24th May 2008, the maximum temperatures of Delhi, Kolkata and Mumbai were\\\\$35^\\circ$C,\\\\$33^\\circ$C and\\\\$34^\\circ$C respectively. What was the maximum temperature of Chennai so that the average maximum temperature of these four cities would be\\\\$35^\\circ$C?",
     "questionImage": null,
     "options": [
       {
@@ -2597,7 +2597,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Sum of temperatures of Delhi, Kolkata and Mumbai,$$$35+33+34=102$$$^\\circ C$Let Chennai's temperature be$x$.$$\\frac{102+x}{4}=35$$$102+x=140$$x=38^\\circ C.$",
+    "explanation": "Sum of temperatures of Delhi, Kolkata and Mumbai,$$\\\\$\\\\$$35+33+34=102$\\\\$\\\\$$$^\\circ C$Let Chennai's temperature be$x$.$$\\frac{102+x}{4}=35\\\\$$\\\\$102+x=140\\\\$\\$x=38^\\circ C.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2619,7 +2619,7 @@
       },
       {
         "id": "B",
-        "text": "$\\frac{4}{3}$",
+        "text": "\\\\$\\frac{4}{3}\\\\$",
         "image": null
       },
       {
@@ -2634,7 +2634,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the radius of the smaller sphere be$r$cm.\n\nThen the radius of the first sphere is$2r$cm.\n\nGiven,$4\\pi(2r)^2=\\frac{4}{3}\\pi r^3$$16r^2=\\frac{4}{3}r^3$$r=12\\text{ cm}$Therefore, the radius of the first sphere is$2r=24\\text{ cm}.$",
+    "explanation": "Let the radius of the smaller sphere be$r$cm.\n\nThen the radius of the first sphere is\\\\$2r$cm.\n\nGiven,\\\\$4\\pi(2r)^2=\\frac{4}{3}\\pi r^3\\\\$\\\\$16r^2=\\frac{4}{3}r^3\\\\$$r=12\\text{ cm}\\$Therefore, the radius of the first sphere is\\\\$2r=24\\text{ cm}.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2646,7 +2646,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Height and Distance",
     "difficulty": "Easy",
-    "question": "The thread of a kite makes a$60^\\circ$angle with the horizontal plane. If the length of the thread is$80$m, then the vertical height of the kite is:",
+    "question": "The thread of a kite makes a\\\\$60^\\circ\\$angle with the horizontal plane. If the length of the thread is\\\\$80\\\\$m, then the vertical height of the kite is:",
     "questionImage": null,
     "options": [
       {
@@ -2656,7 +2656,7 @@
       },
       {
         "id": "B",
-        "text": "$80\\sqrt{3}$m",
+        "text": "\\\\$80\\sqrt{3}\\$m",
         "image": null
       },
       {
@@ -2666,12 +2666,12 @@
       },
       {
         "id": "D",
-        "text": "$40\\sqrt{3}$m",
+        "text": "\\\\$40\\sqrt{3}\\$m",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the thread be the hypotenuse of a right triangle.\n\nGiven,$AC=80\\text{ m}$$\\angle C=60^\\circ$Using,$\\sin60^\\circ=\\frac{AB}{AC}$$\\frac{\\sqrt3}{2}=\\frac{h}{80}$$h=80\\times\\frac{\\sqrt3}{2}=40\\sqrt3\\text{ m}.$",
+    "explanation": "Let the thread be the hypotenuse of a right triangle.\n\nGiven,$AC=80\\text{ m}$$\\angle C=60^\\circ$Using,$\\sin60^\\circ=\\frac{AB}{AC}$$\\frac{\\sqrt3}{2}=\\frac{h}{80}$\\$h=80\\times\\frac{\\sqrt3}{2}=40\\sqrt3\\text{ m}.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2708,7 +2708,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Service =$20\\%$.\n\nTrade =$6.70\\%$.\n\nDifference =$13.3\\%$.$\\frac{13.3}{100}\\times2000=266.$",
+    "explanation": "Service =\\\\$20\\%$.\n\nTrade =\\\\$6.70\\%$.\n\nDifference =\\\\$13.3\\%$.$\\frac{13.3}{100}\\times2000=266.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2725,27 +2725,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$1:2$$$",
+        "text": "\\\\$$\\\\$\\\\$$1:2$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$2:3$$$",
+        "text": "\\\\$$\\\\$\\\\$$2:3$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$3:4$$$",
+        "text": "\\\\$$\\\\$\\\\$$3:4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$3:2$$$",
+        "text": "\\\\$$\\\\$\\\\$$3:2$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Service =$20\\%$.\n\nIndustry =$30\\%$.$$$20:30$$$=$$$2:3$$$.$",
+    "explanation": "Service =\\\\$20\\%$.\n\nIndustry =\\\\$30\\%$.$$\\\\$\\\\$$20:30$\\\\$\\\\$$$=$$\\\\$\\\\$$2:3$\\\\$\\\\$$$.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2782,7 +2782,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Service =$20\\%$.\n\nCentral angle$=\\frac{20}{100}\\times360^\\circ=72^\\circ.$",
+    "explanation": "Service =\\\\$20\\%$.\n\nCentral angle$=\\frac{20}{100}\\times360^\\circ=72^\\circ.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2819,7 +2819,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Maximum percentage = Agriculture =$33.30\\%$.\n\nMinimum percentage = Trade =$6.70\\%$.\n\nDifference =$26.6\\%$.$\\frac{26.6}{100}\\times2000=532.$",
+    "explanation": "Maximum percentage = Agriculture =\\\\$33.30\\%$.\n\nMinimum percentage = Trade =\\\\$6.70\\%$.\n\nDifference =\\\\$26.6\\%$.$\\frac{26.6}{100}\\times2000=532.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2907,7 +2907,7 @@
     "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Medium",
-    "question": "Select the related word/letters/number from the given alternatives.$$$2:10$$$:: 26 : ?",
+    "question": "Select the related word/letters/number from the given alternatives.$$\\\\$\\\\$$2:10$\\\\$\\\\$$$:: 26 : ?",
     "questionImage": null,
     "options": [
       {
@@ -2932,7 +2932,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Pattern:$n^$$$2+1$$$.$2=1^$$$2+1$$$and$10=$$$(1+2)$$$^$$$2+1$$$.\n\nSimilarly,$26=5^$$$2+1$$$.\n\nRequired value$=$$$(5+2)$$$^$$$2+1=49+1=50$$$.",
+    "explanation": "Pattern:$n^$$\\\\$\\\\$$2+1$\\\\$\\\\$$$.\\\\$2=1^$$\\\\$\\\\$$2+1$\\\\$\\\\$$$and\\\\$10=$$$$$(1+2)$$$$$^$$\\\\$\\\\$$2+1$\\\\$\\\\$$$.\n\nSimilarly,\\\\$26=5^$$\\\\$\\\\$$2+1$\\\\$\\\\$$$.\n\nRequired value$=$$$$$(5+2)$$$$$^$$\\\\$\\\\$$2+1=49+1=50$\\\\$\\\\$$$.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3064,22 +3064,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$5,2,3,1,4$$$",
+        "text": "\\\\$$\\\\$\\\\$$5,2,3,1,4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$5,2,1,3,4$$$",
+        "text": "\\\\$$\\\\$\\\\$$5,2,1,3,4$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$5,2,4,1,3$$$",
+        "text": "\\\\$$\\\\$\\\\$$5,2,4,1,3$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$5,2,4,3,1$$$",
+        "text": "\\\\$$\\\\$\\\\$$5,2,4,3,1$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
@@ -3135,7 +3135,7 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "A series is given below with one term missing. Choose the correct alternative from the given ones that will complete the series.$$$124,235,346,457$$$, ?",
+    "question": "A series is given below with one term missing. Choose the correct alternative from the given ones that will complete the series.$$\\\\$\\\\$$124,235,346,457$\\\\$\\\\$$$, ?",
     "questionImage": null,
     "options": [
       {
@@ -3160,7 +3160,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Each digit increases by 1 independently:\n\nFirst digits:$$$1,2,3,4,5$$$Second digits:$$$2,3,4,5,6$$$Third digits:$$$4,5,6,7,8$$$Hence the missing number is 568.",
+    "explanation": "Each digit increases by 1 independently:\n\nFirst digits:$$\\\\$\\\\$$1,2,3,4,5$\\\\$\\\\$$$Second digits:$$\\\\$\\\\$$2,3,4,5,6$\\\\$\\\\$$$Third digits:$$\\\\$\\\\$$4,5,6,7,8$\\\\$\\\\$$$Hence the missing number is 568.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3236,7 +3236,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Prabha's rank from the last is 15.\n\nJhansi is 12 places ahead, so her rank from the last is:$$$15+12=27$$$Jhansi's rank from the top is 4.\n\nTotal students:$$$27+4-1=30.$$$",
+    "explanation": "Prabha's rank from the last is 15.\n\nJhansi is 12 places ahead, so her rank from the last is:$$\\\\$\\\\$$15+12=27$\\\\$\\\\$$$Jhansi's rank from the top is 4.\n\nTotal students:$$\\\\$\\\\$$27+4-1=30.$$$\\$\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3325,7 +3325,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "If '+' means '−', '−' means '×', '×' means '÷' and '÷' means '+', then$2 \\div 6 \\times 6 \\div 2$= ?",
+    "question": "If '+' means '−', '−' means '×', '×' means '÷' and '÷' means '+', then\\\\$2 \\div 6 \\times 6 \\div 2\\\\$= ?",
     "questionImage": null,
     "options": [
       {
@@ -3350,7 +3350,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Replace the operators:$$$2+6$$$\\div$$$6+2$$$$=$$$2+1+2=5.$$$",
+    "explanation": "Replace the operators:$$\\\\$\\\\$$2+6$\\\\$\\\\$$$\\div$$\\\\$\\\\$$6+2$\\\\$\\\\$$$$=$$\\\\$\\\\$$2+1+2=5.$$$$\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3363,7 +3363,7 @@
     "subject": "Reasoning Ability",
     "topic": "Coding-Decoding",
     "difficulty": "Easy",
-    "question": "If$6 \\times 9 \\times 3 = 963$and$4 \\times 8 \\times 5 = 845$, then$9 \\times 4 \\times 7 =$?",
+    "question": "If\\\\$6 \\times 9 \\times 3 = 963\\\\$and\\\\$4 \\times 8 \\times 5 = 845\\\\$, then\\\\$9 \\times 4 \\times 7 =\\$?",
     "questionImage": null,
     "options": [
       {
@@ -3388,7 +3388,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The first two numbers interchange their positions while the third number remains unchanged.\n\nTherefore,$9\\times4\\times7=497.$",
+    "explanation": "The first two numbers interchange their positions while the third number remains unchanged.\n\nTherefore,\\\\$9\\times4\\times7=497.\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3426,7 +3426,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "In each column, the bottom number equals the product of the other three numbers.$9\\times x\\times12=36$$x=\\frac{36}{108}=\\frac13.$",
+    "explanation": "In each column, the bottom number equals the product of the other three numbers.\\\\$9\\times x\\times12=36\\\\$\\$x=\\frac{36}{108}=\\frac13.\\\\$",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
@@ -3748,27 +3748,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$23,68,24,97$$$",
+        "text": "\\\\$$\\\\$\\\\$$23,68,24,97$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$14,96,11,85$$$",
+        "text": "\\\\$$\\\\$\\\\$$14,96,11,85$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$23,96,40,85$$$",
+        "text": "\\\\$$\\\\$\\\\$$23,96,40,85$\\\\$\\\\$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$32,89,10,68$$$",
+        "text": "\\\\$$\\\\$\\\\$$32,89,10,68$\\\\$\\\\$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the given matrices, the letters D, A, T and E are encoded as 23, 68, 24 and 97 respectively. Hence, the correct code is$$$23,68,24,97$$$.",
+    "explanation": "Using the given matrices, the letters D, A, T and E are encoded as 23, 68, 24 and 97 respectively. Hence, the correct code is$$\\\\$\\\\$$23,68,24,97$\\\\$\\\\$$$.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,

@@ -630,40 +630,46 @@
     "direction": "Directions (15-19): Read the sentence to find out whether there is any grammatical or idiomatic\nerror in it. The error, if any, will be in one part of the sentence. The letter of that part is the\nanswer. If the given sentence is grammatically and contextually correct, then choose option “No\nerror” as your answer response. (Ignore errors of punctuation, if any)."
   },
   {
-    "exam": "SSC CHSL",
-    "year": 2022,
+    "id": 16,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
     "subject": "English Language",
-    "topic": "Spotting Errors",
+    "topic": "Sentence Rearrangement",
     "difficulty": "Medium",
-    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "question": "She decided",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "was pleased with",
+        "text": "/ to join the gym",
         "image": null
       },
       {
         "id": "B",
-        "text": "the performance of the team",
+        "text": "/ in order too",
         "image": null
       },
       {
         "id": "C",
-        "text": "and give them a bonus",
+        "text": "/ improve her fitness.",
         "image": null
       },
       {
         "id": "D",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
+        "image": null
+      },
+      {
+        "id": "E",
         "text": "No error",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 16
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Sentence Rearrangement - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS16. Ans.(c) \nSol. Correct Answer: \n(c) C \nError: \"in order too\" \nGrammatical Rule Applied: \n• \nHomophone Confusion: \"Too\" means \"also\" or \"excessively,\" which does not fit the sentence \ncontext. \n• \nThe correct word should be \"to\", which is a preposition used before a verb to indicate purpose \n(e.g., \"to improve\"). \nCorrected Sentence: \n\"She decided to join the gym in order to improve her fitness.\"\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (15-19): Read the sentence to find out whether there is any grammatical or idiomatic\nerror in it. The error, if any, will be in one part of the sentence. The letter of that part is the\nanswer. If the given sentence is grammatically and contextually correct, then choose option “No\nerror” as your answer response. (Ignore errors of punctuation, if any)."
   },
   {
     "id": 17,
@@ -708,180 +714,214 @@
     "direction": "Directions (15-19): Read the sentence to find out whether there is any grammatical or idiomatic\nerror in it. The error, if any, will be in one part of the sentence. The letter of that part is the\nanswer. If the given sentence is grammatically and contextually correct, then choose option “No\nerror” as your answer response. (Ignore errors of punctuation, if any)."
   },
   {
-    "exam": "SSC CHSL",
-    "year": 2022,
+    "id": 18,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
     "subject": "English Language",
-    "topic": "Synonyms",
-    "difficulty": "Easy",
-    "question": "Select the synonym of the given word.\n\n**ABUNDANT**",
-    "options": [
-      {
-        "id": "A",
-        "text": "Scarce",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Plentiful",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Rare",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Deficient",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "'Abundant' means existing or available in large quantities; overflowing or rich. 'Plentiful' is its direct synonym. 'Scarce', 'Rare', and 'Deficient' are antonyms.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 18
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Antonyms",
-    "difficulty": "Easy",
-    "question": "Select the antonym of the given word.\n\n**HOSTILE**",
-    "options": [
-      {
-        "id": "A",
-        "text": "Friendly",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Adverse",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Antagonistic",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Unfavorable",
-        "image": null
-      }
-    ],
-    "correctAnswer": "A",
-    "explanation": "'Hostile' means unfriendly, antagonistic, or opposed. The opposite of hostile is 'Friendly'. 'Adverse', 'Antagonistic', and 'Unfavorable' are synonyms.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 19
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "One Word Substitution",
+    "topic": "Sentence Rearrangement",
     "difficulty": "Medium",
-    "question": "Select the option that can be used as a one-word substitute for the given group of words.\n\n**A person who presents a radio or television program**",
-    "options": [
-      {
-        "id": "A",
-        "text": "Actor",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "Anchor",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "Compere",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "Journalist",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "An 'Anchor' is a person who presents a radio or television program. A 'Compere' is a person who introduces the performers in a variety show. Hence, Anchor is the correct choice.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 20
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Idioms & Phrases",
-    "difficulty": "Medium",
-    "question": "Select the most appropriate meaning of the given idiom.\n\n**Spill the beans**",
-    "options": [
-      {
-        "id": "A",
-        "text": "To drop something by mistake",
-        "image": null
-      },
-      {
-        "id": "B",
-        "text": "To reveal a secret prematurely",
-        "image": null
-      },
-      {
-        "id": "C",
-        "text": "To work very hard",
-        "image": null
-      },
-      {
-        "id": "D",
-        "text": "To waste food",
-        "image": null
-      }
-    ],
-    "correctAnswer": "B",
-    "explanation": "The idiom 'Spill the beans' means to disclose secret information, often unintentionally or prematurely. Hence, option B is the correct interpretation.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 21
-  },
-  {
-    "exam": "SSC CHSL",
-    "year": 2022,
-    "subject": "English Language",
-    "topic": "Spotting Errors",
-    "difficulty": "Medium",
-    "question": "Identify the segment in the sentence which contains a grammatical error.\n\nThe manager was pleased with the performance of the team and give them a bonus.",
+    "question": "He carry the",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "was pleased with",
+        "text": "/ heavy suitcase",
         "image": null
       },
       {
         "id": "B",
-        "text": "the performance of the team",
+        "text": "/ up the stairs",
         "image": null
       },
       {
         "id": "C",
-        "text": "and give them a bonus",
+        "text": "/ without any help.",
         "image": null
       },
       {
         "id": "D",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
+        "image": null
+      },
+      {
+        "id": "E",
         "text": "No error",
         "image": null
       }
     ],
-    "correctAnswer": "C",
-    "explanation": "The sentence is in the past tense ('was pleased'). Therefore, the coordinating clause should also use the past tense form of the verb. 'give' should be replaced with 'gave'. Hence, the error is in option C.",
-    "marks": 2,
-    "negativeMarks": 0.5,
-    "id": 22
+    "correctAnswer": "A",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Sentence Rearrangement - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS18. Ans.(a) \nSol. Correct Answer: \n(a) A \nError: \"He carry the\" \nGrammatical Rule Applied: \n\n• \nSubject-Verb Agreement: \no The subject \"He\" is singular. \no The verb \"carry\" is in its base form, which is incorrect. \no In the present tense, a singular subject requires the third-person singular form of the \nverb (carries). \nCorrected Sentence: \n\"He carries the heavy suitcase up the stairs without any help.\"\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (15-19): Read the sentence to find out whether there is any grammatical or idiomatic\nerror in it. The error, if any, will be in one part of the sentence. The letter of that part is the\nanswer. If the given sentence is grammatically and contextually correct, then choose option “No\nerror” as your answer response. (Ignore errors of punctuation, if any)."
+  },
+  {
+    "id": 19,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Error Spotting",
+    "difficulty": "Medium",
+    "question": "Please bring",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "/ your notebook",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "/ to the meeting so",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "/ you can took notes.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "(a) A\n(b) B\n(c) C\n(d) D",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Error Spotting - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS19. Ans.(d) \nSol. The error is in part (D). \nCorrected Sentence: \n\"Please bring your notebook to the meeting so you can take notes.\" \nExplanation: \n• \n\"Took\" (incorrect) is the past tense of \"take,\" but the sentence requires the base form (\"take\") \nbecause it follows \"can,\" which is a modal verb. \n• \nModal verbs (can, could, will, shall, etc.) are always followed by the base form of a verb, not the \npast tense. \nThus, the correct answer is: \n✔ (d) D\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (15-19): Read the sentence to find out whether there is any grammatical or idiomatic\nerror in it. The error, if any, will be in one part of the sentence. The letter of that part is the\nanswer. If the given sentence is grammatically and contextually correct, then choose option “No\nerror” as your answer response. (Ignore errors of punctuation, if any)."
+  },
+  {
+    "id": 20,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Error Spotting",
+    "difficulty": "Medium",
+    "question": "The clock",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "inside feels solemn, with a high wall silently",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ticking almost ambiance",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": ".\n(a) BAC\n(b) CAB\n(c) ACB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Error Spotting - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS20. Ans.(b) \nSol. The correct rearrangement is CAB. \n\"The ambiance inside feels solemn, with a high wall clock ticking almost silently.\" \nThis arrangement logically describes the ambiance and connects the clock's action to its placement. \n• \nambiance (वातावरण) - the character or atmosphere of a place \n• \nsilently (चुपचाप) - without making a sound \n• \nclock (घड़ी) - a device showing time \n•\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (20-23): In the sentence given below, three words are highlighted in bold. Rearrange\nthese words to form a meaningful and grammatically correct sentence. If the words are already\nin the correct order, select \"No rearrangement required\" as the answer."
+  },
+  {
+    "id": 21,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Error Spotting",
+    "difficulty": "Medium",
+    "question": "Their enduring",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "represented meeting",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "and goodwill, inspiring an devotion",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "spirit even\ntoday.\n(a) BCA\n(b) BAC\n(c) CAB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "ACB",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Error Spotting - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS21. Ans.(a) \nSol. The correct rearrangement is BCA. \n\"Their meeting represented devotion and goodwill, inspiring an enduring spirit even today.\" \nThis arrangement maintains the logical sequence of events and the cause-effect relationship. \n• \nmeeting (मुलाकात) - an assembly of people \n• \ndevotion (समपपण) - love, loyalty, or enthusiasm \n• \nenduring (सदा रहने वाला) - lasting or continuing \n•\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (20-23): In the sentence given below, three words are highlighted in bold. Rearrange\nthese words to form a meaningful and grammatically correct sentence. If the words are already\nin the correct order, select \"No rearrangement required\" as the answer."
+  },
+  {
+    "id": 22,
+    "exam": "SBI Clerk Prelims",
+    "year": 2024,
+    "subject": "English Language",
+    "topic": "Error Spotting",
+    "difficulty": "Medium",
+    "question": "Mini feeling",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": ", seeing half her bowl still",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "full, already sighed",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "completely satisfied.\n(a) CAB\n(b) BAC\n(c) ACB",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "CBA",
+        "image": null
+      },
+      {
+        "id": "E",
+        "text": "No rearrangement required\n\n\n\n\n6",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Error Spotting - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS22. Ans.(d) \nSol. The correct rearrangement is CBA. \n\"Mini sighed, seeing half her bowl still full, already feeling completely satisfied.\" \nThis arrangement appropriately places the action (sighed) at the beginning and the cause (feeling \nsatisfied) at the end. \n• \nsighed (आह भऱी) - exhaled audibly due to relief or tiredness \n• \nstill (अब भ़ी) - remaining in a specified condition \n• \nfeeling (महसूस करना) - experiencing an emotional state\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "marks": 1,
+    "negativeMarks": 0.25,
+    "direction": "Directions (20-23): In the sentence given below, three words are highlighted in bold. Rearrange\nthese words to form a meaningful and grammatically correct sentence. If the words are already\nin the correct order, select \"No rearrangement required\" as the answer."
   },
   {
     "id": 23,
@@ -1231,27 +1271,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$30$",
+        "text": "\\(30\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$40$",
+        "text": "\\(40\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$35$",
+        "text": "\\(35\\)",
         "image": null
       }
     ],
@@ -1275,32 +1315,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$2:5$$$$",
+        "text": "\\($2:5$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$1:1$$$$",
+        "text": "\\($1:1$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$1:5$$$$",
+        "text": "\\($1:5$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$4:3$$$$",
+        "text": "\\($4:3$\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$5:3$$$$",
+        "text": "\\($5:3$\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS32. Ans.(b)  \nSol. Require ratio = $$$60+12$$$:72 = $$$1:1$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Tabular DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS32. Ans.(b)  \nSol. Require ratio = \\\\$$$$$\\\\$$60+12$\\\\$$$$$$:72 = \\\\$$$$$\\\\$$1:1$\\\\$$$$\\$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (31-35): The table given below shows the number of students (Girls + Boys) in four\ndifferent classes (A, B, C & D).\n\n\n\n\n\n8",
@@ -1314,32 +1354,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Tabular DI",
     "difficulty": "Medium",
-    "question": "In class F, the number of boys is 20% more than that in B and number of girls is $\\frac{5}{6}$ of girls\nin C. Find the total number of students in F.",
+    "question": "In class F, the number of boys is 20% more than that in B and number of girls is \\(\\frac{5}{6}\\) of girls\nin C. Find the total number of students in F.",
     "questionImage": "sbi clerk test 7/sbi_clerk-q_31_35.png",
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\(125\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$118$",
+        "text": "\\(118\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$115$",
+        "text": "\\(115\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$114$",
+        "text": "\\(114\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$113$",
+        "text": "\\(113\\)",
         "image": null
       }
     ],
@@ -1363,27 +1403,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$36$",
+        "text": "\\(36\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$30$",
+        "text": "\\(30\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$40$",
+        "text": "\\(40\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$35$",
+        "text": "\\(35\\)",
         "image": null
       }
     ],
@@ -1407,27 +1447,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$225$",
+        "text": "\\(225\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$230$",
+        "text": "\\(230\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$260$",
+        "text": "\\(260\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$240$",
+        "text": "\\(240\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$235",
+        "text": "\\\\$235",
         "image": null
       }
     ],
@@ -1451,32 +1491,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$3325$",
+        "text": "\\(3325\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3360$",
+        "text": "\\(3360\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$3315$",
+        "text": "\\(3315\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$3340$",
+        "text": "\\(3340\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$3335$",
+        "text": "\\(3335\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS36. Ans.(b) \nSol. Cost of the product sold in the month of February = 120% of 20 =Rs.24 \nrequired answer = $140 \\times 24$=Rs 3360\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS36. Ans.(b) \nSol. Cost of the product sold in the month of February = 120% of 20 =Rs.24 \nrequired answer = \\\\$140 \\times 24\\\\$=Rs 3360\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (36-40): The line graph given below shows the products sold in the month of January,\nFebruary, March and April.\n\n\n\n\n9",
@@ -1495,27 +1535,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$525$",
+        "text": "\\(525\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$530$",
+        "text": "\\(530\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$520$",
+        "text": "\\(520\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$540$",
+        "text": "\\(540\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$535$",
+        "text": "\\(535\\)",
         "image": null
       }
     ],
@@ -1539,27 +1579,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$147.5$",
+        "text": "\\(147.5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$130$",
+        "text": "\\(130\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$115.5$",
+        "text": "\\(115.5\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$140.5$",
+        "text": "\\(140.5\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$135.5$",
+        "text": "\\(135.5\\)",
         "image": null
       }
     ],
@@ -1583,32 +1623,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$1:25$$$$",
+        "text": "\\($1:25$\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$13:9$$$$",
+        "text": "\\($13:9$\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$12:5$$$$",
+        "text": "\\($12:5$\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$1:4$$$$",
+        "text": "\\($1:4$\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$$$$9:13$$$$",
+        "text": "\\($9:13$\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS39. Ans.(b)  \nSol. Required ratio = $$$120+140$$$: 180 = $$$260:180$$$ =$$$13:9$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Line Graph DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS39. Ans.(b)  \nSol. Required ratio = \\\\$$$$$\\\\$$120+140$\\\\$$$$$$: 180 = \\\\$$$$$\\\\$$260:180$\\\\$$$$$\\\\$ =$$$$$\\\\$$13:9$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (36-40): The line graph given below shows the products sold in the month of January,\nFebruary, March and April.\n\n\n\n\n9",
@@ -1627,27 +1667,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\(125\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$130$",
+        "text": "\\(130\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$115$",
+        "text": "\\(115\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$140$",
+        "text": "\\(140\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$135",
+        "text": "\\\\$135",
         "image": null
       }
     ],
@@ -1671,32 +1711,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$60$",
+        "text": "\\(60\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$90$",
+        "text": "\\(90\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$80$",
+        "text": "\\(80\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$120$",
+        "text": "\\(120\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS41. Ans.(b) \nSol. Let the number of pizzas sold by A and B be 4a and 7a respectively. \nGiven, 4a = 40 \na = 10 \nThe number of burgers sold by A = 7a – 20  \n= 7(10) – 20 = 50 \nBurgrs sold by B = 150 – 70 = 80 \n \nRequired sum = $$$40 + 50 = 90$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Caselet DI - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS41. Ans.(b) \nSol. Let the number of pizzas sold by A and B be 4a and 7a respectively. \nGiven, 4a = 40 \na = 10 \nThe number of burgers sold by A = 7a – 20  \n= 7(10) – 20 = 50 \nBurgrs sold by B = 150 – 70 = 80 \n \nRequired sum = \\\\$$$$$\\\\$$40 + 50 = 90$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (41-43): Read the following information carefully and answer the questions given\nbelow.\nThe ratio of the number of pizzas sold by A to B is 4:7, and the number of burgers sold by A is 20 less\nthan the number of pizzas sold by B. The total number of burgers and pizzas sold by B is 150 and the\ntotal number of pizzas sold by A is 40."
@@ -1713,27 +1753,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$29 \\frac{3}{7}\\%$",
+        "text": "\\(29 \\frac{3}{7}\\%\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$14.28%$",
+        "text": "\\(14.28%\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$66.67%$",
+        "text": "\\(66.67%\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$54.33%$",
+        "text": "\\(54.33%\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$71 \\frac{3}{7}\\%$",
+        "text": "\\(71 \\frac{3}{7}\\%\\)",
         "image": null
       }
     ],
@@ -1755,27 +1795,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$30\n\n\n\n\n11",
+        "text": "\\\\$30\n\n\n\n\n11",
         "image": null
       }
     ],
@@ -1797,32 +1837,32 @@
     "options": [
       {
         "id": "A",
-        "text": "$800$",
+        "text": "\\(800\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$840$",
+        "text": "\\(840\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$980$",
+        "text": "\\(980\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$910$",
+        "text": "\\(910\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$750$",
+        "text": "\\(750\\)",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS44. Ans.(b) \nSol. \n \nRequired sum = $$$200 + 640 = 840$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS44. Ans.(b) \nSol. \n \nRequired sum = \\\\$$$$$\\\\$$200 + 640 = 840$\\\\$$$$$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (44-45): Read the following information carefully and answer the questions given\nbelow.\nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more\nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is\n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
@@ -1839,27 +1879,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$400$",
+        "text": "\\(400\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$450$",
+        "text": "\\(450\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$420$",
+        "text": "\\(420\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$230$",
+        "text": "\\(230\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$320$",
+        "text": "\\(320\\)",
         "image": null
       }
     ],
@@ -1909,7 +1949,7 @@
     "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS46. Ans.(e) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (44-45): Read the following information carefully and answer the questions given \nbelow.  \nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more \nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is \n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
   },
   {
     "id": 47,
@@ -1923,27 +1963,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$16$",
+        "text": "\\(16\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$24$",
+        "text": "\\(24\\)",
         "image": null
       }
     ],
@@ -1951,7 +1991,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS47. Ans.(a) \nSol. \nLet the radius, length and breadth be r, l and b respectively.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (44-45): Read the following information carefully and answer the questions given \nbelow.  \nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more \nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is \n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
   },
   {
     "id": 48,
@@ -1965,27 +2005,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$115$",
+        "text": "\\(115\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$105$",
+        "text": "\\(105\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$112$",
+        "text": "\\(112\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$106$",
+        "text": "\\(106\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$124$",
+        "text": "\\(124\\)",
         "image": null
       }
     ],
@@ -1993,7 +2033,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS48. Ans.(b) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (44-45): Read the following information carefully and answer the questions given \nbelow.  \nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more \nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is \n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
   },
   {
     "id": 49,
@@ -2007,27 +2047,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$6.25$",
+        "text": "\\(6.25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$5.05$",
+        "text": "\\(5.05\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$5.12$",
+        "text": "\\(5.12\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4.23$",
+        "text": "\\(4.23\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$6.24$",
+        "text": "\\(6.24\\)",
         "image": null
       }
     ],
@@ -2035,7 +2075,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS49. Ans.(a) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (44-45): Read the following information carefully and answer the questions given \nbelow.  \nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more \nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is \n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
   },
   {
     "id": 50,
@@ -2049,27 +2089,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$5000$",
+        "text": "\\(5000\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$8000$",
+        "text": "\\(8000\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$1200$",
+        "text": "\\(1200\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$1600$",
+        "text": "\\(1600\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$6400",
+        "text": "\\\\$6400",
         "image": null
       }
     ],
@@ -2077,7 +2117,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS50. Ans.(b) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (44-45): Read the following information carefully and answer the questions given \nbelow.  \nTotal males planted trees on Saturday is 400, and the total males planted trees on Sunday is 60% more \nthan that of those on Saturday. The ratio of total males to total females who planted trees on Sunday is \n8:3. Total females who planted trees on Saturday is 40 less than that on Sunday."
   },
   {
     "id": 51,
@@ -2086,32 +2126,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$140 \\times \\sqrt{64 \\times ?} = 560$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(140 \\times \\sqrt{64 \\times ?} = 560\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$0.25$",
+        "text": "\\(0.25\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$0.28$",
+        "text": "\\(0.28\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       }
     ],
@@ -2128,37 +2168,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$$$$(10 + 7)$$$$^3 = 8.5 \\times (? - 12)",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\($(10 + 7)$\\)^3 = 8.5 \\times (? - 12)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$520$",
+        "text": "\\(520\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$525$",
+        "text": "\\(525\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$590$",
+        "text": "\\(590\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$500$",
+        "text": "\\(500\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$490$",
+        "text": "\\(490\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS52. Ans.(c) \nSol. $$$(10+7)$$$3= 8.5 ×(? -12)  \n578 = ? – 12  \n590 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS52. Ans.(c) \nSol. \\\\$$$$$$$(10+7)$$$$$$\\\\$3= 8.5 ×(? -12)  \n578 = ? – 12  \n590 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
@@ -2170,37 +2210,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$544 \\div 8.5 \\times 4 = 2^?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(544 \\div 8.5 \\times 4 = 2^?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$7$",
+        "text": "\\(7\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3$",
+        "text": "\\(3\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$1$",
+        "text": "\\(1\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS53. Ans.(d) \nSol. $544 \\div 8.5 \\times 4=2?$  \n2?  = $64 \\times 4 ?=8$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS53. Ans.(d) \nSol. \\\\$544 \\div 8.5 \\times 4=2?\\\\$  \n2?  = \\\\$64 \\times 4 ?=8\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
@@ -2212,32 +2252,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$?^2 =$$$$(10 + 3)$$$$^2 - (3 \\times 2)^$$$$2 - 11$$$$\\times 3$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(?^2 =\\)$(10 + 3)$\\(^2 - (3 \\times 2)^\\)$2 - 11$\\(\\times 3\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$14$",
+        "text": "\\(14\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$11$",
+        "text": "\\(11\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       }
     ],
@@ -2254,32 +2294,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$?^2 \\times (2^$$$$6 + 6$$$$^2) = 60^2$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(?^2 \\times (2^\\)$6 + 6$\\(^2) = 60^2\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$2$",
+        "text": "\\(2\\)",
         "image": null
       }
     ],
@@ -2296,37 +2336,37 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$?^$$$$3 + 2$$$$^9 = 32^2$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(?^\\)$3 + 2$\\(^9 = 32^2\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$6$",
+        "text": "\\(6\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$4$",
+        "text": "\\(4\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$8$",
+        "text": "\\(8\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2$",
+        "text": "\\(2\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS56. Ans.(c) \nSol. ?$$$3 + 29 = 322 ?3 = 1024 - 512 ?3 = 512 ?= 8$$$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS56. Ans.(c) \nSol. ?$$$$$\\\\$$3 + 29 = 322 ?3 = 1024 - 512 ?3 = 512 ?= 8$\\\\$$$$\\$\\\\$\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
@@ -2338,27 +2378,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$2844.8 \\times$$$$5 - 2844.8 = ?$$$$$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(2844.8 \\times\\)$5 - 2844.8 = ?$\\(\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$1129.2$",
+        "text": "\\(1129.2\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$113789$",
+        "text": "\\(113789\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$11379.2$",
+        "text": "\\(11379.2\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$11223.4$",
+        "text": "\\(11223.4\\)",
         "image": null
       },
       {
@@ -2368,7 +2408,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS57. Ans.(c) \nSol. 2844.8 × $$$(5-1) = ?$$$  \n? = 11379.2\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS57. Ans.(c) \nSol. 2844.8 × \\\\$$$$$$$(5-1) = ?$$$$$$\\\\$  \n? = 11379.2\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
@@ -2380,27 +2420,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$1640 \\div$$$$4.1 - 32$$$$\\times 50 = ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(1640 \\div\\)$4.1 - 32$\\(\\times 50 = ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$500$",
+        "text": "\\(500\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$490$",
+        "text": "\\(490\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$400$",
+        "text": "\\(400\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$450$",
+        "text": "\\(450\\)",
         "image": null
       },
       {
@@ -2410,7 +2450,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS58. Ans.(c) \nSol. \n$1640 \\div $$$4.1 - 32$$$ \\times 50 =? 400$ – 1600 = ?  \n-1200 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Simplification - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS58. Ans.(c) \nSol. \n\\\\$1640 \\div \\\\$$$$\\\\$$4.1 - 32$\\\\$$$$\\\\$ \\times 50 =? 400\\\\$ – 1600 = ?  \n-1200 = ?\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
     "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
@@ -2422,32 +2462,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$1800 \\times \\frac{4}{9} \\times \\frac{12}{864} \\times \\frac{90}{10} = ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(1800 \\times \\frac{4}{9} \\times \\frac{12}{864} \\times \\frac{90}{10} = ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$2$",
+        "text": "\\(2\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$0.10$",
+        "text": "\\(0.10\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$0.01$",
+        "text": "\\(0.01\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$100$",
+        "text": "\\(100\\)",
         "image": null
       }
     ],
@@ -2464,32 +2504,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "What will come in the place of question mark (?) in the following question?\n$\\frac{14}{19} \\text{ of } 380 - \\frac{11}{2} \\text{ of } 1440 = ?$",
+    "question": "What will come in the place of question mark (?) in the following question?\n\\(\\frac{14}{19} \\text{ of } 380 - \\frac{11}{2} \\text{ of } 1440 = ?\\)",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$7770$",
+        "text": "\\(7770\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$-7640$",
+        "text": "\\(-7640\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$-7550$",
+        "text": "\\(-7550\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$7550$",
+        "text": "\\(7550\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$7610$",
+        "text": "\\(7610\\)",
         "image": null
       }
     ],
@@ -2511,27 +2551,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$52$",
+        "text": "\\(52\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$36$",
+        "text": "\\(36\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$12$",
+        "text": "\\(12\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$180$",
+        "text": "\\(180\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$64$",
+        "text": "\\(64\\)",
         "image": null
       }
     ],
@@ -2539,7 +2579,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS61. Ans.(b) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
   },
   {
     "id": 62,
@@ -2548,32 +2588,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "A vessel contains 80 liters of milk and water in the ratio of $$$$3:5$$$$. If X liters of water are added\nto the vessel, then the ratio of water to milk becomes $$$$2:1$$$$, respectively. Find X.",
+    "question": "A vessel contains 80 liters of milk and water in the ratio of \\($3:5$\\). If X liters of water are added\nto the vessel, then the ratio of water to milk becomes \\($2:1$\\), respectively. Find X.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$5$",
+        "text": "\\(5\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15$",
+        "text": "\\(15\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$25$",
+        "text": "\\(25\\)",
         "image": null
       }
     ],
@@ -2581,7 +2621,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS62. Ans.(b) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
   },
   {
     "id": 63,
@@ -2590,32 +2630,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "The ratio of the present ages of A to B is $$$$5:9$$$$, respectively. After four years, the ratio of the\nages of A to B is $$$$7:11$$$$, respectively. Find the age of B two years ago (in years).",
+    "question": "The ratio of the present ages of A to B is \\($5:9$\\), respectively. After four years, the ratio of the\nages of A to B is \\($7:11$\\), respectively. Find the age of B two years ago (in years).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$9$",
+        "text": "\\(9\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$10$",
+        "text": "\\(10\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$13$",
+        "text": "\\(13\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$22$",
+        "text": "\\(22\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$16$",
+        "text": "\\(16\\)",
         "image": null
       }
     ],
@@ -2623,7 +2663,7 @@
     "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS63. Ans.(e) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
   },
   {
     "id": 64,
@@ -2632,32 +2672,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Arithmetic Word Problems",
     "difficulty": "Medium",
-    "question": "A man invested Rs. $X$ in simple interest at 20% p.a. for three years and received interest of\nRs 2400. If he invested the same amount in compound interest at 10% p.a. for two years, then\nfind the interest received by him (in Rs).\n\n\n\n\n15",
+    "question": "A man invested Rs. \\(X\\) in simple interest at 20% p.a. for three years and received interest of\nRs 2400. If he invested the same amount in compound interest at 10% p.a. for two years, then\nfind the interest received by him (in Rs).\n\n\n\n\n15",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$840$",
+        "text": "\\(840\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$660$",
+        "text": "\\(660\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$1130$",
+        "text": "\\(1130\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$820$",
+        "text": "\\(820\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$750$",
+        "text": "\\(750\\)",
         "image": null
       }
     ],
@@ -2665,7 +2705,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS64. Ans.(a) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
   },
   {
     "id": 65,
@@ -2679,27 +2719,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$40$",
+        "text": "\\(40\\)",
         "image": null
       },
       {
         "id": "B",
-        "text": "$60$",
+        "text": "\\(60\\)",
         "image": null
       },
       {
         "id": "C",
-        "text": "$30$",
+        "text": "\\(30\\)",
         "image": null
       },
       {
         "id": "D",
-        "text": "$20$",
+        "text": "\\(20\\)",
         "image": null
       },
       {
         "id": "E",
-        "text": "$38",
+        "text": "\\\\$38",
         "image": null
       }
     ],
@@ -2707,7 +2747,7 @@
     "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Arithmetic Word Problems - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS65. Ans.(e) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (51-60): What will come in the place of question (?) mark in following the question:"
   },
   {
     "id": 66,
@@ -2746,10 +2786,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS66. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   $   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS66. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   \\\\$   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 $ 1 * A"
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 \\\\$ 1 * A"
   },
   {
     "id": 67,
@@ -2788,10 +2828,10 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS67. Ans.(c) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   $   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS67. Ans.(c) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   \\\\$   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **C** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 $ 1 * A"
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 \\\\$ 1 * A"
   },
   {
     "id": 68,
@@ -2830,10 +2870,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS68. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   $   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS68. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   \\\\$   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 $ 1 * A"
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 \\\\$ 1 * A"
   },
   {
     "id": 69,
@@ -2867,7 +2907,7 @@
       },
       {
         "id": "E",
-        "text": "$A*",
+        "text": "\\\\$A*",
         "image": null
       }
     ],
@@ -2875,7 +2915,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS69. Ans.(b)\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 $ 1 * A"
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 \\\\$ 1 * A"
   },
   {
     "id": 70,
@@ -2914,10 +2954,10 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS70. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   $   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Alphanumeric Series - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS70. Ans.(d) \nSol. 2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   \\\\$   1   *   A\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **D** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 $ 1 * A"
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the\nquestions given below:\n2 U H # K 7 % M ! R O @ 2 I B 9 8 % P 5 \\\\$ 1 * A"
   },
   {
     "id": 71,
@@ -2959,7 +2999,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Coding-Decoding - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS71. Ans.(a) \nSol.\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (66-70): Study the following letter-number-symbol sequence and answer the \nquestions given below: \n2  U  H  #  K 7 %   M  !  R   O   @   2   I   B  9   8   %   P  5   \\\\$   1   *   A"
   },
   {
     "id": 72,
@@ -3211,7 +3251,7 @@
     "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Comparison Puzzle - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS77. Ans.(a) \nSol. Four pairs\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **A** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (72-76): In these questions, the relationship between different elements is shown in \nthe statements. The statements are followed by conclusions. Study the conclusions based on the \ngiven statements and select the appropriate answer:"
   },
   {
     "id": 78,
@@ -3253,7 +3293,7 @@
     "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Comparison Puzzle - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS78. Ans.(b) \nSol. Given number- 74215398 \nAfter arranging in ascending order- 12345789\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **B** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (72-76): In these questions, the relationship between different elements is shown in \nthe statements. The statements are followed by conclusions. Study the conclusions based on the \ngiven statements and select the appropriate answer:"
   },
   {
     "id": 79,
@@ -3421,7 +3461,7 @@
     "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Word Formation - Step-by-step mathematical reasoning and logical analysis.\n\n**Step 1 (Problem Setup):** Analyze the given conditions, parameters, and expressions in the problem statement.\n\n**Step 2 (Detailed Solution):**\nS82. Ans.(e) \nSol.  1st, 3rd, 5th, and 6th letters are M, N, O and R \nOne Word can be formed – NORM, MORN\n\n**Step 3 (Verification & Calculation):** Validate the calculated values against the options provided to confirm logical consistency.\n\n**Conclusion:** The evaluated result confirms Option **E** as the correct answer.",
     "marks": 1,
     "negativeMarks": 0.25,
-    "direction": null
+    "direction": "Directions (79-81): Study the following information carefully and answer the questions given \nbelow: \nSix persons are comparing their weights in decreasing order from left to right. \nB is just heavier than A. Three persons are lighter than A. C is heavier than J. J is not the lightest person. \nH is heavier than C. One person is M."
   },
   {
     "id": 83,

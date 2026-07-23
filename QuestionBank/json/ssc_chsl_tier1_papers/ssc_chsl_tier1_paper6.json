@@ -12,7 +12,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$2092^10$",
+        "text": "\\\\$2092^10\\\\$",
         "image": null
       },
       {
@@ -22,12 +22,12 @@
       },
       {
         "id": "C",
-        "text": "$2002^10$",
+        "text": "\\\\$2002^10\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$2152^10$",
+        "text": "\\\\$2152^10\\\\$",
         "image": null
       }
     ],
@@ -49,17 +49,17 @@
     "options": [
       {
         "id": "A",
-        "text": "$343)$",
+        "text": "\\\\$343)\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$346)$",
+        "text": "\\\\$346)\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$340)$",
+        "text": "\\\\$340)\\$",
         "image": null
       },
       {
@@ -69,7 +69,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "341 is divisible by 11 and 31 $$$(11 * 31 = 341)$$$, so it is not a prime number.",
+    "explanation": "341 is divisible by 11 and 31 \\\\$$$$$(11 * 31 = 341)$$$$\\$, so it is not a prime number.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -81,32 +81,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "What is the value of $x$^4 + y^4 when the value of $x$^3 + y^3 = 8 and x + y = 2?",
+    "question": "What is the value of \\\\$x$^4 + y^4 when the value of \\\\$x$^3 + y^3 = 8 and x + y = 2?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$26$",
+        "text": "\\\\$26\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$6$",
+        "text": "\\\\$6\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$16$",
+        "text": "\\\\$16\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$18$",
+        "text": "\\\\$18\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given: x^3 + y^3 = 8 and x + y = 2.\nWe know (x + y)^3 = x^3 + y^$$$3 + 3$$$xy(x + y)\n=> 8 = $$$8 + 3$$$xy(2) => 6xy = 0 => xy = 0.\nSquaring x + y = 2: x^2 + y^$$$2 + 2$$$xy = 4 => x^2 + y^2 = 4 (since xy = 0).\nSquaring again: (x^2 + y^2)^2 = x^4 + y^$$$4 + 2$$$(xy)^2 => 16 = x^4 + y^$$$4 + 0$$$ => x^4 + y^4 = 16.",
+    "explanation": "Given: x^3 + y^3 = 8 and x + y = 2.\nWe know (x + y)^3 = x^3 + y^$$\\\\$\\\\$$3 + 3$\\\\$\\\\$$$xy(x + y)\n=> 8 = \\\\$$\\\\$\\\\$$8 + 3$\\\\$\\\\$$$xy(2) => 6xy = 0 => xy = 0.\nSquaring x + y = 2: x^2 + y^$$\\\\$\\\\$$2 + 2$\\\\$\\\\$$$xy = 4 => x^2 + y^2 = 4 (since xy = 0).\nSquaring again: (x^2 + y^2)^2 = x^4 + y^$$\\\\$\\\\$$4 + 2$\\\\$\\\\$$$(xy)^2 => 16 = x^4 + y^$$\\\\$\\\\$$4 + 0$\\\\$\\\\$$\\\\$ => x^4 + y^4 = 16.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -118,32 +118,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "Determine the value of (y - 1/y)^2 when y^\\$$$(4 + 1$$$$/y^4 = 34.",
+    "question": "Determine the value of (y - 1/y)^2 when y^\\$$$$$(4 + 1$\\\\$\\\\$$\\$\\$/y^4 = 34.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$6$",
+        "text": "\\\\$6\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$14$",
+        "text": "\\\\$14\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$9$",
+        "text": "\\\\$9\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4$",
+        "text": "\\\\$4\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Given y^$$$4 + 1$$$/y^4 = 34.\nWe can write: (y^$$$2 + 1$$$/y^2)^$$$2 - 2 = 34 => ($$$y^$$$2 + 1$$$/y^2)^2 = 36 => y^$$$2 + 1$$$/y^2 = 6.\nNow, (y - 1/y)^2 = y^$$$2 + 1$$$/y^$$$2 - 2 = 6 - 2 = 4.$$$",
+    "explanation": "Given y^$$\\\\$\\\\$$4 + 1$\\\\$\\\\$$$/y^4 = 34.\nWe can write: (y^$$\\\\$\\\\$$2 + 1$\\\\$\\\\$$$/y^2)^$$\\\\$\\\\$$2 - 2 = 34 => ($$$$$y^$$\\\\$\\\\$$2 + 1$\\\\$\\\\$$$/y^2)^2 = 36 => y^$$\\\\$\\\\$$2 + 1$\\\\$\\\\$$$/y^2 = 6.\nNow, (y - 1/y)^2 = y^$$\\\\$\\\\$$2 + 1$\\\\$\\\\$$$/y^$$\\\\$\\\\$$2 - 2 = 6 - 2 = 4.$$$\\$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Ratio of sides: AB/DE = $\\frac{14}{7}$ = 2, BC/EF = $\\frac{8}{4}$ = 2, AC/DF = $\\frac{10}{5}$ = 2.\nSince corresponding sides are proportional, ΔABC ~ ΔDEF. Hence, their corresponding angles are equal: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.",
+    "explanation": "Ratio of sides: AB/DE = \\\\$\\frac{14}{7}\\\\$ = 2, BC/EF = \\\\$\\frac{8}{4}\\\\$ = 2, AC/DF = \\\\$\\frac{10}{5}\\\\$ = 2.\nSince corresponding sides are proportional, ΔABC ~ ΔDEF. Hence, their corresponding angles are equal: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -234,27 +234,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$167$",
+        "text": "\\\\$167\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$166$",
+        "text": "\\\\$166\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$165$",
+        "text": "\\\\$165\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$168$",
+        "text": "\\\\$168\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "5% of (P + Q) = 20% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4P - 4Q => 3P = 5Q => P/Q = $\\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = ($\\frac{5}{3}$) * 100 = 166.66%.",
+    "explanation": "5% of (P + Q) = 20% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4P - 4Q => 3P = 5Q => P/Q = \\\\$\\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = ($\\frac{5}{3}\\$) * 100 = 166.66%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -271,22 +271,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$2$",
+        "text": "\\\\$2\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$12$",
+        "text": "\\\\$12\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$1$",
+        "text": "\\\\$1\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$4$",
+        "text": "\\\\$4\\\\$",
         "image": null
       }
     ],
@@ -303,22 +303,22 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mixtures and Alligations",
     "difficulty": "Medium",
-    "question": "In 250 litres mixture of soda and water the ratio of amount of soda to that of water is $$$$7:18$$$$. In order to make this ratio $$$$2:3$$$$, how many more litres of soda should be added?",
+    "question": "In 250 litres mixture of soda and water the ratio of amount of soda to that of water is \\\\$$$\\\\$\\\\$$7:18$\\\\$\\\\$$$$. In order to make this ratio \\\\$$$\\\\$\\\\$$2:3$\\\\$\\\\$$$$, how many more litres of soda should be added?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$49litres$",
+        "text": "\\\\$49litres\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$45litres$",
+        "text": "\\\\$45litres\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$51litres$",
+        "text": "\\\\$51litres\\$",
         "image": null
       },
       {
@@ -328,7 +328,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Amount of soda originally = $$$250 * 7 / (7+18) = 70$$$ litres. Amount of water = $$$250 - 70 = 180$$$ litres.\nLet x litres of soda be added: (70 + x) / 180 = $\\frac{2}{3}$ => $$$210 + 3$$$x = 360 => 3x = 150 => x = 50 litres.",
+    "explanation": "Amount of soda originally = \\\\$$\\\\$\\\\$$250 * 7 / (7+18) = 70$\\\\$\\\\$$\\\\$ litres. Amount of water = \\\\$$\\\\$\\\\$$250 - 70 = 180$\\\\$\\\\$$\\\\$ litres.\nLet x litres of soda be added: (70 + x) / 180 = \\\\$\\frac{2}{3}\\\\$ => \\\\$$\\\\$\\\\$$210 + 3$\\\\$\\\\$$\\$x = 360 => 3x = 150 => x = 50 litres.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -340,27 +340,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Medium",
-    "question": "The average of three numbers is 40. First number is $\\frac{4}{3}$ of the third number. If third number is 20 less than second number, then what is the value of second number?",
+    "question": "The average of three numbers is 40. First number is \\\\$\\frac{4}{3}\\\\$ of the third number. If third number is 20 less than second number, then what is the value of second number?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$60$",
+        "text": "\\\\$60\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$50$",
+        "text": "\\\\$50\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$52$",
+        "text": "\\\\$52\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$48$",
+        "text": "\\\\$48\\\\$",
         "image": null
       }
     ],
@@ -382,12 +382,12 @@
     "options": [
       {
         "id": "A",
-        "text": "$20249Rs20,250$",
+        "text": "\\\\$20249Rs20,250\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$20240Rs20,250$",
+        "text": "\\\\$20240Rs20,250\\\\$",
         "image": null
       },
       {
@@ -397,12 +397,12 @@
       },
       {
         "id": "D",
-        "text": "$20248Rs20,250$",
+        "text": "\\\\$20248Rs20,250\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Compounding factor = $\\frac{6000}{4000}$ = 1.5 per year. \nAmount after 4 years = P * (1.5)^4 = $$$4000 * 5.0625$$$ = Rs 20,250.",
+    "explanation": "Compounding factor = \\\\$\\frac{6000}{4000}\\\\$ = 1.5 per year. \nAmount after 4 years = P * (1.5)^4 = \\\\$$\\\\$\\\\$$4000 * 5.0625$\\\\$\\\\$$\\\\$ = Rs 20,250.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -419,27 +419,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$91:100$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$91:100$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$100:91$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$100:91$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$31:50$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$31:50$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$50:31$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$50:31$\\\\$\\\\$$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let CP of 1st shirt = SP of 2nd shirt = Rs 100x.\nSP of 1st shirt = 100x + 30% of 100x = 130x.\nLoss on 2nd shirt = 30% => SP of 2nd shirt = CP of 2nd shirt * 70% => 100x = CP$$$2 * 0.7$$$ => CP2 = 1000x/7.\nRatio of SP1 to CP2 = 130x : 1000x/7 = $$$910:1000$$$ = $$$91:100$$$.",
+    "explanation": "Let CP of 1st shirt = SP of 2nd shirt = Rs 100x.\nSP of 1st shirt = 100x + 30% of 100x = 130x.\nLoss on 2nd shirt = 30% => SP of 2nd shirt = CP of 2nd shirt * 70% => 100x = CP$$\\\\$\\\\$$2 * 0.7$\\\\$\\\\$$\\\\$ => CP2 = 1000x/7.\nRatio of SP1 to CP2 = 130x : 1000x/7 = \\\\$$\\\\$\\\\$$910:1000$\\\\$\\\\$$\\\\$ = \\\\$$\\\\$\\\\$$91:100$\\\\$\\\\$$$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -456,27 +456,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$35$",
+        "text": "\\\\$35\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$42$",
+        "text": "\\\\$42\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$47$",
+        "text": "\\\\$47\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let CP = 100. Marked Price = 160. To sell at no profit/loss, SP = 100.\nDiscount = $$$160 - 100 = 60.$$$ Discount % = ($\\frac{60}{160}$) * 100 = 37.5%.",
+    "explanation": "Let CP = 100. Marked Price = 160. To sell at no profit/loss, SP = 100.\nDiscount = \\\\$$\\\\$\\\\$$160 - 100 = 60.$$$$\\\\$ Discount % = (\\$\\frac{60}{160}\\$) * 100 = 37.5%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -493,22 +493,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$87$",
+        "text": "\\\\$87\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$90$",
+        "text": "\\\\$90\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$85$",
+        "text": "\\\\$85\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$83$",
+        "text": "\\\\$83\\\\$",
         "image": null
       }
     ],
@@ -530,27 +530,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$13$",
+        "text": "\\\\$13\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$10$",
+        "text": "\\\\$10\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15$",
+        "text": "\\\\$15\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$20$",
+        "text": "\\\\$20\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Using D1 * H1 = D2 * H2: $$$24 * 5 = 8$$$ * H2 => H2 = $$$120 / 8 = 15$$$ hours.",
+    "explanation": "Using D1 * H1 = D2 * H2: \\\\$$\\\\$\\\\$$24 * 5 = 8$\\\\$\\\\$$\\\\$ * H2 => H2 = \\\\$$\\\\$\\\\$$120 / 8 = 15$\\\\$\\\\$$\\\\$ hours.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -572,22 +572,22 @@
       },
       {
         "id": "B",
-        "text": "$31km/hr$",
+        "text": "\\\\$31km/hr\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$34km/hr$",
+        "text": "\\\\$34km/hr\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$41km/hr$",
+        "text": "\\\\$41km/hr\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Relative speed = (Length of train 1 + Length of train 2) / Time = $$$(120 + 120) / 12 = 20$$$ m/s.\nSince they are moving in opposite directions with same speed x, 2x = 20 => x = 10 m/s.\nSpeed in km/hr = 10 * $\\frac{18}{5}$ = 36 km/hr.",
+    "explanation": "Relative speed = (Length of train 1 + Length of train 2) / Time = \\\\$$$\\$$(120 + 120) / 12 = 20$\\\\$\\\\$\\$\\\\$ m/s.\nSince they are moving in opposite directions with same speed x, 2x = 20 => x = 10 m/s.\nSpeed in km/hr = 10 * \\\\$\\frac{18}{5}\\\\$ = 36 km/hr.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -599,27 +599,27 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$$$$\n\nIn which year were applications greater than that of the previous year?",
+    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$\\\\$\\\\$$\\$\\\\$ \nIn which year were applications greater than that of the previous year?",
     "questionImage": "ssc_chsl_tier1_paper6_q17to20.png",
     "options": [
       {
         "id": "A",
-        "text": "$125$",
+        "text": "\\\\$125\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$119$",
+        "text": "\\\\$119\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$118$",
+        "text": "\\\\$118\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$120$",
+        "text": "\\\\$120\\\\$",
         "image": null
       }
     ],
@@ -636,32 +636,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$$$$\n\nWhat was the difference in applications between the years 2017 and 2012?",
+    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$\\\\$\\\\$$\\$\\\\$ \nWhat was the difference in applications between the years 2017 and 2012?",
     "questionImage": "ssc_chsl_tier1_paper6_q17to20.png",
     "options": [
       {
         "id": "A",
-        "text": "$2998$",
+        "text": "\\\\$2998\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3005$",
+        "text": "\\\\$3005\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$2999$",
+        "text": "\\\\$2999\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$3000$",
+        "text": "\\\\$3000\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Difference = Applications in 2017 - Applications in 2012 = $$$5500 - 2500 = 3000.$$$",
+    "explanation": "Difference = Applications in 2017 - Applications in 2012 = \\\\$$\\\\$\\\\$$5500 - 2500 = 3000.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -673,7 +673,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$$$$\n\nApplications in 2014 were greater than that in 2015 by ________.",
+    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$\\\\$\\\\$$\\$\\\\$ \nApplications in 2014 were greater than that in 2015 by ________.",
     "questionImage": "ssc_chsl_tier1_paper6_q17to20.png",
     "options": [
       {
@@ -698,7 +698,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Required % = $$$(7000 - 5000) / 5000 * 100 = 2000 / 5000 * 100 = 40$$$%.",
+    "explanation": "Required % = \\\\$$$$$(7000 - 5000) / 5000 * 100 = 2000 / 5000 * 100 = 40$\\\\$\\\\$$\\$%.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -710,17 +710,17 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Easy",
-    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$$$$\n\nIf each applicant has to submit Rs 500 as application fees how much did the college collect (in Rs lakhs) as application fees in the last three years?",
+    "question": "The line graph shows the number of candidates who applied for admission to a certain college. Study the diagram and answer the following question.\n\nApplications:\n- 2011 = \\$$$$$(6000 - 2012 = 2500 - 2013 = 9500 - 2014 = 7000 - 2015 = 5000 - 2016 = 1500 - 2017 = 5500$\\\\$\\\\$$\\$\\\\$ \nIf each applicant has to submit Rs 500 as application fees how much did the college collect (in Rs lakhs) as application fees in the last three years?",
     "questionImage": "ssc_chsl_tier1_paper6_q17to20.png",
     "options": [
       {
         "id": "A",
-        "text": "$62lakhs$",
+        "text": "\\\\$62lakhs\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$65lakhs$",
+        "text": "\\\\$65lakhs\\$",
         "image": null
       },
       {
@@ -730,12 +730,12 @@
       },
       {
         "id": "D",
-        "text": "$70lakhs$",
+        "text": "\\\\$70lakhs\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Total applications in last three years $$$(2015 + 2016 + 2017) = 5000 + 1500 + 5500 = 12000.$$$\nTotal application fee = 12000 * Rs 500 = Rs 60,00,000 = 60 lakhs.",
+    "explanation": "Total applications in last three years \\\\$$$$$(2015 + 2016 + 2017) = 5000 + 1500 + 5500 = 12000.$$$$\\\\$ Total application fee = 12000 * Rs 500 = Rs 60,00,000 = 60 lakhs.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -752,27 +752,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$44$",
+        "text": "\\\\$44\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$24$",
+        "text": "\\\\$24\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$34$",
+        "text": "\\\\$34\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$32$",
+        "text": "\\\\$32\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Area of square = s² = 72.25 cm² => s = 8.5 cm. \nPerimeter = 4 * s = $$$4 * 8.5 = 34$$$ cm.",
+    "explanation": "Area of square = s² = 72.25 cm² => s = 8.5 cm. \nPerimeter = 4 * s = \\\\$$\\\\$\\\\$$4 * 8.5 = 34$\\\\$\\\\$$\\\\$ cm.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -789,7 +789,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$111cm$",
+        "text": "\\\\$111cm\\$",
         "image": null
       },
       {
@@ -799,12 +799,12 @@
       },
       {
         "id": "C",
-        "text": "$120cm$",
+        "text": "\\\\$120cm\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$108cm$",
+        "text": "\\\\$108cm\\$",
         "image": null
       }
     ],
@@ -826,7 +826,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$3cm$",
+        "text": "\\\\$3cm\\$",
         "image": null
       },
       {
@@ -836,12 +836,12 @@
       },
       {
         "id": "C",
-        "text": "$13cm$",
+        "text": "\\\\$13cm\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$18cm$",
+        "text": "\\\\$18cm\\$",
         "image": null
       }
     ],
@@ -858,12 +858,12 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔXYZ is right angled at Y. If m∠Z = 60°, then find the value of (cotX - $\\frac{1}{3}$).",
+    "question": "ΔXYZ is right angled at Y. If m∠Z = 60°, then find the value of (cotX - \\\\$\\frac{1}{3}\\$).",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "(3√\\$$$(3 - 1)/3$$$$",
+        "text": "(3√\\$$$$$(3 - 1)/3$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
@@ -873,7 +873,7 @@
       },
       {
         "id": "C",
-        "text": "-$\\frac{5}{3}$",
+        "text": "-\\$\\frac{5}{3}\\\\$",
         "image": null
       },
       {
@@ -883,7 +883,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In ΔXYZ right-angled at Y, ∠X + ∠Z = 90° => ∠X + 60° = 90° => ∠X = 30°.\ncot X - $\\frac{1}{3}$ = cot(30°) - $\\frac{1}{3}$ = √3 - $\\frac{1}{3}$ = (3√$$$3 - 1)/3.$$$",
+    "explanation": "In ΔXYZ right-angled at Y, ∠X + ∠Z = 90° => ∠X + 60° = 90° => ∠X = 30°.\ncot X - \\\\$\\frac{1}{3}\\\\$ = cot(30°) - \\\\$\\frac{1}{3}\\\\$ = √3 - \\\\$\\frac{1}{3}\\\\$ = (3√$$\\\\$\\\\$$3 - 1)/3.$$$\\$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "ΔPQR is right angled at Q. If sinP = $\\frac{12}{13}$, then what is the value of tanR ?",
+    "question": "ΔPQR is right angled at Q. If sinP = \\\\$\\frac{12}{13}\\$, then what is the value of tanR ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$\\frac{5}{13}$",
+        "text": "\\\\$\\frac{5}{13}\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$\\frac{13}{5}$",
+        "text": "\\\\$\\frac{13}{5}\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$\\frac{13}{12}$",
+        "text": "\\\\$\\frac{13}{12}\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$\\frac{5}{12}$",
+        "text": "\\\\$\\frac{5}{12}\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "sin P = QR/PR = $\\frac{12}{13}$. Let QR = 12, PR = 13. \nUsing Pythagoras: PQ = sqrt(PR² - QR²) = sqrt$$$(169 - 144) = 5.$$$\ntan R = PQ/QR = $\\frac{5}{12}$.",
+    "explanation": "sin P = QR/PR = \\\\$\\frac{12}{13}$. Let QR = 12, PR = 13. \nUsing Pythagoras: PQ = sqrt(PR² - QR²) = sqrt$$$$$(169 - 144) = 5.$$$$\\\\$ tan R = PQ/QR = \\\\$\\frac{5}{12}\\$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -969,32 +969,32 @@
     "subject": "Reasoning Ability",
     "topic": "Analogy",
     "difficulty": "Easy",
-    "question": "Select the related number pair from the given alternatives.\n\n$$$$48:41$$$$ : : ? : ?",
+    "question": "Select the related number pair from the given alternatives.\n \\\\$$$\\\\$\\\\$$48:41$\\\\$\\\\$$$\\\\$ : : ? : ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$$$$68:63$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$68:63$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$84:75$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$84:75$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$74:67$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$74:67$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$92:87$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$92:87$\\\\$\\\\$$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The difference between the numbers is 7: $$$48 - 41 = 7.$$$ Similarly, $$$74 - 67 = 7.$$$",
+    "explanation": "The difference between the numbers is 7: \\\\$$\\\\$\\\\$$48 - 41 = 7.$$$$\\\\$ Similarly, \\\\$$\\\\$\\\\$$74 - 67 = 7.$$$$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1085,27 +1085,27 @@
     "options": [
       {
         "id": "A",
-        "text": "\\$$$(16 - 5$$$$",
+        "text": "\\$$$$$(16 - 5$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "\\$$$(24 - 6$$$$",
+        "text": "\\$$$$$(24 - 6$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "\\$$$(32 - 8$$$$",
+        "text": "\\$$$$$(32 - 8$\\\\$\\\\$$\\$\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "\\$$$(88 - 22$$$$",
+        "text": "\\$$$$$(88 - 22$\\\\$\\\\$$\\$\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "In all options except A, the first number is exactly 4 times the second number. In option A, $$$5 * 4 = 20$$$ (not 16).",
+    "explanation": "In all options except A, the first number is exactly 4 times the second number. In option A, \\\\$$\\\\$\\\\$$5 * 4 = 20$\\\\$\\\\$$\\\\$ (not 16).",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1159,22 +1159,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$35413$",
+        "text": "\\\\$35413\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$35411$",
+        "text": "\\\\$35411\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$35412$",
+        "text": "\\\\$35412\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$35422$",
+        "text": "\\\\$35422\\\\$",
         "image": null
       }
     ],
@@ -1191,32 +1191,32 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Medium",
-    "question": "Select the missing number from the given series.\n\n$$$$43,58,88,133$$$$, ?, 268",
+    "question": "Select the missing number from the given series.\n \\\\$$$\\\\$\\\\$$43,58,88,133$\\\\$\\\\$$$\\$, ?, 268",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$268$",
+        "text": "\\\\$268\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$258$",
+        "text": "\\\\$258\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$263$",
+        "text": "\\\\$263\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$273$",
+        "text": "\\\\$273\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Multiples of 15 are added consecutively:\n$$$43 + 15 = 58$$$\n$$$58 + 30 = 88$$$\n$$$88 + 45 = 133$$$\n$$$133 + 60 = 193$$$\n$$$193 + 75 = 268.$$$",
+    "explanation": "Multiples of 15 are added consecutively: \\\\$$\\\\$\\\\$$43 + 15 = 58$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$58 + 30 = 88$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$88 + 45 = 133$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$133 + 60 = 193$\\\\$\\\\$$\\\\$ \\\\$$\\\\$\\\\$$193 + 75 = 268.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1265,7 +1265,7 @@
     "subject": "Reasoning Ability",
     "topic": "Logical Puzzle",
     "difficulty": "Medium",
-    "question": "Among four boys, age of Ashish is thrice the age of Varun. Age of Arvind is $\\frac{1}{2}$ of the age of Varun. Amit is 8 years elder to Varun. Who is the second eldest?",
+    "question": "Among four boys, age of Ashish is thrice the age of Varun. Age of Arvind is \\\\$\\frac{1}{2}\\\\$ of the age of Varun. Amit is 8 years elder to Varun. Who is the second eldest?",
     "questionImage": null,
     "options": [
       {
@@ -1344,22 +1344,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$131183$",
+        "text": "\\\\$131183\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$131182$",
+        "text": "\\\\$131182\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$131193$",
+        "text": "\\\\$131193\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$131185$",
+        "text": "\\\\$131185\\\\$",
         "image": null
       }
     ],
@@ -1376,32 +1376,32 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Easy",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$8 \\div \\$$$(6 - 5 + 70$$$$ x 10 = ?",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n \\\\$8 \\div \\$$$$$(6 - 5 + 70$\\\\$\\\\$$\\$\\\\$ x 10 = ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$37$",
+        "text": "\\\\$37\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$42$",
+        "text": "\\\\$42\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$38$",
+        "text": "\\\\$38\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$32$",
+        "text": "\\\\$32\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Decoding the signs gives: $$$8 - 6 + 5 * 70 / 10 = 2 + (5 * 7) = 37.$$$",
+    "explanation": "Decoding the signs gives: \\\\$$\\\\$\\\\$$8 - 6 + 5 * 70 / 10 = 2 + (5 * 7) = 37.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1413,7 +1413,7 @@
     "subject": "Reasoning Ability",
     "topic": "Mathematical Operations",
     "difficulty": "Medium",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$16 \\div \\$$$(6 + 35$$$$ x \\$$$(9 - 15 = 31$$$$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n \\\\$16 \\div \\$$$$$(6 + 35$\\\\$\\\\$$$\\\\$ x \\$$$$$(9 - 15 = 31$\\\\$\\\\$$$\\$",
     "questionImage": null,
     "options": [
       {
@@ -1438,7 +1438,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Interchanging '-' and '÷' gives: $$$16 - 6 + 35 * 9 / 15 = 10 + 21 = 31.$$$ This balances the equation.",
+    "explanation": "Interchanging '-' and '÷' gives: \\\\$$\\\\$\\\\$$16 - 6 + 35 * 9 / 15 = 10 + 21 = 31.$$\\$\\$\\\\$ This balances the equation.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1450,32 +1450,32 @@
     "subject": "Reasoning Ability",
     "topic": "Logical Puzzle",
     "difficulty": "Medium",
-    "question": "If 70$7 = 10, 50$5 = 10 and 40$8 = 5, then find the value of 10$2 = ?",
+    "question": "If 70\\\\$7 = 10, 50\\\\$5 = 10 and 40\\\\$8 = 5, then find the value of 10\\\\$2 = ?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$7$",
+        "text": "\\\\$7\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$3$",
+        "text": "\\\\$3\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$15$",
+        "text": "\\\\$15\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$5$",
+        "text": "\\\\$5\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "The symbol '$' represents division (/). For 10$2: $$$10 / 2 = 5.$$$",
+    "explanation": "The symbol '$' represents division (/). For 10\\\\$2: \\\\$$\\\\$\\\\$$10 / 2 = 5.$$$\\$\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1549,7 +1549,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Brother ends at coordinates (0.5, -3.5). Sister ends at (-1, $$$2.5 - 6) = (-1$$$, -3.5). \nBrother's school is (0.5 - (-1)) = 1.5 km East with respect to the sister's school.",
+    "explanation": "Brother ends at coordinates (0.5, -3.5). Sister ends at (-1, \\\\$$\\\\$\\\\$$2.5 - 6) = (-1$\\\\$\\\\$$\\$, -3.5). \nBrother's school is (0.5 - (-1)) = 1.5 km East with respect to the sister's school.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1672,32 +1672,32 @@
     "subject": "Reasoning Ability",
     "topic": "Number Series",
     "difficulty": "Easy",
-    "question": "Select the missing number from the given series.\n\n$$$$42,47,52,57$$$$, ?, 67",
+    "question": "Select the missing number from the given series.\n \\\\$$$\\\\$\\\\$$42,47,52,57$\\\\$\\\\$$$\\$, ?, 67",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$52$",
+        "text": "\\\\$52\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$62$",
+        "text": "\\\\$62\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$63$",
+        "text": "\\\\$63\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$60$",
+        "text": "\\\\$60\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "The pattern is adding 5 (+5) to each term: $$$57 + 5 = 62.$$$",
+    "explanation": "The pattern is adding 5 (+5) to each term: \\\\$$\\\\$\\\\$$57 + 5 = 62.$$$$\\\\$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1734,7 +1734,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The relationship format is (x, 5x - 1, 2x - 1). For option A: $$$2 * 17 - 1 = 33$$$ (not 35), making it the odd one.",
+    "explanation": "The relationship format is (x, 5x - 1, 2x - 1). For option A: \\\\$$\\\\$\\\\$$2 * 17 - 1 = 33$\\\\$\\\\$$\\\\$ (not 35), making it the odd one.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1825,27 +1825,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$$$$65,22,77,43$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$65,22,77,43$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$$$$43,75,12,69$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$43,75,12,69$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$$$$21,65,12,89$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$21,65,12,89$\\\\$\\\\$$$\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$$$$13,96,30,78$$$$",
+        "text": "\\\\$$$\\\\$\\\\$$13,96,30,78$\\\\$\\\\$$$\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Checking option A: 65 = S, 22 = E, 77 = N, 43 = D. Thus, $$$65,22,77,43$$$ represents 'SEND'.",
+    "explanation": "Checking option A: 65 = S, 22 = E, 77 = N, 43 = D. Thus, \\\\$$\\\\$\\\\$$65,22,77,43$\\\\$\\\\$$\\\\$ represents 'SEND'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2301,7 +2301,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\nsubject of really ______________ interest and utility",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\nsubject of really ______________ interest and utility",
     "questionImage": null,
     "options": [
       {
@@ -2338,7 +2338,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\none's own language ___________.",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\none's own language ___________.",
     "questionImage": null,
     "options": [
       {
@@ -2375,7 +2375,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\nis infinitely more _________ that, it is the basis of business.",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\nis infinitely more _________ that, it is the basis of business.",
     "questionImage": null,
     "options": [
       {
@@ -2412,7 +2412,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\n___________ salesman can sell anything",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\n___________ salesman can sell anything",
     "questionImage": null,
     "options": [
       {
@@ -2449,7 +2449,7 @@
     "subject": "English Language",
     "topic": "Cloze Test",
     "difficulty": "Medium",
-    "question": "Instructions [\\$$$(63 - 67$$$$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\ncan write ___________ advertisement equally effective",
+    "question": "Instructions [\\$$$$$(63 - 67$\\\\$\\\\$$\\$\\\\$ ]\nIn the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.\n\nIf there is a subject of really ______________ interest and utility, it is the art of writing and speaking one's own language ___________. It is the basis of culture, as we all know; but it is infinitely more _________ that, it is the basis of business. ___________ salesman can sell anything unless he can explain the merits of his goods in effective language, or can write ___________ advertisement equally effective, or present his ideas, and the facts, in a letter.\n\ncan write ___________ advertisement equally effective",
     "questionImage": null,
     "options": [
       {
@@ -3527,27 +3527,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$70$",
+        "text": "\\\\$70\\\\$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$67$",
+        "text": "\\\\$67\\\\$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$82$",
+        "text": "\\\\$82\\\\$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$72$",
+        "text": "\\\\$72\\\\$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Frequency = Speed / Wavelength = $$$360 / 5 = 72$$$ Hz.",
+    "explanation": "Frequency = Speed / Wavelength = \\\\$$\\\\$\\\\$$360 / 5 = 72$\\\\$\\\\$$\\\\$ Hz.",
     "marks": 2,
     "negativeMarks": 0.5
   },
