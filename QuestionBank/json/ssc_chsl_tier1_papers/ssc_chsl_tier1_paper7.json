@@ -88,7 +88,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Using the algebraic identity $a^2$ - $b^2$ = (a - b)(a + b):\n$Expression = (59881 - 49681)(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562$.",
+    "explanation": "Using the algebraic identity $a^2 - b^2$ = (a - b)(a + b):\n$Expression = (59881 - 49681)(59881 + 49681) / 10200 = 10200 * 109562 / 10200 = 109562$.",
     "question_image": "",
     "option_images": [
       "",
@@ -139,7 +139,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$We can rewrite (\\frac{5}{7})^(4 x) as (\\frac{7}{5})^(-4 x)$.\nHence, $(\\frac{7}{5})^(-4 x) * (\\frac{7}{5})^(3 x-1) = (\\frac{7}{5})^6$\n$=> (\\frac{7}{5})^(-4 x + 3 x - 1) = (\\frac{7}{5})^6$\n=> -x - 1 = 6 => x = -7.",
+    "explanation": "$We can rewrite (\\frac{5}{7})^(4 x) as (\\frac{7}{5})^(-4 x)$.\nHence, $(\\frac{7}{5})^(-4 x) * (\\frac{7}{5})^(3 x-1) = (\\frac{7}{5})^6\n=> (\\frac{7}{5})^(-4 x + 3 x - 1) = (\\frac{7}{5})^6$\n=> -x - 1 = 6 => x = -7.",
     "question_image": "",
     "option_images": [
       "",
@@ -190,7 +190,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $x^16 = (x^32 - 1)/5 => 5 = (x^32 - 1)/x^16 => x^16 - 1/x^16 = 5$.\nCubing both sides: $($x^$16 - 1$$/$x^16$)^3$ = 5^3\n=> $x^$48 - 1$$/$x^$48 - 3$$($x^16$)(1/$x^16$)($x^$16 - 1$$/$x^16$) = 125\n=> $x^$48 - 1$$/$x^$48 - 3$$(5) = 125\n=> $x^$48 - 1$$/$x^48$ = 140 => ($x^$96 - 1)$$/$x^48$ = 140.",
+    "explanation": "Given: $x^16 = (x^32 - 1)/5 => 5 = (x^32 - 1)/x^16 => x^16 - 1/x^16 = 5$.\nCubing both sides: $($x^$16 - 1/$x^16$)^3 = 5^3\n=> x^48 - 1/x^48 - 3(x^16)(1/x^16)(x^16 - 1/x^16) = 125\n=> x^48 - 1/x^48 - 3(5) = 125\n=> x^48 - 1/x^48 = 140 => (x^96 - 1)/x^48$ = 140.",
     "question_image": "",
     "option_images": [
       "",
@@ -241,7 +241,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The formula for the length of a transverse common tangent is: L = $\\sqrt{d^2 - (r 1 + r 2)^2}$\n$=> 8 = sqrt(d^2 - (7 + 3)^2)$\n=> 64 = $d^$2 - 100$$ => $d^2$ = 164 => d = $\\sqrt{164}$ cm.",
+    "explanation": "The formula for the length of a transverse common tangent is: L = $\\sqrt{d^2 - (r 1 + r 2)^2}\n=> 8 = sqrt(d^2 - (7 + 3)^2)\n=> 64 = d^2 - 100 => d^2$ = 164 => d = $\\sqrt{164}$ cm.",
     "question_image": "",
     "option_images": [
       "",
@@ -496,7 +496,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The first 7 positive odd numbers divisible by 5 are: $5,15,25,35,45,55,65.\n$Sum = $5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.$ Average = $245 / 7 = 35$.",
+    "explanation": "The first 7 positive odd numbers divisible by 5 are: $5,15,25,35,45,55,65.\nSum = 5 + 15 + 25 + 35 + 45 + 55 + 65 = 245.$ Average = $245 / 7 = 35$.",
     "question_image": "",
     "option_images": [
       "",
@@ -524,7 +524,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The simple interest on a $\\sum$ is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
+    "question": "The simple interest on a $\\sum is \\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
     "q": "The simple interest on a sum is $\\frac{7}{8}$ of the principal for 5 years. What is the rate (in percentage) of interest per annum?",
     "options": [
       {
@@ -751,7 +751,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let total work = LCM(18, 24) = 72 units.\n$X's efficiency = 72 / 18 = 4 units/day$.\nY's efficiency = $72 / 24 = 3$ units/day.\nTogether (X + Y + Z) efficiency = $72 / 8 = 9$ units/day.\nZ's efficiency = 9 - $(4 + 3) = 2$ units/day.\n$Ratio of efficiency (X:Y:Z) = 4:3:2$.\n$Z's share = (\\frac{2}{9}) * 5400 = Rs 1200$.",
+    "explanation": "Let total work = LCM(18, 24) = 72 units.\n$X's efficiency = 72 / 18 = 4 units/day$.\nY's efficiency = $72 / 24 = 3$ units/day.\nTogether (X + Y + Z) efficiency = $72 / 8 = 9$ units/day.\nZ's efficiency = 9 - $(4 + 3) = 2$ units/day.\n$Ratio of efficiency (X:Y:Z) = 4:3:2.\nZ's share = (\\frac{2}{9}) * 5400 = Rs 1200$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1108,7 +1108,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Radius r = 35 / 2 = 17.5 cm$.\n$Area = pi * r^2 = (\\frac{22}{7}) * 17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5 cm^2$.",
+    "explanation": "$Radius r = 35 / 2 = 17.5 cm.\nArea = pi * r^2 = (\\frac{22}{7}) * 17.5 * 17.5 = 22 * 2.5 * 17.5 = 962.5 cm^2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1196,21 +1196,21 @@
       },
       {
         "id": "B",
-        "text": "$(2 - 2$$\\sqrt{3}$)/$\\sqrt{3}$"
+        "text": "$(2 - 2\\sqrt{3})/\\sqrt{3}$"
       },
       {
         "id": "C",
-        "text": "(1 - $\\sqrt{6}$)/$\\sqrt{2}$"
+        "text": "(1 - $(\\sqrt{6})/\\sqrt{2}$"
       },
       {
         "id": "D",
-        "text": "(4 - $\\sqrt{3}$)/(2$\\sqrt{3}$)"
+        "text": "(4 - $\\sqrt{3})/(2\\sqrt{3}$)"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Expression = √\\frac{2}{3} - Cosec 60° = √\\frac{2}{3} - 2/√3$.\nTo find common denominator: ($\\sqrt{M}$ATHBLOCK1$\\sqrt{3}$) / 3. \n$Multiplying numerator and denominator by √3: ((√2 - 2√3) * √3) / (3 * √3) = (√6 - 6) / 3√3$.",
+    "explanation": "$Expression = √\\frac{2}{3} - Cosec 60° = √\\frac{2}{3} - 2/√3$.\nTo find common denominator: ($\\sqrt{M}$ATHBLOCK 1$\\sqrt{3}) / 3. \nMultiplying numerator and denominator by √3: ((√2 - 2√3) * √3) / (3 * √3) = (√6 - 6) / 3√3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $cot X = \\frac{5}{12} => XY / YZ = 5 / 12. Let XY = 5 cm and YZ = 12 cm$.\nHypotenuse XZ = $\\sqrt{XY^2 + YZ^2}$ = $\\sqrt{5^$2 + 12$^2}$ = 13 cm.\n$sec Z = Hypotenuse / Adjacent = XZ / YZ = \\frac{13}{12}$.",
+    "explanation": "Given: $cot X = \\frac{5}{12} => XY / YZ = 5 / 12. Let XY = 5 cm and YZ = 12 cm$.\nHypotenuse XZ = $\\sqrt{XY^2 + YZ^2} = \\sqrt{5^2 + 12^2}$ = 13 cm.\n$sec Z = Hypotenuse / Adjacent = XZ / YZ = \\frac{13}{12}$.",
     "question_image": "",
     "option_images": [
       "",

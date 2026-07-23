@@ -3176,7 +3176,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '$\\div$' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10 \\div 9 = ?$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10 \\div 9 = ?$",
     "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10 \\div 9 = ?$",
     "options": [
       {
@@ -3913,7 +3913,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Numerator: 7*|-4| - (4*|5|/5) = 28 - 4 = 24$.\nDenominator: -7(2) - (2*$\\frac{2}{2}$) + 2 = -$14 - 2 + 2$ = -14.\n$Result = 24 / -14 = -\\frac{12}{7}$.",
+    "explanation": "$Numerator: 7*|-4| - (4*|5|/5) = 28 - 4 = 24$.\nDenominator: -7(2) - (2*$\\frac{2}{2}) + 2 = -14 - 2 + 2 = -14.\nResult = 24 / -14 = -\\frac{12}{7}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3941,7 +3941,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of equation $a^3$ + $b^3$ + $c^3$ - 3 abc if $a^2$ + $b^2$ + $c^2$ = ab + bc + ca + 4 and a + b + c = 4",
+    "question": "What is the value of equation $a^3 + b^3 + c^3$ - 3 abc if $a^2 + b^2 + c^2$ = ab + bc + ca + 4 and a + b + c = 4",
     "q": "What is the value of equation a³ + b³ + c³ - 3abc if a² + b² + c² = ab + bc + ca + 4 and a + b + c = 4",
     "options": [
       {
@@ -3964,7 +3964,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "We know: $a^3$ + $b^3$ + $c^3$ - 3 abc = (a + b + c)($a^2$ + $b^2$ + $c^2$ - ab - bc - ca). \nGiven: $a^2$ + $b^2$ + $c^2$ - (ab + bc + ca) = 4, and a + b + c = 4. \nHence, $value = 4 * 4 = 16$.",
+    "explanation": "We know: $a^3 + b^3 + c^3$ - 3 abc = (a + b + c)($a^2 + b^2 + c^2$ - ab - bc - ca). \nGiven: $a^2 + b^2 + c^2$ - (ab + bc + ca) = 4, and a + b + c = 4. \nHence, $value = 4 * 4 = 16$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4066,7 +4066,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let common chord AB intersect line of centers OO' at C. AC = AB / 2 = 5 mm. OC = OO' / 2 = 12 mm. \nRadius OA = $\\sqrt{OC^2 + AC^2}$ = $\\sqrt{12^2 + 5^2}$ = 13 mm. \n$Area of circle = pi * r² = 3.14 * 13² = 3.14 * 169 = 530.66 sq. mm$.",
+    "explanation": "Let common chord AB intersect line of centers OO' at C. AC = AB / 2 = 5 mm. OC = OO' / 2 = 12 mm. \nRadius OA = $\\sqrt{OC^2 + AC^2} = \\sqrt{12^2 + 5^2}$ = 13 mm. \n$Area of circle = pi * r² = 3.14 * 13² = 3.14 * 169 = 530.66 sq. mm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4117,7 +4117,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Radius = 10 / 2 = 5 cm. Half of the chord = 6 / 2 = 3 cm$.\nDistance from center = $\\sqrt{radius^2 - (half chord)^2}$ = $\\sqrt{5^2 - 3^2}$ = $\\sqrt{16}$ = 4 cm.",
+    "explanation": "$Radius = 10 / 2 = 5 cm. Half of the chord = 6 / 2 = 3 cm$.\nDistance from center = $\\sqrt{radius^2 - (half chord)^2} = \\sqrt{5^2 - 3^2} = \\sqrt{16}$ = 4 cm.",
     "question_image": "",
     "option_images": [
       "",
@@ -4219,7 +4219,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Let total profit be T. Z's share = 1 - (\\frac{1}{4} + \\frac{1}{5}) = \\frac{11}{20}.\nSo, (\\frac{11}{20})*T = 22000 => T = 40000.\n$X's profit = ($\\frac{1}{4}$)*40000 = Rs 10000$.$",
+    "explanation": "$Let total profit be T. Z's share = 1 - (\\frac{1}{4} + \\frac{1}{5}) = \\frac{11}{20}.\nSo, (\\frac{11}{20})*T = 22000 => T = 40000.\n$X's profit = ($\\frac{1}{4}$()*40000 = Rs 10000$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4270,7 +4270,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$P's investment equivalent = (50000 * 4) + (30000 * 8) = 440000$.\nQ's investment equivalent = $(40000 * 6) + (110000 * 6) = 900000.$\n$Ratio of profit P:Q = 44:90 = 22:45$.\nP's share = 22/$(22+45)$ * Total = 11000 => Total = $11000 * 67 / 22$ = Rs 33500$.$",
+    "explanation": "$P's investment equivalent = (50000 * 4) + (30000 * 8) = 440000$.\nQ's investment equivalent = $(40000 * 6) + (110000 * 6) = 900000.\nRatio of profit P:Q = 44:90 = 22:45$.\nP's share = 22/$(22+45)$ * Total = 11000 => Total = $11000 * 67 / 22$ = Rs 33500$.$",
     "question_image": "",
     "option_images": [
       "",
@@ -5035,7 +5035,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "In \\DeltaDEF, ∠D + ∠E + ∠F = 180$^\\circ$ => 45$^\\circ$ + 90$^\\circ$ + ∠F = 180$^\\circ$ => ∠F = 45$^\\circ$. \n$tan F + \\frac{1}{3} = tan(45°) + \\frac{1}{3} = 1 + \\frac{1}{3} = \\frac{4}{3}$.",
+    "explanation": "In \\DeltaDEF, ∠D + ∠E + ∠F = 180$^\\circ => 45^\\circ + 90^\\circ$ + ∠F = 180$^\\circ$ => ∠F = 45$^\\circ. \ntan F + \\frac{1}{3} = tan(45°) + \\frac{1}{3} = 1 + \\frac{1}{3} = \\frac{4}{3}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -5086,7 +5086,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$cosecX = hyp/opp = XZ/YZ = \\frac{17}{15}. Let XZ = 17 x, YZ = 15 x$.\nUsing Pythagoras: XY = $\\sqrt{XZ^2 - YZ^2}$ = $\\sqrt{289 x^2 - 225 x^2}$ = 8 x. \nGiven XY = 4 => 8 x = 4 => x = 0.5. \n$So, YZ = 15 x = 15 * 0.5 = 7.5 cm$.",
+    "explanation": "$cosecX = hyp/opp = XZ/YZ = \\frac{17}{15}. Let XZ = 17 x, YZ = 15 x$.\nUsing Pythagoras: XY = $\\sqrt{XZ^2 - YZ^2} = \\sqrt{289 x^2 - 225 x^2}$ = 8 x. \nGiven XY = 4 => 8 x = 4 => x = 0.5. \n$So, YZ = 15 x = 15 * 0.5 = 7.5 cm$.",
     "question_image": "",
     "option_images": [
       "",

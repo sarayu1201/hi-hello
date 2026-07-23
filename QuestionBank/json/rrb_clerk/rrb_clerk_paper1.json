@@ -321,7 +321,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Comparing sentences:\n$'Farmers'/'Apple' = 'zu'/'kl'$\n$'today' = 'ne'$\nFor 'Farmers sell apple today' (zu kl ne tx), the remaining word 'sell' must be coded as 'tx'.",
+    "explanation": "Comparing sentences:\n$'Farmers'/'Apple' = 'zu'/'kl'\n'today' = 'ne'$\nFor 'Farmers sell apple today' (zu kl ne tx), the remaining word 'sell' must be coded as 'tx'.",
     "question_image": "",
     "option_images": [
       "",
@@ -2337,7 +2337,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "P invested Rs 8000 for 12 months. Q invested Rs 6000 for x months.\n$Ratio \\text{ of } profit \\text{ of } P to Q = (8000 * 12) / (6000 * x) = 16 / x$.\nSince Q's share is Rs 2000 out of total Rs 6000, P's share is Rs 4000.\n$So, P's profit : Q's profit = 4000:2000 = 2:1$.\n$Thus, 16 / x = 2/1 ⇒ x = 8$.",
+    "explanation": "P invested Rs 8000 for 12 months. Q invested Rs 6000 for x months.\n$Ratio \\text{ of } profit \\text{ of } P to Q = (8000 * 12) / (6000 * x) = 16 / x$.\nSince Q's share is Rs 2000 out of total Rs 6000, P's share is Rs 4000.\n$So, P's profit : Q's profit = 4000:2000 = 2:1.\nThus, 16 / x = 2/1 ⇒ x = 8$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2449,7 +2449,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Simple Interest (SI) = (P * R * T) / 100$\n$2000 = (8000 * 10 * T) / 100 ⇒ 2000 = 800 * T ⇒ T = 2000 / 800 = 2.5 years$.",
+    "explanation": "$Simple Interest (SI) = (P * R * T) / 100\n2000 = (8000 * 10 * T) / 100 ⇒ 2000 = 800 * T ⇒ T = 2000 / 800 = 2.5 years$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2505,7 +2505,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Speed downstream = Boat speed (u) + Stream speed (v) = 18 km/h$.\nGiven v = 3 km/h $\\Rightarrow$ u = 15 km/h.\n$Upstream speed = u - v = 15-3 = 12 km/h$.\n$Time taken upstream = Distance / Upstream speed = 30 / 12 = 2.5 hours$.",
+    "explanation": "$Speed downstream = Boat speed (u) + Stream speed (v) = 18 km/h$.\nGiven v = 3 km/h $\\Rightarrow$ u = 15 km/h.\n$Upstream speed = u - v = 15-3 = 12 km/h.\nTime taken upstream = Distance / Upstream speed = 30 / 12 = 2.5 hours$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3177,7 +3177,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Cars sold in February = 150. Cars sold in April = 200.\n$Required Percentage = $(150 / 200) * 100 = 75$%$.$",
+    "explanation": "$Cars sold in February = 150. Cars sold in April = 200.\n$Required Percentage = $(150 / 200) * 100 = 75%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3289,7 +3289,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Cars in January + March = 180 + 120 = 300.\nCars in February + May = 150 + 50 = 200.\n$Ratio = $300:200$ = $3:2$.",
+    "explanation": "$Cars in January + March = 180 + 120 = 300.\nCars in February + May = 150 + 50 = 200.\n$Ratio = $300:200 = 3:2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3345,7 +3345,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Cars sold in May = 50. Cars sold in February = 150.\n$Sum = $50 + 150 = 200$.",
+    "explanation": "$Cars sold in May = 50. Cars sold in February = 150.\nSum = 50 + 150 = 200$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3513,7 +3513,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Blue balls in Bag A = 210. Blue balls in Bag B = 520.\n$Percentage = $(210 / 520) * 100 = 40.38$% $\\approx$ 40\\%$.$",
+    "explanation": "$Blue balls in Bag A = 210. Blue balls in Bag B = 520.\n$Percentage = $(210 / 520) * 100 = 40.38% \\approx 40\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3681,7 +3681,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$3267 + 2425-961 = 5692-961 = 4731$.\n$4769-4731 = 38$.",
+    "explanation": "$3267 + 2425-961 = 5692-961 = 4731.\n4769-4731 = 38$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3737,7 +3737,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$1217 + 841-724 + 819 = 2058-724 + 819 = 1334 + 819 = 2153$.\n$2153 = ? + 1843 ⇒ ? = 2153-1843 = 310$.",
+    "explanation": "$1217 + 841-724 + 819 = 2058-724 + 819 = 1334 + 819 = 2153.\n2153 = ? + 1843 ⇒ ? = 2153-1843 = 310$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3793,7 +3793,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "$0.06 * 0.84 = 0.0504$.\n$1.2 * 0.015 = 0.018.$\n$0.0504 = ? * 0.018 ⇒ ? = 0.0504 / 0.018 = 2.8$.",
+    "explanation": "$0.06 * 0.84 = 0.0504.\n1.2 * 0.015 = 0.018.\n0.0504 = ? * 0.018 ⇒ ? = 0.0504 / 0.018 = 2.8$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3849,7 +3849,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$8.41 + 6.25 + 0.79 = 15.45$.\n$15.45 = ? - 0.55 ⇒ ? = 15.45 + 0.55 = 16$.",
+    "explanation": "$8.41 + 6.25 + 0.79 = 15.45.\n15.45 = ? - 0.55 ⇒ ? = 15.45 + 0.55 = 16$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3905,7 +3905,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$616 + 472-811 + 317 = 1088-811 + 317 = 277 + 317 = 594$.\n$594 = ? + 576 ⇒ ? = 594-576 = 18$.",
+    "explanation": "$616 + 472-811 + 317 = 1088-811 + 317 = 277 + 317 = 594.\n594 = ? + 576 ⇒ ? = 594-576 = 18$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3961,7 +3961,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$12.5 * 80 = 1000$.\n$37.5 * 16 = 600.$\n$6.25 * 112 = 700.$\n$? = 1000 + 600-700 = 900$.",
+    "explanation": "$12.5 * 80 = 1000.\n37.5 * 16 = 600.\n6.25 * 112 = 700.\n? = 1000 + 600-700 = 900$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4017,7 +4017,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$\\sqrt{3025} = 55. \\sqrt{2116} = 46$.\n$55-46 = 9.$\n$?^2 = 9 ⇒ ? = 3$.",
+    "explanation": "$\\sqrt{3025} = 55. \\sqrt{2116} = 46.\n55-46 = 9.\n?^2 = 9 ⇒ ? = 3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4073,7 +4073,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$\\sqrt{324} = 18. \\sqrt{361} = 19$.\n$\\frac{1}{5}$th \\text{ of } 290 = 58.\n$\\sqrt{?}$ + $18 + 19 = 58$ $\\Rightarrow$ $\\sqrt{?}$ + 37 = 58 $\\Rightarrow$ $\\sqrt{?}$ = 21 $\\Rightarrow$ ? = 21^2 = 441$.$",
+    "explanation": "$\\sqrt{324} = 18. \\sqrt{361} = 19.\n\\frac{1}{5}$th \\text{ of } 290 = 58.\n$\\sqrt{?} + 18 + 19 = 58 \\Rightarrow \\sqrt{?} + 37 = 58 \\Rightarrow \\sqrt{?} = 21 \\Rightarrow ? = 21^2 = 441.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4129,7 +4129,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$(1674 / 27) * 9 + 18 = 62 * 9 + 18 = 558 + 18 = 576$.\n$?^2 = 576 ⇒ ? = 24$.",
+    "explanation": "$(1674 / 27) * 9 + 18 = 62 * 9 + 18 = 558 + 18 = 576.\n?^2 = 576 ⇒ ? = 24$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4241,7 +4241,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$\\sqrt{484} = 22$.\n$22 / (121 / 8) + ? = 38 / 11 ⇒ 22 * 8 / 121 + ? = 38 / 11 ⇒ 16 / 11 + ? = 38 / 11 ⇒ ? = 22 / 11 = 2$.",
+    "explanation": "$\\sqrt{484} = 22.\n22 / (121 / 8) + ? = 38 / 11 ⇒ 22 * 8 / 121 + ? = 38 / 11 ⇒ 16 / 11 + ? = 38 / 11 ⇒ ? = 22 / 11 = 2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4297,7 +4297,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$(56 / 8) * 28 = 7 * 28 = 196$.\n$?^2 = 196 ⇒ ? = 14$.",
+    "explanation": "$(56 / 8) * 28 = 7 * 28 = 196.\n?^2 = 196 ⇒ ? = 14$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4465,7 +4465,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "$(23 / 48) * 576 = 23 * 12 = 276$.\n$276 = ? * 3/2 ⇒ ? = 276 * 2 / 3 = 184$.",
+    "explanation": "$(23 / 48) * 576 = 23 * 12 = 276.\n276 = ? * 3/2 ⇒ ? = 276 * 2 / 3 = 184$.",
     "question_image": "",
     "option_images": [
       "",

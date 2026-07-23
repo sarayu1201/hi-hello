@@ -292,7 +292,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => $\\cos$^2 A / $\\sin$^4 A = 1 => $\\cos$^2 A = $\\sin$^4 A = (1 - $\\cos$^2 A)^2 = $1 - 2$cos^2 A + $\\cos$^4 A => $\\cos$^4 A - 3 $\\cos$^2 A = -1.",
+    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => $\\cos$^2 A / $\\sin$^4 A = 1 => $\\cos$^2 A = $\\sin$^4 A = $(1 - $\\cos$^2 A)^2$ = $1 - 2$cos^2 A + $\\cos$^4 A => $\\cos$^4 A - 3 $\\cos$^2 A = -1.",
     "question_image": "",
     "option_images": [
       "",
@@ -478,7 +478,7 @@
     "options": [
       {
         "id": "A",
-        "text": "The area of the triangle with the largest side l always has an area less than $l^$\\frac{2}{2}$$."
+        "text": "The area of the triangle with the largest side l always has an area less than $l^$$\\frac{2}{2}$$$."
       },
       {
         "id": "B",
@@ -490,7 +490,7 @@
       },
       {
         "id": "D",
-        "text": "The area of an isosceles triangle with sides 2 a, 2 a and 3 a is (3$\\sqrt{5}$a^2$)/2.$"
+        "text": "The area of an isosceles triangle with sides 2 a, 2 a and 3 a is (3$\\sqrt{5}$a^2$()/2.$"
       }
     ],
     "correct_option": "D",
@@ -1210,7 +1210,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Congruent triangles have equal corresponding sides. Since ∠A = ∠P = 90$^\\circ$, BC = QR = 29 (hypotenuse) and AC = PR = 21. AB = $\\sqrt{BC^2 - AC^2}$ = $\\sqrt{29^$2 - 21$^2}$ = $\\sqrt{$841 - 441$}$ = $\\sqrt{400}$ = 20 cm.",
+    "explanation": "Congruent triangles have equal corresponding sides. Since ∠A = ∠P = 90$^\\circ$, BC = QR = 29 (hypotenuse) and AC = PR = 21. AB = $\\sqrt{BC^2 - AC^2} = \\sqrt{29^2 - 21^2} = \\sqrt{841 - 441} = \\sqrt{400}$ = 20 cm.",
     "question_image": "",
     "option_images": [
       "",
@@ -1516,7 +1516,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Since triangles are similar, ∠Q corresponds to ∠B. In $\\Delta$ ABC, ∠B = 180$^\\circ$ - (85$^\\circ$ + 58$^\\circ$) = 180$^\\circ$ - 143$^\\circ$ = 37$^\\circ$.",
+    "explanation": "Since triangles are similar, ∠Q corresponds to ∠B. In $\\Delta$ ABC, ∠B = 180$^\\circ - (85^\\circ + 58^\\circ) = 180^\\circ - 143^\\circ = 37^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2921,7 +2921,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? $(38-114)$, $(41-123)$, $(25-75)$, $(33-97)$",
+    "question": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? $(38-114), (41-123), (25-75), (33-97)$",
     "q": "Three of the following four are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group? $(38-114)$, $(41-123)$, $(25-75)$, $(33-97)$",
     "options": [
       {

@@ -70,15 +70,15 @@
     "options": [
       {
         "id": "A",
-        "text": "$343)$"
+        "text": "$(343)$"
       },
       {
         "id": "B",
-        "text": "$346)$"
+        "text": "$(346)$"
       },
       {
         "id": "C",
-        "text": "$340)$"
+        "text": "$(340)$"
       },
       {
         "id": "D",
@@ -139,7 +139,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $x^3$ + $y^3$ = 8 and x + y = 2.\n$We know (x + y)^3 = x^3 + y^3 + 3 xy(x + y)$\n=> 8 = $8 + 3$xy(2) => 6 xy = 0 => xy = 0.\nSquaring x + y = 2: $x^2$ + $y^$2 + 2$xy$ = 4 => $x^2$ + $y^2$ = 4 (since xy = 0).\n$Squaring again: (x^2 + y^2)^2 = x^4 + y^4 + 2(xy)^2 => 16 = x^4 + y^4 + 0 => x^4 + y^4 = 16$.",
+    "explanation": "Given: $x^3 + y^3$ = 8 and x + y = 2.\n$We know (x + y)^3 = x^3 + y^3 + 3 xy(x + y)\n=> 8 = 8 + 3$xy(2) => 6 xy = 0 => xy = 0.\nSquaring x + y = 2: $x^2 + y^2 + 2 xy = 4 => x^2 + y^2$ = 4 (since xy = 0).\n$Squaring again: (x^2 + y^2)^2 = x^4 + y^4 + 2(xy)^2 => 16 = x^4 + y^4 + 0 => x^4 + y^4 = 16$.",
     "question_image": "",
     "option_images": [
       "",
@@ -190,7 +190,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Given y^4 + 1/y^4 = 34$.\nWe can write: $($y^$2 + 1$$/$y^2$)^$2 - 2 = 34 => ($y$^$2 + 1$/$y^2$)^2 = 36 => $y^$2 + 1$$/$y^2$ = 6.\n$Now, (y - 1/y)^2 = y^2 + 1/y^2 - 2 = 6 - 2 = 4$.",
+    "explanation": "$Given y^4 + 1/y^4 = 34$.\nWe can write: $($y^$2 + 1/$y^2$)^2 - 2 = 34 => (y^2 + 1/y^2)^2 = 36 => y^2 + 1/y^2 = 6.\nNow, (y - 1/y)^2 = y^2 + 1/y^2 - 2 = 6 - 2 = 4$.",
     "question_image": "",
     "option_images": [
       "",
@@ -343,7 +343,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$5\\% of (P + Q) = 20\\% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4 P - 4 Q => 3 P = 5 Q => P/Q = \\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = ($\\frac{5}{3}$) * 100 = 166.66%$.$",
+    "explanation": "$5\\% of (P + Q) = 20\\% of (P - Q) => 5(P + Q) = 20(P - Q) => P + Q = 4 P - 4 Q => 3 P = 5 Q => P/Q = \\frac{5}{3}$.\nRequired percentage = (P/Q) * 100 = ($(\\frac{5}{3}) * 100 = 166.66%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -598,7 +598,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let CP of 1 st shirt = SP of 2 nd shirt = Rs 100 x.\nSP of 1 st shirt = 100 x + 30% of 100 x = 130 x.\n$Loss on 2 nd shirt = 30\\% => SP of 2 nd shirt = CP of 2 nd shirt * 70\\% => 100 x = CP 2 * 0.7 => CP 2 = 1000 x/7.\n$Ratio of SP 1 to CP 2 = 130 x : 1000 x/7 = $910:1000$ = $91:100$.",
+    "explanation": "Let CP of 1 st shirt = SP of 2 nd shirt = Rs 100 x.\nSP of 1 st shirt = 100 x + 30% of 100 x = 130 x.\n$Loss on 2 nd shirt = 30\\% => SP of 2 nd shirt = CP of 2 nd shirt * 70\\% => 100 x = CP 2 * 0.7 => CP 2 = 1000 x/7.\n$Ratio of SP 1 to CP 2 = 130 x : 1000 x/7 = $910:1000 = 91:100$.",
     "question_image": "",
     "option_images": [
       "",
@@ -700,7 +700,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let the number be x. $x^2$ - 169 = 7056 => $x^2$ = 7225 => x = $\\sqrt{7225}$ = 85.",
+    "explanation": "Let the number be x. $x^2 - 169 = 7056 => x^2$ = 7225 => x = $\\sqrt{7225}$ = 85.",
     "question_image": "",
     "option_images": [
       "",
@@ -1196,7 +1196,7 @@
       },
       {
         "id": "B",
-        "text": "(2$\\sqrt{3}$ - $\\sqrt{6}$)/(2$\\sqrt{2}$)"
+        "text": "(2$\\sqrt{3} - \\sqrt{6})/(2\\sqrt{2}$)"
       },
       {
         "id": "C",
@@ -1204,13 +1204,13 @@
       },
       {
         "id": "D",
-        "text": "(2 - $\\sqrt{3}$)/(2$\\sqrt{3}$)"
+        "text": "(2 - $\\sqrt{3})/(2\\sqrt{3}$)"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "In \\DeltaXYZ right-angled at Y, ∠X + ∠Z = 90$^\\circ$ => ∠X + 60$^\\circ$ = 90$^\\circ$ => ∠X = 30$^\\circ$.\n$cot X - \\frac{1}{3} = cot(30°) - \\frac{1}{3} = √3 - \\frac{1}{3} = (3√3 - 1)/3$.",
+    "explanation": "In \\DeltaXYZ right-angled at Y, ∠X + ∠Z = 90$^\\circ$ => ∠X + 60$^\\circ = 90^\\circ$ => ∠X = 30$^\\circ.\ncot X - \\frac{1}{3} = cot(30°) - \\frac{1}{3} = √3 - \\frac{1}{3} = (3√3 - 1)/3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$sin P = QR/PR = \\frac{12}{13}. Let QR = 12, PR = 13$.\nUsing Pythagoras: PQ = $\\sqrt{PR^2 - QR^2}$ = $\\sqrt{M}$ATHBLOCK1 $\\tan$ R = PQ/QR = $\\frac{5}{12}$$.$",
+    "explanation": "$sin P = QR/PR = \\frac{12}{13}. Let QR = 12, PR = 13$.\nUsing Pythagoras: PQ = $\\sqrt{PR^2 - QR^2} = \\sqrt{M}$ATHBLOCK 1 $\\tan$ R = PQ/QR = $\\frac{5}{12}.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,7 +1901,7 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '$\\div$' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div$' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
     "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n$8 \\div (6 - 5 + 70 x 10 = ?$",
     "options": [
       {
