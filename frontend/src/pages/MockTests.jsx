@@ -600,7 +600,8 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                   question_number: q.question_number,
                   q: q.question_text || q.q || q.question || "",
                   direction: q.direction || "",
-        question_image: q.question_image || "",
+        direction: q.direction || "",
+    question_image: q.question_image || "",
                   options: cleanedOpts.map((o, idx) => ({
                     text: o.text,
                     image: optImgs[idx] || null
@@ -1008,7 +1009,8 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
       questions: questions.map((q, idx) => ({
         question_number: idx + 1,
         question_text: q.q || q.question_text || "",
-        question_image: q.question_image || "",
+        direction: q.direction || "",
+    question_image: q.question_image || "",
         options: (q.options || []).map((opt, oIdx) => ({
           id: String.fromCharCode(65 + oIdx), // 'A', 'B', 'C', 'D'
           text: typeof opt === 'object' && opt.text ? opt.text : opt,
@@ -1085,7 +1087,8 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                 correct: correctIdx,
                 section: q.section || "General",
                 explanation: q.explanation || "",
-                question_image: q.question_image || "",
+                direction: q.direction || "",
+    question_image: q.question_image || "",
                 option_images: (q.options || []).map(opt => typeof opt === 'object' && opt.image !== undefined ? opt.image : null)
               };
             });

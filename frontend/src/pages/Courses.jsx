@@ -2012,7 +2012,8 @@ export default function Courses({ user, setUser, requestAuth, selectedCategory, 
             return {
               q: q.question_text || q.q,
               direction: q.direction || "",
-        question_image: q.question_image || "",
+        direction: q.direction || "",
+    question_image: q.question_image || "",
               options: cleanedOpts.map((o, idx) => ({
                 text: o,
                 image: optImgs[idx] || null
@@ -2415,7 +2416,8 @@ export default function Courses({ user, setUser, requestAuth, selectedCategory, 
           questions: questions.map((q, idx) => ({
             question_number: idx + 1,
             question_text: q.q || q.question_text || "",
-            question_image: q.question_image || "",
+            direction: q.direction || "",
+    question_image: q.question_image || "",
             options: (q.options || []).map((opt, oIdx) => ({
               id: String.fromCharCode(65 + oIdx),
               text: typeof opt === 'object' && opt.text ? opt.text : opt,
