@@ -1531,6 +1531,7 @@ const generateRandomizedQuestions = async (filterQuery, requiredCount) => {
         correct_answer: q.correct_answer,
         explanation: q.explanation,
         question_image: q.question_image || "",
+        direction: q.direction || "",
         option_images: q.option_images || [],
         
         // Deprecated fields populated for backward compatibility
