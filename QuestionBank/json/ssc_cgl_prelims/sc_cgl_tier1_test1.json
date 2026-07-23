@@ -906,7 +906,7 @@
     "subject": "Reasoning Ability",
     "topic": "Matrix Coding",
     "difficulty": "Hard",
-    "question": "In the given matrices, the rows and columns of Matrix I are numbered from 0 to 4 and those of Matrix II from 5 to 9. A letter is represented first by its row number and then by its column number. Identify the correct code for the word 'BANK'.",
+    "question": "In the given matrices, the rows and columns of Matrix I are numbered from 0 to 4 and those of Matrix II from 5 to 9. A letter is represented first by its row number and then by its column number. Identify the correct code for the word 'BANK'.\n\n{\"headers\": [\"Matrix I\", \"0\", \"1\", \"2\", \"3\", \"4\", \"|\", \"Matrix II\", \"5\", \"6\", \"7\", \"8\", \"9\"], \"rows\": [[\"0\", \"B\", \"P\", \"S\", \"N\", \"D\", \"|\", \"5\", \"A\", \"R\", \"K\", \"O\", \"E\"], [\"1\", \"P\", \"S\", \"B\", \"D\", \"N\", \"|\", \"6\", \"K\", \"E\", \"O\", \"R\", \"A\"], [\"2\", \"P\", \"B\", \"N\", \"S\", \"D\", \"|\", \"7\", \"O\", \"K\", \"E\", \"A\", \"R\"], [\"3\", \"N\", \"P\", \"S\", \"D\", \"B\", \"|\", \"8\", \"E\", \"R\", \"A\", \"O\", \"K\"], [\"4\", \"P\", \"S\", \"B\", \"N\", \"D\", \"|\", \"9\", \"R\", \"A\", \"E\", \"K\", \"O\"]]}",
     "questionImage": null,
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the complete matrix diagram from the source document as q25.png.",
@@ -1502,7 +1502,7 @@
       },
       {
         "id": "C",
-        "text": "Option C",
+        "text": "Carbon Dioxide (CO₂)",
         "image": null,
         "imageStatus": "MANUAL_REQUIRED"
       },

@@ -53,22 +53,11 @@ const ensureMathDelimiters = (text) => {
 };
 
 const cleanMathText = (text) => {
-  if (!text) return "";
-  let val = String(text);
-  val = val.replace(/\\ge/g, "≥").replace(/\\le/g, "≤");
-  val = val.replace(/\\neq/g, "≠").replace(/\\ne/g, "≠");
-  val = val.replace(/\\times/g, "×").replace(/\\div/g, "÷");
-  val = val.replace(/\\sqrt/g, "√");
-  val = val.replace(/\\pm/g, "±").replace(/\\infty/g, "∞");
-  val = val.replace(/\\%/g, "%").replace(/\\\$ /g, "$");
-  val = val.replace(/\$([^\$]+)\$/g, "$1");
-  val = val.replace(/\$/g, "");
-  return val.replace(/\s+/g, " ").trim();
+  return text || "";
 };
 
 const renderLaTeX = (text, subject = "") => {
   if (!text) return "";
-  const cleanedText = cleanMathText(text);
 
   // Check if there is a JSON table representation in the text
   const tableJsonMatch = text.match(/\{[\s\S]*?"headers"[\s\S]*?"rows"[\s\S]*?\}/);
@@ -82,14 +71,14 @@ const renderLaTeX = (text, subject = "") => {
 
       return (
         <div className="space-y-4 text-slate-900">
-          <div>{cleanMathText(beforeTable)}</div>
+          <div>{beforeTable}</div>
           <div className="overflow-x-auto my-4 max-w-md mx-auto">
             <table className="min-w-full border-collapse border border-slate-300 rounded-lg overflow-hidden text-center shadow-sm">
               <thead className="bg-slate-100">
                 <tr>
                   {headers.map((h, i) => (
                     <th key={i} className="border border-slate-300 px-4 py-2 text-sm font-bold text-slate-700">
-                      {cleanMathText(h)}
+                      {h}
                     </th>
                   ))}
                 </tr>
@@ -99,7 +88,7 @@ const renderLaTeX = (text, subject = "") => {
                   <tr key={rIdx} className="hover:bg-slate-50 transition-colors">
                     {row.map((cell, cIdx) => (
                       <td key={cIdx} className="border border-slate-300 px-4 py-2 text-sm text-slate-800">
-                        {cleanMathText(cell)}
+                        {cell}
                       </td>
                     ))}
                   </tr>
@@ -107,7 +96,7 @@ const renderLaTeX = (text, subject = "") => {
               </tbody>
             </table>
           </div>
-          <div>{cleanMathText(afterTable)}</div>
+          <div>{afterTable}</div>
         </div>
       );
     } catch (e) {
@@ -115,7 +104,7 @@ const renderLaTeX = (text, subject = "") => {
     }
   }
 
-  return <span className="math-cleaned">{cleanedText}</span>;
+  return <span>{text}</span>;
 };
 
 const getSectionTimeLimit = (examType) => {

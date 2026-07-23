@@ -46,26 +46,7 @@ const ensureMathDelimiters = (text) => {
 };
 
 const stripLaTeX = (text) => {
-  if (!text) return "";
-  let clean = String(text);
-  clean = clean.replace(/\\frac\{([^}]+)\}\{([^}]+)\}/g, "$1/$2");
-  clean = clean.replace(/\\sqrt\{([^}]+)\}/g, "√$1");
-  clean = clean.replace(/\\sqrt/g, "√");
-  clean = clean.replace(/\\times/g, "×");
-  clean = clean.replace(/\\div/g, "÷");
-  clean = clean.replace(/\\pi/g, "π");
-  clean = clean.replace(/\\theta/g, "θ");
-  clean = clean.replace(/\\degree/g, "°");
-  clean = clean.replace(/\\geq?/g, "≥");
-  clean = clean.replace(/\\leq?/g, "≤");
-  clean = clean.replace(/\\pm/g, "±");
-  clean = clean.replace(/\^([0-9a-zA-Z+-]+)/g, "^$1");
-  clean = clean.replace(/\$\$/g, "");
-  clean = clean.replace(/\$/g, "");
-  clean = clean.replace(/\\/g, "");
-  clean = clean.replace(/\{\{/g, "").replace(/\}\}/g, "");
-  clean = clean.replace(/\[\[/g, "").replace(/\]\]/g, "");
-  return clean.replace(/\s+/g, " ").trim();
+  return text || "";
 };
 
 const renderLaTeX = (text, subject = "") => {
