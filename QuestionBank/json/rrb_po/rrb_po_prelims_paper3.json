@@ -314,8 +314,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ6. Statements: P ->- Q -=- R -≥- S -<- T, U -≤- S ->- W\nConclusions: \nI. P ->- T\nII. W -<- P",
-    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ6. Statements: P ->- Q -=- R -≥- S -<- T, U -≤- S ->- W\nConclusions: \nI. P ->- T\nII. W -<- P",
+    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ6. $Statements: P ->- Q  =  R -≥- S -<- T, U -≤- S ->- W$\nConclusions: \nI. P ->- T\nII. W -<- P",
+    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ6. $Statements: P ->- Q  =  R -≥- S -<- T, U -≤- S ->- W$\nConclusions: \nI. P ->- T\nII. W -<- P",
     "options": [
       {
         "id": "a",
@@ -374,8 +374,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ7. Statements: M -=- N -≤- O ->- G -<- Q -≤- R, S -<- R -=- T\nConclusions: \nI. G -<- T\nII. G -≥- R",
-    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ7. Statements: M -=- N -≤- O ->- G -<- Q -≤- R, S -<- R -=- T\nConclusions: \nI. G -<- T\nII. G -≥- R",
+    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ7. $Statements: M  =  N -≤- O ->- G -<- Q -≤- R, S -<- R  =  T$\nConclusions: \nI. G -<- T\nII. G -≥- R",
+    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ7. $Statements: M  =  N -≤- O ->- G -<- Q -≤- R, S -<- R  =  T$\nConclusions: \nI. G -<- T\nII. G -≥- R",
     "options": [
       {
         "id": "a",
@@ -406,7 +406,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: G -<- Q -≤- R = T implies G -<- T (True). II: G -<- R (So G -≥- R is False). Only I is true.",
+    "explanation": "$I: G -<- Q -≤- R = T implies G -<- T (True). II: G -<- R (So G -≥- R is False). Only I is true.$",
     "question_image": "",
     "option_images": [
       "",
@@ -434,8 +434,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ8. Statements: B -≥- Z -≥- D -=- E ->- F -≤- G -<- Y -≤- H\nConclusions: \nI. C -<- E\nII. G -<- D",
-    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ8. Statements: B -≥- Z -≥- D -=- E ->- F -≤- G -<- Y -≤- H\nConclusions: \nI. C -<- E\nII. G -<- D",
+    "question": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ8. $Statements: B -≥- Z -≥- D  =  E ->- F -≤- G -<- Y -≤- H$\nConclusions: \nI. C -<- E\nII. G -<- D",
+    "q": "Directions (68): In these questions, relationships between different elements are shown in the statements. The statements are followed by conclusions. Study the conclusions based on the given statements and select the appropriate answer: \n-\nQ8. $Statements: B -≥- Z -≥- D  =  E ->- F -≤- G -<- Y -≤- H$\nConclusions: \nI. C -<- E\nII. G -<- D",
     "options": [
       {
         "id": "a",
@@ -466,7 +466,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "I: C is not present in the statement, so cannot be determined (False). II: D = E ->- F -≤- G (Opposite signs, False). Neither is true.",
+    "explanation": "$I: C is not present in the statement, so cannot be determined (False). II: D = E ->- F -≤- G (Opposite signs, False). Neither is true.$",
     "question_image": "",
     "option_images": [
       "",
@@ -629,7 +629,7 @@
       },
       {
         "id": "c",
-        "text": "W is the P's nephew -/- W, P -क-ा- -भ-त-ी-ज-ा-/-भ-ा-ं-ज-ा- -ह-ै",
+        "text": "W is the P's nephew  /  W, P -क-ा- -भ-त-ी-ज-ा / भ-ा-ं-ज-ा- -ह-ै",
         "image": null
       },
       {
@@ -766,7 +766,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Building layout: \n Floor 5: FlatX = Q, FlatY = P\n Floor 4: FlatX = S, FlatY = U\n Floor 3: FlatX = N, FlatY = W\n Floor 2: FlatX = V, FlatY = T\n Floor 1: FlatX = R, FlatY = O\nV lives in FlatX of the 2nd floor.",
+    "explanation": "Building layout: \n$Floor 5: FlatX = Q, FlatY = P$\n$Floor 4: FlatX = S, FlatY = U$\n$Floor 3: FlatX = N, FlatY = W$\n$Floor 2: FlatX = V, FlatY = T$\n$Floor 1: FlatX = R, FlatY = O$\nV lives in FlatX of the 2nd floor.",
     "question_image": "",
     "option_images": [
       "",
@@ -2026,7 +2026,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "G = 170cm, F = 220cm. E = F 100 = 120cm. B's height is between G(170cm) and E(120cm). 135cm is the only possible value.",
+    "explanation": "$G = 170cm, F = 220cm. E = F 100 = 120cm. B's height is between G(170cm) and E(120cm). 135cm is the only possible value.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2414,8 +2414,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ41. 361, -?-, 920,1045,1109,1136",
-    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ41. 361, -?-, 920,1045,1109,1136",
+    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ41. 361, ?, 920,1045,1109,1136",
+    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ41. 361, ?, 920,1045,1109,1136",
     "options": [
       {
         "id": "a",
@@ -2446,7 +2446,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Pattern of differences: -+7³-, +6³-, +5³-, +4³-, +3³-. 361 + 343 = 704.",
+    "explanation": "$Pattern \\text{ of } differences: -+7^3-, +6^3-, +5^3-, +4^3-, +3^3-. 361 + 343 = 704.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2506,7 +2506,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: Subtracting consecutive prime numbers: 17, 13, 11, 7, 5. 52 × 5 = 47.",
+    "explanation": "$Pattern: Subtracting consecutive prime numbers: 17, 13, 11, 7, 5. 52 × 5 = 47.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2534,8 +2534,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ43. 14, -?-, 29,49,89,169",
-    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ43. 14, -?-, 29,49,89,169",
+    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ43. 14, ?, 29,49,89,169",
+    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ43. 14, ?, 29,49,89,169",
     "options": [
       {
         "id": "a",
@@ -2566,7 +2566,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Pattern of differences: -+5, +10, +20, +40, +80 (doubling differences). 14 + 5 = 19.",
+    "explanation": "$Pattern \\text{ of } differences: -+5, +10, +20, +40, +80 (doubling differences). 14 + 5 = 19.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2594,8 +2594,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ44. 2.5,15,75,300, -?-, 1800",
-    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ44. 2.5,15,75,300, -?-, 1800",
+    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ44. 2.5,15,75,300, ?, 1800",
+    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ44. 2.5,15,75,300, ?, 1800",
     "options": [
       {
         "id": "a",
@@ -2626,7 +2626,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: -*6, *5, *4, *3, *2. 300 × 3 = 900.",
+    "explanation": "$Pattern: -*6, *5, *4, *3, *2. 300 × 3 = 900.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2654,8 +2654,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ45. 10,11,24,75, -?-, 1525",
-    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ45. 10,11,24,75, -?-, 1525",
+    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ45. 10,11,24,75, ?, 1525",
+    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ45. 10,11,24,75, ?, 1525",
     "options": [
       {
         "id": "a",
@@ -2686,7 +2686,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Pattern: -*1+1, *2+2, *3+3, *4+4, *5+5. 75 4 + 4 = 304.",
+    "explanation": "$Pattern: -*1+1, *2+2, *3+3, *4+4, *5+5. 75 4 + 4 = 304.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2714,8 +2714,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ46. 64,102,159,235, -?-, 444",
-    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ46. 64,102,159,235, -?-, 444",
+    "question": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ46. 64,102,159,235, ?, 444",
+    "q": "Directions (41-46): What will come in the place of question mark in the following number series.\n-\nQ46. 64,102,159,235, ?, 444",
     "options": [
       {
         "id": "a",
@@ -2746,7 +2746,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern of differences: -+38, +57, +76, +95, +114 (multiples of 19). 235 + 95 = 330.",
+    "explanation": "$Pattern \\text{ of } differences: -+38, +57, +76, +95, +114 (multiples \\text{ of } 19). 235 + 95 = 330.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2774,8 +2774,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ47. Total number of orders delivered by Xomato on Monday is 25% more than the total number of orders delivered by Twiggy on Thursday. If the average number of orders delivered by Xomato on Monday and Tuesday together is 95, then find the total number of orders delivered by Xomato on Tuesday?",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ47. Total number of orders delivered by Xomato on Monday is 25% more than the total number of orders delivered by Twiggy on Thursday. If the average number of orders delivered by Xomato on Monday and Tuesday together is 95, then find the total number of orders delivered by Xomato on Tuesday?",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ47. Total number of orders delivered by Xomato on Monday is 25% more than the total number of orders delivered by Twiggy on Thursday. If the average number of orders delivered by Xomato on Monday and Tuesday together is 95, then find the total number of orders delivered by Xomato on Tuesday?",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ47. Total number of orders delivered by Xomato on Monday is 25% more than the total number of orders delivered by Twiggy on Thursday. If the average number of orders delivered by Xomato on Monday and Tuesday together is 95, then find the total number of orders delivered by Xomato on Tuesday?",
     "options": [
       {
         "id": "a",
@@ -2806,7 +2806,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Twiggy on Thursday = 108. Xomato on Monday = 1.25 × 108 = 135. Total Xomato Mon+Tue = 190. Xomato on Tuesday = 190 × 135 = 55.",
+    "explanation": "$Twiggy on Thursday = 108. Xomato on Monday = 1.25 × 108 = 135. Total Xomato Mon+Tue = 190. Xomato on Tuesday = 190 × 135 = 55.$",
     "question_image": "rrb_po_prelims_paper3_q47-52.png",
     "option_images": [
       "",
@@ -2834,8 +2834,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ48. Total number of orders delivered by Xomato on Saturday and Thursday together is what percentage more or less than the total number of orders delivered by Twiggy on Thursday?",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ48. Total number of orders delivered by Xomato on Saturday and Thursday together is what percentage more or less than the total number of orders delivered by Twiggy on Thursday?",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ48. Total number of orders delivered by Xomato on Saturday and Thursday together is what percentage more or less than the total number of orders delivered by Twiggy on Thursday?",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ48. Total number of orders delivered by Xomato on Saturday and Thursday together is what percentage more or less than the total number of orders delivered by Twiggy on Thursday?",
     "options": [
       {
         "id": "a",
@@ -2866,7 +2866,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Xomato Saturday+Thursday = 45 + 36 = 81. Twiggy Thursday = 108. Percent less = (108 81)/108 × 100 = 25%.",
+    "explanation": "$Xomato Saturday+Thursday = 45 + 36 = 81. Twiggy Thursday = 108. Percent less = (108 81)/108 × 100 = 25\\%.$",
     "question_image": "rrb_po_prelims_paper3_q47-52.png",
     "option_images": [
       "",
@@ -2894,8 +2894,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ49. On Sunday, 60% and \\frac{5}-{9}th of the total orders delivered by Twiggy and Xomato are returned by the customers respectively, then find the difference between the actual number of orders delivered by Xomato and Twiggy on Sunday (actual numbers of orders means all orders which didn't return)?",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ49. On Sunday, 60% and \\frac{5}-{9}th of the total orders delivered by Twiggy and Xomato are returned by the customers respectively, then find the difference between the actual number of orders delivered by Xomato and Twiggy on Sunday (actual numbers of orders means all orders which didn't return)?",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ49. On Sunday, 60% and \\frac{5}{9}th of the total orders delivered by Twiggy and Xomato are returned by the customers respectively, then find the difference between the actual number of orders delivered by Xomato and Twiggy on Sunday (actual numbers of orders means all orders which didn't return)?",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ49. On Sunday, 60% and \\frac{5}{9}th of the total orders delivered by Twiggy and Xomato are returned by the customers respectively, then find the difference between the actual number of orders delivered by Xomato and Twiggy on Sunday (actual numbers of orders means all orders which didn't return)?",
     "options": [
       {
         "id": "a",
@@ -2926,7 +2926,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Twiggy actual = 40% of 135 = 54. Xomato actual = \\frac{4}-{9} of 45 = 20. Difference = 54 × 20 = 34.",
+    "explanation": "$Twiggy actual = 40\\% \\text{ of } 135 = 54. Xomato actual = \\frac{4}{9} \\text{ of } 45 = 20. Difference = 54 × 20 = 34.$",
     "question_image": "rrb_po_prelims_paper3_q47-52.png",
     "option_images": [
       "",
@@ -2954,17 +2954,17 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ50. The total number of orders delivered by Twiggy and Xomato together on Monday are 38 less than that of on Saturday. If the average number of orders delivered by Xomato on Monday and Wednesday is 80 and the total number of orders delivered by Twiggy and Xomato on Wednesday is in the ratio of 1:4, respectively, then find the total number of orders delivered by Xomato on Monday.",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ50. The total number of orders delivered by Twiggy and Xomato together on Monday are 38 less than that of on Saturday. If the average number of orders delivered by Xomato on Monday and Wednesday is 80 and the total number of orders delivered by Twiggy and Xomato on Wednesday is in the ratio of 1:4, respectively, then find the total number of orders delivered by Xomato on Monday.",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ50. The total number of orders delivered by Twiggy and Xomato together on Monday are 38 less than that of on Saturday. If the average number of orders delivered by Xomato on Monday and Wednesday is 80 and the total number of orders delivered by Twiggy and Xomato on Wednesday is in the ratio of 1:4, respectively, then find the total number of orders delivered by Xomato on Monday.",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ50. The total number of orders delivered by Twiggy and Xomato together on Monday are 38 less than that of on Saturday. If the average number of orders delivered by Xomato on Monday and Wednesday is 80 and the total number of orders delivered by Twiggy and Xomato on Wednesday is in the ratio of 1:4, respectively, then find the total number of orders delivered by Xomato on Monday.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "78",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "82",
         "image": null
       },
       {
@@ -2974,7 +2974,7 @@
       },
       {
         "id": "d",
-        "text": "",
+        "text": "86",
         "image": null
       },
       {
@@ -3014,8 +3014,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ51. Find the ratio between the total number of orders delivered by Twiggy on Thursday and Sunday together and the total number of orders delivered by Xomato on Friday and Saturday together.",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ51. Find the ratio between the total number of orders delivered by Twiggy on Thursday and Sunday together and the total number of orders delivered by Xomato on Friday and Saturday together.",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ51. Find the ratio between the total number of orders delivered by Twiggy on Thursday and Sunday together and the total number of orders delivered by Xomato on Friday and Saturday together.",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ51. Find the ratio between the total number of orders delivered by Twiggy on Thursday and Sunday together and the total number of orders delivered by Xomato on Friday and Saturday together.",
     "options": [
       {
         "id": "a",
@@ -3046,7 +3046,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Twiggy Thu+Sun = 108 + 135 = 243. Xomato Fri+Sat = 54 + 45 = 99. Ratio = 243:99 = 27:11.",
+    "explanation": "$Twiggy Thu+Sun = 108 + 135 = 243. Xomato Fri+Sat = 54 + 45 = 99. Ratio = 243:99 = 27:11.$",
     "question_image": "rrb_po_prelims_paper3_q47-52.png",
     "option_images": [
       "",
@@ -3074,8 +3074,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ52. If \\frac{7}-{12}th of the total number of orders delivered by Twiggy in day shift on Thursday and 25% of the total number of orders delivered by Xomato in night shift on Thursday, then find the difference between the total number of orders delivered by Xomato and Twiggy in night shift on Thursday is what percentage of the total number of orders delivered by Twiggy and Xomato together on Sunday?",
-    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\nPie Chart I (Total orders Twiggy + Xomato -=- 720): \n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\nPie Chart II (Total orders Twiggy -=- 540): \n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ52. If \\frac{7}-{12}th of the total number of orders delivered by Twiggy in day shift on Thursday and 25% of the total number of orders delivered by Xomato in night shift on Thursday, then find the difference between the total number of orders delivered by Xomato and Twiggy in night shift on Thursday is what percentage of the total number of orders delivered by Twiggy and Xomato together on Sunday?",
+    "question": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ52. If \\frac{7}{12}th of the total number of orders delivered by Twiggy in day shift on Thursday and 25% of the total number of orders delivered by Xomato in night shift on Thursday, then find the difference between the total number of orders delivered by Xomato and Twiggy in night shift on Thursday is what percentage of the total number of orders delivered by Twiggy and Xomato together on Sunday?",
+    "q": "Directions (47-52): The pie chart (I) shows the percentage distribution of total number of orders delivered by Twiggy and Xomato together in four different days. The pie chart (II) shows percentage distribution of total number of orders delivered by Twiggy in these days. Read the following pie charts carefully and answer the questions given below.\n-\n$Pie Chart I (Total orders Twiggy + Xomato  =  720):$\n Thursday: 20%\n Friday: 15%\n Saturday: 40%\n Sunday: 25%\n-\n$Pie Chart II (Total orders Twiggy  =  540):$\n Thursday: 20%\n Friday: 10%\n Saturday: 45%\n Sunday: 25%\n-\nQ52. If \\frac{7}{12}th of the total number of orders delivered by Twiggy in day shift on Thursday and 25% of the total number of orders delivered by Xomato in night shift on Thursday, then find the difference between the total number of orders delivered by Xomato and Twiggy in night shift on Thursday is what percentage of the total number of orders delivered by Twiggy and Xomato together on Sunday?",
     "options": [
       {
         "id": "a",
@@ -3106,7 +3106,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Twiggy night = 108 \\frac{5}-{12} = 45. Xomato night = 36 25% = 9. Diff = 36. Together Sunday = 180. Percentage = \\frac{36}-{180} 100 = 20%.",
+    "explanation": "$Twiggy night = 108 \\frac{5}{12} = 45. Xomato night = 36 25\\% = 9. Diff = 36. Together Sunday = 180. Percentage = \\frac{36}{180} 100 = 20\\%.$",
     "question_image": "rrb_po_prelims_paper3_q47-52.png",
     "option_images": [
       "",
@@ -3166,7 +3166,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Cultural A Q2 = \\frac{3}-{8} 80 = 30. Modern B Q1 = \\frac{6}-{11} 55 = 30. Ratio = 30:30 = 1:1.",
+    "explanation": "$Cultural A Q2 = \\frac{3}{8} 80 = 30. Modern B Q1 = \\frac{6}{11} 55 = 30. Ratio = 30:30 = 1:1.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3226,7 +3226,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Modern B Q1 = 30. Total C Q1 = 48. Cultural C Q1 = 80% of 25 = 20. Modern C Q1 = 28. Cultural A Q2 = 30. Difference = 30 × 28 = 2.",
+    "explanation": "$Modern B Q1 = 30. Total C Q1 = 48. Cultural C Q1 = 80\\% \\text{ of } 25 = 20. Modern C Q1 = 28. Cultural A Q2 = 30. Difference = 30 × 28 = 2.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3286,7 +3286,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Total A Q2 = 80. Total A Q3 = 55. Avg Cultural Q1 -&- Q3 = 24 ⇒ Q1 Cultural (25) + Q3 Cultural = 48 ⇒ Q3 Cultural = 23. Modern A Q3 = 55 × 23 = 32. Total B Q2 = 90. Percentage = 32 ÷ 90 100 -≈- 35.5% -≈- 36%.",
+    "explanation": "$Total A Q2 = 80. Total A Q3 = 55. Avg Cultural Q1 -&- Q3 = 24 ⇒ Q1 Cultural (25) + Q3 Cultural = 48 ⇒ Q3 Cultural = 23. Modern A Q3 = 55 × 23 = 32. Total B Q2 = 90. Percentage = 32 ÷ 90 100 -≈- 35.5\\% -≈- 36\\%.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3346,7 +3346,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Modern B Q1 = 30, B Q2 = 54. Average = 42. Cultural A Q2 = 30. Difference = 12.",
+    "explanation": "$Modern B Q1 = 30, B Q2 = 54. Average = 42. Cultural A Q2 = 30. Difference = 12.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3406,7 +3406,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Romantic sum = 2X+3. Total Q2 = 80. 80 = (2X+3)3 ⇒ 2X = 80 ⇒ X = 40.",
+    "explanation": "$Romantic sum = 2X+3. Total Q2 = 80. 80 = (2X+3)3 ⇒ 2X = 80 ⇒ X = 40.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3466,7 +3466,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Modern B Q1 = 30. Modern A Q2 = 50. Percent less = (50 30)/50 × 100 = 40%.",
+    "explanation": "$Modern B Q1 = 30. Modern A Q2 = 50. Percent less = (50 30)/50 × 100 = 40\\%.$",
     "question_image": "rrb_po_prelims_paper3_q53-58.png",
     "option_images": [
       "",
@@ -3494,8 +3494,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ59. 164.89 -/- 10.99 + 32.07 -=- 169.03 -?",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ59. 164.89 -/- 10.99 + 32.07 -=- 169.03 -?",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ59. $164.89  /  10.99 + 32.07  =  169.03 -?$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ59. $164.89  /  10.99 + 32.07  =  169.03 -?$",
     "options": [
       {
         "id": "a",
@@ -3526,7 +3526,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Approximate calculation: 165 ÷ 11 + 32 = 15 + 32 = 47. 47 = 169 -?- ⇒ -?- = 122.",
+    "explanation": "$Approximate calculation: 165 ÷ 11 + 32 = 15 + 32 = 47. 47 = 169 ? ⇒ ? = 122.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3554,8 +3554,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ60. 2.99 -× 15.99 + 3.99 -× 23.04 -=- 99.93 + -?",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ60. 2.99 -× 15.99 + 3.99 -× 23.04 -=- 99.93 + -?",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ60. $2.99 -× 15.99 + 3.99 -× 23.04  =  99.93 + -?$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ60. $2.99 -× 15.99 + 3.99 -× 23.04  =  99.93 + -?$",
     "options": [
       {
         "id": "a",
@@ -3586,7 +3586,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: 3 16 + 4 × 23 = 48 + 92 = 140. 140 = 100 + -?- ⇒ -?- = 40.",
+    "explanation": "$Approximate calculation: 3 16 + 4 × 23 = 48 + 92 = 140. 140 = 100 + ? ⇒ ? = 40.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3614,8 +3614,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ61. sqrt(720.003 + 880.002) -× (639.98 -/- 100.02)- -=- -?",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ61. sqrt(720.003 + 880.002) -× (639.98 -/- 100.02)- -=- -?",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ61. $\\sqrt{720.003 + 880.002} -× (639.98  /  100.02) =  -?$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ61. $\\sqrt{720.003 + 880.002} -× (639.98  /  100.02) =  -?$",
     "options": [
       {
         "id": "a",
@@ -3646,7 +3646,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: sqrt(1600) 6.4 = 40 × 6.4 = 256.",
+    "explanation": "$Approximate calculation: \\sqrt{1600} 6.4 = 40 × 6.4 = 256.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3674,8 +3674,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ62. (655.99 + -?-) -/- 42.003 -× 20.97 -=- 520.87",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ62. (655.99 + -?-) -/- 42.003 -× 20.97 -=- 520.87",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ62. $(655.99 + ?)  /  42.003 -× 20.97  =  520.87$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ62. $(655.99 + ?)  /  42.003 -× 20.97  =  520.87$",
     "options": [
       {
         "id": "a",
@@ -3706,7 +3706,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Approximate calculation: (656 + -?-) ÷ 2 = 521 ⇒ 656 + -?- = 1042 ⇒ -?- = 386.",
+    "explanation": "$Approximate calculation: (656 + ?) ÷ 2 = 521 ⇒ 656 + ? = 1042 ⇒ ? = 386.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3734,8 +3734,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ63. 941.980 824.993 -/- 24.990 -=- -?- + 102.001",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ63. 941.980 824.993 -/- 24.990 -=- -?- + 102.001",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ63. $941.980 824.993  /  24.990  =  ? + 102.001$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ63. $941.980 824.993  /  24.990  =  ? + 102.001$",
     "options": [
       {
         "id": "a",
@@ -3766,7 +3766,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: 942 \\frac{825}-{25} = -?- + 102 ⇒ 942 33 = -?- + 102 ⇒ 909 = -?- + 102 ⇒ -?- = 807.",
+    "explanation": "$Approximate calculation: 942 \\frac{825}{25} = ? + 102 ⇒ 942 33 = ? + 102 ⇒ 909 = ? + 102 ⇒ ? = 807.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3794,8 +3794,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ64. 208.01 -/- 15.99 -× 223.998 -/- 13.006 -=- -?",
-    "q": "Directions (5964): What approximate value should come in the place of questions (-?-) mark in the following questions.\n-\nQ64. 208.01 -/- 15.99 -× 223.998 -/- 13.006 -=- -?",
+    "question": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ64. $208.01  /  15.99 -× 223.998  /  13.006  =  -?$",
+    "q": "Directions (5964): What approximate value should come in the place of questions (?) mark in the following questions.\n-\nQ64. $208.01  /  15.99 -× 223.998  /  13.006  =  -?$",
     "options": [
       {
         "id": "a",
@@ -3826,7 +3826,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Approximate calculation: 208 ÷ 16 224 ÷ 13 = 13 × 17.23 = 224.",
+    "explanation": "$Approximate calculation: 208 ÷ 16 224 ÷ 13 = 13 × 17.23 = 224.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3886,7 +3886,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let boys be B_A, B_B, B_C. B_B = 36. Since B_C ->- B_A and A has least boys: B_B = B_C = 36. Girls G_C = 56 × 36 = 20. Girls are multiples of 4: G_C=20, G_B=16, G_A=12. Boys in A = 40 × 12 = 28.",
+    "explanation": "$Let boys be B_A, B_B, B_C. B_B = 36. Since B_C ->- B_A and A has least boys: B_B = B_C = 36. Girls G_C = 56 × 36 = 20. Girls are multiples \\text{ of } 4: G_C=20, G_B=16, G_A=12. Boys in A = 40 × 12 = 28.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3946,7 +3946,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Girls are G_A = 12, G_B = 16, G_C = 20. Total girls = 12 + 16 + 20 = 48.",
+    "explanation": "$Girls are G_A = 12, G_B = 16, G_C = 20. Total girls = 12 + 16 + 20 = 48.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4006,7 +4006,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "0.9/A_eff = 0.6/B_eff ⇒ A:B efficiency = 3:2. Total work = (3+2)*6 = 30 units. Time for A to complete 50% (15 units) = \\frac{15}-{3} = 5 days.",
+    "explanation": "$0.9/A_eff = 0.6/B_eff ⇒ A:B efficiency = 3:2. Total work = (3+2)*6 = 30 units. Time for A to complete 50\\% (15 units) = \\frac{15}{3} = 5 days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4066,7 +4066,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Interest A = 0.1P. Interest B = 0.3(P+1000) = 0.3P+300. Diff = 0.2P+300 = 1300 ⇒ 0.2P = 1000 ⇒ P = Rs 5000.",
+    "explanation": "$Interest A = 0.1P. Interest B = 0.3(P+1000) = 0.3P+300. Diff = 0.2P+300 = 1300 ⇒ 0.2P = 1000 ⇒ P = Rs 5000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4126,7 +4126,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Profit ratio A:B:C = (3*12):(5*12):(15*6) = 36:60:90 = 6:10:15. Total = 31 parts. A's profit = \\frac{6}-{31} 6200 = Rs 1200.",
+    "explanation": "$Profit ratio A:B:C = (3*12):(5*12):(15*6) = 36:60:90 = 6:10:15. Total = 31 parts. A's profit = \\frac{6}{31} 6200 = Rs 1200.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4186,7 +4186,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let salary = 100x. Grocery = 25x. Remaining = 75x. Rent + Education = 50% of 75x = 37.5x. Remaining = 37.5x = 18000 ⇒ x = 480. Salary = 100x = Rs 48000.",
+    "explanation": "$Let salary = 100x. Grocery = 25x. Remaining = 75x. Rent + Education = 50\\% \\text{ of } 75x = 37.5x. Remaining = 37.5x = 18000 ⇒ x = 480. Salary = 100x = Rs 48000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4246,7 +4246,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let failed = n. Passed: B = 300n, G = 120n. (300n) = 2.8(120n) ⇒ 1.8n = 36 ⇒ n = 20. Passed: B = 280, G = 100. Total passed = 380.",
+    "explanation": "$Let failed = n. Passed: B = 300n, G = 120n. (300n) = 2.8(120n) ⇒ 1.8n = 36 ⇒ n = 20. Passed: B = 280, G = 100. Total passed = 380.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4306,7 +4306,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Length of rectangle (Base of triangle) = 1400 ÷ 70 = 20 cm. Area of triangle = \\frac{1}-{2} 20 × 24 = 240 square cm.",
+    "explanation": "$Length \\text{ of } rectangle (Base \\text{ of } triangle) = 1400 ÷ 70 = 20 cm. Area \\text{ of } triangle = \\frac{1}{2} 20 × 24 = 240 square cm.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4366,7 +4366,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "0.8x + 0.6y = 540 ⇒ 4x + 3y = 2700. x + y = 775 ⇒ 3x + 3y = 2325. Subtracting equations: x = 375.",
+    "explanation": "$0.8x + 0.6y = 540 ⇒ 4x + 3y = 2700. x + y = 775 ⇒ 3x + 3y = 2325. Subtracting equations: x = 375.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4426,7 +4426,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let CP = 100a. MP = 130a. SP = 117a. Profit = 17a = 204 ⇒ a = 12. CP = Rs 1200. At 10% profit: SP = 1.1 1200 = Rs 1320.",
+    "explanation": "$Let CP = 100a. MP = 130a. SP = 117a. Profit = 17a = 204 ⇒ a = 12. CP = Rs 1200. At 10\\% profit: SP = 1.1 1200 = Rs 1320.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4486,7 +4486,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "1.2D/U = 2*D/V ⇒ V/U = \\frac{2}-{1}.2 = \\frac{5}-{3}. Let V=5a, U=3a. VU = 2a = 6 ⇒ a=3. Speed in still water = (V+U)/2 = 4a = 12 km/h.",
+    "explanation": "$1.2D/U = 2*D/V ⇒ V/U = \\frac{2}{1}.2 = \\frac{5}{3}. Let V=5a, U=3a. VU = 2a = 6 ⇒ a=3. Speed in still water = (V+U)/2 = 4a = 12 km/h.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4514,8 +4514,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A present age is \\frac{4}-{5}th of B present age while age of B after 5 years will be equal to twice the present age of C. If the sum of ages of all three is 37 years, then find the present age (in years) of A?",
-    "q": "A present age is \\frac{4}-{5}th of B present age while age of B after 5 years will be equal to twice the present age of C. If the sum of ages of all three is 37 years, then find the present age (in years) of A?",
+    "question": "A present age is \\frac{4}{5}th of B present age while age of B after 5 years will be equal to twice the present age of C. If the sum of ages of all three is 37 years, then find the present age (in years) of A?",
+    "q": "A present age is \\frac{4}{5}th of B present age while age of B after 5 years will be equal to twice the present age of C. If the sum of ages of all three is 37 years, then find the present age (in years) of A?",
     "options": [
       {
         "id": "a",
@@ -4546,7 +4546,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let B = 5x. A = 4x. B+5 = 2C ⇒ C = (5x+5)/2 = 2.5x+2.5. A+B+C = 4x + 5x + 2.5x + 2.5 = 11.5x + 2.5 = 37 ⇒ 11.5x = 34.5 ⇒ x = 3. A's present age = 4x = 12 years.",
+    "explanation": "$Let B = 5x. A = 4x. B+5 = 2C ⇒ C = (5x+5)/2 = 2.5x+2.5. A+B+C = 4x + 5x + 2.5x + 2.5 = 11.5x + 2.5 = 37 ⇒ 11.5x = 34.5 ⇒ x = 3. A's present age = 4x = 12 years.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4606,7 +4606,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Initial: Milk=84, Water=28. Ratio = 3:1. Removing 32L: Milk removed=24, Water removed=8. Remaining: Milk=60, Water=20. Add 12L Milk ⇒ Resultant Milk = 72. Percent more = (7220)/20 × 100 = 260%.",
+    "explanation": "$Initial: Milk=84, Water=28. Ratio = 3:1. Removing 32L: Milk removed=24, Water removed=8. Remaining: Milk=60, Water=20. Add 12L Milk ⇒ Resultant Milk = 72. Percent more = (7220)/20 × 100 = 260\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4634,8 +4634,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "180 meters long train A crosses train B having length of 120 meters and running in opposite direction in \\frac{60}-{11} seconds. If speed of train A is \\frac{6}-{5}th of the speed of train B, then find the time taken by both trains to cross each other, when they running in same direction?",
-    "q": "180 meters long train A crosses train B having length of 120 meters and running in opposite direction in \\frac{60}-{11} seconds. If speed of train A is \\frac{6}-{5}th of the speed of train B, then find the time taken by both trains to cross each other, when they running in same direction?",
+    "question": "180 meters long train A crosses train B having length of 120 meters and running in opposite direction in \\frac{60}{11} seconds. If speed of train A is \\frac{6}{5}th of the speed of train B, then find the time taken by both trains to cross each other, when they running in same direction?",
+    "q": "180 meters long train A crosses train B having length of 120 meters and running in opposite direction in \\frac{60}{11} seconds. If speed of train A is \\frac{6}{5}th of the speed of train B, then find the time taken by both trains to cross each other, when they running in same direction?",
     "options": [
       {
         "id": "a",
@@ -4666,7 +4666,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Opposite: S_A+S_B = 300 ÷ (\\frac{60}-{11}) = 55. S_A = 1.2 S_B ⇒ 2.2*S_B = 55 ⇒ S_B = 25 m/s, S_A = 30 m/s. Same direction: Rel speed = 5 m/s. Time = 300 ÷ 5 = 60 seconds.",
+    "explanation": "$Opposite: S_A+S_B = 300 ÷ (\\frac{60}{11}) = 55. S_A = 1.2 S_B ⇒ 2.2*S_B = 55 ⇒ S_B = 25 m/s, S_A = 30 m/s. Same direction: Rel speed = 5 m/s. Time = 300 ÷ 5 = 60 seconds.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4726,7 +4726,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "T1 time = 10 hrs, T2 time = 8 hrs. Let distance = 40 km. Speed: S1 = 4 km/h, S2 = 5 km/h. By 7 am, T1 covers 4 km. Rem distance = 36 km. Meeting time = 7 am + 36/(4+5) hours = 7 am + 4 hours = 11:00 am.",
+    "explanation": "$T1 time = 10 hrs, T2 time = 8 hrs. Let distance = 40 km. Speed: S1 = 4 km/h, S2 = 5 km/h. By 7 am, T1 covers 4 km. Rem distance = 36 km. Meeting time = 7 am + 36/(4+5) hours = 7 am + 4 hours = 11:00 am.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4774,19 +4774,19 @@
       },
       {
         "id": "d",
-        "text": "",
+        "text": "95.5",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "86.5",
         "image": null
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "B+S+Ch = 270. B+Ch = 190 ⇒ Shunty = 80. Dumpty = 1.2 × 80 = 96. Total = 270 + 96 = 366. Average = 366 ÷ 4 = 91.5.",
+    "explanation": "$B+S+Ch = 270. B+Ch = 190 ⇒ Shunty = 80. Dumpty = 1.2 × 80 = 96. Total = 270 + 96 = 366. Average = 366 ÷ 4 = 91.5.$",
     "question_image": "",
     "option_images": [
       "",

@@ -319,22 +319,22 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "28",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "30",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "32",
         "image": null
       },
       {
@@ -346,7 +346,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The even numbers in the series are 2,6,6,2,4,4,8. Sum = 2 + 6 + 6 + 2 + 4 + 4 + 8 = 32.",
+    "explanation": "$The even numbers in the series are 2,6,6,2,4,4,8. Sum = 2 + 6 + 6 + 2 + 4 + 4 + 8 = 32.$",
     "question_image": "",
     "option_images": [
       "",
@@ -444,7 +444,7 @@
       },
       {
         "id": "b",
-        "text": "",
+        "text": "W",
         "image": null
       },
       {
@@ -459,7 +459,7 @@
       },
       {
         "id": "e",
-        "text": "",
+        "text": "3",
         "image": null
       }
     ],
@@ -564,7 +564,7 @@
       },
       {
         "id": "b",
-        "text": "",
+        "text": "2",
         "image": null
       },
       {
@@ -574,7 +574,7 @@
       },
       {
         "id": "d",
-        "text": "",
+        "text": "Q",
         "image": null
       },
       {
@@ -706,7 +706,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Floor layout:\n- Floor 3: Flat X = H, Flat Y = F\n- Floor 2: Flat X = G, Flat Y = K\n- Floor 1: Flat X = E, Flat Y = L\nThus, immediately above L (Floor 1, Flat Y) in the same named flat is K (Floor 2, Flat Y).",
+    "explanation": "Floor layout:\n- $Floor 3: Flat X = H, Flat Y = F$\n- $Floor 2: Flat X = G, Flat Y = K$\n- $Floor 1: Flat X = E, Flat Y = L$\nThus, immediately above L (Floor 1, Flat Y) in the same named flat is K (Floor 2, Flat Y).",
     "question_image": "",
     "option_images": [
       "",
@@ -1006,7 +1006,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Starting at (0,0): A = (8, 0), B = (8, 6), C = (20, 6), D = (20, 12), E = (6, 12). Point E is SouthEast of starting point.",
+    "explanation": "$Starting at (0,0): A = (8, 0), B = (8, 6), C = (20, 6), D = (20, 12), E = (6, 12). Point E is SouthEast \\text{ of } starting point.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1066,7 +1066,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "E = (6, 12), so W = (8, 12). B = (8, 6). The distance is strictly vertical: 6 - (12) = 18m.",
+    "explanation": "$E = (6, 12), so W = (8, 12). B = (8, 6). The distance is strictly vertical: 6 - (12) = 18m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1126,7 +1126,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "A = (8, 0). D = (20, 12). Since 20 > 8 and 12 < 0, D is in the SouthEast of A.",
+    "explanation": "$A = (8, 0). D = (20, 12). Since 20 > 8 and 12 < 0, D is in the SouthEast \\text{ of } A.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1486,7 +1486,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "First letter of second word (JAW) is J (10). Second letter of third word from right (GUN) is U (21). Letters between J and U is 21-10 - 1 = 10.",
+    "explanation": "$First letter \\text{ of } second word (JAW) is J (10). Second letter \\text{ of } third word from right (GUN) is U (21). Letters between J and U is 21-10 - 1 = 10.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1786,7 +1786,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The pattern alternates (+2, 2). D+2=F, R2=P, I+2=K, V2=T, E+2=G. Hence DRIVE is coded as FPKTG.",
+    "explanation": "$The pattern alternates (+2, 2). D+2=F, R2=P, I+2=K, V2=T, E+2=G. Hence DRIVE is coded as FPKTG.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2114,8 +2114,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ36. Statement: M ≥ N = O < P < R; S ≤ T = U > V ≥ P > X\nConclusions:\nI. N < T\nII. R > U",
-    "q": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ36. Statement: M ≥ N = O < P < R; S ≤ T = U > V ≥ P > X\nConclusions:\nI. N < T\nII. R > U",
+    "question": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ36. $Statement: M ≥ N = O < P < R; S ≤ T = U > V ≥ P > X$\nConclusions:\nI. N < T\nII. R > U",
+    "q": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ36. $Statement: M ≥ N = O < P < R; S ≤ T = U > V ≥ P > X$\nConclusions:\nI. N < T\nII. R > U",
     "options": [
       {
         "id": "a",
@@ -2146,7 +2146,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "From the statements, N = O < P ≤ V < U = T implies N < T (so I is True). R > P and U > P, but we cannot establish a direct relationship between R and U (so II is False).",
+    "explanation": "$From the statements, N = O < P ≤ V < U = T implies N < T (so I is True). R > P and U > P, but we cannot establish a direct relationship between R and U (so II is False).$",
     "question_image": "",
     "option_images": [
       "",
@@ -2174,8 +2174,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ37. Statement: A < B ≥ C = F > E < D < G; I ≤ L = J ≤ F < K\nConclusions:\nI. B > I\nII. I = B",
-    "q": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ37. Statement: A < B ≥ C = F > E < D < G; I ≤ L = J ≤ F < K\nConclusions:\nI. B > I\nII. I = B",
+    "question": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ37. $Statement: A < B ≥ C = F > E < D < G; I ≤ L = J ≤ F < K$\nConclusions:\nI. B > I\nII. $I = B$",
+    "q": "Directions (36-37): In these questions, relationships between different elements are shown in the statements. The statements are followed by two conclusions. Study the conclusions based on the given statements and select the appropriate answer:\n\nQ37. $Statement: A < B ≥ C = F > E < D < G; I ≤ L = J ≤ F < K$\nConclusions:\nI. B > I\nII. $I = B$",
     "options": [
       {
         "id": "a",
@@ -2206,7 +2206,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "We have B ≥ F and I ≤ F, which implies B ≥ I. The two conclusions B > I and B = I cover all possible cases of B ≥ I, satisfying the 'eitheror' criteria.",
+    "explanation": "$We have B ≥ F and I ≤ F, which implies B ≥ I. The two conclusions B > I and B = I cover all possible cases \\text{ of } B ≥ I, satisfying the 'eitheror' criteria.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2446,7 +2446,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Average = (36 + 66 + 78 + 120) / 4 = 300 / 4 = 75.",
+    "explanation": "$Average = (36 + 66 + 78 + 120) / 4 = 300 / 4 = 75.$",
     "question_image": "rrb_clerk_paper5_q41-45.png",
     "option_images": [
       "",
@@ -2506,7 +2506,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Fruit cake SP = 78 * 300 = Rs 23,400. Chocolate cake SP = 84 * 200 = Rs 16,800. Ratio = 23,400:16,800 = 234:168 = 39:28.",
+    "explanation": "$Fruit cake SP = 78 * 300 = Rs 23,400. Chocolate cake SP = 84 * 200 = Rs 16,800. Ratio = 23,400:16,800 = 234:168 = 39:28.$",
     "question_image": "rrb_clerk_paper5_q41-45.png",
     "option_images": [
       "",
@@ -2566,7 +2566,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "A + C Chocolate cakes = 42 + 84 = 126. D + E Fruit cakes = 120 + 60 = 180. Difference = 180-126 = 54. Percentage = (54 / 180) * 100 = 30% less.",
+    "explanation": "$A + C Chocolate cakes = 42 + 84 = 126. D + E Fruit cakes = 120 + 60 = 180. Difference = 180-126 = 54. Percentage = (54 / 180) * 100 = 30\\% less.$",
     "question_image": "rrb_clerk_paper5_q41-45.png",
     "option_images": [
       "",
@@ -2626,7 +2626,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Fruit cakes X = 1.25 * 36 = 45. Chocolate cakes E = 90 (which is 60% less than X ⇒ 40% of X). So Chocolate cakes X = 90 / 0.4 = 225. Total X = 45 + 225 = 270.",
+    "explanation": "$Fruit cakes X = 1.25 * 36 = 45. Chocolate cakes E = 90 (which is 60\\% less than X ⇒ 40\\% \\text{ of } X). So Chocolate cakes X = 90 / 0.4 = 225. Total X = 45 + 225 = 270.$",
     "question_image": "rrb_clerk_paper5_q41-45.png",
     "option_images": [
       "",
@@ -2686,7 +2686,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Chocolate cakes (C + B) = 84 + 99 = 183. Fruit cakes (D + C) = 120 + 78 = 198. Difference = 198-183 = 15.",
+    "explanation": "$Chocolate cakes (C + B) = 84 + 99 = 183. Fruit cakes (D + C) = 120 + 78 = 198. Difference = 198-183 = 15.$",
     "question_image": "rrb_clerk_paper5_q41-45.png",
     "option_images": [
       "",
@@ -2746,7 +2746,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Area(square) = (l+4)² = l² + 8l + 16. Area(triangle) = 1/2 * (l+1) * (l+8) = 1/2 * (l² + 9l + 8). Since Area(square) = 2 * Area(triangle) ⇒ l² + 8l + 16 = l² + 9l + 8 ⇒ l = 8. Base of triangle = l + 1 = 9 cm.",
+    "explanation": "$Area(square) = (l+4)^2 = l^2 + 8l + 16. Area(triangle) = 1/2 * (l+1) * (l+8) = 1/2 * (l^2 + 9l + 8). Since Area(square) = 2 * Area(triangle) ⇒ l^2 + 8l + 16 = l^2 + 9l + 8 ⇒ l = 8. Base \\text{ of } triangle = l + 1 = 9 cm.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2806,7 +2806,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Profit ratio A:B = (1500 * 12) / (X * 6) = 3000 / X. Given ratio is 5:3 ⇒ 3000 / X = 5 / 3 ⇒ 5X = 9000 ⇒ X = 1800.",
+    "explanation": "$Profit ratio A:B = (1500 * 12) / (X * 6) = 3000 / X. Given ratio is 5:3 ⇒ 3000 / X = 5 / 3 ⇒ 5X = 9000 ⇒ X = 1800.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2866,7 +2866,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let distance be D. D/48 - D/64 = 3 ⇒ (4D - 3D)/192 = 3 ⇒ D = 576 km.",
+    "explanation": "$Let distance be D. D/48 - D/64 = 3 ⇒ (4D - 3D)/192 = 3 ⇒ D = 576 km.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2926,7 +2926,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Milk = 16 litres, Water = 12 litres. 16 / (12 + Y) = 8 / 7 ⇒ 14 = 12 + Y ⇒ Y = 2.",
+    "explanation": "$Milk = 16 litres, Water = 12 litres. 16 / (12 + Y) = 8 / 7 ⇒ 14 = 12 + Y ⇒ Y = 2.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2986,7 +2986,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let CP = 100a. Marked Price = 160a. Selling Price after 20% discount = 128a. 128a = 800 ⇒ a = 6.25. CP = Rs 625.",
+    "explanation": "$Let CP = 100a. Marked Price = 160a. Selling Price after 20\\% discount = 128a. 128a = 800 ⇒ a = 6.25. CP = Rs 625.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3046,7 +3046,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Avg in 2018 = (75 + 81 + 60)/3 = 72. So B in 2021 = 72. A + C in 2021 = 72 * 13/9 = 104.",
+    "explanation": "$Avg in 2018 = (75 + 81 + 60)/3 = 72. So B in 2021 = 72. A + C in 2021 = 72 * 13/9 = 104.$",
     "question_image": "rrb_clerk_paper5_q51-55.png",
     "option_images": [
       "",
@@ -3106,7 +3106,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Avg of C in 2019 and 2016 = 39 ⇒ total = 78. C in 2019 = 35 ⇒ C in 2016 = 43. X + 30 = 43 ⇒ X = 13.",
+    "explanation": "$Avg \\text{ of } C in 2019 and 2016 = 39 ⇒ total = 78. C in 2019 = 35 ⇒ C in 2016 = 43. X + 30 = 43 ⇒ X = 13.$",
     "question_image": "rrb_clerk_paper5_q51-55.png",
     "option_images": [
       "",
@@ -3166,7 +3166,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "A in 2018 = 75. C in 2019 = 35. Ratio = 75:35 = 15:7.",
+    "explanation": "$A in 2018 = 75. C in 2019 = 35. Ratio = 75:35 = 15:7.$",
     "question_image": "rrb_clerk_paper5_q51-55.png",
     "option_images": [
       "",
@@ -3226,7 +3226,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "C (2017 + 2020) = 27 + 58 = 85. A + B (2018) = 75 + 81 = 156. Difference = 156-85 = 71.",
+    "explanation": "$C (2017 + 2020) = 27 + 58 = 85. A + B (2018) = 75 + 81 = 156. Difference = 156-85 = 71.$",
     "question_image": "rrb_clerk_paper5_q51-55.png",
     "option_images": [
       "",
@@ -3286,7 +3286,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "B in 2019 = 48. D in 2020 = 1.25 * 48 = 60. A in 2018 = 75. Percentage = 75/60 * 100 = 125%.",
+    "explanation": "$B in 2019 = 48. D in 2020 = 1.25 * 48 = 60. A in 2018 = 75. Percentage = 75/60 * 100 = 125\\%.$",
     "question_image": "rrb_clerk_paper5_q51-55.png",
     "option_images": [
       "",
@@ -3346,7 +3346,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "SI = (P * 12 * 5)/100 = 0.6P ⇒ 1560 = 0.6P ⇒ P = 2600. Difference = 2600-1560 = Rs 1040.",
+    "explanation": "$SI = (P * 12 * 5)/100 = 0.6P ⇒ 1560 = 0.6P ⇒ P = 2600. Difference = 2600-1560 = Rs 1040.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3406,7 +3406,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "X + Y + Z = 27. Z - X = 5. Since 5 = Y/2 ⇒ Y = 10. Thus X + Z = 17. Solving equations: Z = 11.",
+    "explanation": "$X + Y + Z = 27. Z - X = 5. Since 5 = Y/2 ⇒ Y = 10. Thus X + Z = 17. Solving equations: Z = 11.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3466,7 +3466,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Jerry = Tom + 16. After 4 years, (Tom + 20) / (Tom + 4) = 11 / 7 ⇒ 7Tom + 140 = 11Tom + 44 ⇒ 4Tom = 96 ⇒ Tom = 24. Jerry = 40 years.",
+    "explanation": "$Jerry = Tom + 16. After 4 years, (Tom + 20) / (Tom + 4) = 11 / 7 ⇒ 7Tom + 140 = 11Tom + 44 ⇒ 4Tom = 96 ⇒ Tom = 24. Jerry = 40 years.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3526,7 +3526,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "A's efficiency = 1/15. A + B efficiency = 3/20. B's efficiency = 3/20 - 1/15 = 5/60 = 1/12. B alone takes 12 days.",
+    "explanation": "$A's efficiency = 1/15. A + B efficiency = 3/20. B's efficiency = 3/20 - 1/15 = 5/60 = 1/12. B alone takes 12 days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3586,7 +3586,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "B = 1.78 * A ⇒ 89 = 1.78 * A ⇒ A = 50.",
+    "explanation": "$B = 1.78 * A ⇒ 89 = 1.78 * A ⇒ A = 50.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3646,7 +3646,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The terms are cubes of prime numbers: 2³, 3³, 5³, 7³, 11³, 13³, 17³. The term 121 should be 11³ = 1331.",
+    "explanation": "$The terms are cubes \\text{ of } prime numbers: 2^3, 3^3, 5^3, 7^3, 11^3, 13^3, 17^3. The term 121 should be 11^3 = 1331.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3706,7 +3706,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: term / 2 = next term. Thus, 408 / 2 = 204. So 206 is wrong.",
+    "explanation": "$Pattern: term / 2 = next term. Thus, 408 / 2 = 204. So 206 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3766,7 +3766,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Pattern: term * 2 + 1 = next term. Thus, 335 * 2 + 1 = 671. So 670 is wrong.",
+    "explanation": "$Pattern: term * 2 + 1 = next term. Thus, 335 * 2 + 1 = 671. So 670 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3826,7 +3826,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Pattern: subtract 17 at each step. Thus, 118-17 = 101. So 104 is wrong.",
+    "explanation": "$Pattern: subtract 17 at each step. Thus, 118-17 = 101. So 104 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3886,7 +3886,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Pattern: term * 2 = next term. Thus, 108 * 2 = 216. So 214 is wrong.",
+    "explanation": "$Pattern: term * 2 = next term. Thus, 108 * 2 = 216. So 214 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3914,8 +3914,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ66. (?+3)/5 + 5/15 = 24/15",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ66. (?+3)/5 + 5/15 = 24/15",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ66. $(?+3)/5 + 5/15 = 24/15$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ66. $(?+3)/5 + 5/15 = 24/15$",
     "options": [
       {
         "id": "a",
@@ -3946,7 +3946,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "(?+3)/5 = 24/15 - 5/15 = 19/15 ⇒ ?+3 = 19/3 ⇒ ? = 10/3.",
+    "explanation": "$(?+3)/5 = 24/15 - 5/15 = 19/15 ⇒ ?+3 = 19/3 ⇒ ? = 10/3.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3974,8 +3974,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ67. 5 1/4 + 9 1/3 - 6 1/6 + 4 1/2 = ?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ67. 5 1/4 + 9 1/3 - 6 1/6 + 4 1/2 = ?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ67. $5 1/4 + 9 1/3 - 6 1/6 + 4 1/2 = ?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ67. $5 1/4 + 9 1/3 - 6 1/6 + 4 1/2 = ?$",
     "options": [
       {
         "id": "a",
@@ -4006,7 +4006,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "(5 + 9-6 + 4) + (1/4 + 1/3 - 1/6 + 1/2) = 12 + 11/12 = 12 11/12.",
+    "explanation": "$(5 + 9-6 + 4) + (1/4 + 1/3 - 1/6 + 1/2) = 12 + 11/12 = 12 11/12.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4034,8 +4034,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ68. 5/6 of 8/7 of 21/24 of 2526 = ?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ68. 5/6 of 8/7 of 21/24 of 2526 = ?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ68. $5/6 \\text{ of } 8/7 \\text{ of } 21/24 \\text{ of } 2526 = ?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ68. $5/6 \\text{ of } 8/7 \\text{ of } 21/24 \\text{ of } 2526 = ?$",
     "options": [
       {
         "id": "a",
@@ -4066,7 +4066,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "5/6 * 8/7 * 21/24 * 2526 = 5/6 * 2526 = 5 * 421 = 2105.",
+    "explanation": "$5/6 * 8/7 * 21/24 * 2526 = 5/6 * 2526 = 5 * 421 = 2105.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4094,8 +4094,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ69. 5² + 13² – 11² + 52 = (?)³",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ69. 5² + 13² – 11² + 52 = (?)³",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ69. $5^2 + 13^2 – 11^2 + 52 = (?)^3$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ69. $5^2 + 13^2 – 11^2 + 52 = (?)^3$",
     "options": [
       {
         "id": "a",
@@ -4126,7 +4126,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "25 + 169-121 + 52 = 125 = 5³.",
+    "explanation": "$25 + 169-121 + 52 = 125 = 5^3.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4154,8 +4154,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ70. 114/333 × 252/121 × 22/9 = 28/37 × 19/?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ70. 114/333 × 252/121 × 22/9 = 28/37 × 19/?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ70. $114/333 × 252/121 × 22/9 = 28/37 × 19/?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ70. $114/333 × 252/121 × 22/9 = 28/37 × 19/?$",
     "options": [
       {
         "id": "a",
@@ -4186,7 +4186,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "(19 * 28) / (37 * (33/4)) = (19 * 28) / (37 * ?) ⇒ ? = 33/4 = 8.25.",
+    "explanation": "$(19 * 28) / (37 * (33/4)) = (19 * 28) / (37 * ?) ⇒ ? = 33/4 = 8.25.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4214,8 +4214,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ71. (19)² − 23 × 12 = ?² + 256 ÷ 4³",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ71. (19)² − 23 × 12 = ?² + 256 ÷ 4³",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ71. $(19)^2 − 23 × 12 = ?^2 + 256 ÷ 4^3$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ71. $(19)^2 − 23 × 12 = ?^2 + 256 ÷ 4^3$",
     "options": [
       {
         "id": "a",
@@ -4246,7 +4246,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "361-276 = ?² + 256/64 ⇒ 85 = ?² + 4 ⇒ ?² = 81 ⇒ ? = 9.",
+    "explanation": "$361-276 = ?^2 + 256/64 ⇒ 85 = ?^2 + 4 ⇒ ?^2 = 81 ⇒ ? = 9.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4274,8 +4274,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ72. √((587 + 638) ÷ 25) + ? = 2828 ÷ 7",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ72. √((587 + 638) ÷ 25) + ? = 2828 ÷ 7",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ72. $\\sqrt((587 + 638) ÷ 25) + ? = 2828 ÷ 7$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ72. $\\sqrt((587 + 638) ÷ 25) + ? = 2828 ÷ 7$",
     "options": [
       {
         "id": "a",
@@ -4306,7 +4306,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "√(1225/25) + ? = 404 ⇒ √49 + ? = 404 ⇒ 7 + ? = 404 ⇒ ? = 397.",
+    "explanation": "$\\\\sqrt{1225/25} + ? = 404 ⇒ \\sqrt49 + ? = 404 ⇒ 7 + ? = 404 ⇒ ? = 397.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4334,8 +4334,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ73. 42% of 800 + 725/? = (19)²",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ73. 42% of 800 + 725/? = (19)²",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ73. $42\\% \\text{ of } 800 + 725/? = (19)^2$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ73. $42\\% \\text{ of } 800 + 725/? = (19)^2$",
     "options": [
       {
         "id": "a",
@@ -4366,7 +4366,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "336 + 725/? = 361 ⇒ 725/? = 25 ⇒ ? = 29.",
+    "explanation": "$336 + 725/? = 361 ⇒ 725/? = 25 ⇒ ? = 29.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4394,8 +4394,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ74. ?/2 = 13/260 + 80/480",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ74. ?/2 = 13/260 + 80/480",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ74. $?/2 = 13/260 + 80/480$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ74. $?/2 = 13/260 + 80/480$",
     "options": [
       {
         "id": "a",
@@ -4426,7 +4426,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "?/2 = 1/20 + 1/6 = 13/60 ⇒ ? = 13/30.",
+    "explanation": "$?/2 = 1/20 + 1/6 = 13/60 ⇒ ? = 13/30.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4454,12 +4454,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ75. 18² + (40% of 200)/5 = 17/?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ75. 18² + (40% of 200)/5 = 17/?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ75. $18^2 + (40\\% \\text{ of } 200)/5 = 17/?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ75. $18^2 + (40\\% \\text{ of } 200)/5 = 17/?$",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "1/10",
         "image": null
       },
       {
@@ -4469,7 +4469,7 @@
       },
       {
         "id": "c",
-        "text": "",
+        "text": "1/15",
         "image": null
       },
       {
@@ -4479,14 +4479,14 @@
       },
       {
         "id": "e",
-        "text": "",
+        "text": "1/25",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "324 + 80/5 = 17/? ⇒ 340 = 17/? ⇒ ? = 17/340 = 1/20.",
+    "explanation": "$324 + 80/5 = 17/? ⇒ 340 = 17/? ⇒ ? = 17/340 = 1/20.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4514,8 +4514,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ76. 3/15 × 25/80 = ?/2",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ76. 3/15 × 25/80 = ?/2",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ76. $3/15 × 25/80 = ?/2$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ76. $3/15 × 25/80 = ?/2$",
     "options": [
       {
         "id": "a",
@@ -4546,7 +4546,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "1/5 * 5/16 = ?/2 ⇒ 1/16 = ?/2 ⇒ ? = 1/8.",
+    "explanation": "$1/5 * 5/16 = ?/2 ⇒ 1/16 = ?/2 ⇒ ? = 1/8.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4574,8 +4574,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ77. 5/9 of 180 + 8² = ? − 24",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ77. 5/9 of 180 + 8² = ? − 24",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ77. $5/9 \\text{ of } 180 + 8^2 = ? − 24$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ77. $5/9 \\text{ of } 180 + 8^2 = ? − 24$",
     "options": [
       {
         "id": "a",
@@ -4606,7 +4606,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "100 + 64 = ? - 24 ⇒ 164 = ? - 24 ⇒ ? = 188.",
+    "explanation": "$100 + 64 = ? - 24 ⇒ 164 = ? - 24 ⇒ ? = 188.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4634,8 +4634,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ78. 318+980-224540=?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ78. 318+980-224540=?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ78. $318+980-224540=?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ78. $318+980-224540=?$",
     "options": [
       {
         "id": "a",
@@ -4666,7 +4666,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "1298-764 = 534.",
+    "explanation": "$1298-764 = 534.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4694,8 +4694,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ79. 224/49 × 7/16 = 5 × ?",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ79. 224/49 × 7/16 = 5 × ?",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ79. $224/49 × 7/16 = 5 × ?$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ79. $224/49 × 7/16 = 5 × ?$",
     "options": [
       {
         "id": "a",
@@ -4726,7 +4726,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "32/7 * 7/16 = 5 * ? ⇒ 2 = 5 * ? ⇒ ? = 2/5.",
+    "explanation": "$32/7 * 7/16 = 5 * ? ⇒ 2 = 5 * ? ⇒ ? = 2/5.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4754,8 +4754,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ80. 12³ - 728 = ? + 33.33% of 69",
-    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ80. 12³ - 728 = ? + 33.33% of 69",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ80. $12^3 - 728 = ? + 33.33\\% \\text{ of } 69$",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following the question:\n\nQ80. $12^3 - 728 = ? + 33.33\\% \\text{ of } 69$",
     "options": [
       {
         "id": "a",
@@ -4786,7 +4786,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "1728-728 = ? + 23 ⇒ 1000 = ? + 23 ⇒ ? = 977.",
+    "explanation": "$1728-728 = ? + 23 ⇒ 1000 = ? + 23 ⇒ ? = 977.$",
     "question_image": "",
     "option_images": [
       "",

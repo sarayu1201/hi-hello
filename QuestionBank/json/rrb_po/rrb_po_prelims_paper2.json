@@ -826,7 +826,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Path segments: C to D (5) + D to E (10) + E to F (13) + F to G (8) = 36m.",
+    "explanation": "$Path segments: C to D (5) + D to E (10) + E to F (13) + F to G (8) = 36m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -886,7 +886,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "B is at (0, 8) and M is at (6, 0). Shortest distance = sqrt(6²- + 8²-) = 10m.",
+    "explanation": "$B is at (0, 8) and M is at (6, 0). Shortest distance = \\sqrt{6^2- + 8^2-} = 10m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1754,8 +1754,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ30. Statements: H ->- I -=- J -≥- K -<- N, L -≤- N -=- M -<- P -≤- Q\nConclusions: \nI. P ->- K\nII. L -≤- Q",
-    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ30. Statements: H ->- I -=- J -≥- K -<- N, L -≤- N -=- M -<- P -≤- Q\nConclusions: \nI. P ->- K\nII. L -≤- Q",
+    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ30. $Statements: H ->- I  =  J -≥- K -<- N, L -≤- N  =  M -<- P -≤- Q$\nConclusions: \nI. P ->- K\nII. L -≤- Q",
+    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ30. $Statements: H ->- I  =  J -≥- K -<- N, L -≤- N  =  M -<- P -≤- Q$\nConclusions: \nI. P ->- K\nII. L -≤- Q",
     "options": [
       {
         "id": "a",
@@ -1786,7 +1786,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: P ->- M = N ->- K implies P ->- K (True). II: L -≤- N = M -<- P -≤- Q implies L -<- Q. Since L -<- Q is strictly less than, L -≤- Q is considered False. Only I follows.",
+    "explanation": "$I: P ->- M = N ->- K implies P ->- K (True). II: L -≤- N = M -<- P -≤- Q implies L -<- Q. Since L -<- Q is strictly less than, L -≤- Q is considered False. Only I follows.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1814,8 +1814,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ31. Statements: M -≥- N ->- O ->- P -≥- R, Q -≤- O -=- L ->- S\nConclusions: \nI. S -<- M\nII. L ->- R",
-    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ31. Statements: M -≥- N ->- O ->- P -≥- R, Q -≤- O -=- L ->- S\nConclusions: \nI. S -<- M\nII. L ->- R",
+    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ31. $Statements: M -≥- N ->- O ->- P -≥- R, Q -≤- O  =  L ->- S$\nConclusions: \nI. S -<- M\nII. L ->- R",
+    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ31. $Statements: M -≥- N ->- O ->- P -≥- R, Q -≤- O  =  L ->- S$\nConclusions: \nI. S -<- M\nII. L ->- R",
     "options": [
       {
         "id": "a",
@@ -1846,7 +1846,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: M -≥- N ->- O ->- S implies S -<- M (True). II: L = O ->- P -≥- R implies L ->- R (True). Both conclusions are true.",
+    "explanation": "$I: M -≥- N ->- O ->- S implies S -<- M (True). II: L = O ->- P -≥- R implies L ->- R (True). Both conclusions are true.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1874,8 +1874,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ32. Statements: D -≤- E ->- F ->- G -=- H -<- I, H -≥- K -<- Z -=- U\nConclusions: \nI. F ->- Z\nII. D -<- I",
-    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ32. Statements: D -≤- E ->- F ->- G -=- H -<- I, H -≥- K -<- Z -=- U\nConclusions: \nI. F ->- Z\nII. D -<- I",
+    "question": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ32. $Statements: D -≤- E ->- F ->- G  =  H -<- I, H -≥- K -<- Z  =  U$\nConclusions: \nI. F ->- Z\nII. D -<- I",
+    "q": "Directions (3032): In each of the questions, relationships between some elements are shown in the statements. These statements are followed by conclusions numbered I and II. Read the statements and give the answer.\n-\nQ32. $Statements: D -≤- E ->- F ->- G  =  H -<- I, H -≥- K -<- Z  =  U$\nConclusions: \nI. F ->- Z\nII. D -<- I",
     "options": [
       {
         "id": "a",
@@ -2414,8 +2414,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ41. The ratio of males to females in 2021 in village D is 9:4 and the total males in 2022 in the village D is onethird of the males in 2021 in the same village. Find the difference between the total females in 2021 and 2022 in village D.",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ41. The ratio of males to females in 2021 in village D is 9:4 and the total males in 2022 in the village D is onethird of the males in 2021 in the same village. Find the difference between the total females in 2021 and 2022 in village D.",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ41. The ratio of males to females in 2021 in village D is 9:4 and the total males in 2022 in the village D is onethird of the males in 2021 in the same village. Find the difference between the total females in 2021 and 2022 in village D.",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ41. The ratio of males to females in 2021 in village D is 9:4 and the total males in 2022 in the village D is onethird of the males in 2021 in the same village. Find the difference between the total females in 2021 and 2022 in village D.",
     "options": [
       {
         "id": "a",
@@ -2446,7 +2446,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total population in D in 2021 = 780. Males 2021 = \\frac{9}-{13} 780 = 540, Females 2021 = 240. Males 2022 = \\frac{540}-{3} = 180. Total population in D in 2022 = 300 ⇒ Females 2022 = 120. Difference = 240 × 120 = 120.",
+    "explanation": "$Total population in D in 2021 = 780. Males 2021 = \\frac{9}{13} 780 = 540, Females 2021 = 240. Males 2022 = \\frac{540}{3} = 180. Total population in D in 2022 = 300 ⇒ Females 2022 = 120. Difference = 240 × 120 = 120.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2474,8 +2474,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ42. Find the ratio between the total population in village B in 2022 to the total population in village C in 2021.",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ42. Find the ratio between the total population in village B in 2022 to the total population in village C in 2021.",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ42. Find the ratio between the total population in village B in 2022 to the total population in village C in 2021.",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ42. Find the ratio between the total population in village B in 2022 to the total population in village C in 2021.",
     "options": [
       {
         "id": "a",
@@ -2506,7 +2506,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total in B in 2022 = 500. Total in C in 2021 = 950. Ratio = 500:950 = 10:19.",
+    "explanation": "$Total in B in 2022 = 500. Total in C in 2021 = 950. Ratio = 500:950 = 10:19.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2534,8 +2534,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ43. 60% of the total population in village E is illiterate, and the rest will be literate in 2022. If the ratio between the literate population in 2022 and 2021 in village E is 5:2, respectively, then the total illiterate population in 2021 is what percentage of the total literate population in 2022 in village E?",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ43. 60% of the total population in village E is illiterate, and the rest will be literate in 2022. If the ratio between the literate population in 2022 and 2021 in village E is 5:2, respectively, then the total illiterate population in 2021 is what percentage of the total literate population in 2022 in village E?",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ43. 60% of the total population in village E is illiterate, and the rest will be literate in 2022. If the ratio between the literate population in 2022 and 2021 in village E is 5:2, respectively, then the total illiterate population in 2021 is what percentage of the total literate population in 2022 in village E?",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ43. 60% of the total population in village E is illiterate, and the rest will be literate in 2022. If the ratio between the literate population in 2022 and 2021 in village E is 5:2, respectively, then the total illiterate population in 2021 is what percentage of the total literate population in 2022 in village E?",
     "options": [
       {
         "id": "a",
@@ -2566,7 +2566,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total E 2022 = 200. Literate E 2022 = 40% of 200 = 80. Literate E 2021 = \\frac{2}-{5} 80 = 32. Total E 2021 = 70 ⇒ Illiterate 2021 = 38. Percentage = 38 ÷ 80 × 100 = 47.5%.",
+    "explanation": "$Total E 2022 = 200. Literate E 2022 = 40\\% \\text{ of } 200 = 80. Literate E 2021 = \\frac{2}{5} 80 = 32. Total E 2021 = 70 ⇒ Illiterate 2021 = 38. Percentage = 38 ÷ 80 × 100 = 47.5\\%.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2594,8 +2594,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ44. Total males in village A in 2022 are 60% more than that in 2021, and the total females in the village in 2022 are 200 less than that of males. The total females in village A in 2021 is what percentage more or less than the total population in villages B in 2022 and 2021 together (approx.).",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ44. Total males in village A in 2022 are 60% more than that in 2021, and the total females in the village in 2022 are 200 less than that of males. The total females in village A in 2021 is what percentage more or less than the total population in villages B in 2022 and 2021 together (approx.).",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ44. Total males in village A in 2022 are 60% more than that in 2021, and the total females in the village in 2022 are 200 less than that of males. The total females in village A in 2021 is what percentage more or less than the total population in villages B in 2022 and 2021 together (approx.).",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ44. Total males in village A in 2022 are 60% more than that in 2021, and the total females in the village in 2022 are 200 less than that of males. The total females in village A in 2021 is what percentage more or less than the total population in villages B in 2022 and 2021 together (approx.).",
     "options": [
       {
         "id": "a",
@@ -2626,7 +2626,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let 2021 A males = 5x. 2022 A males = 8x. 2022 A females = 8x200. 8x + 8x 200 = 600 ⇒ x=50. 2021 A males = 250 ⇒ 2021 A females = 1290 × 250 = 1040. B total = 810. Percentage more = (1040810)/810 100 -≈- 28.3% -≈- 28% more.",
+    "explanation": "$Let 2021 A males = 5x. 2022 A males = 8x. 2022 A females = 8x200. 8x + 8x 200 = 600 ⇒ x=50. 2021 A males = 250 ⇒ 2021 A females = 1290 × 250 = 1040. B total = 810. Percentage more = (1040810)/810 100 -≈- 28.3\\% -≈- 28\\% more.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2654,8 +2654,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ45. Total population in village F in 2022 is 37.5% less than that in C. If the total population in village F in 2021 and 2022 together is five more than half of the total population in village A in 2021, then find the average population in village F and village B in 2021.",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ45. Total population in village F in 2022 is 37.5% less than that in C. If the total population in village F in 2021 and 2022 together is five more than half of the total population in village A in 2021, then find the average population in village F and village B in 2021.",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ45. Total population in village F in 2022 is 37.5% less than that in C. If the total population in village F in 2021 and 2022 together is five more than half of the total population in village A in 2021, then find the average population in village F and village B in 2021.",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ45. Total population in village F in 2022 is 37.5% less than that in C. If the total population in village F in 2021 and 2022 together is five more than half of the total population in village A in 2021, then find the average population in village F and village B in 2021.",
     "options": [
       {
         "id": "a",
@@ -2686,7 +2686,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total C 2022 = 400. F 2022 = 400 \\frac{5}-{8} = 250. F (2021+2022) = \\frac{1}-{2} 1290 + 5 = 650. F 2021 = 400. B 2021 = 310. Average = (400 + 310)/2 = 355.",
+    "explanation": "$Total C 2022 = 400. F 2022 = 400 \\frac{5}{8} = 250. F (2021+2022) = \\frac{1}{2} 1290 + 5 = 650. F 2021 = 400. B 2021 = 310. Average = (400 + 310)/2 = 355.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2714,8 +2714,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ46. Total population in village E in 2022 is how many more or less than the average population in village E and B in 2021.",
-    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\nPie Chart I (Total population 2021 + 2022 -=- 5400): \n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\nPie Chart II (Total population 2022 -=- 2000): \n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ46. Total population in village E in 2022 is how many more or less than the average population in village E and B in 2021.",
+    "question": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ46. Total population in village E in 2022 is how many more or less than the average population in village E and B in 2021.",
+    "q": "Directions (41-46): Read the following pie charts carefully and answer the questions given below.\nThe pie chart (I) shows the percentage distribution of the total population (males and females) in 2021 and 2022 together in five different villages. The pie chart (II) shows the percentage distribution of the total population (males and females) in 2022 in these villages.\n-\n$Pie Chart I (Total population 2021 + 2022  =  5400):$\n A: 35%\n B: 15%\n C: 25%\n D: 20%\n E: 5%\n-\n$Pie Chart II (Total population 2022  =  2000):$\n A: 30%\n B: 25%\n C: 20%\n D: 15%\n E: 10%\n-\nQ46. Total population in village E in 2022 is how many more or less than the average population in village E and B in 2021.",
     "options": [
       {
         "id": "a",
@@ -2746,7 +2746,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total E 2022 = 200. Avg E&B 2021 = (70+310)/2 = 190. Difference = 200 × 190 = 10.",
+    "explanation": "$Total E 2022 = 200. Avg E&B 2021 = (70+310)/2 = 190. Difference = 200 × 190 = 10.$",
     "question_image": "rrb_po_prelims_paper2_q41-46.png",
     "option_images": [
       "",
@@ -2806,7 +2806,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "1/x + 1/(x+32) = \\frac{1}-{12} ⇒ x²- 8x 384 = 0 ⇒ (x16)(x+24) = 0 ⇒ x = 16 days.",
+    "explanation": "$1/x + 1/(x+32) = \\frac{1}{12} ⇒ x^2- 8x 384 = 0 ⇒ (x16)(x+24) = 0 ⇒ x = 16 days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2866,7 +2866,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let salary = 100x. Rent = 20x. Food = 25% of 80x = 20x. Remaining = 60x. Saving = \\frac{4}-{9} 60x = 80x/3. Diff = 80x/3 20x = 20x/3 = 3000 ⇒ 100x = 45000.",
+    "explanation": "$Let salary = 100x. Rent = 20x. Food = 25\\% \\text{ of } 80x = 20x. Remaining = 60x. Saving = \\frac{4}{9} 60x = 80x/3. Diff = 80x/3 20x = 20x/3 = 3000 ⇒ 100x = 45000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2926,7 +2926,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "L = 100y. J = 125y. K = 75y. M = 100y 500. J M = 25y + 500 = 1000 ⇒ y = 20. X = J+K+L+M = 2500+1500+2000+1500 = Rs 7500.",
+    "explanation": "$L = 100y. J = 125y. K = 75y. M = 100y 500. J M = 25y + 500 = 1000 ⇒ y = 20. X = J+K+L+M = 2500+1500+2000+1500 = Rs 7500.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2986,7 +2986,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Upstream speed = 8 km/h. uv = 4a = 8 ⇒ a = 2. Downstream speed = u+v = 6a = 12 km/h. X = 12 × 12 = 144 km.",
+    "explanation": "$Upstream speed = 8 km/h. uv = 4a = 8 ⇒ a = 2. Downstream speed = u+v = 6a = 12 km/h. X = 12 × 12 = 144 km.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3046,7 +3046,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Males A+C = 14 + 36 = 50. Females B+D = (4420) + (6428) = 24 + 36 = 60. Percentage less = \\frac{10}-{60} 100 = 16.67%.",
+    "explanation": "$Males A+C = 14 + 36 = 50. Females B+D = (4420) + (6428) = 24 + 36 = 60. Percentage less = \\frac{10}{60} 100 = 16.67\\%.$",
     "question_image": "rrb_po_prelims_paper2_q51-55.png",
     "option_images": [
       "",
@@ -3106,7 +3106,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Females in D = 36. Females in X = 1.75 × 36 = 63. Total X = 3 × 44 = 132 ⇒ Males X = 132 × 63 = 69. Males A = 14. Difference = 69 × 14 = 55.",
+    "explanation": "$Females in D = 36. Females in X = 1.75 × 36 = 63. Total X = 3 × 44 = 132 ⇒ Males X = 132 × 63 = 69. Males A = 14. Difference = 69 × 14 = 55.$",
     "question_image": "rrb_po_prelims_paper2_q51-55.png",
     "option_images": [
       "",
@@ -3134,8 +3134,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55): Read the following bar graph carefully and answer the questions given below.\nThe bar graph shows total number of males and females together in four different cities and the number of males in these cities.\n-\nBar Graph Q53. In city B, \\frac{3}-{4}th of the total number of males owned car and total number of females who did not own car is twice that of males who did not own car. Find the number males and females together who owned cars are how many more or less than those who did not owned car.",
-    "q": "Directions (51-55): Read the following bar graph carefully and answer the questions given below.\nThe bar graph shows total number of males and females together in four different cities and the number of males in these cities.\n-\nBar Graph Q53. In city B, \\frac{3}-{4}th of the total number of males owned car and total number of females who did not own car is twice that of males who did not own car. Find the number males and females together who owned cars are how many more or less than those who did not owned car.",
+    "question": "Directions (51-55): Read the following bar graph carefully and answer the questions given below.\nThe bar graph shows total number of males and females together in four different cities and the number of males in these cities.\n-\nBar Graph Q53. In city B, \\frac{3}{4}th of the total number of males owned car and total number of females who did not own car is twice that of males who did not own car. Find the number males and females together who owned cars are how many more or less than those who did not owned car.",
+    "q": "Directions (51-55): Read the following bar graph carefully and answer the questions given below.\nThe bar graph shows total number of males and females together in four different cities and the number of males in these cities.\n-\nBar Graph Q53. In city B, \\frac{3}{4}th of the total number of males owned car and total number of females who did not own car is twice that of males who did not own car. Find the number males and females together who owned cars are how many more or less than those who did not owned car.",
     "options": [
       {
         "id": "a",
@@ -3166,7 +3166,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Males B = 20. Males owned = 15. Males not owned = 5. Females B = 24. Females not owned = 2 × 5 = 10. Females owned = 14. Total owned = 29, Total not owned = 15. Difference = 14.",
+    "explanation": "$Males B = 20. Males owned = 15. Males not owned = 5. Females B = 24. Females not owned = 2 × 5 = 10. Females owned = 14. Total owned = 29, Total not owned = 15. Difference = 14.$",
     "question_image": "rrb_po_prelims_paper2_q51-55.png",
     "option_images": [
       "",
@@ -3226,7 +3226,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Females in A = 42 - 22 = 20. Females in B = 36 - 20 = 16. Females in C = 50 - 22 = 28. Sum = 20 + 16 + 28 = 64.",
+    "explanation": "$Females in A = 42 - 22 = 20. Females in B = 36 - 20 = 16. Females in C = 50 - 22 = 28. Sum = 20 + 16 + 28 = 64.$",
     "question_image": "rrb_po_prelims_paper2_q51-55.png",
     "option_images": [
       "",
@@ -3286,7 +3286,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Females A+B = 22 + 24 = 46. Total C = 56. Ratio = 46:56 = 23:28.",
+    "explanation": "$Females A+B = 22 + 24 = 46. Total C = 56. Ratio = 46:56 = 23:28.$",
     "question_image": "rrb_po_prelims_paper2_q51-55.png",
     "option_images": [
       "",
@@ -3346,7 +3346,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "B A = 15. (A+4) ÷ (B+4) = \\frac{8}-{13} ⇒ 13A + 52 = 8(A+19) + 32 ⇒ 5A = 100 ⇒ A = 20. B = 35. Sum = 55.",
+    "explanation": "$B A = 15. (A+4) ÷ (B+4) = \\frac{8}{13} ⇒ 13A + 52 = 8(A+19) + 32 ⇒ 5A = 100 ⇒ A = 20. B = 35. Sum = 55.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3406,7 +3406,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Initial Milk = 8a, Water = a. After removing 27L: Milk remaining = 8a 24 = 16 ⇒ 8a = 40 ⇒ a = 5. Initial water = 5 liters.",
+    "explanation": "$Initial Milk = 8a, Water = a. After removing 27L: Milk remaining = 8a 24 = 16 ⇒ 8a = 40 ⇒ a = 5. Initial water = 5 liters.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3466,7 +3466,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Profit share A:B = 1800:1600 = 9:8. (1800*9) ÷ ((x1800)*12) = \\frac{9}-{8} ⇒ 150/(x1800) = \\frac{1}-{8} ⇒ x1800 = 1200 ⇒ x = 3000.",
+    "explanation": "$Profit share A:B = 1800:1600 = 9:8. (1800*9) ÷ ((x1800)*12) = \\frac{9}{8} ⇒ 150/(x1800) = \\frac{1}{8} ⇒ x1800 = 1200 ⇒ x = 3000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3526,7 +3526,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Initial weight = 3024. New weight (58 students) = 58 × 57 = 3306. Weight of 10 new = 282 ⇒ average = 28.2 kg.",
+    "explanation": "$Initial weight = 3024. New weight (58 students) = 58 × 57 = 3306. Weight \\text{ of } 10 new = 282 ⇒ average = 28.2 kg.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3646,7 +3646,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: adding multiples of 9: -+9, +18, +27, +36, +45, +54. 21 + 9 = 30. Thus 28 is wrong.",
+    "explanation": "$Pattern: adding multiples \\text{ of } 9: -+9, +18, +27, +36, +45, +54. 21 + 9 = 30. Thus 28 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3706,7 +3706,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Double differences are consecutive squares: -+14(-+9), +23(-+16), +39(-+25), +64(-+36), +100(-+49). 349 + 149 = 498. Thus 488 is wrong.",
+    "explanation": "$Double differences are consecutive squares: -+14(-+9), +23(-+16), +39(-+25), +64(-+36), +100(-+49). 349 + 149 = 498. Thus 488 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3766,7 +3766,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: Subtracting consecutive cubes: 8³-, 7³-, 6³-, 5³-, 4³-, 3³-. 448 × 27 = 421. Thus 444 is wrong.",
+    "explanation": "$Pattern: Subtracting consecutive cubes: 8^3-, 7^3-, 6^3-, 5^3-, 4^3-, 3^3-. 448 × 27 = 421. Thus 444 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3826,7 +3826,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: alternate 23, +25, 27, +29, 31, +33. 175 × 23 = 152. Thus the first 150 is wrong.",
+    "explanation": "$Pattern: alternate 23, +25, 27, +29, 31, +33. 175 × 23 = 152. Thus the first 150 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3854,8 +3854,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ65. I. 2x²- -–- 13x + 20 -=- 0\nII. 3y²- -–- 16y + 21 -=- 0",
-    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ65. I. 2x²- -–- 13x + 20 -=- 0\nII. 3y²- -–- 16y + 21 -=- 0",
+    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ65. I. $2x^2-  -  13x + 20  =  0$\nII. $3y^2-  -  16y + 21  =  0$",
+    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ65. I. $2x^2-  -  13x + 20  =  0$\nII. $3y^2-  -  16y + 21  =  0$",
     "options": [
       {
         "id": "a",
@@ -3886,7 +3886,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x = 2.5, 4. II: y = 2.33, 3. Since x=4 ->- y and x=2.5 -<- y, no relation can be established.",
+    "explanation": "$I: x = 2.5, 4. II: y = 2.33, 3. Since x=4 ->- y and x=2.5 -<- y, no relation can be established.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3914,8 +3914,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ66. I. 5x²- -–- 32x + 35 -=- 0\nII. 4y²- + 17y + 18 -=- 0",
-    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ66. I. 5x²- -–- 32x + 35 -=- 0\nII. 4y²- + 17y + 18 -=- 0",
+    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ66. I. $5x^2-  -  32x + 35  =  0$\nII. $4y^2- + 17y + 18  =  0$",
+    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ66. I. $5x^2-  -  32x + 35  =  0$\nII. $4y^2- + 17y + 18  =  0$",
     "options": [
       {
         "id": "a",
@@ -3946,7 +3946,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x = 1.4, 5. II: y = 2.25, 2. Since all x are positive and all y are negative, x ->- y.",
+    "explanation": "$I: x = 1.4, 5. II: y = 2.25, 2. Since all x are positive and all y are negative, x ->- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3974,8 +3974,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ67. I. x²- -–- 34x + 285 -=- 0\nII. y²- -–- 40y + 399 -=- 0",
-    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ67. I. x²- -–- 34x + 285 -=- 0\nII. y²- -–- 40y + 399 -=- 0",
+    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ67. I. $x^2-  -  34x + 285  =  0$\nII. $y^2-  -  40y + 399  =  0$",
+    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ67. I. $x^2-  -  34x + 285  =  0$\nII. $y^2-  -  40y + 399  =  0$",
     "options": [
       {
         "id": "a",
@@ -4006,7 +4006,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x = 15, 19. II: y = 19, 21. Comparing values shows x -≤- y.",
+    "explanation": "$I: x = 15, 19. II: y = 19, 21. Comparing values shows x -≤- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4034,8 +4034,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ68. I. x²- -–- 16x + 63 -=- 0\nII. y²- -–- 13y + 42 -=- 0",
-    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ68. I. x²- -–- 16x + 63 -=- 0\nII. y²- -–- 13y + 42 -=- 0",
+    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ68. I. $x^2-  -  16x + 63  =  0$\nII. $y^2-  -  13y + 42  =  0$",
+    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ68. I. $x^2-  -  16x + 63  =  0$\nII. $y^2-  -  13y + 42  =  0$",
     "options": [
       {
         "id": "a",
@@ -4066,7 +4066,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x = 7, 9. II: y = 6, 7. Comparing values shows x -≥- y.",
+    "explanation": "$I: x = 7, 9. II: y = 6, 7. Comparing values shows x -≥- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4094,8 +4094,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ69. I. x²- -×- 4 -=- 64\nII. y³- -=- 216",
-    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n(e) If x -=- y or no relation can be established between x and y.\n-\nQ69. I. x²- -×- 4 -=- 64\nII. y³- -=- 216",
+    "question": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ69. I. $x^2-  *  4  =  64$\nII. $y^3-  =  216$",
+    "q": "Directions (6569): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer: \n(a) If x>y\n(b) If x≥y\n(c) If x<y\n(d) If x≤y\n$(e) If x  =  y or no relation can be established between x and y.$\n-\nQ69. I. $x^2-  *  4  =  64$\nII. $y^3-  =  216$",
     "options": [
       {
         "id": "a",
@@ -4126,7 +4126,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x²- = 16 ⇒ x = -±4. II: y = 6. Comparing values: x -<- y.",
+    "explanation": "$I: x^2- = 16 ⇒ x = -±4. II: y = 6. Comparing values: x -<- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4154,8 +4154,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ70. 14.98% of 240 -–- 20.01% of 60 -=- -√-?",
-    "q": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ70. 14.98% of 240 -–- 20.01% of 60 -=- -√-?",
+    "question": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ70. $14.98\\% \\text{ of } 240  -  20.01\\% \\text{ of } 60  =  -\\sqrt-?$",
+    "q": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ70. $14.98\\% \\text{ of } 240  -  20.01\\% \\text{ of } 60  =  -\\sqrt-?$",
     "options": [
       {
         "id": "a",
@@ -4186,7 +4186,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: 15% of 240 20% of 60 = 36 × 12 = 24. 24 = -√-?- ⇒ -?- = 576.",
+    "explanation": "$Approximate calculation: 15\\% \\text{ of } 240 20\\% \\text{ of } 60 = 36 × 12 = 24. 24 = -\\sqrt? ⇒ ? = 576.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4214,8 +4214,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ71. 24.\\frac{12}-{2}.99 + -√15 -=-?-×- 1.9",
-    "q": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ71. 24.\\frac{12}-{2}.99 + -√15 -=-?-×- 1.9",
+    "question": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ71. $24.\\frac{12}{2}.99 + -\\sqrt15  = ? *  1.9$",
+    "q": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ71. $24.\\frac{12}{2}.99 + -\\sqrt15  = ? *  1.9$",
     "options": [
       {
         "id": "a",
@@ -4246,7 +4246,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: \\frac{24}-{3} + 4 = -?- 2 ⇒ 12 = 2 -?- ⇒ -?- = 6.",
+    "explanation": "$Approximate calculation: \\frac{24}{3} + 4 = ? 2 ⇒ 12 = 2 ? ⇒ ? = 6.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4274,8 +4274,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ72. sqrt(19.12 -× 45.01 -–- 14.01)- -=- -?- -–- 23.33",
-    "q": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ72. sqrt(19.12 -× 45.01 -–- 14.01)- -=- -?- -–- 23.33",
+    "question": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ72. $\\sqrt{19.12 -× 45.01  -  14.01} =  ?  -  23.33$",
+    "q": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ72. $\\sqrt{19.12 -× 45.01  -  14.01} =  ?  -  23.33$",
     "options": [
       {
         "id": "a",
@@ -4306,7 +4306,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: sqrt(19 45 14) = sqrt(855 14) = sqrt(841) = 29. 29 = -?- 23 ⇒ -?- = 52.",
+    "explanation": "$Approximate calculation: \\sqrt{19 45 14} = \\sqrt{855 14} = \\sqrt{841} = 29. 29 = ? 23 ⇒ ? = 52.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4334,8 +4334,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ73. 850.13 + 120.12 -–- 12.02²- -=- -?- -–- 3.1³",
-    "q": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ73. 850.13 + 120.12 -–- 12.02²- -=- -?- -–- 3.1³",
+    "question": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ73. $850.13 + 120.12  -  12.02^2-  =  ?  -  3.1^3$",
+    "q": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ73. $850.13 + 120.12  -  12.02^2-  =  ?  -  3.1^3$",
     "options": [
       {
         "id": "a",
@@ -4366,7 +4366,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: 850 + 120 144 = -?- 27 ⇒ 826 = -?- 27 ⇒ -?- = 853.",
+    "explanation": "$Approximate calculation: 850 + 120 144 = ? 27 ⇒ 826 = ? 27 ⇒ ? = 853.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4394,8 +4394,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ74. 195.\\frac{1}-{4}.99 -× 450.\\frac{1}-{15}.02 -=-?-×- 4.99",
-    "q": "Directions (7074): What approximate value will come in place of question mark (-?-) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ74. 195.\\frac{1}-{4}.99 -× 450.\\frac{1}-{15}.02 -=-?-×- 4.99",
+    "question": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ74. $195.\\frac{1}{4}.99 -× 450.\\frac{1}{15}.02  = ? *  4.99$",
+    "q": "Directions (7074): What approximate value will come in place of question mark (?) in the following questions?- (You are not expected to calculate the exact value)\n-\nQ74. $195.\\frac{1}{4}.99 -× 450.\\frac{1}{15}.02  = ? *  4.99$",
     "options": [
       {
         "id": "a",
@@ -4426,7 +4426,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Approximate calculation: \\frac{195}-{5} \\frac{450}-{15} = -?- 5 ⇒ 39 × 30 = 5 -?- ⇒ 1170 = 5 -?- ⇒ -?- = 234.",
+    "explanation": "$Approximate calculation: \\frac{195}{5} \\frac{450}{15} = ? 5 ⇒ 39 × 30 = 5 ? ⇒ 1170 = 5 ? ⇒ ? = 234.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4486,7 +4486,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Investment ratio A:B is calculated by: 121x ÷ 144(20000x) = \\frac{11}-{16} ⇒ 11x = 180000 9x ⇒ 20x = 180000 ⇒ x = 9000 (invested in A). Scheme B investment = 20000 9000 = Rs 11000.",
+    "explanation": "$Investment ratio A:B is calculated by: 121x ÷ 144(20000x) = \\frac{11}{16} ⇒ 11x = 180000 9x ⇒ 20x = 180000 ⇒ x = 9000 (invested in A). Scheme B investment = 20000 9000 = Rs 11000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4546,7 +4546,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let males = 2x, 3x. Females = 3y, 4y. 2x + 4y = 160 ⇒ x + 2y = 80. 5x 7y = 60 ⇒ 5(802y) 7y = 60 ⇒ 17y = 340 ⇒ y = 20. x = 40. Males in school B = 3x = 120.",
+    "explanation": "$Let males = 2x, 3x. Females = 3y, 4y. 2x + 4y = 160 ⇒ x + 2y = 80. 5x 7y = 60 ⇒ 5(802y) 7y = 60 ⇒ 17y = 340 ⇒ y = 20. x = 40. Males in school B = 3x = 120.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4606,7 +4606,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "P + P 0.05 × 8 = 1.40P = 2240 ⇒ P = 1600. First case interest = 1600 R 2 ÷ 100 = 32R = 320 ⇒ R = 10%.",
+    "explanation": "$P + P 0.05 × 8 = 1.40P = 2240 ⇒ P = 1600. First case interest = 1600 R 2 ÷ 100 = 32R = 320 ⇒ R = 10\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4634,8 +4634,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The cost price of article A is equals to selling price of the article B. If article A is sold at the 33 -\\frac{1}-{3}-\\-% profit and article B is sold at the 50% profit and the sum of the cost price of article B and selling price of article A is Rs. 672, then find the cost price of article A?",
-    "q": "The cost price of article A is equals to selling price of the article B. If article A is sold at the 33 -\\frac{1}-{3}-\\-% profit and article B is sold at the 50% profit and the sum of the cost price of article B and selling price of article A is Rs. 672, then find the cost price of article A?",
+    "question": "The cost price of article A is equals to selling price of the article B. If article A is sold at the 33 -\\frac{1}{3}-\\-% profit and article B is sold at the 50% profit and the sum of the cost price of article B and selling price of article A is Rs. 672, then find the cost price of article A?",
+    "q": "The cost price of article A is equals to selling price of the article B. If article A is sold at the 33 -\\frac{1}{3}-\\-% profit and article B is sold at the 50% profit and the sum of the cost price of article B and selling price of article A is Rs. 672, then find the cost price of article A?",
     "options": [
       {
         "id": "a",
@@ -4666,7 +4666,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "CP(A) = SP(B) = Y. SP(A) = \\frac{4}-{3} Y. CP(B) = Y/1.5 = \\frac{2}-{3} Y. CP(B) + SP(A) = \\frac{2}-{3}*Y + \\frac{4}-{3}*Y = 2Y = 672 ⇒ Y = 336. CP of A = Rs 336.",
+    "explanation": "$CP(A) = SP(B) = Y. SP(A) = \\frac{4}{3} Y. CP(B) = Y/1.5 = \\frac{2}{3} Y. CP(B) + SP(A) = \\frac{2}{3}*Y + \\frac{4}{3}*Y = 2Y = 672 ⇒ Y = 336. CP \\text{ of } A = Rs 336.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4726,7 +4726,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Area of rectangle = 2048 = \\frac{1}-{2} a²- ⇒ a = 64 m. Hypotenuse = 64√2. Radius r = \\frac{1}-{8} 64√2 = 8√2. Total surface area of sphere = 4πr²- = 4π- 128 = 512π- m²-.",
+    "explanation": "$Area \\text{ of } rectangle = 2048 = \\frac{1}{2} a^2- ⇒ a = 64 m. Hypotenuse = 64\\sqrt2. Radius r = \\frac{1}{8} 64\\sqrt2 = 8\\sqrt2. Total surface area \\text{ of } sphere = 4πr^2- = 4π- 128 = 512π- m^2-.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4786,7 +4786,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Speed B = \\frac{600}-{24} = 25 m/s. Rel speed = 25 S_A = (450+L_A)/160. Platform A: S_A = (L_A+230)/29. Solving: S_A = 20 m/s, L_A = 350 m. Bridge time = (350+50)/20 = 20 seconds.",
+    "explanation": "$Speed B = \\frac{600}{24} = 25 m/s. Rel speed = 25 S_A = (450+L_A)/160. Platform A: S_A = (L_A+230)/29. Solving: S_A = 20 m/s, L_A = 350 m. Bridge time = (350+50)/20 = 20 seconds.$",
     "question_image": "",
     "option_images": [
       "",

@@ -254,8 +254,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Which of the following would replace -%- and -#- respectively in the following expression so that T -≤- P, P>F holds true?-\nM -<- S -%- T -≥- E -=- D;- P -≥- S -#- L -=- C ->- F",
-    "q": "Which of the following would replace -%- and -#- respectively in the following expression so that T -≤- P, P>F holds true?-\nM -<- S -%- T -≥- E -=- D;- P -≥- S -#- L -=- C ->- F",
+    "question": "Which of the following would replace -%- and -#- respectively in the following expression so that T -≤- P, P>F holds true?-\n$M -<- S -\\%- T -≥- E  =  D;- P -≥- S -#- L  =  C ->- F$",
+    "q": "Which of the following would replace -%- and -#- respectively in the following expression so that T -≤- P, P>F holds true?-\n$M -<- S -\\%- T -≥- E  =  D;- P -≥- S -#- L  =  C ->- F$",
     "options": [
       {
         "id": "a",
@@ -274,7 +274,7 @@
       },
       {
         "id": "d",
-        "text": ">-,- -=",
+        "text": "$>-,- -=$",
         "image": null
       },
       {
@@ -286,7 +286,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Replacing -%- with -≥- and -#- with ->- gives: T -≤- S -≤- P ⇒ T -≤- P (holds true) and P -≥- S ->- L = C ->- F ⇒ P ->- F (holds true).",
+    "explanation": "$Replacing -\\%- with -≥- and -#- with ->- gives: T -≤- S -≤- P ⇒ T -≤- P (holds true) and P -≥- S ->- L = C ->- F ⇒ P ->- F (holds true).$",
     "question_image": "",
     "option_images": [
       "",
@@ -346,7 +346,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Codes: \n farmers = le\n union = ae\n continue = ue\n protest = me\n need = te\n by = de\n complete = ge\n good = ce\n get/chance = ye/we\nFor 'good way complete': good=ce, complete=ge, way = new code (pe). Thus, 'pe ce ge' is possible.",
+    "explanation": "Codes: \n$farmers = le$\n$union = ae$\n$continue = ue$\n protest = me\n need = te\n$by = de$\n$complete = ge$\n$good = ce$\n$get/chance = ye/we$\n$For 'good way complete': good=ce, complete=ge, way = new code (pe). Thus, 'pe ce ge' is possible.$",
     "question_image": "",
     "option_images": [
       "",
@@ -586,7 +586,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Union=ae, continue=ue. Thus 'give' must be 're'.",
+    "explanation": "$Union=ae, continue=ue. Thus 'give' must be 're'.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1034,8 +1034,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Statements: U ->- T ->- M ->- X -=- S, T -≥- Z ->- N\nConclusions: \nI. N ->- X\nII. N -<- U",
-    "q": "Statements: U ->- T ->- M ->- X -=- S, T -≥- Z ->- N\nConclusions: \nI. N ->- X\nII. N -<- U",
+    "question": "$Statements: U ->- T ->- M ->- X  =  S, T -≥- Z ->- N$\nConclusions: \nI. N ->- X\nII. N -<- U",
+    "q": "$Statements: U ->- T ->- M ->- X  =  S, T -≥- Z ->- N$\nConclusions: \nI. N ->- X\nII. N -<- U",
     "options": [
       {
         "id": "a",
@@ -1274,8 +1274,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (2124) -: In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n-\nQ22. Statements: \nAll Cinema are Mean.\nSome Mean are Time.\nNo 3D is Time.\nConclusions: \nI. Some Mean are not 3D.\nII. Some Cinema can be Time",
-    "q": "Directions (2124) -: In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n-\nQ22. Statements: \nAll Cinema are Mean.\nSome Mean are Time.\nNo 3D is Time.\nConclusions: \nI. Some Mean are not 3D.\nII. Some Cinema can be Time",
+    "question": "Directions (2124) -: In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n-\nQ22. Statements: \nAll Cinema are Mean.\nSome Mean are Time.\nNo 3D is Time.\nConclusions: \nI. Some Mean are not 3D.\nII. $Some Cinema can be Time$",
+    "q": "Directions (2124) -: In each of the questions below are given some statements followed by some conclusions. You have to take the given statements to be true even if they seem to be at variance with commonly known facts. Read all the conclusions and then decide which of the given conclusions logically follows from the given statements disregarding commonly known facts.\n-\nQ22. Statements: \nAll Cinema are Mean.\nSome Mean are Time.\nNo 3D is Time.\nConclusions: \nI. Some Mean are not 3D.\nII. $Some Cinema can be Time$",
     "options": [
       {
         "id": "a",
@@ -1786,7 +1786,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Coordinates: B=(0,0), A=(7,0), X=(7,8), D=(3,8), Z=(3,4), P=(0,4). Point B is Northwest of Point Z.",
+    "explanation": "$Coordinates: B=(0,0), A=(7,0), X=(7,8), D=(3,8), Z=(3,4), P=(0,4). Point B is Northwest \\text{ of } Point Z.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1846,7 +1846,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Shortest distance BP = sqrt((00)^2 + (0 (4))^2) = 4m.",
+    "explanation": "$Shortest distance BP = sqrt((00)^2 + (0 (4))^2) = 4m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2446,7 +2446,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Let A's efficiency = 5 units/day ⇒ Total work = 90. B's efficiency = 8. B+C efficiency = \\frac{90}-{6} = 15. Thus C's efficiency = 7. Required days for C = \\frac{90}-{7} = 12_\\frac{6}-{7} days.",
+    "explanation": "$Let A's efficiency = 5 units/day ⇒ Total work = 90. B's efficiency = 8. B+C efficiency = \\frac{90}{6} = 15. Thus C's efficiency = 7. Required days for C = \\frac{90}{7} = 12_\\frac{6}{7} days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2506,7 +2506,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "d/(3.5 y) = 2.5 d/(3.5 + y) ⇒ 5X 5Y = 2X + 2Y ⇒ 3X = 7Y ⇒ Y = \\frac{3}-{2} km/hr.",
+    "explanation": "$d/(3.5 y) = 2.5 d/(3.5 + y) ⇒ 5X 5Y = 2X + 2Y ⇒ 3X = 7Y ⇒ Y = \\frac{3}{2} km/hr.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2566,7 +2566,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Profit ratio Manoj -: Nilu = 1:2. (P 8) ÷ (6000 12) = \\frac{1}-{2} ⇒ P = Rs 4500.",
+    "explanation": "$Profit ratio Manoj -: Nilu = 1:2. (P 8) ÷ (6000 12) = \\frac{1}{2} ⇒ P = Rs 4500.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2626,7 +2626,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let B = n years, A = n + 3. (n+2) ÷ (n+5) = \\frac{4}-{5} ⇒ n = 10. A = 13, B = 10. After 4 years, ages are 17 and 14. Average = 15.5 years.",
+    "explanation": "$Let B = n years, A = n + 3. (n+2) ÷ (n+5) = \\frac{4}{5} ⇒ n = 10. A = 13, B = 10. After 4 years, ages are 17 and 14. Average = 15.5 years.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2686,7 +2686,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Length of train 1 = 180 \\frac{5}-{18} 36 = 1800m. Relative speed = 50 + 30 = 80 m/s. Required time = (1800 + 1200)/80 = 37.5 seconds.",
+    "explanation": "$Length \\text{ of } train 1 = 180 \\frac{5}{18} 36 = 1800m. Relative speed = 50 + 30 = 80 m/s. Required time = (1800 + 1200)/80 = 37.5 seconds.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2714,8 +2714,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ46. 17.97% of 649.9 -−- 8.02% of 1149.99 -=- -?-^2",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ46. 17.97% of 649.9 -−- 8.02% of 1149.99 -=- -?-^2",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ46. $17.97\\% \\text{ of } 649.9  -  8.02\\% \\text{ of } 1149.99  =  ?^2$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ46. $17.97\\% \\text{ of } 649.9  -  8.02\\% \\text{ of } 1149.99  =  ?^2$",
     "options": [
       {
         "id": "a",
@@ -2746,7 +2746,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "18% of 650 8% of 1150 = 117 × 92 = 25 ⇒ -?-^2 = 25 ⇒ -?- = 5.",
+    "explanation": "$18\\% \\text{ of } 650 8\\% \\text{ of } 1150 = 117 × 92 = 25 ⇒ ?^2 = 25 ⇒ ? = 5.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2774,8 +2774,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "(-?- -−- 7.97)-/-(12.04 + 8.02) -× -(5.997)^2 -=- 72",
-    "q": "(-?- -−- 7.97)-/-(12.04 + 8.02) -× -(5.997)^2 -=- 72",
+    "question": "$(?  -  7.97) / (12.04 + 8.02) -× -(5.997)^2  =  72$",
+    "q": "$(?  -  7.97) / (12.04 + 8.02) -× -(5.997)^2  =  72$",
     "options": [
       {
         "id": "a",
@@ -2806,7 +2806,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "(-?- 8)/20 × 36 = 72 ⇒ -?- 8 = 40 ⇒ -?- = 48.",
+    "explanation": "$(? 8)/20 × 36 = 72 ⇒ ? 8 = 40 ⇒ ? = 48.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2834,8 +2834,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "30.08% of \\frac{4}-{7} th of \\frac{1}-{8} th of 419.91 -=- -?",
-    "q": "30.08% of \\frac{4}-{7} th of \\frac{1}-{8} th of 419.91 -=- -?",
+    "question": "$30.08\\% \\text{ of } \\frac{4}{7} th \\text{ of } \\frac{1}{8} th \\text{ of } 419.91  =  -?$",
+    "q": "$30.08\\% \\text{ of } \\frac{4}{7} th \\text{ of } \\frac{1}{8} th \\text{ of } 419.91  =  -?$",
     "options": [
       {
         "id": "a",
@@ -2866,7 +2866,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "30% of \\frac{4}-{7} \\frac{1}-{8} 420 = 0.3 × 30 = 9.",
+    "explanation": "$30\\% \\text{ of } \\frac{4}{7} \\frac{1}{8} 420 = 0.3 × 30 = 9.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2894,8 +2894,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "719.97 -÷ 80.02 -÷ 60.07 -× 119.97 -=- -?",
-    "q": "719.97 -÷ 80.02 -÷ 60.07 -× 119.97 -=- -?",
+    "question": "$719.97 -÷ 80.02 -÷ 60.07 -× 119.97  =  -?$",
+    "q": "$719.97 -÷ 80.02 -÷ 60.07 -× 119.97  =  -?$",
     "options": [
       {
         "id": "a",
@@ -2954,8 +2954,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "899.9 -× 25.02 -÷ 36.01 -=- -(-?- + 17.01)^2",
-    "q": "899.9 -× 25.02 -÷ 36.01 -=- -(-?- + 17.01)^2",
+    "question": "$899.9 -× 25.02 -÷ 36.01  =  -(? + 17.01)^2$",
+    "q": "$899.9 -× 25.02 -÷ 36.01  =  -(? + 17.01)^2$",
     "options": [
       {
         "id": "a",
@@ -2986,7 +2986,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "(900 25) ÷ 36 = 625 = (-?- + 17)^2 ⇒ -?- + 17 = 25 ⇒ -?- = 8.",
+    "explanation": "$(900 25) ÷ 36 = 625 = (? + 17)^2 ⇒ ? + 17 = 25 ⇒ ? = 8.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3014,8 +3014,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ51. Find the average number of accidents that are due to motorcycles, Buses and cars?",
-    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ51. Find the average number of accidents that are due to motorcycles, Buses and cars?",
+    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ51. Find the average number of accidents that are due to motorcycles, Buses and cars?",
+    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ51. Find the average number of accidents that are due to motorcycles, Buses and cars?",
     "options": [
       {
         "id": "a",
@@ -3046,7 +3046,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Percentage = (22% + 19% + 18%)/3 = 59%/3. Average accidents = 59% of 24000 ÷ 3 = 4720.",
+    "explanation": "$Percentage = (22\\% + 19\\% + 18\\%)/3 = 59\\%/3. Average accidents = 59\\% \\text{ of } 24000 ÷ 3 = 4720.$",
     "question_image": "rrb_po_prelims_paper10_q51-55.png",
     "option_images": [
       "",
@@ -3074,8 +3074,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ52. Out of the total number of accidents caused by trucks and autos together, the ratio of Death to Injuries is 13:11. Then find the number of injuries caused by these two vehicles.",
-    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ52. Out of the total number of accidents caused by trucks and autos together, the ratio of Death to Injuries is 13:11. Then find the number of injuries caused by these two vehicles.",
+    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ52. Out of the total number of accidents caused by trucks and autos together, the ratio of Death to Injuries is 13:11. Then find the number of injuries caused by these two vehicles.",
+    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ52. Out of the total number of accidents caused by trucks and autos together, the ratio of Death to Injuries is 13:11. Then find the number of injuries caused by these two vehicles.",
     "options": [
       {
         "id": "a",
@@ -3106,7 +3106,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total trucks and autos = 30% of 24000 = 7200. Injuries = \\frac{11}-{24} 7200 = 3300.",
+    "explanation": "$Total trucks and autos = 30\\% \\text{ of } 24000 = 7200. Injuries = \\frac{11}{24} 7200 = 3300.$",
     "question_image": "rrb_po_prelims_paper10_q51-55.png",
     "option_images": [
       "",
@@ -3134,8 +3134,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ53. If in total number of accidents 62 -½- -%- are male. Male accidents due to cars and cycles is 40% of total male accidents, then find the number of female accidents due to cars and cycles together?",
-    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ53. If in total number of accidents 62 -½- -%- are male. Male accidents due to cars and cycles is 40% of total male accidents, then find the number of female accidents due to cars and cycles together?",
+    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ53. If in total number of accidents 62 -\\frac{1}{2}- -%- are male. Male accidents due to cars and cycles is 40% of total male accidents, then find the number of female accidents due to cars and cycles together?",
+    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ53. If in total number of accidents 62 -\\frac{1}{2}- -%- are male. Male accidents due to cars and cycles is 40% of total male accidents, then find the number of female accidents due to cars and cycles together?",
     "options": [
       {
         "id": "a",
@@ -3166,7 +3166,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Total male = 62.5% of 24000 = 15000. Male cars+cycles = 40% of 15000 = 6000. Total cars+cycles = 29% of 24000 = 6960. Female cars+cycles = 6960 × 6000 = 960.",
+    "explanation": "$Total male = 62.5\\% \\text{ of } 24000 = 15000. Male cars+cycles = 40\\% \\text{ of } 15000 = 6000. Total cars+cycles = 29\\% \\text{ of } 24000 = 6960. Female cars+cycles = 6960 × 6000 = 960.$",
     "question_image": "rrb_po_prelims_paper10_q51-55.png",
     "option_images": [
       "",
@@ -3194,8 +3194,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ54. Find the difference of the central angle corresponding to the number of accidents due to motorcycles and autos together and Trucks and cycles together.",
-    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ54. Find the difference of the central angle corresponding to the number of accidents due to motorcycles and autos together and Trucks and cycles together.",
+    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ54. Find the difference of the central angle corresponding to the number of accidents due to motorcycles and autos together and Trucks and cycles together.",
+    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ54. Find the difference of the central angle corresponding to the number of accidents due to motorcycles and autos together and Trucks and cycles together.",
     "options": [
       {
         "id": "a",
@@ -3226,7 +3226,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Motorcycles+Autos = 36%. Trucks+Cycles = 27%. Difference = 9%. Angle = 9% of 360 = 32.4°-.",
+    "explanation": "$Motorcycles+Autos = 36\\%. Trucks+Cycles = 27\\%. Difference = 9\\%. Angle = 9\\% \\text{ of } 360 = 32.4°-.$",
     "question_image": "rrb_po_prelims_paper10_q51-55.png",
     "option_images": [
       "",
@@ -3254,8 +3254,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ55. Out of total accidents, 48% are resulted into spot deaths, which are only 6 -¼- -%- of the total population of city. Then, find the number of female population, if the ratio of male to female is 13:11 in the city.",
-    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\nTotal number of accidents -=- 24,000 (including both male and females)\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ55. Out of total accidents, 48% are resulted into spot deaths, which are only 6 -¼- -%- of the total population of city. Then, find the number of female population, if the ratio of male to female is 13:11 in the city.",
+    "question": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ55. Out of total accidents, 48% are resulted into spot deaths, which are only 6 -\\frac{1}{4}- -%- of the total population of city. Then, find the number of female population, if the ratio of male to female is 13:11 in the city.",
+    "q": "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to various vehicles in a city.\n-\n$Total number \\text{ of } accidents  =  24,000 (including both male and females)$\nVehicle accident percentages: \n Motorcycles: 22%\n Buses: 19%\n Trucks: 16%\n Cars: 18%\n Autos: 14%\n Cycles: 11%\n-\nQ55. Out of total accidents, 48% are resulted into spot deaths, which are only 6 -\\frac{1}{4}- -%- of the total population of city. Then, find the number of female population, if the ratio of male to female is 13:11 in the city.",
     "options": [
       {
         "id": "a",
@@ -3286,7 +3286,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Spot deaths = 48% of 24000 = 11520. City population = 11520 × 16 = 184320. Female population = \\frac{11}-{24} 184320 = 84,480.",
+    "explanation": "$Spot deaths = 48\\% \\text{ of } 24000 = 11520. City population = 11520 × 16 = 184320. Female population = \\frac{11}{24} 184320 = 84,480.$",
     "question_image": "rrb_po_prelims_paper10_q51-55.png",
     "option_images": [
       "",
@@ -3314,8 +3314,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ56. I. x^2 + x -−- 6 -=- 0\nII. y^2 + 7y + 11 -=- -−1",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ56. I. x^2 + x -−- 6 -=- 0\nII. y^2 + 7y + 11 -=- -−1",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ56. I. $x^2 + x  -  6  =  0$\n$II. y^2 + 7y + 11  =  -−1$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ56. I. $x^2 + x  -  6  =  0$\n$II. y^2 + 7y + 11  =  -−1$",
     "options": [
       {
         "id": "a",
@@ -3346,7 +3346,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "I: x = 3, 2. II: y = 3, 4. Comparing gives x -≥- y.",
+    "explanation": "$I: x = 3, 2. II: y = 3, 4. Comparing gives x -≥- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3374,8 +3374,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ57. I. 2x^2 -−- 17x + 35 -=- 0\nII. 4y^2 -−- 19y + 21 -=- 0",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ57. I. 2x^2 -−- 17x + 35 -=- 0\nII. 4y^2 -−- 19y + 21 -=- 0",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ57. I. $2x^2  -  17x + 35  =  0$\nII. $4y^2  -  19y + 21  =  0$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ57. I. $2x^2  -  17x + 35  =  0$\nII. $4y^2  -  19y + 21  =  0$",
     "options": [
       {
         "id": "a",
@@ -3406,7 +3406,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "I: x = 3.5, 5. II: y = 1.75, 3. Thus, x ->- y.",
+    "explanation": "$I: x = 3.5, 5. II: y = 1.75, 3. Thus, x ->- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3434,8 +3434,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ58. I. cube_root(x -−- 512)- -=- 11\nII. y + 353 -=- 13^3",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ58. I. cube_root(x -−- 512)- -=- 11\nII. y + 353 -=- 13^3",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ58. $I. cube_root(x  -  512) =  11$\nII. $y + 353  =  13^3$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ58. $I. cube_root(x  -  512) =  11$\nII. $y + 353  =  13^3$",
     "options": [
       {
         "id": "a",
@@ -3466,7 +3466,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "I: x 512 = 1331 ⇒ x = 1843. II: y = 2197 × 353 = 1844. Thus, x -<- y.",
+    "explanation": "$I: x 512 = 1331 ⇒ x = 1843. II: y = 2197 × 353 = 1844. Thus, x -<- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3494,8 +3494,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ59. I. x^2 + 39x -=- -−380\nII. y^2 + 37y -=- -−342",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ59. I. x^2 + 39x -=- -−380\nII. y^2 + 37y -=- -−342",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ59. $I. x^2 + 39x  =  -−380$\n$II. y^2 + 37y  =  -−342$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ59. $I. x^2 + 39x  =  -−380$\n$II. y^2 + 37y  =  -−342$",
     "options": [
       {
         "id": "a",
@@ -3526,7 +3526,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "I: x = 19, 20. II: y = 18, 19. Comparing gives x -≤- y.",
+    "explanation": "$I: x = 19, 20. II: y = 18, 19. Comparing gives x -≤- y.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3554,8 +3554,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ60. I. x -−- 2/x -=- 2/x\nII. y^2 -−- 2y + 1 -=- 0",
-    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ60. I. x -−- 2/x -=- 2/x\nII. y^2 -−- 2y + 1 -=- 0",
+    "question": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ60. I. $x  -  2/x  =  2/x$\nII. $y^2  -  2y + 1  =  0$",
+    "q": "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you have to solve both the equations and give answer.\n-\nQ60. I. $x  -  2/x  =  2/x$\nII. $y^2  -  2y + 1  =  0$",
     "options": [
       {
         "id": "a",
@@ -3586,7 +3586,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "I: x = -±2. II: y = 1. No relation can be established because -+2 ->- 1 and 2 -<- 1.",
+    "explanation": "$I: x = -±2. II: y = 1. No relation can be established because -+2 ->- 1 and 2 -<- 1.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3646,7 +3646,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Subscribers Table: \n Hockey: Male=12500, Female=20000\n Cricket: Male=15000, Female=19000\n Football: Male=16750, Female=18500\nMale Cricket+Hockey = 27500. Female Football+Cricket = 37500. Diff = 10000.",
+    "explanation": "Subscribers Table: \n$Hockey: Male=12500, Female=20000$\n$Cricket: Male=15000, Female=19000$\n$Football: Male=16750, Female=18500$\n$Male Cricket+Hockey = 27500. Female Football+Cricket = 37500. Diff = 10000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3706,7 +3706,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Male Football = 16750, Male Cricket = 15000. Diff = 1750. Percent = \\frac{1750}-{15000} 100 = 11_\\frac{2}-{3} -%-.",
+    "explanation": "$Male Football = 16750, Male Cricket = 15000. Diff = 1750. Percent = \\frac{1750}{15000} 100 = 11_\\frac{2}{3} -\\%-.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3766,7 +3766,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Average of 12500, 16750, and 15000 = 44250 ÷ 3 = 14750.",
+    "explanation": "$Average \\text{ of } 12500, 16750, and 15000 = 44250 ÷ 3 = 14750.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3826,7 +3826,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Total females H+F+C = 57500. Tennis females = 40% of 57500 = 23000.",
+    "explanation": "$Total females H+F+C = 57500. Tennis females = 40\\% \\text{ of } 57500 = 23000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3886,7 +3886,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Total males = 44250. Total females = 57500. Difference = 13250.",
+    "explanation": "$Total males = 44250. Total females = 57500. Difference = 13250.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3946,7 +3946,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Day2 Shift1+Shift2 = 1800. Shift3 Day1+Day3 = 750 + 900 = 1650. Percentage more = (18001650)/1650 × 100 = 9.09%.",
+    "explanation": "$Day2 Shift1+Shift2 = 1800. Shift3 Day1+Day3 = 750 + 900 = 1650. Percentage more = (18001650)/1650 × 100 = 9.09\\%.$",
     "question_image": "rrb_po_prelims_paper10_q66-70.png",
     "option_images": [
       "",
@@ -4006,7 +4006,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Boys Day4 Shift2 = 60% of 525 = 315. Total Day5 Shift2 = 400. Difference = 85.",
+    "explanation": "$Boys Day4 Shift2 = 60\\% \\text{ of } 525 = 315. Total Day5 Shift2 = 400. Difference = 85.$",
     "question_image": "rrb_po_prelims_paper10_q66-70.png",
     "option_images": [
       "",
@@ -4066,7 +4066,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Total shift3 = 750 + 1050 + 900 + 600 + 800 = 4100. Average = 4100 ÷ 5 = 820.",
+    "explanation": "$Total shift3 = 750 + 1050 + 900 + 600 + 800 = 4100. Average = 4100 ÷ 5 = 820.$",
     "question_image": "rrb_po_prelims_paper10_q66-70.png",
     "option_images": [
       "",
@@ -4126,7 +4126,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Day5 Shift3 cleared = 0.75% of 800 = 6. Day1 Shift1 cleared = 0.4% of 750 = 3. Ratio = 6:3 = 2:1.",
+    "explanation": "$Day5 Shift3 cleared = 0.75\\% \\text{ of } 800 = 6. Day1 Shift1 cleared = 0.4\\% \\text{ of } 750 = 3. Ratio = 6:3 = 2:1.$",
     "question_image": "rrb_po_prelims_paper10_q66-70.png",
     "option_images": [
       "",
@@ -4186,7 +4186,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Required percentage = \\frac{525}-{600} 100 = 87.5%.",
+    "explanation": "$Required percentage = \\frac{525}{600} 100 = 87.5\\%.$",
     "question_image": "rrb_po_prelims_paper10_q66-70.png",
     "option_images": [
       "",
@@ -4246,7 +4246,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "SI = 1440. 1440 = 4000 X%- 3 ⇒ X = 12%. X + 3 = 15.",
+    "explanation": "$SI = 1440. 1440 = 4000 X\\%- 3 ⇒ X = 12\\%. X + 3 = 15.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4274,8 +4274,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle to side of square is 7:6. Find the area of square (in cm²-) -.",
-    "q": "Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle to side of square is 7:6. Find the area of square (in cm²-) -.",
+    "question": "Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle to side of square is 7:6. Find the area of square (in cm^2-) -.",
+    "q": "Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle to side of square is 7:6. Find the area of square (in cm^2-) -.",
     "options": [
       {
         "id": "a",
@@ -4306,7 +4306,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let r = 7x, side = 6x. 2*\\frac{22}-{7}*7x + 4*6x = 44x + 24x = 68x = 204 ⇒ x = 3. Side = 18. Area = 18^2 = 324 cm²-.",
+    "explanation": "$Let r = 7x, side = 6x. 2*\\frac{22}{7}*7x + 4*6x = 44x + 24x = 68x = 204 ⇒ x = 3. Side = 18. Area = 18^2 = 324 cm^2-.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4366,7 +4366,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "1/x + 1/(x+10) = \\frac{1}-{12} ⇒ x^2 14x 120 = 0 ⇒ x = 20. A takes 20 hrs, B takes 30 hrs. \\frac{30}-{20} 100 = 150%.",
+    "explanation": "$1/x + 1/(x+10) = \\frac{1}{12} ⇒ x^2 14x 120 = 0 ⇒ x = 20. A takes 20 hrs, B takes 30 hrs. \\frac{30}{20} 100 = 150\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4426,7 +4426,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Sugar in 80L = 32L. Total final sugar in 200L = 77L. Sugar in 120L = 45L. Water in 120L = 75L. Ratio = 45:75 = 3:5.",
+    "explanation": "$Sugar in 80L = 32L. Total final sugar in 200L = 77L. Sugar in 120L = 45L. Water in 120L = 75L. Ratio = 45:75 = 3:5.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4546,7 +4546,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Pattern: -*4, *5, *6, *7, *8. 1680 × 8 = 13440.",
+    "explanation": "$Pattern: -*4, *5, *6, *7, *8. 1680 × 8 = 13440.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4606,7 +4606,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Pattern: differences are -+5, +10, +15, +20, +25. 51 + 25 = 76.",
+    "explanation": "$Pattern: differences are -+5, +10, +15, +20, +25. 51 + 25 = 76.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4666,7 +4666,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Pattern: -/4, /2, /4, /2, /4. 64 ÷ 4 = 16.",
+    "explanation": "$Pattern: -/4, /2, /4, /2, /4. 64 ÷ 4 = 16.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4726,7 +4726,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Pattern: differences are -+21, +22, +23, +24, +25. 111 + 25 = 136.",
+    "explanation": "$Pattern: differences are -+21, +22, +23, +24, +25. 111 + 25 = 136.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4786,7 +4786,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Pattern is n^3 + 1: 4^3+1, 5^3+1, 6^3+1, 7^3+1, 8^3+1, 9^3+1. 9^3 + 1 = 730.",
+    "explanation": "$Pattern is n^3 + 1: 4^3+1, 5^3+1, 6^3+1, 7^3+1, 8^3+1, 9^3+1. 9^3 + 1 = 730.$",
     "question_image": "",
     "option_images": [
       "",

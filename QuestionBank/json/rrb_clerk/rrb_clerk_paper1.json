@@ -346,7 +346,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Comparing sentences:\n'Farmers'/'Apple' = 'zu'/'kl'\n'today' = 'ne'\nFor 'Farmers sell apple today' (zu kl ne tx), the remaining word 'sell' must be coded as 'tx'.",
+    "explanation": "Comparing sentences:\n$'Farmers'/'Apple' = 'zu'/'kl'$\n$'today' = 'ne'$\nFor 'Farmers sell apple today' (zu kl ne tx), the remaining word 'sell' must be coded as 'tx'.",
     "question_image": "",
     "option_images": [
       "",
@@ -526,7 +526,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "If 'sweet' is coded as 'jy', then from the code 'Taste/Sweet' = 'jy/ab', the code for 'Taste' must be 'ab'.",
+    "explanation": "$If 'sweet' is coded as 'jy', then from the code 'Taste/Sweet' = 'jy/ab', the code for 'Taste' must be 'ab'.$",
     "question_image": "",
     "option_images": [
       "",
@@ -614,8 +614,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ11. Statements: K > R ≥ T = W < J ≤ B = F\nConclusions:\nI. R < J\nII. T ≥ F",
-    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ11. Statements: K > R ≥ T = W < J ≤ B = F\nConclusions:\nI. R < J\nII. T ≥ F",
+    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ11. $Statements: K > R ≥ T = W < J ≤ B = F$\nConclusions:\nI. R < J\nII. T ≥ F",
+    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ11. $Statements: K > R ≥ T = W < J ≤ B = F$\nConclusions:\nI. R < J\nII. T ≥ F",
     "options": [
       {
         "id": "a",
@@ -646,7 +646,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Statement: K > R ≥ T = W < J ≤ B = F\nFor I: R ≥ T = W < J -> relation between R and J cannot be established. (False)\nFor II: T = W < J ≤ B = F -> T < F. Thus, T ≥ F is false. (False)\nNeither conclusion is true.",
+    "explanation": "$Statement: K > R ≥ T = W < J ≤ B = F$\n$For I: R ≥ T = W < J -> relation between R and J cannot be established. (False)$\n$For II: T = W < J ≤ B = F -> T < F. Thus, T ≥ F is false. (False)$\nNeither conclusion is true.",
     "question_image": "",
     "option_images": [
       "",
@@ -674,8 +674,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ12. Statements: Z ≥ K < P = V ≤ R ≤ T < Y\nConclusions:\nI. K < Y\nII. Z > R",
-    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ12. Statements: Z ≥ K < P = V ≤ R ≤ T < Y\nConclusions:\nI. K < Y\nII. Z > R",
+    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ12. $Statements: Z ≥ K < P = V ≤ R ≤ T < Y$\nConclusions:\nI. K < Y\nII. Z > R",
+    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ12. $Statements: Z ≥ K < P = V ≤ R ≤ T < Y$\nConclusions:\nI. K < Y\nII. Z > R",
     "options": [
       {
         "id": "a",
@@ -706,7 +706,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Statement: Z ≥ K < P = V ≤ R ≤ T < Y\nFor I: K < P = V ≤ R ≤ T < Y -> K < Y. (True)\nFor II: Z ≥ K < P = V ≤ R -> relation between Z and R cannot be established. (False)\nOnly conclusion I is true.",
+    "explanation": "$Statement: Z ≥ K < P = V ≤ R ≤ T < Y$\n$For I: K < P = V ≤ R ≤ T < Y -> K < Y. (True)$\n$For II: Z ≥ K < P = V ≤ R -> relation between Z and R cannot be established. (False)$\nOnly conclusion I is true.",
     "question_image": "",
     "option_images": [
       "",
@@ -734,8 +734,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ13. Statements: H = X ≤ L ≤ D < U = S < N\nConclusions:\nI. L < N\nII. D ≥ H",
-    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ13. Statements: H = X ≤ L ≤ D < U = S < N\nConclusions:\nI. L < N\nII. D ≥ H",
+    "question": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ13. $Statements: H = X ≤ L ≤ D < U = S < N$\nConclusions:\nI. L < N\nII. D ≥ H",
+    "q": "Directions (11-13): In the question below, relation between some elements is shown in the statements, followed by two conclusions. Read it carefully and choose which conclusion is true as per the statement.\n(a) If only conclusion I is true\n(b) If only conclusion II is true\n(c) If either conclusion I or II is true\n(d) If both conclusion I and II are true\n(e) If neither conclusion I nor II is true\n\nQ13. $Statements: H = X ≤ L ≤ D < U = S < N$\nConclusions:\nI. L < N\nII. D ≥ H",
     "options": [
       {
         "id": "a",
@@ -766,7 +766,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Statement: H = X ≤ L ≤ D < U = S < N\nFor I: L ≤ D < U = S < N -> L < N. (True)\nFor II: H = X ≤ L ≤ D -> H ≤ D (or D ≥ H). (True)\nBoth conclusions I and II are true.",
+    "explanation": "$Statement: H = X ≤ L ≤ D < U = S < N$\n$For I: L ≤ D < U = S < N -> L < N. (True)$\n$For II: H = X ≤ L ≤ D -> H ≤ D (or D ≥ H). (True)$\nBoth conclusions I and II are true.",
     "question_image": "",
     "option_images": [
       "",
@@ -1186,7 +1186,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "In all groups except ILN, the letter differences are +3 (P+3=S, S+3=V; E+3=H, H+3=K; M+3=P, P+3=S; R+3=U, U+3=X). In ILN, I+3=L, but L+2=N.",
+    "explanation": "$In all groups except ILN, the letter differences are +3 (P+3=S, S+3=V; E+3=H, H+3=K; M+3=P, P+3=S; R+3=U, U+3=X). In ILN, I+3=L, but L+2=N.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1334,8 +1334,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ23. Statements:\nSome play are games\nOnly a few games are indoor\nConclusions:\nI. Some games are not indoor\nII. All play is indoor",
-    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ23. Statements:\nSome play are games\nOnly a few games are indoor\nConclusions:\nI. Some games are not indoor\nII. All play is indoor",
+    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ23. Statements:\nSome play are games\nOnly a few games are indoor\nConclusions:\nI. $Some games are not indoor$\nII. $All play is indoor$",
+    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ23. Statements:\nSome play are games\nOnly a few games are indoor\nConclusions:\nI. $Some games are not indoor$\nII. $All play is indoor$",
     "options": [
       {
         "id": "a",
@@ -1394,8 +1394,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ24. Statements:\nAll apple are fruits\nSome fruits are not banana\nConclusions:\nI. Some banana is definitely not apples\nII. No fruits are banana",
-    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ24. Statements:\nAll apple are fruits\nSome fruits are not banana\nConclusions:\nI. Some banana is definitely not apples\nII. No fruits are banana",
+    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ24. Statements:\nAll apple are fruits\nSome fruits are not banana\nConclusions:\nI. $Some banana is definitely not apples$\nII. $No fruits are banana$",
+    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ24. Statements:\nAll apple are fruits\nSome fruits are not banana\nConclusions:\nI. $Some banana is definitely not apples$\nII. $No fruits are banana$",
     "options": [
       {
         "id": "a",
@@ -1454,8 +1454,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ25. Statements:\nNo pattern is visual\nOnly a few cluster is visual\nConclusions:\nI. Some pattern is cluster\nII. No pattern is cluster",
-    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ25. Statements:\nNo pattern is visual\nOnly a few cluster is visual\nConclusions:\nI. Some pattern is cluster\nII. No pattern is cluster",
+    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ25. Statements:\nNo pattern is visual\nOnly a few cluster is visual\nConclusions:\nI. $Some pattern is cluster$\nII. $No pattern is cluster$",
+    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ25. Statements:\nNo pattern is visual\nOnly a few cluster is visual\nConclusions:\nI. $Some pattern is cluster$\nII. $No pattern is cluster$",
     "options": [
       {
         "id": "a",
@@ -1514,8 +1514,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ26. Statements:\nOnly a few river is blue\nSome blue is ocean\nNo ocean is pond\nConclusions:\nI. Some blue is not pond\nII. No river being pond is a possibility",
-    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ26. Statements:\nOnly a few river is blue\nSome blue is ocean\nNo ocean is pond\nConclusions:\nI. Some blue is not pond\nII. No river being pond is a possibility",
+    "question": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ26. Statements:\nOnly a few river is blue\nSome blue is ocean\nNo ocean is pond\nConclusions:\nI. $Some blue is not pond$\nII. $No river being pond is a possibility$",
+    "q": "Directions (23-26): In each question below, some statements are given followed by two conclusions numbered I and II. Assume the statements are true even if they contradict commonly known facts. Decide which conclusion logically follows.\n(a) Only conclusion I follows\n(b) Only conclusion II follows\n(c) Either conclusion I or II follows\n(d) Neither conclusion I nor II follows\n(e) Both conclusions I and II follow\n\nQ26. Statements:\nOnly a few river is blue\nSome blue is ocean\nNo ocean is pond\nConclusions:\nI. $Some blue is not pond$\nII. $No river being pond is a possibility$",
     "options": [
       {
         "id": "a",
@@ -1726,7 +1726,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Since B is 7 cm and D + B = 16 cm, D = 9 cm. Since D > F > B, the length of F must be between 7 cm and 9 cm. Thus, the only possible height for F is 8 cm.",
+    "explanation": "$Since B is 7 cm and D + B = 16 cm, D = 9 cm. Since D > F > B, the length \\text{ of } F must be between 7 cm and 9 cm. Thus, the only possible height for F is 8 cm.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2354,8 +2354,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSix persons B, C, D, E, F and G were born (but not in same order as given) on different days of a week starting from Monday to Saturday.\nB was born after Thursday. Three persons were born between B and F. Number of persons born before F is same as the number of persons born after C. One person was born between D and E. G was born immediately before E.\n\nQ40. Which of the following statement is correct?\nI. One person was born between F and G\nII. E was born on Thursday\nIII. D was born before F",
-    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSix persons B, C, D, E, F and G were born (but not in same order as given) on different days of a week starting from Monday to Saturday.\nB was born after Thursday. Three persons were born between B and F. Number of persons born before F is same as the number of persons born after C. One person was born between D and E. G was born immediately before E.\n\nQ40. Which of the following statement is correct?\nI. One person was born between F and G\nII. E was born on Thursday\nIII. D was born before F",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSix persons B, C, D, E, F and G were born (but not in same order as given) on different days of a week starting from Monday to Saturday.\nB was born after Thursday. Three persons were born between B and F. Number of persons born before F is same as the number of persons born after C. One person was born between D and E. G was born immediately before E.\n\nQ40. Which of the following statement is correct?\nI. $One person was born between F and G$\nII. $E was born on Thursday$\nIII. D was born before F",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSix persons B, C, D, E, F and G were born (but not in same order as given) on different days of a week starting from Monday to Saturday.\nB was born after Thursday. Three persons were born between B and F. Number of persons born before F is same as the number of persons born after C. One person was born between D and E. G was born immediately before E.\n\nQ40. Which of the following statement is correct?\nI. $One person was born between F and G$\nII. $E was born on Thursday$\nIII. D was born before F",
     "options": [
       {
         "id": "a",
@@ -2446,7 +2446,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Initial Milk = (2/3)*30 = 20 L, Water = (1/3)*30 = 10 L. After adding x L water, ratio is 2:3. So Milk / (Water + x) = 2/3 ⇒ 20 / (10 + x) = 2/3 ⇒ 10 + x = 30 ⇒ x = 20 liters.",
+    "explanation": "$Initial Milk = (2/3)*30 = 20 L, Water = (1/3)*30 = 10 L. After adding x L water, ratio is 2:3. So Milk / (Water + x) = 2/3 ⇒ 20 / (10 + x) = 2/3 ⇒ 10 + x = 30 ⇒ x = 20 liters.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2506,7 +2506,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "P invested Rs 8000 for 12 months. Q invested Rs 6000 for x months.\nRatio of profit of P to Q = (8000 * 12) / (6000 * x) = 16 / x.\nSince Q's share is Rs 2000 out of total Rs 6000, P's share is Rs 4000.\nSo, P's profit : Q's profit = 4000:2000 = 2:1.\nThus, 16 / x = 2/1 ⇒ x = 8.",
+    "explanation": "P invested Rs 8000 for 12 months. Q invested Rs 6000 for x months.\n$Ratio \\text{ of } profit \\text{ of } P to Q = (8000 * 12) / (6000 * x) = 16 / x.$\nSince Q's share is Rs 2000 out of total Rs 6000, P's share is Rs 4000.\nSo, P's profit : Q's profit = 4000:2000 = 2:1.\n$Thus, 16 / x = 2/1 ⇒ x = 8.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2566,7 +2566,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Let present ages of A and B be 4y and 3y. Three years ago: (4y3)/(3y3) = 7/5 ⇒ 5(4y3) = 7(3y3) ⇒ 20y - 15 = 21y - 21 ⇒ y = 6.\nPresent age of A = 4 * 6 = 24 years. Age of A after 4 years = 24 + 4 = 28 years.",
+    "explanation": "$Let present ages \\text{ of } A and B be 4y and 3y. Three years ago: (4y3)/(3y3) = 7/5 ⇒ 5(4y3) = 7(3y3) ⇒ 20y - 15 = 21y - 21 ⇒ y = 6.$\n$Present age \\text{ of } A = 4 * 6 = 24 years. Age \\text{ of } A after 4 years = 24 + 4 = 28 years.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2604,12 +2604,12 @@
       },
       {
         "id": "b",
-        "text": "",
+        "text": "3.5",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "1.5",
         "image": null
       },
       {
@@ -2619,14 +2619,14 @@
       },
       {
         "id": "e",
-        "text": "",
+        "text": "5.5",
         "image": null
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Simple Interest (SI) = (P * R * T) / 100\n2000 = (8000 * 10 * T) / 100 ⇒ 2000 = 800 * T ⇒ T = 2000 / 800 = 2.5 years.",
+    "explanation": "$Simple Interest (SI) = (P * R * T) / 100$\n$2000 = (8000 * 10 * T) / 100 ⇒ 2000 = 800 * T ⇒ T = 2000 / 800 = 2.5 years.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2664,7 +2664,7 @@
       },
       {
         "id": "b",
-        "text": "",
+        "text": "1.5",
         "image": null
       },
       {
@@ -2679,14 +2679,14 @@
       },
       {
         "id": "e",
-        "text": "",
+        "text": "5.5",
         "image": null
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Speed downstream = Boat speed (u) + Stream speed (v) = 18 km/h.\nGiven v = 3 km/h ⇒ u = 15 km/h.\nUpstream speed = u - v = 15-3 = 12 km/h.\nTime taken upstream = Distance / Upstream speed = 30 / 12 = 2.5 hours.",
+    "explanation": "$Speed downstream = Boat speed (u) + Stream speed (v) = 18 km/h.$\n$Given v = 3 km/h ⇒ u = 15 km/h.$\n$Upstream speed = u - v = 15-3 = 12 km/h.$\n$Time taken upstream = Distance / Upstream speed = 30 / 12 = 2.5 hours.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2724,7 +2724,7 @@
       },
       {
         "id": "b",
-        "text": "",
+        "text": "20.5",
         "image": null
       },
       {
@@ -2746,7 +2746,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Speed of train = 180 / 9 = 20 m/s.\nTotal distance to cross the bridge = Train length + Bridge length = 180 + 270 = 450 meters.\nTime taken = 450 / 20 = 22.5 seconds.",
+    "explanation": "$Speed \\text{ of } train = 180 / 9 = 20 m/s.$\n$Total distance to cross the bridge = Train length + Bridge length = 180 + 270 = 450 meters.$\n$Time taken = 450 / 20 = 22.5 seconds.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2806,7 +2806,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Let monthly salary be Rs. x.\nAfter rent: remaining = 75% of x = 0.75x.\nAfter clothes: remaining = 85% of 0.75x = 0.6375x.\nAfter travelling: remaining (savings) = 80% of 0.6375x = 0.51x.\nGiven savings = 6120 ⇒ 0.51x = 6120 ⇒ x = 12,000.",
+    "explanation": "Let monthly salary be Rs. x.\n$After rent: remaining = 75\\% \\text{ of } x = 0.75x.$\n$After clothes: remaining = 85\\% \\text{ of } 0.75x = 0.6375x.$\n$After travelling: remaining (savings) = 80\\% \\text{ of } 0.6375x = 0.51x.$\n$Given savings = 6120 ⇒ 0.51x = 6120 ⇒ x = 12,000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2866,7 +2866,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Amount A = P * (1 + R/100)^t ⇒ 10800 = P * (1 + 20/100)^2 ⇒ 10800 = P * (1.2)^2 ⇒ 10800 = 1.44 * P ⇒ P = 10800 / 1.44 = 7500.",
+    "explanation": "$Amount A = P * (1 + R/100)^t ⇒ 10800 = P * (1 + 20/100)^2 ⇒ 10800 = P * (1.2)^2 ⇒ 10800 = 1.44 * P ⇒ P = 10800 / 1.44 = 7500.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2926,7 +2926,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let Cost Price CP = x. Marked Price MP = 1.4x. Selling Price SP = 1.4x * (1-0.1) = 1.26x.\nProfit = SP - CP = 1.26x - x = 0.26x.\nGiven profit = 104 ⇒ 0.26x = 104 ⇒ x = 400.",
+    "explanation": "$Let Cost Price CP = x. Marked Price MP = 1.4x. Selling Price SP = 1.4x * (1-0.1) = 1.26x.$\n$Profit = SP - CP = 1.26x - x = 0.26x.$\n$Given profit = 104 ⇒ 0.26x = 104 ⇒ x = 400.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2986,7 +2986,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let total work = LCM(12, 20) = 60 units. Efficiency of A + B = 5 units/day. Efficiency of A = 3 units/day.\nEfficiency of B = 5-3 = 2 units/day.\n60% of the work = 36 units. Time taken by B = 36 / 2 = 18 days.",
+    "explanation": "$Let total work = LCM(12, 20) = 60 units. Efficiency \\text{ of } A + B = 5 units/day. Efficiency \\text{ of } A = 3 units/day.$\n$Efficiency \\text{ of } B = 5-3 = 2 units/day.$\n$60\\% \\text{ of } the work = 36 units. Time taken by B = 36 / 2 = 18 days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3019,12 +3019,12 @@
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "34",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "15",
         "image": null
       },
       {
@@ -3034,7 +3034,7 @@
       },
       {
         "id": "d",
-        "text": "",
+        "text": "45",
         "image": null
       },
       {
@@ -3046,7 +3046,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The pattern of the series: 30 * 0.5 = 15, 15 * 1.0 = 15, 15 * 1.5 = 22.5, 22.5 * 2 = 45, 45 * 2.5 = 112.5, 112.5 * 3 = 337.5. Thus, 34 is wrong and should be replaced by 30.",
+    "explanation": "$The pattern \\text{ of } the series: 30 * 0.5 = 15, 15 * 1.0 = 15, 15 * 1.5 = 22.5, 22.5 * 2 = 45, 45 * 2.5 = 112.5, 112.5 * 3 = 337.5. Thus, 34 is wrong and should be replaced by 30.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3106,7 +3106,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The differences are: 56 + 5 = 61 (not 60), 61 + 10 = 71, 71 + 20 = 91, 91 + 40 = 131, 131 + 80 = 211, 211 + 160 = 371. The differences double each time. So, 60 is wrong.",
+    "explanation": "$The differences are: 56 + 5 = 61 (not 60), 61 + 10 = 71, 71 + 20 = 91, 91 + 40 = 131, 131 + 80 = 211, 211 + 160 = 371. The differences double each time. So, 60 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3166,7 +3166,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The differences are a constant +3: 105+3=108, 108+3=111, 111+3=114, 114+3=117, 117+3=120, 120+3=123 (not 122). Thus, 122 is wrong.",
+    "explanation": "$The differences are a constant +3: 105+3=108, 108+3=111, 111+3=114, 114+3=117, 117+3=120, 120+3=123 (not 122). Thus, 122 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3226,7 +3226,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The pattern is: 201-2^2 = 197 (not 199), 197 + 3^2 = 206, 206-4^2 = 190, 190 + 5^2 = 215, 215-6^2 = 179, 179 + 7^2 = 228. Thus, 199 is wrong.",
+    "explanation": "$The pattern is: 201-2^2 = 197 (not 199), 197 + 3^2 = 206, 206-4^2 = 190, 190 + 5^2 = 215, 215-6^2 = 179, 179 + 7^2 = 228. Thus, 199 is wrong.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3286,7 +3286,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The pattern of the series: 3.5 * 2 + 5 = 12 (not 6), 12 * 2 + 4 = 28, 28 * 2 + 3 = 59, 59 * 2 + 2 = 120, 120 * 2 + 1 = 241. So, 6 is the wrong number (should be 3.5).",
+    "explanation": "$The pattern \\text{ of } the series: 3.5 * 2 + 5 = 12 (not 6), 12 * 2 + 4 = 28, 28 * 2 + 3 = 59, 59 * 2 + 2 = 120, 120 * 2 + 1 = 241. So, 6 is the wrong number (should be 3.5).$",
     "question_image": "",
     "option_images": [
       "",
@@ -3346,7 +3346,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Total cars sold = 180 + 150 + 120 + 200 + 50 = 700.\nAverage = 700 / 5 = 140.",
+    "explanation": "$Total cars sold = 180 + 150 + 120 + 200 + 50 = 700.$\n$Average = 700 / 5 = 140.$",
     "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
       "",
@@ -3406,7 +3406,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Cars sold in February = 150. Cars sold in April = 200.\nRequired Percentage = (150 / 200) * 100 = 75%.",
+    "explanation": "$Cars sold in February = 150. Cars sold in April = 200.$\n$Required Percentage = (150 / 200) * 100 = 75\\%.$",
     "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
       "",
@@ -3466,7 +3466,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Cars sold in January = 180. Cars sold in March = 120.\nDifference = 180-120 = 60.",
+    "explanation": "$Cars sold in January = 180. Cars sold in March = 120.$\n$Difference = 180-120 = 60.$",
     "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
       "",
@@ -3526,7 +3526,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Cars in January + March = 180 + 120 = 300.\nCars in February + May = 150 + 50 = 200.\nRatio = 300:200 = 3:2.",
+    "explanation": "$Cars in January + March = 180 + 120 = 300.$\n$Cars in February + May = 150 + 50 = 200.$\n$Ratio = 300:200 = 3:2.$",
     "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
       "",
@@ -3586,7 +3586,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Cars sold in May = 50. Cars sold in February = 150.\nSum = 50 + 150 = 200.",
+    "explanation": "$Cars sold in May = 50. Cars sold in February = 150.$\n$Sum = 50 + 150 = 200.$",
     "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
       "",
@@ -3646,7 +3646,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total blue balls = 210 + 520 + 480 + 360 + 300 = 1870.",
+    "explanation": "$Total blue balls = 210 + 520 + 480 + 360 + 300 = 1870.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3706,7 +3706,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total green balls = 170 + 330 + 260 + 650 + 260 = 1670.\nAverage = 1670 / 5 = 334.",
+    "explanation": "$Total green balls = 170 + 330 + 260 + 650 + 260 = 1670.$\n$Average = 1670 / 5 = 334.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3766,7 +3766,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Blue balls in Bag A = 210. Blue balls in Bag B = 520.\nPercentage = (210 / 520) * 100 = 40.38% ≈ 40%.",
+    "explanation": "$Blue balls in Bag A = 210. Blue balls in Bag B = 520.$\n$Percentage = (210 / 520) * 100 = 40.38\\% ≈ 40\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3826,7 +3826,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "Green balls in Bag D & A together = 650 + 170 = 820.\nBlue balls in Bag C & E together = 480 + 300 = 780.\nDifference = 820-780 = 40.",
+    "explanation": "$Green balls in Bag D & A together = 650 + 170 = 820.$\n$Blue balls in Bag C & E together = 480 + 300 = 780.$\n$Difference = 820-780 = 40.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3886,7 +3886,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Green balls in Bag D = 650.\nPink balls in Bag C = 650 - (20% of 650) = 650-130 = 520.",
+    "explanation": "$Green balls in Bag D = 650.$\n$Pink balls in Bag C = 650 - (20\\% \\text{ of } 650) = 650-130 = 520.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3914,8 +3914,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ66. 4769 – (3267 + 2425 – 961) = ?",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ66. 4769 – (3267 + 2425 – 961) = ?",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ66. $4769 – (3267 + 2425 – 961) = ?$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ66. $4769 – (3267 + 2425 – 961) = ?$",
     "options": [
       {
         "id": "a",
@@ -3946,7 +3946,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "3267 + 2425-961 = 5692-961 = 4731.\n4769-4731 = 38.",
+    "explanation": "$3267 + 2425-961 = 5692-961 = 4731.$\n$4769-4731 = 38.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3974,8 +3974,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ67. 1217 + 841 – 724 + 819 = ? + 1843",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ67. 1217 + 841 – 724 + 819 = ? + 1843",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ67. $1217 + 841 – 724 + 819 = ? + 1843$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ67. $1217 + 841 – 724 + 819 = ? + 1843$",
     "options": [
       {
         "id": "a",
@@ -4006,7 +4006,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "1217 + 841-724 + 819 = 2058-724 + 819 = 1334 + 819 = 2153.\n2153 = ? + 1843 ⇒ ? = 2153-1843 = 310.",
+    "explanation": "$1217 + 841-724 + 819 = 2058-724 + 819 = 1334 + 819 = 2153.$\n$2153 = ? + 1843 ⇒ ? = 2153-1843 = 310.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4034,8 +4034,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ68. 0.06 × 0.84 = ? × 1.2 × 0.015",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ68. 0.06 × 0.84 = ? × 1.2 × 0.015",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ68. $0.06 × 0.84 = ? × 1.2 × 0.015$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ68. $0.06 × 0.84 = ? × 1.2 × 0.015$",
     "options": [
       {
         "id": "a",
@@ -4066,7 +4066,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "0.06 * 0.84 = 0.0504.\n1.2 * 0.015 = 0.018.\n0.0504 = ? * 0.018 ⇒ ? = 0.0504 / 0.018 = 2.8.",
+    "explanation": "$0.06 * 0.84 = 0.0504.$\n$1.2 * 0.015 = 0.018.$\n$0.0504 = ? * 0.018 ⇒ ? = 0.0504 / 0.018 = 2.8.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4094,12 +4094,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ69. 8.41 + 6.25 + 0.79 = ? – 0.55",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ69. 8.41 + 6.25 + 0.79 = ? – 0.55",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ69. $8.41 + 6.25 + 0.79 = ? – 0.55$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ69. $8.41 + 6.25 + 0.79 = ? – 0.55$",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "15.2",
         "image": null
       },
       {
@@ -4114,7 +4114,7 @@
       },
       {
         "id": "d",
-        "text": "",
+        "text": "16",
         "image": null
       },
       {
@@ -4126,7 +4126,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "8.41 + 6.25 + 0.79 = 15.45.\n15.45 = ? - 0.55 ⇒ ? = 15.45 + 0.55 = 16.",
+    "explanation": "$8.41 + 6.25 + 0.79 = 15.45.$\n$15.45 = ? - 0.55 ⇒ ? = 15.45 + 0.55 = 16.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4154,8 +4154,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ70. 616 + 472 – 811 + 317 = ? + 576",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ70. 616 + 472 – 811 + 317 = ? + 576",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ70. $616 + 472 – 811 + 317 = ? + 576$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ70. $616 + 472 – 811 + 317 = ? + 576$",
     "options": [
       {
         "id": "a",
@@ -4186,7 +4186,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "616 + 472-811 + 317 = 1088-811 + 317 = 277 + 317 = 594.\n594 = ? + 576 ⇒ ? = 594-576 = 18.",
+    "explanation": "$616 + 472-811 + 317 = 1088-811 + 317 = 277 + 317 = 594.$\n$594 = ? + 576 ⇒ ? = 594-576 = 18.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4214,8 +4214,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ71. 12.5 × 80 + 37.5 × 16 – 6.25 × 112 = ?",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ71. 12.5 × 80 + 37.5 × 16 – 6.25 × 112 = ?",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ71. $12.5 × 80 + 37.5 × 16 – 6.25 × 112 = ?$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ71. $12.5 × 80 + 37.5 × 16 – 6.25 × 112 = ?$",
     "options": [
       {
         "id": "a",
@@ -4246,7 +4246,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "12.5 * 80 = 1000.\n37.5 * 16 = 600.\n6.25 * 112 = 700.\n? = 1000 + 600-700 = 900.",
+    "explanation": "$12.5 * 80 = 1000.$\n$37.5 * 16 = 600.$\n$6.25 * 112 = 700.$\n$? = 1000 + 600-700 = 900.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4274,8 +4274,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ72. √3025 - √2116 = ?²",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ72. √3025 - √2116 = ?²",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ72. $\\sqrt3025 - \\sqrt2116 = ?^2$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ72. $\\sqrt3025 - \\sqrt2116 = ?^2$",
     "options": [
       {
         "id": "a",
@@ -4306,7 +4306,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "√3025 = 55. √2116 = 46.\n55-46 = 9.\n?^2 = 9 ⇒ ? = 3.",
+    "explanation": "$\\sqrt3025 = 55. \\sqrt2116 = 46.$\n$55-46 = 9.$\n$?^2 = 9 ⇒ ? = 3.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4334,8 +4334,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ73. √?+ √324 + √361 = 1/5th of 290",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ73. √?+ √324 + √361 = 1/5th of 290",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ73. $\\sqrt?+ \\sqrt324 + \\sqrt361 = 1/5th \\text{ of } 290$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ73. $\\sqrt?+ \\sqrt324 + \\sqrt361 = 1/5th \\text{ of } 290$",
     "options": [
       {
         "id": "a",
@@ -4366,7 +4366,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "√324 = 18. √361 = 19.\n1/5th of 290 = 58.\n√? + 18 + 19 = 58 ⇒ √? + 37 = 58 ⇒ √? = 21 ⇒ ? = 21^2 = 441.",
+    "explanation": "$\\sqrt324 = 18. \\sqrt361 = 19.$\n$1/5th \\text{ of } 290 = 58.$\n$\\sqrt? + 18 + 19 = 58 ⇒ \\sqrt? + 37 = 58 ⇒ \\sqrt? = 21 ⇒ ? = 21^2 = 441.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4394,8 +4394,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ74. 1674 ÷ 27 × 9 + 18 = ?²",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ74. 1674 ÷ 27 × 9 + 18 = ?²",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ74. $1674 ÷ 27 × 9 + 18 = ?^2$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ74. $1674 ÷ 27 × 9 + 18 = ?^2$",
     "options": [
       {
         "id": "a",
@@ -4426,7 +4426,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "(1674 / 27) * 9 + 18 = 62 * 9 + 18 = 558 + 18 = 576.\n?^2 = 576 ⇒ ? = 24.",
+    "explanation": "$(1674 / 27) * 9 + 18 = 62 * 9 + 18 = 558 + 18 = 576.$\n$?^2 = 576 ⇒ ? = 24.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4454,8 +4454,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ75. (1.2)² + (1.5)² + (2.1)² − (1.9)² = ?",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ75. (1.2)² + (1.5)² + (2.1)² − (1.9)² = ?",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ75. $(1.2)^2 + (1.5)^2 + (2.1)^2 − (1.9)^2 = ?$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ75. $(1.2)^2 + (1.5)^2 + (2.1)^2 − (1.9)^2 = ?$",
     "options": [
       {
         "id": "a",
@@ -4486,7 +4486,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "1.44 + 2.25 + 4.41-3.61 = 4.49.",
+    "explanation": "$1.44 + 2.25 + 4.41-3.61 = 4.49.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4514,8 +4514,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ76. √484 ÷ (11²/8) + ? = 38/11",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ76. √484 ÷ (11²/8) + ? = 38/11",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ76. $\\sqrt484 ÷ (11^2/8) + ? = 38/11$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ76. $\\sqrt484 ÷ (11^2/8) + ? = 38/11$",
     "options": [
       {
         "id": "a",
@@ -4546,7 +4546,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "√484 = 22.\n22 / (121 / 8) + ? = 38 / 11 ⇒ 22 * 8 / 121 + ? = 38 / 11 ⇒ 16 / 11 + ? = 38 / 11 ⇒ ? = 22 / 11 = 2.",
+    "explanation": "$\\sqrt484 = 22.$\n$22 / (121 / 8) + ? = 38 / 11 ⇒ 22 * 8 / 121 + ? = 38 / 11 ⇒ 16 / 11 + ? = 38 / 11 ⇒ ? = 22 / 11 = 2.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4574,8 +4574,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ77. ((12+44) / 8) × 28 = ?²",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ77. ((12+44) / 8) × 28 = ?²",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ77. $((12+44) / 8) × 28 = ?^2$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ77. $((12+44) / 8) × 28 = ?^2$",
     "options": [
       {
         "id": "a",
@@ -4606,7 +4606,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "(56 / 8) * 28 = 7 * 28 = 196.\n?^2 = 196 ⇒ ? = 14.",
+    "explanation": "$(56 / 8) * 28 = 7 * 28 = 196.$\n$?^2 = 196 ⇒ ? = 14.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4634,8 +4634,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ78. 32/35 ÷ 1/5 × 7/8 ÷ 2/35 = ?",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ78. 32/35 ÷ 1/5 × 7/8 ÷ 2/35 = ?",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ78. $32/35 ÷ 1/5 × 7/8 ÷ 2/35 = ?$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ78. $32/35 ÷ 1/5 × 7/8 ÷ 2/35 = ?$",
     "options": [
       {
         "id": "a",
@@ -4666,7 +4666,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "(32/35) * 5 * (7/8) * (35/2) = (32/7) * (7/8) * (35/2) = 4 * 35/2 = 70.",
+    "explanation": "$(32/35) * 5 * (7/8) * (35/2) = (32/7) * (7/8) * (35/2) = 4 * 35/2 = 70.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4694,8 +4694,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ79. 15/100 × 200/700 × ? = 240",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ79. 15/100 × 200/700 × ? = 240",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ79. $15/100 × 200/700 × ? = 240$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ79. $15/100 × 200/700 × ? = 240$",
     "options": [
       {
         "id": "a",
@@ -4726,7 +4726,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "(3 / 70) * ? = 240 ⇒ ? = 240 * 70 / 3 = 5600.",
+    "explanation": "$(3 / 70) * ? = 240 ⇒ ? = 240 * 70 / 3 = 5600.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4754,8 +4754,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ80. 23 ÷ 48 × 576 = ? × 3/2",
-    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ80. 23 ÷ 48 × 576 = ? × 3/2",
+    "question": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ80. $23 ÷ 48 × 576 = ? × 3/2$",
+    "q": "Directions (66–80): What should come in place of question mark (?) in the following questions?\n\nQ80. $23 ÷ 48 × 576 = ? × 3/2$",
     "options": [
       {
         "id": "a",
@@ -4786,7 +4786,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "(23 / 48) * 576 = 23 * 12 = 276.\n276 = ? * 3/2 ⇒ ? = 276 * 2 / 3 = 184.",
+    "explanation": "$(23 / 48) * 576 = 23 * 12 = 276.$\n$276 = ? * 3/2 ⇒ ? = 276 * 2 / 3 = 184.$",
     "question_image": "",
     "option_images": [
       "",

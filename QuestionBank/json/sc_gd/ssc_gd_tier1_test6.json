@@ -611,7 +611,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Rule: (Number of letters) × 2. DICTIONARY (10 letters) -> 20. MOBILITY (8 letters) -> 16. TERMINATION (11 letters) -> 11 × 2 = 22.",
+    "explanation": "$Rule: (Number \\text{ of } letters) × 2. DICTIONARY (10 letters) -> 20. MOBILITY (8 letters) -> 16. TERMINATION (11 letters) -> 11 × 2 = 22.$",
     "question_image": "",
     "option_images": [
       "",
@@ -668,7 +668,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Decreasing differences: 11, 14, 17, 20, 23. Next difference is 26 ⇒ 260-26 = 234.",
+    "explanation": "$Decreasing differences: 11, 14, 17, 20, 23. Next difference is 26 ⇒ 260-26 = 234.$",
     "question_image": "",
     "option_images": [
       "",
@@ -725,7 +725,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Pattern: (Second number × 2)² = First number. For 4: (4×2)² = 64. For 5: (5×2)² = 100. For 6: (6×2)² = 12² = 144.",
+    "explanation": "$Pattern: (Second number × 2)^2 = First number. For 4: (4×2)^2 = 64. For 5: (5×2)^2 = 100. For 6: (6×2)^2 = 12^2 = 144.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1154,8 +1154,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "Which two signs should be interchanged to make the given equation correct?\n5 – 24 + 17 × 16 ÷ 4 = 133",
-    "q": "Which two signs should be interchanged to make the given equation correct?\n5 – 24 + 17 × 16 ÷ 4 = 133",
+    "question": "Which two signs should be interchanged to make the given equation correct?\n$5 – 24 + 17 × 16 ÷ 4 = 133$",
+    "q": "Which two signs should be interchanged to make the given equation correct?\n$5 – 24 + 17 × 16 ÷ 4 = 133$",
     "options": [
       {
         "id": "a",
@@ -1181,7 +1181,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Interchanging '×' and '-': 5 × 24 + 17-16 ÷ 4 = 120 + 17-4 = 133.",
+    "explanation": "$Interchanging '×' and '-': 5 × 24 + 17-16 ÷ 4 = 120 + 17-4 = 133.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1238,7 +1238,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Alternating pattern: +1, ×3 + 3, +1, ×3 + 11... 69 × 3.8 = 262.",
+    "explanation": "$Alternating pattern: +1, ×3 + 3, +1, ×3 + 11... 69 × 3.8 = 262.$",
     "question_image": "",
     "option_images": [
       "",
@@ -1295,7 +1295,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Oranges = 3 × Mangoes ⇒ Total = 4 × Mangoes. Total fruits must be a multiple of 4. 42 is not divisible by 4.",
+    "explanation": "$Oranges = 3 × Mangoes ⇒ Total = 4 × Mangoes. Total fruits must be a multiple \\text{ of } 4. 42 is not divisible by 4.$",
     "question_image": "",
     "option_images": [
       "",
@@ -2891,7 +2891,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Volume factor = (1.2)² × (2/3) = 1.44 × 2/3 = 0.96. Net change = (0.96-1) × 100 = 4% (Decrease by 4%).",
+    "explanation": "$Volume factor = (1.2)^2 × (2/3) = 1.44 × 2/3 = 0.96. Net change = (0.96-1) × 100 = 4\\% (Decrease by 4\\%).$",
     "question_image": "",
     "option_images": [
       "",
@@ -2948,7 +2948,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Speed = 45 × (5/18) = 12.5 m/s. Length = Speed × Time = 12.5 × 12 = 150 m.",
+    "explanation": "$Speed = 45 × (5/18) = 12.5 m/s. Length = Speed × Time = 12.5 × 12 = 150 m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3005,7 +3005,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Monthly rate = 24/12 = 2%. Amount = 7500 × (1.02)³ = 7500 × 1.061208 = ₹7,959.06. CI = ₹459.",
+    "explanation": "$Monthly rate = 24/12 = 2\\%. Amount = 7500 × (1.02)^3 = 7500 × 1.061208 = ₹7,959.06. CI = ₹459.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3035,8 +3035,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If (a + b - c) : (b + c - a) : (a + c - b) = 4 : 5 : 9, then a - b : c - b : c - a =",
-    "q": "If (a + b - c) : (b + c - a) : (a + c - b) = 4 : 5 : 9, then a - b : c - b : c - a =",
+    "question": "$If (a + b - c) : (b + c - a) : (a + c - b) = 4 : 5 : 9, then a - b : c - b : c - a =$",
+    "q": "$If (a + b - c) : (b + c - a) : (a + c - b) = 4 : 5 : 9, then a - b : c - b : c - a =$",
     "options": [
       {
         "id": "a",
@@ -3062,7 +3062,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Solving simultaneous equations gives a : b : c = 7 : 2 : 6. Ratio a - b : c - b : c - a = 5 : 4 : 1 = 4 : 5 : 1.",
+    "explanation": "$Solving simultaneous equations gives a : b : c = 7 : 2 : 6. Ratio a - b : c - b : c - a = 5 : 4 : 1 = 4 : 5 : 1.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3119,7 +3119,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "3x / (4x + 8) = 5/8 ⇒ 24x = 20x + 40 ⇒ 4x = 40 ⇒ x = 10. Total original = 7x = 70 litres.",
+    "explanation": "$3x / (4x + 8) = 5/8 ⇒ 24x = 20x + 40 ⇒ 4x = 40 ⇒ x = 10. Total original = 7x = 70 litres.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3176,7 +3176,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Ratio of efficiencies X:Y:Z = 1:2:3. Total work = (1+2+3) × 2 = 12 units. Y's time = 12 / 2 = 6 days.",
+    "explanation": "$Ratio \\text{ of } efficiencies X:Y:Z = 1:2:3. Total work = (1+2+3) × 2 = 12 units. Y's time = 12 / 2 = 6 days.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3233,7 +3233,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "SP = 210 × 1.90 = ₹399. MRP = 399 / 0.95 = ₹420.",
+    "explanation": "$SP = 210 × 1.90 = ₹399. MRP = 399 / 0.95 = ₹420.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3290,7 +3290,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Total sum = 360. 3 subjects sum = 210. Remaining 2 sum = 150. Avg = 150 / 2 = 75.",
+    "explanation": "$Total sum = 360. 3 subjects sum = 210. Remaining 2 sum = 150. Avg = 150 / 2 = 75.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3347,7 +3347,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Smallest = 2 × 6 = 12. Largest = 7 × 6 = 42. Sum of squares = 12² + 42² = 144 + 1764 = 1908.",
+    "explanation": "$Smallest = 2 × 6 = 12. Largest = 7 × 6 = 42. Sum \\text{ of } squares = 12^2 + 42^2 = 144 + 1764 = 1908.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3404,7 +3404,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Q = 100, P = 220. P + Q = 320. Q / (P + Q) = (100 / 320) × 100 = 31.25%.",
+    "explanation": "$Q = 100, P = 220. P + Q = 320. Q / (P + Q) = (100 / 320) × 100 = 31.25\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3461,7 +3461,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Evaluating expression parts: 4/3 + 1/4-5/6 = 3/4.",
+    "explanation": "$Evaluating expression parts: 4/3 + 1/4-5/6 = 3/4.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3518,7 +3518,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "SP / CP = 11 / 8. Profit % = (3 / 8) × 100 = 37.5%.",
+    "explanation": "$SP / CP = 11 / 8. Profit \\% = (3 / 8) × 100 = 37.5\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3575,7 +3575,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "CP1=100, SP=148. New CP2=120. New profit % = (28/120) × 100 = 23.33%. Decrease = 48% - 23.33% = 24.67%.",
+    "explanation": "$CP1=100, SP=148. New CP2=120. New profit \\% = (28/120) × 100 = 23.33\\%. Decrease = 48\\% - 23.33\\% = 24.67\\%.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3632,7 +3632,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Effective SP = 16500 × 1.18 × 0.88 = ₹17,133.60.",
+    "explanation": "$Effective SP = 16500 × 1.18 × 0.88 = ₹17,133.60.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3689,7 +3689,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Total distance = 60 × (5/18) × 42 = 700 m. Tunnel length = 700-243 = 457 m.",
+    "explanation": "$Total distance = 60 × (5/18) × 42 = 700 m. Tunnel length = 700-243 = 457 m.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3746,7 +3746,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Yearly CI factor = 1.44. Halfyearly CI factor = (1.1)⁴ = 1.4641. Difference = 0.0241 P = 964 ⇒ P = ₹40,000.",
+    "explanation": "$Yearly CI factor = 1.44. Halfyearly CI factor = (1.1)^4 = 1.4641. Difference = 0.0241 P = 964 ⇒ P = ₹40,000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3803,7 +3803,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "LCM(18, 21, 24) = 504. Smallest 5 digit number = 10000. 10000 / 504 gives remainder 424. Smallest multiple = 10080.",
+    "explanation": "$LCM(18, 21, 24) = 504. Smallest 5 digit number = 10000. 10000 / 504 gives remainder 424. Smallest multiple = 10080.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3833,8 +3833,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "The perimeter of a circular garden is 506 m. The cost (in ₹) of levelling it at ₹14/m² is (Take π = 22/7):",
-    "q": "The perimeter of a circular garden is 506 m. The cost (in ₹) of levelling it at ₹14/m² is (Take π = 22/7):",
+    "question": "$The perimeter \\text{ of } a circular garden is 506 m. The cost (in ₹) \\text{ of } levelling it at ₹14/m^2 is (Take π = 22/7):$",
+    "q": "$The perimeter \\text{ of } a circular garden is 506 m. The cost (in ₹) \\text{ of } levelling it at ₹14/m^2 is (Take π = 22/7):$",
     "options": [
       {
         "id": "a",
@@ -3860,7 +3860,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "2 × (22/7) × r = 506 ⇒ r = 80.5 m. Area = π r² = 20366.5 m². Total cost = 20366.5 × 14 = ₹2,85,131.",
+    "explanation": "$2 × (22/7) × r = 506 ⇒ r = 80.5 m. Area = π r^2 = 20366.5 m^2. Total cost = 20366.5 × 14 = ₹2,85,131.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3890,8 +3890,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If 10% of A = B, then B% of 20 is the same as:",
-    "q": "If 10% of A = B, then B% of 20 is the same as:",
+    "question": "$If 10\\% \\text{ of } A = B, then B\\% \\text{ of } 20 is the same as:$",
+    "q": "$If 10\\% \\text{ of } A = B, then B\\% \\text{ of } 20 is the same as:$",
     "options": [
       {
         "id": "a",
@@ -3917,7 +3917,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "B = 0.1A. B% of 20 = (0.1A / 100) × 20 = 2A / 100 = 2% of A.",
+    "explanation": "$B = 0.1A. B\\% \\text{ of } 20 = (0.1A / 100) × 20 = 2A / 100 = 2\\% \\text{ of } A.$",
     "question_image": "",
     "option_images": [
       "",
@@ -3974,7 +3974,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Numerator = Denominator ⇒ 1-9/49 = 40/49 (or simplifying gives 0).",
+    "explanation": "$Numerator = Denominator ⇒ 1-9/49 = 40/49 (or simplifying gives 0).$",
     "question_image": "",
     "option_images": [
       "",
@@ -4031,7 +4031,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Difference = P (R / 100)² = 5000 × (8 / 100)² = 5000 × 64 / 10000 = ₹32.",
+    "explanation": "$Difference = P (R / 100)^2 = 5000 × (8 / 100)^2 = 5000 × 64 / 10000 = ₹32.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4061,8 +4061,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If x : 2y = 4 : 9 and 2 : x = 3 : 4, then what is the value of y?",
-    "q": "If x : 2y = 4 : 9 and 2 : x = 3 : 4, then what is the value of y?",
+    "question": "$If x : 2y = 4 : 9 and 2 : x = 3 : 4, then what is the value \\text{ of } y?$",
+    "q": "$If x : 2y = 4 : 9 and 2 : x = 3 : 4, then what is the value \\text{ of } y?$",
     "options": [
       {
         "id": "a",
@@ -4088,7 +4088,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "2/x = 3/4 ⇒ x = 8/3. Substitute in x/2y = 4/9 ⇒ (8/3)/2y = 4/9 ⇒ 4/3y = 4/9 ⇒ y = 3.",
+    "explanation": "$2/x = 3/4 ⇒ x = 8/3. Substitute in x/2y = 4/9 ⇒ (8/3)/2y = 4/9 ⇒ 4/3y = 4/9 ⇒ y = 3.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4145,7 +4145,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Efficiency ratio 1/5 : 1/6 : 1/8 = 24 : 20 : 15. Total = 59 parts. B's share = (20 / 59) × 2950 = ₹1,000.",
+    "explanation": "$Efficiency ratio 1/5 : 1/6 : 1/8 = 24 : 20 : 15. Total = 59 parts. B's share = (20 / 59) × 2950 = ₹1,000.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4202,7 +4202,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "By allegation: (+20%) and (10%) give overall (+8%). Ratio = (8 - (10)) : (20-8) = 18 : 12 = 3 : 2. CP of A = (3/5) × 600 = ₹360.",
+    "explanation": "$By allegation: (+20\\%) and (10\\%) give overall (+8\\%). Ratio = (8 - (10)) : (20-8) = 18 : 12 = 3 : 2. CP \\text{ of } A = (3/5) × 600 = ₹360.$",
     "question_image": "",
     "option_images": [
       "",
@@ -4259,7 +4259,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Weight of new person = Replaced weight + (Number of people × Increase) = 50 + (8 × 2.5) = 50 + 20 = 70 kg.",
+    "explanation": "$Weight \\text{ of } new person = Replaced weight + (Number \\text{ of } people × Increase) = 50 + (8 × 2.5) = 50 + 20 = 70 kg.$",
     "question_image": "",
     "option_images": [
       "",

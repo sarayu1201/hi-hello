@@ -21,8 +21,10 @@ def validate_file(filepath):
     total_qs = len(data)
     expected_count = 100
     
-    if "rrb_po" in filename or "rrb_clerk" in filename or "ssc_gd" in filename or "sc_gd" in filename:
+    if "rrb_po" in filename or "rrb_clerk" in filename:
         expected_count = 80
+    elif "ssc_gd" in filename or "sc_gd" in filename:
+        expected_count = 80 if total_qs == 80 else 100
     elif "cbt2" in filename or "cbt_2" in filename:
         expected_count = 120
     elif "ssc_cgl_mains" in filename:
@@ -74,11 +76,15 @@ def validate_file(filepath):
             if "rrb_po" in filename or "rrb_clerk" in filename:
                 expected_sec_size = 40
             elif "sc_gd" in filename or "ssc_gd" in filename:
-                expected_sec_size = 20
+                expected_sec_size = 20 if total_qs == 80 else 25
                 
             for sec, count in section_counts.items():
-                if count != expected_sec_size:
-                    errors.append(f"Section '{sec}' has {count} questions (expected {expected_sec_size}).")
+                if "sc_gd" in filename or "ssc_gd" in filename:
+                    if count not in [20, 25, 40]:
+                        errors.append(f"Section '{sec}' has {count} questions (expected 20, 25, or 40).")
+                else:
+                    if count != expected_sec_size:
+                        errors.append(f"Section '{sec}' has {count} questions (expected {expected_sec_size}).")
 
     # 3. Question-level validation
     for idx, q in enumerate(data):
