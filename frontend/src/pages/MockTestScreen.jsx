@@ -230,7 +230,13 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
   useEffect(() => {
     if (!mockData || !mockData.questions || mockData.questions.length === 0) return;
     
-    const signature = `${mockData.questions.length}_${mockData.questions[0].sub_type || 'test'}_${mockData.questions[0].exam_type || 'type'}`;
+    const cleanQuestions = mockData.questions.filter(q => q && (q.question_text || q.q || q.question));
+    if (cleanQuestions.length === 0) {
+      console.error("No valid questions found in mockData");
+      return;
+    }
+    
+    const signature = `${cleanQuestions.length}_${cleanQuestions[0].sub_type || 'test'}_${cleanQuestions[0].exam_type || 'type'}`;
     if (lastTestSignatureRef.current !== signature) {
       hasInitializedRef.current = false;
       lastTestSignatureRef.current = signature;
@@ -246,7 +252,7 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
     if (hasInitializedRef.current) return;
     hasInitializedRef.current = true;
     
-    const rawQuestions = [...mockData.questions];
+    const rawQuestions = [...cleanQuestions];
     const detectedExamType = rawQuestions[0].exam_type || "SSC";
     const detectedSubType = rawQuestions[0].sub_type || "Mock Test";
     setExamType(detectedExamType);

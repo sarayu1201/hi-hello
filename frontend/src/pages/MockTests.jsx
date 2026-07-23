@@ -591,8 +591,10 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
           if (res.ok) {
             const data = await res.json();
             if (data.questions && data.questions.length > 0) {
-              const mapped = data.questions.map(q => {
-                const cleanedOpts = cleanOptions(q.options);
+              const mapped = data.questions
+                .filter(q => q && (q.question_text || q.q || q.question))
+                .map(q => {
+                  const cleanedOpts = cleanOptions(q.options);
                 const optImgs = q.option_images || [];
                 return {
                   question_number: q.question_number,
@@ -620,8 +622,8 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
           console.warn("Error fetching parsed questions, falling back to offline pool:", err);
         }
         
-        // Always generate offline questions fallback so test NEVER fails to open
-        const fallbackPool = generateMockQuestionsForCategory(category, activeExam.questionsCount || 100);
+        const pool = generateQuestionsPool(category);
+        const fallbackPool = generateMockQuestionsForCategory(category, pool, 1, activeExam.name || "Exam");
         setQuestions(fallbackPool);
         setLoadingQuestions(false);
       };

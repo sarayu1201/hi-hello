@@ -1109,7 +1109,11 @@ export function getSyllabusForCategory(category) {
 }
 
 export function generateMockQuestionsForCategory(category, pool, mockIndex, courseTitle = "Exam") {
-  const qStart = ((mockIndex - 1) * 7) % 300;
+  if (!pool || pool.length === 0) {
+    console.error("Mock questions pool is empty or invalid for category:", category);
+    return [];
+  }
+  const qStart = ((mockIndex - 1) * 7) % pool.length;
   
   let sections = [];
   if (category === "NEET / JEE") {
@@ -1161,11 +1165,13 @@ export function generateMockQuestionsForCategory(category, pool, mockIndex, cour
     for (let i = 0; i < sec.count; i++) {
       const poolIndex = (sec.start + i) % pool.length;
       const q = pool[poolIndex];
-      questions.push({
-        ...q,
-        section: sec.name,
-        q: q.q.replace("[Exam]", courseTitle)
-      });
+      if (q && q.q) {
+        questions.push({
+          ...q,
+          section: sec.name,
+          q: q.q.replace("[Exam]", courseTitle)
+        });
+      }
     }
   });
 
