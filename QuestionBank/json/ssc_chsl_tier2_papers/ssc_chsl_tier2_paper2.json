@@ -292,7 +292,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => $\\cos$^2 A / $\\sin$^4 A = 1 => $\\cos$^2 A = $\\sin$^4 A = $(1 - $\\cos$^2 A)^2$ = $1 - 2$cos^2 A + $\\cos$^4 A => $\\cos$^4 A - 3 $\\cos$^2 A = -1.",
+    "explanation": "cot^2 A * (cot^2 A + 1) = 1 => cot^2 A * cosec^2 A = 1 => $\\cos$^2 A / $\\sin$^4 A = 1 => $\\cos$^2 A = $\\sin$^4 A = $(1 - $\\cos$(^2 A)^2 = 1 - 2$cos^2 A + $\\cos$^4 A => $\\cos$^4 A - 3 $\\cos$^2 A = -1.",
     "question_image": "",
     "option_images": [
       "",
@@ -478,7 +478,7 @@
     "options": [
       {
         "id": "A",
-        "text": "The area of the triangle with the largest side l always has an area less than $l^$$\\frac{2}{2}$$$."
+        "text": "The area of the triangle with the largest side l always has an area less than $l^\\frac{2}{2}$."
       },
       {
         "id": "B",
