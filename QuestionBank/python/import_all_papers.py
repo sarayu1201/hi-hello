@@ -486,15 +486,17 @@ if __name__ == "__main__":
     # 1. Copy images from backend uploads folder to QuestionBank images folder
     copy_images(uploads_images_folder, images_folder)
     
-    # Try to load MONGODB_URI from backend/.env
-    mongo_uri = "mongodb://localhost:27017/kr_academy"
-    env_file = os.path.join(workspace_root, "backend", ".env")
-    if os.path.exists(env_file):
-        with open(env_file, "r", encoding="utf-8") as f:
-            for line in f:
-                if line.startswith("MONGODB_URI="):
-                    mongo_uri = line.split("=", 1)[1].strip()
-                    break
+    # Try to load MONGODB_URI from environment variables or backend/.env
+    mongo_uri = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
+    if not mongo_uri:
+        mongo_uri = "mongodb://localhost:27017/kr_academy"
+        env_file = os.path.join(workspace_root, "backend", ".env")
+        if os.path.exists(env_file):
+            with open(env_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    if line.startswith("MONGODB_URI="):
+                        mongo_uri = line.split("=", 1)[1].strip()
+                        break
     
     print(f"Using MongoDB URI: {mongo_uri[:35]}...")
     

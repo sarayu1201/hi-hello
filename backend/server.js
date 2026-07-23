@@ -2480,8 +2480,16 @@ const mapTestIdToSubtype = (testId) => {
     const num = lower.replace("ibps_rrb_clerk_prelims_test", "");
     return `IBPS RRB Clerk Prelims - Test ${num}`;
   }
+  if (lower.startsWith("rrb_clerk_prelims_test")) {
+    const num = lower.replace("rrb_clerk_prelims_test", "");
+    return `IBPS RRB Clerk Prelims - Test ${num}`;
+  }
   if (lower.startsWith("ibps_rrb_po_prelims_test")) {
     const num = lower.replace("ibps_rrb_po_prelims_test", "");
+    return `IBPS RRB PO Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("rrb_po_prelims_test")) {
+    const num = lower.replace("rrb_po_prelims_test", "");
     return `IBPS RRB PO Prelims - Test ${num}`;
   }
   if (lower.startsWith("rrb_gd_prelims_test")) {
@@ -2490,6 +2498,10 @@ const mapTestIdToSubtype = (testId) => {
   }
   if (lower.startsWith("ssc_gd_constable_prelims_test")) {
     const num = lower.replace("ssc_gd_constable_prelims_test", "");
+    return `SSC GD Constable Prelims - Test ${num}`;
+  }
+  if (lower.startsWith("ssc_gd_prelims_test")) {
+    const num = lower.replace("ssc_gd_prelims_test", "");
     return `SSC GD Constable Prelims - Test ${num}`;
   }
   
