@@ -1857,7 +1857,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Average",
     "difficulty": "Medium",
-    "question": "In a group of 150 people, $frac{2}{5}$ are men, $frac{1}{3}$ are women and the rest are children. The average age of the women is $frac{4}{5}$ of the average age of the men. The average age of the children is $frac{1}{5}$ of the average age of the men. If the average age of the men is 50 years, then the average age of all the people in the group is:",
+    "question": "In a group of 150 people, $\\frac{2}{5}$ are men, $\\frac{1}{3}$ are women and the rest are children. The average age of the women is $\\frac{4}{5}$ of the average age of the men. The average age of the children is $\\frac{1}{5}$ of the average age of the men. If the average age of the men is 50 years, then the average age of all the people in the group is:",
     "questionImage": null,
     "options": [
       {
@@ -1882,7 +1882,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Men = 150 * (frac{2}{5}) = 60, Women = 150 * (frac{1}{3}) = 50, Children = 150 - 60 - 50 = 40. Average age: Men = 50, Women = 50 * (frac{4}{5}) = 40, Children = 50 * (frac{1}{5}) = 10$.\n$Sum of ages = (60 * 50) + (50 * 40) + (40 * 10) = 3000 + 2000 + 400 = 5400. Average age of group = 5400 / 150 = 36 years$.",
+    "explanation": "$Men = 150 * (\\frac{2}{5}) = 60, Women = 150 * (\\frac{1}{3}) = 50, Children = 150 - 60 - 50 = 40. Average age: Men = 50, Women = 50 * (\\frac{4}{5}) = 40, Children = 50 * (\\frac{1}{5}) = 10.\nSum of ages = (60 * 50) + (50 * 40) + (40 * 10) = 3000 + 2000 + 400 = 5400. Average age of group = 5400 / 150 = 36 years$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1956,7 +1956,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Difference in percentage = 24% - 12% = 12%.\n$Difference in central angle = 12% of 360° = (frac{12}{100}) * 360 = 43.2°$.",
+    "explanation": "Difference in percentage = 24% - 12% = 12%.\n$Difference in central angle = 12% of 360° = (\\frac{12}{100}) * 360 = 43.2°$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1968,7 +1968,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "$If sin(A - B) = frac{1}{2} and cos(A + B) = frac{1}{2} where A > B > 0° and A + B is an acute angle, then the value of A is:$",
+    "question": "$If sin(A - B) = \\frac{1}{2} and cos(A + B) = \\frac{1}{2} where A > B > 0° and A + B is an acute angle, then the value of A is:$",
     "questionImage": null,
     "options": [
       {
@@ -1993,7 +1993,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$sin(A - B) = frac{1}{2} => A - B = 30°$.\n$cos(A + B) = frac{1}{2} => A + B = 60°$.\nAdding both equations: 2A = 90° => A = 45°.",
+    "explanation": "$sin(A - B) = \\frac{1}{2} => A - B = 30°$.\n$cos(A + B) = \\frac{1}{2} => A + B = 60°$.\nAdding both equations: 2A = 90° => A = 45°.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2190,7 +2190,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Distance",
     "difficulty": "Medium",
-    "question": "The speed of a train is 220% of the speed of a car. The car covers a distance of 950 km in 19 hours. How much distance will the train cover in 3 $frac{1}{2}$ hours?",
+    "question": "The speed of a train is 220% of the speed of a car. The car covers a distance of 950 km in 19 hours. How much distance will the train cover in 3 $\\frac{1}{2}$ hours?",
     "questionImage": null,
     "options": [
       {
@@ -2215,7 +2215,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Speed of the car = 950 / 19 = 50 km/h$.\n$Speed of the train = 220% of 50 = (frac{220}{100}) * 50 = 110 km/h$.\n$Distance covered by train in 3.5 hours = 110 * 3.5 = 385 km$.",
+    "explanation": "$Speed of the car = 950 / 19 = 50 km/h$.\nSpeed of the train = 220% of 50 = (\\frac{220}{100}) * 50 = 110 km/h.\n$Distance covered by train in 3.5 hours = 110 * 3.5 = 385 km$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2264,7 +2264,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "$The value of frac{33}{40} + frac{1}{5} - [frac{4}{5} - frac{1}{5} * (frac{7}{8} - frac{5}{4})] is:$",
+    "question": "$The value of \\frac{33}{40} + \\frac{1}{5} - [\\frac{4}{5} - \\frac{1}{5} * (\\frac{7}{8} - \\frac{5}{4})] is:$",
     "questionImage": null,
     "options": [
       {
@@ -2289,7 +2289,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Evaluating inside out:\n$(frac{7}{8} - frac{5}{4}) = -frac{3}{8}. frac{1}{5} * (-frac{3}{8}) = -frac{3}{40}. frac{4}{5} - (-frac{3}{40}) = frac{4}{5} + frac{3}{40} = frac{35}{40}$.\n$Then we have: frac{33}{40} + frac{1}{5} - frac{35}{40}?$\n$Wait, in the original expression: frac{33}{40} + frac{1}{5} * [frac{35}{40}] = frac{33}{40} + frac{7}{40} = frac{40}{40} = 1$.",
+    "explanation": "Evaluating inside out:\n$(\\frac{7}{8} - \\frac{5}{4}) = -\\frac{3}{8}. \\frac{1}{5} * (-\\frac{3}{8}) = -\\frac{3}{40}. \\frac{4}{5} - (-\\frac{3}{40}) = \\frac{4}{5} + \\frac{3}{40} = \\frac{35}{40}$.\nThen we have: \\frac{33}{40} + \\frac{1}{5} - \\frac{35}{40}?\n$Wait, in the original expression: \\frac{33}{40} + \\frac{1}{5} * [\\frac{35}{40}] = \\frac{33}{40} + \\frac{7}{40} = \\frac{40}{40} = 1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2363,7 +2363,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using componendo & dividendo:\n$(sec θ + tan θ + sec θ - tan θ) / (sec θ + tan θ - (sec θ - tan θ)) = (5 + 1) / (5 - 1) => 2 sec θ / 2 tan θ = frac{6}{4} = frac{3}{2} => 1/sin θ = frac{3}{2} => sin θ = frac{2}{3}$.\n$cos²θ = 1 - sin²θ = 1 - frac{4}{9} = frac{5}{9}$.\nSubstituting cos²θ in (3 cos²θ + 1) / (3 cos²θ - 1):\n$(3*(frac{5}{9}) + 1) / (3*(frac{5}{9}) - 1) = (frac{5}{3} + 1) / (frac{5}{3} - 1) = (frac{8}{3}) / (frac{2}{3}) = 4$.",
+    "explanation": "Using componendo & dividendo:\n$(sec θ + tan θ + sec θ - tan θ) / (sec θ + tan θ - (sec θ - tan θ)) = (5 + 1) / (5 - 1) => 2 sec θ / 2 tan θ = \\frac{6}{4} = \\frac{3}{2} => 1/sin θ = \\frac{3}{2} => sin θ = \\frac{2}{3}.\n$cos²θ = 1 - sin²θ = 1 - \\frac{4}{9} = \\frac{5}{9}$.\nSubstituting cos²θ in (3 cos²θ + 1) / (3 cos²θ - 1):\n$(3*(\\frac{5}{9}) + 1) / (3*(\\frac{5}{9}) - 1) = (\\frac{5}{3} + 1) / (\\frac{5}{3} - 1) = (\\frac{8}{3}) / (\\frac{2}{3}) = 4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2437,7 +2437,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let volume of tank be LCM(15, 30) = 30 units.\n$Efficiency of P = 30 / 15 = 2 units/min$.\n$Efficiency of Q = 30 / 30 = 1 unit/min$.\n$In every 2 minutes (P opened first, then Q), volume filled = 2 + 1 = 3 units$.\n$Time required to fill 30 units = (30 / 3) * 2 = 20 minutes$.",
+    "explanation": "Let volume of tank be LCM(15, 30) = 30 units.\n$Efficiency of P = 30 / 15 = 2 units/min$.\nEfficiency of Q = $30 / 30 = 1$ unit/min.\nIn every 2 minutes (P opened first, then Q), volume filled = $2 + 1 = 3$ units.\n$Time required to fill 30 units = (30 / 3) * 2 = 20 minutes$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2474,7 +2474,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Rationalize the denominator:\n((√(1+x) + √(1-x)) * (√(1+x) + √(1-x))) / ((1+x) - (1-x))\n$= (1+x + 1-x + 2√(1-x²)) / 2x = (2 + 2√(1-x²)) / 2x = (1 + √(1-x²)) / x$.\n$Since x = √3 / 2, x² = frac{3}{4}, so √(1-x²) = frac{1}{2}$.\n$Value = (1 + frac{1}{2}) / (√frac{3}{2}) = (frac{3}{2}) / (√frac{3}{2}) = 3/√3 = √3$.",
+    "explanation": "Rationalize the denominator:\n((√(1+x) + √(1-x)) * (√(1+x) + √(1-x))) / ((1+x) - (1-x))\n$= (1+x + 1-x + 2√(1-x²)) / 2x = (2 + 2√(1-x²)) / 2x = (1 + √(1-x²)) / x$.\nSince x = √$3 / 2$, x² = \\frac{3}{4}, so √(1-x²) = \\frac{1}{2}.\n$Value = (1 + \\frac{1}{2}) / (√\\frac{3}{2}) = (\\frac{3}{2}) / (√\\frac{3}{2}) = 3/√3 = √3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2622,7 +2622,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Let the third proportional be x.  16:24 :: 24 : x => frac{16}{24} = 24/x => x = (24 * 24) / 16 = 36$.",
+    "explanation": "$Let the third proportional be x.  16:24 :: 24 : x => \\frac{16}{24} = 24/x => x = (24 * 24) / 16 = 36$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2634,7 +2634,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Medium",
-    "question": "$The side BC of a triangle ABC is extended to the point D. If ∠ACD = 132° and ∠B = frac{4}{7} ∠A, then the measure of ∠A is:$",
+    "question": "$The side BC of a triangle ABC is extended to the point D. If ∠ACD = 132° and ∠B = \\frac{4}{7} ∠A, then the measure of ∠A is:$",
     "questionImage": null,
     "options": [
       {
@@ -2659,7 +2659,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The exterior angle is equal to the sum of the two opposite interior angles.\n$∠A + ∠B = ∠ACD => ∠A + (frac{4}{7})∠A = 132°$\n=> (frac{11}{7})∠A = 132°\n$=> ∠A = (132 * 7) / 11 = 12 * 7 = 84°$.",
+    "explanation": "The exterior angle is equal to the sum of the two opposite interior angles.\n$∠A + ∠B = ∠ACD => ∠A + (\\frac{4}{7})∠A = 132°$\n=> (\\frac{11}{7})∠A = 132°\n$=> ∠A = (132 * 7) / 11 = 12 * 7 = 84°$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2770,7 +2770,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let original price per eraser be P.\nReduced price = 0.75P.\nQuantity bought originally = 2/P. Quantity bought after reduction = 2 / (0.75P) = 8 / (3P).\nGiven: $8/(3P) - 2/P = 3 => (8 - 6) / 3P = 3 => 2 / 3P = 3 => P = frac{2}{9}$.\n$Number of erasers originally bought for ₹ 2 = 2 / (frac{2}{9}) = 9$.",
+    "explanation": "Let original price per eraser be P.\nReduced price = 0.75P.\nQuantity bought originally = 2/P. Quantity bought after reduction = 2 / (0.75P) = 8 / (3P).\nGiven: $8/(3P) - 2/P = 3 => (8 - 6) / 3P = 3 => 2 / 3P = 3 => P = \\frac{2}{9}$.\nNumber of erasers originally bought for ₹ 2 = 2 / (\\frac{2}{9}) = 9$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

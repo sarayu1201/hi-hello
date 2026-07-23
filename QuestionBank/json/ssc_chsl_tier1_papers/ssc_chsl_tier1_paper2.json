@@ -479,7 +479,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Cost of 5 dozens = Rs.600. Cost per orange = Rs.10. Selling price = Rs.11.5. Profit = Rs.1.5 per orange. Profit % = (1.frac{5}{10}) × 100 = 15%$.",
+    "explanation": "$Cost of 5 dozens = Rs.600. Cost per orange = Rs.10. Selling price = Rs.11.5. Profit = Rs.1.5 per orange. Profit % = (1.\\frac{5}{10}) × 100 = 15%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -786,7 +786,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Area of an equilateral triangle = (√frac{3}{4}) × a² = (√frac{3}{4}) × 14² = (√frac{3}{4}) × 196 = 49√3 cm²$.",
+    "explanation": "$Area of an equilateral triangle = (√\\frac{3}{4}) × a² = (√\\frac{3}{4}) × 14² = (√\\frac{3}{4}) × 196 = 49√3 cm²$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -823,7 +823,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Perimeter of a semicircle = πr + 2r = 36. Using π = frac{22}{7}, r(frac{22}{7} + 2) = 36 ⇒ r = 7 cm$.",
+    "explanation": "$Perimeter of a semicircle = πr + 2r = 36. Using π = \\frac{22}{7}, r(\\frac{22}{7} + 2) = 36 ⇒ r = 7 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -860,7 +860,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Radius = 14 cm. Curved Surface Area = 2πrh = 2 × (frac{22}{7}) × 14 \\times 12 = 1056 cm²$.",
+    "explanation": "$Radius = 14 cm. Curved Surface Area = 2πrh = 2 × (\\frac{22}{7}) × 14 \\times 12 = 1056 cm²$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -872,7 +872,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of (tan 30° − √$frac{3}{2}$)?",
+    "question": "What is the value of (tan 30° − √$\\frac{3}{2}$)?",
     "questionImage": null,
     "options": [
       {
@@ -892,12 +892,12 @@
       },
       {
         "id": "D",
-        "text": "$frac{1}{6}$",
+        "text": "$\\frac{1}{6}$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$tan 30° = 1/√3. Therefore, 1/√3 − √frac{3}{2} = (2 − 3)/(2√3) = -1/(2√3)$.",
+    "explanation": "$tan 30° = 1/√3. Therefore, 1/√3 − √\\frac{3}{2} = (2 − 3)/(2√3) = -1/(2√3)$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -909,34 +909,34 @@
     "subject": "Quantitative Aptitude",
     "topic": "Data Interpretation",
     "difficulty": "Medium",
-    "question": "$ΔDEF is right angled at E. If cotD = frac{5}{12}, then what is the value of sinF ?$",
+    "question": "$ΔDEF is right angled at E. If cotD = \\frac{5}{12}, then what is the value of sinF ?$",
     "questionImage": "ssc_chsl_tier1_paper2_q25.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original Data Interpretation figure from the source document.",
     "options": [
       {
         "id": "A",
-        "text": "$frac{5}{12}$",
+        "text": "$\\frac{5}{12}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{13}{5}$",
+        "text": "$\\frac{13}{5}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{5}{13}$",
+        "text": "$\\frac{5}{13}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{13}{12}$",
+        "text": "$\\frac{13}{12}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Given cot D = DE/EF = frac{5}{12}. By Pythagoras theorem, DF = √(5² + 12²) = 13. Therefore, sin F = DE/DF = frac{5}{13}. Correct Answer: Option C$",
+    "explanation": "$Given cot D = DE/EF = \\frac{5}{12}. By Pythagoras theorem, DF = √(5² + 12²) = 13. Therefore, sin F = DE/DF = \\frac{5}{13}. Correct Answer: Option C$",
     "marks": 2,
     "negativeMarks": 0.5,
     "question_image": "ssc_chsl_tier1_paper2_q25.png",

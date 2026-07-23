@@ -968,7 +968,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Each letter in the sequence increases by+2positions:$\n$*L \\xrightarrow{+2} N \\xrightarrow{+2} P \\xrightarrow{+2} R*T \\xrightarrow{+2} V \\xrightarrow{+2} X \\xrightarrow{+2} Z*N \\xrightarrow{+2} P \\xrightarrow{+2} R \\xrightarrow{+2} T* Similarly,F \\xrightarrow{+2} H \\xrightarrow{+2} J \\xrightarrow{+2} L$.",
+    "explanation": "$Each letter in the sequence increases by+2positions:\n*L \\xrightarrow{+2} N \\xrightarrow{+2} P \\xrightarrow{+2} R*T \\xrightarrow{+2} V \\xrightarrow{+2} X \\xrightarrow{+2} Z*N \\xrightarrow{+2} P \\xrightarrow{+2} R \\xrightarrow{+2} T* Similarly,F \\xrightarrow{+2} H \\xrightarrow{+2} J \\xrightarrow{+2} L$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1227,7 +1227,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$The series decreases by consecutive decreasing integers starting from-8:$\n$*219 - 8 = 211*211 - 7 = 204*204 - 6 = 198*198 - 5 = 193*193 - 4 = 189$",
+    "explanation": "$The series decreases by consecutive decreasing integers starting from-8:\n$*$219 - 8 = 211*211 - 7 = 204*204 - 6 = 198*198 - 5 = 193*193 - 4 = 189$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1301,7 +1301,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Let the ages of the 4 children bex,x+4,x+8, andx+12years$.\n$Sum of ages:x + (x+4) + (x+8) + (x+12) = 604x + 24 = 604x = 36x = 9Therefore, the age of the youngest child is9years$.",
+    "explanation": "$Let the ages of the 4 children bex,x+4,x+8, andx+12years.\nSum of ages:x + (x+4) + (x+8) + (x+12) = 604x + 24 = 604x = 36x = 9Therefore, the age of the youngest child is9years$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1375,7 +1375,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$The pattern shift advances each letter by+1position and then reverses the result:$\n$*C \\xrightarrow{+1} D,A \\xrightarrow{+1} B,M \\xrightarrow{+1} N,E \\xrightarrow{+1} F,L \\xrightarrow{+1} M. Reversing `DBNFM` gives `MFNBD`$.\n$* Similarly,T \\xrightarrow{+1} U,I \\xrightarrow{+1} J,G \\xrightarrow{+1} H,E \\xrightarrow{+1} F,R \\xrightarrow{+1} S. Reversing `UJHFS` gives `SFHJU`$.",
+    "explanation": "$The pattern shift advances each letter by+1position and then reverses the result:$\n*C \\xrightarrow{+1} D,A \\xrightarrow{+1} B,M \\xrightarrow{+1} N,E \\xrightarrow{+1} F,L \\xrightarrow{+1} M. Reversing `DBNFM` gives `MFNBD`.\n$* Similarly,T \\xrightarrow{+1} U,I \\xrightarrow{+1} J,G \\xrightarrow{+1} H,E \\xrightarrow{+1} F,R \\xrightarrow{+1} S. Reversing `UJHFS` gives `SFHJU`$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1429,7 +1429,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{6}{2}$",
+        "text": "$\\frac{6}{2}$",
         "image": null
       },
       {
@@ -1449,7 +1449,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$The pattern isA * B = \\frac{A + B}{B}:$\n$*4 * 2= \\frac{4 + 2}{2}= \\frac{6}{2} = 3*8 * 4= \\frac{8 + 4}{4} = \\frac{12}{4} = 3* Similarly,21 * 7= \\frac{21 + 7}{7}= \\frac{28}{7} = 4$.",
+    "explanation": "$The pattern isA * B = \\frac{A + B}{B}:\n*4 * 2= \\frac{4 + 2}{2}= \\frac{6}{2} = 3*8 * 4= \\frac{8 + 4}{4} = \\frac{12}{4} = 3* Similarly,21 * 7= \\frac{21 + 7}{7}= \\frac{28}{7} = 4$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1523,7 +1523,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Starting from the origin$(0,0)$:\n1. $Walking 5 km South reaches(0, -5)$.\n2. $Turning right (facing West) and walking 3 km reaches(-3, -5)$.\n3. $Turning left (facing South) and walking 5 km reaches(-3, -10)$.\n\n$Compared to(0,0), the point(-3, -10)lies in the South-West direction$.",
+    "explanation": "Starting from the origin$(0,0):\n1. Walking 5 km South reaches(0, -5).\n2. Turning right (facing West) and walking 3 km reaches(-3, -5).\n3. Turning left (facing South) and walking 5 km reaches(-3, -10).\n\n$Compared to(0,0), the point(-3, -10)lies in the South-West direction$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1855,7 +1855,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The square root of 18265 is$sqrt{18265} \\approx 135.14$.\n\n$The closest lower perfect square is:135^2 = 18225Therefore, the least number to be subtracted is:18265 - 18225 = 40$.",
+    "explanation": "The square root of 18265 is$\\sqrt{18265} \\approx 135.14.\n\n$The closest lower perfect square is:135^2 = 18225Therefore, the least number to be subtracted is:$18265 - 18225 = 40$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1891,7 +1891,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the total work be the LCM of 36, 24, and 18, which is72units.\n\nEfficiencies:\n$* A + B efficiency= \\frac{72}{36} = 2units/day$\n$* B + C efficiency= \\frac{72}{24} = 3units/day$\n$* A + C efficiency= \\frac{72}{18} = 4units/day$\n\n$Adding these together:2(A + B + C) =2 + 3 + 4 = 9A + B + C= \\frac{9}{2} = 4.5text{ units/day}Time taken by all three working together:text{Time}= \\frac{72}{4.5} = 16text{ days}$.",
+    "explanation": "Let the total work be the LCM of 36, 24, and 18, which is72units.\n\nEfficiencies:\n$* A + B efficiency= \\frac{72}{36} = 2units/day$\n* B + C efficiency= \\frac{72}{24} = 3units/day\n* A + C efficiency= \\frac{72}{18} = 4units/day\n\n$Adding these together:2(A + B + C) =2 + 3 + 4 = 9A + B + C= \\frac{9}{2} = 4.5text{ units/day}Time taken by all three working together:text{Time}= \\frac{72}{4.5} = 16text{ days}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1927,7 +1927,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "A diagonal divides a parallelogram into two triangles of equal area.\n\n$For a triangle with sidesa = 29\\text{ cm},b = 21\\text{ cm}, andc = 20\\text{ cm}:$\n$* Semi-perimeters = \\frac{a+b+c}{2} = \\frac{29+21+20}{2} = 35\\text{ cm}Using Heron's Formula:text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}= \\sqrt{35 \\times(35-29)times(35-21)times(35-20)}= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2Therefore, the area of the parallelogram is:text{Area} = 2 \\times 210 = 420\\text{ cm}^2.*(Note: Since20^2 + 21^2 =400 + 441 = 841 = 29^2, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simplytext{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2.)*$",
+    "explanation": "A diagonal divides a parallelogram into two triangles of equal area.\n\n$For a triangle with sidesa = 29\\text{ cm},b = 21\\text{ cm}, andc = 20\\text{ cm}:\n* Semi-perimeters = \\frac{a+b+c}{2} = \\frac{29+21+20}{2} = 35\\text{ cm}Using Heron's Formula:text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}= \\sqrt{35 \\times(35-29)times(35-21)times(35-20)}= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2Therefore, the area of the parallelogram is:text{Area} = 2 \\times 210 = 420\\text{ cm}^2.*(Note: Since20^2 + 21^2 =400 + 441 = 841 = 29^2, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simplytext{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2.)*$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1963,7 +1963,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the cost price (CP) be$100x$.\n$* Marked Price (MP)= 120x(20% markup)$\n$* Selling Price (SP)= 108x(8% profit)$\n\n$Discount amount= 120x - 108x = 12x$.\n\n$Discount percentage is:text{Discount \\%} = \\frac{12x}{120x} \\times 100 = 10\\%$.",
+    "explanation": "Let the cost price (CP) be$100x.\n* Marked Price (MP)= 120x(20% markup)\n* Selling Price (SP)= 108x(8% profit)\n\nDiscount amount= 120x - 108x = 12x.\n\n$Discount percentage is:text{Discount \\%} = \\frac{12x}{120x} \\times 100 = 10\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2035,7 +2035,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Sum of ages of 36 students= 36 \\times 14 = 504years$.\n\n$Let the teacher's age bexyears. The new group size is37and the new average is14 + 1 = 15years.frac{504 + x}{37} = 15504 + x = 555x =555 - 504 = 51text{ years}$.",
+    "explanation": "$Sum of ages of 36 students= 36 \\times 14 = 504years.\n\nLet the teacher's age bexyears. The new group size is37and the new average is14 + 1 = 15years.\\frac{504 + x}{37} = 15504 + x = 555x =555 - 504 = 51text{ years}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2107,7 +2107,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let B's salary be100.\n$* A's salary= 150(50% more than B)$\n\n$B's salary is less than A's by:frac{150 - 100}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.",
+    "explanation": "Let B's salary be100.\n$* A's salary= 150(50% more than B)$\n\nB's salary is less than A's by:\\frac{$150 - 100$}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2179,7 +2179,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given:\n$* PrincipalP = \\text{Rs. } 1* TimeT = 1\\text{ month} = \\frac{1}{12}\\text{ year}* Simple InterestSI = 1\\text{ paisa} = \\text{Rs. } 0.01 = \\text{Rs. } \\frac{1}{100}Using the Simple Interest formula:SI = \\frac{P \\times R \\times T}{100}frac{1}{100} = \\frac{1 \\times R \\times \\frac{1}{12}}{100}1 = R \\times \\frac{1}{12}R = 12\\%$.",
+    "explanation": "Given:\n$* PrincipalP = \\text{Rs. } 1* TimeT = 1\\text{ month} = \\frac{1}{12}\\text{ year}* Simple InterestSI = 1\\text{ paisa} = \\text{Rs. } 0.01 = \\text{Rs. } \\frac{1}{100}Using the Simple Interest formula:SI = \\frac{P \\times R \\times T}{100}\\frac{1}{100} = \\frac{1 \\times R \\times \\frac{1}{12}}{100}1 = R \\times \\frac{1}{12}R = 12\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2215,7 +2215,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Given:$frac{a}{b} + \\frac{b}{a} = 1frac{a^2 + b^2}{ab} = 1 \\implies a^2 + b^2 = ab \\implies a^2 + b^2 - ab = 0We know the algebraic identity:a^3 + b^3 = (a + b)(a^2 - ab + b^2)Substitutinga^2 - ab + b^2 = 0:a^3 + b^3 = (a + b) \\times 0 = 0$.",
+    "explanation": "Given:$\\frac{a}{b} + \\frac{b}{a} = 1frac{a^2 + b^2}{ab} = 1 \\implies a^2 + b^2 = ab \\implies a^2 + b^2 - ab = 0We know the algebraic identity:a^3 + b^3 = (a + b)(a^2 - ab + b^2)Substitutinga^2 - ab + b^2 = 0:a^3 + b^3 = (a + b) \\times 0 = 0$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2251,7 +2251,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Let the given expression beE = p(p^2 + 3p + 3) = p^3 + 3p^2 + 3p$.\n\n$Adding 1 to the expression:E + 1 = p^3 + 3p^2 + 3p + 1 = (p + 1)^3Givenp = 99, we have:E + 1 =(99 + 1)^3 = 100^3 = 1000000E =1000000 - 1 = 999999$.",
+    "explanation": "$Let the given expression beE = p(p^2 + 3p + 3) = p^3 + 3p^2 + 3p$.\n\nAdding 1 to the expression:E + 1 = p^$3 + 3$p^$2 + 3$p + 1 = (p + 1)^3Givenp = 99, we have:E + 1 =$(99 + 1)$^3 = 100^3 = 1000000E =$1000000 - 1 = 999999$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2323,7 +2323,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Rearranging the equation:frac{x}{a+b} - \\frac{x}{a-b} = \\frac{a-b}{a+b} - 1x\\left(\\frac{a-b - (a+b)}{(a+b)(a-b)}\\right) = \\frac{a-b - (a+b)}{a+b}x\\left(\\frac{-2b}{(a+b)(a-b)}\\right) = \\frac{-2b}{a+b}Dividing both sides byfrac{-2b}{a+b}:frac{x}{a-b} = 1 \\implies x = a - b$.",
+    "explanation": "$Rearranging the equation:\\frac{x}{a+b} - \\frac{x}{a-b} = \\frac{a-b}{a+b} - 1x\\left(\\frac{a-b - (a+b)}{(a+b)(a-b)}\\right) = \\frac{a-b - (a+b)}{a+b}x\\left(\\frac{-2b}{(a+b)(a-b)}\\right) = \\frac{-2b}{a+b}Dividing both sides byfrac{-2b}{a+b}:\\frac{x}{a-b} = 1 \\implies x = a - b$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2395,7 +2395,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Using the Pythagorean theorem intriangle ABC:AC = \\sqrt{AB^2 + BC^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = 5\\text{ cm}The area of the triangle can be calculated in two ways:text{Area} = \\frac{1}{2} \\times AB \\times BC = \\frac{1}{2} \\times 3 \\times 4 = 6\\text{ cm}^2text{Area} = \\frac{1}{2} \\times AC \\times BD = \\frac{1}{2} \\times 5 \\times BDEquating the two expressions for area:frac{1}{2} \\times 5 \\times BD = 65 \\times BD = 12 \\implies BD = 2.4\\text{ cm}$.",
+    "explanation": "$Using the Pythagorean theorem intriangle ABC:AC = \\sqrt{AB^2 + BC^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = 5\\text{ cm}The area of the triangle can be calculated in two ways:text{Area} = \\frac{1}{2} \\times AB \\times BC = \\frac{1}{2} \\times 3 \\times 4 = 6\\text{ cm}^2text{Area} = \\frac{1}{2} \\times AC \\times BD = \\frac{1}{2} \\times 5 \\times BDEquating the two expressions for area:\\frac{1}{2} \\times 5 \\times BD = 65 \\times BD = 12 \\implies BD = 2.4\\text{ cm}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2431,7 +2431,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$SinceDandEare midpoints ofABandACrespectively, by midpoint theorem,DE \\parallel BCandDE = \\frac{1}{2}BC$.\n\nThus,$triangle ADE \\sim \\triangle ABC$with a similarity ratio of$1:2$.\n\n$The ratio of their areas is:frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}If the area oftriangle ABCis4x, then the area oftriangle ADEisx$.\n\n$The area of trapeziumBDECis:text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3xReflecting the ratio:frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies4:3$.",
+    "explanation": "$SinceDandEare midpoints ofABandACrespectively, by midpoint theorem,DE \\parallel BCandDE = \\frac{1}{2}BC$.\n\nThus,$triangle ADE \\sim \\triangle ABC$with a similarity ratio of$1:2.\n\nThe ratio of their areas is:\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}If the area oftriangle ABCis4x, then the area oftriangle ADEisx.\n\n$The area of trapeziumBDECis:text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3xReflecting the ratio:\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies4:3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2503,7 +2503,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$We can simplify the expression:E = \\sec^2 17^\\circ - \\cot^2 73^\\circ - \\sin 17^\\circ \\sec 73^\\circSincecot(90^\\circ - \\theta) = \\tan \\theta, we havecot 73^\\circ = \\tan 17^\\circ$.\n$Sincesec 73^\\circ = \\csc 17^\\circ:E = (\\sec^2 17^\\circ - \\tan^2 17^\\circ) - \\sin 17^\\circ \\csc 17^\\circUsing the identitiessec^2 \\theta - \\tan^2 \\theta = 1andsin \\theta \\csc \\theta = 1:E =1 - 1 = 0$.",
+    "explanation": "$We can simplify the expression:E = \\sec^2 17^\\circ - \\cot^2 73^\\circ - \\sin 17^\\circ \\sec 73^\\circSincecot(90^\\circ - \\theta) = \\tan \\theta, we havecot 73^\\circ = \\tan 17^\\circ.\nSincesec 73^\\circ = \\csc 17^\\circ:E = (\\sec^2 17^\\circ - \\tan^2 17^\\circ) - \\sin 17^\\circ \\csc 17^\\circUsing the identitiessec^2 \\theta - \\tan^2 \\theta = 1andsin \\theta \\csc \\theta = 1:E =1 - 1 = 0$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2575,7 +2575,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$LetCEbe the observer of height1.6\\text{ m}at a distance ofDE = 45\\text{ m}from the towerAD$.\n\nBy symmetry:\n$*BC = DE = 45\\text{ m}*BD = CE = 1.6\\text{ m}In right-angledtriangle ABC:tan 30^\\circ = \\frac{AB}{BC}frac{1}{\\sqrt{3}} = \\frac{AB}{45} \\implies AB = \\frac{45}{\\sqrt{3}} = 15\\sqrt{3}\\text{ m}AB = 15 \\times 1.732 = 25.98\\text{ m}Total height of the tower:AD = AB + BD =25.98 + 1.6 = 27.58text{ m}$.",
+    "explanation": "$LetCEbe the observer of height1.6\\text{ m}at a distance ofDE = 45\\text{ m}from the towerAD$.\n\nBy symmetry:\n$*BC = DE = 45\\text{ m}*BD = CE = 1.6\\text{ m}In right-angledtriangle ABC:tan 30^\\circ = \\frac{AB}{BC}\\frac{1}{\\sqrt{3}} = \\frac{AB}{45} \\implies AB = \\frac{45}{\\sqrt{3}} = 15\\sqrt{3}\\text{ m}AB = 15 \\times 1.732 = 25.98\\text{ m}Total height of the tower:AD = AB + BD =25.98 + 1.6 = 27.58text{ m}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

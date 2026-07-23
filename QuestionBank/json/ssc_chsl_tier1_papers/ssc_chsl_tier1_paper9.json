@@ -44,7 +44,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "$Calculate the value of (5^(frac{1}{4}) - 1)(5^(frac{3}{4}) + 5^(frac{2}{4}) + 5^(frac{1}{4}) + 1)$",
+    "question": "$Calculate the value of (5^(\\frac{1}{4}) - 1)(5^(\\frac{3}{4}) + 5^(\\frac{2}{4}) + 5^(\\frac{1}{4}) + 1)$",
     "questionImage": null,
     "options": [
       {
@@ -69,7 +69,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Let 5^(frac{1}{4}) = x$.\n$Expression = (x - 1)(x^3 + x^2 + x + 1) = x^4 - 1 = (5^(frac{1}{4}))^4 - 1 = 5 - 1 = 4$.",
+    "explanation": "$Let 5^(\\frac{1}{4}) = x$.\n$Expression = (x - 1)(x^3 + x^2 + x + 1) = x^4 - 1 = (5^(\\frac{1}{4}))^4 - 1 = 5 - 1 = 4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -91,12 +91,12 @@
       },
       {
         "id": "B",
-        "text": "-$2$",
+        "text": "-2",
         "image": null
       },
       {
         "id": "C",
-        "text": "-$1$",
+        "text": "-1",
         "image": null
       },
       {
@@ -155,7 +155,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Easy",
-    "question": "$A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=frac{1}{6} AB and AE=frac{1}{6} AC. If the value of BC is 18 cm then calculate the value of DE (in cm)$.",
+    "question": "$A line DE parallel to the side BC intersects the other two sides of triangle at point D and E such that AD=\\frac{1}{6} AB and AE=\\frac{1}{6} AC. If the value of BC is 18 cm then calculate the value of DE (in cm)$.",
     "questionImage": null,
     "options": [
       {
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\n$AD/AB = DE/BC => frac{1}{6} = DE/18 => DE = 3 cm$.",
+    "explanation": "Since DE || BC, ΔADE ~ ΔABC.\n$AD/AB = DE/BC => \\frac{1}{6} = DE/18 => DE = 3 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -254,7 +254,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the value 2 years ago be x. \n$x * (1 - frac{15}{100})^2 = 433500$\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
+    "explanation": "Let the value 2 years ago be x. \n$x * (1 - \\frac{15}{100})^2 = 433500$\n=> x * (0.85)^2 = 433500 => x * 0.7225 = 433500 => x = Rs 6,00,000.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -291,7 +291,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$To make C common: Multiply A:B:C = 2:3:5 by 2 => A:B:C = 4:6:10$.\n$Multiply C:D = 2:5 by 5 => C:D = 10:25$.\nTherefore, $A : D = 4:25$.",
+    "explanation": "$To make C common: Multiply A:B:C = 2:3:5 by 2 => A:B:C = 4:6:10.\n$Multiply C:D = $2:5$ by 5 => C:D = $10:25$.\nTherefore, $A : D = $4:25$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -328,7 +328,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Original Water = 35 * frac{6}{7} = 30 litres. Original Acid = 35 - 30 = 5 litres$.\nAdding 5 litres of acid: new acid = 10 litres.\n$New ratio of water and acid = 30:10 = 3:1$.",
+    "explanation": "$Original Water = 35 * \\frac{6}{7} = 30 litres. Original Acid = 35 - 30 = 5 litres$.\nAdding 5 litres of acid: new acid = 10 litres.\n$New ratio of water and acid = 30:10 = 3:1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -365,7 +365,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Total savings in 5 days = 5 * 160 = Rs 800$.\n$Savings in first 4 days = 155 + 170 + 134 + 168 = Rs 627$.\nSaving of 5th day = 800 - 627 = Rs 173.",
+    "explanation": "$Total savings in 5 days = 5 * 160 = Rs 800.\nSavings in first 4 days = 155 + 170 + 134 + 168 = Rs 627$.\nSaving of 5th day = $800 - 627$ = Rs 173.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Amount = P(1 + R/100)^T = 6000 * (1 + frac{8}{100})^2 = 6000 * (1.08)^2 = 6000 * 1.1664 = Rs 6998.4$.",
+    "explanation": "$Amount = P(1 + R/100)^T = 6000 * (1 + \\frac{8}{100})^2 = 6000 * (1.08)^2 = 6000 * 1.1664 = Rs 6998.4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$SP = CP * (1 + Profit%/100) = 122 + (frac{56}{100})*122 = 122 + 68.32 = Rs 190.32$.",
+    "explanation": "$SP = CP * (1 + Profit%/100) = 122 + (\\frac{56}{100})*122 = 122 + 68.32 = Rs 190.32$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -451,7 +451,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Profit and Loss",
     "difficulty": "Medium",
-    "question": "On Selling a watch at $frac{4}{5}$ of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
+    "question": "On Selling a watch at $\\frac{4}{5}$ of the marked price there is loss of 4%. What will be the ratio of the marked price and cost price of the watch?",
     "questionImage": null,
     "options": [
       {
@@ -530,27 +530,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{112}{17}$",
+        "text": "$\\frac{112}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{125}{12}$",
+        "text": "$\\frac{125}{12}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{115}{12}$",
+        "text": "$\\frac{115}{12}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{125}{17}$",
+        "text": "$\\frac{125}{17}$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$18 men = 25 boys => 1 man = frac{25}{18} boys$.\n$36 men + 10 boys = 36*(frac{25}{18}) + 10 = 50 + 10 = 60 boys$.\n$Since 25 boys take 25 days, 60 boys take (25 * 25) / 60 = frac{125}{12} days$.",
+    "explanation": "$18 men = 25 boys => 1 man = \\frac{25}{18} boys$.\n36 men + 10 boys = 36*(\\frac{25}{18}) + 10 = $50 + 10 = 60$ boys.\n$Since 25 boys take 25 days, 60 boys take (25 * 25) / 60 = \\frac{125}{12} days$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -587,7 +587,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Speed = 450 m / 9 s = 50 m/s. \n$Speed in km/hr = 50 * frac{18}{5} = 180 km/hr$.",
+    "explanation": "Speed = 450 m / 9 s = 50 m/s. \n$Speed in km/hr = 50 * \\frac{18}{5} = 180 km/hr$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -698,7 +698,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Number of elephants in D = 400. Total = 4000. \n$Required central angle = (frac{400}{4000}) * 360° = 36°$.",
+    "explanation": "Number of elephants in D = 400. Total = 4000. \n$Required central angle = (\\frac{400}{4000}) * 360° = 36°$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -772,7 +772,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Area of trapezium = frac{1}{2} * (sum of parallel sides) * height = frac{1}{2} * (8 + 10) * 6 = 9 * 6 = 54 cm^2$.",
+    "explanation": "$Area of trapezium = \\frac{1}{2} * (sum of parallel sides) * height = \\frac{1}{2} * (8 + 10) * 6 = 9 * 6 = 54 cm^2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -809,7 +809,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Circumference = 2 * pi * r = pi * d = (frac{22}{7}) * 7 = 22 cm$.",
+    "explanation": "$Circumference = 2 * pi * r = pi * d = (\\frac{22}{7}) * 7 = 22 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -883,7 +883,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\n$cos F + √3 = cos(60°) + √3 = frac{1}{2} + √3 = (1 + 2√3)/2$.",
+    "explanation": "In ΔDEF, ∠F = 180° - (90° + 30°) = 60°.\n$cos F + √3 = cos(60°) + √3 = \\frac{1}{2} + √3 = (1 + 2√3)/2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "$ΔDEF is right angled at E. If sinD = frac{15}{17}, then what is the value of cotF ?$",
+    "question": "$ΔDEF is right angled at E. If sinD = \\frac{15}{17}, then what is the value of cotF ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$frac{15}{17}$",
+        "text": "$\\frac{15}{17}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{8}{17}$",
+        "text": "$\\frac{8}{17}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{15}{8}$",
+        "text": "$\\frac{15}{8}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{17}{15}$",
+        "text": "$\\frac{17}{15}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$sin D = EF / DF = frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt(289 - 225) = sqrt(64) = 8.\n$cot F = Adjacent / Opposite = EF / DE = frac{15}{8}$.",
+    "explanation": "$sin D = EF / DF = \\frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt$(289 - 225)$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\frac{15}{8}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

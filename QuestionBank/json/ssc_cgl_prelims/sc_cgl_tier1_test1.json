@@ -536,7 +536,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n$879 →(7 + 9)− 8 = 8$\n625 →(2 + 5)− 6 = 1\n586 →(8 + 6)− 5 = 9\n$785 →(8 + 5)− 7 = 6$.",
+    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n$879 →(7 + 9)− 8 = 8$\n625 →$(2 + 5)$− 6 = 1\n586 →$(8 + 6)$− 5 = 9\n$785 →(8 + 5)− 7 = 6$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1846,7 +1846,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Work",
     "difficulty": "Easy",
-    "question": "A, B and C can work together for Rs. 550. A and B together are to do$frac{7}{11}$of the work. What should be the share of C?",
+    "question": "A, B and C can work together for Rs. 550. A and B together are to do$\\frac{7}{11}$of the work. What should be the share of C?",
     "questionImage": null,
     "options": [
       {
@@ -1871,7 +1871,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$A and B together completefrac{7}{11}of the work. Therefore, C completes the remainingfrac{4}{11}of the work. Hence, C's share =frac{4}{11} \\times 550 = 200$.",
+    "explanation": "$A and B together completefrac{7}{11}of the work. Therefore, C completes the remainingfrac{4}{11}of the work. Hence, C's share =\\frac{4}{11} \\times 550 = 200$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2052,7 +2052,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Speed =frac{240}{16}=15m/s. Converting to km/hr:15\\times\\frac{18}{5}=54km/hr$.",
+    "explanation": "$Speed =\\frac{240}{16}=15m/s. Converting to km/hr:15\\times\\frac{18}{5}=54km/hr$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2104,27 +2104,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{1}{8}$",
+        "text": "$\\frac{1}{8}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{3}{4}$",
+        "text": "$\\frac{3}{4}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{1}{2}$",
+        "text": "$\\frac{1}{2}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{1}{16}$",
+        "text": "$\\frac{1}{16}$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Fromx+3y=-3x+y, we get4x=-2y, sox=-\\frac{y}{2}. Therefore,frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}$.",
+    "explanation": "$Fromx+3y=-3x+y, we get4x=-2y, sox=-\\frac{y}{2}. Therefore,\\frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2284,22 +2284,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{10(a-c)}{b-a}$",
+        "text": "$\\frac{10(a-c)}{b-a}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{10(b-c)}{a-c}$",
+        "text": "$\\frac{10(b-c)}{a-c}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{10(a-b)}{a-c}$",
+        "text": "$\\frac{10(a-b)}{a-c}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{10(b-a)}{a-c}$",
+        "text": "$\\frac{10(b-a)}{a-c}$",
         "image": null
       }
     ],
@@ -2412,7 +2412,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\n$Half chord =sqrt{17^2-8^2}=\\sqrt{289-64}=15cm$.\nTherefore, $chord length =2\\times15=30cm$.",
+    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\n$Half chord =\\sqrt{17^2-8^2}=\\sqrt{289-64}=15cm$.\nTherefore, $chord length =2\\times15=30cm$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "questionImage": "q66.png"

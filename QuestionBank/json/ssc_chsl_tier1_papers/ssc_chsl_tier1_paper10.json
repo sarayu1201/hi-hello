@@ -69,7 +69,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Prime factorization of the expression: \n$(3^2)^11 * 5^7 * 7^5 * 3^2 * 17^2 = 3^22 * 5^7 * 7^5 * 3^2 * 17^2 = 3^24 * 5^7 * 7^5 * 17^2$.\n$Total number of prime factors = 24 + 7 + 5 + 2 = 38$.",
+    "explanation": "Prime factorization of the expression: \n$(3^2)^11 * 5^7 * 7^5 * 3^2 * 17^2 = 3^22 * 5^7 * 7^5 * 3^2 * 17^2 = 3^24 * 5^7 * 7^5 * 17^2$.\nTotal number of prime factors = $24 + 7 + 5 + 2 = 38$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -143,7 +143,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "For parallel lines: a1/a2 = b1/b2 != c1/c2.\n$=> frac{4}{1} = 4k/6 => 4k = 24 => k = 6$.",
+    "explanation": "For parallel lines: a1/a2 = b1/b2 != c1/c2.\n$=> \\frac{4}{1} = 4k/6 => 4k = 24 => k = 6$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^2 + 8^2 = 100 => PB = 10 cm$.\nSince ΔAPB ~ ΔCQB (by AA similarity):\n$AP/CQ = PB/QB => frac{6}{3} = 10/QB => QB = 5 cm$.\n$Length of PQ = PB + QB = 10 + 5 = 15 cm$.",
+    "explanation": "$In right ΔAPB, PB^2 = AP^2 + AB^2 = 6^2 + 8^2 = 100 => PB = 10 cm$.\nSince ΔAPB ~ ΔCQB (by AA similarity):\n$AP/CQ = PB/QB => \\frac{6}{3} = 10/QB => QB = 5 cm$.\n$Length of PQ = PB + QB = 10 + 5 = 15 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -266,7 +266,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Ratio and Proportion",
     "difficulty": "Medium",
-    "question": "$If (frac{3}{2})X = (frac{5}{7})Y = (frac{6}{5})Z, then what is X:Y:Z ?$",
+    "question": "$If (\\frac{3}{2})X = (\\frac{5}{7})Y = (\\frac{6}{5})Z, then what is X:Y:Z ?$",
     "questionImage": null,
     "options": [
       {
@@ -291,7 +291,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Let (frac{3}{2})X = (frac{5}{7})Y = (frac{6}{5})Z = k$.\n=> X = 2k/3, Y = 7k/5, Z = 5k/6. \n$=> X : Y : Z = frac{2}{3} : frac{7}{5} : frac{5}{6}$.\n$Multiplying by LCM(3, 5, 6) = 30 gives: 20:42 : 25$.",
+    "explanation": "$Let (\\frac{3}{2})X = (\\frac{5}{7})Y = (\\frac{6}{5})Z = k.\n=> X = 2k/3, Y = 7k/5, Z = 5k/6. \n=> X : Y : Z = \\frac{2}{3} : \\frac{7}{5} : \\frac{5}{6}.\nMultiplying by LCM(3, 5, 6) = 30 gives: 20:42 : 25$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -328,7 +328,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Quantity of water in original mixture = 30% of 7 = 2.1 litres. \n$Total new mixture = 7 + 3.5 = 10.5 litres$.\n$Percentage of water in new mixture = (2.1 / 10.5) * 100 = 20%$.",
+    "explanation": "Quantity of water in original mixture = 30% of 7 = 2.1 litres. \n$Total new mixture = 7 + 3.5 = 10.5 litres.\nPercentage of water in new mixture = (2.1 / 10.5) * 100 = 20%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -476,7 +476,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let marked price of each article = Rs 100.\n$Scheme I: Net discount = 10% + 10% - (10*10)/100 = 19%$.\n$Scheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = (frac{1}{8})*100 = 12.5%$.\n$Scheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount % = (frac{1}{10})*100 = 10%$.\nScheme III has the lowest discount percentage.",
+    "explanation": "Let marked price of each article = Rs 100.\n$Scheme I: Net discount = 10% + 10% - (10*10)/100 = 19%$.\nScheme II: Buy 7 get 8 means 1 article is free out of 8. Discount % = (\\frac{1}{8})*100 = 12.5%.\n$Scheme III: Buy 9 get 1 free means 1 article is free out of 10. Discount % = (\\frac{1}{10})*100 = 10%$.\nScheme III has the lowest discount percentage.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -525,7 +525,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Time and Work",
     "difficulty": "Medium",
-    "question": "X can complete $frac{5}{7}$ part of a work in 10 days and Y can complete $frac{3}{4}$ part of the same work in 9 days. In how many days will both complete $frac{13}{21}$ part of the total work?",
+    "question": "X can complete $\\frac{5}{7}$ part of a work in 10 days and Y can complete $\\frac{3}{4}$ part of the same work in 9 days. In how many days will both complete $\\frac{13}{21}$ part of the total work?",
     "questionImage": null,
     "options": [
       {
@@ -550,7 +550,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$X can complete the full work in 10 * frac{7}{5} = 14 days$.\n$Y can complete the full work in 9 * frac{4}{3} = 12 days$.\n$Together, 1 day's work = frac{1}{14} + frac{1}{12} = frac{13}{84}$.\n$Time taken to complete frac{13}{21} of the work = (frac{13}{21}) / (frac{13}{84}) = 84 / 21 = 4 days$.",
+    "explanation": "$X can complete the full work in 10 * \\frac{7}{5} = 14 days$.\nY can complete the full work in 9 * \\frac{4}{3} = 12 days.\nTogether, 1 day's work = \\frac{1}{14} + \\frac{1}{12} = \\frac{13}{84}.\n$Time taken to complete \\frac{13}{21} of the work = (\\frac{13}{21}) / (\\frac{13}{84}) = 84 / 21 = 4 days$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -587,7 +587,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Time duration = 8:00 a.m. to 1:30 p.m. = 5.5 hours$.\n$Distance = Speed * Time = 30 * 5.5 = 165 km$.",
+    "explanation": "$Time duration = 8:00 a.m. to 1:30 p.m. = 5.5 hours.\nDistance = Speed * Time = 30 * 5.5 = 165 km$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -772,7 +772,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Area of equilateral triangle = (√frac{3}{4}) * s^2 = (√frac{3}{4}) * 100 = 25√3 cm^2$.",
+    "explanation": "$Area of equilateral triangle = (√\\frac{3}{4}) * s^2 = (√\\frac{3}{4}) * 100 = 25√3 cm^2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -846,7 +846,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \n$Curved Surface Area = 2 * pi * r * h = 660 => 2 * (frac{22}{7}) * (frac{21}{2}) * h = 660 => 66h = 660 => h = 10 cm$.",
+    "explanation": "Diameter = 21 cm => Radius r = 10.5 cm. \n$Curved Surface Area = 2 * pi * r * h = 660 => 2 * (\\frac{22}{7}) * (\\frac{21}{2}) * h = 660 => 66h = 660 => h = 10 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -873,7 +873,7 @@
       },
       {
         "id": "C",
-        "text": "$frac{7}{3}$",
+        "text": "$\\frac{7}{3}$",
         "image": null
       },
       {
@@ -883,7 +883,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Expression = 1/√3 + cos(60°) = 1/√3 + frac{1}{2} = (2 + √3)/2√3$.",
+    "explanation": "$Expression = 1/√3 + cos(60°) = 1/√3 + \\frac{1}{2} = (2 + √3)/2√3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,32 +895,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "$ΔABC is right angled at B. If cos A = frac{8}{17}, then what is the value of cot C ?$",
+    "question": "$ΔABC is right angled at B. If cos A = \\frac{8}{17}, then what is the value of cot C ?$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$frac{15}{8}$",
+        "text": "$\\frac{15}{8}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{15}{17}$",
+        "text": "$\\frac{15}{17}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{8}{17}$",
+        "text": "$\\frac{8}{17}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{17}{15}$",
+        "text": "$\\frac{17}{15}$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$cos A = AB/AC = frac{8}{17}. Let AB = 8, AC = 17$.\nBC = sqrt(AC^2 - AB^2) = sqrt(289 - 64) = sqrt(225) = 15.\n$cot C = Adjacent / Opposite = BC / AB = frac{15}{8}$.",
+    "explanation": "$cos A = AB/AC = \\frac{8}{17}. Let AB = 8, AC = 17$.\nBC = sqrt(AC^2 - AB^2) = sqrt$(289 - 64)$ = sqrt(225) = 15.\ncot C = Adjacent / Opposite = BC / AB = \\frac{15}{8}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

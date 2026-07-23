@@ -67,7 +67,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Let height of the pole be h. sin(30°) = h / hypotenuse => frac{1}{2} = h / 12 => h = 6 meters$.",
+    "explanation": "$Let height of the pole be h. sin(30°) = h / hypotenuse => \\frac{1}{2} = h / 12 => h = 6 meters$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -114,32 +114,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simple Interest",
     "difficulty": "Medium",
-    "question": "A person borrowed some money on simple interest. After 3 years, he returned $frac{4}{3}$ of the money to the lender. What was the rate of interest?",
+    "question": "A person borrowed some money on simple interest. After 3 years, he returned $\\frac{4}{3}$ of the money to the lender. What was the rate of interest?",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "11 $frac{4}{9}$ % p.a",
+        "text": "$11 \\frac{4}{9} % p.a$",
         "image": null
       },
       {
         "id": "B",
-        "text": "11 $frac{1}{9}$ % p.a",
+        "text": "$11 \\frac{1}{9} % p.a$",
         "image": null
       },
       {
         "id": "C",
-        "text": "11 $frac{2}{9}$ % p.a",
+        "text": "$11 \\frac{2}{9} % p.a$",
         "image": null
       },
       {
         "id": "D",
-        "text": "11 $frac{3}{9}$ % p.a",
+        "text": "$11 \\frac{3}{9} % p.a$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Amount returned A = frac{4}{3} * P. Simple Interest SI = A - P = frac{1}{3} * P. SI = (P * R * T) / 100 => P/3 = (P * R * 3) / 100 => frac{1}{3} = 3R / 100 => R = 100 / 9 = 11 frac{1}{9} % p.a$.",
+    "explanation": "$Amount returned A = \\frac{4}{3} * P. Simple Interest SI = A - P = \\frac{1}{3} * P. SI = (P * R * T) / 100 => P/3 = (P * R * 3) / 100 => \\frac{1}{3} = 3R / 100 => R = 100 / 9 = 11 \\frac{1}{9} % p.a$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -150,32 +150,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Speed Time and Distance",
     "difficulty": "Medium",
-    "question": "$A person covers frac{1}{4} of his journey at the speed of 25 km/h, frac{1}{2} of the journey at 40 km/h and the remaining at the speed of 50 km/h. Find his average speed per hour for the whole journey (in km/h)$.",
+    "question": "$A person covers \\frac{1}{4} of his journey at the speed of 25 km/h, \\frac{1}{2} of the journey at 40 km/h and the remaining at the speed of 50 km/h. Find his average speed per hour for the whole journey (in km/h)$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "36 $frac{4}{11}$",
+        "text": "$36 \\frac{4}{11}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "34 $frac{4}{11}$",
+        "text": "$34 \\frac{4}{11}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "34 $frac{6}{11}$",
+        "text": "$34 \\frac{6}{11}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "36 $frac{6}{11}$",
+        "text": "$36 \\frac{6}{11}$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Let total distance be D. Time taken T = (D/4)/25 + (D/2)/40 + (D/4)/50 = D/100 + D/80 + D/200 = D * (8 + 10 + 4)/800 = 22D/800 = 11D/400. Average speed = Distance / Time = D / (11D/400) = frac{400}{11} = 36 frac{4}{11} km/h$.",
+    "explanation": "$Let total distance be D. Time taken T = (D/4)/25 + (D/2)/40 + (D/4)/50 = D/100 + D/80 + D/200 = D * (8 + 10 + 4)/800 = 22D/800 = 11D/400. Average speed = Distance / Time = D / (11D/400) = \\frac{400}{11} = 36 \\frac{4}{11} km/h$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -335,7 +335,7 @@
     "options": [
       {
         "id": "A",
-        "text": "The area of the triangle with the largest side l always has an area less than l^$frac{2}{2}$.",
+        "text": "The area of the triangle with the largest side l always has an area less than l^$\\frac{2}{2}$.",
         "image": null
       },
       {
@@ -355,7 +355,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$For an isosceles triangle with sides 2a, 2a, 3a: semi-perimeter s = (2a+2a+3a)/2 = 3.5a. Area = \\sqrt{s(s-2a)(s-2a)(s-3a)} = \\sqrt{3.5a * 1.5a * 1.5a * 0.5a} = 1.5a^2 * \\sqrt{1.75} = (frac{3}{4})*\\sqrt{7}a^2, which is not equal to (3\\sqrt{5}a^2)/2$.",
+    "explanation": "$For an isosceles triangle with sides 2a, 2a, 3a: semi-perimeter s = (2a+2a+3a)/2 = 3.5a. Area = \\sqrt{s(s-2a)(s-2a)(s-3a)} = \\sqrt{3.5a * 1.5a * 1.5a * 0.5a} = 1.5a^2 * \\sqrt{1.75} = (\\frac{3}{4})*\\sqrt{7}a^2, which is not equal to (3\\sqrt{5}a^2)/2$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -391,7 +391,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Investment ratios: A = 25000 * 9 = 225,000. B = 50000 * 12 = 600,000. C = 30000 * 5 = 150,000. Ratio = 225:600 : 150 = 9:24 : 6 = 3:8 : 2. Total parts = 3 + 8 + 2 = 13. C's share = (frac{2}{13}) * 3900 = ₹600$.",
+    "explanation": "$Investment ratios: A = 25000 * 9 = 225,000. B = 50000 * 12 = 600,000. C = 30000 * 5 = 150,000. Ratio = 225:600 : 150 = 9:24 : 6 = 3:8 : 2. Total parts = 3 + 8 + 2 = 13. C's share = (\\frac{2}{13}) * 3900 = ₹600$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -618,32 +618,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "$If x = (frac{3}{2})^2 \\times (frac{2}{3})^-4, find the value of x^-2$.",
+    "question": "$If x = (\\frac{3}{2})^2 \\times (\\frac{2}{3})^-4, find the value of x^-2$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "($frac{3}{2}$)^12",
+        "text": "$(\\frac{3}{2})^12$",
         "image": null
       },
       {
         "id": "B",
-        "text": "($frac{2}{3}$)^6",
+        "text": "$(\\frac{2}{3})^6$",
         "image": null
       },
       {
         "id": "C",
-        "text": "($frac{3}{2}$)^6",
+        "text": "$(\\frac{3}{2})^6$",
         "image": null
       },
       {
         "id": "D",
-        "text": "($frac{2}{3}$)^12",
+        "text": "$(\\frac{2}{3})^12$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$x = (frac{3}{2})^2 * (frac{3}{2})^4 = (frac{3}{2})^6. x^-2 = ((frac{3}{2})^6)^-2 = (frac{3}{2})^-12 = (frac{2}{3})^12$.",
+    "explanation": "$x = (\\frac{3}{2})^2 * (\\frac{3}{2})^4 = (\\frac{3}{2})^6. x^-2 = ((\\frac{3}{2})^6)^-2 = (\\frac{3}{2})^-12 = (\\frac{2}{3})^12$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -654,32 +654,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Probability",
     "difficulty": "Medium",
-    "question": "$If A and B are events with P(A) = frac{3}{8}, P(B) = frac{1}{2} and P(A \\cap B) = frac{1}{4}. Find P(A' \\cap B)$.",
+    "question": "$If A and B are events with P(A) = \\frac{3}{8}, P(B) = \\frac{1}{2} and P(A \\cap B) = \\frac{1}{4}. Find P(A' \\cap B)$.",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$frac{1}{8}$",
+        "text": "$\\frac{1}{8}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{3}{8}$",
+        "text": "$\\frac{3}{8}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{7}{8}$",
+        "text": "$\\frac{7}{8}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{5}{8}$",
+        "text": "$\\frac{5}{8}$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$P(A' \\cap B) = P(B) - P(A \\cap B) = frac{1}{2} - frac{1}{4} = frac{1}{4}. Wait, the option marked correct is 2 which is frac{3}{8}? Let's check: P(A' \\cap B')? No, P(A' \\cap B) = P(B) - P(A \\cap B) = frac{4}{8} - frac{2}{8} = frac{2}{8} = frac{1}{4}? Wait! Let's check checkmark next to 2. The checkmark is on Option 2. Option 2 has text frac{3}{8}? Wait! Let's check the options in the OCR: 1. frac{1}{8}, 2. frac{3}{8}, 3. frac{7}{8}, 4. frac{5}{8}. And the checkmark is on 2 (frac{3}{8}). Wait! Is the calculation: P(A \\cup B)' = 1 - (frac{3}{8} + frac{1}{2} - frac{1}{4}) = 1 - frac{5}{8} = frac{3}{8}! Ah! P(A' \\cap B') = P((A \\cup B)') = frac{3}{8}. So the question in the paper is actually P(A' \\cap B') which was parsed as P(A' \\cap B) due to superscript. The correct value is frac{3}{8}$.",
+    "explanation": "$P(A' \\cap B) = P(B) - P(A \\cap B) = \\frac{1}{2} - \\frac{1}{4} = \\frac{1}{4}. Wait, the option marked correct is 2 which is \\frac{3}{8}? Let's check: P(A' \\cap B')? No, P(A' \\cap B) = P(B) - P(A \\cap B) = \\frac{4}{8} - \\frac{2}{8} = \\frac{2}{8} = \\frac{1}{4}? Wait! Let's check checkmark next to 2. The checkmark is on Option 2. Option 2 has text \\frac{3}{8}? Wait! Let's check the options in the OCR: 1. \\frac{1}{8}, 2. \\frac{3}{8}, 3. \\frac{7}{8}, 4. \\frac{5}{8}. And the checkmark is on 2 (\\frac{3}{8}). Wait! Is the calculation: P(A \\cup B)' = 1 - (\\frac{3}{8} + \\frac{1}{2} - \\frac{1}{4}) = 1 - \\frac{5}{8} = \\frac{3}{8}! Ah! P(A' \\cap B') = P((A \\cup B)') = \\frac{3}{8}. So the question in the paper is actually P(A' \\cap B') which was parsed as P(A' \\cap B) due to superscript. The correct value is \\frac{3}{8}$.",
     "marks": 3,
     "negativeMarks": 1
   },
@@ -1014,7 +1014,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Mensuration",
     "difficulty": "Medium",
-    "question": "$The diameter of a hemispherical bowl is 21 cm. The volume of the bowl is equal to: (use \\pi = frac{22}{7})$",
+    "question": "$The diameter of a hemispherical bowl is 21 cm. The volume of the bowl is equal to: (use \\pi = \\frac{22}{7})$",
     "questionImage": null,
     "options": [
       {
@@ -1039,7 +1039,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Radius r = frac{21}{2} = 10.5 cm. Volume of hemisphere = frac{2}{3} * \\pi * r^3 = frac{2}{3} * frac{22}{7} * (10.5)^3 = 2425.5 cm^3$.",
+    "explanation": "$Radius r = \\frac{21}{2} = 10.5 cm. Volume of hemisphere = \\frac{2}{3} * \\pi * r^3 = \\frac{2}{3} * \\frac{22}{7} * (10.5)^3 = 2425.5 cm^3$.",
     "marks": 3,
     "negativeMarks": 1
   },

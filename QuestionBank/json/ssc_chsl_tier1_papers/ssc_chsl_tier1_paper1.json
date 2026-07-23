@@ -67,7 +67,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Express each value as a power of 2: √2 = 2^(frac{1}{2}), ∛2 = 2^(frac{1}{3}), ⁴√2 = 2^(frac{1}{4}), and ⁵√2 = 2^(frac{1}{5}). Since the base 2 is greater than 1, the value increases as the exponent increases. As frac{1}{2} > frac{1}{3} > frac{1}{4} > frac{1}{5}, √2 is the largest among the given options$.",
+    "explanation": "$Express each value as a power of 2: √2 = 2^(\\frac{1}{2}), ∛2 = 2^(\\frac{1}{3}), ⁴√2 = 2^(\\frac{1}{4}), and ⁵√2 = 2^(\\frac{1}{5}). Since the base 2 is greater than 1, the value increases as the exponent increases. As \\frac{1}{2} > \\frac{1}{3} > \\frac{1}{4} > \\frac{1}{5}, √2 is the largest among the given options$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -177,7 +177,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = 5:13 and EC = 26 cm, AE = (frac{5}{13}) × 26 = 10 cm$.",
+    "explanation": "$Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = 5:13 and EC = 26 cm, AE = (\\frac{5}{13}) × 26 = 10 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -213,7 +213,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Diameter = 154 cm ⇒ Circumference = πd = (frac{22}{7}) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ (4.84 \\times 60) ≈ 113.63 ≈ 114$.",
+    "explanation": "$Diameter = 154 cm ⇒ Circumference = πd = (\\frac{22}{7}) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ (4.84 \\times 60) ≈ 113.63 ≈ 114$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -429,7 +429,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Profit = 32% of 360 = (frac{32}{100}) × 360 = Rs. 115.2$.",
+    "explanation": "$Profit = 32% of 360 = (\\frac{32}{100}) × 360 = Rs. 115.2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -465,7 +465,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$After a 20% discount, the price becomes Rs. 360. Applying a further 5% discount gives 360 × frac{95}{100} = Rs. 342$.",
+    "explanation": "$After a 20% discount, the price becomes Rs. 360. Applying a further 5% discount gives 360 × \\frac{95}{100} = Rs. 342$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -573,7 +573,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Relative speed = 84 − 42 = 42 km/hr = frac{35}{3} m/s. Total distance to be covered = 320 + 380 = 700 m. Time = 700 ÷ (frac{35}{3}) = 60 seconds$.",
+    "explanation": "$Relative speed = 84 − 42 = 42 km/hr = \\frac{35}{3} m/s. Total distance to be covered = 320 + 380 = 700 m. Time = 700 ÷ (\\frac{35}{3}) = 60 seconds$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -687,7 +687,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = (frac{150}{2000}) × 360 = 27°$.",
+    "explanation": "$Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = (\\frac{150}{2000}) × 360 = 27°$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -725,7 +725,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = (frac{250}{2000}) × 100 = 12.5%$.",
+    "explanation": "$Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = (\\frac{250}{2000}) × 100 = 12.5%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -833,7 +833,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Total surface area = 6a² = 73.5. Therefore, a² = 73.frac{5}{6} = 12.25 and a = √12.25 = 3.5 cm$.",
+    "explanation": "$Total surface area = 6a² = 73.5. Therefore, a² = 73.\\frac{5}{6} = 12.25 and a = √12.25 = 3.5 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -844,7 +844,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "What is the value of ($frac{1}{3}$ − cosec 30°)?",
+    "question": "What is the value of ($\\frac{1}{3}$ − cosec 30°)?",
     "questionImage": null,
     "options": [
       {
@@ -854,22 +854,22 @@
       },
       {
         "id": "B",
-        "text": "-$frac{1}{2}$",
+        "text": "-$\\frac{1}{2}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "-$frac{5}{3}$",
+        "text": "-$\\frac{5}{3}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{3}{2}$",
+        "text": "$\\frac{3}{2}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Since cosec 30° = 2, the expression becomes (frac{1}{3} − 2) = (1 − 6)/3 = -frac{5}{3}$.",
+    "explanation": "$Since cosec 30° = 2, the expression becomes (\\frac{1}{3} − 2) = (1 − 6)/3 = -\\frac{5}{3}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -880,7 +880,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "$In ΔDEF, ∠E = 90°. If sec D = frac{25}{7} and DE = 1.4 cm, then find the length (in cm) of DF$.",
+    "question": "$In ΔDEF, ∠E = 90°. If sec D = \\frac{25}{7} and DE = 1.4 cm, then find the length (in cm) of DF$.",
     "questionImage": "ssc_chsl_tier1_paper1_q25.png",
     "imageStatus": "MANUAL_REQUIRED",
     "imageNote": "Attach the original right triangle diagram from the source document.",
@@ -907,7 +907,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = (frac{25}{7}) × 1.4 = 5 cm$.",
+    "explanation": "$sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = (\\frac{25}{7}) × 1.4 = 5 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

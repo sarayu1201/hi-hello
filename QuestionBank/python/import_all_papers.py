@@ -148,45 +148,52 @@ def to_latex(text):
         return text
         
     text = str(text)
-    if "$" in text:
-        return text
     
-    # 1. Mixed fractions like "11 1 9%" or "11 1/9%" or "33 1/3%"
-    # e.g., "11 1 9%" -> "$11 \frac{1}{9}\%$"
-    text = re.sub(r'\b(\d+)\s+(\d+)\s+(\d+)%', r'$\1 \\frac{\2}{\3}\%$', text)
-    text = re.sub(r'\b(\d+)\s+(\d+)/(\d+)%', r'$\1 \\frac{\2}{\3}\%$', text)
+    # Split text by '$'
+    parts = text.split('$')
     
-    # 2. Standalone fractions like "7/5" or "3/2"
-    # e.g., "7/5" -> "$\frac{7}{5}$"
-    # Note: Make sure it's not part of a date or a URL (e.g., 2026/07/18)
-    text = re.sub(r'(?<![\d/])(\d+)/(\d+)(?![\d/])', r'$\\frac{\1}{\2}$', text)
-    
-    # 3. Simple equations/expressions containing × or ÷
-    # e.g., "(10.22×9.94) ÷4.98-?=6.97" -> "$(10.22 \times 9.94) \div 4.98 - ? = 6.97$"
-    def replace_equation(match):
-        eq = match.group(0)
-        if "$" in eq:
-            return eq
-        eq_clean = eq.replace("×", " \\times ").replace("÷", " \\div ")
-        eq_clean = re.sub(r'\s+', ' ', eq_clean).strip()
-        return f"${eq_clean}$"
-        
-    text = re.sub(r'\(?[\d.]+\s*[+\-*×÷/]\s*[\d.]+\)?(?:\s*[+\-*×÷/=<>?]+\s*[\d.?\(\)]+)*', replace_equation, text)
-    
-    # 4. Number series: "12,     48,     24,       96,        ?,        192"
-    text = re.sub(r'\b\??\d+\??\s*,\s*(?:\??\d+\??\s*,\s*){2,}\??\d+\??', lambda m: f"${m.group(0).replace(' ', '')}$", text)
-    
-    # 5. Ratios like "5 : 4" or "2:1" or "5:6"
-    text = re.sub(r'\b(\d+)\s*:\s*(\d+)\b', r'$\1:\2$', text)
-    
-    # 6. Single variables like "Rs x" or "Rs (x + 4000)" or "value of x"
-    text = re.sub(r'\bRs\s+([a-zA-Z])\b', r'Rs. $\1$', text)
-    text = re.sub(r'\bRs\s*\(\s*([a-zA-Z])\s*([+\-*])\s*(\d+)\s*\)', r'Rs. $(\1 \2 \3)$', text)
-    text = re.sub(r'\bvalue of\s+([a-zA-Z])\b', r'value of $\1$', text)
-    text = re.sub(r'\bin\s+‘([a-zA-Z])’\s+days\b', r'in $\1$ days', text)
-    text = re.sub(r'\bfind\s+‘([a-zA-Z])’\b', r'find $\1$', text)
-    
-    return text
+    for i in range(len(parts)):
+        # Only apply conversions to parts outside math blocks (even indices)
+        if i % 2 == 0:
+            part = parts[i]
+            
+            # 1. Mixed fractions like "11 1 9%" or "11 1/9%" or "33 1/3%"
+            part = re.sub(r'\b(\d+)\s+(\d+)\s+(\d+)%', r'$\1 \\frac{\2}{\3}\%$', part)
+            part = re.sub(r'\b(\d+)\s+(\d+)/(\d+)%', r'$\1 \\frac{\2}{\3}\%$', part)
+            
+            # 2. Standalone fractions like "7/5" or "3/2"
+            part = re.sub(r'(?<![\d/])(\d+)/(\d+)(?![\d/])', r'$\\frac{\1}{\2}$', part)
+            
+            # 3. Simple equations/expressions containing × or ÷
+            def replace_equation(match):
+                eq = match.group(0)
+                eq_clean = eq.replace("×", " \\times ").replace("÷", " \\div ")
+                eq_clean = re.sub(r'\s+', ' ', eq_clean).strip()
+                return f"${eq_clean}$"
+                
+            part = re.sub(r'\(?[\d.]+\s*[+\-*×÷/]\s*[\d.]+\)?(?:\s*[+\-*×÷/=<>?]+\s*[\d.?\(\)]+)*', replace_equation, part)
+            
+            # 4. Number series: "12,     48,     24,       96,        ?,        192"
+            part = re.sub(r'\b\??\d+\??\s*,\s*(?:\??\d+\??\s*,\s*){2,}\??\d+\??', lambda m: f"${m.group(0).replace(' ', '')}$", part)
+            
+            # 5. Ratios like "5 : 4" or "2:1" or "5:6"
+            part = re.sub(r'\b(\d+)\s*:\s*(\d+)\b', r'$\1:\2$', part)
+            
+            # 6. Single variables like "Rs x" or "Rs (x + 4000)" or "value of x"
+            part = re.sub(r'\bRs\s+([a-zA-Z])\b', r'Rs. $\1$', part)
+            part = re.sub(r'\bRs\s*\(\s*([a-zA-Z])\s*([+\-*])\s*(\d+)\s*\)', r'Rs. $(\1 \2 \3)$', part)
+            part = re.sub(r'\bvalue of\s+([a-zA-Z])\b', r'value of $\1$', part)
+            part = re.sub(r'\bin\s+‘([a-zA-Z])’\s+days\b', r'in $\1$ days', part)
+            part = re.sub(r'\bfind\s+‘([a-zA-Z])’\b', r'find $\1$', part)
+            
+            parts[i] = part
+            
+    # Join back with '$'
+    res = '$'.join(parts)
+    # Merge adjacent/double dollars
+    res = re.sub(r'\$\$+', '$', res)
+    return res
+
 
 def find_actual_image_path(ref_path, base_images_dir):
     if not ref_path:

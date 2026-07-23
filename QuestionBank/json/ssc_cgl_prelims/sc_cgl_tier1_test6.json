@@ -7,7 +7,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Fractions",
     "difficulty": "Easy",
-    "question": "If$frac{4}{5}$of a number exceeds$frac{3}{4}$of it by 8, then the number is:",
+    "question": "If$\\frac{4}{5}$of a number exceeds$\\frac{3}{4}$of it by 8, then the number is:",
     "questionImage": null,
     "options": [
       {
@@ -32,7 +32,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Let the number bex.frac{4x}{5}-\\frac{3x}{4}=8frac{16x-15x}{20}=8frac{x}{20}=8x=160$.",
+    "explanation": "$Let the number bex.\\frac{4x}{5}-\\frac{3x}{4}=8frac{16x-15x}{20}=8frac{x}{20}=8x=160$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -123,27 +123,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{bx+ay}{x+b}$",
+        "text": "$\\frac{bx+ay}{x+b}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{bx+ay}{x+y}$",
+        "text": "$\\frac{bx+ay}{x+y}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{ax+by}{x+y}$",
+        "text": "$\\frac{ax+by}{x+y}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{ax+by}{x+b}$",
+        "text": "$\\frac{ax+by}{x+b}$",
         "image": null
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Total age of boys=bx$.\n\n$Total age of girls=ay$.\n\n$Average age=\\frac{bx+ay}{x+y}$.",
+    "explanation": "$Total age of boys=bx$.\n\nTotal age of girls=ay.\n\n$Average age=\\frac{bx+ay}{x+y}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -180,7 +180,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Total SP=30\\times300=9000$.\n\n$Total Profit=30\\times150=4500$.\n\n$Total CP=9000-4500=4500$.\n\n$Repair cost=4500-1000=3500$.",
+    "explanation": "$Total SP=30\\times300=9000$.\n\nTotal Profit=30\\times150=4500.\n\n$Total CP=9000-4500=4500$.\n\n$Repair cost=4500-1000=3500$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -217,7 +217,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Letx=5andy=1$.\n\n$Percentage by whichyis less thanx:frac{5-1}{5}\\times100=80\\%$.",
+    "explanation": "$Letx=5andy=1$.\n\nPercentage by whichyis less thanx:\\frac{$5-1$}{5}\\times100=80\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -249,12 +249,12 @@
       },
       {
         "id": "D",
-        "text": "$frac{540}{45}$",
+        "text": "$\\frac{540}{45}$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Petrol required=\\frac{540}{45}=12litres$.\n\n$Cost=12\\times20=240$.",
+    "explanation": "$Petrol required=\\frac{540}{45}=12litres.\n\n$Cost=12\\times20=240$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -328,7 +328,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Given,x+\\frac{1}{x}=4$.\n\n$Using,left(x+\\frac1x\\right)^3=x^3+\\frac1{x^3}+3\\left(x+\\frac1x\\right).64=x^3+\\frac1{x^3}+12Therefore,x^3+\\frac1{x^3}=52$.",
+    "explanation": "$Given,x+\\frac{1}{x}=4$.\n\nUsing,left(x+\\frac1x\\right)^3=x^3+\\frac1{x^3}+3\\left(x+\\frac1x\\right).64=x^3+\\frac1{x^3}+12Therefore,x^3+\\frac1{x^3}=52$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -365,7 +365,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Letx=\\left(a-2\\right)andy=\\frac1{a+2}$.\n\n$Given,x+y=-1$.\n\n$Using the identity,x^2+y^2=(x+y)^2-2xy$.\n\nSubstituting the given relation yields the required value as7.",
+    "explanation": "$Letx=\\left(a-2\\right)andy=\\frac1{a+2}$.\n\nGiven,x+y=-1.\n\n$Using the identity,x^2+y^2=(x+y)^2-2xy$.\n\nSubstituting the given relation yields the required value as7.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Given,sqrt{144+x}=13$.\n\n$Squaring both sides,144+x=169x=169-144=25$.",
+    "explanation": "$Given,\\sqrt{144+x}=13$.\n\nSquaring both sides,144+x=169x=$169-144=25$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$For the incentre,angle POR=90^\\circ+\\frac{\\angle PQR}{2}.115=90+\\frac{\\theta}{2}frac{\\theta}{2}=25theta=50^\\circ$.",
+    "explanation": "$For the incentre,angle POR=90^\\circ+\\frac{\\angle PQR}{2}.115=90+\\frac{\\theta}{2}\\frac{\\theta}{2}=25theta=50^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -476,7 +476,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Area=r\\times s.34=4\\times ss=8.5cm$.\n\n$Perimeter=2s=17cm$.",
+    "explanation": "$Area=r\\times s.34=4\\times ss=8.5cm.\n\n$Perimeter=2s=17cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -513,7 +513,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Given,tan\\theta+\\cot\\theta=2$.\n\n$Sincetan\\theta\\cdot\\cot\\theta=1,(\\tan\\theta+\\cot\\theta)^2=\\tan^2\\theta+\\cot^2\\theta+2$.\n\n$Hence,tan^2\\theta+\\cot^2\\theta=2$.\n\nSimilarly, all higher even powers reduce to the same value.\n\nTherefore the required answer is2.",
+    "explanation": "$Given,tan\\theta+\\cot\\theta=2$.\n\nSincetan\\theta\\cdot\\cot\\theta=1,(\\tan\\theta+\\cot\\theta)^2=\\tan^2\\theta+\\cot^2\\theta+2.\n\n$Hence,tan^2\\theta+\\cot^2\\theta=2$.\n\nSimilarly, all higher even powers reduce to the same value.\n\nTherefore the required answer is2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -587,7 +587,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$From the given relations,frac{1}{a+1}=\\frac{a}{a+b+c},frac{1}{b+1}=\\frac{b}{a+b+c},frac{1}{c+1}=\\frac{c}{a+b+c}$.\n\nTheir sum is 1.\n\nTherefore,$3\\times1=3$.",
+    "explanation": "$From the given relations,\\frac{1}{a+1}=\\frac{a}{a+b+c},\\frac{1}{b+1}=\\frac{b}{a+b+c},\\frac{1}{c+1}=\\frac{c}{a+b+c}$.\n\nTheir sum is 1.\n\nTherefore,$3\\times1=3$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -624,7 +624,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$SincePis the midpoint ofCBandAQ:QB=1:2, triangleAPQoccupiesfrac{1}{6}of the area of triangleABC$.\n\n$Area oftriangle APQ=\\frac{10.8}{6}=1.8cm²$.",
+    "explanation": "$SincePis the midpoint ofCBandAQ:QB=1:2, triangleAPQoccupiesfrac{1}{6}of the area of triangleABC.\n\nArea oftriangle APQ=\\frac{10.8}{6}=1.8cm²$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -661,7 +661,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Using the right triangle formed,sin45^\\circ=\\frac{h}{10}$.\n\n$Hence,h=10\\times\\frac{1}{\\sqrt2}=5\\sqrt2m$.",
+    "explanation": "$Using the right triangle formed,sin45^\\circ=\\frac{h}{10}.\n\n$Hence,h=10\\times\\frac{1}{\\sqrt2}=5\\sqrt2m$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -735,7 +735,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Area of the larger circle=\\pi(12)^2=144\\pi$.\n\n$Half the area=72\\pi$.\n\n$Let the inner radius ber.pi r^2=72\\pir=\\sqrt{72}=6\\sqrt2cm$.",
+    "explanation": "$Area of the larger circle=\\pi(12)^2=144\\pi$.\n\nHalf the area=72\\pi.\n\n$Let the inner radius ber.pi r^2=72\\pir=\\sqrt{72}=6\\sqrt2cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -772,7 +772,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Given,cos x=\\sin ysin(90^\\circ-x)=\\sin yTherefore,x+y=90^\\circ$.\n\n$Also,cot(x-40^\\circ)=\\tan(50^\\circ-y)tan(50^\\circ-y)=\\cot(40^\\circ+y)Hence,x-40^\\circ=40^\\circ+yx-y=80^\\circ$.\n\n$Solving the two equations,x+y=90^\\circx-y=80^\\circ2x=170^\\circx=85^\\circ,$\n$\\quad y=5^\\circ$.",
+    "explanation": "$Given,cos x=\\sin ysin(90^\\circ-x)=\\sin yTherefore,x+y=90^\\circ$.\n\nAlso,cot(x-40^\\circ)=\\tan(50^\\circ-y)tan(50^\\circ-y)=\\cot(40^\\circ+y)Hence,x-40^\\circ=40^\\circ+yx-y=80^\\circ.\n\nSolving the two equations,x+y=90^\\circx-y=80^\\circ2x=170^\\circx=85^\\circ,\n$quad y=5^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -809,7 +809,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "From the graph,\n\nFemale population in 1991 = 41 crores.\n\nMale population in 1991 = 44 crores.\n\n$Total population =44 + 41 = 85crores$.\n\n$Required percentage=\\dfrac{41}{85}\\times100=48.23\\%$.",
+    "explanation": "From the graph,\n\nFemale population in 1991 = 41 crores.\n\nMale population in 1991 = 44 crores.\n\n$Total population =44 + 41 = 85crores$.\n\nRequired percentage=\\dfrac{41}{85}\\times100=48.23\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -883,7 +883,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "From the graph,\n\n$Females per 1000 males in 1961=\\dfrac{21}{23}\\times1000$.\n\n$Males per 1000 females in 1991=\\dfrac{44}{41}\\times1000$.\n\n$Required ratio=\\dfrac{21}{23}:\\dfrac{44}{41}=21\\times41:44\\times23=861:1012$.",
+    "explanation": "From the graph,\n\n$Females per 1000 males in 1961=\\dfrac{21}{23}\\times1000$.\n\nMales per 1000 females in 1991=\\dfrac{44}{41}\\times1000.\n\n$Required ratio=\\dfrac{21}{23}:\\dfrac{44}{41}=21\\times41:44\\times23=861:1012$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "From the graph,\n\n$Total population in 1981 =35 + 33 = 68crores$.\n\n$Total population in 1991 =44 + 41 = 85crores$.\n\n$Percentage increase=\\dfrac{85-68}{68}\\times100=25\\%$.\n\n$Estimated population in 2001=85\\times1.25=106.25crores$.",
+    "explanation": "From the graph,\n\n$Total population in 1981 =35 + 33 = 68crores$.\n\nTotal population in 1991 =$44 + 41 = 85$crores.\n\nPercentage increase=\\dfrac{$85-68$}{68}\\times100=25\\%.\n\n$Estimated population in 2001=85\\times1.25=106.25crores$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1475,7 +1475,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Multiply the first two numbers and the last two numbers separately, then concatenate the results.\n\n$For3*3*5*1:$\n\n$First product=3\\times3=9Second product=5\\times1=5Concatenating gives95$.",
+    "explanation": "Multiply the first two numbers and the last two numbers separately, then concatenate the results.\n\n$For3*3*5*1:$\n\nFirst product=3\\times3=9Second product=5\\times1=5Concatenating gives95$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

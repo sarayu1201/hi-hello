@@ -1944,7 +1944,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the side of the square be$x\\text{ cm}$.\n$* Diagonal of the square= x\\sqrt{2} = 6\\sqrt{2}\\text{ cm} \\implies x = 6\\text{ cm}$.\n\nThe diameter of the inscribed circle is equal to the side of the square:\n$* Diameter= 6\\text{ cm} \\implies \\text{radius } r = 3\\text{ cm}$.\n\n$Area of the circle:text{Area} = \\pi r^2 = \\pi \\times 3^2 = 9\\pi\\text{ cm}^2$.",
+    "explanation": "Let the side of the square be$x\\text{ cm}.\n$* Diagonal of the square= x\\sqrt{2} = 6\\sqrt{2}\\text{ cm} \\implies x = 6\\text{ cm}$.\n\nThe diameter of the inscribed circle is equal to the side of the square:\n$* Diameter= 6\\text{ cm} \\implies \\text{radius } r = 3\\text{ cm}$.\n\n$Area of the circle:text{Area} = \\pi r^2 = \\pi \\times 3^2 = 9\\pi\\text{ cm}^2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1981,7 +1981,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Original Price= \\text{Rs. } 6000$.\n$* Price after 20% discount= 6000 \\times 0.80 = \\text{Rs. } 4800* Price after 10% increase= 4800 \\times 1.10 = \\text{Rs. } 5280$.",
+    "explanation": "$Original Price= \\text{Rs. } 6000.\n* Price after 20% discount= 6000 \\times 0.80 = \\text{Rs. } 4800* Price after 10% increase= 4800 \\times 1.10 = \\text{Rs. } 5280$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2018,7 +2018,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let the shares of A, B, and C be$5x,6x$, and$9x$respectively.\n$* Given A's share= 5x = 450 \\implies x = 90$.\n\n$Total sum divided:text{Total Sum} =(5 + 6 + 9)x = 20x = 20 \\times 90 = \\text{Rs. } 1800$.",
+    "explanation": "Let the shares of A, B, and C be$5x,6x$, and$9x$respectively.\n$* Given A's share= 5x = 450 \\implies x = 90$.\n\nTotal sum divided:text{Total Sum} =$(5 + 6 + 9)$x = 20x = 20 \\times 90 = \\text{Rs. } 1800$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2055,7 +2055,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the cost price of the bag be$CP$.\n$* SP at 15% profit= CP \\times 1.15 = 230 \\implies CP = \\text{Rs. } 200$.\n\n$Selling price for 20% profit:SP = 200 \\times 1.20 = \\text{Rs. } 240$.",
+    "explanation": "Let the cost price of the bag be$CP.\n* SP at 15% profit= CP \\times 1.15 = 230 \\implies CP = \\text{Rs. } 200.\n\n$Selling price for 20% profit:SP = 200 \\times 1.20 = \\text{Rs. } 240$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2166,7 +2166,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Expression:frac{a}{a-b} + \\frac{b}{b-a}= \\frac{a}{a-b} - \\frac{b}{a-b}= \\frac{a-b}{a-b} = 1$.",
+    "explanation": "$Expression:\\frac{a}{a-b} + \\frac{b}{b-a}= \\frac{a}{a-b} - \\frac{b}{a-b}= \\frac{a-b}{a-b} = 1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2240,7 +2240,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$For similar triangles, the ratio of their perimeters is equal to the ratio of their corresponding sides:frac{\\text{Perimeter}(\\triangle ABC)}{\\text{Perimeter}(\\triangle DEF)} = \\frac{AB}{DE}frac{30}{18} = \\frac{AB}{36}frac{5}{3} = \\frac{AB}{36} \\implies AB = \\frac{5 \\times 36}{3} = 60\\text{ cm}$.",
+    "explanation": "$For similar triangles, the ratio of their perimeters is equal to the ratio of their corresponding sides:\\frac{\\text{Perimeter}(\\triangle ABC)}{\\text{Perimeter}(\\triangle DEF)} = \\frac{AB}{DE}\\frac{30}{18} = \\frac{AB}{36}\\frac{5}{3} = \\frac{AB}{36} \\implies AB = \\frac{5 \\times 36}{3} = 60\\text{ cm}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2277,7 +2277,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$LetObe the centre, andABbe the chord. SinceOA = OB = AB = r(radii and chord length equal),triangle OABis an equilateral triangle$.\n$* Therefore, the subtended angleangle AOB = 60^\\circ = \\frac{\\pi}{3}\\text{ radians}$.",
+    "explanation": "$LetObe the centre, andABbe the chord. SinceOA = OB = AB = r(radii and chord length equal),triangle OABis an equilateral triangle.\n* Therefore, the subtended angleangle AOB = 60^\\circ = \\frac{\\pi}{3}\\text{ radians}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2294,7 +2294,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{3}{2}$",
+        "text": "$\\frac{3}{2}$",
         "image": null
       },
       {
@@ -2304,7 +2304,7 @@
       },
       {
         "id": "C",
-        "text": "$frac{1}{2}$",
+        "text": "$\\frac{1}{2}$",
         "image": null
       },
       {
@@ -2368,7 +2368,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{4}{4}$",
+        "text": "$\\frac{4}{4}$",
         "image": null
       },
       {
@@ -2388,7 +2388,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Given:$4x = \\sqrt{5} + 2 \\implies x = \\frac{\\sqrt{5} + 2}{4}Now, we find:frac{1}{16x} = \\frac{1}{16 \\left(\\frac{\\sqrt{5}+2}{4}\\right)} = \\frac{1}{4(\\sqrt{5}+2)}Rationalizing the denominator:frac{1}{4(\\sqrt{5}+2)} = \\frac{\\sqrt{5}-2}{4(5-4)} = \\frac{\\sqrt{5}-2}{4}Therefore:x - \\frac{1}{16x} = \\frac{\\sqrt{5}+2}{4} - \\frac{\\sqrt{5}-2}{4} = \\frac{(\\sqrt{5}+2) - (\\sqrt{5}-2)}{4} = \\frac{4}{4} = 1$.",
+    "explanation": "Given:$4x = \\sqrt{5} + 2 \\implies x = \\frac{\\sqrt{5} + 2}{4}Now, we find:\\frac{1}{16x} = \\frac{1}{16 \\left(\\frac{\\sqrt{5}+2}{4}\\right)} = \\frac{1}{4(\\sqrt{5}+2)}Rationalizing the denominator:\\frac{1}{4(\\sqrt{5}+2)} = \\frac{\\sqrt{5}-2}{4(5-4)} = \\frac{\\sqrt{5}-2}{4}Therefore:x - \\frac{1}{16x} = \\frac{\\sqrt{5}+2}{4} - \\frac{\\sqrt{5}-2}{4} = \\frac{(\\sqrt{5}+2) - (\\sqrt{5}-2)}{4} = \\frac{4}{4} = 1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2499,7 +2499,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$The area of a square with diagonaldis given byA = \\frac{1}{2} d^2$.\n$* Therefore, the ratio of their areas is equal to the square of the ratio of their diagonals:text{Ratio of Areas} = \\left(\\frac{5}{2}\\right)^2 = \\frac{25}{4} \\implies25:4$.",
+    "explanation": "$The area of a square with diagonaldis given byA = \\frac{1}{2} d^2.\n* Therefore, the ratio of their areas is equal to the square of the ratio of their diagonals:text{Ratio of Areas} = \\left(\\frac{5}{2}\\right)^2 = \\frac{25}{4} \\implies25:4$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2536,7 +2536,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$LetACbe the length of the ladder andBC = 4.6\\text{ m}be the distance of the foot from the wall$.\n$In right-angledtriangle ABC:cos 60^\\circ = \\frac{BC}{AC}frac{1}{2} = \\frac{4.6}{AC} \\implies AC = 4.6 \\times 2 = 9.2\\text{ m}$.",
+    "explanation": "$LetACbe the length of the ladder andBC = 4.6\\text{ m}be the distance of the foot from the wall.\nIn right-angledtriangle ABC:cos 60^\\circ = \\frac{BC}{AC}\\frac{1}{2} = \\frac{4.6}{AC} \\implies AC = 4.6 \\times 2 = 9.2\\text{ m}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2573,7 +2573,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Let the two numbers be12xand12y, wherexandyare co-prime$.\n$* Product of numbers= (12x) \\times (12y) = 2160 \\implies 144xy = 2160 \\implies xy = 15Since the numbers are 2-digit, the co-prime pair(x, y)that satisfies this is(3, 5):$\n$* First number= 12 \\times 3 = 36* Second number= 12 \\times 5 = 60Hence, the numbers are(36, 60)$.",
+    "explanation": "$Let the two numbers be12xand12y, wherexandyare co-prime$.\n* Product of numbers= (12x) \\times (12y) = 2160 \\implies 144xy = 2160 \\implies xy = 15Since the numbers are 2-digit, the co-prime pair(x, y)that satisfies this is(3, 5):\n$* First number= 12 \\times 3 = 36* Second number= 12 \\times 5 = 60Hence, the numbers are(36, 60)$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2590,7 +2590,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{4}{300}$",
+        "text": "$\\frac{4}{300}$",
         "image": null
       },
       {
@@ -2605,7 +2605,7 @@
       },
       {
         "id": "D",
-        "text": "$frac{4}{100}$",
+        "text": "$\\frac{4}{100}$",
         "image": null
       }
     ],
@@ -2647,7 +2647,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "In 25 litres of mixture:\n$* Milk= \\frac{4}{5} \\times 25 = 20\\text{ litres}* Water=25 - 20 = 5text{ litres}After adding 3 litres of water:$\n$* New quantity of water=5 + 3 = 8text{ litres}* Milk remains20\\text{ litres}New ratio of milk to water:text{Ratio} = \\frac{20}{8} = \\frac{5}{2} \\implies5:2$.",
+    "explanation": "In 25 litres of mixture:\n$* Milk= \\frac{4}{5} \\times 25 = 20\\text{ litres}* Water=25 - 20 = 5text{ litres}After adding 3 litres of water:\n* New quantity of water=5 + 3 = 8text{ litres}* Milk remains20\\text{ litres}New ratio of milk to water:text{Ratio} = \\frac{20}{8} = \\frac{5}{2} \\implies5:2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2684,7 +2684,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Number of voters in favour of X=45 + 73 + 51 + 56 = 225$.\n$Number of voters in favour of Y=40 + 88 + 47 + 51 = 226$.\n$Number of voters who did not vote=1 + 9 + 5 + 8 = 23$.\n$Total voters=225 + 226 + 23 = 474.text{Percentage} = \\frac{225}{474} \\times 100 \\approx 47.5\\%$.",
+    "explanation": "$Number of voters in favour of X=45 + 73 + 51 + 56 = 225$.\nNumber of voters in favour of Y=$40 + 88 + 47 + 51 = 226.$\nNumber of voters who did not vote=$1 + 9 + 5 + 8 = 23.\nTotal voters=225 + 226 + 23 = 474.text{Percentage} = \\frac{225}{474} \\times 100 \\approx 47.5\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2721,7 +2721,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Number of voters who did not vote= 23$.\n$Total voters= 474.text{Percentage} = \\frac{23}{474} \\times 100 \\approx 4.9\\%$.",
+    "explanation": "$Number of voters who did not vote= 23.\nTotal voters= 474.text{Percentage} = \\frac{23}{474} \\times 100 \\approx 4.9\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2758,7 +2758,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Votes for X in region B= 73$.\n$Votes for Y in region B= 88$.\n$Difference=88 - 73 = 15.text{Percentage difference}= \\frac{15}{73} times 100 \\approx 20.54\\% \\approx 21\\%$.",
+    "explanation": "$Votes for X in region B= 73$.\nVotes for Y in region B= 88.\n$Difference=88 - 73 = 15.text{Percentage difference}= \\frac{15}{73} times 100 \\approx 20.54\\% \\approx 21\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2795,7 +2795,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Votes received by X from region B= 73$.\n$Total votes received by X= 225.text{Percentage} = \\frac{73}{225} \\times 100 \\approx 32.4\\% \\approx 32\\%$.",
+    "explanation": "$Votes received by X from region B= 73.\nTotal votes received by X= 225.text{Percentage} = \\frac{73}{225} \\times 100 \\approx 32.4\\% \\approx 32\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3535,7 +3535,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Advice is not countable. Not \"an advice\" but \"advice\" or \" some advice\". \nThe word advice is an uncountable noun. Uncountable nouns do not have plural forms. They cannot be used with the articles a/an. \nHe gave me some advice. (NOT He gave me an advice.) (NOT He gave me advices.) Incorrect: Let me give you an advice. Correct: Let \nme give you some advice. Incorrect: She was always there to give great advices. Correct: She was always there to give great advice. \nHence option A \nInstructions [96 - 100] \nA passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of \nthe four alternatives and click the button corresponding to it. \nThe Alaska pipeline starts at the frozen edge of the Arctic Ocean. It stretches southward across the largest and northernmost state in \nthe United States, ending at a remote ice-free seaport village nearly 800 miles from where it begins. It is massive in size and extremely \ncomplicated to operate. The steel pipe crosses windswept plains and endless miles of delicate tundra that tops the frozen ground. It \nweaves through crooked canyons, climbs sheer mountains, plunges over rocky crags, makes its way through thick forests, and passes \nover or under hundreds of rivers and streams. The pipe is 4 feet in diameter, and up to 2 million barrels (or 84 million gallons) of crude \noil can be pumped through it daily. Resting on H-shaped steel racks called \"bents\", long sections of the pipeline follow a zigzag course \nhigh above the frozen earth. Other long sections drop out of sight beneath spongy or rocky ground and return to the surface later on. \nThe pattern of the pipeline's up-and-down route is determined by the often harsh demands of the arctic and subarctic climate, the \ntortuous lay of the land, and the varied compositions of soil, rock, or permafrost (permanently frozen ground). A little more than half of \nthe pipeline is elevated above the ground. The remainder is buried anywhere from 3 to 12 feet, depending largely upon the type of \nterrain and the properties of the soil. One of the largest in the world, the pipeline cost approximately$8 billion and is by far the biggest \nand most expensive construction project ever undertaken by private industry. In fact, no single business could raise that much money, \nso 8 major oil companies formed a consortium in order to share the costs. Each company controlled oil rights to particular shares of \nland in the oil fields and paid into the pipeline-construction fund according to the size of its holdings. Today, despite enormous \nproblems of climate, supply shortage, equipment breakdowns, labour disagreements, treacherous terrain, a certain amount of \nmismanagement, and even theft, the Alaska pipeline has been completed and is operating.",
+    "explanation": "Advice is not countable. Not \"an advice\" but \"advice\" or \" some advice\". \nThe word advice is an uncountable noun. Uncountable nouns do not have plural forms. They cannot be used with the articles a/an. \nHe gave me some advice. (NOT He gave me an advice.) (NOT He gave me advices.) Incorrect: Let me give you an advice. Correct: Let \nme give you some advice. Incorrect: She was always there to give great advices. Correct: She was always there to give great advice. \nHence option A \nInstructions [$96 - 100$] \nA passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of \nthe four alternatives and click the button corresponding to it. \nThe Alaska pipeline starts at the frozen edge of the Arctic Ocean. It stretches southward across the largest and northernmost state in \nthe United States, ending at a remote ice-free seaport village nearly 800 miles from where it begins. It is massive in size and extremely \ncomplicated to operate. The steel pipe crosses windswept plains and endless miles of delicate tundra that tops the frozen ground. It \nweaves through crooked canyons, climbs sheer mountains, plunges over rocky crags, makes its way through thick forests, and passes \nover or under hundreds of rivers and streams. The pipe is 4 feet in diameter, and up to 2 million barrels (or 84 million gallons) of crude \noil can be pumped through it daily. Resting on H-shaped steel racks called \"bents\", long sections of the pipeline follow a zigzag course \nhigh above the frozen earth. Other long sections drop out of sight beneath spongy or rocky ground and return to the surface later on. \nThe pattern of the pipeline's up-and-down route is determined by the often harsh demands of the arctic and subarctic climate, the \ntortuous lay of the land, and the varied compositions of soil, rock, or permafrost (permanently frozen ground). A little more than half of \nthe pipeline is elevated above the ground. The remainder is buried anywhere from 3 to 12 feet, depending largely upon the type of \nterrain and the properties of the soil. One of the largest in the world, the pipeline cost approximately$8 billion and is by far the biggest \nand most expensive construction project ever undertaken by private industry. In fact, no single business could raise that much money, \nso 8 major oil companies formed a consortium in order to share the costs. Each company controlled oil rights to particular shares of \nland in the oil fields and paid into the pipeline-construction fund according to the size of its holdings. Today, despite enormous \nproblems of climate, supply shortage, equipment breakdowns, labour disagreements, treacherous terrain, a certain amount of \nmismanagement, and even theft, the Alaska pipeline has been completed and is operating.",
     "marks": 2,
     "negativeMarks": 0.5
   },

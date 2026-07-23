@@ -108,7 +108,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Expression =12:20::30: ?$\n$The pattern followed is =3 \\times 4 = 124 \\times 5 = 205 \\times 6 = 306 \\times 7 = 42$",
+    "explanation": "$Expression =12:20::30: ?$\nThe pattern followed is =3 \\times 4 = 124 \\times 5 = 205 \\times 6 = 306 \\times 7 = 42$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -982,7 +982,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Expression:sqrt{9 - 2sqrt{16} + 3\\sqrt[3]{512} }= \\sqrt{9 - 2(4) + 3(8) }= \\sqrt{9 - 8 + 24}= \\sqrt{25} = 5$.",
+    "explanation": "$Expression:\\sqrt{9 - 2sqrt{16} + 3\\sqrt[3]{512} }= \\sqrt{9 - 2(4) + 3(8) }= \\sqrt{9 - 8 + 24}= \\sqrt{25} = 5$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -999,7 +999,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{24}{2}$",
+        "text": "$\\frac{24}{2}$",
         "image": null
       },
       {
@@ -1093,7 +1093,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "It is given that A will be 26 years old after 6 \nyears \n$=> A's present age =26 - 6 = 20years$\n$Also, ratio of A : B present ages =4:3=> B's present age =$\n3 4 \n× \n\n$=3 \\times 5 = 15years$",
+    "explanation": "It is given that A will be 26 years old after 6 \nyears \n$=> A's present age =26 - 6 = 20years$\nAlso, ratio of A : B present ages =$4:3$=> B's present age =\n3 4 \n× \n\n$=3 \\times 5 = 15years$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1130,7 +1130,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$The arithmetic mean of 7, 5, 13,x, and 9 is 10:frac{7 + 5 + 13+ x + 9}{5} = 1034 + x = 50x =50 - 34 = 16$.",
+    "explanation": "$The arithmetic mean of 7, 5, 13,x, and 9 is 10:\\frac{7 + 5 + 13+ x + 9}{5} = 1034 + x = 50x =50 - 34 = 16$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1167,7 +1167,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the cost price of the article be$100x$.\n$* Selling Price (SP) at 15% profit= 115x$.\n\n$According to the question:(115x + 6) - 100x = 18\\% \\text{ of } 100x15x + 6 = 18x3x = 6 \\implies x = 2Therefore, the cost price is:text{Cost Price} = 100 \\times 2 = \\text{Rs. } 200$.",
+    "explanation": "Let the cost price of the article be$100x.\n* Selling Price (SP) at 15% profit= 115x.\n\n$According to the question:(115x + 6) - 100x = 18\\% \\text{ of } 100x15x + 6 = 18x3x = 6 \\implies x = 2Therefore, the cost price is:text{Cost Price} = 100 \\times 2 = \\text{Rs. } 200$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1204,7 +1204,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let A's initial salary be100.\n$* After decreasing by 50%, new salary= 50$.\n$* After increasing by 50% of the new salary, final salary=50 + 50% \\text{ of } 50 =50 + 25 = 75$.\n\n$Net loss percentage is:frac{100 - 75}{100} times 100 = 25\\%$.",
+    "explanation": "Let A's initial salary be100.\n$* After decreasing by 50%, new salary= 50$.\n* After increasing by 50% of the new salary, final salary=$50 + 50$% \\text{ of } 50 =$50 + 25 = 75.\n\nNet loss percentage is:\\frac{100 - 75}{100} times 100 = 25\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1241,7 +1241,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Let the speed of the car bes\\text{ km/h}and the speed of the man be4\\text{ km/h}$.\n$* Relative speed= (s - 4)\\text{ km/h}The man can see the car for 3 minutes (frac{3}{60}=frac{1}{20}hours) up to a distance of 130 meters (0.13km):text{Speed} = \\frac{\\text{Distance}}{\\text{Time}}s - 4 = \\frac{0.13}{\\frac{1}{20}}s - 4 = 2.6 \\implies s = 6.6 = 6\\frac{3}{5}\\text{ km/h}$.",
+    "explanation": "$Let the speed of the car bes\\text{ km/h}and the speed of the man be4\\text{ km/h}.\n* Relative speed= (s - 4)\\text{ km/h}The man can see the car for 3 minutes (\\frac{3}{60}=\\frac{1}{20}hours) up to a distance of 130 meters (0.13km):text{Speed} = \\frac{\\text{Distance}}{\\text{Time}}s - 4 = \\frac{0.13}{\\frac{1}{20}}s - 4 = 2.6 \\implies s = 6.6 = 6\\frac{3}{5}\\text{ km/h}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1278,7 +1278,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the rate of interest be$r\\%$.\n$* Interest from first person= \\frac{400 \\times r \\times 3}{100} = 12r* Interest from second person= \\frac{500 \\times r \\times 4}{100} = 20rTotal interest:12r + 20r = 16032r = 160 \\implies r = 5\\%$.",
+    "explanation": "Let the rate of interest be$r\\%.\n$* Interest from first person= \\frac{400 \\times r \\times 3}{100} = 12r* Interest from second person= \\frac{500 \\times r \\times 4}{100} = 20rTotal interest:12r + 20r = 16032r = 160 \\implies r = 5\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1352,7 +1352,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Given:$x + \\frac{1}{x} = \\sqrt{13}Squaring both sides:left(x + \\frac{1}{x}\\right)^2 = 13x^2 + \\frac{1}{x^2} + 2 = 13 \\implies x^2 + \\frac{1}{x^2} = 11 \\quad \\text{---(i)}Also:left(x - \\frac{1}{x}\\right)^2 = x^2 + \\frac{1}{x^2} - 2left(x - \\frac{1}{x}\\right)^2 =11 - 2 = 9x - \\frac{1}{x} = 3frac{x^2 - 1}{x} = 3 \\implies x^2 - 1 = 3xTherefore:frac{3x}{x^2 - 1}= \\frac{3x}{3x} = 1$.",
+    "explanation": "Given:$x + \\frac{1}{x} = \\sqrt{13}Squaring both sides:left(x + \\frac{1}{x}\\right)^2 = 13x^2 + \\frac{1}{x^2} + 2 = 13 \\implies x^2 + \\frac{1}{x^2} = 11 \\quad \\text{---(i)}Also:left(x - \\frac{1}{x}\\right)^2 = x^2 + \\frac{1}{x^2} - 2left(x - \\frac{1}{x}\\right)^2 =11 - 2 = 9x - \\frac{1}{x} = 3frac{x^2 - 1}{x} = 3 \\implies x^2 - 1 = 3xTherefore:\\frac{3x}{x^2 - 1}= \\frac{3x}{3x} = 1$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1369,7 +1369,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$sqrt{194}$cm",
+        "text": "$\\sqrt{194}cm$",
         "image": null
       },
       {
@@ -1389,7 +1389,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$The radius of a circle intersects the tangent at a right angle, soangle OTP = 90^\\circwhereTis the point of contact$.\n\n$In right-angledtriangle OPT:PT^2 = OP^2 - OT^2PT^2 = 13^2 - 5^2 =169 - 25 = 144PT= \\sqrt{144} = 12text{ cm}$.",
+    "explanation": "$The radius of a circle intersects the tangent at a right angle, soangle OTP = 90^\\circwhereTis the point of contact.\n\nIn right-angledtriangle OPT:PT^2 = OP^2 - OT^2PT^2 = 13^2 - 5^2 =169 - 25 = 144PT= \\sqrt{144} = 12text{ cm}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1406,22 +1406,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{\\pi}{12}$radians",
+        "text": "$\\frac{\\pi}{12}radians$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{\\pi}{15}$radians",
+        "text": "$\\frac{\\pi}{15}radians$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{2\\pi}{5}$radians",
+        "text": "$\\frac{2\\pi}{5}radians$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{3\\pi}{13}$radians",
+        "text": "$\\frac{3\\pi}{13}radians$",
         "image": null
       }
     ],
@@ -1564,7 +1564,7 @@
       },
       {
         "id": "C",
-        "text": "$frac{3\\sqrt{3}}{2}cm$",
+        "text": "$\\frac{3\\sqrt{3}}{2}cm$",
         "image": null
       },
       {
@@ -1574,7 +1574,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$In an equilateral triangle with sidea = 9\\text{ cm}:$\n$* Median/AltitudeAD = \\frac{\\sqrt{3}}{2} a = \\frac{\\sqrt{3}}{2} \\times 9 = 4.5\\sqrt{3}\\text{ cm}SinceGis the centroid, it divides the medianADin the ratio2:1from the vertex:AG = \\frac{2}{3} AD = \\frac{2}{3} \\times \\frac{9\\sqrt{3}}{2} = 3\\sqrt{3}\\text{ cm}$.",
+    "explanation": "$In an equilateral triangle with sidea = 9\\text{ cm}:\n* Median/AltitudeAD = \\frac{\\sqrt{3}}{2} a = \\frac{\\sqrt{3}}{2} \\times 9 = 4.5\\sqrt{3}\\text{ cm}SinceGis the centroid, it divides the medianADin the ratio2:1from the vertex:AG = \\frac{2}{3} AD = \\frac{2}{3} \\times \\frac{9\\sqrt{3}}{2} = 3\\sqrt{3}\\text{ cm}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1611,7 +1611,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Letangle CAD = x$.\n$* SinceAD = DC,angle ACD = \\angle CAD = x$.\n$* The exterior angleangle CDB = \\angle CAD + \\angle ACD = 2x$.\n$* SinceDC = BC,angle CBD = \\angle CDB = 2x$.\n$* Intriangle BCD,angle BCD = 180^\\circ - 4x$.\n$* The angles around the straight line atCare:angle ACD + \\angle BCD + \\angle BCE = 180^\\circx + (180^\\circ - 4x) + 96^\\circ = 180^\\circ276^\\circ - 3x = 180^\\circ \\implies 3x = 96^\\circ \\implies x = 32^\\circTherefore:angle DBC = 2x = 64^\\circ$.",
+    "explanation": "$Letangle CAD = x$.\n* SinceAD = DC,angle ACD = \\angle CAD = x.\n* The exterior angleangle CDB = \\angle CAD + \\angle ACD = 2x.\n* SinceDC = BC,angle CBD = \\angle CDB = 2x.\n* Intriangle BCD,angle BCD = 180^\\circ - 4x.\n$* The angles around the straight line atCare:angle ACD + \\angle BCD + \\angle BCE = 180^\\circx + (180^\\circ - 4x) + 96^\\circ = 180^\\circ276^\\circ - 3x = 180^\\circ \\implies 3x = 96^\\circ \\implies x = 32^\\circTherefore:angle DBC = 2x = 64^\\circ$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1633,7 +1633,7 @@
       },
       {
         "id": "B",
-        "text": "$frac{3}{4}$",
+        "text": "$\\frac{3}{4}$",
         "image": null
       },
       {
@@ -1685,7 +1685,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$LetACbe the tangent atAto the circle with centreO. The radiusOAis perpendicular to the tangentAC, soangle OAC = 90^\\circ$.\n$* Givenangle BAC = \\theta$.\n$* Thus,angle OAB = 90^\\circ - \\theta$.\n\n$SinceOA = OB(radii of the same circle),triangle OABis an isosceles triangle:angle ABO = \\angle OAB = 90^\\circ - \\theta$.",
+    "explanation": "$LetACbe the tangent atAto the circle with centreO. The radiusOAis perpendicular to the tangentAC, soangle OAC = 90^\\circ$.\n* Givenangle BAC = \\theta.\n* Thus,angle OAB = 90^\\circ - \\theta.\n\n$SinceOA = OB(radii of the same circle),triangle OABis an isosceles triangle:angle ABO = \\angle OAB = 90^\\circ - \\theta$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1722,7 +1722,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Let the bridge be at pointAat heightAC = 2.5\\text{ m}above the river bedBD. The banks on opposite sides areBandD$.\n\n$In right-angledtriangle ACD:tan 45^\\circ = \\frac{AC}{CD} \\implies 1 = \\frac{2.5}{CD} \\implies CD = 2.5\\text{ m}In right-angledtriangle ACB:tan 30^\\circ = \\frac{AC}{BC} \\implies \\frac{1}{\\sqrt{3}} = \\frac{2.5}{BC} \\implies BC = 2.5\\sqrt{3} = 2.5 \\times 1.732 = 4.33\\text{ m}Width of the river:BD = BC + CD =4.33 + 2.5 = 6.83text{ m}$.",
+    "explanation": "$Let the bridge be at pointAat heightAC = 2.5\\text{ m}above the river bedBD. The banks on opposite sides areBandD.\n\nIn right-angledtriangle ACD:tan 45^\\circ = \\frac{AC}{CD} \\implies 1 = \\frac{2.5}{CD} \\implies CD = 2.5\\text{ m}In right-angledtriangle ACB:tan 30^\\circ = \\frac{AC}{BC} \\implies \\frac{1}{\\sqrt{3}} = \\frac{2.5}{BC} \\implies BC = 2.5\\sqrt{3} = 2.5 \\times 1.732 = 4.33\\text{ m}Width of the river:BD = BC + CD =4.33 + 2.5 = 6.83text{ m}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

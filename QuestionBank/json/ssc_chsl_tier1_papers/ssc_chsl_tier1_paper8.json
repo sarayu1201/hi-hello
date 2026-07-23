@@ -7,7 +7,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Simplification",
     "difficulty": "Easy",
-    "question": "$1 + frac{1}{2} + frac{1}{4} + frac{1}{16} + frac{1}{32} + frac{1}{64} is approximately equal to ___________$.",
+    "question": "$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64} is approximately equal to ___________$.",
     "questionImage": null,
     "options": [
       {
@@ -44,32 +44,32 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "$If (2x+3y)/(3x-4y) = frac{11}{7}, then the value of x/y is _______$",
+    "question": "$If (2x+3y)/(3x-4y) = \\frac{11}{7}, then the value of x/y is _______$",
     "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "$frac{65}{19}$",
+        "text": "$\\frac{65}{19}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{68}{19}$",
+        "text": "$\\frac{68}{19}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{67}{19}$",
+        "text": "$\\frac{67}{19}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{64}{19}$",
+        "text": "$\\frac{64}{19}$",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$7(2x + 3y) = 11(3x - 4y) => 14x + 21y = 33x - 44y => 19x = 65y => x/y = frac{65}{19}$.",
+    "explanation": "$7(2x + 3y) = 11(3x - 4y) => 14x + 21y = 33x - 44y => 19x = 65y => x/y = \\frac{65}{19}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -143,7 +143,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "For inconsistency (no solution): a1/a2 = b1/b2 != c1/c2.\n$=> frac{7}{14} = 8k/112$\n$=> frac{1}{2} = k/14 => k = 7$.",
+    "explanation": "For inconsistency (no solution): a1/a2 = b1/b2 != c1/c2.\n$=> \\frac{7}{14} = 8k/112$\n$=> \\frac{1}{2} = k/14 => k = 7$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -291,7 +291,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$X : Y = 4:7$.\n$Since X = 140, multiplier = 140 / 4 = 35. Y's marks = 7 * 35 = 245$.",
+    "explanation": "$X : Y = 4:7$.\nSince X = 140, multiplier = $140 / 4 = 35.$ Y's marks = $7 * 35 = 245$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -328,7 +328,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let quantity mixed be x and y.\n$13x + 7y = 9(x + y) => 4x = 2y => x/y = frac{1}{2}$.\n$Required ratio = 1:2$.",
+    "explanation": "Let quantity mixed be x and y.\n$13x + 7y = 9(x + y) => 4x = 2y => x/y = \\frac{1}{2}$.\n$Required ratio = 1:2$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -365,7 +365,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Total age = 8 * 36 = 288. Exclude the eldest (32): 288 - 32 = 256. Remaining members = 7$.\n$New average = 256 / 7 = 36.57 years$.",
+    "explanation": "$Total age = 8 * 36 = 288. Exclude the eldest (32): 288 - 32 = 256. Remaining members = 7.\nNew average = 256 / 7 = 36.57 years$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -402,7 +402,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * (1.09)^2 = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\n$Amount annually = 10000 * 1.18 = Rs 11800$.\nDifference = 11881 - 11800 = Rs 81.",
+    "explanation": "Compounded half-yearly: rate = 9% per half year, time = 2 half years.\nAmount half-yearly = 10000 * (1.09)^2 = Rs 11881.\nCompounded annually: rate = 18%, time = 1 year.\n$Amount annually = 10000 * 1.18 = Rs 11800$.\nDifference = $11881 - 11800$ = Rs 81.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let CP of 1000 gm sugar = Rs 1000.\nCP of 680 gm sugar = Rs 680.\nHe sells 680 gm (pretending it's 1000 gm) at 16% loss on 1000 gm, i.e., Rs 840.\nProfit = 840 - 680 = Rs 160.\n$Profit % = (160 / 680) * 100 = 23.53%$.",
+    "explanation": "Let CP of 1000 gm sugar = Rs 1000.\nCP of 680 gm sugar = Rs 680.\nHe sells 680 gm (pretending it's 1000 gm) at 16% loss on 1000 gm, i.e., Rs 840.\nProfit = $840 - 680$ = Rs 160.\n$Profit % = (160 / 680) * 100 = 23.53%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -513,7 +513,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Rationalize: (3-2√2)(3-2√2) / ((3+2√2)(3-2√2)) = (3-2√2)^2 / (9-8) = (3-2√2)^2$.\nSquare root = 3 - 2√2.",
+    "explanation": "$Rationalize: (3-2√2)(3-2√2) / ((3+2√2)(3-2√2)) = (3-2√2)^2 / (9-8) = (3-2√2)^2$.\nSquare root = $3 - 2$√2.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -772,7 +772,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Area of equilateral triangle = (√frac{3}{4}) * s^2 = 36√3 => s^2 = 144 => s = 12 cm$.",
+    "explanation": "$Area of equilateral triangle = (√\\frac{3}{4}) * s^2 = 36√3 => s^2 = 144 => s = 12 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -846,7 +846,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Diameter = 7 cm => Radius r = 3.5 cm.\n$Curved Surface Area = 2 * pi * r * h = 132 => 2 * (frac{22}{7}) * (frac{7}{2}) * h = 132 => 22h = 132 => h = 6 cm$.",
+    "explanation": "Diameter = 7 cm => Radius r = 3.5 cm.\n$Curved Surface Area = 2 * pi * r * h = 132 => 2 * (\\frac{22}{7}) * (\\frac{7}{2}) * h = 132 => 22h = 132 => h = 6 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -858,7 +858,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "$ΔXYZ is right angled at Y. If m∠X = 30°, then find the value of (cosZ + frac{1}{3})$.",
+    "question": "$ΔXYZ is right angled at Y. If m∠X = 30°, then find the value of (cosZ + \\frac{1}{3})$.",
     "questionImage": null,
     "options": [
       {
@@ -878,12 +878,12 @@
       },
       {
         "id": "D",
-        "text": "$frac{5}{6}$",
+        "text": "$\\frac{5}{6}$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "In ΔXYZ right-angled at Y, ∠Z = 90° - ∠X = 90° - 30° = 60°.\n$cos Z + frac{1}{3} = cos(60°) + frac{1}{3} = frac{1}{2} + frac{1}{3} = frac{5}{6}$.",
+    "explanation": "In ΔXYZ right-angled at Y, ∠Z = 90° - ∠X = 90° - 30° = 60°.\n$cos Z + \\frac{1}{3} = cos(60°) + \\frac{1}{3} = \\frac{1}{2} + \\frac{1}{3} = \\frac{5}{6}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -895,7 +895,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "$In ΔXYZ measure of angle Y is 90°. If tanX = frac{15}{8}, and XY = 16cm, then what is the length (in cm) of side YZ?$",
+    "question": "$In ΔXYZ measure of angle Y is 90°. If tanX = \\frac{15}{8}, and XY = 16cm, then what is the length (in cm) of side YZ?$",
     "questionImage": null,
     "options": [
       {
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$In right ΔXYZ, tan X = YZ / XY => frac{15}{8} = YZ / 16 => YZ = (15 / 8) * 16 = 30 cm$.",
+    "explanation": "$In right ΔXYZ, tan X = YZ / XY => \\frac{15}{8} = YZ / 16 => YZ = (15 / 8) * 16 = 30 cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1290,7 +1290,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A (17-24, 17) = (-7, 17).\n$Distance SA = sqrt((-7)^2 + 17^2) = sqrt(49 + 289) = sqrt(338) = 13√2 km$.",
+    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A $(17-24$, 17) = (-7, 17).\n$Distance SA = sqrt((-7)^2 + 17^2) = sqrt(49 + 289) = sqrt(338) = 13√2 km$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

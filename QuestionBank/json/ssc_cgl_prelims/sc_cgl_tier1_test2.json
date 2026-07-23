@@ -499,7 +499,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Replace the symbols according to the given conditions:\n\n18Q12P4R5S6\n$=18 \\times 12 \\div4 + 5− 6$\n=216 \\div4 + 5− 6\n$=54 + 5− 6$\n= 53",
+    "explanation": "Replace the symbols according to the given conditions:\n\n18Q12P4R5S6\n$=18 \\times 12 \\div4 + 5− 6$\n=216 \\div$4 + 5$− 6\n$=54 + 5− 6$\n= 53",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1847,7 +1847,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$sqrt{3}$cm",
+        "text": "$\\sqrt{3}cm$",
         "image": null
       },
       {
@@ -1857,7 +1857,7 @@
       },
       {
         "id": "C",
-        "text": "$frac{3\\sqrt{3}}{2}cm$",
+        "text": "$\\frac{3\\sqrt{3}}{2}cm$",
         "image": null
       },
       {
@@ -1934,12 +1934,12 @@
       },
       {
         "id": "D",
-        "text": "$frac{2}{3}$",
+        "text": "$\\frac{2}{3}$",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Let the parts befrac{x}{2},frac{2x}{3}andfrac{4x}{5}. Thenfrac{x}{2}+\\frac{2x}{3}+\\frac{4x}{5}=177. Solving givesx=90. Therefore, the second part isfrac{2}{3}\\times90=60$.",
+    "explanation": "$Let the parts befrac{x}{2},\\frac{2x}{3}andfrac{4x}{5}. Thenfrac{x}{2}+\\frac{2x}{3}+\\frac{4x}{5}=177. Solving givesx=90. Therefore, the second part isfrac{2}{3}\\times90=60$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2063,22 +2063,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{3}{8}$",
+        "text": "$\\frac{3}{8}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{5}{8}$",
+        "text": "$\\frac{5}{8}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{3}{12}$",
+        "text": "$\\frac{3}{12}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{5}{12}$",
+        "text": "$\\frac{5}{12}$",
         "image": null
       }
     ],
@@ -2212,17 +2212,17 @@
       },
       {
         "id": "B",
-        "text": "$frac{\\pi}{9}$",
+        "text": "$\\frac{\\pi}{9}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{\\pi}{2}$",
+        "text": "$\\frac{\\pi}{2}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{\\pi}{4}$",
+        "text": "$\\frac{\\pi}{4}$",
         "image": null
       }
     ],
@@ -2351,22 +2351,22 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{4}{5}$",
+        "text": "$\\frac{4}{5}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{3}{5}$",
+        "text": "$\\frac{3}{5}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{8}{5}$",
+        "text": "$\\frac{8}{5}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{1}{5}$",
+        "text": "$\\frac{1}{5}$",
         "image": null
       }
     ],
@@ -2407,7 +2407,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$For similar triangles, the ratio of corresponding sides equals the ratio of their perimeters.frac{AB}{PQ}=\\frac{36}{24}=\\frac{3}{2}Therefore,AB=10\\times\\frac{3}{2}=15cm$.",
+    "explanation": "$For similar triangles, the ratio of corresponding sides equals the ratio of their perimeters.\\frac{AB}{PQ}=\\frac{36}{24}=\\frac{3}{2}Therefore,AB=10\\times\\frac{3}{2}=15cm$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2443,7 +2443,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Sinceangle B=90^\\circ,ACis the hypotenuse$.\n\n$Using Pythagoras:BC=\\sqrt{10^2-8^2}=\\sqrt{100-64}=6cm$.\n\n$Area of the right triangle:=\\frac{1}{2}\\times8\\times6=24\\text{ sq.cm}$.",
+    "explanation": "$Sinceangle B=90^\\circ,ACis the hypotenuse$.\n\nUsing Pythagoras:BC=\\sqrt{10^$2-8$^2}=\\sqrt{$100-64$}=6cm.\n\n$Area of the right triangle:=\\frac{1}{2}\\times8\\times6=24\\text{ sq.cm}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2459,27 +2459,27 @@
     "options": [
       {
         "id": "A",
-        "text": "$frac{\\sqrt{3}}{2}$",
+        "text": "$\\frac{\\sqrt{3}}{2}$",
         "image": null
       },
       {
         "id": "B",
-        "text": "$frac{\\sqrt{2}}{2}$",
+        "text": "$\\frac{\\sqrt{2}}{2}$",
         "image": null
       },
       {
         "id": "C",
-        "text": "$frac{1}{2}$",
+        "text": "$\\frac{1}{2}$",
         "image": null
       },
       {
         "id": "D",
-        "text": "$frac{\\sqrt{3}}{3}$",
+        "text": "$\\frac{\\sqrt{3}}{3}$",
         "image": null
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$SinceA+B+C=180^\\circ, we havefrac{A+B}{2}=90^\\circ-\\frac{C}{2}. Therefore,sin\\left(90^\\circ-\\frac{C}{2}\\right)=\\cos\\left(\\frac{C}{2}\\right)=\\frac{\\sqrt{3}}{2}$.\n\n$Hence,frac{C}{2}=30^\\circandsin\\left(\\frac{C}{2}\\right)=\\sin30^\\circ=\\frac{1}{2}$.",
+    "explanation": "$SinceA+B+C=180^\\circ, we havefrac{A+B}{2}=90^\\circ-\\frac{C}{2}. Therefore,sin\\left(90^\\circ-\\frac{C}{2}\\right)=\\cos\\left(\\frac{C}{2}\\right)=\\frac{\\sqrt{3}}{2}.\n\nHence,\\frac{C}{2}=30^\\circandsin\\left(\\frac{C}{2}\\right)=\\sin30^\\circ=\\frac{1}{2}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2551,7 +2551,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$Let the horizontal distance between the building and the temple bexm. Usingtan60^\\circandtan30^\\circin the two right triangles,tan60^\\circ=\\frac{x+30}{y}andtan30^\\circ=\\frac{x}{y}$.\n\n$Substituting the second equation into the first gives2x=30, sox=15m. Therefore, the height of the temple is15+30=45m$.",
+    "explanation": "$Let the horizontal distance between the building and the temple bexm. Usingtan60^\\circandtan30^\\circin the two right triangles,tan60^\\circ=\\frac{x+30}{y}andtan30^\\circ=\\frac{x}{y}.\n\nSubstituting the second equation into the first gives2x=30, sox=15m. Therefore, the height of the temple is15+30=45m$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
