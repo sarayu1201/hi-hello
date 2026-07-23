@@ -2844,7 +2844,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Numerator: 7*|-4| - (4*|5|/5) = 28 - 4 = 24$.\n$Denominator: -7(2) - (2*\\frac{2}{2}) + 2 = -14 - 2 + 2 = -14$.\n$Result = 24 / -14 = -\\frac{12}{7}$.",
+    "explanation": "$Numerator: 7*|-4| - (4*|5|/5) = 28 - 4 = 24$.\nDenominator: -7(2) - (2*\\frac{2}{2}) + 2 = -$14 - 2 + 2$ = -14.\n$Result = 24 / -14 = -\\frac{12}{7}$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -3103,7 +3103,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$P's investment equivalent = (50000 * 4) + (30000 * 8) = 440000$.\n$Q's investment equivalent = (40000 * 6) + (110000 * 6) = 900000$.\n$Ratio of profit P:Q = 44:90 = 22:45$.\nP's share = 22/$(22+45)$ * Total = 11000 => Total = $11000 * 67 / 22$ = Rs 33500$.",
+    "explanation": "$P's investment equivalent = (50000 * 4) + (30000 * 8) = 440000$.\nQ's investment equivalent = $(40000 * 6) + (110000 * 6) = 900000.$\n$Ratio of profit P:Q = 44:90 = 22:45$.\nP's share = 22/$(22+45)$ * Total = 11000 => Total = $11000 * 67 / 22$ = Rs 33500$.",
     "marks": 2,
     "negativeMarks": 0.5
   },

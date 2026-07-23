@@ -97,6 +97,14 @@ def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
     except:
         q_num = 1
     
+    # 0. RRB PO and RRB Clerk Prelims mock tests (80 questions: Q1-40 Reasoning, Q41-80 Quant)
+    if "rrb po" in sub_lower or "rrb clerk" in sub_lower:
+        if "mains" not in sub_lower and "main" not in sub_lower:
+            if q_num <= 40:
+                return "Reasoning Ability"
+            else:
+                return "Quantitative Aptitude"
+
     # 1. Standard Banking Prelims mock tests (100 questions)
     if "bank" in exam_lower or "sbi" in sub_lower or "ibps" in sub_lower:
         if "mains" not in sub_lower and "main" not in sub_lower:
@@ -163,6 +171,12 @@ def to_latex(text):
             
             # 2. Standalone fractions like "7/5" or "3/2"
             part = re.sub(r'(?<![\d/])(\d+)/(\d+)(?![\d/])', r'$\\frac{\1}{\2}$', part)
+            
+            # Standardize any variations of sqrt followed by digits, question mark, or curly braces
+            part = re.sub(r'\\?\bsqrt\s*(\d+)\b', r'\\sqrt{\1}', part)
+            part = re.sub(r'\\?\bsqrt\s*\?', r'\\sqrt{?}', part)
+            part = re.sub(r'\\?\bsqrt\s*({[^{}]+})', r'\\sqrt\1', part)
+
             
             # 3. Simple equations/expressions containing × or ÷
             def replace_equation(match):

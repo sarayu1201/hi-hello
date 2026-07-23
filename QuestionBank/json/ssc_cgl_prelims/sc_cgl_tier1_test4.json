@@ -2338,7 +2338,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Given,\\sqrt{3}\\tan\\theta=1tan\\theta=\\frac{1}{\\sqrt3}=\\tan30^\\circHence,theta=30^\\circ.\n\nSubstituting the standard values,sin30^\\circ+\\sqrt3\\cos30^\\circ-2\\tan30^\\circ=\\frac12+\\frac32-\\frac23=\\frac43$.",
+    "explanation": "$Given,\\sqrt{3}\\tan\\theta=1tan\\theta=\\frac{1}{\\sqrt{3}}=\\tan30^\\circHence,theta=30^\\circ.\n\nSubstituting the standard values,sin30^\\circ+\\sqrt{3}\\cos30^\\circ-2\\tan30^\\circ=\\frac12+\\frac32-\\frac23=\\frac43$.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2407,7 +2407,7 @@
       },
       {
         "id": "D",
-        "text": "$\\frac{5\\sqrt5}{9}$",
+        "text": "$\\frac{5\\sqrt{5}}{9}$",
         "image": null
       }
     ],
@@ -2671,7 +2671,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Let the thread be the hypotenuse of a right triangle.\n\n$Given,AC=80\\text{ m}angle C=60^\\circUsing,sin60^\\circ=\\frac{AB}{AC}\\frac{\\sqrt3}{2}=\\frac{h}{80}h=80\\times\\frac{\\sqrt3}{2}=40\\sqrt3\\text{ m}$.",
+    "explanation": "Let the thread be the hypotenuse of a right triangle.\n\n$Given,AC=80\\text{ m}angle C=60^\\circUsing,sin60^\\circ=\\frac{AB}{AC}\\frac{\\sqrt{3}}{2}=\\frac{h}{80}h=80\\times\\frac{\\sqrt{3}}{2}=40\\sqrt{3}\\text{ m}$.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5
@@ -2932,7 +2932,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$Pattern:n^2+1.2=1^2+1and10=(1+2)^2+1$.\n\n$Similarly,26=5^2+1$.\n\n$Required value=(5+2)^2+1=49+1=50$.",
+    "explanation": "$Pattern:n^2+1.2=1^2+1and10=(1+2)^2+1$.\n\nSimilarly,26=5^$2+1.$\n\n$Required value=(5+2)^2+1=49+1=50$.",
     "answerImage": null,
     "marks": 2,
     "negativeMarks": 0.5,
