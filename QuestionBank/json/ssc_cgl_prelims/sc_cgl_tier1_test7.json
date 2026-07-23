@@ -1523,7 +1523,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Starting from the origin$(0,0):\n1. Walking 5 km South reaches(0, -5).\n2. Turning right (facing West) and walking 3 km reaches(-3, -5).\n3. Turning left (facing South) and walking 5 km reaches(-3, -10).\n\n$Compared to(0,0), the point(-3, -10)lies in the South-West direction$.",
+    "explanation": "Starting from the origin$(0,0):\n1. Walking 5 km South reaches(0, -5).\n2. Turning right (facing West) and walking 3 km reaches(-3, -5).\n3. Turning left (facing South) and walking 5 km reaches(-3, -10).\n\n$Compared to(0,0), the point(-3, -10)lies in the South-West direction$.$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -1963,7 +1963,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the cost price (CP) be$100x.\n* Marked Price (MP)= 120x(20% markup)\n* Selling Price (SP)= 108x(8% profit)\n\nDiscount amount= 120x - 108x = 12x.\n\n$Discount percentage is:text{Discount \\%} = \\frac{12x}{120x} \\times 100 = 10\\%$.",
+    "explanation": "Let the cost price (CP) be$100x.\n* Marked Price (MP)= 120x(20\\% markup)\n* Selling Price (SP)= 108x(8\\% profit)\n\nDiscount amount= 120x - 108x = 12x.\n\n$Discount percentage is:text{Discount \\%} = \\frac{12x}{120x} \\times 100 = 10\\%$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2107,7 +2107,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Let B's salary be100.\n$* A's salary= 150(50% more than B)$\n\nB's salary is less than A's by:\\frac{$150 - 100$}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.",
+    "explanation": "Let B's salary be100.\n$* A's salary= 150(50\\% more than B)$\n\nB's salary is less than A's by:\\frac{$150 - 100$}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2431,7 +2431,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$SinceDandEare midpoints ofABandACrespectively, by midpoint theorem,DE \\parallel BCandDE = \\frac{1}{2}BC$.\n\nThus,$triangle ADE \\sim \\triangle ABC$with a similarity ratio of$1:2.\n\nThe ratio of their areas is:\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}If the area oftriangle ABCis4x, then the area oftriangle ADEisx.\n\n$The area of trapeziumBDECis:text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3xReflecting the ratio:\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies4:3$.",
+    "explanation": "$SinceDandEare midpoints ofABandACrespectively, by midpoint theorem,DE \\parallel BCandDE = \\frac{1}{2}BC$.\n\nThus,$triangle ADE \\sim \\triangle ABC$with a similarity ratio of$1:2.\n\nThe ratio of their areas is:\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}If the area oftriangle ABCis4x, then the area oftriangle ADEisx.\n\n$The area of trapeziumBDECis:text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3xReflecting the ratio:\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies4:3$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -2550,7 +2550,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Heights and Distances",
     "difficulty": "Easy",
-    "question": "$A 1.6 m tall observer is 45 meters away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower in meters is: (Takesqrt{3} = 1.732)$",
+    "question": "$A 1.6 m tall observer is 45 meters away from a tower. The angle of elevation from his eye to the top of the tower is 30°. The height of the tower in meters is: (Take\\sqrt{3} = 1.732)$",
     "questionImage": null,
     "options": [
       {

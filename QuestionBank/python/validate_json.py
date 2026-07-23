@@ -95,33 +95,59 @@ def validate_file(filepath):
         explanation = q.get("explanation") or ""
         
         # Check empty options
+        if not options or len(options) < 2 or len(options) > 5:
+            errors.append(f"Q{q_num}: Invalid number of options ({len(options)}).")
+            
         empty_opts = []
+        opt_ids = []
+        opt_texts = []
         for opt in options:
+            o_id = str(opt.get("id") or "").strip().upper()
             o_text = str(opt.get("text") or "").strip()
             o_img = opt.get("image") or ""
+            if o_id:
+                opt_ids.append(o_id)
+            if o_text:
+                opt_texts.append(o_text)
             # Option is invalid if it has no text and no image
             if not o_text and not o_img:
-                empty_opts.append(opt.get("id"))
+                empty_opts.append(opt.get("id") or "unknown")
+                
         if empty_opts:
             errors.append(f"Q{q_num}: Option(s) {empty_opts} have no text and no image.")
             
+        # Check duplicate option IDs or texts
+        if len(opt_ids) != len(set(opt_ids)):
+            errors.append(f"Q{q_num}: Duplicate option IDs found: {opt_ids}")
+        if len(opt_texts) != len(set(opt_texts)):
+            print(f"Warning [Q{q_num}]: Duplicate option texts found (will be standardized by seeder): {opt_texts}")
+            
         # Check correct answer mapping
         valid_ids = [str(opt.get("id")).upper() for opt in options if opt.get("id")]
-        if str(correct_ans).upper() not in valid_ids:
+        if not correct_ans:
+            errors.append(f"Q{q_num}: Missing correct answer.")
+        elif str(correct_ans).upper() not in valid_ids:
             errors.append(f"Q{q_num}: Correct answer '{correct_ans}' is not a valid option ID: {valid_ids}.")
             
         # Check missing explanation
         if not explanation or len(explanation.strip()) < 10:
-            errors.append(f"Q{q_num}: Explanation is missing or too short.")
+            errors.append(f"Q{q_num}: Explanation is missing or too short (length: {len(explanation.strip()) if explanation else 0}).")
             
-        # Check LaTeX delimiters
+        # Check LaTeX delimiters and format issues
         unescaped_q_dollars = len(re.findall(r'(?<!\\)\$', q_text))
         unescaped_exp_dollars = len(re.findall(r'(?<!\\)\$', explanation))
         if unescaped_q_dollars % 2 != 0:
-            print(f"Warning [Q{q_num}]: Question text contains unclosed LaTeX '$' delimiters.")
+            print(f"Warning [Q{q_num}]: Question text contains unclosed LaTeX '$' delimiters (will be auto-closed by seeder).")
         if unescaped_exp_dollars % 2 != 0:
-            print(f"Warning [Q{q_num}]: Explanation text contains unclosed LaTeX '$' delimiters.")
+            print(f"Warning [Q{q_num}]: Explanation text contains unclosed LaTeX '$' delimiters (will be auto-closed by seeder).")
             
+        # Check for unformatted sqrt issues
+        for field, val in [("question", q_text), ("explanation", explanation)]:
+            if val:
+                bad_sqrts = re.findall(r'\bsqrt\d+|\bsqrt\?|(?<!\\)sqrt{', str(val))
+                if bad_sqrts:
+                    print(f"Warning [Q{q_num}]: Field '{field}' contains unformatted square root (will be auto-formatted by seeder): {bad_sqrts}")
+                    
     return errors
 
 def main():

@@ -158,11 +158,32 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
 
   // Typeset math equations whenever question, section, or examStarted changes
   useEffect(() => {
-    if (window.MathJax && window.MathJax.typesetPromise) {
-      setTimeout(() => {
+    let timer;
+    const triggerTypeset = () => {
+      if (window.MathJax && window.MathJax.typesetPromise) {
         window.MathJax.typesetPromise().catch(err => console.warn('MathJax typesetting warning:', err));
-      }, 80);
-    }
+      }
+    };
+    
+    // Trigger immediately with timeout
+    timer = setTimeout(triggerTypeset, 80);
+    
+    // In case script is still loading, poll for a few seconds
+    let attempts = 0;
+    const interval = setInterval(() => {
+      if (window.MathJax && window.MathJax.typesetPromise) {
+        triggerTypeset();
+        clearInterval(interval);
+      } else {
+        attempts++;
+        if (attempts > 20) clearInterval(interval);
+      }
+    }, 200);
+
+    return () => {
+      clearTimeout(timer);
+      clearInterval(interval);
+    };
   }, [currentQuestionIdx, activeSection, sections, examStarted]);
 
   // Dynamic Tailwind CDN Injection & Styles

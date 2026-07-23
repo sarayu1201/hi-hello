@@ -32,7 +32,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n$64% of the number = 64 * 12.5 = 800$.",
+    "explanation": "Let the number be 100x. \n66x - 44x = 22x = 275 => x = 12.5. \n$64\\% of the number = 64 * 12.5 = 800$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -291,7 +291,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "$To make C common: Multiply A:B:C = 2:3:5 by 2 => A:B:C = 4:6:10.\n$Multiply C:D = $2:5$ by 5 => C:D = $10:25$.\nTherefore, $A : D = $4:25$.",
+    "explanation": "$To make C common: Multiply A:B:C = 2:3:5 by 2 => A:B:C = 4:6:10.\n$Multiply C:D = $2:5$ by 5 => C:D = $10:25$.\nTherefore, $A : D = $4:25$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -439,7 +439,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "$SP = CP * (1 + Profit%/100) = 122 + (\\frac{56}{100})*122 = 122 + 68.32 = Rs 190.32$.",
+    "explanation": "$SP = CP * (1 + Profit\\%/100) = 122 + (\\frac{56}{100})*122 = 122 + 68.32 = Rs 190.32$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -920,7 +920,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$sin D = EF / DF = \\frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt$(289 - 225)$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\frac{15}{8}$.",
+    "explanation": "$sin D = EF / DF = \\frac{15}{17}. Let EF = 15, DF = 17$.\nDE = sqrt(DF^2 - EF^2) = sqrt$(289 - 225)$ = sqrt(64) = 8.\ncot F = Adjacent / Opposite = EF / DE = \\frac{15}{8}$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },

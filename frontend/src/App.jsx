@@ -91,6 +91,13 @@ export default function App() {
       const script = document.createElement('script');
       script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js';
       script.async = true;
+      script.onload = () => {
+        if (window.MathJax && window.MathJax.typesetPromise) {
+          setTimeout(() => {
+            window.MathJax.typesetPromise().catch(err => console.warn('Initial MathJax typeset warning:', err));
+          }, 100);
+        }
+      };
       document.head.appendChild(script);
     }
   }, []);

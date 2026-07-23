@@ -108,7 +108,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$Expression =12:20::30: ?$\nThe pattern followed is =3 \\times 4 = 124 \\times 5 = 205 \\times 6 = 306 \\times 7 = 42$",
+    "explanation": "$Expression =12:20::30: ?$\nThe pattern followed is =3 \\times 4 = 124 \\times 5 = 205 \\times 6 = 306 \\times 7 = 42$$",
     "marks": 2,
     "negativeMarks": 0.5,
     "section": "Reasoning Ability"
@@ -957,7 +957,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "$The value ofsqrt{9 - 2sqrt{16} + 3\\sqrt[3]{512} }is:$",
+    "question": "$The value of\\sqrt{9 - 2\\sqrt{16} + 3\\sqrt[3]{512} }is:$",
     "questionImage": null,
     "options": [
       {
@@ -982,7 +982,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "$Expression:\\sqrt{9 - 2sqrt{16} + 3\\sqrt[3]{512} }= \\sqrt{9 - 2(4) + 3(8) }= \\sqrt{9 - 8 + 24}= \\sqrt{25} = 5$.",
+    "explanation": "$Expression:\\sqrt{9 - 2\\sqrt{16} + 3\\sqrt[3]{512} }= \\sqrt{9 - 2(4) + 3(8) }= \\sqrt{9 - 8 + 24}= \\sqrt{25} = 5$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1167,7 +1167,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "Let the cost price of the article be$100x.\n* Selling Price (SP) at 15% profit= 115x.\n\n$According to the question:(115x + 6) - 100x = 18\\% \\text{ of } 100x15x + 6 = 18x3x = 6 \\implies x = 2Therefore, the cost price is:text{Cost Price} = 100 \\times 2 = \\text{Rs. } 200$.",
+    "explanation": "Let the cost price of the article be$100x.\n* Selling Price (SP) at 15\\% profit= 115x.\n\n$According to the question:(115x + 6) - 100x = 18\\% \\text{ of } 100x15x + 6 = 18x3x = 6 \\implies x = 2Therefore, the cost price is:text{Cost Price} = 100 \\times 2 = \\text{Rs. } 200$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1204,7 +1204,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let A's initial salary be100.\n$* After decreasing by 50%, new salary= 50$.\n* After increasing by 50% of the new salary, final salary=$50 + 50$% \\text{ of } 50 =$50 + 25 = 75.\n\nNet loss percentage is:\\frac{100 - 75}{100} times 100 = 25\\%$.",
+    "explanation": "Let A's initial salary be100.\n$* After decreasing by 50\\%, new salary= 50$.\n* After increasing by 50% of the new salary, final salary=$50 + 50$% \\text{ of } 50 =$50 + 25 = 75.\n\nNet loss percentage is:\\frac{100 - 75}{100} times 100 = 25\\%$.",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1278,7 +1278,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Let the rate of interest be$r\\%.\n$* Interest from first person= \\frac{400 \\times r \\times 3}{100} = 12r* Interest from second person= \\frac{500 \\times r \\times 4}{100} = 20rTotal interest:12r + 20r = 16032r = 160 \\implies r = 5\\%$.",
+    "explanation": "Let the rate of interest be$r\\%.\n$* Interest from first person= \\frac{400 \\times r \\times 3}{100} = 12r* Interest from second person= \\frac{500 \\times r \\times 4}{100} = 20rTotal interest:12r + 20r = 16032r = 160 \\implies r = 5\\%$.$",
     "marks": 2,
     "negativeMarks": 0.5
   },
@@ -1697,7 +1697,7 @@
     "subject": "Quantitative Aptitude",
     "topic": "Heights and Distances",
     "difficulty": "Medium",
-    "question": "$From a point on a bridge across the river, the angles of depression of the banks on opposite sides of the river are 30° and 45° respectively. If the bridge is at a height of 2.5 m from the banks, then the width of the river is: (takesqrt{3} = 1.732)$",
+    "question": "$From a point on a bridge across the river, the angles of depression of the banks on opposite sides of the river are 30° and 45° respectively. If the bridge is at a height of 2.5 m from the banks, then the width of the river is: (take\\sqrt{3} = 1.732)$",
     "questionImage": "test8_q46.png",
     "options": [
       {

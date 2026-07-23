@@ -672,7 +672,7 @@
     "subject": "Reasoning Ability",
     "topic": "Symbol Operation",
     "difficulty": "Easy",
-    "question": "$If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '%' denotes 'subtracted from', then 153 & 17 @ 6 % (9 * 18 = ?$",
+    "question": "$If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '\\%' denotes 'subtracted from', then 153 & 17 @ 6 \\% (9 * 18 = ?$",
     "questionImage": null,
     "options": [
       {
@@ -2110,7 +2110,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "$A 75% simple interest in 5 years means the annual rate is 15%. Compound interest for 2 years = 40000[(1 + \\frac{15}{100})² − 1] = Rs. 12,900$.",
+    "explanation": "$A 75\\% simple interest in 5 years means the annual rate is 15\\%. Compound interest for 2 years = 40000[(1 + \\frac{15}{100})² − 1] = Rs. 12,900$.",
     "marks": 2,
     "negativeMarks": 0.5,
     "display_question_number": 54,

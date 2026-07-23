@@ -318,31 +318,31 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
           }
 
           optionsHtml += `
-            <div style="background: ${optBg}; border: 1.5px solid ${optBorder}; color: ${optColor}; font-weight: ${optBold}; padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; font-size: 13px; display: flex; align-items: center; gap: 8px;">
-              <span style="width: 18px; height: 18px; border-radius: 50%; background: ${isCorrectOpt ? '#10B981' : isSelectedOpt ? '#EF4444' : '#94A3B8'}; color: white; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 800;">
+            <div class="mathjax-process" style="background: ${optBg}; border: 1.5px solid ${optBorder}; color: ${optColor}; font-weight: ${optBold}; padding: 8px 12px; border-radius: 6px; margin-bottom: 6px; font-size: 13px; display: flex; align-items: center; gap: 8px;">
+              <span class="no-mathjax" style="width: 18px; height: 18px; border-radius: 50%; background: ${isCorrectOpt ? '#10B981' : isSelectedOpt ? '#EF4444' : '#94A3B8'}; color: white; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 800;">
                 ${String.fromCharCode(65 + oIdx)}
               </span>
               <span>${opt}</span>
-              ${isCorrectOpt ? ' <span style="margin-left: auto; font-size: 11px; background: #10B981; color: white; padding: 1px 6px; border-radius: 10px; font-weight: bold;">Correct Answer</span>' : ''}
-              ${isSelectedOpt && !isCorrectOpt ? ' <span style="margin-left: auto; font-size: 11px; background: #EF4444; color: white; padding: 1px 6px; border-radius: 10px; font-weight: bold;">Your Answer</span>' : ''}
+              ${isCorrectOpt ? ' <span class="no-mathjax" style="margin-left: auto; font-size: 11px; background: #10B981; color: white; padding: 1px 6px; border-radius: 10px; font-weight: bold;">Correct Answer</span>' : ''}
+              ${isSelectedOpt && !isCorrectOpt ? ' <span class="no-mathjax" style="margin-left: auto; font-size: 11px; background: #EF4444; color: white; padding: 1px 6px; border-radius: 10px; font-weight: bold;">Your Answer</span>' : ''}
             </div>
           `;
         });
 
         questionsHtml += `
           <div style="background: ${cardBg}; border: 1.5px solid ${cardBorder}; padding: 20px; border-radius: 8px; margin-bottom: 20px; page-break-inside: avoid;">
-            <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid ${cardBorder}; padding-bottom: 8px; margin-bottom: 12px;">
+            <div class="no-mathjax" style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid ${cardBorder}; padding-bottom: 8px; margin-bottom: 12px;">
               <span style="font-size: 12px; font-weight: 800; color: #4B5563; text-transform: uppercase;">
-                Question ${idx + 1} &bull; ${q.section}
+                Question ${idx + 1} &bull; ${q.section || q.subject || ""}
               </span>
               <span style="background: ${statusColor}; color: white; padding: 3px 8px; border-radius: 12px; font-size: 11px; font-weight: 800;">
                 ${statusText}
               </span>
             </div>
-            <p style="font-size: 15px; font-weight: 700; margin: 0 0 12px 0; color: #111827;">${q.q}</p>
+            <p class="mathjax-process" style="font-size: 15px; font-weight: 700; margin: 0 0 12px 0; color: #111827;">${q.q}</p>
             <div>${optionsHtml}</div>
             ${q.explanation ? `
-              <div style="margin-top: 12px; padding-top: 8px; border-top: 1px dashed #D1D5DB; font-size: 12.5px; color: #4B5563; line-height: 1.4;">
+              <div class="mathjax-process" style="margin-top: 12px; padding-top: 8px; border-top: 1px dashed #D1D5DB; font-size: 12.5px; color: #4B5563; line-height: 1.4;">
                 <strong>💡 Explanation:</strong> ${q.explanation}
               </div>
             ` : ""}
@@ -362,6 +362,19 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
       <html>
       <head>
         <title>KR Institute of Learning Scorecard - ${attempt.testName}</title>
+        <script>
+          window.MathJax = {
+            tex: {
+              inlineMath: [['$', '$'], ['\\\\(', '\\\\)']],
+              displayMath: [['$$', '$$'], ['\\\\[', '\\\\]']]
+            },
+            options: {
+              ignoreHtmlClass: 'no-mathjax',
+              processHtmlClass: 'mathjax-process'
+            }
+          };
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
         <style>
           body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #1E293B; margin: 0; padding: 30px; background: white; }
           .header-banner { background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); color: white; padding: 30px 24px; border-radius: 12px; text-align: center; margin-bottom: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
@@ -440,9 +453,38 @@ export default function Results({ user, attemptHistory = [], requestAuth, naviga
         
         <script>
           window.onload = function() {
-            setTimeout(function() {
-              window.print();
-            }, 500);
+            const triggerPrint = () => {
+              setTimeout(function() {
+                window.print();
+              }, 600);
+            };
+            if (window.MathJax && window.MathJax.typesetPromise) {
+              window.MathJax.typesetPromise()
+                .then(triggerPrint)
+                .catch(triggerPrint);
+            } else {
+              // Poll for MathJax to load
+              let checks = 0;
+              const interval = setInterval(function() {
+                if (window.MathJax && window.MathJax.typesetPromise) {
+                  window.MathJax.typesetPromise()
+                    .then(function() {
+                      triggerPrint();
+                      clearInterval(interval);
+                    })
+                    .catch(function() {
+                      triggerPrint();
+                      clearInterval(interval);
+                    });
+                } else {
+                  checks++;
+                  if (checks > 10) {
+                    triggerPrint();
+                    clearInterval(interval);
+                  }
+                }
+              }, 300);
+            }
           }
         </script>
       </body>

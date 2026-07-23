@@ -2584,7 +2584,7 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
       { course: { $in: resolvedCourseNames }, test_id: { $in: resolvedSubTypes } },
       filter
     ]
-  }).sort({ question_number: 1, id: 1 }).lean();
+  }).sort({ display_question_number: 1, question_number: 1, id: 1 }).lean();
   
   if (questions.length === 0) {
     let fallbackFilter = {
@@ -2598,7 +2598,7 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
         { test_title: { $in: resolvedSubTypes } }
       ];
     }
-    questions = await Question.find(fallbackFilter).sort({ question_number: 1, id: 1 }).lean();
+    questions = await Question.find(fallbackFilter).sort({ display_question_number: 1, question_number: 1, id: 1 }).lean();
   }
   
   if (questions.length > 0) {

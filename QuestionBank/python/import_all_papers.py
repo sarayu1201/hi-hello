@@ -90,6 +90,21 @@ def map_filename_to_subtype(filename):
 
 
 def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
+    # 0. If original subject is present and valid, prioritize, normalize and return it!
+    if original_subject:
+        subj = str(original_subject).strip()
+        subj_lower = subj.lower()
+        if subj_lower not in {"", "general", "default", "none", "unknown", "subject"}:
+            if "math" in subj_lower or "quant" in subj_lower or "arithmetic" in subj_lower or "numerical" in subj_lower:
+                return "Quantitative Aptitude"
+            if "reason" in subj_lower or "intelligence" in subj_lower or "mental" in subj_lower:
+                return "Reasoning Ability"
+            if "english" in subj_lower or "verbal" in subj_lower or "comprehension" in subj_lower or "lang" in subj_lower:
+                return "English Language"
+            if "aware" in subj_lower or "general" in subj_lower or "science" in subj_lower or "current" in subj_lower or "gk" in subj_lower:
+                return "General Awareness"
+            return subj
+
     exam_lower = str(exam_type).lower()
     sub_lower = str(sub_type_val).lower()
     try:
@@ -157,6 +172,11 @@ def to_latex(text):
         
     text = str(text)
     
+    # 0. Pre-clean global unformatted square roots (both inside and outside math blocks)
+    text = re.sub(r'(?<!\\)sqrt{', r'\\sqrt{', text)
+    text = re.sub(r'(?<!\\)sqrt\s*(\d+)\b', r'\\sqrt{\1}', text)
+    text = re.sub(r'(?<!\\)sqrt\s*\?', r'\\sqrt{?}', text)
+    
     # Split text by '$'
     parts = text.split('$')
     
@@ -177,7 +197,6 @@ def to_latex(text):
             part = re.sub(r'\\?\bsqrt\s*\?', r'\\sqrt{?}', part)
             part = re.sub(r'\\?\bsqrt\s*({[^{}]+})', r'\\sqrt\1', part)
 
-            
             # 3. Simple equations/expressions containing × or ÷
             def replace_equation(match):
                 eq = match.group(0)
@@ -201,11 +220,17 @@ def to_latex(text):
             part = re.sub(r'\bfind\s+‘([a-zA-Z])’\b', r'find $\1$', part)
             
             parts[i] = part
+        else:
+            # 7. Inside math blocks (odd indices): escape '%' signs so they aren't treated as LaTeX comments
+            parts[i] = re.sub(r'(?<!\\)%', r'\\%', parts[i])
             
     # Join back with '$'
     res = '$'.join(parts)
     # Merge adjacent/double dollars
     res = re.sub(r'\$\$+', '$', res)
+    # Auto-close unclosed dollars
+    if res.count('$') % 2 != 0:
+        res += '$'
     return res
 
 
