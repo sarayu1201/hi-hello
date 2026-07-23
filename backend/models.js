@@ -122,6 +122,12 @@ const QuestionSchema = new mongoose.Schema({
 });
 
 QuestionSchema.index({ unique_id: 1 }, { unique: true });
+QuestionSchema.index({ test_id: 1 });
+QuestionSchema.index({ sub_type: 1 });
+QuestionSchema.index({ paper_name: 1 });
+QuestionSchema.index({ test_title: 1 });
+QuestionSchema.index({ course: 1 });
+QuestionSchema.index({ exam_type: 1 });
 
 // Topic Leaderboard Schema (to store leaderboard arrays)
 const LeaderboardSchema = new mongoose.Schema({
