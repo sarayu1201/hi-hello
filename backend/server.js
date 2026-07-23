@@ -2545,9 +2545,10 @@ const resolveDbSubType = (testId, subType, examType) => {
   const queryStr = String(testId || subType || "").toLowerCase().trim();
   
   if (
-    queryStr.includes("prelims - test") ||
-    queryStr.includes("mains - test") ||
-    queryStr.includes("ug - ")
+    (queryStr.includes("prelims - test") || queryStr.includes("mains - test") || queryStr.includes("ug - ")) &&
+    !queryStr.includes("pattern module") &&
+    !queryStr.includes("mock_shuffled") &&
+    !queryStr.includes("shuffled")
   ) {
     return testId || subType;
   }
