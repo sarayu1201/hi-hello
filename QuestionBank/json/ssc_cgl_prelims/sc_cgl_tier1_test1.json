@@ -904,36 +904,34 @@
     "exam": "SSC CGL",
     "year": 2016,
     "subject": "Reasoning Ability",
-    "topic": "Matrix Coding",
-    "difficulty": "Hard",
-    "question": "In the given matrices, the rows and columns of Matrix I are numbered from 0 to 4 and those of Matrix II from 5 to 9. A letter is represented first by its row number and then by its column number. Identify the correct code for the word 'BANK'.\n\n{\"headers\": [\"Matrix I\", \"0\", \"1\", \"2\", \"3\", \"4\", \"|\", \"Matrix II\", \"5\", \"6\", \"7\", \"8\", \"9\"], \"rows\": [[\"0\", \"B\", \"P\", \"S\", \"N\", \"D\", \"|\", \"5\", \"A\", \"R\", \"K\", \"O\", \"E\"], [\"1\", \"P\", \"S\", \"B\", \"D\", \"N\", \"|\", \"6\", \"K\", \"E\", \"O\", \"R\", \"A\"], [\"2\", \"P\", \"B\", \"N\", \"S\", \"D\", \"|\", \"7\", \"O\", \"K\", \"E\", \"A\", \"R\"], [\"3\", \"N\", \"P\", \"S\", \"D\", \"B\", \"|\", \"8\", \"E\", \"R\", \"A\", \"O\", \"K\"], [\"4\", \"P\", \"S\", \"B\", \"N\", \"D\", \"|\", \"9\", \"R\", \"A\", \"E\", \"K\", \"O\"]]}",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "In a certain code language, 'COMPUTER' is written as 'RFUVQNPC'. How will 'MEDICINE' be written in that code language?",
     "questionImage": null,
-    "imageStatus": "MANUAL_REQUIRED",
-    "imageNote": "Attach the complete matrix diagram from the source document as q25.png.",
     "options": [
       {
         "id": "A",
-        "text": "$42,69,14,98$",
+        "text": "EOJDEJFM",
         "image": null
       },
       {
         "id": "B",
-        "text": "$00,55,33,57$",
+        "text": "EOJDJEFM",
         "image": null
       },
       {
         "id": "C",
-        "text": "$21,67,30,86$",
+        "text": "EOJDEJGM",
         "image": null
       },
       {
         "id": "D",
-        "text": "$42,78,43,58$",
+        "text": "EOJDJFGM",
         "image": null
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Using the coordinates from the given matrices, the letters B, A, N and K correspond respectively to 42, 69, 14 and 98. Hence Option A correctly represents the word BANK.",
+    "explanation": "The pattern is: the word is reversed, and all the middle letters are incremented by 1, while the first and last letters remain unchanged.\n1. Reverse 'COMPUTER' -> 'RETUPMOC'. First and last ('R' and 'C') are unchanged. Middle letters ('E', 'T', 'U', 'P', 'M', 'O') are incremented by +1 -> ('F', 'U', 'V', 'Q', 'N', 'P'). Hence, 'RFUVQNPC'.\n2. Reverse 'MEDICINE' -> 'ENICIDEM'. First and last ('E' and 'M') are unchanged. Middle letters ('N', 'I', 'C', 'I', 'D', 'E') are incremented by +1 -> ('O', 'J', 'D', 'J', 'E', 'F'). Hence, 'EOJDEJFM'.",
     "marks": 2,
     "negativeMarks": 0.5
   },
