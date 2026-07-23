@@ -1,0 +1,3713 @@
+[
+  {
+    "id": 1,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Select the related word/letters/number from the given alternatives.\n\nPlay : Actor :: Concert : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Symphony",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Musician",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Piano",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Percussion",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "An actor performs in a play. Similarly, a musician performs in a concert.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 2,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "Select the related word/letters/number from the given alternatives.\n\nEGIK : FILO :: FHJL : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "JGMP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "JGPM",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "GJMP",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "GMJP",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each letter is shifted forward by increasing positions:\n\nE→F (+1), G→I (+2), I→L (+3), K→O (+4).\n\nApplying the same pattern:\n\nF→G, H→J, J→M, L→P.\n\nHence, the required term is GJMP.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 3,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Select the related word/letters/number from the given alternatives.\n\n$583:295$ :: 486 : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "22",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The sum of the digits remains the same.\n\n$5+8+3=16$\n$2+9+5=16$\n\nSimilarly,\n\n$4+8+6=18$\n\nAmong the options, only 378 has digit sum 18.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 4,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "Find the odd word/letters/number pair from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Fire",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Light",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Gas",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Water",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Fire, light and gas are sources of light or illumination, whereas water is not.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 5,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "Find the odd word/letters/number pair from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "ECBY",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "RTUX",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "GEDA",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "WUTQ",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Options A, C and D follow the pattern −2, −1 and −3 alphabet shifts. Option B follows the reverse (+2, +1 and +3), making it the odd one.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 6,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "Find the odd word/letters/number pair from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$52-61$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$43-54$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$72-83$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$18-29$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Differences are:\n\n61−52=9\n\n54−43=11\n\n83−72=11\n\n29−18=11\n\nOnly option A differs.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 7,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Dictionary Order",
+    "difficulty": "Easy",
+    "question": "Arrange the following words as per the dictionary order.\n\n1. Fraudulent\n2. Fraught\n3. Fraternity\n4. Franchise\n5. Frantic",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$5,4,1,2,3$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$4,5,3,1,2$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$4,3,5,1,2$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$3,4,5,2,1$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dictionary order:\n\nFranchise → Frantic → Fraternity → Fraudulent → Fraught.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 8,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Letter Series",
+    "difficulty": "Easy",
+    "question": "Which one set of letters when sequentially placed in the blanks will complete the letter series?\n\nH__JH__IJHHI__HH__JH",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "I H J I",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "H I H I",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "I H I J",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "H J H J",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The repeating pattern is HIJH.\n\nThus the missing letters are I, H, J and I.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 9,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "Which number will complete the series?\n\n$63,72,81,90$, ____, 108",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "106",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "108",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "110",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "112",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Each term increases by 9.\n\n63 → 72 → 81 → 90 → 99 → 108.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 10,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Blood Relations",
+    "difficulty": "Easy",
+    "question": "Rajiv is the brother of Arun. Sonia is the sister of Sunil. Arun is the son of Sonia. How is Rajiv related to Sunil?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Nephew",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Son",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Brother",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Father",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Rajiv and Arun are sons of Sonia. Sonia is the sister of Sunil. Therefore, Rajiv is the nephew of Sunil.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 11,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Age",
+    "difficulty": "Easy",
+    "question": "A mother is five times older than her daughter. After 5 years, she would be three times as old as her daughter. Find the mother's present age.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "20 years",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "22 years",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "25 years",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "29 years",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let the daughter's present age be $x$ years.\n\nMother's present age $=5x$.\n\nAfter 5 years,\n\n$5x+5=3(x+5)$\n\n$5x+5=3x+15$\n\n$2x=10$\n\n$x=5$\n\nTherefore, the mother's present age is\n\n$5\\times5=25\\text{ years}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 12,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Word Formation",
+    "difficulty": "Easy",
+    "question": "From the given alternative words, select the word which cannot be formed using the letters of the given word.\n\nPRONOUNCEMENT",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "MOUNT",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CEMENT",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "PAVEMENT",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "NOUN",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The word PRONOUNCEMENT does not contain the letters 'A' and 'V'. Therefore, 'PAVEMENT' cannot be formed.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 13,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If SYSTEM is written as RXRSDL, then how can CORRECT be written in that code?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "BNQQDBS",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "BQQNDBS",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "BNQQBDS",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "BNQDQBS",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Each letter is replaced by the previous letter in the English alphabet.\n\nC→B, O→N, R→Q, R→Q, E→D, C→B, T→S.\n\nHence, CORRECT is coded as BNQQDBS.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 14,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If A means '+', B means '×', C means '÷' and D means '−', then find the value of:\n\n9A2B6D4C2",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "17",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "19",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "21",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "23",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Replacing the symbols:\n\n$9+2$\\times$6-4$\\div2$\n\nApplying BODMAS,\n\n$=$9+12-2$\n\n$=19.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 15,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If $4\\times3=14$, $5\\times4=18$, and $6\\times5=22$, then find the value of $7\\times6$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "24",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "26",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "28",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "30",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pattern:\n\n$(a+b)\\times2$\n\n$(7+6)$\\times2=13\\times2=26.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 16,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Missing Number",
+    "difficulty": "Easy",
+    "question": "Select the missing number from the given responses.",
+    "questionImage": "test5_q16.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "9",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The middle number is the product of the two end numbers.\n\n$7\\times8=56$\n\n$11\\times9=99$\n\nTherefore,\n\n$9\\times x=45$\n\n$x=5.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 17,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Direction Sense",
+    "difficulty": "Easy",
+    "question": "Rita travelled 35 km towards the south, then turned left and travelled 20 km. Finally, she turned left again and travelled 35 km. In which direction is she from the starting point?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "East",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "West",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "North",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "South",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "After moving south, then east, and finally north by the same distance, Rita ends up 20 km east of the starting point.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 18,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Statement and Conclusion",
+    "difficulty": "Easy",
+    "question": "Statement:\n\nTo achieve economic development, people should work hard.\n\nConclusions:\n\nI. Economic development is directly related to people's hard work.\n\nII. Working hard by all the people is impossible.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only I follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only II follows",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Both I and II follow",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Neither I nor II follows",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The statement establishes a relationship between hard work and economic development. It does not state that working hard is impossible. Hence, only Conclusion I follows.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 19,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Figure Counting",
+    "difficulty": "Medium",
+    "question": "Find the number of triangles in the given figure.",
+    "questionImage": "test5_q19.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "22",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Counting all the small and composite triangles in the given figure gives a total of 18 triangles.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 20,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Venn Diagram",
+    "difficulty": "Easy",
+    "question": "Which of the answer figures best represents the relationship among:\n\nShirt, Garments, Clothes",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": "test5_q20_option_a.png"
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": "test5_q20_option_b.png"
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": "test5_q20_option_c.png"
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": "test5_q20_option_d.png"
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A shirt is a type of garment, and garments are clothes. Therefore, the first diagram correctly represents the relationship.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 21,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Figure Completion",
+    "difficulty": "Easy",
+    "question": "Which answer figure will complete the pattern in the question figure?",
+    "questionImage": "test5_q21.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": "test5_q21_option_a.png"
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": "test5_q21_option_b.png"
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": "test5_q21_option_c.png"
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": "test5_q21_option_d.png"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "When the incomplete figure is completed, the missing portion matches option D.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 22,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Embedded Figure",
+    "difficulty": "Easy",
+    "question": "From the given answer figures, select the one in which the question figure is hidden/embedded.",
+    "questionImage": "test5_q22.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": "test5_q22_option_a.png"
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": "test5_q22_option_b.png"
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": "test5_q22_option_c.png"
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": "test5_q22_option_d.png"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The given question figure is completely embedded in option D.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 23,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Paper Folding and Punching",
+    "difficulty": "Medium",
+    "question": "A piece of paper is folded and punched as shown in the question figure. From the given answer figures, indicate how it will appear when opened.",
+    "questionImage": "test5_q23.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": "test5_q23_option_a.png"
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": "test5_q23_option_b.png"
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": "test5_q23_option_c.png"
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": "test5_q23_option_d.png"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "After unfolding the paper, the hole pattern matches option C.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 24,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Mirror Image",
+    "difficulty": "Easy",
+    "question": "The mirror image of a word is shown in the figure. What is the actual word?",
+    "questionImage": "test5_q24.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "",
+        "image": "test5_q24_option_a.png"
+      },
+      {
+        "id": "B",
+        "text": "",
+        "image": "test5_q24_option_b.png"
+      },
+      {
+        "id": "C",
+        "text": "",
+        "image": "test5_q24_option_c.png"
+      },
+      {
+        "id": "D",
+        "text": "",
+        "image": "test5_q24_option_d.png"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The mirror image reads 'ENIRAM'. Reversing it gives 'MARINE'. Therefore, option D is correct.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 25,
+    "exam": "SSC CGL",
+    "year": "2016",
+    "subject": "Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "A word is represented by only one set of numbers using the two matrices shown in the question. A letter is represented first by its row number and then by its column number. Identify the correct code for the word 'LION'.",
+    "questionImage": "test5_q25.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "$03,55,76,33$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$11,65,77,22$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$23,79,85,43$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$11,88,99,22$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using the given coding matrices, the letters L, I, O and N are represented by 11, 88, 99 and 22 respectively. Hence, the correct code is $11,88,99,22$.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "section": "Reasoning Ability"
+  },
+  {
+    "id": 26,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Environment",
+    "difficulty": "Easy",
+    "question": "Besides carbon dioxide ($CO_2$), which of the following is also a greenhouse gas?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Methane ($CH_4$)",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Nitrogen ($N_2$)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Argon (Ar)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Oxygen ($O_2$)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Methane ($CH_4$) is one of the major greenhouse gases responsible for global warming. It has a much higher heat-trapping capacity than carbon dioxide over a shorter period.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 27,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Economy",
+    "difficulty": "Easy",
+    "question": "National Income of India is compiled by which institution?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Finance Commission",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Indian Statistical Institute",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "National Development Council",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Central Statistical Organization",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Central Statistical Organization (CSO), now functioning under the National Statistical Office (NSO), is responsible for compiling India's National Income statistics.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 28,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Advisory jurisdiction",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Original jurisdiction",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Appellate jurisdiction",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Jurisprudence",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Under Article 131 of the Constitution of India, disputes between the Union and States fall under the Original Jurisdiction of the Supreme Court.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 29,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Ancient Indian History",
+    "difficulty": "Easy",
+    "question": "The words 'Satyameva Jayate' are derived from which Upanishad?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Akshi Upanishad",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Mundaka Upanishad",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Garuda Upanishad",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mahavakya Upanishad",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Satyameva Jayate' (Truth Alone Triumphs) is taken from the Mundaka Upanishad and is the national motto of India.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 30,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "When granite rocks undergo metamorphism, they form:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Quartzite",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Gneiss",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Marble",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Slate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Granite transforms into gneiss under high temperature and pressure during metamorphism.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 31,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "question": "Which of the following is a commercial source of energy?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Agricultural waste",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Dried dung",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Sun",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Natural gas",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Commercial sources of energy are bought and sold in the market. Natural gas is one such commercial energy source.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 32,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Easy",
+    "question": "The backward bending supply curve belongs to which market?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Capital",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Labour",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Money",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Inventories",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The backward bending supply curve is associated with the labour market, where workers may choose more leisure instead of working additional hours after reaching a certain wage level.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 33,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Computer Fundamentals",
+    "difficulty": "Easy",
+    "question": "In Information Technology, associative memory is also known as:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Virtual memory",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Cache memory",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Content Addressable Memory",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Main memory",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Associative memory is commonly called Content Addressable Memory (CAM), where data is accessed based on its content rather than its address.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 34,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Electronics",
+    "difficulty": "Easy",
+    "question": "The process of adding suitable impurities to a semiconductor is called:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Doping",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Mixing",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Forming",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Diluting",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Adding controlled impurities to a pure semiconductor to modify its electrical properties is known as doping.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 35,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Environment",
+    "difficulty": "Easy",
+    "question": "The Kyoto Protocol is associated with:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Species conservation",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Climate change",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Wetland conservation",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Medicinal plants",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions to combat climate change.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 36,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Art and Culture",
+    "difficulty": "Easy",
+    "question": "Ebrahim Alkazi was an eminent personality in which of the following fields?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Heart surgery",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Civil aviation",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Theatre",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Painting",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Ebrahim Alkazi was one of India's most renowned theatre directors and served as the Director of the National School of Drama (NSD).",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 37,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Automobile Industry",
+    "difficulty": "Easy",
+    "question": "Skoda, which launched the sedan 'Rapid', is an automobile manufacturer based in:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Japan",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "France",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "South Korea",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Czech Republic",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Škoda Auto is a Czech automobile manufacturer headquartered in Mladá Boleslav, Czech Republic.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 38,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Art and Culture",
+    "difficulty": "Easy",
+    "question": "Sattriya is a classical dance form of:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Manipur",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Uttar Pradesh",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Assam",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Andhra Pradesh",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Sattriya is one of the eight classical dance forms of India and originated in Assam.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 39,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Sports",
+    "difficulty": "Easy",
+    "question": "P. V. Sindhu defeated Wang Yihan to enter the women's singles semi-final at the Rio Olympics. Wang Yihan belongs to:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Indonesia",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Taiwan",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "China",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Japan",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Wang Yihan is a former badminton player from China.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 40,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "If a budget is defeated in the legislature of a State, then:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The Finance Minister alone has to resign",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "The Finance Minister has to be suspended",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "The Council of Ministers along with the Chief Minister has to resign",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Re-election has to be ordered",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Defeat of the budget amounts to loss of confidence in the government. Therefore, the Council of Ministers headed by the Chief Minister must resign.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 41,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "question": "Which one of the following newspapers was edited by Mahatma Gandhi in South Africa?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Indian Opinion",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Harijan",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Young India",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Indian Mirror",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Mahatma Gandhi founded and edited the newspaper 'Indian Opinion' in South Africa in 1903.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 42,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "India's first Water Metro project was launched in which of the following cities?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Kolkata",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Kochi",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Visakhapatnam",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mumbai",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "India's first Water Metro project was launched in Kochi, Kerala.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 43,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "Meibomian glands are located in the:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Eye",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Ear",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Nose",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Skin",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Meibomian glands are sebaceous glands located along the margins of the eyelids and help prevent evaporation of tears.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 44,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "India's first Post Office ATM was opened in:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Chennai",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "New Delhi",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Hyderabad",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mumbai",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "India's first Post Office ATM was inaugurated in Chennai.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 45,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Environment",
+    "difficulty": "Easy",
+    "question": "The arsenic problem in India is primarily due to:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Over-exploitation of coal in Bihar and Bengal",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Over-exploitation of arsenopyrite in the hinterland",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Over-exploitation of groundwater in the affected areas",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Over-exploitation of surface water in the affected areas",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Arsenic contamination in India is mainly associated with excessive extraction of groundwater, especially in parts of West Bengal and Bihar.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 46,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Sports",
+    "difficulty": "Easy",
+    "question": "Who won the Men's Singles Wimbledon Championship in 2016?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Andy Murray",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Milos Raonic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Roger Federer",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Novak Djokovic",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Andy Murray won the Wimbledon Men's Singles title in 2016 by defeating Milos Raonic.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 47,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "Which of the following vitamins are water-soluble?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Vitamin A and Vitamin B",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Vitamin B and Vitamin C",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Vitamin C and Vitamin D",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Vitamin A and Vitamin K",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Vitamin B-complex and Vitamin C are water-soluble vitamins, whereas Vitamins A, D, E and K are fat-soluble.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 48,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Medium",
+    "question": "In economics, if it is possible to make someone better off without making anyone else worse off, the situation is called:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Inefficient",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Efficient",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Optimal",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Pareto-superior",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "A change that improves at least one person's welfare without reducing anyone else's welfare is known as a Pareto improvement or Pareto-superior situation.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 49,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Environment",
+    "difficulty": "Easy",
+    "question": "The 'Greenhouse Effect' refers to:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Pollution inside houses in tropical regions",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Prevention of ultraviolet radiation by the ozone layer",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Trapping of solar heat by atmospheric gases",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Damage to green-painted buildings",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The greenhouse effect is the trapping of heat in Earth's atmosphere by greenhouse gases such as carbon dioxide and methane.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 50,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "question": "General Dyer, who was responsible for the Jallianwala Bagh massacre, was assassinated by:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Hasrat Mohani",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Veer Savarkar",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Udham Singh",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Jatin Das",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Udham Singh assassinated Michael O'Dwyer in 1940 to avenge the Jallianwala Bagh massacre. SSC examinations traditionally accept 'Udham Singh' as the expected answer.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 51,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "X can complete a piece of work in $p$ days and Y can complete the same work in $q$ days. In how many days can X and Y together complete the work?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\frac{p+q}{2}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$\\frac{1}{\\frac{1}{p}+\\frac{1}{q}}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\frac{pq}{p+q}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$pq$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Assume the total work is $pq$ units.\n\nX's efficiency $=\\frac{pq}{p}=q$ units/day.\n\nY's efficiency $=\\frac{pq}{q}=p$ units/day.\n\nCombined efficiency $=(p+q)$ units/day.\n\nTherefore,\n\n$\\text{Time}=\\frac{pq}{p+q}\\text{ days}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 52,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 25% on the marked price. His gain percentage is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "5%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "10%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "15%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "20%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the cost price be Rs.100.\n\nMarked price $=140$.\n\nSelling price $=140\\times\\frac{75}{100}=105$.\n\nProfit $=$105-100=5$.\n\nHence,\n\n$\\text{Profit \\%}=5\\%.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 53,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Ages",
+    "difficulty": "Easy",
+    "question": "The ratio of the ages of two boys is $3:4$. After 3 years, the ratio becomes $4:5$. What will be the ratio of their ages after 21 years?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$14:17$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$17:19$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$11:12$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$10:11$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let the present ages be $3x$ and $4x$.\n\n$\\frac{3x+3}{4x+3}=\\frac45$\n\n$15x+15=16x+12$\n\n$x=3.$\n\nAfter 21 years,\n\n$\\frac{$9+21$}{$12+21$}=\\frac{30}{33}=\\frac{10}{11}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 54,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "The cost price of 25 books is equal to the selling price of 20 books. The profit percentage is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "20%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "22%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "24%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "25%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Let the cost price of one book be $x$ and the selling price be $y$.\n\n$25x=20y$\n\n$5x=4y$\n\nTake $x=4$ and $y=5$.\n\n$\\text{Profit \\%}=\\frac{$5-4$}{4}\\times100=25\\%.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 55,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "One number is 25% of another number. The larger number is 12 more than the smaller number. Find the larger number.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "20",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the larger number be $4x$.\n\nThen the smaller number is $x$.\n\n$4x-x=12$\n\n$3x=12$\n\n$x=4.$\n\nHence, the larger number is\n\n$4\\times4=16.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 56,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Speed, Time and Distance",
+    "difficulty": "Easy",
+    "question": "A train 500 m long passes a station in 35 seconds. If the platform is 221 m long, what is the speed of the train in km/hr?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "20.6",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "74.16",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "24.76",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "78.54",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Total distance covered\n\n$=$500+221=721$\\text{ m}.$\n\nSpeed\n\n$=\\frac{721}{35}=20.6\\text{ m/s}.$\n\nConverting into km/hr,\n\n$20.6\\times\\frac{18}{5}=74.16\\text{ km/hr}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 57,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "If the simple interest on Rs.400 for 10 years is Rs.280, then the annual rate of interest is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "7%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7.5%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "7.25%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8.5%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using\n\n$SI=\\frac{PRT}{100}$\n\n$280=\\frac{400\\times R\\times10}{100}$\n\n$40R=280$\n\n$R=7\\%.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 58,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If $a+b=2c$, where $a\\ne b\\ne c$, then find the value of\n\n$\\frac{a}{a-c}+\\frac{c}{b-c}.$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "7",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From\n\n$a+b=2c$\n\nwe get\n\n$a-c=c-b.$\n\nTherefore,\n\n$\\frac{a}{a-c}+\\frac{c}{b-c}=\\frac{a}{c-b}-\\frac{c}{c-b}=\\frac{a-c}{c-b}=1.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 59,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If\n\n$x+\\frac1x=5,$\n\nthen find the value of\n\n$\\frac{x}{1+x+x^2}.$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "20",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From\n\n$x+\\frac1x=5$\n\nmultiply by $x$:\n\n$x^$2+1=5$x.$\n\nHence,\n\n$1+x+x^2=x+5x=6x.$\n\nTherefore,\n\n$\\frac{x}{1+x+x^2}=\\frac{x}{6x}=\\frac16.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 60,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "In triangle $ABC$, $G$ is the centroid and $AD$ is a median. Find the ratio $AG:AD$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$3:2$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$2:3$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$2:1$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$1:2$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A centroid divides every median in the ratio $2:1$ from the vertex.\n\nHence,\n\n$AG:AD=$2:3$.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 61,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "question": "A point $P$ lying inside a triangle is equidistant from all the vertices of the triangle. Then $P$ is the:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Centroid",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Incentre",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Orthocentre",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Circumcentre",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The circumcentre of a triangle is equidistant from all three vertices. Therefore, the required point is the circumcentre.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 62,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometry",
+    "difficulty": "Easy",
+    "question": "If $\\sin\\theta + \\cos\\theta = 1$, then find the value of $\\sin\\theta\\cos\\theta$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "-2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Squaring both sides,\n\n$(\\sin\\theta+\\cos\\theta)^2=1$\n\n$\\sin^2\\theta+\\cos^2\\theta+2\\sin\\theta\\cos\\theta=1$\n\n$1+2$\\sin\\theta\\cos\\theta=1$\n\n$\\sin\\theta\\cos\\theta=0.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 63,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Arithmetic Progression",
+    "difficulty": "Medium",
+    "question": "If seven times the seventh term of an Arithmetic Progression is equal to eleven times its eleventh term, then the eighteenth term is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "-2",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the first term be $a$ and common difference be $d$.\n\n$7(a+6d)=11(a+10d)$\n\n$7a+42d=11a+110d$\n\n$a=-17d.$\n\nThe 18th term is\n\n$a+17d=-17d+17d=0.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 64,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Easy",
+    "question": "The average age of eight teachers in a school is 40 years. One teacher aged 55 years dies and another teacher aged 39 years joins. What is the new average age?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "\\frac{304}{4}",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "\\frac{304}{2}",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "\\frac{304}{8}",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "\\frac{304}{16}",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Initial total age $=8\\times40=320$.\n\nNew total age $=$320-55+39=304$.\n\nNew average\n\n$\\frac{304}{8}=38.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 65,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "If\n\n$\\frac{a^2}{b+c}=\\frac{b^2}{c+a}=\\frac{c^2}{a+b}=1,$\n\nthen find the value of\n\n$\\frac{2}{1+a}+\\frac{2}{1+b}+\\frac{2}{1+c}.$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "6",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "From the given relations,\n\n$a=b+c,\\;b=c+a,\\;c=a+b.$\n\nHence,\n\n$\\frac{1}{1+a}=\\frac{a}{a+b+c},$\n\nand similarly for the other two terms.\n\nTherefore,\n\n$2\\left(\\frac{a+b+c}{a+b+c}\\right)=2.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 66,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "If\n\n$2\\left(x+\\frac{1}{x}\\right)=3,$\n\nthen find the value of\n\n$x^3+\\frac{1}{x^3}+2.$",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\frac{3}{4}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$\\frac{4}{5}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\frac{5}{8}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$\\frac{7}{8}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Given,\n\n$x+\\frac{1}{x}=\\frac{3}{2}.$\n\nUsing\n\n$\\left(x+\\frac1x\\right)^3=x^3+\\frac1{x^3}+3\\left(x+\\frac1x\\right),$\n\nwe get\n\n$x^3+\\frac1{x^3}=\\frac{27}{8}-\\frac{27}{4}=-\\frac98.$\n\nTherefore,\n\n$x^3+\\frac1{x^3}+2=-\\frac$98+2$=\\frac78.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 67,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "question": "Two equal circles each have radius 3 cm and the distance between their centres is 10 cm. Find the length of their transverse common tangent.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "7 cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "9 cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "10 cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8 cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Length of transverse common tangent\n\n$=\\sqrt{d^2-(r_1+r_2)^2}$\n\n$=\\sqrt{10^2-$(3+3)$^2}$\n\n$=\\sqrt{$100-36$}=8\\text{ cm}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 68,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "difficulty": "Medium",
+    "question": "In $\\triangle ABC$, if median $AD=\\frac{1}{2}BC$, then $\\angle BAC$ is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "90°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "45°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "60°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "75°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since $AD$ is the median and $AD=BD=CD$, point $D$ is the circumcentre. Therefore, $BC$ is the hypotenuse and\n\n$\\angle BAC=90^\\circ.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 69,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "question": "If\n\n$\\frac{\\sin\\theta+\\cos\\theta}{\\sin\\theta-\\cos\\theta}=3,$\n\nfind the value of $\\sin\\theta-4\\cos\\theta$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\frac{4}{3}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$\\frac{3}{4}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\frac{5}{3}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$\\frac{3}{5}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "From the given equation,\n\n$\\sin\\theta+\\cos\\theta=3(\\sin\\theta-\\cos\\theta).$\n\nHence,\n\n$2\\sin\\theta=4\\cos\\theta,$\n\nso $\\tan\\theta=2$.\n\nThus,\n\n$\\sin\\theta=\\frac{2}{\\sqrt5},\\quad \\cos\\theta=\\frac1{\\sqrt5},$\n\nwhich gives\n\n$\\sin\\theta-4\\cos\\theta=\\frac35.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 70,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Medium",
+    "question": "A sphere has the same curved surface area as a cone of height 40 cm and radius 30 cm. Find the radius of the sphere.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$5\\sqrt5$ cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$5\\sqrt3$ cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$5\\sqrt{15}$ cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$5\\sqrt{10}$ cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Slant height of the cone:\n\n$l=\\sqrt{40^$2+30$^2}=50\\text{ cm}.$\n\nEquating curved surface areas,\n\n$4\\pi R^2=\\pi rl=\\pi(30)(50).$\n\n$R^2=375.$\n\n$R=\\sqrt{375}=5\\sqrt{15}\\text{ cm}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 71,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Heights and Distances",
+    "difficulty": "Medium",
+    "question": "The angle of elevation of the top of a tower from a point $A$ on the ground is $30^\\circ$. After moving 20 m towards the foot of the tower to point $B$, the angle of elevation becomes $60^\\circ$. Find the height of the tower.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\sqrt{3}$ m",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$5\\sqrt{3}$ m",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$10\\sqrt{3}$ m",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$20\\sqrt{3}$ m",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Let the height of the tower be $h$ m and the distance from point $B$ to the foot of the tower be $x$ m.\n\nFrom point $B$,\n\n$\\tan60^\\circ=\\frac{h}{x}$\n\n$\\sqrt3=\\frac{h}{x}$\n\n$x=\\frac{h}{\\sqrt3}.\\tag{1}$\n\nFrom point $A$,\n\n$\\tan30^\\circ=\\frac{h}{x+20}$\n\n$\\frac1{\\sqrt3}=\\frac{h}{x+20}.\\tag{2}$\n\nSubstituting (1) into (2):\n\n$\\sqrt3h-\\frac{h}{\\sqrt3}=20$\n\n$h=10\\sqrt3\\text{ m}.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 72,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "The pie chart shows the cost of gold during the years 2010–2013. If the price of gold in 2013 is Rs. 31,500 per 10 grams, what was the price per 10 grams in 2011?",
+    "questionImage": "test5_q72.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 17,000",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rs. 17,500",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Rs. 18,000",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Rs. 18,500",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From the pie chart,\n\n2013 corresponds to $135^\\circ$ and 2011 corresponds to $75^\\circ$.\n\nLet the common factor be $x$.\n\n$135x=31500$\n\n$x=\\frac{31500}{135}=\\frac{700}{3}.$\n\nPrice in 2011:\n\n$75\\times\\frac{700}{3}=17,500.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 73,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "Study the given pie chart and find the ratio of the price of gold in the years 2010 and 2013.",
+    "questionImage": "test5_q72.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "$1:2$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$1:3$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$1:4$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$1:5$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From the pie chart:\n\n2010 corresponds to $45^\\circ$.\n\n2013 corresponds to $135^\\circ$.\n\n$45:135$=$1:3$.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 74,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "Study the given pie chart and find the percentage increase in the price of gold from 2011 to 2013.",
+    "questionImage": "test5_q72.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "50%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "60%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "70%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "80%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "From the pie chart:\n\n2011 = $75^\\circ$\n\n2013 = $135^\\circ$\n\nPercentage increase:\n\n$\\frac{$135-75$}{75}\\times100=80\\%.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 75,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Medium",
+    "question": "Study the given pie chart and find the ratio of the percentage increase in the price of gold from 2011 to 2012 and from 2012 to 2013.",
+    "questionImage": "test5_q72.png",
+    "options": [
+      {
+        "id": "A",
+        "text": "$6:5$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$7:5$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$8:5$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$9:5$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "From the pie chart:\n\n2011 = $75^\\circ$\n\n2012 = $105^\\circ$\n\n2013 = $135^\\circ$.\n\nIncrease from 2011 to 2012:\n\n$\\frac{$105-75$}{75}\\times100=40\\%.$\n\nIncrease from 2012 to 2013:\n\n$\\frac{$135-105$}{105}\\times100=\\frac{200}{7}\\%.$\n\nRequired ratio:\n\n$40:\\frac{200}{7}=$7:5$.$",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 76,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "Choose the word which best expresses the meaning of the given word.\n\n**EXAGGERATE**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Magnify",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Imagine",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Reinforce",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Reiterate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Exaggerate** means to overstate or magnify something beyond the truth.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 77,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "Choose the word which is opposite in meaning to the given word.\n\n**GREGARIOUS**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Unsociable",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Unsympathetic",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Ungrateful",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Unattractive",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Gregarious** means sociable or fond of company. Its opposite is **unsociable**.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 78,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "question": "Four words are given below. Choose the correctly spelt word.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Serendipty",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Serendipity",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Serndipity",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Sernidipity",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "**Serendipity** is the correct spelling.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 79,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the part of the sentence that contains an error.\n\nConsidering the (A) / gravity of the problems (B) / an early reply has expected (C) / No Error (D)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passive verb is incorrect. It should be **'an early reply is expected'** instead of **'has expected'**.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 80,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the part of the sentence that contains an error.\n\nThe Statesman has the (A) / larger circulation (B) / of all English dailies (C) / No Error (D)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The superlative form is required. It should be **'the largest circulation'**.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 81,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "Identify the part of the sentence that contains an error.\n\nI am very anxious (A) / to know how are you (B) / and mother are doing (C) / No Error (D)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "D",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "In an indirect question, the correct order is **'how you are'**, not **'how are you'**.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 82,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Choose the correct word(s) to complete the sentence.\n\nEverything _____ carefully checked.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "has been",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "have been",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "are being",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "is been",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "**Everything** is singular, so the correct passive form is **has been checked**.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 83,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Choose the correct word to complete the sentence.\n\nI've _____ finished painting the house.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "about",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "nearing",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "towards",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "almost",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "**Almost finished** is the correct and natural expression.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 84,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "Choose the correct word(s) to complete the sentence.\n\nShe _____ made him angry.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "have absolutely",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "has certainly",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "have certainly",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "has absolutely",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The subject **She** takes **has**, and **has certainly made** is the most appropriate expression.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 85,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Choose the option that best expresses the meaning of the idiom.\n\n**Burn your boats**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Have a burning desire to win",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Become extremely tired after working very hard",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Do something that makes it impossible to return to the previous situation",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Want to spend money as soon as you get it",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Burn your boats** means to destroy any possibility of going back to an earlier situation.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 86,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Choose the option that best expresses the meaning of the idiom.\n\n**Dressing-down**",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Apply bandage",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Wear an expensive gown",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Give a scolding",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Pretend",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "**Dressing-down** means a severe scolding or reprimand.",
+    "answerImage": null,
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 87,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.\n\nNull and void",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Invalid",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Observant",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Uncontrolled",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Homeless",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The idiom 'Null and void' means having no legal force or validity. Therefore, 'Invalid' is the correct answer.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 88,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentence.\n\nWrite or carve words on stone or paper.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Sketch",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Imprint",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Affix",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Inscribe",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "'Inscribe' means to write, engrave, or carve words on a surface such as stone or paper.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 89,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentence.\n\nUnable to pay one's debt.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Insolvent",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Impute",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Indebt",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Obligate",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Insolvent' refers to a person or organization that is unable to pay debts.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 90,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentence.\n\nTrouble and annoy continually.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Complaint",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Harass",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Punish",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Oppress",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Harass' means to trouble, annoy, or bother someone repeatedly.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 91,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative.\n\nThe Chairman's harsh words _____ insult to injury to the embarrassed speaker.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "added",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "evoked",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "invoked",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct idiom is 'add insult to injury', meaning to make a bad situation even worse.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 92,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative.\n\nHe is _____ of sorts today.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "out",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "on",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "outside",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The correct idiom is 'out of sorts', meaning feeling unwell or not in a good mood.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 93,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative.\n\nShe _____ the news.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "said me",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "said to me",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "told me",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Tell' is followed directly by the object ('told me'), whereas 'say' requires 'to' before the object.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 94,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative.\n\nThe philanthropist _____ a lakh to the orphanage.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "granted",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "parted with",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "donated",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Donate' is the appropriate verb for giving money or property to a charitable institution.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 95,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nThere are a better ways of solving the problem.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "There are different ways of solving a problem.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "There is a better way of looking at the problem.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "There are better ways of solving the problem.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The article 'a' before the plural noun 'ways' is incorrect. The correct sentence is 'There are better ways of solving the problem.'",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 96,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nThe artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face for the actor who is playing _____.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "the lead role",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "the old man or woman",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "his own age",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "the role of the clown",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage states that for an actor playing his own age, make-up is used to strengthen the features and add lifelike colour.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 97,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat do artists use to help young actors playing old men?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Wig and moustache",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Hats and hairdos",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Wheel chairs and walking sticks",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "False noses, enlarged eyebrows or scars",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage mentions that young actors playing old characters can be greatly helped by hats and hairdos.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 98,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhat is the correct sequence for make-up?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Modelling the face by highlighting and shadowing then applying a base colour",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Highlighting and shadowing, then applying a base colour and modelling the face",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Applying a base colour, then modelling the face by highlighting and shadowing",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Shadowing and modelling, then applying a base colour for highlighting",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "According to the passage, the first step is applying a base colour followed by modelling the face through highlighting and shadowing.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 99,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nLines are drawn with a dark make-up pencil or brush to suggest _____.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "dimples",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "wrinkles",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "smiles",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "pimples",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The passage states that lines are drawn with a dark make-up pencil or brush to suggest wrinkles.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 100,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "question": "Read the passage carefully and answer the following question.\n\nPassage:\nIn general it is better to use too little make-up than too much. The audience should not be aware that the actor's face is painted. For the actor who is playing his own age, the artist uses make-up to strengthen the features, particularly eyes and mouth, and to add lifelike colour to the face. Character make-up does these things in addition to transforming the face to another age, another type or another race. This transformation, particularly for young actors playing old characters, can be helped greatly by hats and hairdos.\n\nMake-up consists of applying a base colour, then modelling the face by highlighting and shadowing (sinking the cheeks, for example, with a darker colour). Sometimes, modelling is done by applying false (putty or plastic) noses, enlarged eyebrows, or scars. Lines to suggest wrinkles are drawn on with a dark make-up pencil (brown or maroon, not black) or brush. Each line is highlighted with another line, either white or a light tint of the base colour. Lips are outlined and coloured, and a similar colour is applied to the cheeks. After make-up is complete, powder is applied.\n\nQuestion:\nWhen is powder usually applied?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Before the make-up",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "As make-up foundation",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "After the make-up",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "During the make-up",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage clearly states that powder is applied after the make-up is complete.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  }
+]

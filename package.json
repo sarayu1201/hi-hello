@@ -1,0 +1,27 @@
+{
+  "name": "kr-academy-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "validate": "python QuestionBank/python/validate_json.py",
+    "build": "python QuestionBank/python/validate_json.py && echo 'No build required for backend'",
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.11.1",
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.0",
+    "helmet": "^8.2.0",
+    "mongoose": "^8.24.0",
+    "multer": "^2.2.0",
+    "nodemailer": "^6.9.13",
+    "pdf-parse": "^2.4.5",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
+  }
+}

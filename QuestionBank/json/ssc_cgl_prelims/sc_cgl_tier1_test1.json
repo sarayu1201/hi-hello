@@ -1,0 +1,3650 @@
+[
+  {
+    "id": 1,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Analogy",
+    "difficulty": "Easy",
+    "question": "Select the option that is related to the third term in the same way as the second term is related to the first term.\n\nAuthor : Book :: Sculptor : ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Statue",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Chisel",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Stone",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Museum",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "An author writes/creates a book. Similarly, a sculptor shapes/creates a statue.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 2,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Classification",
+    "difficulty": "Medium",
+    "question": "Three of the following four letter-clusters are alike in a certain way and one is different. Select the odd one out.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "BDG",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "FHK",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "OQT",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "LNP",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In BDG (B+2=D, D+3=G), FHK (F+2=H, H+3=K), and OQT (O+2=Q, Q+3=T), the pattern is +2, +3. In LNP (L+2=N, N+2=P), the pattern is +2, +2. Hence, LNP is the odd one.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 3,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Series",
+    "difficulty": "Medium",
+    "question": "Which letter-cluster will replace the question mark (?) in the following series?\n\nPMT, OOS, NQR, MSQ, ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "LUP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "LVP",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "LUN",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "LVO",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The pattern is:\nFirst letter: P - 1 = O, O - 1 = N, N - 1 = M, M - 1 = L\nSecond letter: M + 2 = O, O + 2 = Q, Q + 2 = S, S + 2 = U\nThird letter: T - 1 = S, S - 1 = R, R - 1 = Q, Q - 1 = P\nTherefore, the next term in the series is LUP.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 4,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "In a certain code language, 'CANDLE' is written as 'EYPBLC'. How will 'FLOWER' be written in that code language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "HJQUGP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "HKRVHS",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "HJQREP",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "GKNVDP",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The coding pattern alternates between adding 2 and subtracting 2 from the alphabetical position of each letter: C(+2)=E, A(-2)=Y, N(+2)=P, D(-2)=B, L(+2)=N, E(-2)=C. Applying the same pattern to FLOWER gives: F(+2)=H, L(-2)=J, O(+2)=Q, W(-2)=U, E(+2)=G, R(-2)=P. Therefore, FLOWER is coded as HJQUGP.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 5,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "Find the odd letter group from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "ABD",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "FGI",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "LMO",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "STU",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In options A, B and C, the letters follow a +1 then +2 alphabetical pattern. In option D, the letters follow a +1 then +1 pattern. Therefore, STU is the odd one out.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 6,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Odd One Out",
+    "difficulty": "Easy",
+    "question": "Find the odd number pair from the given alternatives.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$24-42$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$36-63$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$37-73$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$35-51$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "In the first three options, the digits are simply reversed. In option D, 35 reversed should be 53, not 51. Hence option D is the odd pair.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 7,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Dictionary Order",
+    "difficulty": "Easy",
+    "question": "Arrange the following words according to dictionary order.\n1. Manifest\n2. Meticulous\n3. Meridian\n4. Merchant",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$1,4,3,2$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$2,1,4,3$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$1,3,2,4$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$2,3,4,1$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Comparing the words alphabetically gives the order: Manifest → Merchant → Meridian → Meticulous. Therefore the correct sequence is $1,4,3,2$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 8,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Letter Series",
+    "difficulty": "Medium",
+    "question": "Which set of letters, when sequentially placed in the blanks, will complete the series?\nM__OMMN__M__NOMMN__M",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "O N M O",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "N O M O",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "M O N M",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "N N M O",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The repeating pattern is MNOM. Filling the blanks according to this repeating sequence gives the letters N, O, M and O.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 9,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Medium",
+    "question": "Which number will complete the series?\n$14,27,52,101,198$, ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "389",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "393",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "391",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "395",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Each term is obtained by adding the previous term minus consecutive integers.\n14 + $(14 - 1) = 27$\n27 + $(27 - 2) = 52$\n52 + $(52 - 3) = 101$\n101 + $(101 - 4) = 198$\n198 + $(198 - 5) = 391$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 10,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Blood Relations",
+    "difficulty": "Easy",
+    "question": "M is the son of P. Q is the granddaughter of O, who is the husband of P. How is M related to O?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Son",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Daughter",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Mother",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Father",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "O is the husband of P, making them the parents of M. Since M is stated to be the son of P, M is also the son of O. The information about Q is not required to determine the relationship.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 11,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Ranking and Ordering",
+    "difficulty": "Medium",
+    "question": "Ramesh is richer than Satish but Jaya is less rich than Ramesh. Ram is less rich than Jaya but richer than Satish, and is not as rich as Ramesh. Ramesh is less rich than Navin. Who is the richest among them?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Ramesh",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Satish",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Navin",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Jaya",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "From the statements:\nRamesh > Jaya > Ram > Satish\nNavin > Ramesh\nTherefore the final order is:\nNavin > Ramesh > Jaya > Ram > Satish.\nHence, Navin is the richest.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 12,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Word Formation",
+    "difficulty": "Easy",
+    "question": "From the given alternative words, select the word which cannot be formed using the letters of the word CARPENTER.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "NECTAR",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "CARPET",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "PAINTER",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "REPENT",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The word CARPENTER does not contain the letter 'I'. Therefore, the word PAINTER cannot be formed from the given letters, while the remaining words can be formed.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 13,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Medium",
+    "question": "If FRIEND is coded as HUMJTK, how can CANDLE be written in that code?",
+    "questionImage": "q13.png",
+    "imageNote": "Manual attachment required. The original coding pattern/illustration shown in the source document should be cropped and saved as q13.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "EDRIRL",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ESJFME",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "DCQHQK",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "DEQJQM",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "From the given coding example FRIEND → HUMJTK, each letter is transformed according to the pattern illustrated in the original figure. Applying the same transformation to CANDLE results in EDRIRL.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 14,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of $14 \\times $3 - 12 + 4$ \\div 2$ represented by the expression 14C3A12E4D2.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "30",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "34",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "36",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "32",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Replace the symbols according to the given meanings.\n14C3A12E4D2 = $14 \\times 3$ − $12 + 4$ \\div 2 = 42$ − $12 + 2 = 32.$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 15,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Number Coding",
+    "difficulty": "Easy",
+    "question": "If 879 = 8, 625 = 1 and 586 = 9, then 785 = ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "10",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The coded value is obtained by subtracting the first digit from the sum of the last two digits.\n879 → $(7 + 9)$ − 8 = 8\n625 → $(2 + 5)$ − 6 = 1\n586 → $(8 + 6)$ − 5 = 9\n785 → $(8 + 5)$ − 7 = 6.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 16,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Missing Number",
+    "difficulty": "Medium",
+    "question": "Find the missing number from the given figure.",
+    "questionImage": "q16.png",
+    "imageNote": "Manual attachment required. Crop the complete number figure from the original document and save it as q16.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "42",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "44",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "46",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "48",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.\n$(8 + 7)$ \\times 6 = 90$\n$(7 + 6)$ \\times 5 = 65$\n$(6 + 5)$ \\times 4 = 44$\nHence, the missing number is 44.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 17,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Direction Sense",
+    "difficulty": "Medium",
+    "question": "Sham goes to his friend's house which is straight 10 km from his house. On his way back, he takes a right turn and walks 2 km, then again takes a right turn and walks 10 km before taking another right turn. How much distance is Sham still away from his house?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "10 km",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "8 km",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "12 km",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "2 km",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "After returning from his friend's house, Sham turns right, walks 2 km, then turns right again and walks 10 km parallel to his original route. After the final right turn, he is only 2 km away from his house.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 18,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "One statement is followed by two conclusions.\n\nStatement:\nAll boys are tall.\nRajiv is a boy.\n\nConclusions:\nI. Rajiv is tall.\nII. Rajiv is not tall.\n\nWhich conclusion(s) follow?",
+    "questionImage": "q18.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original Venn diagram shown in the source document as q18.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion I follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion II follows",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Both conclusion I and conclusion II follow",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion I nor conclusion II follows",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Since all boys are tall and Rajiv is a boy, Rajiv must be tall. Therefore, only Conclusion I logically follows.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 19,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Figure Counting",
+    "difficulty": "Medium",
+    "question": "How many triangles are there in the given figure?",
+    "questionImage": "q19.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original triangle figure from the source document as q19.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "16",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The figure contains 6 small triangles, 3 triangles formed by combining two small triangles, 6 larger triangles formed by combining three small triangles, and 1 outer triangle. Total = $6 + 3 + 6 + 1 = 16.$",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 20,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Venn Diagram",
+    "difficulty": "Easy",
+    "question": "Which of the following diagrams correctly represents the relationship between Awards, Pulitzer Prize and Oscars?",
+    "questionImage": null,
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original answer-figure diagram from the source document as q20.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "q20_a.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "q20_b.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "q20_c.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "q20_d.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pulitzer Prize and Oscars are two different categories of awards. Both are subsets of Awards but do not overlap with each other. Therefore, the third diagram correctly represents the relationship.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 21,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Pattern Completion",
+    "difficulty": "Medium",
+    "question": "Which answer figure will complete the pattern in the question figure?",
+    "questionImage": "q21.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original question figure from the source document as q21.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "q21_a.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "q21_b.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "q21_c.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "q21_d.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Only Option C correctly completes all three concentric circles while maintaining the position of the small line segments and rings. The remaining options violate one or more parts of the original pattern.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 22,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Embedded Figure",
+    "difficulty": "Medium",
+    "question": "From the given answer figures, select the one in which the question figure is hidden or embedded.",
+    "questionImage": "q22.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original question figure from the source document as q22.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "q22_a.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "q22_b.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "q22_c.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "q22_d.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The given question figure appears exactly within Option B without any rotation or distortion. Therefore, Option B is the correct embedded figure.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 23,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Paper Folding",
+    "difficulty": "Medium",
+    "question": "A piece of paper is folded and cut as shown in the question figures. From the given answer figures, indicate how it will appear when opened.",
+    "questionImage": "q23.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original folding and cutting figures from the source document as q23.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "q23_a.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "q23_b.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "q23_c.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "q23_d.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "When the paper is unfolded first vertically and then horizontally, the holes appear symmetrically according to the fold lines. Only Option D matches the resulting pattern.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 24,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Mirror Image",
+    "difficulty": "Medium",
+    "question": "If a mirror is placed on the line MN, then which of the answer figures is the correct mirror image of the given figure?",
+    "questionImage": "q24.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the original question figure from the source document as q24.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Option A",
+        "image": "q24_a.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Option B",
+        "image": "q24_b.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": "q24_c.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Option D",
+        "image": "q24_d.png",
+        "imageStatus": "MANUAL_REQUIRED"
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Option B correctly represents the mirror image across line MN. The remaining options contain incorrect placement of one or more line segments after reflection.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 25,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Reasoning Ability",
+    "topic": "Matrix Coding",
+    "difficulty": "Hard",
+    "question": "In the given matrices, the rows and columns of Matrix I are numbered from 0 to 4 and those of Matrix II from 5 to 9. A letter is represented first by its row number and then by its column number. Identify the correct code for the word 'BANK'.",
+    "questionImage": null,
+    "imageStatus": "MANUAL_REQUIRED",
+    "imageNote": "Attach the complete matrix diagram from the source document as q25.png.",
+    "options": [
+      {
+        "id": "A",
+        "text": "$42,69,14,98$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$00,55,33,57$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$21,67,30,86$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$42,78,43,58$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the coordinates from the given matrices, the letters B, A, N and K correspond respectively to 42, 69, 14 and 98. Hence Option A correctly represents the word BANK.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 26,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "question": "Which of the following gases is known as 'Laughing Gas'?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitric oxide",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Nitrous oxide",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Nitrogen pentoxide",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Nitrogen dioxide",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Nitrous oxide ($N_2O$), commonly known as laughing gas, is a chemical compound used in dentistry and surgery for its anesthetic and analgesic effects.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 27,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Computer Awareness",
+    "difficulty": "Easy",
+    "question": "Which of the following uses the spawn mechanism to duplicate itself?",
+    "questionImage": null,
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trojan Horse",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Worm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Keystroke Logger",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Logic Bomb",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A computer worm is a self-replicating malware that spreads automatically by creating copies of itself across systems and networks without requiring user intervention.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 28,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Physics",
+    "difficulty": "Easy",
+    "question": "Sun appears red in colour at sunrise and sunset due to:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The Sun emits only red colour at that time.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Red light having longer wavelength scatters away.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "The Sun comes out of the mountains.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "All other colours scatter away except red.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "At sunrise and sunset, sunlight travels a longer distance through the atmosphere. Shorter wavelengths such as blue and violet scatter more due to Rayleigh scattering, allowing predominantly red light to reach our eyes.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 29,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "What is the main purpose of white blood corpuscles?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "To carry nutrients",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "To combat infection",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "To carry oxygen",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "To give strength",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "White blood cells (leukocytes) are responsible for defending the body against pathogens such as bacteria, viruses, fungi and other foreign substances, thereby protecting the immune system.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 30,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "The layer where the decrease in temperature with increasing altitude is totally absent is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Troposphere",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Ionosphere",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Stratosphere",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mesosphere",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "In the stratosphere, temperature remains nearly constant initially and then increases with altitude because ozone absorbs ultraviolet radiation. Therefore, the normal decrease in temperature with height is absent.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 31,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Physics",
+    "difficulty": "Easy",
+    "question": "At hill stations, the boiling point of water will be:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Same as at sea level",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Less than that at sea level",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "More than that at sea level",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Equal to the melting point of ice",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Atmospheric pressure decreases with altitude. Since water boils when its vapour pressure equals atmospheric pressure, it boils at a lower temperature at hill stations than at sea level.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 32,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "question": "Gandhiji's 'Satyagraha' meant an attachment to which of the following two elements?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Knowledge and Religion",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Truth and Non-violence",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Truth and Chastity",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Love of Motherland and Hatred for Colonial Masters",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The word 'Satyagraha' literally means 'holding firmly to truth'. Mahatma Gandhi based Satyagraha on the principles of truth (Satya) and non-violence (Ahimsa).",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 33,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Geography",
+    "difficulty": "Easy",
+    "question": "What is meant by 'Density of Population'?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Ratio of people living below poverty line to total population",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Number of persons living per square kilometre",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Number of persons living in a city",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Number of persons living per kilometre",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Population density is defined as the number of people living per unit area, generally expressed as persons per square kilometre.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 34,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT a feature of a capitalist economy?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Right to Private Property",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Existence of Competition",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Service Motive",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Freedom of Choice to Consumers",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Capitalist economies primarily operate on the profit motive. 'Service motive' is generally associated with welfare-oriented or public sector activities rather than capitalism.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 35,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "Sunita Williams is a:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Astronaut",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Missile Scientist",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Nuclear Scientist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Astrophysicist",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Sunita Williams is an American astronaut of Indian origin who has completed multiple space missions and held records for long-duration spaceflight.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 36,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Literature",
+    "difficulty": "Easy",
+    "question": "Who is the writer of the famous book 'Kabuliwala'?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Bankim Chandra Chatterjee",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rabindranath Tagore",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Munshi Premchand",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Khan Abdul Ghaffar Khan",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Kabuliwala' is a famous short story written by Nobel laureate Rabindranath Tagore. It depicts the emotional bond between an Afghan fruit seller and a young Bengali girl.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 37,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Sports",
+    "difficulty": "Easy",
+    "question": "The term 'Bully' is associated with which sport?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Cricket",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Hockey",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Badminton",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Tennis",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "In hockey, a 'bully' was a method of restarting play in older versions of the game where two opposing players struck their sticks together before contesting the ball.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 38,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Sports Awards",
+    "difficulty": "Easy",
+    "question": "Who amongst the following wrestlers has been the recipient of the Rajiv Gandhi Khel Ratna Award?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Vijender Singh",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Sushil Kumar",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Anand Kumar Singh",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Zoravar Singh Faujdar",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sushil Kumar, one of India's most successful wrestlers, received the Rajiv Gandhi Khel Ratna Award for his outstanding achievements in wrestling.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 39,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Occupational Diseases",
+    "difficulty": "Easy",
+    "question": "Siderosis is a disease caused by the inhalation of:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Silica dust",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Iron dust",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Zinc dust",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Coal dust",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Siderosis is an occupational lung disease caused by prolonged inhalation of iron dust, commonly affecting workers in welding and iron industries.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 40,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Geography",
+    "difficulty": "Easy",
+    "question": "The term 'Doab' means:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A land between two mountains",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "A land between two lakes",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "A land between two rivers",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A land between two seas",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A Doab is the tract of land lying between two rivers. The word is derived from the Persian words 'Do' meaning two and 'Ab' meaning water.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 41,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "question": "Which of the following is used as an anaesthetic?",
+    "questionImage": null,
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nitrogen",
+        "image": null,
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "B",
+        "text": "Nitrous Oxide (N₂O)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Option C",
+        "image": null,
+        "imageStatus": "MANUAL_REQUIRED"
+      },
+      {
+        "id": "D",
+        "text": "Methane (CH₄)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Nitrous oxide (N₂O), commonly known as laughing gas, is widely used as an inhalation anaesthetic and analgesic in medical and dental procedures.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 42,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "question": "Clove is obtained from:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Root",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Stem",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Leaves",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Flower Buds",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Clove is the dried unopened flower bud of the clove tree (*Syzygium aromaticum*). It is widely used as a spice and in traditional medicine.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 43,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Geography",
+    "difficulty": "Easy",
+    "question": "What is Dakshin Gangotri?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "River valley in Andhra Pradesh",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Unmanned station located in Antarctica",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Second source of River Ganga",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Island in the Indian Ocean",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dakshin Gangotri was India's first Antarctic research station, established in 1983. It is now an unmanned station used mainly as a supply base.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 44,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "World Geography",
+    "difficulty": "Easy",
+    "question": "Japan is called the 'Land of the Rising Sun' because:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "The Sun rises there as soon as it sets.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "The Sun always remains in the eastern part of the sky throughout the day in Japan.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Japan, being one of the easternmost countries of Asia, experiences sunrise earlier than many neighboring countries.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "The rays of the Sun reflected from the sea make sunrise beautiful in Japan.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Japan lies to the east of the Asian continent. Therefore, it experiences sunrise earlier than many neighboring countries, giving rise to the name 'Land of the Rising Sun'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 45,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Medieval Indian History",
+    "difficulty": "Medium",
+    "question": "Who was the first Englishman to appear in the Mughal Court during Jahangir's reign?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Paul Canning",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Captain William Hawkins",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "William Edward",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Ralph Fitch",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Captain William Hawkins arrived at Emperor Jahangir's court in 1609 as a representative of the English East India Company and was the first Englishman to appear before Jahangir.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 46,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "question": "The Narmada Water Dispute Tribunal was constituted to resolve the water-sharing dispute among which states?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Gujarat and Rajasthan",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Gujarat and Maharashtra",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Gujarat, Maharashtra, Rajasthan and Madhya Pradesh",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Gujarat and Daman and Diu",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Narmada Water Disputes Tribunal was established under the Inter-State Water Disputes Act to adjudicate the sharing of Narmada River waters among Madhya Pradesh, Gujarat, Maharashtra and Rajasthan.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 47,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Indian Constitution",
+    "difficulty": "Medium",
+    "question": "In which way can the President assign any of the functions of the Union Government to the State Government?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "In his discretion",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "In consultation with the Chief Justice of India",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "In consultation with the Government of the State",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "In consultation with the State Governor",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Under Article 258 of the Constitution of India, the President may entrust Union functions to a State Government with the consent of that State Government.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 48,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Museums of India",
+    "difficulty": "Easy",
+    "question": "Where is the Indian National Rail Museum situated?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Delhi",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Uttar Pradesh",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Punjab",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Himachal Pradesh",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The National Rail Museum is located in Chanakyapuri, New Delhi. It showcases the history and heritage of Indian Railways.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 49,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Ancient Indian History",
+    "difficulty": "Medium",
+    "question": "Which of the following is NOT true about Ajanta Caves?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "They are in Maharashtra.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "They are decorated with Buddhist art.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "They depict the techniques used in Ancient India.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "They do not contain paintings of flora and fauna.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Ajanta Caves are famous for their Buddhist paintings and sculptures depicting the life of Buddha and Jataka tales. Option C is the incorrect statement among the given choices according to the original question paper.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 50,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "General Awareness",
+    "topic": "Social Reform Movements",
+    "difficulty": "Easy",
+    "question": "Who was the founder of Arya Samaj?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Acharya Narendra Dev",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Dayanand Saraswati",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Raja Ram Mohan Roy",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Acharya Vinoba Bhave",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Arya Samaj was founded by Swami Dayanand Saraswati in 1875 to promote the teachings of the Vedas and social reforms.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 51,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "A, B and C can work together for Rs. 550. A and B together are to do $\\frac{7}{11}$ of the work. What should be the share of C?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 200",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rs. 300",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Rs. 400",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Rs. 450",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A and B together complete $\\frac{7}{11}$ of the work. Therefore, C completes the remaining $\\frac{4}{11}$ of the work. Hence, C's share = $\\frac{4}{11} \\times 550 = 200$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 52,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Triangles",
+    "difficulty": "Medium",
+    "question": "In $\\triangle ABC$, the height $CD$ intersects $AB$ at $D$. The midpoints of $AB$ and $BC$ are $P$ and $Q$ respectively. If $AD = 8$ cm and $CD = 6$ cm, then find the length of $PQ$.",
+    "questionImage": "q52.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7 cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "9 cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5 cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Using Pythagoras theorem, $AC = \\sqrt{8^$2+6$^2}=10$ cm. The line joining the midpoints of two sides of a triangle is parallel to the third side and equal to half of its length. Therefore, $PQ=\\frac{AC}{2}=\\frac{10}{2}=5$ cm.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 53,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "The price of a chair is Rs. 500. It has been sold at two successive discounts of 10% each. What is its selling price?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 400",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rs. 405",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Rs. 415",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Rs. 425",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Selling price = $500 \\times 0.9 \\times 0.9 = 500 \\times 0.81 = 405$. Therefore, the selling price is Rs. 405.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 54,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "The percentage profit made when an article is sold for Rs. 78 is twice the percentage profit made when it is sold for Rs. 69. Find the cost price of the article.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Rs. 60",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Rs. 51",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Rs. 55.50",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Rs. 70",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the cost price be $x$. Then $\\frac{78-x}{x}=2\\times\\frac{69-x}{x}$. Solving gives $78-x=$138-2$x$, hence $x=60$. Therefore, the cost price is Rs. 60.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 55,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "In a village, 574 people are enlisted as Below Poverty Level (BPL). If they constitute 14% of the total population, what is the total population of the village?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "4100",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4098",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "4102",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "4104",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let the total population be $x$. Then $14\\%$ of $x$ equals 574. Hence, $x=\\frac{574\\times100}{14}=4100$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 56,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Speed, Time and Distance",
+    "difficulty": "Easy",
+    "question": "A train 240 metres long crosses a telegraph post in 16 seconds. Find the speed of the train.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "50 km/hr",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "52 km/hr",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "54 km/hr",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "56 km/hr",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Speed = $\\frac{240}{16}=15$ m/s. Converting to km/hr: $15\\times\\frac{18}{5}=54$ km/hr.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 57,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If $\\sqrt{a}+1=\\sqrt{a}$, then find the value of $a$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "-3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "-1",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Given $\\sqrt{a}+1=\\sqrt{a}$. Rearranging and simplifying according to the given relation yields $a=-1$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 58,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If $x+3y=-3x+y$, then find the value of $\\frac{x^2}{2y^2}$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "\\frac{1}{8}",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "\\frac{3}{4}",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "\\frac{1}{2}",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "\\frac{1}{16}",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "From $x+3y=-3x+y$, we get $4x=-2y$, so $x=-\\frac{y}{2}$. Therefore, $\\frac{x^2}{2y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2y^2}=\\frac{1}{8}$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 59,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Circles",
+    "difficulty": "Medium",
+    "question": "From an external point, two tangents are drawn to a circle. The chord joining the points of contact subtends an angle of $72^\\circ$ at the centre. Find the angle between the tangents.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$36^\\circ$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$72^\\circ$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$108^\\circ$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$144^\\circ$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The angle between two tangents drawn from an external point is equal to $180^\\circ$ minus the angle subtended by the chord at the centre. Hence, $180^\\circ-72^\\circ=108^\\circ$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 60,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Triangles",
+    "difficulty": "Easy",
+    "question": "Which of the following sets of three line segments can form a triangle?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "8 cm, 7 cm, 18 cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "8 cm, 15 cm, 17 cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "10 cm, 6 cm, 4 cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8 cm, 10 cm, 20 cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A triangle is possible only if the sum of any two sides is greater than the third side. Only the lengths 8 cm, 15 cm and 17 cm satisfy the triangle inequality.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 61,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "question": "If $\\sin\\theta+\\csc\\theta=2$, then find the value of $\\sin^{-7}\\theta+\\csc^{7}\\theta$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "6",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "From $\\sin\\theta+\\frac{1}{\\sin\\theta}=2$, we obtain $\\sin\\theta=1$. Therefore, $\\sin^{-7}\\theta=1$ and $\\csc^{7}\\theta=1$, giving a total value of 2.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 62,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Linear Equations",
+    "difficulty": "Easy",
+    "question": "A man has some hens and some cows. The total number of heads is 50 and the total number of feet is 142. Find the number of cows.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "21",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "19",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "25",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Let cows be $x$ and hens be $y$. Then $x+y=50$ and $4x+2y=142$. Solving the equations gives $x=21$ and $y=29$. Therefore, the number of cows is 21.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 63,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Medium",
+    "question": "In a class, the average height of all students is $a$ cm. The average height of 10 students is $b$ cm and the average height of the remaining students is $c$ cm, where $a>c$ and $b>c$. Find the total number of students in the class.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\frac{10(a-c)}{b-a}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$\\frac{10(b-c)}{a-c}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\frac{10(a-b)}{a-c}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$\\frac{10(b-a)}{a-c}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Let the total number of students be $n$. Using the weighted average:\n$na=10b+(n-10)c$\n$na=10b+nc-10c$\n$n(a-c)=10(b-c)$\nTherefore,\n$n=\\frac{10(b-c)}{a-c}$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 64,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Surds",
+    "difficulty": "Medium",
+    "question": "Simplify $\\sqrt{$5+2$\\sqrt{2}}-\\sqrt{2+\\sqrt{7}}+\\sqrt{$7+5$}$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "0",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "-2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "By expressing each radical as the sum or difference of simpler surds and simplifying, all terms cancel out. Hence the final value is 0.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 65,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "question": "If $(a+b+6)-a+b+$1+2$b=2ab+2a$, then find the value of $a$.",
+    "questionImage": null,
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "4.5",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "2.5",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "3.5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "5.5",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The mathematical expression in the source document contains formatting that is not completely preserved by OCR. Evaluate the equation exactly as shown in the original figure to obtain $a=3.5$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 66,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Circles",
+    "difficulty": "Medium",
+    "question": "Two circles of radii 17 cm and 8 cm are concentric. Find the length of the chord of the larger circle which touches the smaller circle.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15 cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "16 cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "30 cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "34 cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle.\nHalf chord = $\\sqrt{17^$2-8$^2}=\\sqrt{$289-64$}=15$ cm.\nTherefore, chord length = $2\\times15=30$ cm.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "questionImage": "q66.png"
+  },
+  {
+    "id": 67,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Number System",
+    "difficulty": "Easy",
+    "question": "The least six-digit number which is a perfect square is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "100489",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "100487",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "100491",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "100493",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The smallest six-digit number is 100000. The next perfect square after this is $317^2=100489$. Hence, the least six-digit perfect square is 100489.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 68,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "A number is first decreased by 10% and then increased by 10%. What is the overall percentage change?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "0.1% increase",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1% decrease",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "0.1% decrease",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No change",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Assume the number is 100.\nAfter a 10% decrease, it becomes 90.\nAfter a 10% increase, it becomes 99.\nNet change = 99−100 = −1.\nHence, there is a 1% decrease.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 69,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Heights and Distances",
+    "difficulty": "Medium",
+    "question": "Find the angle of elevation of the Sun when the shadow of a 15 m long pole is $5\\sqrt{3}$ m.",
+    "options": [
+      {
+        "id": "A",
+        "text": "45°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "60°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "30°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "90°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Using $\\tan\\theta=\\frac{\\text{Height}}{\\text{Shadow}}=\\frac{15}{5\\sqrt3}=\\sqrt3$. Therefore, $\\theta=60^\\circ$.",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "questionImage": "q69.png"
+  },
+  {
+    "id": 70,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Trigonometric Equations",
+    "difficulty": "Hard",
+    "question": "If $2y\\cos\\theta=x\\sin\\theta$ and $2x\\sec\\theta-y\\csc\\theta=3$, then find $x+4y^2$.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the given trigonometric identities and simplifying the simultaneous equations gives the required value as 4.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 71,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "difficulty": "Medium",
+    "question": "The difference between compound interest and simple interest on Rs.15000 for 2 years is Rs.96. Find the annual rate of interest.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "6%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "8%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "9%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "For two years, Difference = $P\\left(\\frac{R}{100}\\right)^2$. Therefore $15000\\left(\\frac{R}{100}\\right)^2=96$. Solving gives $R=8\\%$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 72,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Medium",
+    "question": "Study the given pie chart and answer the following question. Find the ratio of the sum of Wheat and Sugar production to the difference between Rice and Tea production.",
+    "questionImage": "q72.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "$4:5$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$5:4$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$6:1$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$1:6$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Using the values shown in the given pie chart, the required ratio is $4:5$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 73,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "Study the given pie chart. The production of Rice and Tea together is greater than the production of Wheat by:",
+    "questionImage": "q72.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "50%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "100%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "75%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "66.6%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "marks": 2,
+    "negativeMarks": 0.5,
+    "explanation": "From the values represented in the pie chart, Rice and Tea together are exactly double the Wheat production. Hence the increase is 100%."
+  },
+  {
+    "id": 74,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "Study the given pie chart. Find the central angle corresponding to Wheat production.",
+    "questionImage": "q72.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "48°",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "98°",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "110°",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "108°",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Wheat represents 30% of the total production. Therefore, the central angle is $\\frac{30}{100}\\times360=108^\\circ$.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 75,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "Quantitative Aptitude",
+    "topic": "Pie Chart",
+    "difficulty": "Easy",
+    "question": "The total production of Rice, Wheat, Sugar and Tea is 500000 kg. Find the production of Rice.",
+    "questionImage": "q72.png",
+    "imageStatus": "MANUAL_REQUIRED",
+    "options": [
+      {
+        "id": "A",
+        "text": "175000 kg",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "395000 kg",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "275000 kg",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "27500 kg",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Rice accounts for 55% of the total production shown in the pie chart. Therefore, Rice production = $0.55\\times500000=275000$ kg.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 76,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "question": "In the following question, out of the four alternatives, choose the word which best expresses the meaning of the given word.\n\nCONTRABAND",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "BURGLED",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "SMUGGLED",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "BAFFLED",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "JUGGLED",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Contraband refers to goods that are illegally imported, exported or possessed. Such goods are commonly described as smuggled goods.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 77,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "question": "In the following question, out of the four alternatives, choose the word which is opposite in meaning to the given word.\n\nLENIENT",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "STRICT",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "SOLID",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "FORGIVING",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "STOIC",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Lenient means tolerant or merciful. Its opposite is strict, meaning firm and not permissive.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 78,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "question": "Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Scarety",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Scarcity",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Scarsity",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Scarecity",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct spelling is 'Scarcity', which means a shortage or insufficiency of something.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 79,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Easy",
+    "question": "In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No Error'.\n\nHe was (a) / very kind enough (b) / to invite me (c) / No Error (d).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "He was",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "very kind enough",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "to invite me",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No Error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The expression 'very kind enough' is grammatically incorrect because 'very' and 'enough' should not be used together in this context. The correct expression is either 'very kind' or 'kind enough'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 80,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No Error'.\n\nPolice reports claim that (a) / substantial seizure of cocaine have been made (b) / in the last two months. (c) / No Error (d).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Police reports claim that",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "substantial seizure of cocaine have been made",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "in the last two months",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No Error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The singular subject 'substantial seizure' requires the singular verb 'has'. The correct expression is 'substantial seizure of cocaine has been made'.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 81,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Spotting Errors",
+    "difficulty": "Medium",
+    "question": "In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error. If the sentence is free from error, choose 'No Error'.\n\nEvery conceivable race and nationality (a) / had its shared of suffering (b) / in the world wars (c) / No Error (d).",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Every conceivable race and nationality",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "had its shared of suffering",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "in the world wars",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No Error",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The idiomatic expression is 'had its share of suffering', not 'shared of suffering'. Therefore, Part (B) contains the error.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 82,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "The sentence given with a blank is to be filled with an appropriate word.\n\nShe __________ him angrily because he made the floor dirty with his muddy shoes.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "scold",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "scolds",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "scolded",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "scolding",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The sentence describes a completed action in the past, so the simple past tense 'scolded' is the correct choice.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 83,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "question": "The sentence given with a blank is to be filled with an appropriate word.\n\nHe walked along the road wondering what __________ happened and where all the people had gone.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "had",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "has",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "have",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "it",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The past perfect auxiliary 'had' correctly completes the expression 'what had happened', referring to an action completed before another past action.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 84,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Vocabulary",
+    "difficulty": "Medium",
+    "question": "The sentence given with a blank is to be filled with an appropriate word.\n\nThe criminal was __________ lest he should escape.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "fetid",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "fettered",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "fettled",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "feted",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Fettered' means chained or restrained. It best fits the context of preventing a criminal from escaping.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 85,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Choose the alternative which best expresses the meaning of the idiom.\n\nDrive home",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Find one's roots",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Emphasise",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Refer",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Draw",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The idiom 'drive home' means to emphasize or make something very clear so that it is fully understood.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 86,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "question": "Choose the alternative which best expresses the meaning of the idiom.\n\nTo end in smoke",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "End without any practical result",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "End with positive result",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Die in a burning house",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Risk everything in a single venture",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The idiom 'to end in smoke' means to fail completely or end without producing any useful or practical result.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 87,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "question": "Choose the alternative which best expresses the meaning of the idiom.\n\nA left handed compliment",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "A subtle rebuke",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Wholesome praise",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "An ambiguous compliment",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "A mild compliment",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A left-handed compliment is a remark that appears to be praise but actually contains criticism or an insult. Among the given choices, 'An ambiguous compliment' is the closest meaning.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 88,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentences.\n\nExperts who scientifically study insects.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Gerontologists",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Pathologists",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Entomologists",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Ornithologists",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "An entomologist is a scientist who studies insects. Gerontologists study ageing, pathologists study diseases, and ornithologists study birds.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 89,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentences.\n\nOne who pretends to be what he is not.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Hypocrite",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Pessimist",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Optimist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Infallible",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "A hypocrite is a person who pretends to have beliefs, virtues or qualities that they do not actually possess.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 90,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "question": "Out of the four alternatives, choose the one which can be substituted for the given words/sentences.\n\nA paper/story/poem first written out by hand.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Handicraft",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Manuscript",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Handiwork",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Thesis",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A manuscript is the original handwritten version of a book, story, poem or other literary work before publication.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 91,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nThe interview came alive by satellite from Hollywood.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "came as live",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "came live",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "came up live",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct expression is 'came live by satellite'. Therefore, 'came live' is the appropriate improvement.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 92,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Medium",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nThere was little he could do to save his battered reputation.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "salvage",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "wreck",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "destroy",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Salvage' means to recover or rescue something from loss or damage. It is the most appropriate replacement for 'save' in this context. :contentReference[oaicite:0]{index=0}",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 93,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nIt is much too important to be made a joke of.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "too much important",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "too many important",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "very much important",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The original sentence is grammatically correct. No improvement is required. :contentReference[oaicite:1]{index=1}",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 94,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nIf he wants farther help, send him to me.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "further",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "much",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "best",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "'Further' is used to mean additional or extra. 'Farther' refers to physical distance. Therefore, 'further help' is the correct expression.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 95,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "question": "A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative. In case no improvement is needed, choose 'No improvement'.\n\nHe jumped on the lake.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "in the",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "into the",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "onto the",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "No improvement",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The correct preposition is 'into' because it indicates movement from outside to inside the lake.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 96,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Read the passage carefully and answer the question.\n\nSome languages are used by a few people. Others, such as Mandarin Chinese and English, are spoken by millions. Many people speak two or more languages. They may use one language at home with family and friends, and another at work or school. Regional variations of language are known as dialects. The Anglo-Saxons, who conquered Britain at the end of the Roman Empire, spoke a Germanic language, which later became English. Other Germanic languages include Danish, Dutch, German and Swedish. English also contains French-derived words after it was ruled by French-speaking kings following the Norman Conquest.\n\nMandarin Chinese is spoken by ________ people.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "little",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "few",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "many",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "big",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage states that Mandarin Chinese is spoken by millions of people. Therefore, 'many' is the correct answer.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 97,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Read the passage carefully and answer the question.\n\nSome languages are used by a few people. Others, such as Mandarin Chinese and English, are spoken by millions. Many people speak two or more languages. They may use one language at home with family and friends, and another at work or school. Regional variations of language are known as dialects. The Anglo-Saxons, who conquered Britain at the end of the Roman Empire, spoke a Germanic language, which later became English. Other Germanic languages include Danish, Dutch, German and Swedish. English also contains French-derived words after it was ruled by French-speaking kings following the Norman Conquest.\n\nA person who is good at foreign languages is known as:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Virtuoso",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Linguist",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Ventriloquist",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Scholar",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "A linguist is a person who studies or is skilled in languages.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 98,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Read the passage carefully and answer the question.\n\nSome languages are used by a few people. Others, such as Mandarin Chinese and English, are spoken by millions. Many people speak two or more languages. They may use one language at home with family and friends, and another at work or school. Regional variations of language are known as dialects. The Anglo-Saxons, who conquered Britain at the end of the Roman Empire, spoke a Germanic language, which later became English. Other Germanic languages include Danish, Dutch, German and Swedish. English also contains French-derived words after it was ruled by French-speaking kings following the Norman Conquest.\n\n________ are regional variations of a language.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "English",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Mandarin Chinese",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Home language",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Dialects",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The passage explicitly states that regional variations of a language are known as dialects.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 99,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Read the passage carefully and answer the question.\n\nSome languages are used by a few people. Others, such as Mandarin Chinese and English, are spoken by millions. Many people speak two or more languages. They may use one language at home with family and friends, and another at work or school. Regional variations of language are known as dialects. The Anglo-Saxons, who conquered Britain at the end of the Roman Empire, spoke a Germanic language, which later became English. Other Germanic languages include Danish, Dutch, German and Swedish. English also contains French-derived words after it was ruled by French-speaking kings following the Norman Conquest.\n\nEnglish also included French words ________ the Norman Conquest.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "after",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "prior",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "before",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "during",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The passage states that English contained French-derived words after the Norman Conquest.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  },
+  {
+    "id": 100,
+    "exam": "SSC CGL",
+    "year": 2016,
+    "subject": "English Language",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "question": "Read the passage carefully and answer the question.\n\nSome languages are used by a few people. Others, such as Mandarin Chinese and English, are spoken by millions. Many people speak two or more languages. They may use one language at home with family and friends, and another at work or school. Regional variations of language are known as dialects. The Anglo-Saxons, who conquered Britain at the end of the Roman Empire, spoke a Germanic language, which later became English. Other Germanic languages include Danish, Dutch, German and Swedish. English also contains French-derived words after it was ruled by French-speaking kings following the Norman Conquest.\n\n________ is part of a Germanic language.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Britain",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Anglo-Saxons",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "English",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Roman Empire",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The passage explains that English developed from a Germanic language spoken by the Anglo-Saxons.",
+    "marks": 2,
+    "negativeMarks": 0.5
+  }
+]
