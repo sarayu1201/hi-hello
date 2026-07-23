@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "unique_id": "rrb_clerk_prelims_test8_1",
+    "content_hash": "d8ff57dacc04cc39",
+    "display_question_number": 1,
+    "question_number": 1,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ1. How is C related to B?",
+    "q": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ1. How is C related to B?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Daughter",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Daughterinlaw",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Aunt",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Motherinlaw",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Family Tree:\n- F(+) married to D(-)\n- B(+) has daughter A(-) and son G(+)\n- G(+) married to C(-)\n- H(-) is unmarried daughter of D\n- E(+) is son of C\nSince C is married to B's son G, C is B's daughterinlaw.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 2,
+    "unique_id": "rrb_clerk_prelims_test8_2",
+    "content_hash": "64795a3e0b339eaa",
+    "display_question_number": 2,
+    "question_number": 2,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ2. How is G related to D?",
+    "q": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ2. How is G related to D?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Son",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Daughter",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Nephew",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Uncle",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Soninlaw",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "D's daughter is C. G is married to C. Hence, G is D's soninlaw.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 3,
+    "unique_id": "rrb_clerk_prelims_test8_3",
+    "content_hash": "1e1f054139e081a0",
+    "display_question_number": 3,
+    "question_number": 3,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ3. How is E related to brotherinlaw of H?",
+    "q": "Directions (1-3): Study the information carefully and answer the questions given below.\nB has only one son. A is child of B. C is sisterinlaw of A. E is son of C. F is grandfather of E. H is unmarried. H is daughter of D. F and B are of same gender. F is the spouse of D. G is the male member of the family.\n\nQ3. How is E related to brotherinlaw of H?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Son",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Soninlaw",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Nephew",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Uncle",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "H's brotherinlaw is G (sister C's husband). E is the son of G and C. Hence, E is the son of G.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 4,
+    "unique_id": "rrb_clerk_prelims_test8_4",
+    "content_hash": "72bb038d09af37e1",
+    "display_question_number": 4,
+    "question_number": 4,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Find the oddone out.",
+    "q": "Find the oddone out.",
+    "options": [
+      {
+        "id": "a",
+        "text": "KMO",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "GIK",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "BDF",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "UXZ",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "EGI",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "In KMO, GIK, BDF, and EGI, the difference between consecutive letters is +2. In UXZ, the differences are +3 and +2. Hence, UXZ is the odd one.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 5,
+    "unique_id": "rrb_clerk_prelims_test8_5",
+    "content_hash": "1e41b83ea46c129d",
+    "display_question_number": 5,
+    "question_number": 5,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ5. What is the code for the words ‘Kept on table’?",
+    "q": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ5. What is the code for the words ‘Kept on table’?",
+    "options": [
+      {
+        "id": "a",
+        "text": "re gt ko",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "gt ps ir",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "ko gt ps",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "ir ps uy",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "ko ym gt",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Decoding: on = ps, kept = gt, table = ir. Thus 'Kept on table' is coded as 'gt ps ir'.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 6,
+    "unique_id": "rrb_clerk_prelims_test8_6",
+    "content_hash": "44435da40c3db44a",
+    "display_question_number": 6,
+    "question_number": 6,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ6. Which among the following word pair is coded as ‘uy ef’?",
+    "q": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ6. Which among the following word pair is coded as ‘uy ef’?",
+    "options": [
+      {
+        "id": "a",
+        "text": "On box",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Box brown",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Mat under",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Under brown",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Can’t be determined",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Decoding: uy = brown. ef = under/box (either). Since ef cannot be determined uniquely, the answer is Can't be determined.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 7,
+    "unique_id": "rrb_clerk_prelims_test8_7",
+    "content_hash": "5ccfda88dbb08234",
+    "display_question_number": 7,
+    "question_number": 7,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ7. What is the code for the word pair ‘Mat Glasses’?",
+    "q": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ7. What is the code for the word pair ‘Mat Glasses’?",
+    "options": [
+      {
+        "id": "a",
+        "text": "uy ko",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "ps ks",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "ks ko",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "ks gt",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "ir ko",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Decoding: Mat = ks, Glasses = ko. Thus 'Mat Glasses' = 'ks ko'.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 8,
+    "unique_id": "rrb_clerk_prelims_test8_8",
+    "content_hash": "43dad49d10e6a65b",
+    "display_question_number": 8,
+    "question_number": 8,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ8. Which word corresponds to the code ‘re’?",
+    "q": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ8. Which word corresponds to the code ‘re’?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kept",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Metal",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Glasses",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Under",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "On",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Decoding: re = Metal.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 9,
+    "unique_id": "rrb_clerk_prelims_test8_9",
+    "content_hash": "da0a43bb3598eb95",
+    "display_question_number": 9,
+    "question_number": 9,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ9. Which among the following word is coded as ‘uy’",
+    "q": "Directions (5-9): Study the following information carefully and answer the questions given below.\nIn a certain coded language:\n“Mat on brown table” is coded as “uy ir ps ks”\n“Metal on glasses” is coded as “ps ko re”\n“Under metal mat box” is coded as “ym ef re ks”\n“Glasses kept brown” is coded as “ko gt uy”\n\nQ9. Which among the following word is coded as ‘uy’",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mat",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Table",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "On",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Kept",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Brown",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Decoding: uy = Brown.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 10,
+    "unique_id": "rrb_clerk_prelims_test8_10",
+    "content_hash": "555ea552358000ff",
+    "display_question_number": 10,
+    "question_number": 10,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ10. Who among the following was born on 7th May?",
+    "q": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ10. Who among the following was born on 7th May?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "D",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "A",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Birth timeline:\n- March 7th: D\n- March 24th: E\n- April 7th: C\n- April 24th: A\n- May 7th: B\n- May 24th: F\nB was born on 7th May.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 11,
+    "unique_id": "rrb_clerk_prelims_test8_11",
+    "content_hash": "a2cfaea685160588",
+    "display_question_number": 11,
+    "question_number": 11,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ11. On which date and month was D born?",
+    "q": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ11. On which date and month was D born?",
+    "options": [
+      {
+        "id": "a",
+        "text": "7th May",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "24th March",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7th March",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "24th May",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Can’t be determined",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "D was born on 7th March.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 12,
+    "unique_id": "rrb_clerk_prelims_test8_12",
+    "content_hash": "18a70c72723f788d",
+    "display_question_number": 12,
+    "question_number": 12,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ12. How many persons were born after E?",
+    "q": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ12. How many persons were born after E?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Five",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Four",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "E was born on March 24th. The persons born after E are C, A, B, F (4 persons).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 13,
+    "unique_id": "rrb_clerk_prelims_test8_13",
+    "content_hash": "8e24b868408e4164",
+    "display_question_number": 13,
+    "question_number": 13,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ13. If D is related to C and in the same way C is related to B, then who among the following is related to F?",
+    "q": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ13. If D is related to C and in the same way C is related to B, then who among the following is related to F?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "D",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "E",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "The relationship is +2 positions down the birth timeline. D(+2)->C, C(+2)->B. The person (+2 positions before F) is A.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 14,
+    "unique_id": "rrb_clerk_prelims_test8_14",
+    "content_hash": "0427d27de25f2ca7",
+    "display_question_number": 14,
+    "question_number": 14,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ14. Four of the following five are alike in a certain way so form a group, which of the following does not belong to that group?",
+    "q": "Directions (10-14): Study the following information carefully and answer the questions given below.\nSix persons A, B, C, D, E and F were born on two different dates 7th and 24th of the months March, April and May of the same year. All the information is not necessarily in the same order.\nB was born immediately after A. C was born on 7th April. One person was born between A and E. Two persons were born between C and F.\n\nQ14. Four of the following five are alike in a certain way so form a group, which of the following does not belong to that group?",
+    "options": [
+      {
+        "id": "a",
+        "text": "D",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "F",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Except C (born in April, which has 30 days), all others (D, E, B, F) are born in months having 31 days (March, May).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 15,
+    "unique_id": "rrb_clerk_prelims_test8_15",
+    "content_hash": "83963dc848828b95",
+    "display_question_number": 15,
+    "question_number": 15,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "If in the given word “PREVAIL”, if vowels are changed to immediately succeeding letter and consonants are changed to immediately preceding letter, then find how many vowels are there in the new arrangement?",
+    "q": "If in the given word “PREVAIL”, if vowels are changed to immediately succeeding letter and consonants are changed to immediately preceding letter, then find how many vowels are there in the new arrangement?",
+    "options": [
+      {
+        "id": "a",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Four",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "PREVAIL changes to OQFUBJK. In this new arrangement, only O and U are vowels (2 vowels).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 16,
+    "unique_id": "rrb_clerk_prelims_test8_16",
+    "content_hash": "aa9b1079ba13e93b",
+    "display_question_number": 16,
+    "question_number": 16,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ16. Four of the following five pairs are alike in a certain way. Find the one that doesn’t belong to the group:",
+    "q": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ16. Four of the following five pairs are alike in a certain way. Find the one that doesn’t belong to the group:",
+    "options": [
+      {
+        "id": "a",
+        "text": "AC",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "BH",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "FD",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "EC",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "GE",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "Seating layout (clockwise): E(topmiddle, face out), B(topright, face in), F(rightmiddle, face out), C(bottomright, face in), G(bottommiddle, face out), H(bottomleft, face in), D(leftmiddle, face out), A(topleft, face in).\nPairs AC, BH, FD, and GE are sitting opposite to each other. EC is not a pair of opposite seats.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 17,
+    "unique_id": "rrb_clerk_prelims_test8_17",
+    "content_hash": "3f3d9d3feae63a84",
+    "display_question_number": 17,
+    "question_number": 17,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ17. Who sits fifth to the right of E?",
+    "q": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ17. Who sits fifth to the right of E?",
+    "options": [
+      {
+        "id": "a",
+        "text": "G",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "H",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "D",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "E sits at topmiddle facing outside. Right of E is counterclockwise. Counting 5 seats right: B, F, C, G, H. So H sits fifth to the right of E.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 18,
+    "unique_id": "rrb_clerk_prelims_test8_18",
+    "content_hash": "eabb615132c9ca43",
+    "display_question_number": 18,
+    "question_number": 18,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ18. How many persons sit between C and D when counted from left of C?",
+    "q": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ18. How many persons sit between C and D when counted from left of C?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Five",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Six",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "C is facing inside. Left of C is counterclockwise. Counting from C to D: F, B, E, A (4 persons).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 19,
+    "unique_id": "rrb_clerk_prelims_test8_19",
+    "content_hash": "2a5297c685941642",
+    "display_question_number": 19,
+    "question_number": 19,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ19. Who sits third to the left of B?",
+    "q": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ19. Who sits third to the left of B?",
+    "options": [
+      {
+        "id": "a",
+        "text": "H",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "G",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "D",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "B faces inside. Left of B is counterclockwise. Third to the left is G.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 20,
+    "unique_id": "rrb_clerk_prelims_test8_20",
+    "content_hash": "45c72acd6442f0b1",
+    "display_question_number": 20,
+    "question_number": 20,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ20. Which among the following statements is/are NOT correct?\nI. G and C are immediate neighbours.\nII. E faces inside.\nIII. Three persons sit between B and H.",
+    "q": "Directions (16-20): Study the following information carefully and answer the questions given below.\nEight persons A, B, C, D, E, F, G and H sit around a square table. Four persons sit at the corners and face inside and four sit at the middle of each side and face outside. All the information is not necessarily in the same order.\nC sits second to the right of H. Three persons sit between A and C. D sits immediate right of A but doesn’t sit at the corners. F is not A’s immediate neighbour. G sits second to the left of D. Two persons sit between G and B.\n\nQ20. Which among the following statements is/are NOT correct?\nI. G and C are immediate neighbours.\nII. E faces inside.\nIII. Three persons sit between B and H.",
+    "options": [
+      {
+        "id": "a",
+        "text": "Only I",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Only II",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Both I and II",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Both I and III",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "All I, II and III",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "I is correct (G and C are adjacent). II is incorrect (E sits at the side, so faces outside). III is correct (B and H are opposite). Hence, only II is NOT correct.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 21,
+    "unique_id": "rrb_clerk_prelims_test8_21",
+    "content_hash": "74b9a850b70d9bfb",
+    "display_question_number": 21,
+    "question_number": 21,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "In the word ‘TROUBLE’, how many pairs of the letters have the same number of letters between them (both forward and backward direction) as in the English alphabet?",
+    "q": "In the word ‘TROUBLE’, how many pairs of the letters have the same number of letters between them (both forward and backward direction) as in the English alphabet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "More than four",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Only one pair (LO) satisfies the condition (2 letters between them in both alphabet and word).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 22,
+    "unique_id": "rrb_clerk_prelims_test8_22",
+    "content_hash": "17cde600208c7807",
+    "display_question_number": 22,
+    "question_number": 22,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ22. Statements: R > T ≤ W < K = P > H ≥ J\nConclusions:\nI. W < H\nII. J ≤ K",
+    "q": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ22. Statements: R > T ≤ W < K = P > H ≥ J\nConclusions:\nI. W < H\nII. J ≤ K",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I is true",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II is true",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II is true",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II is true",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II are true",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "I: Relationship between W and H cannot be established (W < K = P > H). II: J ≤ H < P = K implies J < K. So J ≤ K is false. Neither follows.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 23,
+    "unique_id": "rrb_clerk_prelims_test8_23",
+    "content_hash": "abfb070a9edd6fd6",
+    "display_question_number": 23,
+    "question_number": 23,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ23. Statements: Q ≥ M < R = T > K ≥ S > V\nConclusions:\nI. R > K\nII. V ≥ M",
+    "q": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ23. Statements: Q ≥ M < R = T > K ≥ S > V\nConclusions:\nI. R > K\nII. V ≥ M",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I is true",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II is true",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II is true",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II is true",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II are true",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "I: R = T > K implies R > K (True). II: Opposite signs between V and M. Only I is true.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 24,
+    "unique_id": "rrb_clerk_prelims_test8_24",
+    "content_hash": "51e6edfaf0fa2634",
+    "display_question_number": 24,
+    "question_number": 24,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ24. Statements: L > X ≥ D ≥ P = Y < H ≤ C\nConclusions:\nI. X ≥ Y\nII. C > P",
+    "q": "Directions (22-24): In this question, relationship between different elements is shown in the statements. The statements are followed by two conclusions. Give answer:\n\nQ24. Statements: L > X ≥ D ≥ P = Y < H ≤ C\nConclusions:\nI. X ≥ Y\nII. C > P",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I is true",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II is true",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II is true",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II is true",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II are true",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "I: X ≥ D ≥ P = Y implies X ≥ Y (True). II: P = Y < H ≤ C implies P < C, or C > P (True). Both follow.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 25,
+    "unique_id": "rrb_clerk_prelims_test8_25",
+    "content_hash": "743f647a7db1f93c",
+    "display_question_number": 25,
+    "question_number": 25,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ25. Statements:\nOnly a few cars are blue\nSome blue are fast\nConclusions:\nI. Some cars being fast is a possibility\nII. Some fast is not blue",
+    "q": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ25. Statements:\nOnly a few cars are blue\nSome blue are fast\nConclusions:\nI. Some cars being fast is a possibility\nII. Some fast is not blue",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I follows",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II follows",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II follows",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II follows",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II follow",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "I is a possibility since there is no negative relationship between cars and fast. II is false because we only know some blue are fast, but not that some fast are not blue.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 26,
+    "unique_id": "rrb_clerk_prelims_test8_26",
+    "content_hash": "1d47fcaa35823807",
+    "display_question_number": 26,
+    "question_number": 26,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ26. Statements:\nSome roses are red\nAll red are fresh\nOnly a few fresh is dry\nConclusions:\nI. No red is dry\nII. No roses being dry is a possibility",
+    "q": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ26. Statements:\nSome roses are red\nAll red are fresh\nOnly a few fresh is dry\nConclusions:\nI. No red is dry\nII. No roses being dry is a possibility",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I follows",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II follows",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II follows",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II follows",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II follow",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "I: No red is dry is false (there is no direct negative relation). II: No roses being dry is a possibility (True). Only II follows.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 27,
+    "unique_id": "rrb_clerk_prelims_test8_27",
+    "content_hash": "65499f817145fd24",
+    "display_question_number": 27,
+    "question_number": 27,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ27. Statements:\nAll rivers are valleys\nSome valleys are hills\nNo hills are mountains\nConclusions:\nI. No rivers being hills is a possibility\nII. Some valleys are not mountains",
+    "q": "Directions (25-27): The following question contains some statements followed by two conclusions numbered I and II. Assume that all the statements are true, even if they seem to differ from commonly known facts. Analyze both conclusions and decide which one logically follows from the given statements.\n\nQ27. Statements:\nAll rivers are valleys\nSome valleys are hills\nNo hills are mountains\nConclusions:\nI. No rivers being hills is a possibility\nII. Some valleys are not mountains",
+    "options": [
+      {
+        "id": "a",
+        "text": "If only conclusion I follows",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "If only conclusion II follows",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "If either conclusion I or II follows",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "If neither conclusion I nor II follows",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "If both conclusions I and II follow",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "I: No relation between rivers and hills, so it is a possibility. II: The part of valleys that are hills cannot be mountains, so some valleys are not mountains is true. Both follow.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 28,
+    "unique_id": "rrb_clerk_prelims_test8_28",
+    "content_hash": "1d6f70867dd5fcc8",
+    "display_question_number": 28,
+    "question_number": 28,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ28. How many persons are shorter than B?",
+    "q": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ28. How many persons are shorter than B?",
+    "options": [
+      {
+        "id": "a",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Five",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Height order: B > D (181cm) > F > E (174cm) > C/A > A/C. All other 5 persons are shorter than B.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 29,
+    "unique_id": "rrb_clerk_prelims_test8_29",
+    "content_hash": "c5b5df71cb3ed016",
+    "display_question_number": 29,
+    "question_number": 29,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ29. What will be the possible height of F?",
+    "q": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ29. What will be the possible height of F?",
+    "options": [
+      {
+        "id": "a",
+        "text": "168cm",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "183cm",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "178cm",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "159cm",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "173cm",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "F is shorter than D (181cm) but taller than E (174cm). Thus, 178cm is the only possible option.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 30,
+    "unique_id": "rrb_clerk_prelims_test8_30",
+    "content_hash": "cac6c88346cb4285",
+    "display_question_number": 30,
+    "question_number": 30,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ30. Who among the following is second shortest?",
+    "q": "Directions (28-30): Read the given information carefully and answer the related question:\nSix persons A, B, C, D, E and F have different heights (in cm).\nF is taller than C but shorter than D. The height of 2nd tallest person is 181cm. E is shorter than D but taller than A. B is taller than D. E is taller than C but shorter than F. The third shortest person is 174cm.\n\nQ30. Who among the following is second shortest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Either C or A",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "A",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "The shortest is either A or C, and the second shortest is also either C or A.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 31,
+    "unique_id": "rrb_clerk_prelims_test8_31",
+    "content_hash": "9cddd54965f93061",
+    "display_question_number": 31,
+    "question_number": 31,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ31. If all the words are arranged alphabetically from left then, which word will become third from the right end?",
+    "q": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ31. If all the words are arranged alphabetically from left then, which word will become third from the right end?",
+    "options": [
+      {
+        "id": "a",
+        "text": "EAT",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "JAM",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "SUN",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "DOG",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "ANT",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Arranged alphabetically: ANT, DOG, EAT, JAM, SUN. The third word from right is EAT.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 32,
+    "unique_id": "rrb_clerk_prelims_test8_32",
+    "content_hash": "d13f0455fb9356f4",
+    "display_question_number": 32,
+    "question_number": 32,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ32. If second letter in each word is changed to its immediate next letter (as per English alphabet), then how many words will become meaningful?",
+    "q": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ32. If second letter in each word is changed to its immediate next letter (as per English alphabet), then how many words will become meaningful?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Four",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "Converting: SUN>SVN, EAT>EBT, DOG>DPG, ANT>AOT, JAM>JBM. None are meaningful.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 33,
+    "unique_id": "rrb_clerk_prelims_test8_33",
+    "content_hash": "85b8897650a50150",
+    "display_question_number": 33,
+    "question_number": 33,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ33. How many letters are between ‘first letter of second from left end’ and ‘third letter of third word from right end’, as per English alphabet?",
+    "q": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ33. How many letters are between ‘first letter of second from left end’ and ‘third letter of third word from right end’, as per English alphabet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Six",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Seven",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "First letter of EAT is E. Third letter of DOG is G. Between E and G is F (one letter).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 34,
+    "unique_id": "rrb_clerk_prelims_test8_34",
+    "content_hash": "73ebe5736e09e623",
+    "display_question_number": 34,
+    "question_number": 34,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ34. If the letters within each word are arranged in dictionary order from left, then how many words will have third letters as vowel?",
+    "q": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ34. If the letters within each word are arranged in dictionary order from left, then how many words will have third letters as vowel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Sorting: SUN>NSU (U is vowel), EAT>AET, DOG>DGO (O is vowel), ANT>ANT, JAM>AJM. Two words have a vowel as the third letter.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 35,
+    "unique_id": "rrb_clerk_prelims_test8_35",
+    "content_hash": "10ec46f230b11e7b",
+    "display_question_number": 35,
+    "question_number": 35,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ35. Which letter is third from the left in the word which is fourth from left end?",
+    "q": "Directions (31-35): The following question is based on the 3letter word series given below. Read carefully and answer accordingly:\nSUN EAT DOG ANT JAM\n\nQ35. Which letter is third from the left in the word which is fourth from left end?",
+    "options": [
+      {
+        "id": "a",
+        "text": "M",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "N",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "G",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "T",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "E",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "The fourth word is ANT. The third letter is T.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 36,
+    "unique_id": "rrb_clerk_prelims_test8_36",
+    "content_hash": "6b7f24ad6d4b9b18",
+    "display_question_number": 36,
+    "question_number": 36,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ36. Who among the following is designated as AM?",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ36. Who among the following is designated as AM?",
+    "options": [
+      {
+        "id": "a",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "F",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Designations Table (Senior to Junior):\n1. CEO - G\n2. COO - F\n3. AM - E\n4. GM - C\n5. AGM - A\n6. Manager - D\n7. Executive - B\nE is designated as AM.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 37,
+    "unique_id": "rrb_clerk_prelims_test8_37",
+    "content_hash": "0e546e98773af21e",
+    "display_question_number": 37,
+    "question_number": 37,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ37. How many persons are designated junior to C?",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ37. How many persons are designated junior to C?",
+    "options": [
+      {
+        "id": "a",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Four",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "C is GM. The junior ones are A, D, and B (3 persons).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 38,
+    "unique_id": "rrb_clerk_prelims_test8_38",
+    "content_hash": "5f91ccab4658d745",
+    "display_question_number": 38,
+    "question_number": 38,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ38. If G is related to F, in the similar way C is related to A, then D is related to whom?",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ38. If G is related to F, in the similar way C is related to A, then D is related to whom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "A",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "G",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "The relationship is +1 position junior: G(1)->F(2), C(4)->A(5). For D(6), it is B(7).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 39,
+    "unique_id": "rrb_clerk_prelims_test8_39",
+    "content_hash": "b55fbbfeb344494e",
+    "display_question_number": 39,
+    "question_number": 39,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ39. What is the designation of B?",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ39. What is the designation of B?",
+    "options": [
+      {
+        "id": "a",
+        "text": "COO",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "AGM",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "GM",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "CEO",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Executive",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "B is designated as Executive.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 40,
+    "unique_id": "rrb_clerk_prelims_test8_40",
+    "content_hash": "e5e72153699d1d19",
+    "display_question_number": 40,
+    "question_number": 40,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Reasoning Ability",
+    "section": "Reasoning Ability",
+    "category": "Bank & Insurance",
+    "question": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ40. Who among the following is two designations senior to D?",
+    "q": "Directions (36-40): Read the given information carefully and answer the related questions:\nSeven persons A, B, C, D, E, F and G are designated on different designations in a company but not in same order as given. The designations are CEO, COO, AM, GM, AGM, Manager and Executive. The designations are given in decreasing order of their seniority such that CEO is the seniormost designation and Executive is the junior most designation.\nA is four designations junior to G. D is designated immediately junior to A. Two persons are designated between B and C. F is two designations senior to C.\n\nQ40. Who among the following is two designations senior to D?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "B",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "G",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "D is Manager (6). Two designations senior is GM (4), which is C.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 41,
+    "unique_id": "rrb_clerk_prelims_test8_41",
+    "content_hash": "0b34d6c3761855de",
+    "display_question_number": 41,
+    "question_number": 41,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (41-45): The table given below shows the total number of Q41. Find the ratio of scooters sold by A and B together to cars sold by D.",
+    "q": "Directions (41-45): The table given below shows the total number of Q41. Find the ratio of scooters sold by A and B together to cars sold by D.",
+    "options": [
+      {
+        "id": "a",
+        "text": "7:9",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "13:12",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "12:13",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "61:62",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "31:12",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Scooters by A+B = 200 + 420 = 620. Cars by D = 240. Ratio = 620:240 = 31:12.",
+    "question_image": "rrb_clerk_paper8_q41-45.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 42,
+    "unique_id": "rrb_clerk_prelims_test8_42",
+    "content_hash": "dbb8519be7289b74",
+    "display_question_number": 42,
+    "question_number": 42,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (41-45): The table given below shows the total number of Q42. If the ratio of sold to unsold scooters in D is 1:2, then find the total (sold + unsold) scooters in D",
+    "q": "Directions (41-45): The table given below shows the total number of Q42. If the ratio of sold to unsold scooters in D is 1:2, then find the total (sold + unsold) scooters in D",
+    "options": [
+      {
+        "id": "a",
+        "text": "336",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "480",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "408",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "552",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "624",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Sold scooters in D = 160. Unsold scooters = 160 * 2 = 320. Total = 160 + 320 = 480.",
+    "question_image": "rrb_clerk_paper8_q41-45.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 43,
+    "unique_id": "rrb_clerk_prelims_test8_43",
+    "content_hash": "e1fcff667f949a8b",
+    "display_question_number": 43,
+    "question_number": 43,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (41-45): The table given below shows the total number of Q43. Out of the total Cars sold by B, 25% of the cars are defective. Find the nondefective cars sold by B is what percentage of total scooter sold by C.",
+    "q": "Directions (41-45): The table given below shows the total number of Q43. Out of the total Cars sold by B, 25% of the cars are defective. Find the nondefective cars sold by B is what percentage of total scooter sold by C.",
+    "options": [
+      {
+        "id": "a",
+        "text": "37%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "33%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "31%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "26%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "36%",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Cars sold by B = 120. Nondefective = 75% of 120 = 90. Scooter sold by C = 250. Percentage = 90/250 * 100 = 36%.",
+    "question_image": "rrb_clerk_paper8_q41-45.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 44,
+    "unique_id": "rrb_clerk_prelims_test8_44",
+    "content_hash": "7f21f320e29fa30e",
+    "display_question_number": 44,
+    "question_number": 44,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (41-45): The table given below shows the total number of Q44. Average number of scooters sold by all the companies.",
+    "q": "Directions (41-45): The table given below shows the total number of Q44. Average number of scooters sold by all the companies.",
+    "options": [
+      {
+        "id": "a",
+        "text": "266",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "188",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "227",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "305",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "344",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Average = (200 + 420 + 250 + 160 + 300) / 5 = 1330 / 5 = 266.",
+    "question_image": "rrb_clerk_paper8_q41-45.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 45,
+    "unique_id": "rrb_clerk_prelims_test8_45",
+    "content_hash": "65e5d98533b7558f",
+    "display_question_number": 45,
+    "question_number": 45,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (41-45): The table given below shows the total number of Q45. If company F sold 20% more scooters than A and 30% less cars than E, then find the sum of total number of scooters and cars sold by F",
+    "q": "Directions (41-45): The table given below shows the total number of Q45. If company F sold 20% more scooters than A and 30% less cars than E, then find the sum of total number of scooters and cars sold by F",
+    "options": [
+      {
+        "id": "a",
+        "text": "238",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "288",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "388",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "438",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "338",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "F Scooters = 1.2 * 200 = 240. F Cars = E Cars * 0.7 = 140 * 0.7 = 98. Sum = 240 + 98 = 338.",
+    "question_image": "rrb_clerk_paper8_q41-45.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 46,
+    "unique_id": "rrb_clerk_prelims_test8_46",
+    "content_hash": "e09460b512eebfad",
+    "display_question_number": 46,
+    "question_number": 46,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ46. If number of females in B is 33 1/3 % more than males in B and number of females in C is 20 more than the males in D, then find the total female in B and C.",
+    "q": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ46. If number of females in B is 33 1/3 % more than males in B and number of females in C is 20 more than the males in D, then find the total female in B and C.",
+    "options": [
+      {
+        "id": "a",
+        "text": "206",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "249",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "335",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "378",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "292",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Females in B = 4/3 * 120 = 160. Females in C = 112 + 20 = 132. Total = 160 + 132 = 292.",
+    "question_image": "rrb_clerk_paper8_q46-50.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 47,
+    "unique_id": "rrb_clerk_prelims_test8_47",
+    "content_hash": "3043f58f65091ffa",
+    "display_question_number": 47,
+    "question_number": 47,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ47. Find the average number of males in E, B, and C.",
+    "q": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ47. Find the average number of males in E, B, and C.",
+    "options": [
+      {
+        "id": "a",
+        "text": "104",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "74",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "89",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "119",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "134",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Average = (108 + 120 + 84)/3 = 312 / 3 = 104.",
+    "question_image": "rrb_clerk_paper8_q46-50.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 48,
+    "unique_id": "rrb_clerk_prelims_test8_48",
+    "content_hash": "706e3c70d32ce75f",
+    "display_question_number": 48,
+    "question_number": 48,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ48. If the ratio of females in A and B is 2:1 and the ratio of females in B to males in C is 1:2, then find the females in A",
+    "q": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ48. If the ratio of females in A and B is 2:1 and the ratio of females in B to males in C is 1:2, then find the females in A",
+    "options": [
+      {
+        "id": "a",
+        "text": "60",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "84",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "72",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "96",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "108",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Males in C = 84. Females in B = 84 * 1/2 = 42. Females in A = 42 * 2 = 84.",
+    "question_image": "rrb_clerk_paper8_q46-50.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 49,
+    "unique_id": "rrb_clerk_prelims_test8_49",
+    "content_hash": "1a366c56726685c5",
+    "display_question_number": 49,
+    "question_number": 49,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ49. Find the difference between males in A and males in E.",
+    "q": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ49. Find the difference between males in A and males in E.",
+    "options": [
+      {
+        "id": "a",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "17",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "26",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Difference = 108 (in E) - 88 (in A) = 20.",
+    "question_image": "rrb_clerk_paper8_q46-50.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 50,
+    "unique_id": "rrb_clerk_prelims_test8_50",
+    "content_hash": "e33b1ed5d2c08794",
+    "display_question_number": 50,
+    "question_number": 50,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ50. Males in C is what percentage of males in D.",
+    "q": "Directions (46-50): The bar graph given below shows the data about male in five companies (A, B, C, D and E). Read the data and answer the following question.\n\nQ50. Males in C is what percentage of males in D.",
+    "options": [
+      {
+        "id": "a",
+        "text": "69%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "33%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "66%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "76%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "75%",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Percentage = 84 / 112 * 100 = 75%.",
+    "question_image": "rrb_clerk_paper8_q46-50.png",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 51,
+    "unique_id": "rrb_clerk_prelims_test8_51",
+    "content_hash": "d55a0d2ca9a2e472",
+    "display_question_number": 51,
+    "question_number": 51,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "A shopkeeper marked an article 25% above its cost price and allowed 20% profit on the article. If the discount allowed on the article is Rs 20, then find the cost price of the article (in Rs).",
+    "q": "A shopkeeper marked an article 25% above its cost price and allowed 20% profit on the article. If the discount allowed on the article is Rs 20, then find the cost price of the article (in Rs).",
+    "options": [
+      {
+        "id": "a",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "20",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "17",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "26",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Let CP = x. MP = 1.25x. SP = 1.20x. Discount = MP - SP = 0.05x = 20 ⇒ x = Rs 400.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 52,
+    "unique_id": "rrb_clerk_prelims_test8_52",
+    "content_hash": "a67f28d84ece6fcf",
+    "display_question_number": 52,
+    "question_number": 52,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "A and B started a business with investment of Rs 2000 and Rs 4000 respectively. After 6 months B invested 50% more of his initial investment and at the end of the year the total profit of Rs 14000. Find the profit share of B (in Rs).",
+    "q": "A and B started a business with investment of Rs 2000 and Rs 4000 respectively. After 6 months B invested 50% more of his initial investment and at the end of the year the total profit of Rs 14000. Find the profit share of B (in Rs).",
+    "options": [
+      {
+        "id": "a",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "11",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Ratio of investmentmonths for A to B = (2000*12) : (4000*6 + 6000*6) = 24000 : 60000 = 2:5. B's profit = 5/7 * 14000 = Rs 10000.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 53,
+    "unique_id": "rrb_clerk_prelims_test8_53",
+    "content_hash": "aa74a1f0e95b481e",
+    "display_question_number": 53,
+    "question_number": 53,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "A 44liter mixture contains milk and water. The quantity of milk is 6 liters more than that of water. How much water must be added so that the ratio of milk to water becomes equal?",
+    "q": "A 44liter mixture contains milk and water. The quantity of milk is 6 liters more than that of water. How much water must be added so that the ratio of milk to water becomes equal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "12",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Total = 44. Milk = w + 6, Water = w. 2w + 6 = 44 ⇒ w = 19. Milk = 25, Water = 19. Water to add to make equal = 25-19 = 6 L.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 54,
+    "unique_id": "rrb_clerk_prelims_test8_54",
+    "content_hash": "e3ce8e43a54c713c",
+    "display_question_number": 54,
+    "question_number": 54,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "520 meters long train can cross a pole in 13 seconds. Find the time taken by the train to cross 130meterlong platform (in seconds).",
+    "q": "520 meters long train can cross a pole in 13 seconds. Find the time taken by the train to cross 130meterlong platform (in seconds).",
+    "options": [
+      {
+        "id": "a",
+        "text": "16 3/4",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "18 1/4",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "16 1/4",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "18 3/4",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "15 1/4",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Speed = 520 / 13 = 40 m/s. Platform crossing time = (520 + 130)/40 = 650/40 = 16 1/4 seconds.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 55,
+    "unique_id": "rrb_clerk_prelims_test8_55",
+    "content_hash": "ee4b8a03d8e0ed9f",
+    "display_question_number": 55,
+    "question_number": 55,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "If the circumference of the circle is 88 cm, then find the area of the circle (in cm²).",
+    "q": "If the circumference of the circle is 88 cm, then find the area of the circle (in cm²).",
+    "options": [
+      {
+        "id": "a",
+        "text": "432",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "524",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "616",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "708",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "800",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Circumference = 2πr = 88 ⇒ r = 14 cm. Area = πr² = 22/7 * 14 * 14 = 616 cm².",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 56,
+    "unique_id": "rrb_clerk_prelims_test8_56",
+    "content_hash": "a37b169645829f8c",
+    "display_question_number": 56,
+    "question_number": 56,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "The present ages of A and B are in the ratio of 7:9, respectively. Six years ago, the ratio of their ages was 11:15, respectively. Find the age of B three years from now (in years).",
+    "q": "The present ages of A and B are in the ratio of 7:9, respectively. Six years ago, the ratio of their ages was 11:15, respectively. Find the age of B three years from now (in years).",
+    "options": [
+      {
+        "id": "a",
+        "text": "29",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "34",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "44",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "39",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "49",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "A/B present: 7x/9x. (7x6)/(9x6) = 11/15 ⇒ 105x - 90 = 99x - 66 ⇒ 6x = 24 ⇒ x = 4. Present B = 36. Three years from now = 39 years.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 57,
+    "unique_id": "rrb_clerk_prelims_test8_57",
+    "content_hash": "cc93c6fedebb0c0d",
+    "display_question_number": 57,
+    "question_number": 57,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "A man spends 20% of his income on rent and 10% of the remaining amount on groceries. He saves the rest. If his total expenditure (on rent and groceries) is Rs 4200, find the amount he saves (in Rs).",
+    "q": "A man spends 20% of his income on rent and 10% of the remaining amount on groceries. He saves the rest. If his total expenditure (on rent and groceries) is Rs 4200, find the amount he saves (in Rs).",
+    "options": [
+      {
+        "id": "a",
+        "text": "52",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "62",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "82",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "92",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "72",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "Let Income = 100x. Rent = 20x, Groceries = 10% of 80x = 8x. Total spend = 28x = 4200 ⇒ x = 150. Savings = 72x = 72 * 150 = Rs 10,800.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 58,
+    "unique_id": "rrb_clerk_prelims_test8_58",
+    "content_hash": "64210ddd8fdd27b4",
+    "display_question_number": 58,
+    "question_number": 58,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "The total cost of 6 pens and 9 pencils is Rs 150. What will be threefourth of the total cost of 12 pens and 18 pencils?",
+    "q": "The total cost of 6 pens and 9 pencils is Rs 150. What will be threefourth of the total cost of 12 pens and 18 pencils?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rs 225",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Rs 280",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Rs 262.5",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Rs 202.5",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "Rs 240",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Cost of 12 pens and 18 pencils = 2 * 150 = Rs 300. Threefourth of Rs 300 = 3/4 * 300 = Rs 225.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 59,
+    "unique_id": "rrb_clerk_prelims_test8_59",
+    "content_hash": "48264d7a37f4976e",
+    "display_question_number": 59,
+    "question_number": 59,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "The average of three consecutive even numbers is 106. Find the average of the second largest and the largest numbers.",
+    "q": "The average of three consecutive even numbers is 106. Find the average of the second largest and the largest numbers.",
+    "options": [
+      {
+        "id": "a",
+        "text": "75",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "91",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "107",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "123",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "139",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "The numbers are 104, 106, 108. Second largest and largest are 106 and 108. Average = (106+108)/2 = 107.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 60,
+    "unique_id": "rrb_clerk_prelims_test8_60",
+    "content_hash": "4db1811bc26a54ba",
+    "display_question_number": 60,
+    "question_number": 60,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "The population of a town increases by 10% in the first year and decreases by 5% in the next. What is the overall percentage change after two years.",
+    "q": "The population of a town increases by 10% in the first year and decreases by 5% in the next. What is the overall percentage change after two years.",
+    "options": [
+      {
+        "id": "a",
+        "text": "4% increase",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "4.5% increase",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "5% increase",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "5.5% increase",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "No change",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Overall change = 10-5 - (10*5)/100 = 5-0.5 = 4.5% increase.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 61,
+    "unique_id": "rrb_clerk_prelims_test8_61",
+    "content_hash": "5bd5dfee01ee99e3",
+    "display_question_number": 61,
+    "question_number": 61,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (61-65): Find the wrong number in the given series.\n\nQ61. 220,225,215,231,206,242",
+    "q": "Directions (61-65): Find the wrong number in the given series.\n\nQ61. 220,225,215,231,206,242",
+    "options": [
+      {
+        "id": "a",
+        "text": "224",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "158",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "191",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "257",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "290",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Pattern: +2², 3², +4², 5², +6²... 220 + 4 = 224 (so 225 is wrong).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 62,
+    "unique_id": "rrb_clerk_prelims_test8_62",
+    "content_hash": "f970d1491c17db00",
+    "display_question_number": 62,
+    "question_number": 62,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (61-65): Find the wrong number in the given series.\n\nQ62. 121,123,126,131,138,150",
+    "q": "Directions (61-65): Find the wrong number in the given series.\n\nQ62. 121,123,126,131,138,150",
+    "options": [
+      {
+        "id": "a",
+        "text": "105",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "149",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "127",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "171",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "193",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "Pattern: adding prime numbers: +2, +3, +5, +7, +11. 138 + 11 = 149 (so 150 is wrong).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 63,
+    "unique_id": "rrb_clerk_prelims_test8_63",
+    "content_hash": "83e8ac9979d10dcf",
+    "display_question_number": 63,
+    "question_number": 63,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (61-65): Find the wrong number in the given series.\n\nQ63. 13,104,197,292,380,488",
+    "q": "Directions (61-65): Find the wrong number in the given series.\n\nQ63. 13,104,197,292,380,488",
+    "options": [
+      {
+        "id": "a",
+        "text": "273",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "331",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "389",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "447",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "505",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Pattern: +91, +93, +95, +97, +99. 292 + 97 = 389 (so 380 is wrong).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 64,
+    "unique_id": "rrb_clerk_prelims_test8_64",
+    "content_hash": "1e968f5dab3c76aa",
+    "display_question_number": 64,
+    "question_number": 64,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (61-65): Find the wrong number in the given series.\n\nQ64. 322,330,338,336,354,362",
+    "q": "Directions (61-65): Find the wrong number in the given series.\n\nQ64. 322,330,338,336,354,362",
+    "options": [
+      {
+        "id": "a",
+        "text": "244",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "295",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "397",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "346",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "448",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "Pattern: constant addition +8. 338 + 8 = 346 (so 336 is wrong).",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 65,
+    "unique_id": "rrb_clerk_prelims_test8_65",
+    "content_hash": "d7e2d09bf63b95a4",
+    "display_question_number": 65,
+    "question_number": 65,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (61-65): Find the wrong number in the given series.\n\nQ65. 3,4,7,10,18,34",
+    "q": "Directions (61-65): Find the wrong number in the given series.\n\nQ65. 3,4,7,10,18,34",
+    "options": [
+      {
+        "id": "a",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "12",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Pattern: term * 2-2 = next term. 3*2-2=4, 4*2-2=6. Hence 7 is wrong.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 66,
+    "unique_id": "rrb_clerk_prelims_test8_66",
+    "content_hash": "b0a49b953ec1c92b",
+    "display_question_number": 66,
+    "question_number": 66,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ66. 44% of 750 + ?³ = 546",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ66. 44% of 750 + ?³ = 546",
+    "options": [
+      {
+        "id": "a",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "12",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "330 + ?³ = 546 ⇒ ?³ = 216 ⇒ ? = 6.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 67,
+    "unique_id": "rrb_clerk_prelims_test8_67",
+    "content_hash": "310831b0564391b6",
+    "display_question_number": 67,
+    "question_number": 67,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ67. (48 × ?) + (52 × 6) = 80% of 840",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ67. (48 × ?) + (52 × 6) = 80% of 840",
+    "options": [
+      {
+        "id": "a",
+        "text": "3.5",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "12.5",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "2.5",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "4.5",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "7.5",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "48 * ? + 312 = 672 ⇒ 48 * ? = 360 ⇒ ? = 7.5.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 68,
+    "unique_id": "rrb_clerk_prelims_test8_68",
+    "content_hash": "0d2a98637ddeb836",
+    "display_question_number": 68,
+    "question_number": 68,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ68. (32)^0.4 × (16)^0.3 × (64)^0.2 = (2)^?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ68. (32)^0.4 × (16)^0.3 × (64)^0.2 = (2)^?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4.6",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "4.5",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "4.3",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "4.4",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "4.2",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "2^(5*0.4) * 2^(4*0.3) * 2^(6*0.2) = 2^(2 + 1.2 + 1.2) = 2^4.4. Hence, ? = 4.4.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 69,
+    "unique_id": "rrb_clerk_prelims_test8_69",
+    "content_hash": "410fc8f42a580d39",
+    "display_question_number": 69,
+    "question_number": 69,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ69. ? × 1.3 × 6.5 = 1.17 × 195",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ69. ? × 1.3 × 6.5 = 1.17 × 195",
+    "options": [
+      {
+        "id": "a",
+        "text": "19",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "27",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "31",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "35",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "? = (1.17 * 195) / (1.3 * 6.5) = 228.15 / 8.45 = 27.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 70,
+    "unique_id": "rrb_clerk_prelims_test8_70",
+    "content_hash": "726469189dd1f99d",
+    "display_question_number": 70,
+    "question_number": 70,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ70. ?² + 114-24 × 5 = 163",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ70. ?² + 114-24 × 5 = 163",
+    "options": [
+      {
+        "id": "a",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "13",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "10",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "19",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "?² + 114-120 = 163 ⇒ ?² - 6 = 163 ⇒ ?² = 169 ⇒ ? = 13.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 71,
+    "unique_id": "rrb_clerk_prelims_test8_71",
+    "content_hash": "6fc99aa42de6efb5",
+    "display_question_number": 71,
+    "question_number": 71,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ71. 3/4 of 4/7 of 343 = ? × 21",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ71. 3/4 of 4/7 of 343 = ? × 21",
+    "options": [
+      {
+        "id": "a",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "10",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "13",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "3/7 * 343 = ? * 21 ⇒ 3 * 49 = ? * 21 ⇒ 147 = 21 * ? ⇒ ? = 7.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 72,
+    "unique_id": "rrb_clerk_prelims_test8_72",
+    "content_hash": "b758f70dec9c8a6c",
+    "display_question_number": 72,
+    "question_number": 72,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ72. 60 × 2/4 - 26 = ?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ72. 60 × 2/4 - 26 = ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "10",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "24",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "30-26 = 4.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 73,
+    "unique_id": "rrb_clerk_prelims_test8_73",
+    "content_hash": "c956e364468a09f0",
+    "display_question_number": 73,
+    "question_number": 73,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ73. 66% of 350 + ? = 5/8 of 1256",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ73. 66% of 350 + ? = 5/8 of 1256",
+    "options": [
+      {
+        "id": "a",
+        "text": "388",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "471",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "554",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "637",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "720",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "231 + ? = 5 * 157 ⇒ 231 + ? = 785 ⇒ ? = 554.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 74,
+    "unique_id": "rrb_clerk_prelims_test8_74",
+    "content_hash": "712fc29535c01675",
+    "display_question_number": 74,
+    "question_number": 74,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ74. 15% of 300 + 9.09% of 803 + 3 = (?)²",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ74. 15% of 300 + 9.09% of 803 + 3 = (?)²",
+    "options": [
+      {
+        "id": "a",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "11",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "17",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "45 + 1/11 * 803 + 3 = 45 + 73 + 3 = 121 = (?)² ⇒ ? = 11.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 75,
+    "unique_id": "rrb_clerk_prelims_test8_75",
+    "content_hash": "7d48faf55bff5372",
+    "display_question_number": 75,
+    "question_number": 75,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ75. 680 ÷ 17 × 15 = ?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ75. 680 ÷ 17 × 15 = ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "420",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "510",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "690",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "780",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "600",
+        "image": null
+      }
+    ],
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
+    "explanation": "40 * 15 = 600.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 76,
+    "unique_id": "rrb_clerk_prelims_test8_76",
+    "content_hash": "0c3d5c7494c99ed2",
+    "display_question_number": 76,
+    "question_number": 76,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ76. 544 ÷ 8.5 = 2^?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ76. 544 ÷ 8.5 = 2^?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "12",
+        "image": null
+      }
+    ],
+    "correct_option": "D",
+    "correct_answer": "D",
+    "correct_letter": "D",
+    "explanation": "64 = 2^? ⇒ ? = 6.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 77,
+    "unique_id": "rrb_clerk_prelims_test8_77",
+    "content_hash": "8359e73a7d77ea22",
+    "display_question_number": 77,
+    "question_number": 77,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ77. (9/7)³ × (14/27)² × 7^? = 28",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ77. (9/7)³ × (14/27)² × 7^? = 28",
+    "options": [
+      {
+        "id": "a",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "22",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "(729/343) * (196/729) * 7^? = 28 ⇒ (196/343) * 7^? = 28 ⇒ 4/7 * 7^? = 28 ⇒ 7^(?1) = 7 ⇒ ? = 2.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 78,
+    "unique_id": "rrb_clerk_prelims_test8_78",
+    "content_hash": "e0c1104ed237b145",
+    "display_question_number": 78,
+    "question_number": 78,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ78. √784 ÷ 4/7 ÷ 49 = ?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ78. √784 ÷ 4/7 ÷ 49 = ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "1",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "21",
+        "image": null
+      }
+    ],
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "28 * 7/4 * 1/49 = 49 / 49 = 1.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 79,
+    "unique_id": "rrb_clerk_prelims_test8_79",
+    "content_hash": "9c3a943116b8d029",
+    "display_question_number": 79,
+    "question_number": 79,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ79. 635-28 + 320 ÷ 8 = ?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ79. 635-28 + 320 ÷ 8 = ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "453",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "550",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "647",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "744",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "841",
+        "image": null
+      }
+    ],
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "635-28 + 40 = 647.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  },
+  {
+    "id": 80,
+    "unique_id": "rrb_clerk_prelims_test8_80",
+    "content_hash": "6cbf672517ad1c38",
+    "display_question_number": 80,
+    "question_number": 80,
+    "course": "IBPS RRB Clerk",
+    "exam_type": "Banking",
+    "sub_type": "IBPS RRB Clerk Prelims - Test 8",
+    "paper_name": "IBPS RRB Clerk Prelims - Test 8",
+    "test_title": "IBPS RRB Clerk Prelims - Test 8",
+    "test_id": "rrb_clerk_prelims_test8",
+    "subject": "Quantitative Aptitude",
+    "section": "Quantitative Aptitude",
+    "category": "Bank & Insurance",
+    "question": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ80. 35% of 250 + 25% of 35 = ?",
+    "q": "Directions (66-80): What will come in the place of question (?) mark in following questions.\n\nQ80. 35% of 250 + 25% of 35 = ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "96.25",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "81.65",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "82.85",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "80.65",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "79.65",
+        "image": null
+      }
+    ],
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "87.5 + 8.75 = 96.25.",
+    "question_image": "",
+    "option_images": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "status": "ok",
+    "is_mock_eligible": true,
+    "created_at": "2026-07-21 14:00:00",
+    "updated_at": "2026-07-21 14:00:00"
+  }
+]
