@@ -934,22 +934,37 @@ if __name__ == "__main__":
     copy_images(uploads_images_folder, images_folder)
     
     # Try to load MONGODB_URI from environment variables or backend/.env
-    mongo_uri = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
-    if not mongo_uri:
-        mongo_uri = "mongodb://localhost:27017/kr_academy"
-        env_file = os.path.join(workspace_root, "backend", ".env")
-        if os.path.exists(env_file):
-            with open(env_file, "r", encoding="utf-8") as f:
-                for line in f:
-                    if line.startswith("MONGODB_URI="):
-                        mongo_uri = line.split("=", 1)[1].strip()
-                        break
+    mongo_uris = []
     
-    print(f"Using MongoDB URI: {mongo_uri[:35]}...")
+    # 1. Add local fallback
+    mongo_uris.append("mongodb://localhost:27017/kr_academy")
     
-    # 2. Run MongoDB Ingestion
-    import_all_papers(
-        json_dir=json_folder,
-        images_dir=images_folder,
-        mongo_uri=mongo_uri
-    )
+    # 2. Add env-based uri
+    mongo_uri_env = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
+    if mongo_uri_env and mongo_uri_env not in mongo_uris:
+        mongo_uris.append(mongo_uri_env)
+        
+    # 3. Add .env file uri
+    env_file = os.path.join(workspace_root, "backend", ".env")
+    if os.path.exists(env_file):
+        with open(env_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("MONGODB_URI="):
+                    val = line.split("=", 1)[1].strip()
+                    if val and val not in mongo_uris:
+                        mongo_uris.append(val)
+                    break
+    
+    # 2. Run MongoDB Ingestion for all resolved URIs
+    for uri in mongo_uris:
+        print(f"\n==================================================")
+        print(f"Running MongoDB Ingestion for: {uri[:55]}...")
+        print(f"==================================================")
+        try:
+            import_all_papers(
+                json_dir=json_folder,
+                images_dir=images_folder,
+                mongo_uri=uri
+            )
+        except Exception as e:
+            print(f"Warning: Failed to ingest into {uri}: {e}")

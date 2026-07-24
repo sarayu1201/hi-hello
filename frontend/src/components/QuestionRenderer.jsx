@@ -186,11 +186,30 @@ export const cleanLaTeX = (text) => {
       parts[i] = parts[i].replace(/\\text\s*\{([^{}]+)\}/g, "$1");
       parts[i] = wrapLaTeXInString(parts[i]);
       
-      // Also wrap standalone power terms and subscript terms
-      parts[i] = parts[i].replace(/\b([a-zA-Z])\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
-      parts[i] = parts[i].replace(/\b([a-zA-Z])_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+      // Replace units with unicode superscripts in plain text
+      parts[i] = parts[i]
+        .replace(/\bcm\^2\b/g, "cm²")
+        .replace(/\bm\^2\b/g, "m²")
+        .replace(/\bkm\^2\b/g, "km²")
+        .replace(/\bcm\^3\b/g, "cm³")
+        .replace(/\bm\^3\b/g, "m³")
+        .replace(/\bkm\^3\b/g, "km³");
+      
+      // Also wrap standalone power terms and subscript terms (allowing multiple letters)
+      parts[i] = parts[i].replace(/\b([a-zA-Z]+)\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/\b([a-zA-Z]+)_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
       parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
       parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+    } else {
+      // Replace units inside math blocks for professional look
+      parts[i] = parts[i]
+        .replace(/\bcm\^2\b/g, "\\text{cm}^2")
+        .replace(/\bm\^2\b/g, "\\text{m}^2")
+        .replace(/\bkm\^2\b/g, "\\text{km}^2")
+        .replace(/\bcm\^3\b/g, "\\text{cm}^3")
+        .replace(/\bm\^3\b/g, "\\text{m}^3")
+        .replace(/\bkm\^3\b/g, "\\text{km}^3");
+    }
     }
   }
   fixed = parts.join("$");
