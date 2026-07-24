@@ -1681,35 +1681,6 @@ const generateMocksForCourse = async (courseId, courseTitle, category = "Bank & 
   }).lean();
 
   let courseQuestions = allCourseQuestions;
-  if (courseQuestions.length === 0) {
-    console.log(`[Exam Engine] No questions found for courseFilter:`, courseFilter, ". Fetching fallback banking questions...");
-    let fallbackCourse = "ibps_po_prelims";
-    if (courseIdLower.includes("clerk")) fallbackCourse = "sbi_clerk_prelims";
-    
-    const fallbackQuestions = await Question.find({
-      course: { $in: [fallbackCourse, "SBI Clerk Prelims"] },
-      is_mock_eligible: true,
-      status: { $ne: "needs_review" }
-    }).lean();
-    
-    if (fallbackQuestions.length > 0) {
-      courseQuestions = fallbackQuestions.map(q => {
-        const paperName = q.paper_name || q.sub_type || "";
-        const mappedPaper = paperName
-          .replace("IBPS PO", "SBI PO")
-          .replace("SBI Clerk", "SBI PO")
-          .replace("ibps_po", "sbi_po")
-          .replace("sbi_clerk", "sbi_po");
-        
-        return {
-          ...q,
-          course: "SBI PO Prelims",
-          sub_type: mappedPaper,
-          paper_name: mappedPaper
-        };
-      });
-    }
-  }
 
   if (courseQuestions.length === 0) {
     return [];
@@ -2782,11 +2753,7 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   
   let resolvedCourse = resolveDbCourse(resolvedSubTypes[0]);
   if (resolvedCourse) {
-    if (resolvedCourse === "sbi_po_prelims") {
-      filter.course = "ibps_po_prelims";
-    } else {
-      filter.course = resolvedCourse;
-    }
+    filter.course = resolvedCourse;
   }
 
   let mappedExamType = exam_type;

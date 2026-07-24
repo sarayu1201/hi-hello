@@ -600,8 +600,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                   question_number: q.question_number,
                   q: q.question_text || q.q || q.question || "",
                   direction: q.direction || "",
-        direction: q.direction || "",
-    question_image: q.question_image || "",
+                  question_image: q.question_image || "",
                   options: cleanedOpts.map((o, idx) => ({
                     text: o.text,
                     image: optImgs[idx] || null
