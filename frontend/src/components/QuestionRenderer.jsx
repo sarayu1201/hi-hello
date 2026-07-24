@@ -40,6 +40,14 @@ export const cleanText = (text) => {
     // Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm"
     .replace(/([a-zA-Z]+)([0-9]+)/g, "$1 $2")
     .replace(/([0-9]+)([a-zA-Z]+)/g, "$1 $2")
+    // Separate lowercase to uppercase transition (e.g. "heightCD" -> "height CD")
+    .replace(/([a-z])([A-Z])/g, "$1 $2")
+    // Separate multi-uppercase to lowercase transition (e.g. "CDintersects" -> "CD intersects")
+    .replace(/([A-Z]{2,})([a-z])/g, "$1 $2")
+    // Separate single-uppercase variable followed by standard math words (e.g. "Pand" -> "P and", "Qrespectively" -> "Q respectively")
+    .replace(/\b([A-Z])(and|are|respectively|is|at|intersects|height|width|length|cm|in|of|to|And|Are|Respectively|Is|At|Intersects|Height|Width|Length|Cm|In|Of|To)\b/g, "$1 $2")
+    // Correct "Intriangle" and similar shapes
+    .replace(/\bIn(triangle|circle|square|rectangle|cone|sphere)\b/gi, "In $1")
     // Double spaces to single spaces
     .replace(/[ ]{2,}/g, " ");
 
