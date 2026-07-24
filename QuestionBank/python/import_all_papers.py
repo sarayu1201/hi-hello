@@ -6,6 +6,54 @@ import shutil
 import re
 from pymongo import MongoClient
 
+def choose_cleanest_question(q):
+    question = q.get("question", "")
+    q_val = q.get("q", "")
+    
+    if not q_val:
+        return question
+    if not question:
+        return q_val
+        
+    # Check for unescaped dollar imbalance
+    q_dollars = len(re.findall(r'(?<!\\)\$', q_val))
+    question_dollars = len(re.findall(r'(?<!\\)\$', question))
+    
+    # If q has odd dollars but question has even dollars, prefer question
+    if q_dollars % 2 != 0 and question_dollars % 2 == 0:
+        return question
+        
+    # If question has odd dollars but q has even dollars, prefer q
+    if question_dollars % 2 != 0 and q_dollars % 2 == 0:
+        return q_val
+        
+    # Check for unescaped % or raw sqrt in math blocks of both
+    q_has_broken_math = False
+    for block in re.findall(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', q_val):
+        if "%" in block and "\\%" not in block:
+            q_has_broken_math = True
+        if "sqrt" in block and "\\" not in block:
+            q_has_broken_math = True
+            
+    question_has_broken_math = False
+    for block in re.findall(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', question):
+        if "%" in block and "\\%" not in block:
+            question_has_broken_math = True
+        if "sqrt" in block and "\\" not in block:
+            question_has_broken_math = True
+
+    if q_has_broken_math and not question_has_broken_math:
+        return question
+    if question_has_broken_math and not q_has_broken_math:
+        return q_val
+        
+    # Check if question has summation corruption
+    if "\\sum" in question or "\\text{sum}" in question or "\\text{fit in}" in question:
+        if "sum" in q_val or "fit in" in q_val:
+            return q_val
+
+    return q_val
+
 def get_legacy_category(exam_type):
     exam_lower = str(exam_type).lower()
     if "ssc" in exam_lower or "sc_gd" in exam_lower or "sc_cgl" in exam_lower or "chsl" in exam_lower:
@@ -753,7 +801,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 original_subject = q.get("subject")
                 subject = get_standardized_subject(exam, sub_type_val, q_id, original_subject)
                 
-                question_text = q.get("q", "") or q.get("question", "") or ""
+                question_text = choose_cleanest_question(q)
                 direction = q.get("direction", "") or ""
                 question_image_ref = q.get("question_image") or q.get("questionImage") or q.get("question_image_ref", "") or ""
                 correct_ans = q.get("correct_answer") or q.get("correctAnswer") or q.get("correct_letter") or q.get("correct_option")
