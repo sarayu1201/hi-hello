@@ -169,13 +169,14 @@ export const cleanLaTeX = (text) => {
 
   // 3. Fix percentage signs inside math blocks (escape them as \% if not already escaped)
   fixed = fixed.replace(/\$([\s\S]*?)\$/g, (match, mathContent) => {
-    let escaped = mathContent.replace(/(?<!\\)%/g, "\\%");
-    if (escaped.includes("₹") && !escaped.includes("\\text{₹}")) {
-      escaped = escaped.replaceAll("₹", "\\text{₹}");
+    let cleaned = mathContent;
+    if (cleaned.includes("₹")) {
+      cleaned = cleaned.replaceAll("₹", "$ ₹ $");
     }
-    if (escaped.includes("Rs") && !escaped.includes("\\text{Rs}")) {
-      escaped = escaped.replaceAll("Rs", "\\text{Rs}");
+    if (cleaned.includes("Rs")) {
+      cleaned = cleaned.replaceAll("Rs", "$ Rs $");
     }
+    let escaped = cleaned.replace(/(?<!\\)%/g, "\\%");
     return `$${escaped}$`;
   });
 
