@@ -753,7 +753,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 original_subject = q.get("subject")
                 subject = get_standardized_subject(exam, sub_type_val, q_id, original_subject)
                 
-                question_text = q.get("question", "") or q.get("q", "") or ""
+                question_text = q.get("q", "") or q.get("question", "") or ""
                 direction = q.get("direction", "") or ""
                 question_image_ref = q.get("question_image") or q.get("questionImage") or q.get("question_image_ref", "") or ""
                 correct_ans = q.get("correct_answer") or q.get("correctAnswer") or q.get("correct_letter") or q.get("correct_option")
