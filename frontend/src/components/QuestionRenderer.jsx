@@ -210,7 +210,6 @@ export const cleanLaTeX = (text) => {
         .replace(/\bm\^3\b/g, "\\text{m}^3")
         .replace(/\bkm\^3\b/g, "\\text{km}^3");
     }
-    }
   }
   fixed = parts.join("$");
 
