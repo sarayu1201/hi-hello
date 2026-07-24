@@ -141,13 +141,15 @@ export const cleanLaTeX = (text) => {
   if (!text) return "";
 
   let fixed = text.trim();
-  if (fixed.startsWith("$") && fixed.endsWith("$")) {
-    const middle = fixed.slice(1, -1);
-    if (!middle.includes("$")) {
-      if (middle.includes(" ") && /[a-zA-Z]{3,}/.test(middle)) {
-        fixed = middle;
-      }
-    }
+  
+  // Robustly remove starting and trailing dollars, even with trailing punctuation
+  if (fixed.startsWith("$")) {
+    fixed = fixed.slice(1);
+  }
+  if (fixed.endsWith("$")) {
+    fixed = fixed.slice(0, -1);
+  } else {
+    fixed = fixed.replace(/\$(?=[.?)\s]*$)/, "");
   }
 
   // 1. Normalize delimiters
@@ -185,10 +187,10 @@ export const cleanLaTeX = (text) => {
       parts[i] = wrapLaTeXInString(parts[i]);
       
       // Also wrap standalone power terms and subscript terms
-      parts[i] = parts[i].replace(/\b([a-zA-Z])\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, "$$1^$2$");
-      parts[i] = parts[i].replace(/\b([a-zA-Z])_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, "$$1_$2$");
-      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, "$$1^$2$");
-      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, "$$1_$2$");
+      parts[i] = parts[i].replace(/\b([a-zA-Z])\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/\b([a-zA-Z])_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
     }
   }
   fixed = parts.join("$");
