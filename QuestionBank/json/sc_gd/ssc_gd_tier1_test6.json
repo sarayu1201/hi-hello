@@ -191,7 +191,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Region C is inside triangle (tall), square (boys), circle (black eyes), and outside rectangle (brown hair).",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q4.png",
     "option_images": [
       "",
       "",
@@ -242,7 +242,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Reflecting AHKRQP vertically across line XX yields Figure 3.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q5.png",
     "option_images": [
       "",
       "",
@@ -274,31 +274,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper6_q6_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper6_q6_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper6_q6_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper6_q6_d.png"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "The pins rotate in sequence to form Figure 4.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q6.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper6_q6_a.png",
+      "ssc_gd_cbt_paper6_q6_b.png",
+      "ssc_gd_cbt_paper6_q6_c.png",
+      "ssc_gd_cbt_paper6_q6_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -344,7 +348,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "In the open net, O and M are adjacent, so they cannot be on opposite faces.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q7.png",
     "option_images": [
       "",
       "",
@@ -376,31 +380,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper6_q8_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper6_q8_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper6_q8_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper6_q8_d.png"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "The step shape is embedded in Figure 3.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q8.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper6_q8_a.png",
+      "ssc_gd_cbt_paper6_q8_b.png",
+      "ssc_gd_cbt_paper6_q8_c.png",
+      "ssc_gd_cbt_paper6_q8_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -733,31 +741,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper6_q15_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper6_q15_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper6_q15_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper6_q15_d.png"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Unfolding the paper vertically and horizontally forms Figure 1.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper6_q15.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper6_q15_a.png",
+      "ssc_gd_cbt_paper6_q15_b.png",
+      "ssc_gd_cbt_paper6_q15_c.png",
+      "ssc_gd_cbt_paper6_q15_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -784,19 +796,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$3,5,1,4,2$"
+        "text": "3, 5, 1, 4, 2"
       },
       {
         "id": "B",
-        "text": "$1,3,5,4,2$"
+        "text": "1, 3, 5, 4, 2"
       },
       {
         "id": "C",
-        "text": "$3,1,4,5,2$"
+        "text": "3, 1, 4, 5, 2"
       },
       {
         "id": "D",
-        "text": "$3,1,5,4,2$"
+        "text": "3, 1, 5, 4, 2"
       }
     ],
     "correct_option": "D",

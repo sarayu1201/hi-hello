@@ -376,11 +376,11 @@
     "options": [
       {
         "id": "A",
-        "text": "$14 years$"
+        "text": "$14$ years"
       },
       {
         "id": "B",
-        "text": "$9 years$"
+        "text": "$9$ years"
       },
       {
         "id": "C",
@@ -388,7 +388,7 @@
       },
       {
         "id": "D",
-        "text": "$6 years$"
+        "text": "$6$ years"
       }
     ],
     "correct_option": "C",
@@ -1600,19 +1600,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_chsl_tier2_paper1_q32_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_chsl_tier2_paper1_q32_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_chsl_tier2_paper1_q32_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_chsl_tier2_paper1_q32_d.png"
       }
     ],
     "correct_option": "C",
@@ -1621,10 +1625,10 @@
     "explanation": "Comparing patterns from A to B shows a rotation and change in elements that maps C to Figure 3.",
     "question_image": "ssc_chsl_tier2_paper1_q32.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_chsl_tier2_paper1_q32_a.png",
+      "ssc_chsl_tier2_paper1_q32_b.png",
+      "ssc_chsl_tier2_paper1_q32_c.png",
+      "ssc_chsl_tier2_paper1_q32_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1651,19 +1655,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_chsl_tier2_paper1_q33_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_chsl_tier2_paper1_q33_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_chsl_tier2_paper1_q33_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_chsl_tier2_paper1_q33_d.png"
       }
     ],
     "correct_option": "D",
@@ -1672,10 +1680,10 @@
     "explanation": "The water image flips the figure vertically. Option 4 correctly shows the vertical inversion.",
     "question_image": "ssc_chsl_tier2_paper1_q33.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_chsl_tier2_paper1_q33_a.png",
+      "ssc_chsl_tier2_paper1_q33_b.png",
+      "ssc_chsl_tier2_paper1_q33_c.png",
+      "ssc_chsl_tier2_paper1_q33_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -2416,19 +2424,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_chsl_tier2_paper1_q48_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_chsl_tier2_paper1_q48_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_chsl_tier2_paper1_q48_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_chsl_tier2_paper1_q48_d.png"
       }
     ],
     "correct_option": "A",
@@ -2437,10 +2449,10 @@
     "explanation": "Unfolding the paper reproduces the triangular cuts symmetrically along the fold lines.",
     "question_image": "ssc_chsl_tier2_paper1_q48.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_chsl_tier2_paper1_q48_a.png",
+      "ssc_chsl_tier2_paper1_q48_b.png",
+      "ssc_chsl_tier2_paper1_q48_c.png",
+      "ssc_chsl_tier2_paper1_q48_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -2977,19 +2989,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_chsl_tier2_paper1_q59_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_chsl_tier2_paper1_q59_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_chsl_tier2_paper1_q59_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_chsl_tier2_paper1_q59_d.png"
       }
     ],
     "correct_option": "A",
@@ -2998,10 +3014,10 @@
     "explanation": "Option 1 correctly continues the rotational pattern of elements.",
     "question_image": "ssc_chsl_tier2_paper1_q59.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_chsl_tier2_paper1_q59_a.png",
+      "ssc_chsl_tier2_paper1_q59_b.png",
+      "ssc_chsl_tier2_paper1_q59_c.png",
+      "ssc_chsl_tier2_paper1_q59_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,

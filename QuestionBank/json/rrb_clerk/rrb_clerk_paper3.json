@@ -47,7 +47,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -100,7 +99,6 @@
     "explanation": "All sheets are green, and some sheets are not papers. Thus, the part of green that is sheet contains some elements that are not papers. So 'Some green is not papers' is true (I follows). Since there is no negative restriction preventing papers from being completely inside green, 'All papers being green is a possibility' is true (II follows). Both follow.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -159,7 +157,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -212,7 +209,6 @@
     "explanation": "The seating layout (clockwise starting from A): A (left middle), G (topleft corner), H (top middle), E (topright corner), B (right middle), C (bottomright corner), F (bottom middle), D (bottomleft corner). C sits at bottomright facing inside. Counting 3 places left (counterclockwise): F, D, A. Thus, A sits third to the left of C.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -271,7 +267,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -324,7 +319,6 @@
     "explanation": "A sits at a side middle (I is false). C sits at a corner and faces inside (II is false). E is adjacent to B (III is true). Thus, only III is true.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -383,7 +377,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -436,7 +429,6 @@
     "explanation": "D (bottomleft corner) sits opposite E (topright corner).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -495,7 +487,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -548,7 +539,6 @@
     "explanation": "Alphabetical order within words:\n- APE -> AEP (starts with vowel A)\n- MEK -> EKM (starts with vowel E)\n- SIP -> IPS (starts with vowel I)\n- CUP -> CPU (starts with consonant C)\n- HBN -> BHN (starts with consonant B)\nThus, 3 words start with a vowel.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -607,7 +597,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -660,7 +649,6 @@
     "explanation": "Dictionary order: APE, CUP, HBN, MEK, SIP. The second word from the right end is MEK.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -719,7 +707,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -772,7 +759,6 @@
     "explanation": "The two pairs are OP (0 letters in between in both word and alphabet) and IL (2 letters in between: J, K in alphabet, and C, A in word).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -831,7 +817,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -884,7 +869,6 @@
     "explanation": "$Statements: R > B = C ≤ D > E < F = G$\nFor I: relation between B and F cannot be established. False.\n$For II: E < F = G -> E < G. True$.\nThus, only conclusion II is true.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -943,7 +927,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -996,7 +979,6 @@
     "explanation": "From the family tree:\n- D(+) is married to G(-)\n- E(+) is married to A(-)\n- G and E are siblings.\n- H is the daughter of E and A (since C is the only son, H is female).\nTherefore, H is G's niece.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1055,7 +1037,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1108,7 +1089,6 @@
     "explanation": "F is married to C, and B is the son of C and F. Thus, F is the mother of B.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1167,7 +1147,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1220,7 +1199,6 @@
     "explanation": "F lives in Flat P on Floor 3.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1279,7 +1257,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1332,7 +1309,6 @@
     "explanation": "C lives on Floor 2, not Floor 1. So option D is the incorrect combination.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1391,7 +1367,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1444,7 +1419,6 @@
     "explanation": "Seating positions $(1-17$ from left to right): T at 2, U at 3, S at 7, P at 8, R at 10, V at 11, Q at 13. Third to the left of V (11) is P (8).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1503,7 +1477,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1556,7 +1529,6 @@
     "explanation": "$U is at pos 3, R is at pos 10. The number \\text{ of } persons sitting between them is 10-3 - 1 = 6$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1615,7 +1587,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1668,7 +1639,6 @@
     "explanation": "Letters: P, E, O, N. Meaningful words that can be formed are OPEN and PEON. Since more than one word can be formed, the answer is Z.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1727,7 +1697,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1780,7 +1749,6 @@
     "explanation": "$Digits to the right \\text{ of } @: 4,0,7,3,5,8. Sum = 4 + 0 + 7 + 3 + 5 + 8 = 27$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1839,7 +1807,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1892,7 +1859,6 @@
     "explanation": "6 th element from left is #. 9 th element from right is 0. Exactly in the middle of # and 0 is *.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1951,7 +1917,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2004,7 +1969,6 @@
     "explanation": "Fruit purchase schedule: Monday - F, Tuesday - B, Wednesday - A, Thursday - G, Friday - D, Saturday - E, Sunday - C.\nF relates to B (+1 day). A relates to G (+1 day). By this pattern, E (Saturday) is related to C (Sunday).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2063,7 +2027,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2116,7 +2079,6 @@
     "explanation": "F purchases fruit on Monday.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2175,7 +2137,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2228,7 +2189,6 @@
     "explanation": "C purchases fruit on Sunday, not Saturday (E purchases on Saturday). Thus, option E is incorrect.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2287,7 +2247,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2340,7 +2299,6 @@
     "explanation": "$B on Wednesday = 60. C on Wednesday = 82. Difference = 82-60 = 22$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2399,7 +2357,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2452,7 +2409,6 @@
     "explanation": "$Total items sold by B on Wednesday = 60. Defective items = 60 * 1/6 = 10. Nondefective items = 60 * 5/6 = 50. Difference = 50-10 = 40$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2511,7 +2467,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2562,9 +2517,8 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$Required ratio = (144 + 84) : 72 = 228:72 = 19:6$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper3_q46-50.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2618,9 +2572,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Bags sold by B = 84. Bottles sold by C = 150\\% \\text{ of } 84 = 126. Bags sold by D = 120. Required percentage = (126-120)/120 * 100 = 5\\%$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper3_q46-50.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2674,9 +2627,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Bags sold by D and E together = 120 + 72 = 192. Bags sold by C = 48. Required percentage = (192 / 48) * 100 = 400\\%$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper3_q46-50.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2730,9 +2682,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Total bags sold by A = 144. Blue bags = 144-55 = 89. Bags sold by E = 72. Difference = 89-72 = 17$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper3_q46-50.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2786,9 +2737,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Bags sold by A = 144, C = 48, E = 72. Average = (144 + 48 + 72) / 3 = 264 / 3 = 88$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper3_q46-50.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2847,7 +2797,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2900,7 +2849,6 @@
     "explanation": "$Let Riya's investment be R. Meena's investment = 6000 - R. Since profit shares are equal, R * 12 = (6000 - R) * 6 ⇒ 2 R = 6000 - R ⇒ 3 R = 6000 ⇒ R = 2000$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2959,7 +2907,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3012,7 +2959,6 @@
     "explanation": "$Let Rohit's income be 4 x. Savings = 4 x * 0.75 * 0.80 * 0.85 = 2.04 x. 2.04 x = 9180 ⇒ x = 4500. Amit's income = 5 x = 5 * 4500 = Rs 22,500$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3071,7 +3017,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3124,7 +3069,6 @@
     "explanation": "$Let total work = 54 units. P's efficiency = 3, Q's efficiency = 2. Together P+Q+R efficiency = 6 units/day. R's efficiency = 6-5 = 1 unit/day. Time taken by R alone = 54 / 1 = 54 days$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3183,7 +3127,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3236,7 +3179,6 @@
     "explanation": "$Initial Milk = 24 L, Water = 16 L. After adding x L water: 24 / (16 + x) = 3/5 ⇒ 16 + x = 40 ⇒ x = 24$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3295,7 +3237,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3348,7 +3289,6 @@
     "explanation": "$Perimeter = 2(L + B) = 60. Since B = L/2, 2(3 L/2) = 60 ⇒ 3 L = 60 ⇒ L = 20 cm and B = 10 cm. Area = L * B = 20 * 10 = 200 cm^2$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3407,7 +3347,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3460,7 +3399,6 @@
     "explanation": "$Pattern \\text{ of } differences: +13, +22, +40, +76, +148. Differences \\text{ of } differences: +9, +18, +36, +72. The next difference is 148, so ? = 369 + 148 = 517$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3519,7 +3457,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3572,7 +3509,6 @@
     "explanation": "$Pattern \\text{ of } differences: +7, +10, +15, +22, +31. Differences \\text{ of } differences: +3, +5, +7, +9. Next term = 96 + 22 = 118$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3631,7 +3567,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3684,7 +3619,6 @@
     "explanation": "$144 + 256 + 90 = ?^2 + 6 ⇒ 490 = ?^2 + 6 ⇒ ?^2 = 484 ⇒ ? = 22$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3743,7 +3677,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3796,7 +3729,6 @@
     "explanation": "$?/100 * 37.5 + 175 = 190 ⇒ ?/100 * 37.5 = 15 ⇒ ? = 40$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3855,7 +3787,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3908,7 +3839,6 @@
     "explanation": "$783/? + 175.75-29.25 = 190 ⇒ 783/? + 146.5 = 190 ⇒ 783/? = 43.5 ⇒ ? = 18$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3967,7 +3897,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4020,7 +3949,6 @@
     "explanation": "$280 + ? = 784-24 ⇒ 280 + ? = 760 ⇒ ? = 480$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4079,7 +4007,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4132,7 +4059,6 @@
     "explanation": "$94.5 + 98 + ? = 196 ⇒ 192.5 + ? = 196 ⇒ ? = 3.5$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4191,7 +4117,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4244,7 +4169,6 @@
     "explanation": "$344 + 270 = ? * 4 ⇒ 614 = 4 * ? ⇒ ? = 153.5$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4303,7 +4227,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4356,7 +4279,6 @@
     "explanation": "$17095-3345 = 13,750$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4415,7 +4337,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4468,7 +4389,6 @@
     "explanation": "$4/5 * 2/3 * 7/9 * 16200 = 6720. 6720 = 1/6 \\text{ of } ? ⇒ ? = 6720 * 6 = 40,320$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",

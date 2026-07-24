@@ -140,7 +140,7 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "In an open cube net, alternate faces are opposite to each other. Thus, and % form opposite faces.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper5_q3.png",
     "option_images": [
       "",
       "",
@@ -325,31 +325,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper5_q7_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper5_q7_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper5_q7_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper5_q7_d.png"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "The given hookline element is embedded inside Figure 3.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper5_q7.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper5_q7_a.png",
+      "ssc_gd_cbt_paper5_q7_b.png",
+      "ssc_gd_cbt_paper5_q7_c.png",
+      "ssc_gd_cbt_paper5_q7_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1141,19 +1145,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$1,2,3,4,5$"
+        "text": "1, 2, 3, 4, 5"
       },
       {
         "id": "B",
-        "text": "$2,1,3,5,4$"
+        "text": "2, 1, 3, 5, 4"
       },
       {
         "id": "C",
-        "text": "$3,2,1,4,5$"
+        "text": "3, 2, 1, 4, 5"
       },
       {
         "id": "D",
-        "text": "$4,2,1,3,5$"
+        "text": "4, 2, 1, 3, 5"
       }
     ],
     "correct_option": "D",

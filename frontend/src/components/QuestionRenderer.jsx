@@ -2,109 +2,12 @@ import React, { useEffect, useRef } from "react";
 
 // Self-healing text parser to repair merged words, spacing, and punctuation
 export const cleanText = (text) => {
-  if (!text) return "";
-  
-  let fixed = text
-    // Correct common merged words from PDF OCR / ingestion issues
-    .replace(/\bIfthe\b/g, "If the")
-    .replace(/\bofasphere\b/g, "of a sphere")
-    .replace(/\bfindthe\b/gi, "find the")
-    .replace(/\bvalueof\b/gi, "value of ")
-    .replace(/\beachof\b/gi, "each of")
-    .replace(/\bfitin\b/gi, "fit in")
-    .replace(/\bwhatis\b/gi, "what is")
-    .replace(/\bquestions?\b/gi, "question")
-    .replace(/\bnumberof\b/gi, "number of")
-    .replace(/\boftriangle\b/gi, "of triangle")
-    .replace(/\bABCandtriangle\b/gi, "ABC and triangle")
-    .replace(/\bDEFare\b/gi, "DEF are")
-    .replace(/\bofABis\b/gi, "of AB is")
-    .replace(/\bIfAB\b/gi, "If AB")
-    .replace(/\bangleBis\b/gi, "angle B is")
-    .replace(/\bsideAC\b/gi, "side AC")
-    .replace(/\bsideBC\b/gi, "side BC")
-    .replace(/\bBCandAD\b/gi, "BC and AD")
-    .replace(/\blengthof\b/gi, "length of ")
-    .replace(/\bcentreO\b/gi, "centre O")
-    .replace(/\bmeetsBA\b/gi, "meets BA")
-    .replace(/\bangleATC\b/gi, "angle ATC")
-    .replace(/\bangleACT\b/gi, "angle ACT")
-    .replace(/\bangleAOB\b/gi, "angle AOB")
-    .replace(/\bIf177\b/gi, "If 177")
-    .replace(/\bratio\\frac\b/gi, "ratio \\frac")
-    .replace(/\bbridgeof\b/gi, "bridge of")
-    .replace(/\bspeedof\b/gi, "speed of")
-    .replace(/\btrainof\b/gi, "train of")
-    .replace(/\bproductof\b/gi, "product of")
-    .replace(/\bperimetersof\b/gi, "perimeters of")
-    .replace(/\bareaof\b/gi, "area of")
-    // Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm", "sphere56" -> "sphere 56"
-    .replace(/([a-zA-Z]+)([0-9]+)/g, "$1 $2")
-    .replace(/([0-9]+)([a-zA-Z]+)/g, "$1 $2")
-    // Separate lowercase to uppercase transition (e.g. "heightCD" -> "height CD")
-    .replace(/([a-z])([A-Z])/g, "$1 $2")
-    // Separate multi-uppercase to lowercase transition (e.g. "CDintersects" -> "CD intersects")
-    .replace(/([A-Z]{2,})([a-z])/g, "$1 $2")
-    // Separate single-uppercase variable followed by standard math words (e.g. "Pand" -> "P and", "Qrespectively" -> "Q respectively")
-    .replace(/\b([A-Z])(and|are|respectively|is|at|intersects|height|width|length|cm|in|of|to)\b/gi, "$1 $2")
-    // Correct "Intriangle" and similar shapes
-    .replace(/\bIn(triangle|circle|square|rectangle|cone|sphere)\b/gi, "In $1")
-    // Double spaces to single spaces
-    .replace(/[ ]{2,}/g, " ");
-
-  return fixed;
+  return text || "";
 };
 
 // Self-healing LaTeX checker and formatter
 export const cleanLaTeX = (text) => {
-  if (!text) return "";
-
-  let fixed = text;
-
-  // Auto-prepend backslash to raw unformatted sqrt statements (e.g. sqrt{39.99} -> \sqrt{39.99})
-  fixed = fixed.replace(/(?<!\\)sqrt/g, "\\sqrt");
-
-  // Balance curly braces (e.g. if \sqrt{3025 has no closing curly brace)
-  const openBraceCount = (fixed.match(/\\(sqrt|frac|text)\{/g) || []).length;
-  let closeBraceCount = (fixed.match(/\}/g) || []).length;
-  while (closeBraceCount < openBraceCount) {
-    fixed += "}";
-    closeBraceCount++;
-  }
-
-  // Detect and fix fake math blocks: if the entire string is wrapped in a single $ ... $ but is actually a sentence.
-  if (fixed.startsWith("$") && fixed.endsWith("$") && (fixed.match(/(?<!\\)\$/g) || []).length === 2) {
-    const inner = fixed.slice(1, -1);
-    if (inner.split(" ").length > 3 && /[a-zA-Z]{3,}/.test(inner)) {
-      // It is a text paragraph! Let's unwrap it.
-      let parts = inner.split(" ");
-      parts = parts.map(part => {
-        if (part.includes("$")) return part;
-        const isMath = /\\|[\^_\=\+\-\*\/<>:]|^\d+$|^\b[a-zA-Z]\b$/.test(part);
-        if (isMath) {
-          return `$${part}$`;
-        }
-        return part;
-      });
-      fixed = parts.join(" ");
-    }
-  }
-
-  // Ensure closed dollar block delimiters (ignoring escaped ones)
-  const dollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
-  if (dollarCount % 2 !== 0) {
-    fixed += "$";
-  }
-
-  // Escape raw % percentage, hash (#), and ampersand (&) signs in LaTeX math blocks to avoid parsing warnings or KaTeX crashes
-  fixed = fixed.replace(/(?<!\\)\$([\s\S]*?)(?<!\\)\$/g, (match, mathContent) => {
-    let escapedMath = mathContent.replace(/(?<!\\)%/g, "\\%");
-    escapedMath = escapedMath.replace(/(?<!\\)#/g, "\\#");
-    escapedMath = escapedMath.replace(/(?<!\\)&/g, "\\&");
-    return `$${escapedMath}$`;
-  });
-
-  return fixed;
+  return text || "";
 };
 
 export default function QuestionRenderer({ text, direction = "", subject = "", className = "" }) {

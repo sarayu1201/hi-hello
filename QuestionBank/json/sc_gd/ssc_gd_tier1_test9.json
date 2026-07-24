@@ -89,7 +89,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Comparing dice positions I and II: common faces 3 and 4 $\\Rightarrow$ 1 is opposite to 6.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper9_q2.png",
     "option_images": [
       "",
       "",
@@ -473,8 +473,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If '+' means '$\\div$', '−' means '$\\times', '\\times$' means '−', '$\\div$' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 × 6 − 37 ÷ 259 = ?$",
-    "q": "If '+' means '÷', '−' means '×', '×' means '−', '÷' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 × 6 − 37 ÷ 259 = ?$",
+    "question": "If '+' means '$\\div$', '−' means '$\\times', '\\times' means '−', '\\div' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 $\\times$ 6 − 37 $\\div$ 259 = ?",
+    "q": "If '+' means '$\\div$', '−' means '$\\times$', '\\times$' means '−', '$\\div$' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 × 6 − 37 ÷ 259 = ?",
     "options": [
       {
         "id": "A",
@@ -580,31 +580,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure A"
+        "text": "Figure A",
+        "image": "ssc_gd_cbt_paper9_q12_a.png"
       },
       {
         "id": "B",
-        "text": "Figure B"
+        "text": "Figure B",
+        "image": "ssc_gd_cbt_paper9_q12_b.png"
       },
       {
         "id": "C",
-        "text": "Figure C"
+        "text": "Figure C",
+        "image": "ssc_gd_cbt_paper9_q12_c.png"
       },
       {
         "id": "D",
-        "text": "Figure D"
+        "text": "Figure D",
+        "image": "ssc_gd_cbt_paper9_q12_d.png"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "Option B fits into the missing lowerleft quadrant to complete the square rotation.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper9_q12.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper9_q12_a.png",
+      "ssc_gd_cbt_paper9_q12_b.png",
+      "ssc_gd_cbt_paper9_q12_c.png",
+      "ssc_gd_cbt_paper9_q12_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -835,19 +839,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Two concentric circles and one separate"
+        "text": "Two concentric circles and one separate",
+        "image": "ssc_gd_cbt_paper9_q17_a.png"
       },
       {
         "id": "B",
-        "text": "Three concentric circles"
+        "text": "Three concentric circles",
+        "image": "ssc_gd_cbt_paper9_q17_b.png"
       },
       {
         "id": "C",
-        "text": "Two overlapping circles"
+        "text": "Two overlapping circles",
+        "image": "ssc_gd_cbt_paper9_q17_c.png"
       },
       {
         "id": "D",
-        "text": "Three separate circles"
+        "text": "Three separate circles",
+        "image": "ssc_gd_cbt_paper9_q17_d.png"
       }
     ],
     "correct_option": "B",
@@ -856,10 +864,10 @@
     "explanation": "All fathers are males and all males are human beings (three concentric circles).",
     "question_image": "",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper9_q17_a.png",
+      "ssc_gd_cbt_paper9_q17_b.png",
+      "ssc_gd_cbt_paper9_q17_c.png",
+      "ssc_gd_cbt_paper9_q17_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -905,7 +913,7 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Counting internal grid triangles gives 24 triangles.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper9_q18.png",
     "option_images": [
       "",
       "",
@@ -2365,11 +2373,11 @@
     "options": [
       {
         "id": "A",
-        "text": "$1 \\frac{3}{4} hours$"
+        "text": "$1 \\frac{3}{4}$ hours"
       },
       {
         "id": "B",
-        "text": "$7 \\frac{1}{3} hours$"
+        "text": "$7 \\frac{1}{3}$ hours"
       },
       {
         "id": "C",
@@ -2819,8 +2827,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Evaluate: (9) - (60) $\\div (12) + (3) \\times$ 6",
-    "q": "Evaluate: (9) - (60) ÷ (12) + (3) × 6",
+    "question": "Evaluate: (9) - (60) $\\div$ (12) + (3) $\\times$ 6",
+    "q": "Evaluate: (9) - (60) $\\div$ (12) + (3) \\times$ 6",
     "options": [
       {
         "id": "A",

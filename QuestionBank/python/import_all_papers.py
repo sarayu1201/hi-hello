@@ -806,7 +806,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 subject = get_standardized_subject(exam, sub_type_val, q_id, original_subject)
                 question_text = q.get("question", "") or ""
                 direction = q.get("direction", "") or ""
-                question_image_ref = q.get("questionImage", "") or ""
+                question_image_ref = q.get("questionImage") or q.get("question_image", "") or ""
                 correct_ans = q.get("correctAnswer") or q.get("correct_answer")
                 options = q.get("options", [])
 
@@ -846,8 +846,11 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 resolved_question_image = find_actual_image_path(question_image_ref, images_dir)
                 
                 resolved_option_images = []
-                for opt in options:
-                    opt_image_ref = opt.get("image", "") or ""
+                json_option_images = q.get("option_images") or q.get("optionImages") or []
+                for opt_idx, opt in enumerate(options):
+                    opt_image_ref = opt.get("image", "") or "" if isinstance(opt, dict) else ""
+                    if not opt_image_ref and opt_idx < len(json_option_images):
+                        opt_image_ref = json_option_images[opt_idx] or ""
                     resolved_opt_img = find_actual_image_path(opt_image_ref, images_dir)
                     resolved_option_images.append(resolved_opt_img)
 

@@ -70,31 +70,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper2_q2_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper2_q2_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper2_q2_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper2_q2_d.png"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Reflecting the figure laterally across vertical line XY yields the mirror image shown in Figure 3.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q2.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper2_q2_a.png",
+      "ssc_gd_cbt_paper2_q2_b.png",
+      "ssc_gd_cbt_paper2_q2_c.png",
+      "ssc_gd_cbt_paper2_q2_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -140,7 +144,7 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Humans include both Men and Politicians, where some Men are Politicians, perfectly fitting the doubleoverlapping subset Venn diagram.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q3.png",
     "option_images": [
       "",
       "",
@@ -497,7 +501,7 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Opposite faces are (1, 5), (2, 4), and (3, 6). Only box D obeys these opposite face constraints.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q10.png",
     "option_images": [
       "",
       "",
@@ -803,7 +807,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "Since all lyricists are morningwalkers and all morningwalkers are accountants, all lyricists are accountants. Since no accountant is a graduate, no lyricist can be a graduate. Thus, Conclusion I follows.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q16.png",
     "option_images": [
       "",
       "",
@@ -886,31 +890,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper2_q18_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper2_q18_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper2_q18_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper2_q18_d.png"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "The given shape is embedded inside Figure 2 without rotation.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q18.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper2_q18_a.png",
+      "ssc_gd_cbt_paper2_q18_b.png",
+      "ssc_gd_cbt_paper2_q18_c.png",
+      "ssc_gd_cbt_paper2_q18_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -937,31 +945,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper2_q19_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper2_q19_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper2_q19_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper2_q19_d.png"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "The rotation of inner elements in the series points to Figure 4 as the next figure.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q19.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper2_q19_a.png",
+      "ssc_gd_cbt_paper2_q19_b.png",
+      "ssc_gd_cbt_paper2_q19_c.png",
+      "ssc_gd_cbt_paper2_q19_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1090,19 +1102,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$1,2,3,4,5$"
+        "text": "1, 2, 3, 4, 5"
       },
       {
         "id": "B",
-        "text": "$1,3,2,4,5$"
+        "text": "1, 3, 2, 4, 5"
       },
       {
         "id": "C",
-        "text": "$3,2,5,4,1$"
+        "text": "3, 2, 5, 4, 1"
       },
       {
         "id": "D",
-        "text": "$5,4,2,3,1$"
+        "text": "5, 4, 2, 3, 1"
       }
     ],
     "correct_option": "A",
@@ -1141,31 +1153,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper2_q23_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper2_q23_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper2_q23_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper2_q23_d.png"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Unfolding the paper across both axes reflects the square cutouts into 4 quadrant sets shown in Figure 4.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper2_q23.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper2_q23_a.png",
+      "ssc_gd_cbt_paper2_q23_b.png",
+      "ssc_gd_cbt_paper2_q23_c.png",
+      "ssc_gd_cbt_paper2_q23_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,

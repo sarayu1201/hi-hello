@@ -47,7 +47,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -100,7 +99,6 @@
     "explanation": "Counting from the right of H (who sits at the bottom middle facing outside), the persons between H and E are B and E. Thus, there are two persons (B and E, wait, H is facing outside, so right of H goes clockwise towards B, then E. So two persons).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -159,7 +157,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -212,7 +209,6 @@
     "explanation": "E, B, G, and F all sit at the corners of the table and face inside, whereas D sits at the middle of a side and faces outside.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -271,7 +267,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -299,19 +294,23 @@
     "options": [
       {
         "id": "A",
-        "text": "tx"
+        "text": "tx",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_A.png"
       },
       {
         "id": "B",
-        "text": "kl"
+        "text": "kl",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_B.png"
       },
       {
         "id": "C",
-        "text": "ab"
+        "text": "ab",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_C.png"
       },
       {
         "id": "D",
-        "text": "zu"
+        "text": "zu",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_D.png"
       },
       {
         "id": "E",
@@ -324,10 +323,10 @@
     "explanation": "Comparing sentences:\n$'Farmers'/'Apple' = 'zu'/'kl'\n'today' = 'ne'$\nFor 'Farmers sell apple today' (zu kl ne tx), the remaining word 'sell' must be coded as 'tx'.",
     "question_image": "",
     "option_images": [
-      "",
-      "",
-      "",
-      "",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_A.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_B.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_C.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_D.png",
       ""
     ],
     "status": "ok",
@@ -380,7 +379,6 @@
     "explanation": "From the codes, 'fruits' is coded as 'mw' and 'supply' is coded as 'rt'. Thus, 'fruits supply' is coded as 'mw rt'.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -439,7 +437,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -490,9 +487,8 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "$If 'sweet' is coded as 'jy', then from the code 'Taste/Sweet' = 'jy/ab', the code for 'Taste' must be 'ab'$.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-20-June-2026-Shift-3-exam/Q_9_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -551,7 +547,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -604,7 +599,6 @@
     "explanation": "$Statement: K > R ≥ T = W < J ≤ B = F$\nFor I: R $\\ge$ T = W < J -> relation between R and J cannot be established. (False)\n$For II: T = W < J ≤ B = F -> T < F. Thus, T ≥ F is false. (False)$\nNeither conclusion is true.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -663,7 +657,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -719,7 +712,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -770,9 +762,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "In the word 'MISTAKE', the letters S and T form a pair in alphabetical order (both forward and backward direction). No other pair exists. So there is only one such pair.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-16-June-2026-Shift-1-exam/Q_14_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -831,7 +822,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -884,7 +874,6 @@
     "explanation": "The stack from top to bottom is: C, G, F, E, D, A, B. The two boxes placed below box D are A and B.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -943,7 +932,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -994,9 +982,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Box C is immediately above box G. Box F is immediately above box E. By this logic, the box immediately above box B is Box A.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-20-June-2026-Shift-3-exam/Q_18_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1055,7 +1042,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1108,7 +1094,6 @@
     "explanation": "$In all groups except ILN, the letter differences are +3 (P+3=S, S+3=V; E+3=H, H+3=K; M+3=P, P+3=S; R+3=U, U+3=X). In ILN, I+3=L, but L+2=N$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1167,7 +1152,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1220,7 +1204,6 @@
     "explanation": "Point K is at (12, 11) and Point A is at (21, 11). Thus, point K is directly West of point A.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1279,7 +1262,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1332,7 +1314,6 @@
     "explanation": "I: 'Some banana is definitely not apples' is not necessarily true as banana can overlap with apple. II: 'No fruits are banana' is also false since they can overlap. Thus, neither follows.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1391,7 +1372,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1444,7 +1424,6 @@
     "explanation": "I: The part of blue which is ocean cannot be pond (since no ocean is pond). Hence, 'Some blue is not pond' is true. II: Since there is no negative relationship given between river and pond, 'No river being pond' is a possibility. Hence, both follow.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1503,7 +1482,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1556,7 +1534,6 @@
     "explanation": "Ranks: D > F > B > A > C > E. The pencils longer than A are D, F, and B (three pencils).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1615,7 +1592,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1668,7 +1644,6 @@
     "explanation": "The 2 nd, 4 th, 7 th, and 8 th letters of ALTERNATES are L, E, A, T. The meaningful words that can be formed are LATE, TALE, TEAL. Since more than one word can be formed, the answer is Z.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1727,7 +1702,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1780,7 +1754,6 @@
     "explanation": "Changing the 3 rd letter of each word to its next alphabetical letter:\n- WIN -> WIO (2 vowels: I, O)\n- KEY -> KEZ (1 vowel: E)\n- JAM -> JAN (1 vowel: A)\n- LOG -> LOH (1 vowel: O)\n- CAT -> CAU (2 vowels: A, U)\nThus, 2 words (WIO and CAU) will have more than one vowel.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1839,7 +1812,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1892,7 +1864,6 @@
     "explanation": "Second word from left: KEY. Its first letter is K.\nThird word from right: JAM. Its third letter is M.\nLetters between K and M in the alphabet: L (only 1 letter).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1951,7 +1922,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2004,7 +1974,6 @@
     "explanation": "Based on the clues, the birthday schedule is:\n- Monday: F\n- Tuesday: D\n- Wednesday: G\n- Thursday: E\n- Friday: B\n- Saturday: C\nThus, G was born on Wednesday.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2063,7 +2032,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2116,7 +2084,6 @@
     "explanation": "The correct birthdays are MondayF, TuesdayD, WednesdayG, ThursdayE, FridayB, SaturdayC. Thus, FMonday is the correct combination.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2175,7 +2142,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2228,7 +2194,6 @@
     "explanation": "I: F was born on Monday and G on Wednesday, so D was born between them. (Correct)\nII: E was born on Thursday. (Correct)\nIII: D was born on Tuesday, which is after F (Monday). (Incorrect)\nThus, only I and II are correct.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2287,7 +2252,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2340,7 +2304,6 @@
     "explanation": "P invested Rs 8000 for 12 months. Q invested Rs 6000 for x months.\n$Ratio \\text{ of } profit \\text{ of } P to Q = (8000 * 12) / (6000 * x) = 16 / x$.\nSince Q's share is Rs 2000 out of total Rs 6000, P's share is Rs 4000.\n$So, P's profit : Q's profit = 4000:2000 = 2:1.\nThus, 16 / x = 2/1 ⇒ x = 8$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2399,7 +2362,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2452,7 +2414,6 @@
     "explanation": "$Simple Interest (SI) = (P * R * T) / 100\n2000 = (8000 * 10 * T) / 100 ⇒ 2000 = 800 * T ⇒ T = 2000 / 800 = 2.5 years$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2511,7 +2472,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2564,7 +2524,6 @@
     "explanation": "$Speed \\text{ of } train = 180 / 9 = 20 m/s.\nTotal distance to cross the bridge = Train length + Bridge length = 180 + 270 = 450 meters.\nTime taken = 450 / 20 = 22.5 seconds$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2623,7 +2582,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2676,7 +2634,6 @@
     "explanation": "$Amount A = P * (1 + R/100)^t ⇒ 10800 = P * (1 + 20/100)^2 ⇒ 10800 = P * (1.2)^2 ⇒ 10800 = 1.44 * P ⇒ P = 10800 / 1.44 = 7500$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2735,7 +2692,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2788,7 +2744,6 @@
     "explanation": "$Let total work = LCM(12, 20) = 60 units. Efficiency \\text{ of } A + B = 5 units/day. Efficiency \\text{ of } A = 3 units/day.\nEfficiency \\text{ of } B = 5-3 = 2 units/day.\n60\\% \\text{ of } the work = 36 units. Time taken by B = 36 / 2 = 18 days$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2847,7 +2802,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2900,7 +2854,6 @@
     "explanation": "$The differences are: 56 + 5 = 61 (not 60), 61 + 10 = 71, 71 + 20 = 91, 91 + 40 = 131, 131 + 80 = 211, 211 + 160 = 371. The differences double each time. So, 60 is wrong$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2959,7 +2912,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3012,7 +2964,6 @@
     "explanation": "$The pattern is: 201-2^2 = 197 (not 199), 197 + 3^2 = 206, 206-4^2 = 190, 190 + 5^2 = 215, 215-6^2 = 179, 179 + 7^2 = 228. Thus, 199 is wrong$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3071,7 +3022,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3122,9 +3072,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Total cars sold = 180 + 150 + 120 + 200 + 50 = 700.\n$Average = $700 / 5 = 140$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3178,9 +3127,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Cars sold in February = 150. Cars sold in April = 200.\n$Required Percentage = $(150 / 200) * 100 = 75%.$",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3234,9 +3182,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Cars sold in January = 180. Cars sold in March = 120.\n$Difference = $180-120 = 60$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3290,9 +3237,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Cars in January + March = 180 + 120 = 300.\nCars in February + May = 150 + 50 = 200.\n$Ratio = $300:200 = 3:2$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3346,9 +3292,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Cars sold in May = 50. Cars sold in February = 150.\nSum = 50 + 150 = 200$.",
-    "question_image": "",
+    "question_image": "rrb_clerk_paper1_q56-60.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3407,7 +3352,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3460,7 +3404,6 @@
     "explanation": "$Total green balls = 170 + 330 + 260 + 650 + 260 = 1670.\n$Average = $1670 / 5 = 334$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3519,7 +3462,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3572,7 +3514,6 @@
     "explanation": "$Green balls in Bag D & A together = 650 + 170 = 820.\nBlue balls in Bag C & E together = 480 + 300 = 780.\n$Difference = $820-780 = 40$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3631,7 +3572,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3684,7 +3624,6 @@
     "explanation": "$3267 + 2425-961 = 5692-961 = 4731.\n4769-4731 = 38$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3743,7 +3682,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3796,7 +3734,6 @@
     "explanation": "$0.06 * 0.84 = 0.0504.\n1.2 * 0.015 = 0.018.\n0.0504 = ? * 0.018 ⇒ ? = 0.0504 / 0.018 = 2.8$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3855,7 +3792,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3911,7 +3847,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3962,9 +3897,8 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$12.5 * 80 = 1000.\n37.5 * 16 = 600.\n6.25 * 112 = 700.\n? = 1000 + 600-700 = 900$.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_71_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4023,7 +3957,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4076,7 +4009,6 @@
     "explanation": "$\\sqrt{324} = 18. \\sqrt{361} = 19.\n\\frac{1}{5}$th \\text{ of } 290 = 58.\n$\\sqrt{?} + 18 + 19 = 58 \\Rightarrow \\sqrt{?} + 37 = 58 \\Rightarrow \\sqrt{?} = 21 \\Rightarrow ? = 21^2 = 441.$",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4135,7 +4067,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4188,7 +4119,6 @@
     "explanation": "$1.44 + 2.25 + 4.41-3.61 = 4.49$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4247,7 +4177,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4303,7 +4232,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4354,9 +4282,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$(32/35) * 5 * (7/8) * (35/2) = (32/7) * (7/8) * (35/2) = 4 * 35/2 = 70$.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S1eng.-exam/Q_78_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4415,7 +4342,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4468,7 +4394,6 @@
     "explanation": "$(23 / 48) * 576 = 23 * 12 = 276.\n276 = ? * 3/2 ⇒ ? = 276 * 2 / 3 = 184$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",

@@ -650,7 +650,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "From the given coding example FRIEND $\\rightarrow$ HUMJTK, each letter is transformed according to the pattern illustrated in the original figure. Applying the same transformation to CANDLE results in EDRIRL.",
-    "question_image": "q13.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -677,8 +677,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If A denotes \u2212, C denotes \u00d7, D denotes \u00f7 and E denotes $+,$ then find the value of $14$ $\\times$ $3$ $-$ $12$ $+$ $4$ div $2$ represented by the expression $14$ C $3$ A $12$ E $4$ D $2$.",
-    "q": "$If A denotes \u2212, C denotes \u00d7, D denotes \u00f7 and E denotes +, then find the value of14 \\times3 - 12 + 4div 2represented by the expression 14C3A12E4D2$.",
+    "question": "If A denotes −, C denotes $\\times$, D denotes $\\div$ and E denotes $+,$ then find the value of $14 \\times 3 - 12 + 4 div 2$ represented by the expression $14$ C $3$ A $12$ E $4$ D $2$.",
+    "q": "$If A denotes −, C denotes ×, D denotes ÷ and E denotes +, then find the value of14 \\times3 - 12 + 4div 2represented by the expression 14C3A12E4D2$.",
     "options": [
       {
         "id": "A",
@@ -700,7 +700,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Replace the symbols according to the given meanings. $14 C 3 A 12 E 4 D 2 =14 \\times 3\u221212 + 4 div 2 = 42\u221212 + 2 = 32$.",
+    "explanation": "Replace the symbols according to the given meanings. $14 C 3 A 12 E 4 D 2 =14 \\times 3−12 + 4 div 2 = 42−12 + 2 = 32$.",
     "question_image": "",
     "option_images": [
       "",
@@ -751,7 +751,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The coded value is obtained by subtracting the first digit from the $\\sum$ of the last two digits. $879 \u2192(7 + 9)\u2212 8 = 8$ 625 \\rightarrow$(2 + 5)$\u2212 6 = 1 586 \\rightarrow$(8 + 6)\u2212 5 = 9 785 \u2192(8 + 5)\u2212 7 = 6$.",
+    "explanation": "The coded value is obtained by subtracting the first digit from the $\\sum$ of the last two digits. $879 →(7 + 9)− 8 = 8$ 625 \\rightarrow$(2 + 5)$− 6 = 1 586 \\rightarrow$(8 + 6)− 5 = 9 785 →(8 + 5)− 7 = 6$.",
     "question_image": "",
     "option_images": [
       "",
@@ -802,8 +802,8 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.(8 $+$ 7)times $6$ $=$ 90(7 $+$ 6)times $5$ $=$ 65(6 $+$ 5)times $4$ $=$ $44$ Hence, the missing number is $44$.",
-    "question_image": "q16.png",
+    "explanation": "In each column, the bottom number is obtained by adding the first two numbers and multiplying the result by the third number.(8 $(+ 7)times 6 = 90(7 + 6)times 5 = 65(6 + 5)times 4 = 44$ Hence, the missing number is $44$.",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -905,7 +905,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Since all boys are tall and Rajiv is a boy, Rajiv must be tall. Therefore, only Conclusion I logically follows.",
-    "question_image": "q18.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -955,8 +955,8 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "The figure contains $6$ small triangles, $3$ triangles formed by combining two small triangles, $6$ larger triangles formed by combining three small triangles, and $1$ outer triangle. Total $=6$ $+$ $3$ $+$ $6$ $+$ $1$ $=$ $16$.",
-    "question_image": "q19.png",
+    "explanation": "The figure contains $6$ small triangles, $3$ triangles formed by combining two small triangles, $6$ larger triangles formed by combining three small triangles, and $1$ outer triangle. Total $=6 + 3 + 6 + 1 = 16$.",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1009,10 +1009,10 @@
     "explanation": "Pulitzer Prize and Oscars are two different categories of awards. Both are subsets of Awards but do not overlap with each other. Therefore, the third diagram correctly represents the relationship.",
     "question_image": "",
     "option_images": [
-      "q20_a.png",
-      "q20_b.png",
-      "q20_c.png",
-      "q20_d.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1058,12 +1058,12 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Only Option C correctly completes all three concentric circles while maintaining the position of the small line segments and rings. The remaining options violate one or more parts of the original pattern.",
-    "question_image": "q21.png",
+    "question_image": "",
     "option_images": [
-      "q21_a.png",
-      "q21_b.png",
-      "q21_c.png",
-      "q21_d.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1109,12 +1109,12 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "The given question figure appears exactly within Option B without any rotation or distortion. Therefore, Option B is the correct embedded figure.",
-    "question_image": "q22.png",
+    "question_image": "",
     "option_images": [
-      "q22_a.png",
-      "q22_b.png",
-      "q22_c.png",
-      "q22_d.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1160,12 +1160,12 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "When the paper is unfolded first vertically and then horizontally, the holes appear symmetrically according to the fold lines. Only Option D matches the resulting pattern.",
-    "question_image": "q23.png",
+    "question_image": "",
     "option_images": [
-      "q23_a.png",
-      "q23_b.png",
-      "q23_c.png",
-      "q23_d.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1211,12 +1211,12 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "Option B correctly represents the mirror image across line MN. The remaining options contain incorrect placement of one or more line segments after reflection.",
-    "question_image": "q24.png",
+    "question_image": "",
     "option_images": [
-      "q24_a.png",
-      "q24_b.png",
-      "q24_c.png",
-      "q24_d.png"
+      "",
+      "",
+      "",
+      ""
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -2071,7 +2071,7 @@
       },
       {
         "id": "D",
-        "text": "Methane (CH\u2084)"
+        "text": "Methane (CH₄)"
       }
     ],
     "correct_option": "B",
@@ -2587,7 +2587,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "A and B together $complete\\frac{7}{11}of$ the work. Therefore, C completes the $remaining\\frac{4}{11}of$ the work. Hence, C's share $=\\frac{4}{11}$ $\\times$ $550$ $=$ $200$.",
+    "explanation": "A and B together $complete\\frac{7}{11}of$ the work. Therefore, C completes the $remaining\\frac{4}{11}of$ the work. Hence, C's share $=\\frac{4}{11} \\times 550 = 200$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2615,7 +2615,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "In triangle ABC, the height CD intersects AB at D. The midpoints of AB and BC are P and Q respectively. If AD $=$ $8$ cm and CD $=$ $6$ cm, then find the length of PQ.",
+    "question": "In triangle ABC, the height CD intersects AB at D. The midpoints of AB and BC are P and Q respectively. If AD $= 8$ cm and CD $= 6$ cm, then find the length of PQ.",
     "q": "$Intriangle ABC, the heightCDintersectsABatD. The midpoints ofABandBCarePandQrespectively. IfAD = 8cm andCD = 6cm, then find the length ofPQ$.",
     "options": [
       {
@@ -2638,8 +2638,8 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Using Pythagoras theorem,AC $=$ $\\sqrt{8^2+6^2}=10$ cm. The line joining the midpoints of two sides of $a$ triangle is parallel to the third side and equal to half of its length. $Therefore,PQ=\\frac{AC}{2}=\\frac{10}{2}=5$ cm.",
-    "question_image": "q52.png",
+    "explanation": "Using Pythagoras theorem,AC $= \\sqrt{8^2+6^2}=10$ cm. The line joining the midpoints of two sides of $a$ triangle is parallel to the third side and equal to half of its length. $Therefore,PQ=\\frac{AC}{2}=\\frac{10}{2}=5$ cm.",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -2689,7 +2689,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Selling price $=500$ $\\times$ 0.9 $\\times$ 0.9 $=$ $500$ $\\times$ 0.81 $=$ 405. Therefore, the selling price is Rs. $405$.",
+    "explanation": "Selling price $=500 \\times 0.9 \\times 0.9 = 500 \\times 0.81 =$ 405. Therefore, the selling price is Rs. $405$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2791,7 +2791,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the total population bex. Then $14\\%ofxequals$ 574. $Hence,x=\\frac{574\\times$ $100}{14}=4100$.",
+    "explanation": "Let the total population bex. Then $14\\%ofxequals 574. Hence,x=\\frac{574\\times 100}{14}=4100$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2842,7 +2842,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Speed $=\\frac{240}{16}=15$ $m/s.$ Converting to $km/hr:$ $15\\times\\frac{18}{5}=54$ $km/hr$.",
+    "explanation": "Speed $=\\frac{240}{16}=15 m/s.$ Converting to $km/hr: 15\\times\\frac{18}{5}=54 km/hr$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2921,7 +2921,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Ifx+3$ $y=-3$ $x+y,$ then find the value $of\\frac{x^2}{2$ $y^2}$.",
+    "question": "$Ifx+3 y=-3 x+y,$ then find the value $of\\frac{x^2}{2 y^2}$.",
     "q": "$Ifx+3y=-3x+y, then find the value offrac{x^2}{2y^2}$.",
     "options": [
       {
@@ -2944,7 +2944,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Fromx+3$ $y=-3$ $x+y,$ we get $4$ $x=-2$ y, $sox=-\\frac{y}{2}.$ $Therefore,\\frac{x^2}{2$ $y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2$ $y^2}=\\frac{1}{8}$.",
+    "explanation": "$Fromx+3 y=-3 x+y,$ we get $4 x=-2$ y, $sox=-\\frac{y}{2}. Therefore,\\frac{x^2}{2 y^2}=\\frac{\\left(\\frac{y^2}{4}\\right)}{2 y^2}=\\frac{1}{8}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3097,7 +3097,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Fromsin\\theta+\\frac{1}{\\s in\\theta}=2,$ we $obtainsin\\theta=1.$ $Therefore,s in^{-7}\\theta=1$ $andcsc^{7}\\theta=1,$ giving $a$ total value of $2$.",
+    "explanation": "$Fromsin\\theta+\\frac{1}{\\s in\\theta}=2,$ we $obtainsin\\theta=1. Therefore,s in^{-7}\\theta=1 andcsc^{7}\\theta=1,$ giving $a$ total value of $2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3148,7 +3148,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let cows bexand hens bey. $Thenx+y=50$ and $4$ $x+2$ $y=142.$ Solving the equations $givesx=21$ $andy=29.$ Therefore, the number of cows is $21$.",
+    "explanation": "Let cows bexand hens bey. $Thenx+y=50 and 4 x+2 y=142.$ Solving the equations $givesx=21 andy=29.$ Therefore, the number of cows is $21$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3199,7 +3199,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let the total number of students ben. Using the weighted $average:na=10$ $b+(n-10)cna=10$ $b+nc-10$ $cn(a-c)=10(b-c)Therefore,n=\\frac{10(b-c)}{a-c}$.",
+    "explanation": "Let the total number of students ben. Using the weighted $average:na=10 b+(n-10)cna=10 b+nc-10 cn(a-c)=10(b-c)Therefore,n=\\frac{10(b-c)}{a-c}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3278,7 +3278,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If(a+b+6)-a+b+1+2$ $b=2$ $ab+2$ a, then find the value ofa.",
+    "question": "$If(a+b+6)-a+b+1+2 b=2 ab+2$ a, then find the value ofa.",
     "q": "$If(a+b+6)-a+b+1+2b=2ab+2a, then find the value ofa$.",
     "options": [
       {
@@ -3353,7 +3353,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "The perpendicular distance from the centre to the chord equals the radius of the smaller circle. $Half chord =\\sqrt{17^2-8^2}=\\sqrt{289-64}=15 cm$. Therefore, $chord length =2\\times 15=30 cm$.",
-    "question_image": "q66.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -3454,7 +3454,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Assume the number is 100. After a 10% decrease, it becomes 90. After a 10% increase, it becomes 99. Net change = 99\u2212100 = \u22121. Hence, there is a 1% decrease.",
+    "explanation": "Assume the number is 100. After a 10% decrease, it becomes 90. After a 10% increase, it becomes 99. Net change = 99−100 = −1. Hence, there is a 1% decrease.",
     "question_image": "",
     "option_images": [
       "",
@@ -3482,7 +3482,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Find the angle of elevation of the Sun when the shadow of $a$ $15$ m long pole is $5\\sqrt{3}m$.",
+    "question": "Find the angle of elevation of the Sun when the shadow of $a 15$ m long pole is $5\\sqrt{3}m$.",
     "q": "$Find the angle of elevation of the Sun when the shadow of a 15 m long pole is5\\sqrt{3}m$.",
     "options": [
       {
@@ -3505,8 +3505,8 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Usingtan\\theta=\\frac{\\text{Height}}{\\text{Shadow}}=\\frac{15}{5\\sqrt{3}}=\\sqrt{3}.$ $Therefore,theta=60^\\circ$.",
-    "question_image": "q69.png",
+    "explanation": "$Usingtan\\theta=\\frac{\\text{Height}}{\\text{Shadow}}=\\frac{15}{5\\sqrt{3}}=\\sqrt{3}. Therefore,theta=60^\\circ$.",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -3533,7 +3533,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If $2$ $y\\cos\\theta=x\\s in\\thetaand$ $2$ $x\\sec\\theta-y\\csc\\theta=3,$ then $findx+4$ $y^2$.",
+    "question": "If $2 y\\cos\\theta=x\\s in\\thetaand 2 x\\sec\\theta-y\\csc\\theta=3,$ then $findx+4 y^2$.",
     "q": "$If2y\\cos\\theta=x\\sin\\thetaand2x\\sec\\theta-y\\csc\\theta=3, then findx+4y^2$.",
     "options": [
       {
@@ -3640,26 +3640,26 @@
     "options": [
       {
         "id": "A",
-        "text": "$4:$ $5"
+        "text": "\\$4: 5"
       },
       {
         "id": "B",
-        "text": "$5:$ $4"
+        "text": "\\$5: 4"
       },
       {
         "id": "C",
-        "text": "$6:$ $1"
+        "text": "\\$6: 1"
       },
       {
         "id": "D",
-        "text": "$1:$ $6"
+        "text": "\\$1: 6"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Using the values shown in the given pie chart, the required ratio is$4: 5$.",
-    "question_image": "q72.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -3710,7 +3710,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "From the values represented in the pie chart, Rice and Tea together are exactly double the Wheat production. Hence the increase is 100%.",
-    "question_image": "q72.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -3760,8 +3760,8 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Wheat represents $30\\%$ of the total production. Therefore, the central angle $is\\frac{30}{100}\\times$ $360=108^\\circ$.",
-    "question_image": "q72.png",
+    "explanation": "Wheat represents $30\\%$ of the total production. Therefore, the central angle $is\\frac{30}{100}\\times 360=108^\\circ$.",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -3811,8 +3811,8 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Rice accounts for $55\\%$ of the total production shown in the pie chart. Therefore, Rice production $=0.55\\times$ $500000=275000$ kg.",
-    "question_image": "q72.png",
+    "explanation": "Rice accounts for $55\\%$ of the total production shown in the pie chart. Therefore, Rice production $=0.55\\times 500000=275000$ kg.",
+    "question_image": "",
     "option_images": [
       "",
       "",

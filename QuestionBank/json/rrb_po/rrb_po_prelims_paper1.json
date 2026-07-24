@@ -47,7 +47,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -100,7 +99,6 @@
     "explanation": "$Decoding: os = wishes, sk = Path. Thus 'os sk' = 'Wishes Path'$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -159,7 +157,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -212,7 +209,6 @@
     "explanation": "$Decoding: aim = ed, strong = kv or ts. Thus the code for 'strong aim' is either 'kv ed' or 'ts ed'$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -271,7 +267,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -299,19 +294,23 @@
     "options": [
       {
         "id": "A",
-        "text": "9"
+        "text": "9",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_A.png"
       },
       {
         "id": "B",
-        "text": "5"
+        "text": "5",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_B.png"
       },
       {
         "id": "C",
-        "text": "7"
+        "text": "7",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_C.png"
       },
       {
         "id": "D",
-        "text": "11"
+        "text": "11",
+        "image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_D.png"
       },
       {
         "id": "E",
@@ -324,10 +323,10 @@
     "explanation": "Circular layout clockwise: A(1), I(2), H(3), G(4), D(5), F(6), E(7), B(8), C(9). F sits third to the left of H.",
     "question_image": "",
     "option_images": [
-      "",
-      "",
-      "",
-      "",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_A.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_B.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_C.png",
+      "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_6_opt_D.png",
       ""
     ],
     "status": "ok",
@@ -380,7 +379,6 @@
     "explanation": "In all pairs (BF, DH, IC, GI), there is exactly one person sitting between them in the circle. In AE, there are two persons between them.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -439,7 +437,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -490,9 +487,8 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Left of F is clockwise. Going clockwise from F(6) to A(1) gives E(7), B(8), C(9) (three persons).",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-20-June-2026-Shift-3-exam/Q_9_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -551,7 +547,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -604,7 +599,6 @@
     "explanation": "I: Since there is no negative relation between good and manual, All good being manual is a possibility (True). II: gadget and manual can overlap, so 'No gadget is manual' is false. Only I follows.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -663,7 +657,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -719,7 +712,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -770,9 +762,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Since floors and garden are not directly related, they can either completely overlap ('All floors are garden') or not overlap ('Some floors are not garden'). This forms a complementary pair. Either I or II follows.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-16-June-2026-Shift-1-exam/Q_14_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -831,7 +822,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -884,7 +874,6 @@
     "explanation": "G is the brother of H. S is married to G, so S is G's wife (female). S is H's sisterinlaw.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -943,7 +932,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -994,9 +982,8 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Conversion: E(1)>D, R(2)>S, U(3)>T, P(4)>Q, T(5)>U, I(6)>J, O(7)>N, N(8)>O. New string is DSTQUJNO. No letters are repeated.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-20-June-2026-Shift-3-exam/Q_18_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1055,7 +1042,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1108,7 +1094,6 @@
     "explanation": "A gives the exam of Urdu on Friday.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1167,7 +1152,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1220,7 +1204,6 @@
     "explanation": "C gives the exam of Physics on Sunday.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1279,7 +1262,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1332,7 +1314,6 @@
     "explanation": "$Sorted ascending: 123456789. Second from left = 2. Third from right = 7. Product = 2 × 7 = 14$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1391,7 +1372,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1444,7 +1424,6 @@
     "explanation": "Weight order (heaviest to lightest): B ->- D ->- C ->- E (13 kg) ->- A ->- F. The third lightest is E.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1503,7 +1482,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1556,7 +1534,6 @@
     "explanation": "D is immediately heavier than C.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1615,7 +1592,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1668,7 +1644,6 @@
     "explanation": "A, E, G, D face North, while H faces South. Hence H is the odd one.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1727,7 +1702,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1780,7 +1754,6 @@
     "explanation": "I is false (G faces North). II is false (C is neighbor of both A and E). III is true: F(pos 4, North) has H(pos 5) on right. H(pos 5, South) has F(pos 4) on right. Thus, F and H sit immediate right of each other.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1839,7 +1812,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -1892,7 +1864,6 @@
     "explanation": "There are 6 such pairs: (M, I), (M, E), (G, I), (I, E), (T, U), and (D, E) (which is More than four).",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -1951,7 +1922,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2004,7 +1974,6 @@
     "explanation": "Age Timeline: \n 1957: W (68)\n 1963: U (62)\n 1970: R (55)\n 1976: Q (49)\n 1985: S (40)\n 1991: V (34)\n 2000: P (25)\n 2010: T (15)\nS was born in 1985.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2063,7 +2032,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2116,7 +2084,6 @@
     "explanation": "$Q's age = 49 years. T's age = 15 years. Difference = 49 × 15 = 34 years$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2175,7 +2142,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2231,7 +2197,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -2282,9 +2247,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Total employees in A = 25 females + 35 males = 60. Total employees in E = 65 females + 45 males = 110. Difference = 110 - 60 = 50$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2338,9 +2302,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Males in D = 30. Males in B = 48. Average = (30 + 48) ÷ 2 = 39$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2394,9 +2357,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Total D = 100. Promoted = 40, nonpromoted = 60. Females promoted = 25. Total females = 70. Females nonpromoted = 70 × 25 = 45. Percentage = \\frac{25}{45} 100 = 55.55\\%$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2450,9 +2412,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Total in A = 60. Males in B+D = 48 + 30 = 78. Ratio = 60:78 = 10:13$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2506,9 +2467,8 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "$Total Males = 35 + 48 + 48 + 30 + 45 = 206. Total Females = 25 + 64 + 88 + 70 + 65 = 312. Difference = 312 × 206 = 106$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2562,9 +2522,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Total C = 136. Interns = 68. Female interns = 25 ⇒ Male interns = 43. Total males in C = 48. Permanent male employees = 48 × 43 = 5$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q41-46.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2618,9 +2577,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Average = (100 + 200 + 300) ÷ 3 = 200$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2674,9 +2632,8 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$A = 100 + 225 = 325. B+C Dashboards = 200 + 175 = 375. Ratio = 325:375 = 13:15$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2730,9 +2687,8 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$Total cupboards = 400. Dashboards in A+B = 225 + 200 = 425. Difference = 25$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2786,9 +2742,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Unsold A cupboard = 80. Unsold B dashboard = 155. Sum = 80 + 155 = 235$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2842,9 +2797,8 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "$Nondefective C = \\frac{2}{5} 125 = 50. Dashboard B = 200. Percent less = (200 50)/200 × 100 = 75\\%$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2898,9 +2852,8 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Cupboard B = 75. Dashboard D = 125. Percentage = 75 ÷ 125 × 100 = 60\\%$.",
-    "question_image": "",
+    "question_image": "rrb_po_prelims_paper1_q47-52.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -2959,7 +2912,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3012,7 +2964,6 @@
     "explanation": "$Let Income = 210 x. Food = 70 x. Remaining = 140 x. Transport = 20 x. Sum = 90 x = 9000 ⇒ x = 100. Income = Rs 21,000$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3071,7 +3022,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3124,7 +3074,6 @@
     "explanation": "$Let CP = 100 x. MP = 180 x. SP 1 (30\\% disc) = 126 x. SP 2 (20\\% disc) = 144 x. SP diff = 18 x = 108 ⇒ x = 6. CP = Rs 600$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3183,7 +3132,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3236,7 +3184,6 @@
     "explanation": "$SI = X 0.24 × 3 = 0.72 X = 3600 ⇒ X = 5000. CI Amount = 5000 1.1^2- = Rs 6050$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3295,7 +3242,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3348,7 +3294,6 @@
     "explanation": "$Efficiencies: B = 100, A = 125, C = 150. Total work = (375) 12 = 4500. Days for B = 4500 ÷ 100 = 45 days$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3407,7 +3352,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3460,7 +3404,6 @@
     "explanation": "$40/(x 2) = 60/(x+2) ⇒ 2 x+4 = 3 x 6 ⇒ x=10. Downstream speed = 10 + 2 = 12 km/h$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3519,7 +3462,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3572,7 +3514,6 @@
     "explanation": "$Speed A = 38 m/s. Relative speed = 38 × 26 = 12 m/s. (570 + L_B)/12 = 72 ⇒ L_B = 864 × 570 = 294 meters$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3631,7 +3572,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3684,7 +3624,6 @@
     "explanation": "Pattern: -*1, *2, *3, *4, *5, *6. Thus the series should start with 17.5 instead of 8. 8 is wrong.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3743,7 +3682,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3796,7 +3734,6 @@
     "explanation": "$Pattern: -*0.5+1, *1+1, *1.5+1, *2+1, *2.5+1, *3+1. 45 2.5 + 1 = 113.5. Thus 113 is wrong$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -3855,7 +3792,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3911,7 +3847,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -3962,9 +3897,8 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$I: x = 1, \\frac{4}{3}. II: y = -\\frac{13}{3}, 1. Comparing values: x -≥- y$.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S2eng.-exam/Q_71_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4023,7 +3957,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4076,7 +4009,6 @@
     "explanation": "$I: x = 2, 8. II: y = 1, \\frac{4}{3}. Since both values \\text{ of } x are less than both values \\text{ of } y, x -<- y$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4135,7 +4067,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4188,7 +4119,6 @@
     "explanation": "$I: x = 27, 4. II: y = 7, 14. Since x -<- y, x -<- y$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4247,7 +4177,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4303,7 +4232,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4354,9 +4282,8 @@
     "correct_answer": "E",
     "correct_letter": "E",
     "explanation": "$Approximate calculation: (310 90)/31 + 59 = 900 + 59 = 959 -≈- 961 = 31^2-. Thus, ?- = 31$.",
-    "question_image": "",
+    "question_image": "rrb_cbt_1/RRB-NTPC-UG-Question-Paper-7-May-2026-S1eng.-exam/Q_78_diagram.png",
     "option_images": [
-      "",
       "",
       "",
       "",
@@ -4415,7 +4342,6 @@
       "",
       "",
       "",
-      "",
       ""
     ],
     "status": "ok",
@@ -4468,7 +4394,6 @@
     "explanation": "$Approximate calculation: 26 15 + 19 = -\\sqrt{?} ⇒ 30 = -\\sqrt{?} ⇒ ? = 900$.",
     "question_image": "",
     "option_images": [
-      "",
       "",
       "",
       "",

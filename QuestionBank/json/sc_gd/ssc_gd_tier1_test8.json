@@ -371,8 +371,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times' and '\\div$' are interchanged?\n$25 + 63 × 9-8 ÷ 5 = ?$",
-    "q": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '×' and '÷' are interchanged?\n$25 + 63 × 9-8 ÷ 5 = ?$",
+    "question": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times' and '\\div' are interchanged?\n$25 + 63 $\\times$ 9-8 $\\div$ 5 = ?",
+    "q": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times$' and '\\div$' are interchanged?\n$25 + 63 × 9-8 ÷ 5 = ?",
     "options": [
       {
         "id": "A",
@@ -784,19 +784,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Three concentric circles"
+        "text": "Three concentric circles",
+        "image": "ssc_gd_cbt_paper8_q16_a.png"
       },
       {
         "id": "B",
-        "text": "Two intersecting circles and one separate"
+        "text": "Two intersecting circles and one separate",
+        "image": "ssc_gd_cbt_paper8_q16_b.png"
       },
       {
         "id": "C",
-        "text": "Three overlapping circles"
+        "text": "Three overlapping circles",
+        "image": "ssc_gd_cbt_paper8_q16_c.png"
       },
       {
         "id": "D",
-        "text": "Three separate disjoint circles"
+        "text": "Three separate disjoint circles",
+        "image": "ssc_gd_cbt_paper8_q16_d.png"
       }
     ],
     "correct_option": "D",
@@ -805,10 +809,10 @@
     "explanation": "Cubes (3 D shape), Squares (2 D polygon), and Spheres (3 D curved shape) are three distinct geometric categories with no overlap.",
     "question_image": "",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper8_q16_a.png",
+      "ssc_gd_cbt_paper8_q16_b.png",
+      "ssc_gd_cbt_paper8_q16_c.png",
+      "ssc_gd_cbt_paper8_q16_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
