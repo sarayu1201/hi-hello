@@ -1363,7 +1363,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Each letter in the sequence increases $by+2$ $positions: *L$ $\\xrightarrow{+2}$ N $\\xrightarrow{+2}$ P $\\xrightarrow{+2}$ $R*T$ $\\xrightarrow{+2}$ V $\\xrightarrow{+2}$ X $\\xrightarrow{+2}$ $Z*N$ $\\xrightarrow{+2}$ P $\\xrightarrow{+2}$ R $\\xrightarrow{+2}$ $T*$ Similarly,F $\\xrightarrow{+2}$ H $\\xrightarrow{+2}$ J $\\xrightarrow{+2}$ L.",
+    "explanation": "Each letter in the sequence increases $by+2 positions: *L \\xrightarrow{+2}$ N $\\xrightarrow{+2}$ P $\\xrightarrow{+2} R*T \\xrightarrow{+2}$ V $\\xrightarrow{+2}$ X $\\xrightarrow{+2} Z*N \\xrightarrow{+2}$ P $\\xrightarrow{+2}$ R $\\xrightarrow{+2} T*$ Similarly,F $\\xrightarrow{+2}$ H $\\xrightarrow{+2}$ J $\\xrightarrow{+2}$ L.",
     "question_image": "",
     "option_images": [
       "",
@@ -1498,7 +1498,7 @@
     "options": [
       {
         "id": "A",
-        "text": "ac DD"
+        "text": "a c DD"
       },
       {
         "id": "B",
@@ -1516,7 +1516,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "In the groups `ac DD`, `eg HH`, and `ik LL`, the first two letters are lowercase and the last two are uppercase. This pattern is not followed in `QST t`.",
+    "explanation": "In the groups `a c DD`, `eg HH`, and `ik LL`, the first two letters are lowercase and the last two are uppercase. This pattern is not followed in `QST t`.",
     "question_image": "",
     "option_images": [
       "",
@@ -1549,19 +1549,19 @@
     "options": [
       {
         "id": "A",
-        "text": "65$ $-$ $90"
+        "text": "65$ - $90"
       },
       {
         "id": "B",
-        "text": "73$ $-$ $97"
+        "text": "73$ - $97"
       },
       {
         "id": "C",
-        "text": "112$ $-$ $137"
+        "text": "112$ - $137"
       },
       {
         "id": "D",
-        "text": "162$ $-$ $187"
+        "text": "162$ - $187"
       }
     ],
     "correct_option": "B",
@@ -1595,8 +1595,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "Arrange the following words in alphabetical order as they appear in the dictionary: a. Guarantee b. Group c. Grotesque d. Guard e. Groan",
-    "q": "Arrange the following words in alphabetical order as they appear in the dictionary:\n\na. Guarantee\nb. Group\nc. Grotesque\nd. Guard\ne. Groan",
+    "question": "Arrange the following words in alphabetical order as the y appear in the dictionary: a. Guarantee b. Group c. Grotesque d. Guard e. Groan",
+    "q": "Arrange the following words in alphabetical order as the y appear in the dictionary: a. Guarantee b. Group c. Grotesque d. Guard e. Groan",
     "options": [
       {
         "id": "A",
@@ -1720,7 +1720,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The series decreases by consecutive decreasing integers starting $from-8: *219$ $-$ $8$ $=$ $211*211$ $-$ $7$ $=$ $204*204$ $-$ $6$ $=$ $198*198$ $-$ $5$ $=$ $193*193$ $-$ $4$ $=$ $189$",
+    "explanation": "The series decreases by consecutive decreasing integers starting $from-8: *219 - 8 = 211*211 - 7 = 204*204 - 6 = 198*198 - 5 = 193*193 - 4 = 189$",
     "question_image": "",
     "option_images": [
       "",
@@ -1822,7 +1822,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let the ages of the $4$ children $bex,x+4,x+8,$ $andx+12$ years. Sum of $ages:x$ $+$ $(x+4)$ $+$ $(x+8)$ $+$ $(x+12)$ $=$ $604$ $x$ $+$ $24$ $=$ $604$ $x$ $=$ $36$ $x$ $=$ $9$ Therefore, the age of the youngest child is $9$ years.",
+    "explanation": "Let the ages of the $4$ children $be x,x+4,x+8$, and $x+12$ years. Sum of $ages:x + (x+4) + (x+8) + (x+12) = 604 x + 24 = 604 x = 36 x = 9$ Therefore, the age of the youngest child is $9$ years.",
     "question_image": "",
     "option_images": [
       "",
@@ -1924,7 +1924,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The pattern shift advances each letter $by+1$ position and then reverses the $result: *C$ $\\xrightarrow{+1}$ D,A $\\xrightarrow{+1}$ B,M $\\xrightarrow{+1}$ N,E $\\xrightarrow{+1}$ F,L $\\xrightarrow{+1}$ M. Reversing `DBNFM` gives $`MFNBD`. *$ Similarly,T $\\xrightarrow{+1}$ U,I $\\xrightarrow{+1}$ J,G $\\xrightarrow{+1}$ H,E $\\xrightarrow{+1}$ F,R $\\xrightarrow{+1}$ S. Reversing `UJHFS` gives `SFHJU`.",
+    "explanation": "The pattern shift advances each letter $by+1$ position and then reverses the $result: *C \\xrightarrow{+1}$ D,A $\\xrightarrow{+1}$ B,M $\\xrightarrow{+1}$ N,E $\\xrightarrow{+1}$ F,L $\\xrightarrow{+1}$ M. Reversing `DBNFM` gives $`MFNBD`. *$ Similarly,T $\\xrightarrow{+1}$ U,I $\\xrightarrow{+1}$ J,G $\\xrightarrow{+1}$ H,E $\\xrightarrow{+1}$ F,R $\\xrightarrow{+1}$ S. Reversing `UJHFS` gives `SFHJU`.",
     "question_image": "",
     "option_images": [
       "",
@@ -1952,8 +1952,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "Iftimesstands $for-,+meanstimes,divmeans+and-meansdiv,$ then what is the value of the given expression?175 $-$ $25$ div $5$ $+$ $2$ times $3$ $+$ $10$ $=$ ?",
-    "q": "$Iftimesstands for-,+meanstimes,divmeans+and-meansdiv, then what is the value of the given expression?175 - 25div5 + 2times3 + 10 = ?$",
+    "question": "Iftimesstands $for-,+meanstimes,divmeans+and-meansdiv$, then what is the value of the given expression?175 - $25$ div $5 + 2$ times $3 + 10 =$ ?",
+    "q": "Iftimesstands $for-,+meanstimes,divmeans+and-meansdiv$, then what is the value of the given expression?175 - $25$ div $5 + 2$ times $3 + 10 =$ ?",
     "options": [
       {
         "id": "A",
@@ -1975,7 +1975,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Substituting the signs according to the $instructions:$ $175$ $\\div$ $25$ $+$ $5$ times $2$ $-$ $3$ times $10=7$ $+$ $10$ $-$ $30=17$ $-$ $30=$ $-13$.",
+    "explanation": "Substituting the signs according to the $instructions$: $175 \\div 25 + 5$ times $2 - 3$ times $10=7 + 10 - 30=17 - 30= -13$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2003,8 +2003,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If $4$ $*$ $2$ $=$ $3$ and $8$ $*$ $4$ $=$ 3, then what is the value of $21$ $*$ $7$ $=$ ?",
-    "q": "$If4 * 2 = 3and8 * 4 = 3, then what is the value of21 * 7 = ?$",
+    "question": "If $4 * 2 = 3$ and $8 * 4 =$ 3, then what is the value of $21 * 7 =$ ?",
+    "q": "If $4 * 2 = 3$ and $8 * 4 =$ 3, then what is the value of $21 * 7 =$ ?",
     "options": [
       {
         "id": "A",
@@ -2026,7 +2026,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "The pattern is A $*$ B $=$ $\\frac{A$ $+$ $B}{B}: *4$ $*$ $2=$ $\\frac{4$ $+$ $2}{2}=$ $\\frac{6}{2}$ $=$ $3*8$ $*$ $4=$ $\\frac{8$ $+$ 4}{4} $=$ $\\frac{12}{4}$ $=$ $3*$ Similarly,21 $*$ $7=$ $\\frac{21$ $+$ $7}{7}=$ $\\frac{28}{7}$ $=$ $4$.",
+    "explanation": "The pattern is A $*$ B = $\\frac{A + B}{B}: *4 * 2= \\frac{4 + 2}{2}= \\frac{6}{2} = 3*8 * 4= \\frac{8 +$ 4}{4} $= \\frac{12}{4} = 3*$ Similarly,21 $* 7= \\frac{21 + 7}{7}= \\frac{28}{7} = 4$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2128,7 +2128,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Starting from the origin$(0,0): 1. Walking 5 km South reaches(0, -5). 2. Turning right (facing West) and walking 3 km reaches(-3, -5). 3. Turning left (facing South) and walking 5 km reaches(-3, -10). $Compared to(0,0), the point(-3, -10)lies in the South-West direction$.$",
+    "explanation": "Starting from the origin$(0,0): 1. Walking 5 km South reaches(0, -5). 2. Turning right (facing West) and walking 3 km reaches(-3, -5). 3. Turning left (facing South) and walking 5 km reaches(-3, -10). $Compared to(0,0), the point(-3, -10)lies in the South-West direction.",
     "question_image": "",
     "option_images": [
       "",
@@ -2179,7 +2179,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The statements indicate that stress and strains have an adverse effect on life. This does not mean that life is not worth living, so Conclusion I does not follow. However, since they have a negative effect, it follows that one should avoid them, so Conclusion II follows.",
+    "explanation": "The statements indicate that stress and strains have an adverse effect on life. This does not mean that life is not worth living, so Conclusion I does not follow. However, since the y have a negative effect, it follows that one should avoid them, so Conclusion II follows.",
     "question_image": "",
     "option_images": [
       "",
@@ -2587,7 +2587,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The square root of 18265 is$\\sqrt{18265} \\approx 135.14. $The closest lower perfect square is: 135^2 = 18225 Therefore, the least number to be subtracted is:$18265 - 18225 = 40$.",
+    "explanation": "The square root of 18265 is$\\sqrt{18265} \\approx 135.14. $The closest lower perfect square is: 135^2 = 18225 Therefore, the least number to be subtracted $ is: 18265 - 18225 = 40$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2638,7 +2638,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let the total work be the L CM of 36, 24, and 18, which is 72 units. Efficiencies: $* A + B efficiency= \\frac{72}{36} = 2 units/day$ * B + C efficiency= $\\frac{72}{24}$ = 3 units/day * A + C efficiency= $\\frac{72}{18}$ = 4 units/day $Adding these together: 2(A + B + C) =2 + 3 + 4 = 9 A + B + C= \\frac{9}{2} = 4.5 text{ units/day}Time taken by all three working together:text{Time}= \\frac{72}{4.5} = 16 text{ days}$.",
+    "explanation": "Let the total work be the L CM of 36, 24, and 18, which is 72 units. Efficiencies: $* A + B efficiency= \\frac{72}{36} = 2 units/day$ * B + C efficiency= $\\frac{72}{24}$ = 3 units/day * A + C efficiency= $\\frac{72}{18}$ = 4 units/day $Adding these together: 2(A + B + C) =2 + 3 + 4 = 9 A + B + C= \\frac{9}{2} = 4.5 \\text{ units/day}Time taken by all three working together:\\text{Time}= \\frac{72}{4.5} = 16 \\text{ days}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2689,7 +2689,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "A diagonal divides a parallelogram into two triangles of equal area. $For a triangle with sidesa = 29\\text{ cm},b = 21\\text{ cm}, andc = 20\\text{ cm}: * Semi-perimeters = \\frac{a+b+c}{2} = \\frac{29+21+20}{2} = 35\\text{ cm}Using Heron's Formula:text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}= \\sqrt{35 \\times(35-29)times(35-21)times(35-20)}= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2 Therefore, the area of the parallelogram is:text{Area} = 2 \\times 210 = 420\\text{ cm}^2.*(Note: Since 20^2 + 21^2 =400 + 441 = 841 = 29^2, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simplytext{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2.)*$",
+    "explanation": "A diagonal divides a parallelogram into two triangles of equal area. $For a triangle with sidesa = 29\\text{ cm},b = 21\\text{ cm}, and c = 20\\text{ cm}: * Semi-perimeters = \\frac{a+b+c}{2} = \\frac{29+21+20}{2} = 35\\text{ cm}Using Heron's Formula:\\text{Area of one triangle} = \\sqrt{s(s-a)(s-b)(s-c)}= \\sqrt{35 \\times(35-29)times(35-21)times(35-20)}= \\sqrt{35 \\times 6 \\times 14 \\times 15} = \\sqrt{44100} = 210\\text{ cm}^2 Therefore, the area of the parallelogram is:\\text{Area} = 2 \\times 210 = 420\\text{ cm}^2.*(Note: Since 20^2 + 21^2 =400 + 441 = 841 = 29^2, the adjacent sides form a right angle, making the parallelogram a rectangle. Its area is simply\\text{base} \\times \\text{height} = 21 \\times 20 = 420\\text{ cm}^2.)*$",
     "question_image": "",
     "option_images": [
       "",
@@ -2740,7 +2740,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let the cost price (CP) be$100 x. * Marked Price (MP)= 120 x(20\\% markup) * Selling Price (SP)= 108 x(8\\% profit) Discount amount= 120 x - 108 x = 12 x. $Discount percentage is:text{Discount \\%} = $\\frac{12 x}{120 x} \\times 100 = 10\\%.$",
+    "explanation": "Let the cost price (CP) be$100 x. * Marked Price (MP)= 120 x(20\\% markup) * Selling Price (SP)= 108 x(8\\% profit) Discount amount= 120 x - 108 x = 12 x. $Discount percentage is:\\text{Discount \\%} = $\\frac{12 x}{120 x} \\times 100 = 10\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2773,25 +2773,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$1:$ $2"
+        "text": "$1$: $2"
       },
       {
         "id": "B",
-        "text": "$2:$ $1"
+        "text": "$2$: $1"
       },
       {
         "id": "C",
-        "text": "$3:$ $1"
+        "text": "$3$: $1"
       },
       {
         "id": "D",
-        "text": "$1:$ $3"
+        "text": "$1$: $3"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let the two numbers bexandy.x $+$ $y$ $=$ 3(x $-$ y)x $+$ $y$ $=$ $3$ $x$ $-$ $3$ $y$ $2$ $x$ $=$ $4$ $y\\frac{x}{y}$ $=$ $\\frac{4}{2}$ $=$ $\\frac{2}{1}Hence,$ the ratio of the numbers is $2:$ $1$.",
+    "explanation": "Let the two numbers be $x$ and $y$. Given $x + y = 3(x - y) \\implies x + y = 3x - 3y \\implies 2x = 4y \\implies \\frac{x}{y} = \\frac{4}{2} = \\frac{2}{1}$. Hence, the ratio of the numbers is $2 : 1$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2842,7 +2842,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Sum of ages of $36$ $students=$ $36$ $\\times$ $14$ $=$ $504$ years. Let the teacher's age bexyears. The new group size is $37$ and the new average is $14$ $+$ $1$ $=$ $15$ $years.\\frac{504$ $+$ x}{37} $=$ $15504$ $+$ $x$ $=$ $555$ $x$ $=555$ $-$ $504$ $=$ $51$ text{ years}.",
+    "explanation": "Sum of ages of $36 students= 36 \\times 14 = 504$ years. Let the teacher's age bexyears. The new group size is $37$ and the new average is $14 + 1 = 15 years.\\frac{504 +$ x}{37} = $15504 + x = 555 x =555 - 504 = 51$ \\text{ years}.",
     "question_image": "",
     "option_images": [
       "",
@@ -2893,7 +2893,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The dealer gives$875\\text{ g}$instead of$1000\\text{ g}. Profit on cost weight:text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100= \\frac{1000 - 875}{875} \\times 100= \\frac{125}{875} \\times 100= \\frac{1}{7} \\times 100 = 14\\frac{2}{7}\\%$.",
+    "explanation": "The dealer gives$875\\text{ g}$instead $ of 1000\\text{ g}. Profit on cost weight:\\text{Profit \\%} = \\frac{\\text{Error}}{\\text{True Weight} - \\text{Error}} \\times 100= \\frac{1000 - 875}{875} \\times 100= \\frac{125}{875} \\times 100= \\frac{1}{7} \\times 100 = 14\\frac{2}{7}\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2944,7 +2944,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let B's salary be 100. $* A's salary= 150(50\\% more than B)$ B's salary is less than A's by:$\\frac{150 - 100}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%.$",
+    "explanation": "Let B's salary be 100. $* A's salary= 150(50\\% more than B)$ B's salary is less than A's by$:\\frac{150 - 100}{150} \\times 100 = \\frac{50}{150} \\times 100 = \\frac{100}{3} = 33\\frac{1}{3}\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3046,7 +3046,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $* Principal P = \\text{Rs. } 1* Time T = 1\\text{ month} = \\frac{1}{12}\\text{ year}* Simple Interest SI = 1\\text{ paisa} = \\text{Rs. } 0.01 = \\text{Rs. } \\frac{1}{100}Using the Simple Interest formula:SI = \\frac{P \\times R \\times T}{100}\\frac{1}{100} = \\frac{1 \\times R \\times \\frac{1}{12}}{100}1 = R \\times \\frac{1}{12}R = 12\\%$.",
+    "explanation": "Given:\n- Principal $P = \\text{Rs. } 1$\n- Time $T = 1\\text{ month} = \\frac{1}{12}\\text{ year}$\n- Simple Interest $SI = 1\\text{ paisa} = \\text{Rs. } 0.01 = \\text{Rs. } \\frac{1}{100}$\n\nUsing the Simple Interest formula:\n$$SI = \\frac{P \\times R \\times T}{100}$$\n$$\\frac{1}{100} = \\frac{1 \\times R \\times \\frac{1}{12}}{100}$$\n$$1 = R \\times \\frac{1}{12} \\implies R = 12\\%.$$",
     "question_image": "",
     "option_images": [
       "",
@@ -3074,8 +3074,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If\\frac{a}{b}$ $+$ $\\frac{b}{a}$ $=$ 1, then the value $ofa^3$ $+$ $b^3$ will $be:$",
-    "q": "$Iffrac{a}{b} + \\frac{b}{a} = 1, then the value ofa^3 + b^3will be:$",
+    "question": "If $\\frac{a}{b} + \\frac{b}{a} =$ 1, then the value of $a^3 + b^3$ will be :",
+    "q": "If $\\frac{a}{b} + \\frac{b}{a} =$ 1, then the value of $a^3 + b^3$ will be :",
     "options": [
       {
         "id": "A",
@@ -3097,7 +3097,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Given:$\\frac{a}{b} + \\frac{b}{a} = 1 \\frac{a^2 + b^2}{ab} = 1 \\implies a^2 + b^2 = ab \\implies a^2 + b^2 - ab = 0 We know the algebraic identity:a^3 + b^3 = (a + b)(a^2 - ab + b^2)Substitutinga^2 - ab + b^2 = 0:a^3 + b^3 = (a + b) \\times 0 = 0$.",
+    "explanation": "Given:$\\frac{a}{b} + \\frac{b}{a} = 1 \\frac{a^2 + b^2}{a b} = 1 \\implies a^2 + b^2 = a b \\implies a^2 + b^2 - a b = 0 We know the algebraic identity:a^3 + b^3 = (a + b)(a^2 - a b + b^2)Substitutinga^2 - a b + b^2 = 0:a^3 + b^3 = (a + b) \\times 0 = 0$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3125,8 +3125,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Ifp $=$ 99, then the value $ofp(p^2$ $+$ $3$ $p$ $+$ 3)will $be:$",
-    "q": "$Ifp = 99, then the value ofp(p^2 + 3p + 3)will be:$",
+    "question": "Ifp $=$ 99, then the value $ofp(p^2 + 3 p +$ 3)will be :",
+    "q": "Ifp $=$ 99, then the value $ofp(p^2 + 3 p +$ 3)will be :",
     "options": [
       {
         "id": "A",
@@ -3148,7 +3148,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let the given expression be E $=$ $p(p^2$ $+$ $3$ $p$ $+$ 3) $=$ $p^3$ $+$ $3$ $p^2$ $+$ $3$ p$. Adding $1$ to the $expression:E$ $+$ $1$ $=$ $p^3$ $+$ $3$ $p^2$ $+$ 3$p $+$ $1$ $=$ $(p $+$ $1)^3$ Givenp $=$ 99, we $have:E$ $+$ $1$ $=(99$ $+$ $1)^3$ $=$ $100^3$ $=$ $1000000$ E $=1000000$ $-$ $1$ $=$ $999999$.",
+    "explanation": "Let the given expression be E $= p(p^2 + 3 p +$ 3) $= p^3 + 3 p^2 + 3$ p$. Adding $1$ to the $expression:E + 1 = p^3 + 3 p^2 +$ 3$p + $1 = (p $+ 1)^3$ Givenp = 99, we $have:E + 1 =(99 + 1)^3 = 100^3 = 1000000$ E $=1000000 - 1 = 999999$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3176,8 +3176,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Ifa $-$ $b$ $=$ $1$ $anda^3$ $-$ $b^3$ $=$ 61, then the value ofabwill $be:$",
-    "q": "$Ifa - b = 1anda^3 - b^3 = 61, then the value ofabwill be:$",
+    "question": "If a $- b = 1$ and $a^3 - b^3 =$ 61, then the value ofabwill be :",
+    "q": "If a $- b = 1$ and $a^3 - b^3 =$ 61, then the value ofabwill be :",
     "options": [
       {
         "id": "A",
@@ -3199,7 +3199,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "We know the algebraic $identity:a^3$ $-$ $b^3$ $=$ (a $-$ $b)^3$ $+$ $3$ ab(a $-$ b)Substituting the given $values:$ $61$ $=$ $1^3$ $+$ $3$ ab(1)61 $=1$ $+$ $3$ ab $3$ ab $=$ $60$ $\\implies$ ab $=$ $20$.",
+    "explanation": "We know the algebraic $identity:a^3 - b^3 =$ (a $- b)^3 + 3$ a b(a - b)Substituting the given $values$: $61 = 1^3 + 3$ a b(1)61 $=1 + 3$ a b $3$ a b = $60 \\implies$ a b = $20$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3227,8 +3227,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If\\frac{x}{a+b}$ $+$ $1$ $=$ $\\frac{x}{a-b}$ $+$ $\\frac{a-b}{a+b},$ then the value $ofxis:$",
-    "q": "$Iffrac{x}{a+b} + 1 = \\frac{x}{a-b} + \\frac{a-b}{a+b}, then the value ofxis:$",
+    "question": "If $\\frac{x}{a+b} + 1 = \\frac{x}{a-b} + \\frac{a-b}{a+b}$, then the value $ofxis$:",
+    "q": "If $\\frac{x}{a+b} + 1 = \\frac{x}{a-b} + \\frac{a-b}{a+b}$, then the value $ofxis$:",
     "options": [
       {
         "id": "A",
@@ -3250,7 +3250,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Rearranging the $equation:\\frac{x}{a+b}$ $-$ $\\frac{x}{a-b}$ $=$ $\\frac{a-b}{a+b}$ $-$ $1$ $x\\left(\\frac{a-b$ $-$ $(a+b)}{(a+b)(a-b)}\\right)$ $=$ $\\frac{a-b$ $-$ $(a+b)}{a+b}x\\left(\\frac{-2$ $b}{(a+b)(a-b)}\\right)$ $=$ $\\frac{-2$ $b}{a+b}Dividing$ both sides $by\\frac{-2$ $b}{a+b}:\\frac{x}{a-b}$ $=$ $1$ $\\implies$ $x$ $=$ $a$ $-$ $b$.",
+    "explanation": "Rearranging the equation:\n$$\\frac{x}{a+b} - \\frac{x}{a-b} = \\frac{a-b}{a+b} - 1$$\n$$x \\left(\\frac{a-b - (a+b)}{(a+b)(a-b)}\\right) = \\frac{a-b - (a+b)}{a+b}$$\n$$x \\left(\\frac{-2b}{(a+b)(a-b)}\\right) = \\frac{-2b}{a+b}$$\nDividing both sides by $\\frac{-2b}{a+b}$ gives:\n$$\\frac{x}{a-b} = 1 \\implies x = a - b.$$",
     "question_image": "",
     "option_images": [
       "",
@@ -3329,8 +3329,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "ABC is $a$ $right-angled$ triangle in whichangle B $=$ $90^\\circ.$ If BD $\\perp$ AC,AB $=$ 3cmand BC $=$ 4cm, then what is the value of BD(in cm)?",
-    "q": "$ABC is a right-angled triangle in whichangle B = 90^\\circ. IfBD \\perp AC,AB = 3\\text{ cm}andBC = 4\\text{ cm}, then what is the value ofBD(in cm)?$",
+    "question": "ABC is a $right-angled$ triangle in whichangle B = $90^\\circ$. If BD $\\perp$ AC,AB = 3cmand BC $=$ 4cm, then what is the value of BD(in cm)?",
+    "q": "ABC is a $right-angled$ triangle in whichangle B = $90^\\circ$. If BD $\\perp$ AC,AB = 3cmand BC $=$ 4cm, then what is the value of BD(in cm)?",
     "options": [
       {
         "id": "A",
@@ -3352,7 +3352,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Using the Pythagorean theorem In triangle $ABC:AC$ $=$ $\\sqrt{AB^2$ $+$ $BC^2}$ $=$ $\\sqrt{3^2$ $+$ $4^2}$ $=$ $\\sqrt{9$ $+$ 16} $=$ 5cm The area of the triangle can be calculated in two $ways:text{Area}$ $=$ $\\frac{1}{2}$ $\\times$ AB $\\times$ BC $=$ $\\frac{1}{2}$ $\\times$ $3$ $\\times$ $4$ $=$ $6cm^2$ text{Area} $=$ $\\frac{1}{2}$ $\\times$ AC $\\times$ BD $=$ $\\frac{1}{2}$ $\\times$ $5$ $\\times$ BDE quating the two expressions for $area:\\frac{1}{2}$ $\\times$ $5$ $\\times$ BD $=$ $65$ $\\times$ BD $=$ $12$ $\\implies$ BD $=$ 2.4cm.",
+    "explanation": "Using the Pythagorean theorem In triangle $ABC:AC = \\sqrt{AB^2 + BC^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 +$ 16} = 5cm The area of the triangle can be calculated in two $ways:\\text{Area} = \\frac{1}{2} \\times$ AB $\\times$ BC = $\\frac{1}{2} \\times 3 \\times 4 = 6cm^2$ \\text{Area} $= \\frac{1}{2} \\times$ AC $\\times$ BD = $\\frac{1}{2} \\times 5 \\times$ BDE quating the two expressions for $area:\\frac{1}{2} \\times 5 \\times$ BD $= 65 \\times$ BD = $12 \\implies$ BD $=$ 2.4cm.",
     "question_image": "",
     "option_images": [
       "",
@@ -3380,30 +3380,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$triangle ABC$is an equilateral triangle and$D,E$are midpoints of$AB and AC$respectively. Then the ratio of the area of$triangle ABC$to the area of the trapezium$BDEC$is:",
-    "q": "$triangle ABC$is an equilateral triangle and$D$,$E$are midpoints of$AB$and$AC$respectively. Then the ratio of the area of$triangle ABC$to the area of the trapezium$BDEC$is:",
+    "question": "$triangle ABC$is an equilateral triangle $ and D,E$are midpoints $ of AB and AC$respectively. Then the ratio of the area $ of triangle ABC$to the area of the trapezium$BDEC$is:",
+    "q": "$triangle ABC$is an equilateral triangle $ and D,E$are midpoints $ of AB and AC$respectively. Then the ratio of the area $ of triangle ABC$to the area of the trapezium$BDEC$is:",
     "options": [
       {
         "id": "A",
-        "text": "$5:$ $3"
+        "text": "$5$: $3"
       },
       {
         "id": "B",
-        "text": "$4:$ $1"
+        "text": "$4$: $1"
       },
       {
         "id": "C",
-        "text": "$8:$ $5"
+        "text": "$8$: $5"
       },
       {
         "id": "D",
-        "text": "$4:$ $3"
+        "text": "$4$: $3"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Since D and E are midpoints of AB and AC respectively, by midpoint theorem,DE $\\parallel$ BC and DE $=$ $\\frac{1}{2}BC. Thus,triangle$ ADE $\\sim$ $\\triangle$ ABC$with $a$ similarity ratio $of1:$ 2. The ratio of their areas $is:\\frac{\\text{Area}(\\triangle$ $ADE)}{\\text{Area}(\\triangle$ ABC)} $=$ $\\left(\\frac{1}{2}\\right)^2$ $=$ $\\frac{1}{4}If$ the area of triangle ABC is $4$ x, then the area of triangle ADE isx. $The area of $trapezium BDEC is:text{Area}(BDEC)$ $=$ $\\text{Area}(\\triangle$ ABC) $-$ $\\text{Area}(\\triangle$ ADE) $=$ $4$ $x$ $-$ $x$ $=$ $3$ x Reflecting the $ratio:\\frac{\\text{Area}(\\triangle$ $ABC)}{\\text{Area}(BDEC)}$ $=$ $\\frac{4$ x}{3 x} $=$ $\\frac{4}{3}$ $\\implies$ $4:$ 3$.",
+    "explanation": "Since D and E are midpoints of AB and AC respectively, by midpoint theorem, $DE \\parallel BC$ and $DE = \\frac{1}{2}BC$. Thus, $\\triangle ADE \\sim \\triangle ABC$ with a similarity ratio of $1 : 2$. The ratio of their areas is:\n$$\\frac{\\text{Area}(\\triangle ADE)}{\\text{Area}(\\triangle ABC)} = \\left(\\frac{1}{2}\\right)^2 = \\frac{1}{4}$$\nIf the area of $\\triangle ABC$ is $4x$, then the area of $\\triangle ADE$ is $x$. The area of trapezium $BDEC$ is:\n$$\\text{Area}(BDEC) = \\text{Area}(\\triangle ABC) - \\text{Area}(\\triangle ADE) = 4x - x = 3x.$$\nReflecting the ratio:\n$$\\frac{\\text{Area}(\\triangle ABC)}{\\text{Area}(BDEC)} = \\frac{4x}{3x} = \\frac{4}{3} \\implies 4 : 3.$$",
     "question_image": "",
     "option_images": [
       "",
@@ -3431,8 +3431,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "In an isosceles triangle $ABC,AB=AC,$ and XY $\\parallel$ BC. Ifangle A $=$ $30^\\circ,$ thenangle $BXY is:$",
-    "q": "$In an isosceles triangleABC,AB=AC, andXY \\parallel BC. Ifangle A = 30^\\circ, thenangle BXYis:$",
+    "question": "In an isosceles triangle $ABC,AB=AC$, and XY $\\parallel$ BC. Ifangle A = $30^\\circ$, thenangle $BXY $ is:",
+    "q": "In an isosceles triangle $ABC,AB=AC$, and XY $\\parallel$ BC. Ifangle A = $30^\\circ$, thenangle $BXY $ is:",
     "options": [
       {
         "id": "A",
@@ -3454,7 +3454,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "In triangle ABC, since AB $=$ AC, we haveangle B $=$ $\\angle$ C.angle A $+$ $\\angle$ B $+$ $\\angle$ C $=$ $180^\\circ$ $30^\\circ$ $+$ $2\\angle$ B $=$ $180^\\circ$ $\\implies$ $2\\angle$ B $=$ $150^\\circ$ $\\implies$ $\\angle$ B $=$ $75^\\circ Since XY$ $\\parallel$ BC, the consecutive interior angles on the same side of the transversal BX sum to $180^\\circ:angle$ B $+$ $\\angle$ BXY $=$ $180^\\circ$ $75^\\circ$ $+$ $\\angle$ BXY $=$ $180^\\circ$ $\\implies$ $\\angle$ BXY $=$ $105^\\circ$.",
+    "explanation": "In triangle ABC, since AB $=$ AC, we haveangle B = $\\angle$ C.angle A + $\\angle$ B + $\\angle$ C = $180^\\circ 30^\\circ + 2\\angle$ B = $180^\\circ \\implies 2\\angle$ B $= 150^\\circ \\implies \\angle$ B $= 75^\\circ Since XY \\parallel$ BC, the consecutive interior angles on the same side of the transversal BX sum to $180^\\circ:angle$ B + $\\angle$ BXY = $180^\\circ 75^\\circ + \\angle$ BXY = $180^\\circ \\implies \\angle$ BXY $= 105^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3482,8 +3482,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Find the value $ofsec^2$ $17^\\circ$ $-$ $\\frac{1}{\\tan^2$ $73^\\circ}$ $-$ $\\s in$ $17^\\circ$ $\\sec$ $73^\\circ$.",
-    "q": "$Find the value ofsec^2 17^\\circ - \\frac{1}{\\tan^2 73^\\circ} - \\sin 17^\\circ \\sec 73^\\circ$.",
+    "question": "Find the value $ofsec^2 17^\\circ - \\frac{1}{\\tan^2 73^\\circ} - \\s in 17^\\circ \\sec 73^\\circ$.",
+    "q": "Find the value $ofsec^2 17^\\circ - \\frac{1}{\\tan^2 73^\\circ} - \\s in 17^\\circ \\sec 73^\\circ$.",
     "options": [
       {
         "id": "A",
@@ -3505,7 +3505,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "We can simplify the $expression:E$ $=$ $\\sec^2$ $17^\\circ$ $-$ $\\cot^2$ $73^\\circ$ $-$ $\\s in$ $17^\\circ$ $\\sec$ $73^\\circ Sincecot(90^\\circ$ $-$ $\\theta)$ $=$ $\\tan$ $\\theta,$ we havecot $73^\\circ$ $=$ $\\tan$ $17^\\circ. Sincesec$ $73^\\circ$ $=$ $\\csc$ $17^\\circ:E$ $=$ $(\\sec^2$ $17^\\circ$ $-$ $\\tan^2$ $17^\\circ)$ $-$ $\\s in$ $17^\\circ$ $\\csc$ $17^\\circ Using$ the $identitiessec^2$ $\\theta$ $-$ $\\tan^2$ $\\theta$ $=$ $1$ andsin $\\theta$ $\\csc$ $\\theta$ $=$ $1:E$ $=1$ $-$ $1$ $=$ $0$.",
+    "explanation": "We can simplify the $expression:E = \\sec^2 17^\\circ - \\cot^2 73^\\circ - \\s in 17^\\circ \\sec 73^\\circ Sincecot(90^\\circ - \\theta) = \\tan \\theta$, we havecot $73^\\circ = \\tan 17^\\circ. Sincesec 73^\\circ = \\csc 17^\\circ:E = (\\sec^2 17^\\circ - \\tan^2 17^\\circ) - \\s in 17^\\circ \\csc 17^\\circ Using$ the $identitiessec^2 \\theta - \\tan^2 \\theta = 1$ andsin $\\theta \\csc \\theta = 1:E =1 - 1 = 0$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3533,8 +3533,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Ifx $=$ $a$ $\\cos$ $\\theta$ $\\cos$ $\\phi,y$ $=$ $a$ $\\cos$ $\\theta$ $\\s in$ $\\phi,$ andz $=$ $a$ $\\s in$ $\\theta,$ then the value $ofx^2$ $+$ $y^2$ $+$ $z^2$ $is:$",
-    "q": "$Ifx = a \\cos \\theta \\cos \\phi,y = a \\cos \\theta \\sin \\phi, andz = a \\sin \\theta, then the value ofx^2 + y^2 + z^2is:$",
+    "question": "If x $=$ a $\\cos \\theta \\cos \\phi,y =$ a $\\cos \\theta \\s in \\phi$, and z = a $\\s in \\theta$, then the value of $x^2 + y^2 + z^2 $ is:",
+    "q": "If x $=$ a $\\cos \\theta \\cos \\phi,y =$ a $\\cos \\theta \\s in \\phi$, and z = a $\\s in \\theta$, then the value of $x^2 + y^2 + z^2 $ is:",
     "options": [
       {
         "id": "A",
@@ -3556,7 +3556,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Squaring and $addingx^2$ $+$ $y^2:x^2$ $+$ $y^2$ $=$ (a $\\cos$ $\\theta$ $\\cos$ $\\phi)^2$ $+$ (a $\\cos$ $\\theta$ $\\s in$ $\\phi)^2$ $x^2$ $+$ $y^2$ $=$ $a^2$ $\\cos^2$ $\\theta$ $(\\cos^2$ $\\phi$ $+$ $\\s in^2$ $\\phi)Sincecos^2$ $\\phi$ $+$ $\\s in^2$ $\\phi$ $=$ $1:x^2$ $+$ $y^2$ $=$ $a^2$ $\\cos^2$ $\\theta Now,$ $addingz^2:x^2$ $+$ $y^2$ $+$ $z^2$ $=$ $a^2$ $\\cos^2$ $\\theta$ $+$ (a $\\s in$ $\\theta)^2$ $x^2$ $+$ $y^2$ $+$ $z^2$ $=$ $a^2$ $(\\cos^2$ $\\theta$ $+$ $\\s in^2$ $\\theta)$ $=$ $a^2$.",
+    "explanation": "Squaring and $addingx^2 + y^2:x^2 + y^2 =$ (a $\\cos \\theta \\cos \\phi)^2 +$ (a $\\cos \\theta \\s in \\phi)^2 x^2 + y^2 = a^2 \\cos^2 \\theta (\\cos^2 \\phi + \\s in^2 \\phi)Sincecos^2 \\phi + \\s in^2 \\phi = 1:x^2 + y^2 = a^2 \\cos^2 \\theta Now , addingz^2:x^2 + y^2 + z^2 = a^2 \\cos^2 \\theta +$ (a $\\s in \\theta)^2 x^2 + y^2 + z^2 = a^2 (\\cos^2 \\theta + \\s in^2 \\theta) = a^2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3584,8 +3584,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "A 1.6 m tall observer is $45$ meters away from $a$ tower. The angle of elevation from h is eye to the top of the tower is 30\u00b0. The height of the tower in meters $is:$ $(Take\\sqrt{3}$ $=$ 1.732)",
-    "q": "$A 1.6 m tall observer is 45 meters away from a tower. The angle of elevation from his eye to the top of the tower is 30\u00b0. The height of the tower in meters is: (Take\\sqrt{3} = 1.732)$",
+    "question": "A 1.6 m tall observer is $45$ meters away from a tower. The angle of elevation from h is eye to the top of the tower is 30°. The height of the tower in meters is: $(Take \\sqrt{3} =$ 1.732)",
+    "q": "A 1.6 m tall observer is $45$ meters away from a tower. The angle of elevation from h is eye to the top of the tower is 30°. The height of the tower in meters is: $(Take \\sqrt{3} =$ 1.732)",
     "options": [
       {
         "id": "A",
@@ -3607,7 +3607,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Let CE be the observer of height $1.6\\text{$ m}at $a$ distance of DE $=$ $45\\text{$ m}from the tower AD$. By $symmetry: *BC$ $=$ DE $=$ $45\\text{$ $m}*BD$ $=$ CE $=$ $1.6\\text{$ m}In $right-angledtriangle$ $ABC:tan$ $30^\\circ$ $=$ $\\frac{AB}{BC}\\frac{1}{\\sqrt{3}}$ $=$ $\\frac{AB}{45}$ $\\implies$ AB $=$ $\\frac{45}{\\sqrt{3}}$ $=$ $15\\sqrt{3}\\text{$ m}AB $=$ $15$ $\\times$ 1.732 $=$ $25.98\\text{$ m}Total height of the $tower:AD$ $=$ AB $+$ BD $=25.98$ $+$ 1.6 $=$ 27.58 text{ m}.",
+    "explanation": "Let CE be the observer of height $1.6\\text{$ m}at a distance of DE = $45\\text{$ m}from the tower AD$. By $symmetry: *BC =$ DE $= 45\\text{ m}*BD =$ CE $= 1.6\\text{$ m}In $right-angledtriangle ABC:tan 30^\\circ = \\frac{AB}{BC}\\frac{1}{\\sqrt{3}} = \\frac{AB}{45} \\implies$ AB $= \\frac{45}{\\sqrt{3}} = 15\\sqrt{3}\\text{$ m}AB $= 15 \\times$ 1.732 = $25.98\\text{$ m}Total height of the $tower:AD =$ AB + BD $=25.98 +$ 1.6 $=$ 27.58 \\text{ m}.",
     "question_image": "",
     "option_images": [
       "",
@@ -3691,25 +3691,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$11:$ $23"
+        "text": "$11$: $23"
       },
       {
         "id": "B",
-        "text": "$13:$ $11"
+        "text": "$13$: $11"
       },
       {
         "id": "C",
-        "text": "$23:$ $11"
+        "text": "$23$: $11"
       },
       {
         "id": "D",
-        "text": "$11:$ $13"
+        "text": "$11$: $13"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The ratio of the below poverty line population of village 'T' to that of village 'Z' is determined directly by their corresponding $angles/percentages$ in the pie chart, which is $23:$ $11$.",
+    "explanation": "The ratio of the below poverty line population of village 'T' to that of village 'Z' is determined directly by their corresponding $angles/percentages$ in the pie chart, which is $23$: $11$.",
     "question_image": "test7_q72.png",
     "option_images": [
       "",
@@ -4933,7 +4933,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "The passage states: 'That's when they came to know the second-coolest thing about the jamun tree: There were parrots nesting in it.'",
+    "explanation": "The passage states: 'That's when the y came to know the second-coolest thing about the jamun tree: There were parrots nesting in it.'",
     "question_image": "",
     "option_images": [
       "",
@@ -4966,25 +4966,25 @@
     "options": [
       {
         "id": "A",
-        "text": "That they should be captured and sold."
+        "text": "That the y should be captured and sold."
       },
       {
         "id": "B",
-        "text": "That they had been abducted in the night."
+        "text": "That the y had been abducted in the night."
       },
       {
         "id": "C",
-        "text": "That they should not be captured and sold."
+        "text": "That the y should not be captured and sold."
       },
       {
         "id": "D",
-        "text": "That they squawked every morning."
+        "text": "That the y squawked every morning."
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "The passage states: 'Sunil had brought Kalu around to the belief that the birds should be left as they were' (meaning they should not be captured).",
+    "explanation": "The passage states: 'Sunil had brought Kalu around to the belief that the birds should be left as the y were' (meaning the y should not be captured).",
     "question_image": "",
     "option_images": [
       "",
@@ -5012,8 +5012,8 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "SSC Exams",
-    "question": "How did Kalu manage to raid the airline recycling bins before they were emptied?",
-    "q": "How did Kalu manage to raid the airline recycling bins before they were emptied?",
+    "question": "How did Kalu manage to raid the airline recycling bins before the y were emptied?",
+    "q": "How did Kalu manage to raid the airline recycling bins before the y were emptied?",
     "options": [
       {
         "id": "A",

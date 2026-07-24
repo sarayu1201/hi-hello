@@ -386,7 +386,8 @@ def repair_data():
             raw_dir = q.get("direction") or ""
             
         # Compile normalized versions from raw text strictly
-        if q.get("source_file", "").startswith("sbi_clerk_test_"):
+        sf = q.get("source_file", "")
+        if sf.startswith("sbi_clerk_test_") or sf.startswith("sc_cgl_tier1_test"):
             normalized_q = raw_q
             normalized_exp = raw_exp
             normalized_dir = raw_dir

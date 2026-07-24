@@ -763,7 +763,8 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
         # Apply LaTeX conversions and save back to disk
         modified = False
-        if not filename.startswith("sbi_clerk_test_"):
+        is_locked = filename.startswith("sbi_clerk_test_") or filename.startswith("sc_cgl_tier1_test")
+        if not is_locked:
             for q in questions_list:
                 # Check question
                 old_q = q.get("question", "") or ""
@@ -819,7 +820,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                     total_error += 1
                     continue
 
-                if filename.startswith("sbi_clerk_test_"):
+                if is_locked:
                     full_question_text = question_text
                     normalized_direction = direction
                 else:
@@ -834,7 +835,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
                 # Option mapping and content hashing
                 mapped_options = [clean_option_text(opt.get("text", "") or "", opt_idx) for opt_idx, opt in enumerate(options)]
-                if filename.startswith("sbi_clerk_test_"):
+                if is_locked:
                     normalized_options = mapped_options
                 else:
                     normalized_options = [to_latex(opt) for opt in mapped_options]
@@ -861,7 +862,7 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
                 # Format Explanation Images to resolve correctly
                 raw_explanation = q.get("explanation", "") or ""
-                if filename.startswith("sbi_clerk_test_"):
+                if is_locked:
                     explanation = raw_explanation
                 else:
                     explanation = to_latex(raw_explanation)
