@@ -161,6 +161,12 @@ export const cleanLaTeX = (text) => {
     .replace(/\\\[[\s*([{\s]*/g, "$$")
     .replace(/[\s*)[\]}\s]*\\\]/g, "$$");
 
+  // Move currency signs out of math blocks to prevent MathJax font render errors:
+  // e.g. $₹4,307 \frac{9}{13}$ -> ₹$4,307 \frac{9}{13}$
+  fixed = fixed.replace(/\$([₹Rs]+)([\s\S]*?)\$/gi, (match, currency, rest) => {
+    return `${currency}$${rest}$`;
+  });
+
   // 2. Ensure closed dollar block delimiters
   const dollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
   if (dollarCount % 2 !== 0) {
