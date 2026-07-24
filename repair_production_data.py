@@ -386,27 +386,47 @@ def repair_data():
             raw_dir = q.get("direction") or ""
             
         # Compile normalized versions from raw text strictly
-        normalized_q = to_latex(raw_q)
-        normalized_exp = to_latex(raw_exp)
-        normalized_dir = to_latex(raw_dir)
-        
-        normalized_opts = []
-        for opt_idx, opt in enumerate(raw_opts):
-            opt_text = opt
-            is_dict = False
-            opt_id = "A"
-            if isinstance(opt, dict):
-                opt_text = opt.get("text", "")
-                opt_id = opt.get("id", "A")
-                is_dict = True
+        if q.get("source_file", "").startswith("sbi_clerk_test_"):
+            normalized_q = raw_q
+            normalized_exp = raw_exp
+            normalized_dir = raw_dir
+            normalized_opts = []
+            for opt_idx, opt in enumerate(raw_opts):
+                opt_text = opt
+                is_dict = False
+                opt_id = "A"
+                if isinstance(opt, dict):
+                    opt_text = opt.get("text", "")
+                    opt_id = opt.get("id", "A")
+                    is_dict = True
                 
-            cleaned_text = clean_option_text(opt_text, opt_idx)
-            opt_clean = to_latex(cleaned_text)
+                cleaned_text = clean_option_text(opt_text, opt_idx)
+                if is_dict:
+                    normalized_opts.append({"id": opt_id, "text": cleaned_text})
+                else:
+                    normalized_opts.append(cleaned_text)
+        else:
+            normalized_q = to_latex(raw_q)
+            normalized_exp = to_latex(raw_exp)
+            normalized_dir = to_latex(raw_dir)
             
-            if is_dict:
-                normalized_opts.append({"id": opt_id, "text": opt_clean})
-            else:
-                normalized_opts.append(opt_clean)
+            normalized_opts = []
+            for opt_idx, opt in enumerate(raw_opts):
+                opt_text = opt
+                is_dict = False
+                opt_id = "A"
+                if isinstance(opt, dict):
+                    opt_text = opt.get("text", "")
+                    opt_id = opt.get("id", "A")
+                    is_dict = True
+                    
+                cleaned_text = clean_option_text(opt_text, opt_idx)
+                opt_clean = to_latex(cleaned_text)
+                
+                if is_dict:
+                    normalized_opts.append({"id": opt_id, "text": opt_clean})
+                else:
+                    normalized_opts.append(opt_clean)
                 
         bulk_ops.append(
             UpdateOne(

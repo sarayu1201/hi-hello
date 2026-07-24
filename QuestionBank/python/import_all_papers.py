@@ -763,30 +763,31 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
         # Apply LaTeX conversions and save back to disk
         modified = False
-        for q in questions_list:
-            # Check question
-            old_q = q.get("question", "") or ""
-            new_q = to_latex(old_q)
-            if old_q != new_q:
-                q["question"] = new_q
-                modified = True
-                
-            # Check explanation
-            old_exp = q.get("explanation", "") or ""
-            new_exp = to_latex(old_exp)
-            if old_exp != new_exp:
-                q["explanation"] = new_exp
-                modified = True
-                
-            # Check options
-            options = q.get("options", [])
-            for opt in options:
-                if isinstance(opt, dict):
-                    old_text = opt.get("text", "") or ""
-                    new_text = to_latex(old_text)
-                    if old_text != new_text:
-                        opt["text"] = new_text
-                        modified = True
+        if not filename.startswith("sbi_clerk_test_"):
+            for q in questions_list:
+                # Check question
+                old_q = q.get("question", "") or ""
+                new_q = to_latex(old_q)
+                if old_q != new_q:
+                    q["question"] = new_q
+                    modified = True
+                    
+                # Check explanation
+                old_exp = q.get("explanation", "") or ""
+                new_exp = to_latex(old_exp)
+                if old_exp != new_exp:
+                    q["explanation"] = new_exp
+                    modified = True
+                    
+                # Check options
+                options = q.get("options", [])
+                for opt in options:
+                    if isinstance(opt, dict):
+                        old_text = opt.get("text", "") or ""
+                        new_text = to_latex(old_text)
+                        if old_text != new_text:
+                            opt["text"] = new_text
+                            modified = True
 
         if modified:
             try:
@@ -818,8 +819,12 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                     total_error += 1
                     continue
 
-                full_question_text = to_latex(question_text)
-                normalized_direction = to_latex(direction)
+                if filename.startswith("sbi_clerk_test_"):
+                    full_question_text = question_text
+                    normalized_direction = direction
+                else:
+                    full_question_text = to_latex(question_text)
+                    normalized_direction = to_latex(direction)
                 
                 # Uniqueness enhancement: include sub_type (test name) to prevent collision
                 clean_exam = "".join(c for c in str(exam) if c.isalnum()).upper()
@@ -829,7 +834,10 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
                 # Option mapping and content hashing
                 mapped_options = [clean_option_text(opt.get("text", "") or "", opt_idx) for opt_idx, opt in enumerate(options)]
-                normalized_options = [to_latex(opt) for opt in mapped_options]
+                if filename.startswith("sbi_clerk_test_"):
+                    normalized_options = mapped_options
+                else:
+                    normalized_options = [to_latex(opt) for opt in mapped_options]
                 raw_options_str = "".join([str(opt.get("text", "") or "") for opt in options])
                 raw_content = (question_text or "") + raw_options_str
                 content_hash = hashlib.sha256(raw_content.encode("utf-8")).hexdigest()[:16]
@@ -853,7 +861,10 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
 
                 # Format Explanation Images to resolve correctly
                 raw_explanation = q.get("explanation", "") or ""
-                explanation = to_latex(raw_explanation)
+                if filename.startswith("sbi_clerk_test_"):
+                    explanation = raw_explanation
+                else:
+                    explanation = to_latex(raw_explanation)
                 def replace_md_image(match):
                     title = match.group(1)
                     img_path = match.group(2)
