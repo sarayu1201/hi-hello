@@ -9,12 +9,35 @@ export const cleanText = (text) => {
     .replace(/\bIfthe\b/g, "If the")
     .replace(/\bofasphere\b/g, "of a sphere")
     .replace(/\bfindthe\b/gi, "find the")
-    .replace(/\bvalueof\b/gi, "value of")
+    .replace(/\bvalueof\b/gi, "value of ")
     .replace(/\beachof\b/gi, "each of")
     .replace(/\bfitin\b/gi, "fit in")
     .replace(/\bwhatis\b/gi, "what is")
     .replace(/\bquestions?\b/gi, "question")
     .replace(/\bnumberof\b/gi, "number of")
+    .replace(/\boftriangle\b/gi, "of triangle")
+    .replace(/\bABCandtriangle\b/gi, "ABC and triangle")
+    .replace(/\bDEFare\b/gi, "DEF are")
+    .replace(/\bofABis\b/gi, "of AB is")
+    .replace(/\bIfAB\b/gi, "If AB")
+    .replace(/\bangleBis\b/gi, "angle B is")
+    .replace(/\bsideAC\b/gi, "side AC")
+    .replace(/\bsideBC\b/gi, "side BC")
+    .replace(/\bBCandAD\b/gi, "BC and AD")
+    .replace(/\blengthof\b/gi, "length of ")
+    .replace(/\bcentreO\b/gi, "centre O")
+    .replace(/\bmeetsBA\b/gi, "meets BA")
+    .replace(/\bangleATC\b/gi, "angle ATC")
+    .replace(/\bangleACT\b/gi, "angle ACT")
+    .replace(/\bangleAOB\b/gi, "angle AOB")
+    .replace(/\bIf177\b/gi, "If 177")
+    .replace(/\bratio\\frac\b/gi, "ratio \\frac")
+    .replace(/\bbridgeof\b/gi, "bridge of")
+    .replace(/\bspeedof\b/gi, "speed of")
+    .replace(/\btrainof\b/gi, "train of")
+    .replace(/\bproductof\b/gi, "product of")
+    .replace(/\bperimetersof\b/gi, "perimeters of")
+    .replace(/\bareaof\b/gi, "area of")
     // Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm", "sphere56" -> "sphere 56"
     .replace(/([a-zA-Z]+)([0-9]+)/g, "$1 $2")
     .replace(/([0-9]+)([a-zA-Z]+)/g, "$1 $2")
@@ -39,6 +62,24 @@ export const cleanLaTeX = (text) => {
   while (closeBraceCount < openBraceCount) {
     fixed += "}";
     closeBraceCount++;
+  }
+
+  // Detect and fix fake math blocks: if the entire string is wrapped in a single $ ... $ but is actually a sentence.
+  if (fixed.startsWith("$") && fixed.endsWith("$") && (fixed.match(/(?<!\\)\$/g) || []).length === 2) {
+    const inner = fixed.slice(1, -1);
+    if (inner.split(" ").length > 3 && /[a-zA-Z]{3,}/.test(inner)) {
+      // It is a text paragraph! Let's unwrap it.
+      let parts = inner.split(" ");
+      parts = parts.map(part => {
+        if (part.includes("$")) return part;
+        const isMath = /\\|[\^_\=\+\-\*\/<>:]|^\d+$|^\b[a-zA-Z]\b$/.test(part);
+        if (isMath) {
+          return `$${part}$`;
+        }
+        return part;
+      });
+      fixed = parts.join(" ");
+    }
   }
 
   // Ensure closed dollar block delimiters (ignoring escaped ones)

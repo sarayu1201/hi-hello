@@ -7,11 +7,20 @@ def check():
     found = []
     if os.path.exists(frontend_dir):
         for root, dirs, files in os.walk(frontend_dir):
+            # Prune node_modules and .git folders from the search
+            if "node_modules" in dirs:
+                dirs.remove("node_modules")
+            if ".git" in dirs:
+                dirs.remove(".git")
+                
             for f in files:
                 if f.endswith(".jsx") or f.endswith(".js"):
                     filepath = os.path.join(root, f)
                     with open(filepath, "r", encoding="utf-8") as file:
-                        content = file.read()
+                        try:
+                            content = file.read()
+                        except Exception:
+                            continue
                     if "cleanText" in content or "QuestionRenderer" in f:
                         found.append((f, filepath))
                         
