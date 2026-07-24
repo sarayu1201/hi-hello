@@ -46,7 +46,7 @@ export const cleanText = (text) => {
     // Separate multi-uppercase to lowercase transition (e.g. "CDintersects" -> "CD intersects")
     .replace(/([A-Z]{2,})([a-z])/g, "$1 $2")
     // Separate single-uppercase variable followed by standard math words (e.g. "Pand" -> "P and", "Qrespectively" -> "Q respectively")
-    .replace(/\b([A-Z])(and|are|respectively|is|at|intersects|height|width|length|cm|in|of|to)\b/gi, "$1 $2")
+    .replace(/\b([A-Z])(and|are|respectively|is|at|intersects|height|width|length|cm|in|of|to|And|Are|Respectively|Is|At|Intersects|Height|Width|Length|Cm|In|Of|To)\b/g, "$1 $2")
     // Correct "Intriangle" and similar shapes
     .replace(/\bIn(triangle|circle|square|rectangle|cone|sphere)\b/gi, "In $1")
     // Double spaces to single spaces
