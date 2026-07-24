@@ -142,15 +142,9 @@ export const cleanLaTeX = (text) => {
 
   let fixed = text.trim();
   
-  // Robustly remove starting and trailing dollars, even with trailing punctuation
-  if (fixed.startsWith("$")) {
-    fixed = fixed.slice(1);
-  }
-  if (fixed.endsWith("$")) {
-    fixed = fixed.slice(0, -1);
-  } else {
-    fixed = fixed.replace(/\$(?=[.?)\s]*$)/, "");
-  }
+  // Robustly remove starting and trailing dollars, even with trailing punctuation and hidden characters
+  fixed = fixed.replace(/^[\s\u200b\ufeff]*\$/, "");
+  fixed = fixed.replace(/\$[\s\u200b\ufeff]*([.?)\s]*)$/, "$1");
 
   // 1. Normalize delimiters
   fixed = fixed
