@@ -140,7 +140,8 @@ function wrapLaTeXInString(text) {
 export const cleanLaTeX = (text) => {
   if (!text) return "";
 
-  let fixed = text.trim();
+  // Normalize double backslashes to single backslashes
+  let fixed = text.trim().replace(/\\\\/g, "\\");
   
   // Robustly remove starting and trailing dollars, even with trailing punctuation and hidden characters
   fixed = fixed.replace(/^[\s\u200b\ufeff]*\$/, "");
@@ -186,6 +187,9 @@ export const cleanLaTeX = (text) => {
     if (i % 2 === 0) {
       parts[i] = parts[i].replace(/\\text\s*\{([^{}]+)\}/g, "$1");
       parts[i] = wrapLaTeXInString(parts[i]);
+      
+      // Clean up escaped percentage signs in plain text
+      parts[i] = parts[i].replace(/\\%/g, "%");
       
       // Replace units with unicode superscripts in plain text
       parts[i] = parts[i]
