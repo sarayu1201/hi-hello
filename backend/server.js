@@ -260,10 +260,112 @@ const migrateOldQuestions = async () => {
     if (result.modifiedCount > 0) {
       console.log(`[Migration] Migrated ${result.modifiedCount} old questions to be is_quiz_only: true and is_mock_eligible: false.`);
     }
+    // Run image migration to populate missing question/option images from json files on disk
+    await migrateCglImages();
   } catch (err) {
     console.error("[Migration] Error running baseline questions migration:", err);
   }
 };
+
+const migrateCglImages = async () => {
+  try {
+    const fs = require("fs");
+    const path = require("path");
+    const jsonDir = path.join(__dirname, "..", "QuestionBank", "json");
+    
+    if (!fs.existsSync(jsonDir)) {
+      console.log(`[Image Migration] JSON directory not found at ${jsonDir}. Skipping...`);
+      return;
+    }
+
+    const getAllJsonFiles = (dir) => {
+      let results = [];
+      const list = fs.readdirSync(dir);
+      list.forEach((file) => {
+        const fullPath = path.join(dir, file);
+        const stat = fs.statSync(fullPath);
+        if (stat && stat.isDirectory()) {
+          results = results.concat(getAllJsonFiles(fullPath));
+        } else if (file.endsWith(".json")) {
+          results.push(fullPath);
+        }
+      });
+      return results;
+    };
+
+    const jsonFiles = getAllJsonFiles(jsonDir);
+    console.log(`[Image Migration] Found ${jsonFiles.length} JSON files to scan for images.`);
+    
+    let totalUpdated = 0;
+    
+    for (const filePath of jsonFiles) {
+      const filename = path.basename(filePath);
+      const content = fs.readFileSync(filePath, "utf8");
+      let questions = [];
+      try {
+        questions = JSON.parse(content);
+      } catch (e) {
+        continue;
+      }
+      
+      if (!Array.isArray(questions)) continue;
+      
+      const bulkOps = [];
+      for (const q of questions) {
+        const qText = q.question_text || q.q || q.question || "";
+        const questionImage = q.question_image || q.questionImage || "";
+        
+        let optionImages = [];
+        if (Array.isArray(q.option_images)) {
+          optionImages = q.option_images;
+        } else if (Array.isArray(q.optionImages)) {
+          optionImages = q.optionImages;
+        }
+        
+        if (questionImage || (optionImages && optionImages.some(img => img))) {
+          let cleanQ = qText;
+          if (cleanQ.startsWith("ParsedQuestion:")) {
+            cleanQ = cleanQ.replace("ParsedQuestion:", "").trim();
+          }
+          
+          const filter = {
+            $or: [
+              { unique_id: q.unique_id },
+              { q: cleanQ, source_file: filename }
+            ]
+          };
+          if (!q.unique_id) {
+            delete filter.$or;
+            filter.q = cleanQ;
+            filter.source_file = filename;
+          }
+          
+          bulkOps.push({
+            updateMany: {
+              filter: filter,
+              update: {
+                $set: {
+                  question_image: questionImage,
+                  option_images: optionImages
+                }
+              }
+            }
+          });
+        }
+      }
+      
+      if (bulkOps.length > 0) {
+        const result = await Question.bulkWrite(bulkOps);
+        totalUpdated += (result.modifiedCount || 0);
+      }
+    }
+    
+    console.log(`[Image Migration] Completed. Updated images for ${totalUpdated} questions in DB.`);
+  } catch (err) {
+    console.error("[Image Migration] Error running image migration:", err);
+  }
+};
+
 
 const seedTestCoursePrice = async () => {
   try {
@@ -4171,7 +4273,9 @@ const handleSuccessfulParse = async (filename, exam_type, sub_type) => {
               question_number: q.question_number,
               source_file: filename,
               is_mock_eligible: true,
-              is_quiz_only: false
+              is_quiz_only: false,
+              question_image: q.question_image || q.questionImage || "",
+              option_images: Array.isArray(q.option_images) ? q.option_images : (Array.isArray(q.optionImages) ? q.optionImages : [])
             },
             upsert: true
           }
