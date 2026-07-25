@@ -143,9 +143,18 @@ export const cleanLaTeX = (text) => {
   // Normalize double backslashes to single backslashes
   let fixed = text.trim().replace(/\\\\/g, "\\");
   
-  // Robustly remove starting and trailing dollars, even with trailing punctuation and hidden characters
-  fixed = fixed.replace(/^[\s\u200b\ufeff]*\$/, "");
-  fixed = fixed.replace(/\$[\s\u200b\ufeff]*([.?)\s]*)$/, "$1");
+  // Short-circuit for simple plain text (e.g. "$ and &", "7%")
+  const unescapedDollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
+  if (unescapedDollarCount < 2 && !fixed.includes("\\")) {
+    return fixed;
+  }
+  
+  // Safe matching for wrapped dollar delimiters:
+  // ONLY strip dollar signs if the string actually starts and ends with a dollar sign
+  const matchWrapped = fixed.match(/^[\s\u200b\ufeff]*\$([\s\S]*?)\$[\s\u200b\ufeff]*([.?)\s]*)$/);
+  if (matchWrapped) {
+    fixed = matchWrapped[1] + matchWrapped[2];
+  }
 
   // 1. Normalize delimiters
   fixed = fixed
