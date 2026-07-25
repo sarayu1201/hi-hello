@@ -2707,15 +2707,16 @@ const resolveDbCourse = (subType) => {
 const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null) => {
   let category = "Bank & Insurance";
   const typeLower = String(exam_type || "").toLowerCase();
-  if (typeLower.includes("rail") || typeLower.includes("rrb")) {
+  const subLower = String(sub_type || "").toLowerCase();
+  if (typeLower.includes("rail") || typeLower.includes("rrb") || subLower.includes("rail") || subLower.includes("rrb")) {
     category = "RRB & Railways";
-  } else if (typeLower.includes("ssc")) {
+  } else if (typeLower.includes("ssc") || subLower.includes("ssc")) {
     category = "SSC Exams";
-  } else if (typeLower.includes("neet") || typeLower.includes("jee")) {
+  } else if (typeLower.includes("neet") || typeLower.includes("jee") || subLower.includes("neet") || subLower.includes("jee")) {
     category = "NEET / JEE";
-  } else if (typeLower.includes("upsc") || typeLower.includes("civil")) {
+  } else if (typeLower.includes("upsc") || typeLower.includes("civil") || subLower.includes("upsc") || subLower.includes("civil")) {
     category = "UPSC / Civil";
-  } else if (typeLower.includes("state") || typeLower.includes("appsc") || typeLower.includes("tspsc")) {
+  } else if (typeLower.includes("state") || typeLower.includes("appsc") || typeLower.includes("tspsc") || subLower.includes("appsc") || subLower.includes("tspsc")) {
     category = "State Exams";
   }
 
@@ -2757,7 +2758,9 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   }
 
   let mappedExamType = exam_type;
-  if (exam_type) {
+  if (subLower.includes("rrb") || subLower.includes("rail") || resolvedSubTypes.some(s => String(s).toLowerCase().includes("rrb") || String(s).toLowerCase().includes("rail"))) {
+    mappedExamType = "RRB";
+  } else if (exam_type) {
     const etLower = exam_type.toLowerCase();
     if (etLower.includes("rail") || etLower.includes("rrb")) {
       mappedExamType = "RRB";
