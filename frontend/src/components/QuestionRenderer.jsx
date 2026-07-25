@@ -145,7 +145,7 @@ export const cleanLaTeX = (text) => {
   
   // Short-circuit for simple plain text (e.g. "$ and &", "7%")
   const unescapedDollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
-  if (unescapedDollarCount < 2 && !fixed.includes("\\")) {
+  if (unescapedDollarCount < 2 && !fixed.includes("\\") && !fixed.includes("^") && !fixed.includes("_")) {
     return fixed;
   }
   
