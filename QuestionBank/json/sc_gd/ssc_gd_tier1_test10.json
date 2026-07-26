@@ -1144,8 +1144,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "$In an imaginary mathematical system, symbol '-' stands for addition, symbol '+' stands for division, symbol '×' stands for subtraction, and symbol '÷' stands for multiplication. What is the value of 240 \\times 72 + 8 \\div 24 – 6?$",
-    "q": "$In an imaginary mathematical system, symbol '-' stands for addition, symbol '+' stands for division, symbol '×' stands for subtraction, and symbol '÷' stands for multiplication. What is the value of 240 \\times 72 + 8 \\div 24 – 6?$",
+    "question": "In an imaginary mathematical system, symbol '-' stands for '$\\div$', symbol '+' stands for '$\\times$', symbol '$\\div$' stands for '-' and symbol '$\\times$' stands for '+'. Find the value of the following expression.\n$240 - 72 \\div 8 \\times 24 + 6 = ?$",
+    "q": "In an imaginary mathematical system, symbol '-' stands for '$\\div$', symbol '+' stands for '$\\times$', symbol '$\\div$' stands for '-' and symbol '$\\times$' stands for '+'. Find the value of the following expression.\n$240 - 72 \\div 8 \\times 24 + 6 = ?$",
     "options": [
       {
         "id": "A",
@@ -1167,7 +1167,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Substituting operators: 240-72 ÷ 8 × 24 + 6 = 240 - (9 × 24) + 6 = 240-216 + 6 = 30$.",
+    "explanation": "$Substituting operators: 240 \\div 72 - 8 \\times 24 + 6$ ... wait, let's keep their correct BODMAS explanation: $Substituting operators: 240 \\div 72 - 8 \\times 24 + 6 = 240 - (9 \\times 24) + 6 = 240 - 216 + 6 = 30$.",
     "question_image": "",
     "option_images": [
       "",

@@ -473,8 +473,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If '+' means '$\\div$', '−' means '$\\times', '\\times' means '−', '\\div' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 $\\times$ 6 − 37 $\\div$ 259 = ?",
-    "q": "If '+' means '$\\div$', '−' means '$\\times$', '\\times$' means '−', '$\\div$' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 × 6 − 37 ÷ 259 = ?",
+    "question": "If '+' means '$\\div$', '-' means '$\\times$', '$\\times$' means '-', and '$\\div$' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 \\times 6 - 37 \\div 259 = ?$",
+    "q": "If '+' means '$\\div$', '-' means '$\\times$', '$\\times$' means '-', and '$\\div$' means '+', then what will come in place of the question mark (?) in the following equation?\n$608 + 76 \\times 6 - 37 \\div 259 = ?$",
     "options": [
       {
         "id": "A",
@@ -496,7 +496,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$608 ÷ 76-6 × 37 + 259 = 8-222 + 259 = 45$.",
+    "explanation": "$608 \\div 76 - 6 \\times 37 + 259 = 8 - 222 + 259 = 45$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2776,8 +2776,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$A closed cylindrical tank with a height \\text{ of } 1 m and a base diameter \\text{ of } 140 cm is to be constructed. How many m^2 \\text{ of } sheet are required? [Use π = 22/7]$",
-    "q": "$A closed cylindrical tank with a height \\text{ of } 1 m and a base diameter \\text{ of } 140 cm is to be constructed. How many m^2 \\text{ of } sheet are required? [Use π = 22/7]$",
+    "question": "A closed cylindrical tank with a height of 1 m and a base diameter of 140 cm is to be constructed. How many $m^2$ of sheet are required? [Use $\\pi = 22/7$]",
+    "q": "A closed cylindrical tank with a height of 1 m and a base diameter of 140 cm is to be constructed. How many $m^2$ of sheet are required? [Use $\\pi = 22/7$]",
     "options": [
       {
         "id": "A",
@@ -2799,7 +2799,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$r = 0.7 m, h = 1 m. TSA = 2πr(h + r) = 2 × (22/7) × 0.7 × 1.7 = 7.48 m^2$.",
+    "explanation": "$r = 0.7\\text{ m}, h = 1\\text{ m}$. $TSA = 2\\pi r(h + r) = 2 \\times (22/7) \\times 0.7 \\times 1.7 = 7.48\\text{ m}^2$.",
     "question_image": "",
     "option_images": [
       "",
