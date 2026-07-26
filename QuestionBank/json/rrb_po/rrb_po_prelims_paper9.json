@@ -2494,23 +2494,23 @@
     "options": [
       {
         "id": "A",
-        "text": "1349"
+        "text": "97"
       },
       {
         "id": "B",
-        "text": "945"
+        "text": "1347"
       },
       {
         "id": "C",
-        "text": "1147"
+        "text": "108"
       },
       {
         "id": "D",
-        "text": "1551"
+        "text": "205"
       },
       {
         "id": "E",
-        "text": "1753"
+        "text": "313"
       }
     ],
     "correct_option": "B",
@@ -2553,19 +2553,19 @@
       },
       {
         "id": "B",
-        "text": "110"
+        "text": "83"
       },
       {
         "id": "C",
-        "text": "115"
+        "text": "113"
       },
       {
         "id": "D",
-        "text": "125"
+        "text": "93"
       },
       {
         "id": "E",
-        "text": "130"
+        "text": "105"
       }
     ],
     "correct_option": "A",
@@ -2604,23 +2604,23 @@
     "options": [
       {
         "id": "A",
-        "text": "1873"
+        "text": "15"
       },
       {
         "id": "B",
-        "text": "1313"
+        "text": "1015"
       },
       {
         "id": "C",
-        "text": "1593"
+        "text": "1096"
       },
       {
         "id": "D",
-        "text": "2153"
+        "text": "1870"
       },
       {
         "id": "E",
-        "text": "2433"
+        "text": "1608"
       }
     ],
     "correct_option": "D",
@@ -2663,19 +2663,19 @@
       },
       {
         "id": "B",
-        "text": "6"
+        "text": "2"
       },
       {
         "id": "C",
-        "text": "11"
+        "text": "4"
       },
       {
         "id": "D",
-        "text": "13"
+        "text": "16"
       },
       {
         "id": "E",
-        "text": "17"
+        "text": "128"
       }
     ],
     "correct_option": "A",
@@ -2714,23 +2714,23 @@
     "options": [
       {
         "id": "A",
-        "text": "617"
+        "text": "12"
       },
       {
         "id": "B",
-        "text": "433"
+        "text": "17"
       },
       {
         "id": "C",
-        "text": "525"
+        "text": "32"
       },
       {
         "id": "D",
-        "text": "709"
+        "text": "77"
       },
       {
         "id": "E",
-        "text": "801"
+        "text": "615"
       }
     ],
     "correct_option": "E",
@@ -2764,28 +2764,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "Directions (51-55): In each of these question, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ 51. $I. 2 x^2 - 9 x + 9 = 0\nII. 6 y^2 - 11 y + 4 = 0$",
-    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ51. $I. 2x^2  -  9x + 9  =  0$\n$II. 6y^2  -  11y + 4  =  0$",
+    "question": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer:\n(a) if x > y\n(b) if x >= y\n(c) if x < y\n(d) if x <= y\n(e) if x = y or no relation can be established.\n-\nQ 51.\nI. $2x^2 - 9x + 9 = 0$\nII. $6y^2 - 11y + 4 = 0$",
+    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer:\n(a) if x > y\n(b) if x >= y\n(c) if x < y\n(d) if x <= y\n(e) if x = y or no relation can be established.\n-\nQ 51.\nI. $2x^2 - 9x + 9 = 0$\nII. $6y^2 - 11y + 4 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "0.5"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "0.4"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "0.6"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "15.5"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "20.5"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "A",
@@ -2802,7 +2802,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "A"
   },
   {
     "id": 52,
@@ -2819,28 +2820,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "Directions (51-55): In each of these question, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ 52. $I. x^2 - 9 x - 10 = 0\nII. y^2 - 4 y - 5 = 0$",
-    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ52. $I. x^2  -  9x  -  10  =  0$\n$II. y^2  -  4y  -  5  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $x^2 - 9x - 10 = 0$\nII. $y^2 - 4y - 5 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $x^2 - 9x - 10 = 0$\nII. $y^2 - 4y - 5 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "5"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "2"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "8"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "11"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "E",
@@ -2857,7 +2858,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "E"
   },
   {
     "id": 53,
@@ -2874,28 +2876,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "Directions (51-55): In each of these question, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ 53. $I. x^2 + 7 x + 10 = 0\nII. y^2 - 3 y - 4 = 0$",
-    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ53. $I. x^2 + 7x + 10  =  0$\n$II. y^2  -  3y  -  4  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $x^2 + 7x + 10 = 0$\nII. $y^2 - 3y - 4 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $x^2 + 7x + 10 = 0$\nII. $y^2 - 3y - 4 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "2"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "4"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "6"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "22"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "C",
@@ -2912,7 +2914,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "C"
   },
   {
     "id": 54,
@@ -2929,28 +2932,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "Directions (51-55): In each of these question, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ 54. $I. x^3 = 1728\nII. y^2 + 256 = 400$",
-    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ54. $I. x^3  =  1728$\n$II. y^2 + 256  =  400$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $x^3 = 1728$\nII. $y^2 + 256 = 400$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $x^3 = 1728$\nII. $y^2 + 256 = 400$",
     "options": [
       {
         "id": "A",
-        "text": "12"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "8"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "10"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "14"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "16"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "B",
@@ -2967,7 +2970,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   },
   {
     "id": 55,
@@ -2984,28 +2988,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "Directions (51-55): In each of these question, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ 55. $I. 4 x + 5 y = 3\nII. (y - 4)^2 = 0$",
-    "q": "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer\n-\nQ55. $I. 4x + 5y  =  3$\n$II. (y  -  4)^2  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $4x + 5y = 3$\nII. $(y - 4)^2 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $4x + 5y = 3$\nII. $(y - 4)^2 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "4.25"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "3.2"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "3.6"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "4.9"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "5.3"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "C",
@@ -3022,7 +3026,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "C"
   },
   {
     "id": 56,

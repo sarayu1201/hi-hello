@@ -2494,23 +2494,23 @@
     "options": [
       {
         "id": "A",
-        "text": "3"
+        "text": "6400"
       },
       {
         "id": "B",
-        "text": "1"
+        "text": "400"
       },
       {
         "id": "C",
-        "text": "5"
+        "text": "50"
       },
       {
         "id": "D",
-        "text": "7"
+        "text": "3"
       },
       {
         "id": "E",
-        "text": "23"
+        "text": "12.5"
       }
     ],
     "correct_option": "D",
@@ -2549,23 +2549,23 @@
     "options": [
       {
         "id": "A",
-        "text": "28"
+        "text": "34"
       },
       {
         "id": "B",
-        "text": "18"
+        "text": "32"
       },
       {
         "id": "C",
-        "text": "23"
+        "text": "48"
       },
       {
         "id": "D",
-        "text": "33"
+        "text": "36"
       },
       {
         "id": "E",
-        "text": "38"
+        "text": "30"
       }
     ],
     "correct_option": "C",
@@ -2604,23 +2604,23 @@
     "options": [
       {
         "id": "A",
-        "text": "97"
+        "text": "43"
       },
       {
         "id": "B",
-        "text": "87"
+        "text": "47"
       },
       {
         "id": "C",
-        "text": "92"
+        "text": "56"
       },
       {
         "id": "D",
-        "text": "102"
+        "text": "72"
       },
       {
         "id": "E",
-        "text": "107"
+        "text": "108"
       }
     ],
     "correct_option": "E",
@@ -2659,23 +2659,23 @@
     "options": [
       {
         "id": "A",
-        "text": "252"
+        "text": "12"
       },
       {
         "id": "B",
-        "text": "242"
+        "text": "28"
       },
       {
         "id": "C",
-        "text": "247"
+        "text": "60"
       },
       {
         "id": "D",
-        "text": "257"
+        "text": "256"
       },
       {
         "id": "E",
-        "text": "262"
+        "text": "108"
       }
     ],
     "correct_option": "D",
@@ -2714,23 +2714,23 @@
     "options": [
       {
         "id": "A",
-        "text": "8"
+        "text": "7"
       },
       {
         "id": "B",
-        "text": "1"
-      },
-      {
-        "id": "C",
         "text": "3"
       },
       {
+        "id": "C",
+        "text": "27"
+      },
+      {
         "id": "D",
-        "text": "13"
+        "text": "112"
       },
       {
         "id": "E",
-        "text": "18"
+        "text": "565"
       }
     ],
     "correct_option": "A",
@@ -4139,28 +4139,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$I. 2 x^2 - 17 x + 21 = 0\nII. 3 y^2 - y - 4 = 0$",
-    "q": "$I. 2x^2  -  17x + 21  =  0$\n$II. 3y^2  -  y  -  4  =  0$",
+    "question": "Directions (76-80): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer:\n(a) if x > y\n(b) if x >= y\n(c) if x < y\n(d) if x <= y\n(e) if x = y or no relation can be established.\n-\nQ 76.\nI. $2x^2 - 17x + 21 = 0$\nII. $3y^2 - y - 4 = 0$",
+    "q": "Directions (76-80): In each of these questions, two equations (I) and (II) are given. You have to solve both the equations and give answer:\n(a) if x > y\n(b) if x >= y\n(c) if x < y\n(d) if x <= y\n(e) if x = y or no relation can be established.\n-\nQ 76.\nI. $2x^2 - 17x + 21 = 0$\nII. $3y^2 - y - 4 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "1.33"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1.0"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "1.1"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "1.5"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "1.7"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "A",
@@ -4177,7 +4177,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "A"
   },
   {
     "id": 77,
@@ -4194,28 +4195,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$I. 2 x^2 x 45 = 0\nII. 2 y^2 - 5 y + 3 = 0$",
-    "q": "$I. 2x^2 x 45  =  0$\n$II. 2y^2  -  5y + 3  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 + x - 45 = 0$\nII. $2y^2 - 5y + 3 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 + x - 45 = 0$\nII. $2y^2 - 5y + 3 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "1.5"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1.1"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "1.3"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "1.7"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "1.9"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "E",
@@ -4232,7 +4233,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "E"
   },
   {
     "id": 78,
@@ -4249,28 +4251,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$I. 2 x^2 - 23 x + 66 = 0\nII. 3 y^2 - 16 y + 21 = 0$",
-    "q": "$I. 2x^2  -  23x + 66  =  0$\n$II. 3y^2  -  16y + 21  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 - 23x + 66 = 0$\nII. $3y^2 - 16y + 21 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 - 23x + 66 = 0$\nII. $3y^2 - 16y + 21 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "2.33"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1.7"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "2.0"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "2.7"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "2.9"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "A",
@@ -4287,7 +4289,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "A"
   },
   {
     "id": 79,
@@ -4304,28 +4307,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$I. 2 x^2 + 16 x + 24 = 0\nII. 6 y^2 + 13 y + 6 = 0$",
-    "q": "$I. 2x^2 + 16x + 24  =  0$\n$II. 6y^2 + 13y + 6  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 + 16x + 24 = 0$\nII. $6y^2 + 13y + 6 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $2x^2 + 16x + 24 = 0$\nII. $6y^2 + 13y + 6 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "1.5"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "1.1"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "1.3"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "1.7"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "1.9"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "C",
@@ -4342,7 +4345,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "C"
   },
   {
     "id": 80,
@@ -4359,28 +4363,28 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$I. 12 x^2 - 12 x = 13 x - 12\nII. 12 y^2 - 13 y + 3 = 0$",
-    "q": "$I. 12x^2  -  12x  =  13x  -  12$\n$II. 12y^2  -  13y + 3  =  0$",
+    "question": "Solve the given quadratic equations and mark the correct option:\nI. $12x^2 - 25x + 12 = 0$\nII. $12y^2 - 13y + 3 = 0$",
+    "q": "Solve the given quadratic equations and mark the correct option:\nI. $12x^2 - 25x + 12 = 0$\nII. $12y^2 - 13y + 3 = 0$",
     "options": [
       {
         "id": "A",
-        "text": "0.33"
+        "text": "if x > y"
       },
       {
         "id": "B",
-        "text": "0.2"
+        "text": "if x >= y"
       },
       {
         "id": "C",
-        "text": "0.3"
+        "text": "if x < y"
       },
       {
         "id": "D",
-        "text": "0.4"
+        "text": "if x <= y"
       },
       {
         "id": "E",
-        "text": "20.33"
+        "text": "if x = y or no relation can be established"
       }
     ],
     "correct_option": "B",
@@ -4397,6 +4401,7 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   }
 ]
