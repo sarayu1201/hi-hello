@@ -3319,23 +3319,28 @@
     "options": [
       {
         "id": "A",
-        "text": "224"
+        "text": "225",
+        "image": null
       },
       {
         "id": "B",
-        "text": "158"
+        "text": "215",
+        "image": null
       },
       {
         "id": "C",
-        "text": "191"
+        "text": "231",
+        "image": null
       },
       {
         "id": "D",
-        "text": "257"
+        "text": "206",
+        "image": null
       },
       {
         "id": "E",
-        "text": "290"
+        "text": "242",
+        "image": null
       }
     ],
     "correct_option": "A",
@@ -3374,27 +3379,32 @@
     "options": [
       {
         "id": "A",
-        "text": "105"
+        "text": "123",
+        "image": null
       },
       {
         "id": "B",
-        "text": "149"
+        "text": "126",
+        "image": null
       },
       {
         "id": "C",
-        "text": "127"
+        "text": "131",
+        "image": null
       },
       {
         "id": "D",
-        "text": "171"
+        "text": "138",
+        "image": null
       },
       {
         "id": "E",
-        "text": "193"
+        "text": "150",
+        "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
+    "correct_option": "E",
+    "correct_answer": "E",
     "correct_letter": "B",
     "explanation": "$Pattern: adding prime numbers: +2, +3, +5, +7, +11. 138 + 11 = 149 (so 150 is wrong)$.",
     "question_image": "",
@@ -3429,27 +3439,32 @@
     "options": [
       {
         "id": "A",
-        "text": "273"
+        "text": "104",
+        "image": null
       },
       {
         "id": "B",
-        "text": "331"
+        "text": "197",
+        "image": null
       },
       {
         "id": "C",
-        "text": "389"
+        "text": "292",
+        "image": null
       },
       {
         "id": "D",
-        "text": "447"
+        "text": "380",
+        "image": null
       },
       {
         "id": "E",
-        "text": "505"
+        "text": "488",
+        "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
+    "correct_option": "D",
+    "correct_answer": "D",
     "correct_letter": "C",
     "explanation": "$Pattern: +91, +93, +95, +97, +99. 292 + 97 = 389 (so 380 is wrong)$.",
     "question_image": "",
@@ -3484,27 +3499,32 @@
     "options": [
       {
         "id": "A",
-        "text": "244"
+        "text": "330",
+        "image": null
       },
       {
         "id": "B",
-        "text": "295"
+        "text": "338",
+        "image": null
       },
       {
         "id": "C",
-        "text": "397"
+        "text": "336",
+        "image": null
       },
       {
         "id": "D",
-        "text": "346"
+        "text": "354",
+        "image": null
       },
       {
         "id": "E",
-        "text": "448"
+        "text": "362",
+        "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
+    "correct_option": "C",
+    "correct_answer": "C",
     "correct_letter": "D",
     "explanation": "$Pattern: constant addition +8. 338 + 8 = 346 (so 336 is wrong)$.",
     "question_image": "",
@@ -3539,27 +3559,32 @@
     "options": [
       {
         "id": "A",
-        "text": "1"
+        "text": "4",
+        "image": null
       },
       {
         "id": "B",
-        "text": "3"
+        "text": "7",
+        "image": null
       },
       {
         "id": "C",
-        "text": "6"
+        "text": "10",
+        "image": null
       },
       {
         "id": "D",
-        "text": "9"
+        "text": "18",
+        "image": null
       },
       {
         "id": "E",
-        "text": "12"
+        "text": "34",
+        "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
+    "correct_option": "B",
+    "correct_answer": "B",
     "correct_letter": "C",
     "explanation": "$Pattern: term * 2-2 = next term. 3*2-2=4, 4*2-2=6. Hence 7 is wrong$.",
     "question_image": "",

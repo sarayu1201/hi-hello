@@ -3319,27 +3319,32 @@
     "options": [
       {
         "id": "A",
-        "text": "933"
+        "text": "27",
+        "image": null
       },
       {
         "id": "B",
-        "text": "1331"
+        "text": "125",
+        "image": null
       },
       {
         "id": "C",
-        "text": "1132"
+        "text": "121",
+        "image": null
       },
       {
         "id": "D",
-        "text": "1530"
+        "text": "2197",
+        "image": null
       },
       {
         "id": "E",
-        "text": "1729"
+        "text": "4913",
+        "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
+    "correct_option": "C",
+    "correct_answer": "C",
     "correct_letter": "B",
     "explanation": "$The terms are cubes \\text{ of } prime numbers: 2^3, 3^3, 5^3, 7^3, 11^3, 13^3, 17^3. The term 121 should be 11^3 = 1331$.",
     "question_image": "",
@@ -3374,27 +3379,32 @@
     "options": [
       {
         "id": "A",
-        "text": "204"
+        "text": "1632",
+        "image": null
       },
       {
         "id": "B",
-        "text": "144"
+        "text": "816",
+        "image": null
       },
       {
         "id": "C",
-        "text": "174"
+        "text": "408",
+        "image": null
       },
       {
         "id": "D",
-        "text": "234"
+        "text": "206",
+        "image": null
       },
       {
         "id": "E",
-        "text": "264"
+        "text": "102",
+        "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
+    "correct_option": "D",
+    "correct_answer": "D",
     "correct_letter": "A",
     "explanation": "$Pattern: term / 2 = next term. Thus, 408 / 2 = 204. So 206 is wrong$.",
     "question_image": "",
@@ -3429,23 +3439,28 @@
     "options": [
       {
         "id": "A",
-        "text": "471"
+        "text": "41",
+        "image": null
       },
       {
         "id": "B",
-        "text": "571"
+        "text": "83",
+        "image": null
       },
       {
         "id": "C",
-        "text": "771"
+        "text": "167",
+        "image": null
       },
       {
         "id": "D",
-        "text": "871"
+        "text": "335",
+        "image": null
       },
       {
         "id": "E",
-        "text": "671"
+        "text": "670",
+        "image": null
       }
     ],
     "correct_option": "E",
@@ -3484,27 +3499,32 @@
     "options": [
       {
         "id": "A",
-        "text": "71"
+        "text": "186",
+        "image": null
       },
       {
         "id": "B",
-        "text": "86"
+        "text": "152",
+        "image": null
       },
       {
         "id": "C",
-        "text": "116"
+        "text": "135",
+        "image": null
       },
       {
         "id": "D",
-        "text": "101"
+        "text": "118",
+        "image": null
       },
       {
         "id": "E",
-        "text": "131"
+        "text": "104",
+        "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
+    "correct_option": "E",
+    "correct_answer": "E",
     "correct_letter": "D",
     "explanation": "$Pattern: subtract 17 at each step. Thus, 118-17 = 101. So 104 is wrong$.",
     "question_image": "",
@@ -3539,27 +3559,32 @@
     "options": [
       {
         "id": "A",
-        "text": "152"
+        "text": "54",
+        "image": null
       },
       {
         "id": "B",
-        "text": "216"
+        "text": "108",
+        "image": null
       },
       {
         "id": "C",
-        "text": "184"
+        "text": "214",
+        "image": null
       },
       {
         "id": "D",
-        "text": "248"
+        "text": "432",
+        "image": null
       },
       {
         "id": "E",
-        "text": "280"
+        "text": "864",
+        "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
+    "correct_option": "C",
+    "correct_answer": "C",
     "correct_letter": "B",
     "explanation": "$Pattern: term * 2 = next term. Thus, 108 * 2 = 216. So 214 is wrong$.",
     "question_image": "",
