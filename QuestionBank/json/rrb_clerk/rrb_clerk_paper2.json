@@ -3319,32 +3319,32 @@
     "options": [
       {
         "id": "A",
-        "text": "14",
+        "text": "7",
         "image": null
       },
       {
         "id": "B",
-        "text": "28",
-        "image": null
-      },
-      {
-        "id": "C",
         "text": "52",
         "image": null
       },
       {
+        "id": "C",
+        "text": "28",
+        "image": null
+      },
+      {
         "id": "D",
-        "text": "112",
+        "text": "224",
         "image": null
       },
       {
         "id": "E",
-        "text": "224",
+        "text": "112",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
+    "correct_option": "B",
+    "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$Pattern: 7*2=14, 14*2=28, 28*2=56 (not 52), 56*2=112, 112*2=224. Hence, 52 is wrong$.",
     "question_image": "",
@@ -3357,7 +3357,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   },
   {
     "id": 62,
@@ -3417,7 +3418,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   },
   {
     "id": 63,
@@ -3465,7 +3467,7 @@
     ],
     "correct_option": "E",
     "correct_answer": "E",
-    "correct_letter": "D",
+    "correct_letter": "E",
     "explanation": "$Pattern: Differences are +1, +6, +13, +24, +37, +54. The differences \\text{ of } differences are consecutive prime numbers: 5,7,11,13,17. The last term should be 131 + 54 = 185, so 186 is wrong$.",
     "question_image": "",
     "option_images": [
@@ -3477,7 +3479,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "E"
   },
   {
     "id": 64,
@@ -3525,7 +3528,7 @@
     ],
     "correct_option": "E",
     "correct_answer": "E",
-    "correct_letter": "A",
+    "correct_letter": "E",
     "explanation": "$Pattern: 212 + 4^2 = 228, 228 + 5^2 = 253, 253 + 6^2 = 289, 289 + 7^2 = 338, 338 + 8^2 = 402 (not 400), 402 + 9^2 = 483. Thus, 400 is wrong$.",
     "question_image": "",
     "option_images": [
@@ -3537,7 +3540,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "E"
   },
   {
     "id": 65,
@@ -3597,7 +3601,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   },
   {
     "id": 66,
