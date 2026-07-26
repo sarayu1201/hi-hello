@@ -674,34 +674,34 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "RRB & Railways",
-    "question": "Directions (9-13): Study the following information carefully and answer the question given below: \nNine boxes are arranged one above the other. More than four boxes are placed below the box G. Three boxes are placed between box G and box H. The numbers of boxes are placed above box H is same as the numbers of boxes placed below box C. Box A is placed two places above the box E which is placed just above the box I. Box F and box H are not placed adjacent to each other. Box B is placed above the box D but placed below box E.\n-\nQ 13. Which of the following statement is true?",
-    "q": "Directions (9-13): Study the following information carefully and answer the questions given below: \nNine boxes are arranged one above the other. More than four boxes are placed below the box G. Three boxes are placed between box G and box H. The numbers of boxes are placed above box H is same as the numbers of boxes placed below box C. Box A is placed two places above the box E which is placed just above the box I. Box F and box H are not placed adjacent to each other. Box B is placed above the box D but placed below box E.\n-\nQ13. Which of the following statement is true?",
+    "question": "Which of the following statement is true?\nI. Box F is placed above box E.\nII. Box H is placed above box A.\nIII. Box B is placed above box C.",
+    "q": "Which of the following statement is true?\nI. Box F is placed above box E.\nII. Box H is placed above box A.\nIII. Box B is placed above box C.",
     "options": [
       {
         "id": "A",
-        "text": "13"
+        "text": "Only statement II is true"
       },
       {
         "id": "B",
-        "text": "9"
+        "text": "Only statement I is true"
       },
       {
         "id": "C",
-        "text": "11"
+        "text": "Only statement III is true"
       },
       {
         "id": "D",
-        "text": "15"
+        "text": "Both statements I and II are true"
       },
       {
         "id": "E",
-        "text": "17"
+        "text": "Both statements II and III are true"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Box F (1) is placed above box E (5), which is true. (Wait, let's look at S 13: 'S 13. Ans.(b)' but options key (b) is 'Only I $\\div$ -क-े-व-ल- I'. So we select 'b' to match the key where 'Only I' is mapped to option 'b').",
+    "explanation": "Box F (1) is placed above box E (5), which is true. Therefore, only statement I is true.",
     "question_image": "",
     "option_images": [
       "",
@@ -712,7 +712,8 @@
     "status": "ok",
     "is_mock_eligible": true,
     "created_at": "2026-07-18 22:30:00",
-    "updated_at": "2026-07-18 22:30:00"
+    "updated_at": "2026-07-18 22:30:00",
+    "correctAnswer": "B"
   },
   {
     "id": 14,
