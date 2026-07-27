@@ -209,11 +209,11 @@ export const cleanLaTeX = (text) => {
         .replace(/\bm\^3\b/g, "m³")
         .replace(/\bkm\^3\b/g, "km³");
       
-      // Also wrap standalone power terms and subscript terms (allowing multiple letters)
-      parts[i] = parts[i].replace(/\b([a-zA-Z]+)\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
-      parts[i] = parts[i].replace(/\b([a-zA-Z]+)_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
-      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))\^(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
-      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*= ]+\))_(\{?[a-zA-Z0-9+\-*=]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+      // Also wrap standalone power terms and subscript terms (allowing multiple letters, digits, dots, question marks)
+      parts[i] = parts[i].replace(/([a-zA-Z0-9.?]+)\^(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/([a-zA-Z0-9.?]+)_(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*=/? ]+\))\^(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*=/? ]+\))_(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
     } else {
       // Replace units inside math blocks for professional look
       parts[i] = parts[i]
