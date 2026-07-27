@@ -1241,7 +1241,7 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
                 Question Palette: {activeSection}
               </h3>
               
-              <div className="grid grid-cols-5 sm:grid-cols-10 lg:grid-cols-5 gap-2 max-h-[220px] overflow-y-auto pr-1 no-scrollbar">
+              <div className="grid grid-cols-5 sm:grid-cols-10 lg:grid-cols-5 gap-2 max-h-[360px] overflow-y-auto pr-1">
                 {activeQuestions.map((q, idx) => {
                   const status = questionStatus[q.question_number] || "not-visited";
                   const isCurrent = currentQuestionIdx === idx;
