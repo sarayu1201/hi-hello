@@ -690,8 +690,8 @@
     "subject": "English Language",
     "section": "English Language",
     "category": "Bank & Insurance",
-    "question": "The English won several fortified battles, but in the end, the Americans were able to win the \n_____________.",
-    "q": "The English won several fortified battles, but in the end, the Americans were able to win the \n_____________.",
+    "question": "The English won several fortified battles, but in the end, the Americans were able to win the \n$_____________.$",
+    "q": "The English won several fortified battles, but in the end, the Americans were able to win the \n$_____________.$",
     "options": [
       {
         "id": "a",
@@ -2985,27 +2985,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I: x^2-32x + 112 = 0\nII: y^2-7y + 12 = 0",
-    "q": "I: x^2-32x + 112 = 0\nII: y^2-7y + 12 = 0",
+    "question": "I: $x^2-32x + 112 = 0$\nII: $y^2-7y + 12 = 0$",
+    "q": "I: $x^2-32x + 112 = 0$\nII: $y^2-7y + 12 = 0$",
     "options": [
       {
         "id": "a",
-        "text": "x > y",
+        "text": "x $> y$",
         "image": null
       },
       {
         "id": "b",
-        "text": "x ≥ y",
+        "text": "x  $\\ge  y$",
         "image": null
       },
       {
         "id": "c",
-        "text": "x < y",
+        "text": "x $< y$",
         "image": null
       },
       {
         "id": "d",
-        "text": "x ≤ y",
+        "text": "x  $\\le  y$",
         "image": null
       },
       {
@@ -3017,7 +3017,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations in terms of factorized roots:\n- Equation I: x^2-32x + 112 = 0\n- Equation II: y^2-7y + 12 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2-28x - 4x + 112 = 0\nx(x - 28) - 4(x - 28) = 0\n(x - 28)(x - 4) = 0 \\implies x = 28, 4\n\n**From Equation II:**\ny^2-4y - 3y + 12 = 0\ny(y - 4) - 3(y - 4) = 0\n(y - 4)(y - 3) = 0 \\implies y = 4, 3\n\n**Step 3 (Verification):** Compare the roots:\n- 28 > 4, 28 > 3\n- 4 = 4, 4 > 3\nThus, x ≥ y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations in terms of factorized roots:\n- Equation I: x^2-32x + 112 = 0\n- Equation II: y^2-7y + 12 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\n$x^2-28x - 4x + 112 = 0$\n$x(x - 28) - 4(x - 28) = 0$\n(x - 28)(x - 4) = 0 \\implies x = 28, 4\n\n**From Equation II:**\n$y^2-4y - 3y + 12 = 0$\n$y(y - 4) - 3(y - 4) = 0$\n(y - 4)(y - 3) = 0 \\implies y = 4, 3\n\n**Step 3 (Verification):** Compare the roots:\n$- 28 > 4, 28 > 3$\n$- 4 = 4, 4 > 3$\nThus, x  \\ge  y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -3050,27 +3050,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I: x^2 + 12x + 35 = 0\nII: y^2 + 7y + 10 = 0",
-    "q": "I: x^2 + 12x + 35 = 0\nII: y^2 + 7y + 10 = 0",
+    "question": "I: $x^2 + 12x + 35 = 0$\nII: $y^2 + 7y + 10 = 0$",
+    "q": "I: $x^2 + 12x + 35 = 0$\nII: $y^2 + 7y + 10 = 0$",
     "options": [
       {
         "id": "a",
-        "text": "x > y",
+        "text": "x $> y$",
         "image": null
       },
       {
         "id": "b",
-        "text": "x ≥ y",
+        "text": "x  $\\ge  y$",
         "image": null
       },
       {
         "id": "c",
-        "text": "x < y",
+        "text": "x $< y$",
         "image": null
       },
       {
         "id": "d",
-        "text": "x ≤ y",
+        "text": "x  $\\le  y$",
         "image": null
       },
       {
@@ -3082,7 +3082,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 12x + 35 = 0\n- Equation II: y^2 + 7y + 10 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 7x + 5x + 35 = 0\nx(x + 7) + 5(x + 7) = 0\n(x + 7)(x + 5) = 0 \\implies x = 7, 5\n\n**From Equation II:**\ny^2 + 5y + 2y + 10 = 0\ny(y + 5) + 2(y + 5) = 0\n(y + 5)(y + 2) = 0 \\implies y = 5, 2\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 7: 7 < 5, 7 < 2 \\implies x < y\n- For x = 5: 5 = 5, 5 < 2 \\implies x ≤ y\nThus, x ≤ y.\n\n**Conclusion:** Hence, Option **D** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 12x + 35 = 0\n- Equation II: y^2 + 7y + 10 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\n$x^2 + 7x + 5x + 35 = 0$\n$x(x + 7) + 5(x + 7) = 0$\n(x + 7)(x + 5) = 0 \\implies x = 7, 5\n\n**From Equation II:**\n$y^2 + 5y + 2y + 10 = 0$\n$y(y + 5) + 2(y + 5) = 0$\n(y + 5)(y + 2) = 0 \\implies y = 5, 2\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 7: 7 < 5, 7 < 2 \\implies x < y\n- For x = 5: 5 = 5, 5 < 2 \\implies x  \\le  y\nThus, x  \\le  y.\n\n**Conclusion:** Hence, Option **D** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -3115,27 +3115,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I: x^2-7x - 60 = 0\nII: y^2 + 13y + 40 = 0",
-    "q": "I: x^2-7x - 60 = 0\nII: y^2 + 13y + 40 = 0",
+    "question": "I: $x^2-7x - 60 = 0$\nII: $y^2 + 13y + 40 = 0$",
+    "q": "I: $x^2-7x - 60 = 0$\nII: $y^2 + 13y + 40 = 0$",
     "options": [
       {
         "id": "a",
-        "text": "x > y",
+        "text": "x $> y$",
         "image": null
       },
       {
         "id": "b",
-        "text": "x ≥ y",
+        "text": "x  $\\ge  y$",
         "image": null
       },
       {
         "id": "c",
-        "text": "x < y",
+        "text": "x $< y$",
         "image": null
       },
       {
         "id": "d",
-        "text": "x ≤ y",
+        "text": "x  $\\le  y$",
         "image": null
       },
       {
@@ -3147,7 +3147,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2-7x - 60 = 0\n- Equation II: y^2 + 13y + 40 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2-12x + 5x - 60 = 0\nx(x - 12) + 5(x - 12) = 0\n(x - 12)(x + 5) = 0 \\implies x = 12, 5\n\n**From Equation II:**\ny^2 + 8y + 5y + 40 = 0\ny(y + 8) + 5(y + 8) = 0\n(y + 8)(y + 5) = 0 \\implies y = 8, 5\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 12: 12 > 8, 12 > 5 \\implies x > y\n- For x = 5: 5 > 8, 5 = 5 \\implies x ≥ y\nThus, x ≥ y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2-7x - 60 = 0\n- Equation II: y^2 + 13y + 40 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\n$x^2-12x + 5x - 60 = 0$\n$x(x - 12) + 5(x - 12) = 0$\n(x - 12)(x + 5) = 0 \\implies x = 12, 5\n\n**From Equation II:**\n$y^2 + 8y + 5y + 40 = 0$\n$y(y + 8) + 5(y + 8) = 0$\n(y + 8)(y + 5) = 0 \\implies y = 8, 5\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 12: 12 > 8, 12 > 5 \\implies x > y\n- For x = 5: 5 > 8, 5 = 5 \\implies x  \\ge  y\nThus, x  \\ge  y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -3180,27 +3180,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I: x^2 + x - 12 = 0\nII: y^2 + 2y - 15 = 0",
-    "q": "I: x^2 + x - 12 = 0\nII: y^2 + 2y - 15 = 0",
+    "question": "I: $x^2 + x - 12 = 0$\nII: $y^2 + 2y - 15 = 0$",
+    "q": "I: $x^2 + x - 12 = 0$\nII: $y^2 + 2y - 15 = 0$",
     "options": [
       {
         "id": "a",
-        "text": "x > y",
+        "text": "x $> y$",
         "image": null
       },
       {
         "id": "b",
-        "text": "x ≥ y",
+        "text": "x  $\\ge  y$",
         "image": null
       },
       {
         "id": "c",
-        "text": "x < y",
+        "text": "x $< y$",
         "image": null
       },
       {
         "id": "d",
-        "text": "x ≤ y",
+        "text": "x  $\\le  y$",
         "image": null
       },
       {
@@ -3212,7 +3212,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + x - 12 = 0\n- Equation II: y^2 + 2y - 15 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 4x - 3x - 12 = 0\nx(x + 4) - 3(x + 4) = 0\n(x + 4)(x - 3) = 0 \\implies x = 4, 3\n\n**From Equation II:**\ny^2 + 5y - 3y - 15 = 0\ny(y + 5) - 3(y + 5) = 0\n(y + 5)(y - 3) = 0 \\implies y = 5, 3\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 3: 3 > 5, 3 = 3 \\implies x ≥ y\n- For x = 4: 4 > 5, but 4 < 3 \\implies x > y and x < y\nSince conflicting relationships exist (x > y and x < y), no relation can be established.\n\n**Conclusion:** Hence, Option **E** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + x - 12 = 0\n- Equation II: y^2 + 2y - 15 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\n$x^2 + 4x - 3x - 12 = 0$\n$x(x + 4) - 3(x + 4) = 0$\n(x + 4)(x - 3) = 0 \\implies x = 4, 3\n\n**From Equation II:**\n$y^2 + 5y - 3y - 15 = 0$\n$y(y + 5) - 3(y + 5) = 0$\n(y + 5)(y - 3) = 0 \\implies y = 5, 3\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 3: 3 > 5, 3 = 3 \\implies x  \\ge  y\n- For x = 4: 4 > 5, but 4 < 3 \\implies x > y and x < y\nSince conflicting relationships exist (x > y and x < y), no relation can be established.\n\n**Conclusion:** Hence, Option **E** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -3245,27 +3245,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I: x^2 + 31x + 84 = 0\nII: 4y^2-19y + 21 = 0",
-    "q": "I: x^2 + 31x + 84 = 0\nII: 4y^2-19y + 21 = 0",
+    "question": "I: $x^2 + 31x + 84 = 0$\nII: $4y^2-19y + 21 = 0$",
+    "q": "I: $x^2 + 31x + 84 = 0$\nII: $4y^2-19y + 21 = 0$",
     "options": [
       {
         "id": "a",
-        "text": "x > y",
+        "text": "x $> y$",
         "image": null
       },
       {
         "id": "b",
-        "text": "x ≥ y",
+        "text": "x  $\\ge  y$",
         "image": null
       },
       {
         "id": "c",
-        "text": "x < y",
+        "text": "x $< y$",
         "image": null
       },
       {
         "id": "d",
-        "text": "x ≤ y",
+        "text": "x  $\\le  y$",
         "image": null
       },
       {
@@ -3277,7 +3277,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 31x + 84 = 0\n- Equation II: 4y^2-19y + 21 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 28x + 3x + 84 = 0\nx(x + 28) + 3(x + 28) = 0\n(x + 28)(x + 3) = 0 \\implies x = 28, 3\n\n**From Equation II:**\n4y^2-12y - 7y + 21 = 0\n4y(y - 3) - 7(y - 3) = 0\n(4y - 7)(y - 3) = 0 \\implies y = 1.75, 3\n\n**Step 3 (Verification):** Compare the roots:\nSince both roots of x (x = 28, 3) are negative and both roots of y (y = 1.75, 3) are positive, we clearly have:\nx < y\n\n**Conclusion:** Hence, Option **C** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 31x + 84 = 0\n- Equation II: 4y^2-19y + 21 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\n$x^2 + 28x + 3x + 84 = 0$\n$x(x + 28) + 3(x + 28) = 0$\n(x + 28)(x + 3) = 0 \\implies x = 28, 3\n\n**From Equation II:**\n$4y^2-12y - 7y + 21 = 0$\n$4y(y - 3) - 7(y - 3) = 0$\n(4y - 7)(y - 3) = 0 \\implies y = 1.75, 3\n\n**Step 3 (Verification):** Compare the roots:\nSince both roots of x (x = 28, 3) are negative and both roots of y (y = 1.75, 3) are positive, we clearly have:\nx $< y$\n\n**Conclusion:** Hence, Option **C** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -6408,8 +6408,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "Bank & Insurance",
-    "question": "The numbers of persons live between R and Y is half than the numbers of persons live below \n_____________.",
-    "q": "The numbers of persons live between R and Y is half than the numbers of persons live below \n_____________.",
+    "question": "The numbers of persons live between R and Y is half than the numbers of persons live below \n$_____________.$",
+    "q": "The numbers of persons live between R and Y is half than the numbers of persons live below \n$_____________.$",
     "options": [
       {
         "id": "a",

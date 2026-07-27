@@ -151,9 +151,14 @@ export const cleanLaTeX = (text) => {
   
   // Safe matching for wrapped dollar delimiters:
   // ONLY strip dollar signs if the string actually starts and ends with a dollar sign
+  // AND it does not contain indicators of a mathematical formula
   const matchWrapped = fixed.match(/^[\s\u200b\ufeff]*\$([\s\S]*?)\$[\s\u200b\ufeff]*([.?)\s]*)$/);
   if (matchWrapped) {
-    fixed = matchWrapped[1] + matchWrapped[2];
+    const inner = matchWrapped[1];
+    const isMath = inner.includes("\\") || inner.includes("^") || inner.includes("_") || inner.includes("=") || inner.includes("<") || inner.includes(">");
+    if (!isMath) {
+      fixed = inner + matchWrapped[2];
+    }
   }
 
   // 1. Normalize delimiters
