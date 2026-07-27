@@ -24,7 +24,7 @@
       },
       {
         "id": "b",
-        "text": "$C-E$",
+        "text": "C-E",
         "image": null
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "id": "d",
-        "text": "$B-D$",
+        "text": "B-D",
         "image": null
       },
       {
@@ -94,17 +94,17 @@
       },
       {
         "id": "b",
-        "text": "$B-F$",
+        "text": "B-F",
         "image": null
       },
       {
         "id": "c",
-        "text": "$A-E$",
+        "text": "A-E",
         "image": null
       },
       {
         "id": "d",
-        "text": "$C-D$",
+        "text": "C-D",
         "image": null
       },
       {
@@ -164,7 +164,7 @@
       },
       {
         "id": "b",
-        "text": "$B-C$",
+        "text": "B-C",
         "image": null
       },
       {
@@ -174,7 +174,7 @@
       },
       {
         "id": "d",
-        "text": "$A-D$",
+        "text": "A-D",
         "image": null
       },
       {
@@ -228,22 +228,22 @@
     "options": [
       {
         "id": "a",
-        "text": "$A-D$",
+        "text": "A-D",
         "image": null
       },
       {
         "id": "b",
-        "text": "$C-D$",
+        "text": "C-D",
         "image": null
       },
       {
         "id": "c",
-        "text": "$B-D$",
+        "text": "B-D",
         "image": null
       },
       {
         "id": "d",
-        "text": "$A-B$",
+        "text": "A-B",
         "image": null
       },
       {
@@ -297,22 +297,22 @@
     "options": [
       {
         "id": "a",
-        "text": "$C-D$",
+        "text": "C-D",
         "image": null
       },
       {
         "id": "b",
-        "text": "$A-C$",
+        "text": "A-C",
         "image": null
       },
       {
         "id": "c",
-        "text": "$B-D$",
+        "text": "B-D",
         "image": null
       },
       {
         "id": "d",
-        "text": "$A-B$",
+        "text": "A-B",
         "image": null
       },
       {
@@ -366,7 +366,7 @@
     "options": [
       {
         "id": "a",
-        "text": "$B-C$",
+        "text": "B-C",
         "image": null
       },
       {
@@ -376,7 +376,7 @@
       },
       {
         "id": "c",
-        "text": "$A-D$",
+        "text": "A-D",
         "image": null
       },
       {
@@ -3430,39 +3430,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "The average age of a class of 30 students is 15 years. If the teacher's age is included, the average age increases by 1 year. Find the teacher's age.",
+    "q": "The average age of a class of 30 students is 15 years. If the teacher's age is included, the average age increases by 1 year. Find the teacher's age.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "42 years",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "45 years",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "46 years",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "48 years",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "50 years",
         "image": null
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations in terms of factorized roots:\n- Equation I: x^2-32x + 112 = 0\n- Equation II: y^2-7y + 12 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2-28x - 4x + 112 = 0\nx(x - 28) - 4(x - 28) = 0\n(x - 28)(x - 4) = 0 \\implies x = 28, 4\n\n**From Equation II:**\ny^2-4y - 3y + 12 = 0\ny(y - 4) - 3(y - 4) = 0\n(y - 4)(y - 3) = 0 \\implies y = 4, 3\n\n**Step 3 (Verification):** Compare the roots:\n- 28 > 4, 28 > 3\n- 4 = 4, 4 > 3\nThus, x  \\ge  y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Average age and total sum.\n\n**Step 1:** Calculate total age of students:\n* Total age of 30 students = $30 \\times 15 = 450\\text{ years}$.\n\n**Step 2:** Calculate total age with teacher included:\n* New count of people = 31\n* New average = 16 years\n* Total age = $31 \\times 16 = 496\\text{ years}$.\n\n**Step 3:** Calculate teacher's age:\n* Teacher's age = $496 - 450 = 46\\text{ years}$.\n\n**Conclusion:** Option **C** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -3495,39 +3495,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "The ratio of the ages of A and B is 4:5. After 5 years, the ratio becomes 5:6. Find the sum of their present ages.",
+    "q": "The ratio of the ages of A and B is 4:5. After 5 years, the ratio becomes 5:6. Find the sum of their present ages.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "40 years",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "45 years",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "50 years",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "55 years",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "60 years",
         "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
-    "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 12x + 35 = 0\n- Equation II: y^2 + 7y + 10 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 7x + 5x + 35 = 0\nx(x + 7) + 5(x + 7) = 0\n(x + 7)(x + 5) = 0 \\implies x = 7, 5\n\n**From Equation II:**\ny^2 + 5y + 2y + 10 = 0\ny(y + 5) + 2(y + 5) = 0\n(y + 5)(y + 2) = 0 \\implies y = 5, 2\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 7: 7 < 5, 7 < 2 \\implies x < y\n- For x = 5: 5 = 5, 5 < 2 \\implies x  \\le  y\nThus, x  \\le  y.\n\n**Conclusion:** Hence, Option **D** is the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Age problems and linear equations.\n\n**Step 1:** Let present ages of A and B be $4x$ and $5x$ respectively.\n\n**Step 2:** Set up the equation for ages after 5 years:\n$\\frac{4x + 5}{5x + 5} = \\frac{5}{6}$\n$24x + 30 = 25x + 25$\n$x = 5$\n\n**Step 3:** Sum of present ages:\n* Present ages are $4(5) = 20$ and $5(5) = 25$ years.\n* Sum = $20 + 25 = 45\\text{ years}$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -3560,39 +3560,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "A boat speed in still water is 15 km/h. It travels 36 km downstream and returns upstream. If the speed of the stream is 3 km/h, find the total round trip time.",
+    "q": "A boat speed in still water is 15 km/h. It travels 36 km downstream and returns upstream. If the speed of the stream is 3 km/h, find the total round trip time.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "4 hours",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "5 hours",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "6 hours",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "7 hours",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "8 hours",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2-7x - 60 = 0\n- Equation II: y^2 + 13y + 40 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2-12x + 5x - 60 = 0\nx(x - 12) + 5(x - 12) = 0\n(x - 12)(x + 5) = 0 \\implies x = 12, 5\n\n**From Equation II:**\ny^2 + 8y + 5y + 40 = 0\ny(y + 8) + 5(y + 8) = 0\n(y + 8)(y + 5) = 0 \\implies y = 8, 5\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 12: 12 > 8, 12 > 5 \\implies x > y\n- For x = 5: 5 > 8, 5 = 5 \\implies x  \\ge  y\nThus, x  \\ge  y.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Upstream and Downstream rates.\n\n**Step 1:** Calculate speeds:\n* Downstream speed = $15 + 3 = 18\\text{ km/h}$\n* Upstream speed = $15 - 3 = 12\\text{ km/h}$\n\n**Step 2:** Calculate trip durations:\n* Downstream time = $\\frac{36}{18} = 2\\text{ hours}$\n* Upstream time = $\\frac{36}{12} = 3\\text{ hours}$\n\n**Step 3:** Total round trip time = $2 + 3 = 5\\text{ hours}$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -3625,39 +3625,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "A can complete a work in 12 days, and B can complete the same work in 15 days. They work together for 4 days, and then A leaves. How many days will B take to complete the remaining work?",
+    "q": "A can complete a work in 12 days, and B can complete the same work in 15 days. They work together for 4 days, and then A leaves. How many days will B take to complete the remaining work?",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "5 days",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "6 days",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "7 days",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "8 days",
         "image": null
       },
       {
         "id": "e",
-        "text": "11 |                           |",
+        "text": "10 days",
         "image": null
       }
     ],
-    "correct_option": "E",
-    "correct_answer": "E",
-    "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + x - 12 = 0\n- Equation II: y^2 + 2y - 15 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 4x - 3x - 12 = 0\nx(x + 4) - 3(x + 4) = 0\n(x + 4)(x - 3) = 0 \\implies x = 4, 3\n\n**From Equation II:**\ny^2 + 5y - 3y - 15 = 0\ny(y + 5) - 3(y + 5) = 0\n(y + 5)(y - 3) = 0 \\implies y = 5, 3\n\n**Step 3 (Verification):** Compare the roots:\n- For x = 3: 3 > 5, 3 = 3 \\implies x  \\ge  y\n- For x = 4: 4 > 5, but 4 < 3 \\implies x > y and x < y\nSince conflicting relationships exist (x > y and x < y), no relation can be established.\n\n**Conclusion:** Hence, Option **E** is the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Time and Work rates.\n\n**Step 1:** Calculate 1-day work rates:\n* A's rate = $\\frac{1}{12}$\n* B's rate = $\\frac{1}{15}$\n* Combined rate = $\\frac{1}{12} + \\frac{1}{15} = \\frac{5 + 4}{60} = \\frac{9}{60} = \\frac{3}{20}$\n\n**Step 2:** Calculate work done in 4 days:\n* Work done = $4 \\times \\frac{3}{20} = \\frac{3}{5}$\n\n**Step 3:** Calculate remaining work and time for B:\n* Remaining work = $1 - \\frac{3}{5} = \\frac{2}{5}$\n* Time taken by B = $\\frac{2/5}{1/15} = \\frac{2}{5} \\times 15 = 6\\text{ days}$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -3690,39 +3690,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20% on the marked price. Find his net gain or loss percentage.",
+    "q": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20% on the marked price. Find his net gain or loss percentage.",
     "options": [
       {
         "id": "a",
-        "text": "",
+        "text": "12% gain",
         "image": null
       },
       {
         "id": "b",
-        "text": "",
+        "text": "12% loss",
         "image": null
       },
       {
         "id": "c",
-        "text": "",
+        "text": "15% gain",
         "image": null
       },
       {
         "id": "d",
-        "text": "",
+        "text": "15% loss",
         "image": null
       },
       {
         "id": "e",
-        "text": "",
+        "text": "18% gain",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Quadratic Equations\n\n**Step 1 (Setup):** Write the quadratic equations:\n- Equation I: x^2 + 31x + 84 = 0\n- Equation II: 4y^2-19y + 21 = 0\n\n**Step 2 (Execution):** Solve both equations:\n**From Equation I:**\nx^2 + 28x + 3x + 84 = 0\nx(x + 28) + 3(x + 28) = 0\n(x + 28)(x + 3) = 0 \\implies x = 28, 3\n\n**From Equation II:**\n4y^2-12y - 7y + 21 = 0\n4y(y - 3) - 7(y - 3) = 0\n(4y - 7)(y - 3) = 0 \\implies y = 1.75, 3\n\n**Step 3 (Verification):** Compare the roots:\nSince both roots of x (x = 28, 3) are negative and both roots of y (y = 1.75, 3) are positive, we clearly have:\nx $< y$\n\n**Conclusion:** Hence, Option **C** is the correct answer.",
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Mark-up, Discount, and Net Profit.\n\n**Step 1:** Let the Cost Price (CP) be Rs. 100.\n* Marked Price (MP) = CP + 40% = Rs. 140.\n\n**Step 2:** Calculate Selling Price (SP) after 20% discount:\n* Discount = 20% of 140 = Rs. 28.\n$* SP = 140 - 28 = Rs. 112.$\n\n**Step 3:** Calculate net gain percentage:\n* Profit = SP - CP = 112 - 100 = 12%.\n\n**Conclusion:** Option **A** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -5172,27 +5172,27 @@
     "options": [
       {
         "id": "a",
-        "text": "$C-E$",
+        "text": "C-E",
         "image": null
       },
       {
         "id": "b",
-        "text": "$A-G$",
+        "text": "A-G",
         "image": null
       },
       {
         "id": "c",
-        "text": "$D-F$",
+        "text": "D-F",
         "image": null
       },
       {
         "id": "d",
-        "text": "$B-H$",
+        "text": "B-H",
         "image": null
       },
       {
         "id": "e",
-        "text": "$G-C$",
+        "text": "G-C",
         "image": null
       }
     ],
