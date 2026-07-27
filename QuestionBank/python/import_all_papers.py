@@ -138,6 +138,19 @@ def map_filename_to_subtype(filename):
 
 
 def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
+    sub_lower = str(sub_type_val).lower()
+    if "sbi po prelims" in sub_lower or "sbipo" in sub_lower:
+        try:
+            q_num = int(q_id)
+            if q_num <= 40:
+                return "English Language"
+            elif q_num <= 70:
+                return "Quantitative Aptitude"
+            else:
+                return "Reasoning Ability"
+        except:
+            pass
+
     # 0. If original subject is present and valid, prioritize, normalize and return it!
     if original_subject:
         subj = str(original_subject).strip()
