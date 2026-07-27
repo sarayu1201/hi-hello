@@ -6,6 +6,54 @@ import shutil
 import re
 from pymongo import MongoClient
 
+def choose_cleanest_question(q):
+    question = q.get("question", "")
+    q_val = q.get("q", "")
+    
+    if not q_val:
+        return question
+    if not question:
+        return q_val
+        
+    # Check for unescaped dollar imbalance
+    q_dollars = len(re.findall(r'(?<!\\)\$', q_val))
+    question_dollars = len(re.findall(r'(?<!\\)\$', question))
+    
+    # If q has odd dollars but question has even dollars, prefer question
+    if q_dollars % 2 != 0 and question_dollars % 2 == 0:
+        return question
+        
+    # If question has odd dollars but q has even dollars, prefer q
+    if question_dollars % 2 != 0 and q_dollars % 2 == 0:
+        return q_val
+        
+    # Check for unescaped % or raw sqrt in math blocks of both
+    q_has_broken_math = False
+    for block in re.findall(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', q_val):
+        if "%" in block and "\\%" not in block:
+            q_has_broken_math = True
+        if "sqrt" in block and "\\" not in block:
+            q_has_broken_math = True
+            
+    question_has_broken_math = False
+    for block in re.findall(r'(?<!\\)\$([\s\S]*?)(?<!\\)\$', question):
+        if "%" in block and "\\%" not in block:
+            question_has_broken_math = True
+        if "sqrt" in block and "\\" not in block:
+            question_has_broken_math = True
+
+    if q_has_broken_math and not question_has_broken_math:
+        return question
+    if question_has_broken_math and not q_has_broken_math:
+        return q_val
+        
+    # Check if question has summation corruption
+    if "\\sum" in question or "\\text{sum}" in question or "\\text{fit in}" in question:
+        if "sum" in q_val or "fit in" in q_val:
+            return q_val
+
+    return q_val
+
 def get_legacy_category(exam_type):
     exam_lower = str(exam_type).lower()
     if "ssc" in exam_lower or "sc_gd" in exam_lower or "sc_cgl" in exam_lower or "chsl" in exam_lower:
@@ -90,6 +138,19 @@ def map_filename_to_subtype(filename):
 
 
 def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
+    sub_lower = str(sub_type_val).lower()
+    if "sbi po prelims" in sub_lower or "sbipo" in sub_lower:
+        try:
+            q_num = int(q_id)
+            if q_num <= 40:
+                return "English Language"
+            elif q_num <= 70:
+                return "Quantitative Aptitude"
+            else:
+                return "Reasoning Ability"
+        except:
+            pass
+
     # 0. If original subject is present and valid, prioritize, normalize and return it!
     if original_subject:
         subj = str(original_subject).strip()
@@ -620,38 +681,20 @@ def find_actual_image_path(ref_path, base_images_dir):
     ref_path = ref_path.replace('\\', '/')
     parts = ref_path.split('/')
     filename = parts[-1]
-    folder = parts[-2] if len(parts) > 1 else ""
     
-    # Direct match check
-    target_absolute = os.path.join(base_images_dir, ref_path)
-    if os.path.exists(target_absolute):
-        return ref_path
+    # Filter out fake, auto-generated, or placeholder images
+    lower_filename = filename.lower()
+    if any(p in lower_filename for p in ["placeholder", "fake", "temp", "auto_generated", "auto-generated"]):
+        return ""
         
-    # Search recursively for smart matching
+    # Search recursively for exact filename match on disk to get correct relative path
     for root, dirs, files in os.walk(base_images_dir):
-        root_clean = os.path.basename(root)
-        if folder and root_clean.lower() != folder.lower():
-            continue
-            
         for f in files:
             if f.lower() == filename.lower():
                 return os.path.relpath(os.path.join(root, f), base_images_dir).replace('\\', '/')
-            
-            # diagram / table fallback
-            alt_f = filename.replace('diagram', 'table').replace('table', 'diagram').replace('image', 'diagram')
-            if f.lower() == alt_f.lower():
-                return os.path.relpath(os.path.join(root, f), base_images_dir).replace('\\', '/')
                 
-            # prefix fallback (e.g. dir_36_40)
-            stem = os.path.splitext(filename)[0]
-            if '_' in stem:
-                parts_stem = stem.split('_')
-                if len(parts_stem) > 2 and parts_stem[0] == 'dir':
-                    prefix = '_'.join(parts_stem[:3])
-                    if f.lower().startswith(prefix.lower()):
-                        return os.path.relpath(os.path.join(root, f), base_images_dir).replace('\\', '/')
-                        
-    return ref_path
+    # If not found on disk, return empty string (really not required/available)
+    return ""
 
 def copy_images(src_dir, dest_dir):
     print(f"Copying images from {src_dir} to {dest_dir}...")
@@ -761,87 +804,40 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
             total_error += 1
             continue
 
-        # Apply LaTeX conversions and save back to disk
-        modified = False
-        is_locked = filename.startswith("sbi_clerk_test_") or filename.startswith("sc_cgl_tier1_test")
-        if not is_locked:
-            for q in questions_list:
-                # Check question
-                old_q = q.get("question", "") or ""
-                new_q = to_latex(old_q)
-                if old_q != new_q:
-                    q["question"] = new_q
-                    modified = True
-                    
-                # Check explanation
-                old_exp = q.get("explanation", "") or ""
-                new_exp = to_latex(old_exp)
-                if old_exp != new_exp:
-                    q["explanation"] = new_exp
-                    modified = True
-                    
-                # Check options
-                options = q.get("options", [])
-                for opt in options:
-                    if isinstance(opt, dict):
-                        old_text = opt.get("text", "") or ""
-                        new_text = to_latex(old_text)
-                        if old_text != new_text:
-                            opt["text"] = new_text
-                            modified = True
-
-        if modified:
-            try:
-                with open(filepath, "w", encoding="utf-8") as fw:
-                    json.dump(questions_list, fw, indent=2, ensure_ascii=False)
-            except Exception as e:
-                print(f"  Warning: failed to write updated JSON back to disk: {e}")
-
         for idx, q in enumerate(questions_list):
             try:
-                q_id = q.get("id")
-                exam = q.get("exam")
+                q_id = q.get("id") or q.get("question_number") or q.get("display_question_number")
+                exam = q.get("course") or q.get("exam")
                 if not exam or str(exam).lower() == "general":
                     exam = folder
                 year = q.get("year", 2025)
                 original_subject = q.get("subject")
                 subject = get_standardized_subject(exam, sub_type_val, q_id, original_subject)
-                question_text = q.get("question", "") or ""
+                
+                question_text = choose_cleanest_question(q)
                 direction = q.get("direction", "") or ""
-                question_image_ref = q.get("questionImage", "") or ""
-                correct_ans = q.get("correctAnswer") or q.get("correct_answer")
+                question_image_ref = q.get("question_image") or q.get("questionImage") or q.get("question_image_ref", "") or ""
+                correct_ans = q.get("correct_answer") or q.get("correctAnswer") or q.get("correct_letter") or q.get("correct_option")
                 options = q.get("options", [])
 
                 has_question_content = bool(str(question_text).strip() or str(direction).strip() or str(question_image_ref).strip())
 
-                # Validation checks
                 if not q_id or not subject or not has_question_content or not correct_ans or len(options) < 2:
                     print(f"  Skipping Q index {idx}: Missing critical fields (id: {q_id}, subject: {subject}, has_content: {has_question_content}, correct_ans: {correct_ans}, options: {len(options)})")
                     total_error += 1
                     continue
 
-                if is_locked:
-                    full_question_text = question_text
-                    normalized_direction = direction
-                else:
-                    full_question_text = to_latex(question_text)
-                    normalized_direction = to_latex(direction)
-                
                 # Uniqueness enhancement: include sub_type (test name) to prevent collision
                 clean_exam = "".join(c for c in str(exam) if c.isalnum()).upper()
                 clean_subject = "".join(c for c in str(subject) if c.isalnum()).upper()
                 clean_sub_type = "".join(c for c in str(sub_type_val) if c.isalnum()).upper()
-                unique_id = f"{clean_exam}_{clean_sub_type}_{year}_{clean_subject}_Q{q_id}"
+                unique_id = q.get("unique_id") or f"{clean_exam}_{clean_sub_type}_{year}_{clean_subject}_Q{q_id}"
 
                 # Option mapping and content hashing
-                mapped_options = [clean_option_text(opt.get("text", "") or "", opt_idx) for opt_idx, opt in enumerate(options)]
-                if is_locked:
-                    normalized_options = mapped_options
-                else:
-                    normalized_options = [to_latex(opt) for opt in mapped_options]
-                raw_options_str = "".join([str(opt.get("text", "") or "") for opt in options])
+                mapped_options = [opt.get("text", "") if isinstance(opt, dict) else str(opt) for opt in options]
+                raw_options_str = "".join(mapped_options)
                 raw_content = (question_text or "") + raw_options_str
-                content_hash = hashlib.sha256(raw_content.encode("utf-8")).hexdigest()[:16]
+                content_hash = q.get("content_hash") or hashlib.sha256(raw_content.encode("utf-8")).hexdigest()[:16]
 
                 # Correct option index mapping
                 opt_letter = str(correct_ans).strip().upper()
@@ -855,17 +851,16 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 resolved_question_image = find_actual_image_path(question_image_ref, images_dir)
                 
                 resolved_option_images = []
-                for opt in options:
-                    opt_image_ref = opt.get("image", "") or ""
+                json_option_images = q.get("option_images") or q.get("optionImages") or []
+                for opt_idx, opt in enumerate(options):
+                    opt_image_ref = opt.get("image", "") or "" if isinstance(opt, dict) else ""
+                    if not opt_image_ref and opt_idx < len(json_option_images):
+                        opt_image_ref = json_option_images[opt_idx] or ""
                     resolved_opt_img = find_actual_image_path(opt_image_ref, images_dir)
                     resolved_option_images.append(resolved_opt_img)
 
                 # Format Explanation Images to resolve correctly
-                raw_explanation = q.get("explanation", "") or ""
-                if is_locked:
-                    explanation = raw_explanation
-                else:
-                    explanation = to_latex(raw_explanation)
+                explanation = q.get("explanation", "") or ""
                 def replace_md_image(match):
                     title = match.group(1)
                     img_path = match.group(2)
@@ -886,32 +881,32 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                     'chapter': q.get('topic', ''),
                     'topic': q.get('topic', ''),
                     'difficulty': q.get('difficulty', 'Medium'),
-                    'question_type': 'multiple_choice',
-                    'question': full_question_text,
-                    'options': normalized_options,
+                    'question_type': q.get('question_type', 'multiple_choice'),
+                    'question': question_text,
+                    'options': mapped_options,
                     'correct_option': opt_letter,
                     'correct_answer': opt_letter,
                     'explanation': explanation,
                     'question_image': resolved_question_image,
                     'option_images': resolved_option_images,
-                    'direction': normalized_direction,
+                    'direction': direction,
                     'raw_direction': direction,
                     'raw_question': question_text,
-                    'raw_explanation': raw_explanation,
+                    'raw_explanation': q.get("explanation", ""),
                     'raw_options': mapped_options,
-                    'created_at': "2026-07-18 22:30:00",
-                    'updated_at': "2026-07-18 22:30:00",
+                    'created_at': q.get("created_at", "2026-07-18 22:30:00"),
+                    'updated_at': q.get("updated_at", "2026-07-18 22:30:00"),
                     
                     # Legacy compatibility
                     'category': legacy_category,
                     'section': subject,
-                    'q': full_question_text,
+                    'q': question_text,
                     'correct': correct_idx,
                     'question_number': q_id,
                     'source_file': filename,
                     'correct_letter': opt_letter,
                     'status': 'ok',
-                    'is_mock_eligible': True
+                    'is_mock_eligible': q.get("is_mock_eligible") if q.get("is_mock_eligible") is not None else True
                 }
 
                 docs_to_insert.append(doc)
@@ -922,6 +917,13 @@ def import_all_papers(json_dir, images_dir, mongo_uri, db_name="kr_academy"):
                 total_error += 1
 
     if docs_to_insert:
+        print("Clearing questions collection in MongoDB...")
+        try:
+            questions_col.delete_many({})
+            print("Successfully cleared questions collection.")
+        except Exception as e:
+            print(f"Warning: failed to clear questions collection: {e}")
+            
         print(f"Bulk inserting {len(docs_to_insert)} questions into MongoDB...")
         try:
             questions_col.insert_many(docs_to_insert, ordered=False)
@@ -945,22 +947,37 @@ if __name__ == "__main__":
     copy_images(uploads_images_folder, images_folder)
     
     # Try to load MONGODB_URI from environment variables or backend/.env
-    mongo_uri = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
-    if not mongo_uri:
-        mongo_uri = "mongodb://localhost:27017/kr_academy"
-        env_file = os.path.join(workspace_root, "backend", ".env")
-        if os.path.exists(env_file):
-            with open(env_file, "r", encoding="utf-8") as f:
-                for line in f:
-                    if line.startswith("MONGODB_URI="):
-                        mongo_uri = line.split("=", 1)[1].strip()
-                        break
+    mongo_uris = []
     
-    print(f"Using MongoDB URI: {mongo_uri[:35]}...")
+    # 1. Add local fallback
+    mongo_uris.append("mongodb://localhost:27017/kr_academy")
     
-    # 2. Run MongoDB Ingestion
-    import_all_papers(
-        json_dir=json_folder,
-        images_dir=images_folder,
-        mongo_uri=mongo_uri
-    )
+    # 2. Add env-based uri
+    mongo_uri_env = os.environ.get("MONGODB_URI") or os.environ.get("MONGO_URI")
+    if mongo_uri_env and mongo_uri_env not in mongo_uris:
+        mongo_uris.append(mongo_uri_env)
+        
+    # 3. Add .env file uri
+    env_file = os.path.join(workspace_root, "backend", ".env")
+    if os.path.exists(env_file):
+        with open(env_file, "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("MONGODB_URI="):
+                    val = line.split("=", 1)[1].strip()
+                    if val and val not in mongo_uris:
+                        mongo_uris.append(val)
+                    break
+    
+    # 2. Run MongoDB Ingestion for all resolved URIs
+    for uri in mongo_uris:
+        print(f"\n==================================================")
+        print(f"Running MongoDB Ingestion for: {uri[:55]}...")
+        print(f"==================================================")
+        try:
+            import_all_papers(
+                json_dir=json_folder,
+                images_dir=images_folder,
+                mongo_uri=uri
+            )
+        except Exception as e:
+            print(f"Warning: Failed to ingest into {uri}: {e}")

@@ -1039,19 +1039,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$40,33,03,88$"
+        "text": "40, 33, 03, 88"
       },
       {
         "id": "B",
-        "text": "$99,23,56,00$"
+        "text": "99, 23, 56, 00"
       },
       {
         "id": "C",
-        "text": "$59,42,12,79$"
+        "text": "59, 42, 12, 79"
       },
       {
         "id": "D",
-        "text": "$13,11,30,41$"
+        "text": "13, 11, 30, 41"
       }
     ],
     "correct_option": "D",
@@ -1141,19 +1141,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Choice A"
+        "text": "Choice A",
+        "image": "ssc_chsl_tier1_paper3_q23_a.png"
       },
       {
         "id": "B",
-        "text": "Choice B"
+        "text": "Choice B",
+        "image": "ssc_chsl_tier1_paper3_q23_b.png"
       },
       {
         "id": "C",
-        "text": "Choice C"
+        "text": "Choice C",
+        "image": "ssc_chsl_tier1_paper3_q23_c.png"
       },
       {
         "id": "D",
-        "text": "Choice D"
+        "text": "Choice D",
+        "image": "ssc_chsl_tier1_paper3_q23_d.png"
       }
     ],
     "correct_option": "D",
@@ -1192,19 +1196,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Choice A"
+        "text": "Choice A",
+        "image": "ssc_chsl_tier1_paper3_q24_a.png"
       },
       {
         "id": "B",
-        "text": "Choice B"
+        "text": "Choice B",
+        "image": "ssc_chsl_tier1_paper3_q24_b.png"
       },
       {
         "id": "C",
-        "text": "Choice C"
+        "text": "Choice C",
+        "image": "ssc_chsl_tier1_paper3_q24_c.png"
       },
       {
         "id": "D",
-        "text": "Choice D"
+        "text": "Choice D",
+        "image": "ssc_chsl_tier1_paper3_q24_d.png"
       }
     ],
     "correct_option": "A",
@@ -1243,19 +1251,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Choice A"
+        "text": "Choice A",
+        "image": "ssc_chsl_tier1_paper3_q25_a.png"
       },
       {
         "id": "B",
-        "text": "Choice B"
+        "text": "Choice B",
+        "image": "ssc_chsl_tier1_paper3_q25_b.png"
       },
       {
         "id": "C",
-        "text": "Choice C"
+        "text": "Choice C",
+        "image": "ssc_chsl_tier1_paper3_q25_c.png"
       },
       {
         "id": "D",
-        "text": "Choice D"
+        "text": "Choice D",
+        "image": "ssc_chsl_tier1_paper3_q25_d.png"
       }
     ],
     "correct_option": "C",
@@ -2824,19 +2836,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$50√(2 + 50 sq cm$"
+        "text": "$50√(2 + 50 sq$ cm"
       },
       {
         "id": "B",
-        "text": "$50√(2 + 100 sq cm$"
+        "text": "$50√(2 + 100 sq$ cm"
       },
       {
         "id": "C",
-        "text": "$100√(2 + 50 sq cm$"
+        "text": "$100√(2 + 50 sq$ cm"
       },
       {
         "id": "D",
-        "text": "$100√(2 + 100 sq cm$"
+        "text": "$100√(2 + 100 sq$ cm"
       }
     ],
     "correct_option": "A",
@@ -3659,7 +3671,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "$The slope of y = 2 x + 3 is 2. A perpendicular line has slope -\\frac{1}{2}. Passing through (-5, 0), the required equation is x + 2 y = -5$.",
-    "question_image": "",
+    "question_image": "ssc_chsl_tier1_paper3_q72.png",
     "option_images": [
       "",
       "",
@@ -3710,7 +3722,7 @@
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Expanding both squares gives $(x + 2 y)^2 − (x − 2 y)^2$ = 8 xy. Therefore, 4 pxy = 8 xy, giving p = 2.",
-    "question_image": "",
+    "question_image": "ssc_chsl_tier1_paper3_q73.png",
     "option_images": [
       "",
       "",
@@ -3761,7 +3773,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$Runs scored in 26 overs = 26 \\times 5.4 = 140.4. Remaining runs = 294 − 140.4 = 153.6. Required run rate = 153.6 \\div 24 = 6.4 runs per over$.",
-    "question_image": "",
+    "question_image": "ssc_chsl_tier1_paper3_q74.png",
     "option_images": [
       "",
       "",
@@ -3812,7 +3824,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$\\tan(-\\theta) = -\\tan(\\theta$). Since $\\tan(5\\pi/6) = -1/\\sqrt{3}, \\tan(-5\\pi/6) = 1/\\sqrt{3}$.",
-    "question_image": "",
+    "question_image": "ssc_chsl_tier1_paper3_q75.png",
     "option_images": [
       "",
       "",

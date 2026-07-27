@@ -5,7 +5,7 @@ export const cleanText = (text) => {
   if (!text) return "";
   
   let fixed = text
-    // Correct common merged words from PDF OCR / ingestion issues
+    // Safe corrections for common merged words from OCR
     .replace(/\bIfthe\b/g, "If the")
     .replace(/\bofasphere\b/g, "of a sphere")
     .replace(/\bfindthe\b/gi, "find the")
@@ -13,7 +13,6 @@ export const cleanText = (text) => {
     .replace(/\beachof\b/gi, "each of")
     .replace(/\bfitin\b/gi, "fit in")
     .replace(/\bwhatis\b/gi, "what is")
-    .replace(/\bquestions?\b/gi, "question")
     .replace(/\bnumberof\b/gi, "number of")
     .replace(/\boftriangle\b/gi, "of triangle")
     .replace(/\bABCandtriangle\b/gi, "ABC and triangle")
@@ -38,7 +37,7 @@ export const cleanText = (text) => {
     .replace(/\bproductof\b/gi, "product of")
     .replace(/\bperimetersof\b/gi, "perimeters of")
     .replace(/\bareaof\b/gi, "area of")
-    // Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm", "sphere56" -> "sphere 56"
+    // Fix spaces around alphanumeric boundaries: e.g. "56cm" -> "56 cm"
     .replace(/([a-zA-Z]+)([0-9]+)/g, "$1 $2")
     .replace(/([0-9]+)([a-zA-Z]+)/g, "$1 $2")
     // Separate lowercase to uppercase transition (e.g. "heightCD" -> "height CD")
@@ -56,53 +55,185 @@ export const cleanText = (text) => {
 };
 
 // Self-healing LaTeX checker and formatter
+// Robust LaTeX checker and formatter
+function getNestedContent(text, startIdx) {
+  let depth = 0;
+  let openChar = text[startIdx];
+  let closeChar = openChar === '{' ? '}' : (openChar === '(' ? ')' : ']');
+  for (let i = startIdx; i < text.length; i++) {
+    if (text[i] === openChar) depth++;
+    else if (text[i] === closeChar) {
+      depth--;
+      if (depth === 0) return { content: text.substring(startIdx + 1, i), endIdx: i };
+    }
+  }
+  return { content: text.substring(startIdx + 1), endIdx: text.length };
+}
+
+function wrapLaTeXInString(text) {
+  let result = "";
+  let idx = 0;
+  while (idx < text.length) {
+    let nextFrac = text.indexOf("\\frac", idx);
+    let nextSqrt = text.indexOf("\\sqrt", idx);
+    
+    let target = -1;
+    let type = ""; // "frac" or "sqrt"
+    if (nextFrac !== -1 && (nextSqrt === -1 || nextFrac < nextSqrt)) {
+      target = nextFrac;
+      type = "frac";
+    } else if (nextSqrt !== -1) {
+      target = nextSqrt;
+      type = "sqrt";
+    }
+    
+    if (target === -1) {
+      // Find other standalone commands
+      let cmdRegex = /\\(times|div|alpha|beta|gamma|theta|lambda|pi|sum|int|le|ge|sin|cos|tan|log|ln|pm|approx|ne|circ|cap|cup|cap'\b|cup'\b|cap\b|cup\b|cap'|cup')\b/;
+      let match = cmdRegex.exec(text.substring(idx));
+      if (match) {
+        let matchIdx = idx + match.index;
+        result += text.substring(idx, matchIdx);
+        result += `$${match[0]}$`;
+        idx = matchIdx + match[0].length;
+        continue;
+      }
+      
+      result += text.substring(idx);
+      break;
+    }
+    
+    result += text.substring(idx, target);
+    
+    // Parse arguments of \frac or \sqrt
+    let curr = target + 5;
+    while (curr < text.length && /\s/.test(text[curr])) curr++;
+    
+    if (curr < text.length && text[curr] === '{') {
+      let firstArg = getNestedContent(text, curr);
+      curr = firstArg.endIdx + 1;
+      
+      if (type === "frac") {
+        while (curr < text.length && /\s/.test(text[curr])) curr++;
+        if (curr < text.length && text[curr] === '{') {
+          let secondArg = getNestedContent(text, curr);
+          curr = secondArg.endIdx + 1;
+          let wrappedFrac = `$\\frac{${firstArg.content}}{${secondArg.content}}$`;
+          result += wrappedFrac;
+        } else {
+          result += `$\\frac{${firstArg.content}}{}$`;
+        }
+      } else {
+        let wrappedSqrt = `$\\sqrt{${firstArg.content}}$`;
+        result += wrappedSqrt;
+      }
+      idx = curr;
+    } else {
+      let commandLength = 5;
+      result += `$${text.substring(target, target + commandLength + 1)}$`;
+      idx = target + commandLength + 1;
+    }
+  }
+  return result;
+}
+
 export const cleanLaTeX = (text) => {
   if (!text) return "";
 
-  let fixed = text;
-
-  // Auto-prepend backslash to raw unformatted sqrt statements (e.g. sqrt{39.99} -> \sqrt{39.99})
-  fixed = fixed.replace(/(?<!\\)sqrt/g, "\\sqrt");
-
-  // Balance curly braces (e.g. if \sqrt{3025 has no closing curly brace)
-  const openBraceCount = (fixed.match(/\\(sqrt|frac|text)\{/g) || []).length;
-  let closeBraceCount = (fixed.match(/\}/g) || []).length;
-  while (closeBraceCount < openBraceCount) {
-    fixed += "}";
-    closeBraceCount++;
+  // Normalize double backslashes to single backslashes
+  let fixed = text.trim().replace(/\\\\/g, "\\");
+  
+  // Short-circuit for simple plain text (e.g. "$ and &", "7%")
+  const unescapedDollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
+  if (unescapedDollarCount < 2 && !fixed.includes("\\") && !fixed.includes("^") && !fixed.includes("_")) {
+    return fixed;
   }
-
-  // Detect and fix fake math blocks: if the entire string is wrapped in a single $ ... $ but is actually a sentence.
-  if (fixed.startsWith("$") && fixed.endsWith("$") && (fixed.match(/(?<!\\)\$/g) || []).length === 2) {
-    const inner = fixed.slice(1, -1);
-    if (inner.split(" ").length > 3 && /[a-zA-Z]{3,}/.test(inner)) {
-      // It is a text paragraph! Let's unwrap it.
-      let parts = inner.split(" ");
-      parts = parts.map(part => {
-        if (part.includes("$")) return part;
-        const isMath = /\\|[\^_\=\+\-\*\/<>:]|^\d+$|^\b[a-zA-Z]\b$/.test(part);
-        if (isMath) {
-          return `$${part}$`;
-        }
-        return part;
-      });
-      fixed = parts.join(" ");
+  
+  // Safe matching for wrapped dollar delimiters:
+  // ONLY strip dollar signs if the string actually starts and ends with a dollar sign
+  // AND it does not contain indicators of a mathematical formula
+  const matchWrapped = fixed.match(/^[\s\u200b\ufeff]*\$([\s\S]*?)\$[\s\u200b\ufeff]*([.?)\s]*)$/);
+  if (matchWrapped) {
+    const inner = matchWrapped[1];
+    const isMath = inner.includes("\\") || inner.includes("^") || inner.includes("_") || inner.includes("=") || inner.includes("<") || inner.includes(">");
+    if (!isMath) {
+      fixed = inner + matchWrapped[2];
     }
   }
 
-  // Ensure closed dollar block delimiters (ignoring escaped ones)
+  // 1. Normalize delimiters
+  fixed = fixed
+    .replace(/\\\$[\s*([{\s]*/g, "$")
+    .replace(/\\\([\s*([{\s]*/g, "$")
+    .replace(/[\s*)[\]}\s]*\\\$/g, "$")
+    .replace(/[\s*)[\]}\s]*\\\)/g, "$")
+    .replace(/\\\[[\s*([{\s]*/g, "$$")
+    .replace(/[\s*)[\]}\s]*\\\]/g, "$$");
+
+  // Move currency signs out of math blocks to prevent MathJax font render errors:
+  // e.g. $₹4,307 \frac{9}{13}$ -> ₹$4,307 \frac{9}{13}$
+  fixed = fixed.replace(/\$([₹Rs]+)([\s\S]*?)\$/gi, (match, currency, rest) => {
+    return `${currency}$${rest}$`;
+  });
+
+  // 2. Ensure closed dollar block delimiters
   const dollarCount = (fixed.match(/(?<!\\)\$/g) || []).length;
   if (dollarCount % 2 !== 0) {
     fixed += "$";
   }
 
-  // Escape raw % percentage, hash (#), and ampersand (&) signs in LaTeX math blocks to avoid parsing warnings or KaTeX crashes
-  fixed = fixed.replace(/(?<!\\)\$([\s\S]*?)(?<!\\)\$/g, (match, mathContent) => {
-    let escapedMath = mathContent.replace(/(?<!\\)%/g, "\\%");
-    escapedMath = escapedMath.replace(/(?<!\\)#/g, "\\#");
-    escapedMath = escapedMath.replace(/(?<!\\)&/g, "\\&");
-    return `$${escapedMath}$`;
+  // 3. Fix percentage signs inside math blocks (escape them as \% if not already escaped)
+  fixed = fixed.replace(/\$([\s\S]*?)\$/g, (match, mathContent) => {
+    let cleaned = mathContent;
+    if (cleaned.includes("₹")) {
+      cleaned = cleaned.replaceAll("₹", "$ ₹ $");
+    }
+    if (cleaned.includes("Rs")) {
+      cleaned = cleaned.replaceAll("Rs", "$ Rs $");
+    }
+    let escaped = cleaned.replace(/(?<!\\)%/g, "\\%");
+    return `$${escaped}$`;
   });
+
+  // 4. Wrap raw LaTeX commands outside math blocks
+  let parts = fixed.split("$");
+  for (let i = 0; i < parts.length; i++) {
+    if (i % 2 === 0) {
+      parts[i] = parts[i].replace(/\\text\s*\{([^{}]+)\}/g, "$1");
+      parts[i] = wrapLaTeXInString(parts[i]);
+      
+      // Clean up escaped percentage signs in plain text
+      parts[i] = parts[i].replace(/\\%/g, "%");
+      
+      // Replace units with unicode superscripts in plain text
+      parts[i] = parts[i]
+        .replace(/\bcm\^2\b/g, "cm²")
+        .replace(/\bm\^2\b/g, "m²")
+        .replace(/\bkm\^2\b/g, "km²")
+        .replace(/\bcm\^3\b/g, "cm³")
+        .replace(/\bm\^3\b/g, "m³")
+        .replace(/\bkm\^3\b/g, "km³");
+      
+      // Also wrap standalone power terms and subscript terms (allowing multiple letters, digits, dots, question marks)
+      parts[i] = parts[i].replace(/([a-zA-Z0-9.?]+)\^(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/([a-zA-Z0-9.?]+)_(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*=/? ]+\))\^(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}^${g2}$`);
+      parts[i] = parts[i].replace(/(\([a-zA-Z0-9+\-*=/? ]+\))_(\{?[a-zA-Z0-9+\-*=/?]+\}?)/g, (m, g1, g2) => `$${g1}_${g2}$`);
+    } else {
+      // Replace units inside math blocks for professional look
+      parts[i] = parts[i]
+        .replace(/\bcm\^2\b/g, "\\text{cm}^2")
+        .replace(/\bm\^2\b/g, "\\text{m}^2")
+        .replace(/\bkm\^2\b/g, "\\text{km}^2")
+        .replace(/\bcm\^3\b/g, "\\text{cm}^3")
+        .replace(/\bm\^3\b/g, "\\text{m}^3")
+        .replace(/\bkm\^3\b/g, "\\text{km}^3");
+    }
+  }
+  fixed = parts.join("$");
+
+  // 5. Clean up adjacent dollars
+  fixed = fixed.replace(/\$\s*\$/g, " ");
 
   return fixed;
 };

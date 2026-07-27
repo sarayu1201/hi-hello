@@ -1681,35 +1681,6 @@ const generateMocksForCourse = async (courseId, courseTitle, category = "Bank & 
   }).lean();
 
   let courseQuestions = allCourseQuestions;
-  if (courseQuestions.length === 0) {
-    console.log(`[Exam Engine] No questions found for courseFilter:`, courseFilter, ". Fetching fallback banking questions...");
-    let fallbackCourse = "ibps_po_prelims";
-    if (courseIdLower.includes("clerk")) fallbackCourse = "sbi_clerk_prelims";
-    
-    const fallbackQuestions = await Question.find({
-      course: { $in: [fallbackCourse, "SBI Clerk Prelims"] },
-      is_mock_eligible: true,
-      status: { $ne: "needs_review" }
-    }).lean();
-    
-    if (fallbackQuestions.length > 0) {
-      courseQuestions = fallbackQuestions.map(q => {
-        const paperName = q.paper_name || q.sub_type || "";
-        const mappedPaper = paperName
-          .replace("IBPS PO", "SBI PO")
-          .replace("SBI Clerk", "SBI PO")
-          .replace("ibps_po", "sbi_po")
-          .replace("sbi_clerk", "sbi_po");
-        
-        return {
-          ...q,
-          course: "SBI PO Prelims",
-          sub_type: mappedPaper,
-          paper_name: mappedPaper
-        };
-      });
-    }
-  }
 
   if (courseQuestions.length === 0) {
     return [];
@@ -2736,15 +2707,16 @@ const resolveDbCourse = (subType) => {
 const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null) => {
   let category = "Bank & Insurance";
   const typeLower = String(exam_type || "").toLowerCase();
-  if (typeLower.includes("rail") || typeLower.includes("rrb")) {
+  const subLower = String(sub_type || "").toLowerCase();
+  if (typeLower.includes("rail") || typeLower.includes("rrb") || subLower.includes("rail") || subLower.includes("rrb")) {
     category = "RRB & Railways";
-  } else if (typeLower.includes("ssc")) {
+  } else if (typeLower.includes("ssc") || subLower.includes("ssc")) {
     category = "SSC Exams";
-  } else if (typeLower.includes("neet") || typeLower.includes("jee")) {
+  } else if (typeLower.includes("neet") || typeLower.includes("jee") || subLower.includes("neet") || subLower.includes("jee")) {
     category = "NEET / JEE";
-  } else if (typeLower.includes("upsc") || typeLower.includes("civil")) {
+  } else if (typeLower.includes("upsc") || typeLower.includes("civil") || subLower.includes("upsc") || subLower.includes("civil")) {
     category = "UPSC / Civil";
-  } else if (typeLower.includes("state") || typeLower.includes("appsc") || typeLower.includes("tspsc")) {
+  } else if (typeLower.includes("state") || typeLower.includes("appsc") || typeLower.includes("tspsc") || subLower.includes("appsc") || subLower.includes("tspsc")) {
     category = "State Exams";
   }
 
@@ -2782,15 +2754,13 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   
   let resolvedCourse = resolveDbCourse(resolvedSubTypes[0]);
   if (resolvedCourse) {
-    if (resolvedCourse === "sbi_po_prelims") {
-      filter.course = "ibps_po_prelims";
-    } else {
-      filter.course = resolvedCourse;
-    }
+    filter.course = resolvedCourse;
   }
 
   let mappedExamType = exam_type;
-  if (exam_type) {
+  if (subLower.includes("rrb") || subLower.includes("rail") || resolvedSubTypes.some(s => String(s).toLowerCase().includes("rrb") || String(s).toLowerCase().includes("rail"))) {
+    mappedExamType = "RRB";
+  } else if (exam_type) {
     const etLower = exam_type.toLowerCase();
     if (etLower.includes("rail") || etLower.includes("rrb")) {
       mappedExamType = "RRB";

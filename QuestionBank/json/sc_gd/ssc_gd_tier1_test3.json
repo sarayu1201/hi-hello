@@ -172,31 +172,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper3_q4_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper3_q4_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper3_q4_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper3_q4_d.png"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Reflecting the given elements laterally across vertical line AB yields Figure 4.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper3_q4.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper3_q4_a.png",
+      "ssc_gd_cbt_paper3_q4_b.png",
+      "ssc_gd_cbt_paper3_q4_c.png",
+      "ssc_gd_cbt_paper3_q4_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -218,8 +222,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "If 'A' denotes 'addition', 'B' denotes 'multiplication', 'C' denotes 'subtraction' and 'D' denotes 'division', then what will be the value of the following expression?\n483 D 23 A 93 C 16 B 4",
-    "q": "If 'A' denotes 'addition', 'B' denotes 'multiplication', 'C' denotes 'subtraction' and 'D' denotes 'division', then what will be the value of the following expression?\n483 D 23 A 93 C 16 B 4",
+    "question": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times$' and '$\\div$' are interchanged?\n$483 \\div 23 + 93 - 16 \\times 4 = ?$",
+    "q": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times$' and '$\\div$' are interchanged?\n$483 \\div 23 + 93 - 16 \\times 4 = ?$",
     "options": [
       {
         "id": "A",
@@ -241,7 +245,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Replacing symbols gives: 483 ÷ 23 + 93-16 × 4 = 21 + 93-64 = 114-64 = 50$.",
+    "explanation": "$Replacing symbols gives: 483 \\div 23 + 93 - 16 \\times 4 = 21 + 93 - 64 = 114 - 64 = 50$.",
     "question_image": "",
     "option_images": [
       "",
@@ -343,7 +347,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$Each letter is represented by its positional value in the English alphabet: B=2, U=21, L=12, L=12 ⇒ 2-2112-12$.",
+    "explanation": "$Each letter is represented by its positional value in the English alphabet: B=2, U=21, L=12, L=12 \\Rightarrow 2-2112-12$.",
     "question_image": "",
     "option_images": [
       "",
@@ -395,7 +399,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Comparing positions of the dice, the face opposite to B is E.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper3_q8.png",
     "option_images": [
       "",
       "",
@@ -496,7 +500,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Row pattern: (1 st number × 4) + (2 nd number) = 3 rd number - 24, or 1 st number + 3 × 2 nd number = 3 rd number. Row 1: 5 + 3(17) = 56 (61-5). Row 2: 6 + 3(21) = 69 (75-6). For Row 3: 8 + 3(x) = 103-8 = 95 ⇒ 3 x = 87 ⇒ x = 29$.",
+    "explanation": "$Row pattern: (1\\text{st number} \\times 4) + (2\\text{nd number}) = 3\\text{rd number} - 24$, or $1\\text{st number} + 3 \\times 2\\text{nd number} = 3\\text{rd number}$. Row 1: $5 + 3(17) = 56$ ($61-5$). Row 2: $6 + 3(21) = 69$ ($75-6$). For Row 3: $8 + 3(x) = 103-8 = 95 \\Rightarrow 3x = 87 \\Rightarrow x = 29$.",
     "question_image": "",
     "option_images": [
       "",
@@ -529,19 +533,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper3_q11_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper3_q11_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper3_q11_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper3_q11_d.png"
       }
     ],
     "correct_option": "A",
@@ -550,10 +558,10 @@
     "explanation": "Both Civics and Chemistry are distinct Subjects. Figure 1 shows two disjoint circles inside a larger circle.",
     "question_image": "",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper3_q11_a.png",
+      "ssc_gd_cbt_paper3_q11_b.png",
+      "ssc_gd_cbt_paper3_q11_c.png",
+      "ssc_gd_cbt_paper3_q11_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -631,31 +639,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper3_q13_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper3_q13_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper3_q13_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper3_q13_d.png"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "The given pattern is embedded inside Figure 2.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper3_q13.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper3_q13_a.png",
+      "ssc_gd_cbt_paper3_q13_b.png",
+      "ssc_gd_cbt_paper3_q13_c.png",
+      "ssc_gd_cbt_paper3_q13_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1039,31 +1051,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper3_q21_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper3_q21_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper3_q21_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper3_q21_d.png"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Unfolding the paper vertically and horizontally reflects the symmetrical cutouts as shown in Figure 3.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper3_q21.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper3_q21_a.png",
+      "ssc_gd_cbt_paper3_q21_b.png",
+      "ssc_gd_cbt_paper3_q21_c.png",
+      "ssc_gd_cbt_paper3_q21_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -1141,19 +1157,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$1,2,3,4,5$"
+        "text": "1, 2, 3, 4, 5"
       },
       {
         "id": "B",
-        "text": "$3,5,1,2,4$"
+        "text": "3, 5, 1, 2, 4"
       },
       {
         "id": "C",
-        "text": "$3,5,2,4,1$"
+        "text": "3, 5, 2, 4, 1"
       },
       {
         "id": "D",
-        "text": "$3,5,1,4,2$"
+        "text": "3, 5, 1, 4, 2"
       }
     ],
     "correct_option": "D",
@@ -1243,31 +1259,35 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure 1"
+        "text": "Figure 1",
+        "image": "ssc_gd_cbt_paper3_q25_a.png"
       },
       {
         "id": "B",
-        "text": "Figure 2"
+        "text": "Figure 2",
+        "image": "ssc_gd_cbt_paper3_q25_b.png"
       },
       {
         "id": "C",
-        "text": "Figure 3"
+        "text": "Figure 3",
+        "image": "ssc_gd_cbt_paper3_q25_c.png"
       },
       {
         "id": "D",
-        "text": "Figure 4"
+        "text": "Figure 4",
+        "image": "ssc_gd_cbt_paper3_q25_d.png"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
     "explanation": "Following the rotation pattern of line segments, Figure 4 completes the series.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper3_q25.png",
     "option_images": [
-      "",
-      "",
-      "",
-      ""
+      "ssc_gd_cbt_paper3_q25_a.png",
+      "ssc_gd_cbt_paper3_q25_b.png",
+      "ssc_gd_cbt_paper3_q25_c.png",
+      "ssc_gd_cbt_paper3_q25_d.png"
     ],
     "status": "ok",
     "is_mock_eligible": true,
@@ -2995,7 +3015,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$30(x - y) = 20(x + y) ⇒ 3 x - 3 y = 2 x + 2 y ⇒ x = 5 y ⇒ y/x = 1/5 = 20\\%$.",
+    "explanation": "$30(x - y) = 20(x + y) \\Rightarrow 3x - 3y = 2x + 2y \\Rightarrow x = 5y \\Rightarrow y/x = 1/5 = 20\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3199,7 +3219,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Distance = (v + 5) × 2 = (v - 5) × 3.25 ⇒ 2 v + 10 = 3.25 v - 16.25 ⇒ 1.25 v = 26.25 ⇒ v = 21 km/h$.",
+    "explanation": "$Distance = (v + 5) \\times 2 = (v - 5) \\times 3.25 \\Rightarrow 2v + 10 = 3.25v - 16.25 \\Rightarrow 1.25v = 26.25 \\Rightarrow v = 21\\text{ km/h}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3811,7 +3831,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$(x + y)/(x - y) = 23/3 ⇒ x/y = (23 + 3)/(23-3) = 26/20 = 13/10. (x^2 - y^2)/(x^2 + y^2) = (169-100)/(169 + 100) = 69 / 269$.",
+    "explanation": "$(x + y)/(x - y) = 23/3 \\Rightarrow x/y = (23 + 3)/(23-3) = 26/20 = 13/10$. $(x^2 - y^2)/(x^2 + y^2) = (169-100)/(169 + 100) = 69 / 269$.",
     "question_image": "",
     "option_images": [
       "",

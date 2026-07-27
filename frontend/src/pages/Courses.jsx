@@ -2012,8 +2012,7 @@ export default function Courses({ user, setUser, requestAuth, selectedCategory, 
             return {
               q: q.question_text || q.q,
               direction: q.direction || "",
-        direction: q.direction || "",
-    question_image: q.question_image || "",
+              question_image: q.question_image || "",
               options: cleanedOpts.map((o, idx) => ({
                 text: o,
                 image: optImgs[idx] || null

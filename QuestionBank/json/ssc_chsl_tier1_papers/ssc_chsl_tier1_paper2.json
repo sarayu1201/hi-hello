@@ -905,7 +905,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Deaths in 2013 = 5000 and in 2011 = 2500. Difference = 5000 − 2500 = 2500.",
-    "question_image": "ssc_chsl_tier1_paper2_q17.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -956,7 +956,7 @@
     "correct_answer": "C",
     "correct_letter": "C",
     "explanation": "Deaths in 2014 = 6000 and in 2017 = 5000. Percentage increase = ((6000 − 5000) $(\\div 5000) \\times$ 100 = 20%.",
-    "question_image": "ssc_chsl_tier1_paper2_q17.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1007,7 +1007,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Deaths in 2016 = 7500. Insurance per death = Rs. 50 lakhs = Rs. 0.5 crore. Total insurance = 7500 \\times 0.5 = Rs. 3750 crore$.",
-    "question_image": "ssc_chsl_tier1_paper2_q17.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1094,15 +1094,15 @@
       },
       {
         "id": "B",
-        "text": "$12 cm$"
+        "text": "$12$ cm"
       },
       {
         "id": "C",
-        "text": "$17 cm$"
+        "text": "$17$ cm"
       },
       {
         "id": "D",
-        "text": "$8 cm$"
+        "text": "$8$ cm"
       }
     ],
     "correct_option": "A",
@@ -1901,8 +1901,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '$\\times', '\\div$' represents '+', '+' represents '$\\div' and '\\times$' represents '-'. Find the value of:\n$7 \\times 10 \\div (30 - 2 + 6 = ?$",
-    "q": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n$7 \\times 10 \\div (30 - 2 + 6 = ?$",
+    "question": "In a certain code language, '-' represents '$\\times', '\\div' represents '+', '+' represents '\\div' and '\\times$' represents '-'. Find the value of:\n$7 \\times 10 \\div (30 - 2 + 6 = ?$",
+    "q": "In a certain code language, '-' represents '$\\times$', '\\div$' represents '+', '+' represents '$\\div$' and '\\times$' represents '-'. Find the value of:\n$7 \\times 10 \\div (30 - 2 + 6 = ?$",
     "options": [
       {
         "id": "A",
@@ -2416,19 +2416,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Choice A"
+        "text": "Choice A",
+        "image": "ssc_chsl_tier1_paper2_q48_a.png"
       },
       {
         "id": "B",
-        "text": "Choice B"
+        "text": "Choice B",
+        "image": "ssc_chsl_tier1_paper2_q48_b.png"
       },
       {
         "id": "C",
-        "text": "Choice C"
+        "text": "Choice C",
+        "image": "ssc_chsl_tier1_paper2_q48_c.png"
       },
       {
         "id": "D",
-        "text": "Choice D"
+        "text": "Choice D",
+        "image": "ssc_chsl_tier1_paper2_q48_d.png"
       }
     ],
     "correct_option": "C",
@@ -2467,19 +2471,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Choice A"
+        "text": "Choice A",
+        "image": "ssc_chsl_tier1_paper2_q49_a.png"
       },
       {
         "id": "B",
-        "text": "Choice B"
+        "text": "Choice B",
+        "image": "ssc_chsl_tier1_paper2_q49_b.png"
       },
       {
         "id": "C",
-        "text": "Choice C"
+        "text": "Choice C",
+        "image": "ssc_chsl_tier1_paper2_q49_c.png"
       },
       {
         "id": "D",
-        "text": "Choice D"
+        "text": "Choice D",
+        "image": "ssc_chsl_tier1_paper2_q49_d.png"
       }
     ],
     "correct_option": "A",
@@ -2518,19 +2526,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$57,33,42,86$"
+        "text": "57, 33, 42, 86"
       },
       {
         "id": "B",
-        "text": "$33,58,14,76$"
+        "text": "33, 58, 14, 76"
       },
       {
         "id": "C",
-        "text": "$11,58,34,78$"
+        "text": "11, 58, 34, 78"
       },
       {
         "id": "D",
-        "text": "$34,97,13,86$"
+        "text": "34, 97, 13, 86"
       }
     ],
     "correct_option": "A",

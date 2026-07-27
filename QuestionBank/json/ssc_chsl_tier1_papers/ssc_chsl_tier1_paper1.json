@@ -223,7 +223,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$20 cm$"
+        "text": "$20$ cm"
       },
       {
         "id": "B",
@@ -231,11 +231,11 @@
       },
       {
         "id": "C",
-        "text": "$8 cm$"
+        "text": "$8$ cm"
       },
       {
         "id": "D",
-        "text": "$9 cm$"
+        "text": "$9$ cm"
       }
     ],
     "correct_option": "B",
@@ -788,15 +788,15 @@
       },
       {
         "id": "B",
-        "text": "$70 seconds$"
+        "text": "$70$ seconds"
       },
       {
         "id": "C",
-        "text": "$61 seconds$"
+        "text": "$61$ seconds"
       },
       {
         "id": "D",
-        "text": "$50 seconds$"
+        "text": "$50$ seconds"
       }
     ],
     "correct_option": "A",
@@ -905,7 +905,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Adding all expenditure values shown in the pie chart gives 450 + 500 + 150 + 400 + 200 + 250 + 50 = 2000 lakhs$.",
-    "question_image": "q17_pie_chart.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -956,7 +956,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "$Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = (\\frac{150}{2000}) × 360 = 27°$.",
-    "question_image": "q17_pie_chart.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1007,7 +1007,7 @@
     "correct_answer": "B",
     "correct_letter": "B",
     "explanation": "$Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = (\\frac{250}{2000}) × 100 = 12.5\\%$.",
-    "question_image": "q17_pie_chart.png",
+    "question_image": "",
     "option_images": [
       "",
       "",
@@ -1247,15 +1247,15 @@
       },
       {
         "id": "B",
-        "text": "$15 cm$"
+        "text": "$15$ cm"
       },
       {
         "id": "C",
-        "text": "$3 cm$"
+        "text": "$3$ cm"
       },
       {
         "id": "D",
-        "text": "$7 cm$"
+        "text": "$7$ cm"
       }
     ],
     "correct_option": "A",
@@ -1901,8 +1901,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '$\\times', '\\div$' represents '+', '+' represents '$\\div' and '\\times$' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
-    "q": "In a certain code language, '-' represents '×', '÷' represents '+', '+' represents '÷' and '×' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
+    "question": "In a certain code language, '-' represents '$\\times', '\\div' represents '+', '+' represents '\\div' and '\\times$' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
+    "q": "In a certain code language, '-' represents '$\\times$', '\\div$' represents '+', '+' represents '$\\div$' and '\\times$' represents '-'. Find the value of:\n$2 \\times 12 \\div (32 - 5 + 4 = ?$",
     "options": [
       {
         "id": "A",
@@ -2416,19 +2416,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Option A"
+        "text": "Option A",
+        "image": "ssc_chsl_tier1_paper1_q48_a.png"
       },
       {
         "id": "B",
-        "text": "Option B"
+        "text": "Option B",
+        "image": "ssc_chsl_tier1_paper1_q48_b.png"
       },
       {
         "id": "C",
-        "text": "Option C"
+        "text": "Option C",
+        "image": "ssc_chsl_tier1_paper1_q48_c.png"
       },
       {
         "id": "D",
-        "text": "Option D"
+        "text": "Option D",
+        "image": "ssc_chsl_tier1_paper1_q48_d.png"
       }
     ],
     "correct_option": "B",
@@ -2467,19 +2471,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Option A"
+        "text": "Option A",
+        "image": "ssc_chsl_tier1_paper1_q49_a.png"
       },
       {
         "id": "B",
-        "text": "Option B"
+        "text": "Option B",
+        "image": "ssc_chsl_tier1_paper1_q49_b.png"
       },
       {
         "id": "C",
-        "text": "Option C"
+        "text": "Option C",
+        "image": "ssc_chsl_tier1_paper1_q49_c.png"
       },
       {
         "id": "D",
-        "text": "Option D"
+        "text": "Option D",
+        "image": "ssc_chsl_tier1_paper1_q49_d.png"
       }
     ],
     "correct_option": "C",
@@ -2518,19 +2526,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$34,58,12,89$"
+        "text": "34, 58, 12, 89"
       },
       {
         "id": "B",
-        "text": "$20,97,41,89$"
+        "text": "20, 97, 41, 89"
       },
       {
         "id": "C",
-        "text": "$99,30,24,87$"
+        "text": "99, 30, 24, 87"
       },
       {
         "id": "D",
-        "text": "$33,88,31,89$"
+        "text": "33, 88, 31, 89"
       }
     ],
     "correct_option": "C",

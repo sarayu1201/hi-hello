@@ -223,7 +223,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$4 cm$"
+        "text": "$4$ cm"
       },
       {
         "id": "B",
@@ -231,11 +231,11 @@
       },
       {
         "id": "C",
-        "text": "$5 cm$"
+        "text": "$5$ cm"
       },
       {
         "id": "D",
-        "text": "$8 cm$"
+        "text": "$8$ cm"
       }
     ],
     "correct_option": "B",
@@ -1090,7 +1090,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$32 cm$"
+        "text": "$32$ cm"
       },
       {
         "id": "B",
@@ -1098,11 +1098,11 @@
       },
       {
         "id": "C",
-        "text": "$12 cm$"
+        "text": "$12$ cm"
       },
       {
         "id": "D",
-        "text": "$17 cm$"
+        "text": "$17$ cm"
       }
     ],
     "correct_option": "B",
@@ -2054,8 +2054,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
-    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '÷' and '÷' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?$",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 $\\div$ (20 - 14 = ?",
+    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?",
     "options": [
       {
         "id": "A",
@@ -2416,19 +2416,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure A"
+        "text": "Figure A",
+        "image": "ssc_chsl_tier1_paper9_q48_a.png"
       },
       {
         "id": "B",
-        "text": "Figure B"
+        "text": "Figure B",
+        "image": "ssc_chsl_tier1_paper9_q48_b.png"
       },
       {
         "id": "C",
-        "text": "Figure C"
+        "text": "Figure C",
+        "image": "ssc_chsl_tier1_paper9_q48_c.png"
       },
       {
         "id": "D",
-        "text": "Figure D"
+        "text": "Figure D",
+        "image": "ssc_chsl_tier1_paper9_q48_d.png"
       }
     ],
     "correct_option": "D",
@@ -2467,19 +2471,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Figure A"
+        "text": "Figure A",
+        "image": "ssc_chsl_tier1_paper9_q49_a.png"
       },
       {
         "id": "B",
-        "text": "Figure B"
+        "text": "Figure B",
+        "image": "ssc_chsl_tier1_paper9_q49_b.png"
       },
       {
         "id": "C",
-        "text": "Figure C"
+        "text": "Figure C",
+        "image": "ssc_chsl_tier1_paper9_q49_c.png"
       },
       {
         "id": "D",
-        "text": "Figure D"
+        "text": "Figure D",
+        "image": "ssc_chsl_tier1_paper9_q49_d.png"
       }
     ],
     "correct_option": "A",
@@ -2518,19 +2526,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$44,34,68,10$"
+        "text": "44, 34, 68, 10"
       },
       {
         "id": "B",
-        "text": "$11,89,13,77$"
+        "text": "11, 89, 13, 77"
       },
       {
         "id": "C",
-        "text": "$20,88,11,86$"
+        "text": "20, 88, 11, 86"
       },
       {
         "id": "D",
-        "text": "$42,67,12,89$"
+        "text": "42, 67, 12, 89"
       }
     ],
     "correct_option": "A",

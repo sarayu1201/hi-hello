@@ -371,8 +371,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times' and '\\div$' are interchanged?\n$25 + 63 × 9-8 ÷ 5 = ?$",
-    "q": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '×' and '÷' are interchanged?\n$25 + 63 × 9-8 ÷ 5 = ?$",
+    "question": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times$' and '$\\div$' are interchanged?\n$25 + 63 \\times 9 - 8 \\div 5 = ?$",
+    "q": "What will come in place of the question mark (?) in the following equation, if '+' and '-' are interchanged and '$\\times$' and '$\\div$' are interchanged?\n$25 + 63 \\times 9 - 8 \\div 5 = ?$",
     "options": [
       {
         "id": "A",
@@ -394,7 +394,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Interchanging signs: 25-63 ÷ 9 + 8 × 5 = 25-7 + 40 = 58$.",
+    "explanation": "$Interchanging signs: 25 - 63 \\div 9 + 8 \\times 5 = 25 - 7 + 40 = 58$.",
     "question_image": "",
     "option_images": [
       "",
@@ -784,19 +784,23 @@
     "options": [
       {
         "id": "A",
-        "text": "Three concentric circles"
+        "text": "Three concentric circles",
+        "image": "ssc_gd_cbt_paper8_q16_a.png"
       },
       {
         "id": "B",
-        "text": "Two intersecting circles and one separate"
+        "text": "Two intersecting circles and one separate",
+        "image": "ssc_gd_cbt_paper8_q16_b.png"
       },
       {
         "id": "C",
-        "text": "Three overlapping circles"
+        "text": "Three overlapping circles",
+        "image": "ssc_gd_cbt_paper8_q16_c.png"
       },
       {
         "id": "D",
-        "text": "Three separate disjoint circles"
+        "text": "Three separate disjoint circles",
+        "image": "ssc_gd_cbt_paper8_q16_d.png"
       }
     ],
     "correct_option": "D",
@@ -956,7 +960,7 @@
     "correct_answer": "A",
     "correct_letter": "A",
     "explanation": "Counting individual and combined triangular divisions gives 6 triangles.",
-    "question_image": "",
+    "question_image": "ssc_gd_cbt_paper8_q19.png",
     "option_images": [
       "",
       "",
@@ -2258,8 +2262,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$A solid metallic cuboid \\text{ of } dimensions 60 cm × 22 cm × 30 cm is melted and recast into hollow cylindrical pipes \\text{ of } external radius 4 cm, internal radius 3 cm, and length 30 cm. How many such pipes can be made? (Use π = 22/7)$",
-    "q": "$A solid metallic cuboid \\text{ of } dimensions 60 cm × 22 cm × 30 cm is melted and recast into hollow cylindrical pipes \\text{ of } external radius 4 cm, internal radius 3 cm, and length 30 cm. How many such pipes can be made? (Use π = 22/7)$",
+    "question": "A solid metallic cuboid of dimensions $60\\text{ cm} \\times 22\\text{ cm} \\times 30\\text{ cm}$ is melted and recast into hollow cylindrical pipes of external radius 4 cm, internal radius 3 cm, and length 30 cm. How many such pipes can be made? (Use $\\pi = 22/7$)",
+    "q": "A solid metallic cuboid of dimensions $60\\text{ cm} \\times 22\\text{ cm} \\times 30\\text{ cm}$ is melted and recast into hollow cylindrical pipes of external radius 4 cm, internal radius 3 cm, and length 30 cm. How many such pipes can be made? (Use $\\pi = 22/7$)",
     "options": [
       {
         "id": "A",
@@ -2281,7 +2285,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Cuboid Volume = 39600 cm^3. One Pipe Volume = (22/7) × (16-9) × 30 = 660 cm^3. Number \\text{ of } pipes = 39600 / 660 = 60$.",
+    "explanation": "$Cuboid Volume = 60 \\times 22 \\times 30 = 39600\\text{ cm}^3$. $One Pipe Volume = (22/7) \\times (16-9) \\times 30 = 660\\text{ cm}^3$. $\\text{Number of pipes} = 39600 / 660 = 60$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2972,8 +2976,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Simplify: 67 + 42 ÷ 6 + 33 \\text{ of } 1-18 + 24 × 2 - (17) = ?$",
-    "q": "$Simplify: 67 + 42 ÷ 6 + 33 \\text{ of } 1-18 + 24 × 2 - (17) = ?$",
+    "question": "Simplify: $67 + 42 \\div 6 + 33 \\text{ of } 1 - 18 + 24 \\times 2 - 17 = ?$",
+    "q": "Simplify: $67 + 42 \\div 6 + 33 \\text{ of } 1 - 18 + 24 \\times 2 - 17 = ?$",
     "options": [
       {
         "id": "A",
@@ -2995,7 +2999,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$BODMAS: 67 + 7 + 33-18 + 48-17 = 155-35 = 120$.",
+    "explanation": "$BODMAS: 67 + 7 + 33 - 18 + 48 - 17 = 155 - 35 = 120$.",
     "question_image": "",
     "option_images": [
       "",
