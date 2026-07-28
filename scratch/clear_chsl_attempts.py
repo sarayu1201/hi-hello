@@ -5,13 +5,6 @@ client = pymongo.MongoClient(remote_uri)
 db = client["kr_academy"]
 attempts_col = db["attempts"]
 
-# We will delete all attempts for CHSL Test 3 and Test 4
-query = {"testName": {"$regex": "CHSL.*(Test 3|Test 4)", "$options": "i"}}
-res = attempts_col.delete_many(query)
-print(f"Deleted {res.deleted_count} attempts matching {query} in remote database.")
-
-# Also do it for local database
-client_local = pymongo.MongoClient("mongodb://localhost:27017/")
-db_local = client_local["kr_academy"]
-res_local = db_local["attempts"].delete_many(query)
-print(f"Deleted {res_local.deleted_count} attempts matching {query} in local database.")
+query = {"testName": {"$regex": "CHSL.*(Test 3|Test 4|Test 5)", "$options": "i"}}
+res_remote = attempts_col.delete_many(query)
+print(f"Deleted {res_remote.deleted_count} attempts matching {query} in remote database.")
