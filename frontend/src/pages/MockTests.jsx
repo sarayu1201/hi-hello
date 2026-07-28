@@ -351,7 +351,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
       const isSbiPo = cleanId.includes('sbi_po');
       const isIbpsPo = cleanId.includes('ibps_po') || cleanId.includes('ibpspo');
       const isSbiClerk = cleanId.includes('sbi_clerk');
-      const isUnlocked = isCgl || isChsl || isIbpsClerk || isRrbPo || isRrbNtpc || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isSbiClerk;
+      const isUnlocked = isCgl || isChsl || isIbpsClerk || isRrbPo || isRrbNtpc || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isSbiClerk || isIbpsPo;
 
       const prelimsNumTests = (isIbpsClerk || isRrbPo || isRrbNtpc || isCgl || isChsl || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isIbpsPo || isSbiClerk) ? 10 : 20;
       const mainsNumTests = isCgl ? 3 : (isChsl ? 2 : (isRrbNtpc ? 10 : 20));
