@@ -24,7 +24,7 @@
       },
       {
         "id": "b",
-        "text": "C-E",
+        "text": "$C-E$",
         "image": null
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "id": "d",
-        "text": "B-D",
+        "text": "$B-D$",
         "image": null
       },
       {
@@ -94,17 +94,17 @@
       },
       {
         "id": "b",
-        "text": "B-F",
+        "text": "$B-F$",
         "image": null
       },
       {
         "id": "c",
-        "text": "A-E",
+        "text": "$A-E$",
         "image": null
       },
       {
         "id": "d",
-        "text": "C-D",
+        "text": "$C-D$",
         "image": null
       },
       {
@@ -164,7 +164,7 @@
       },
       {
         "id": "b",
-        "text": "B-C",
+        "text": "$B-C$",
         "image": null
       },
       {
@@ -174,7 +174,7 @@
       },
       {
         "id": "d",
-        "text": "A-D",
+        "text": "$A-D$",
         "image": null
       },
       {
@@ -228,22 +228,22 @@
     "options": [
       {
         "id": "a",
-        "text": "A-D",
+        "text": "$A-D$",
         "image": null
       },
       {
         "id": "b",
-        "text": "C-D",
+        "text": "$C-D$",
         "image": null
       },
       {
         "id": "c",
-        "text": "B-D",
+        "text": "$B-D$",
         "image": null
       },
       {
         "id": "d",
-        "text": "A-B",
+        "text": "$A-B$",
         "image": null
       },
       {
@@ -297,22 +297,22 @@
     "options": [
       {
         "id": "a",
-        "text": "C-D",
+        "text": "$C-D$",
         "image": null
       },
       {
         "id": "b",
-        "text": "A-C",
+        "text": "$A-C$",
         "image": null
       },
       {
         "id": "c",
-        "text": "B-D",
+        "text": "$B-D$",
         "image": null
       },
       {
         "id": "d",
-        "text": "A-B",
+        "text": "$A-B$",
         "image": null
       },
       {
@@ -366,7 +366,7 @@
     "options": [
       {
         "id": "a",
-        "text": "B-C",
+        "text": "$B-C$",
         "image": null
       },
       {
@@ -376,7 +376,7 @@
       },
       {
         "id": "c",
-        "text": "A-D",
+        "text": "$A-D$",
         "image": null
       },
       {
@@ -3527,7 +3527,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Age problems and linear equations.\n\n**Step 1:** Let present ages of A and B be $4x$ and $5x$ respectively.\n\n**Step 2:** Set up the equation for ages after 5 years:\n$\\frac{4x + 5}{5x + 5} = \\frac{5}{6}$\n$24x + 30 = 25x + 25$\n$x = 5$\n\n**Step 3:** Sum of present ages:\n* Present ages are $4(5) = 20$ and $5(5) = 25$ years.\n* Sum = $20 + 25 = 45\\text{ years}$.\n\n**Conclusion:** Option **B** is correct.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Age problems and linear equations.\n\n**Step 1:** Let present ages of A and B be $4x$ and $5x$ respectively.\n\n**Step 2:** Set up the equation for ages after 5 years:\n\\frac{4x + 5}{5x + 5} = \\frac{5}{6}\n24x + 30 = 25x + 25\nx = 5\n\n**Step 3:** Sum of present ages:\n* Present ages are $4(5) = 20$ and $5(5) = 25$ years.\n* Sum = $20 + 25 = 45\\text{ years}$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -3722,7 +3722,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Mark-up, Discount, and Net Profit.\n\n**Step 1:** Let the Cost Price (CP) be Rs. 100.\n* Marked Price (MP) = CP + 40% = Rs. 140.\n\n**Step 2:** Calculate Selling Price (SP) after 20% discount:\n* Discount = 20% of 140 = Rs. 28.\n$* SP = 140 - 28 = Rs. 112.$\n\n**Step 3:** Calculate net gain percentage:\n* Profit = SP - CP = 112 - 100 = 12%.\n\n**Conclusion:** Option **A** is correct.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Mark-up, Discount, and Net Profit.\n\n**Step 1:** Let the Cost Price (CP) be Rs. 100.\n* Marked Price (MP) = CP + 40% = Rs. 140.\n\n**Step 2:** Calculate Selling Price (SP) after 20% discount:\n* Discount = 20% of 140 = Rs. 28.\n* SP = 140 - 28 = Rs. 112.\n\n**Step 3:** Calculate net gain percentage:\n* Profit = SP - CP = 112 - 100 = 12%.\n\n**Conclusion:** Option **A** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -5172,27 +5172,27 @@
     "options": [
       {
         "id": "a",
-        "text": "C-E",
+        "text": "$C-E$",
         "image": null
       },
       {
         "id": "b",
-        "text": "A-G",
+        "text": "$A-G$",
         "image": null
       },
       {
         "id": "c",
-        "text": "D-F",
+        "text": "$D-F$",
         "image": null
       },
       {
         "id": "d",
-        "text": "B-H",
+        "text": "$B-H$",
         "image": null
       },
       {
         "id": "e",
-        "text": "G-C",
+        "text": "$G-C$",
         "image": null
       }
     ],
