@@ -3294,8 +3294,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If $\\sin(\\theta + 30^\\circ) = 3 / \\sqrt{12}$, then the value of $\\theta$ is equal to:",
-    "q": "If sin(θ + 30°) = 3 / sqrt(12), then the value of θ is equal to:",
+    "question": "If $\\sin(\\theta + 30^\\circ) = \\frac{3}{\\sqrt{12}}$, then the value of $\\theta$ is equal to:",
+    "q": "If $\\sin(\\theta + 30^\\circ) = \\frac{3}{\\sqrt{12}}$, then the value of $\\theta$ is equal to:",
     "options": [
       {
         "id": "A",
@@ -3317,7 +3317,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$3 / sqrt(12) = 3 / (2\\sqrt3) = \\sqrt3 / 2. sin(θ + 30°) = \\sqrt3 / 2 => θ + 30° = 60° => θ = 30°$.",
+    "explanation": "$\\frac{3}{\\sqrt{12}} = \\frac{3}{2\\sqrt{3}} = \\frac{\\sqrt{3}}{2}$\n$\\sin(\\theta + 30^\\circ) = \\frac{\\sqrt{3}}{2} \\implies \\theta + 30^\\circ = 60^\\circ \\implies \\theta = 30^\\circ$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3702,8 +3702,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If $\\sqrt{x} = \\sqrt{3} - \\sqrt{5}$, then the value of $x^2$ - 16 x + 6 is:",
-    "q": "If sqrt(x) = sqrt(3) - sqrt(5), then the value of x² - 16x + 6 is:",
+    "question": "If $\\sqrt{x} = \\sqrt{5} - \\sqrt{3}$, then the value of $x^2 - 16x + 6$ is:",
+    "q": "If $\\sqrt{x} = \\sqrt{5} - \\sqrt{3}$, then the value of $x^2 - 16x + 6$ is:",
     "options": [
       {
         "id": "A",
@@ -3725,7 +3725,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Squaring both sides:\n$x = 3 + 5 - 2\\sqrt15 => x = 8 - 2\\sqrt15$\n=> x - 8 = -2$\\sqrt{15}$\nSquaring again:\n$(x - 8)^2 = 60 => x^2$ - 16 x + 64 = 60\n=> $x^2$ - 16 x + 4 = 0.\nTherefore, $x² - 16 x + 6 = (x² - 16 x + 4) + 2 = 0 + 2 = 2$.",
+    "explanation": "Squaring both sides:\n$x = 5 + 3 - 2\\sqrt{15} \\implies x = 8 - 2\\sqrt{15}$\n$\\implies x - 8 = -2\\sqrt{15}$\nSquaring again:\n$(x - 8)^2 = (-2\\sqrt{15})^2 \\implies x^2 - 16x + 64 = 60$\n$\\implies x^2 - 16x + 4 = 0$\nTherefore, $x^2 - 16x + 6 = (x^2 - 16x + 4) + 2 = 0 + 2 = 2$.",
     "question_image": "",
     "option_images": [
       "",
