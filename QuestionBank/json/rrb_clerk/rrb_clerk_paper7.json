@@ -3924,8 +3924,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$8^16 × 64^35 ÷ 512^12 = 64^?$",
-    "q": "$8^16 × 64^35 ÷ 512^12 = 64^?$",
+    "question": "$8^{16} \\times 64^{35} \\div 512^{12} = 64^?$",
+    "q": "$8^{16} \\times 64^{35} \\div 512^{12} = 64^?$",
     "options": [
       {
         "id": "A",
@@ -3951,7 +3951,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$64^8 * 64^35 ÷ 64^18 = 64^(8+35-18) = 64^25 ⇒ ? = 25$.",
+    "explanation": "$64^8 \\times 64^{35} \\div 64^{18} = 64^{8+35-18} = 64^{25} \\implies ? = 25$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4034,8 +4034,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$3 1/2 × 7 2/3 ÷ 9 6/7 = ?^2/2$",
-    "q": "$3 1/2 × 7 2/3 ÷ 9 6/7 = ?^2/2$",
+    "question": "$3\\frac{1}{2} \\times 7\\frac{2}{3} \\div 9\\frac{6}{7} = \\frac{?^2}{2}$",
+    "q": "$3\\frac{1}{2} \\times 7\\frac{2}{3} \\div 9\\frac{6}{7} = \\frac{?^2}{2}$",
     "options": [
       {
         "id": "A",
@@ -4061,7 +4061,7 @@
     "correct_option": "E",
     "correct_answer": "E",
     "correct_letter": "E",
-    "explanation": "$7/2 * 23/3 * 7/69 = 49/18. 49/18 = ?^2/2 ⇒ ?^2 = 49/9 ⇒ ? = 7/3$.",
+    "explanation": "$\\frac{7}{2} \\times \\frac{23}{3} \\times \\frac{7}{69} = \\frac{49}{18}$.\\n\\n$\\frac{49}{18} = \\frac{?^2}{2} \\implies ?^2 = \\frac{49}{9} \\implies ? = \\frac{7}{3}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4089,8 +4089,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$29^2 + 13 × 3 = ? × 10$",
-    "q": "$29^2 + 13 × 3 = ? × 10$",
+    "question": "$29^2 + 13 \\times 3 = ? \\times 10$",
+    "q": "$29^2 + 13 \\times 3 = ? \\times 10$",
     "options": [
       {
         "id": "A",
@@ -4116,7 +4116,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$841 + 39 = 880 ⇒ ? * 10 = 880 ⇒ ? = 88$.",
+    "explanation": "$29^2 + 13 \\times 3 = 841 + 39 = 880$.\\n\\n$? \\times 10 = 880 \\implies ? = 88$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4144,8 +4144,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "RRB & Railways",
-    "question": "$? × (8^2 + 26) = 60^2$",
-    "q": "$? × (8^2 + 26) = 60^2$",
+    "question": "$? \\times (8^2 + 26) = 60^2$",
+    "q": "$? \\times (8^2 + 26) = 60^2$",
     "options": [
       {
         "id": "A",
@@ -4171,7 +4171,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$? * (64 + 26) = 3600 ⇒ ? * 90 = 3600 ⇒ ? = 40$.",
+    "explanation": "$? \\times (64 + 26) = 3600 \\implies ? \\times 90 = 3600 \\implies ? = 40$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4226,7 +4226,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$?\\% \\text{ of } 800 + 512 = 1024 ⇒ ? * 8 = 512 ⇒ ? = 64$.",
+    "explanation": "$?\\% \\text{ of } 800 + 512 = 1024 \\implies ? \\times 8 = 512 \\implies ? = 64$.",
     "question_image": "",
     "option_images": [
       "",
