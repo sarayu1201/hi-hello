@@ -351,7 +351,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
       const isSbiPo = cleanId.includes('sbi_po');
       const isIbpsPo = cleanId.includes('ibps_po') || cleanId.includes('ibpspo');
       const isSbiClerk = cleanId.includes('sbi_clerk');
-      const isUnlocked = isCgl || isChsl || isIbpsClerk || isRrbPo || isRrbNtpc || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isIbpsPo || isSbiClerk;
+      const isUnlocked = isCgl || isChsl || isIbpsClerk || isRrbPo || isRrbNtpc || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isSbiClerk;
 
       const prelimsNumTests = (isIbpsClerk || isRrbPo || isRrbNtpc || isCgl || isChsl || isRrbClerk || isSscGd || isRrbGd || isSbiPo || isIbpsPo || isSbiClerk) ? 10 : 20;
       const mainsNumTests = isCgl ? 3 : (isChsl ? 2 : (isRrbNtpc ? 10 : 20));
@@ -378,7 +378,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
         type: "prelims",
         category: course.category || (isCgl || isChsl || isSscGd ? "SSC Exams" : "RRB & Railways"),
         totalTests: prelimsNumTests,
-        freeTests: isUnlocked ? prelimsNumTests : 0,
+        freeTests: isUnlocked ? prelimsNumTests : 1,
         isPurchased: false,
         tests: Array.from({ length: prelimsNumTests }, (_, idx) => {
           const tid = getTestId('prelims', idx);
@@ -405,7 +405,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
                   (isSbiClerk ? `SBI Clerk Prelims - Test ${idx + 1}` : `${course.title} Prelims - Test ${idx + 1}`))))))),
             questionsCount: (isRrbPo || isRrbClerk || isSscGd) ? 80 : 100,
             timeLimit: (isRrbPo || isRrbClerk) ? 45 : ((isRrbNtpc || isRrbGd) ? 90 : 60),
-            free: isUnlocked ? true : false,
+            free: (isUnlocked || idx === 0) ? true : false,
             difficulty: idx % 3 === 0 ? "Easy" : (idx % 3 === 1 ? "Medium" : "Hard"),
             examType: isIbpsClerk ? "IBPS CLERK PRELIMS" : 
                       (isRrbClerk ? "IBPS RRB CLERK PRELIMS" :
@@ -424,7 +424,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
           type: "mains",
           category: course.category || (isCgl || isChsl ? "SSC Exams" : "RRB & Railways"),
           totalTests: mainsNumTests,
-          freeTests: isUnlocked ? mainsNumTests : 0,
+          freeTests: isUnlocked ? mainsNumTests : 1,
           isPurchased: false,
           tests: Array.from({ length: mainsNumTests }, (_, idx) => {
             const tid = getTestId('mains', idx);
@@ -436,7 +436,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
               name: isRrbNtpc ? `RRB NTPC CBT 2 - Test ${idx + 1}` : `${course.title} Mains - Test ${idx + 1}`,
               questionsCount: isRrbNtpc ? 120 : 100,
               timeLimit: isRrbNtpc ? 90 : 180,
-              free: isUnlocked ? true : false,
+              free: (isUnlocked || idx === 0) ? true : false,
               difficulty: idx % 2 === 0 ? "Medium" : "Hard",
               examType: isRrbNtpc ? "RRB NTPC CBT 2" : (isCgl ? "SSC CGL" : (isChsl ? "SSC CHSL" : (course.category || "SSC"))),
               subType: subTitle,
