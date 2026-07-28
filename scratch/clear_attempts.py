@@ -35,7 +35,8 @@ try:
         "IBPS RRB PO Prelims - Test 6",
         "IBPS RRB PO Prelims - Test 7",
         "IBPS RRB PO Prelims - Test 8",
-        "IBPS RRB PO Prelims - Test 9"
+        "IBPS RRB PO Prelims - Test 9",
+        "SSC CHSL Prelims - Test 1"
     ]
     
     for name in test_names_to_delete:
