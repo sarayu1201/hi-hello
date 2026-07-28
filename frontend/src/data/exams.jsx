@@ -2,7 +2,8 @@ import React from "react";
 
 // SVG logo rendering component for authentic exam visuals
 export const ExamLogo = ({ type }) => {
-  switch (type.toLowerCase()) {
+  const safeType = String(type || "").toLowerCase();
+  switch (safeType) {
     case "sbi":
       return (
         <svg viewBox="0 0 100 100" width="46" height="46" className="exam-svg-logo">
