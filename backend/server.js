@@ -2663,6 +2663,12 @@ const resolveDbSubType = (testId, subType, examType) => {
   if (normalized.includes("sscchsl") || normalized.includes("sschsl") || normalized.includes("schsl")) {
     return `SSC CHSL Prelims - Test ${mockNumber}`;
   }
+  if (normalized.includes("rrbntpccbt1")) {
+    return `RRB NTPC CBT 1 - Test ${mockNumber}`;
+  }
+  if (normalized.includes("rrbntpccbt2")) {
+    return `RRB NTPC CBT 2 - Test ${mockNumber}`;
+  }
   
   return testId || subType;
 };
@@ -2700,6 +2706,12 @@ const resolveDbCourse = (subType) => {
   }
   if (lower.includes("ssc gd") || lower.includes("ssc_gd") || lower.includes("sc_gd") || lower.includes("sc gd")) {
     return "sc_gd";
+  }
+  if (lower.includes("rrb ntpc cbt 1") || lower.includes("rrb_ntpc_cbt_1") || lower.includes("rrb_ntpc_cbt1")) {
+    return "RRB NTPC CBT 1";
+  }
+  if (lower.includes("rrb ntpc cbt 2") || lower.includes("rrb_ntpc_cbt_2") || lower.includes("rrb_ntpc_cbt2")) {
+    return "RRB NTPC CBT 2";
   }
   return null;
 };
