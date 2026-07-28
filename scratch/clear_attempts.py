@@ -33,6 +33,8 @@ try:
         "IBPS RRB Clerk Prelims - Test 10",
         "IBPS RRB PO Prelims - Test 4",
         "IBPS RRB PO Prelims - Test 6",
+        "IBPS RRB PO Prelims - Test 7",
+        "IBPS RRB PO Prelims - Test 8",
         "IBPS RRB PO Prelims - Test 9"
     ]
     
