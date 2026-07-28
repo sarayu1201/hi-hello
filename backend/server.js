@@ -4750,7 +4750,9 @@ if (process.env.NODE_APP_INSTANCE === undefined || process.env.NODE_APP_INSTANCE
 }
 
 // Serve static assets in production if they exist
-const distPath = path.join(__dirname, "dist");
+const distPath = fs.existsSync(path.join(__dirname, "..", "dist"))
+  ? path.join(__dirname, "..", "dist")
+  : path.join(__dirname, "dist");
 const tempPapersDir = path.join(__dirname, "unprocessed_inputs", "papers-temp");
 if (!fs.existsSync(tempPapersDir)) {
   fs.mkdirSync(tempPapersDir, { recursive: true });
