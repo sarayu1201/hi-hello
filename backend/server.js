@@ -5811,53 +5811,27 @@ app.get("/api/debug-images", (req, res) => {
 });
 
 // Temporary debug endpoint to list the folder structure of `/app`
-app.get("/api/debug-env", async (req, res) => {
+app.get("/api/debug-env", (req, res) => {
   try {
     const fs = require("fs");
     const path = require("path");
     const rootDir = "/app";
-    let details = [];
-    if (fs.existsSync(rootDir)) {
-      const files = fs.readdirSync(rootDir);
-      details = files.map(file => {
-        const fullPath = path.join(rootDir, file);
-        const stats = fs.statSync(fullPath);
-        return {
-          name: file,
-          isDirectory: stats.isDirectory(),
-          size: stats.size
-        };
-      });
-    }
-    
-    let dbDetails = {};
-    if (mongoose.connection && mongoose.connection.db) {
-      const questionsCol = mongoose.connection.db.collection("questions");
-      const totalQs = await questionsCol.countDocuments({});
-      const lowercasePo = await questionsCol.countDocuments({ course: "ibps_po_prelims" });
-      const uppercasePo = await questionsCol.countDocuments({ course: "IBPS PO Prelims" });
-      
-      // Let's also check the first question of Test 1 to see option E
-      const q1 = await questionsCol.findOne({ course: "IBPS PO Prelims" });
-      
-      dbDetails = {
-        connected: mongoose.connection.readyState,
-        dbName: mongoose.connection.name,
-        uriPrefix: process.env.MONGODB_URI ? process.env.MONGODB_URI.substring(0, 50) + "..." : "not set",
-        totalQuestions: totalQs,
-        lowercasePoCount: lowercasePo,
-        uppercasePoCount: uppercasePo,
-        sampleQ1OptionE: q1 && q1.options ? q1.options[4] : "not found"
+    const files = fs.readdirSync(rootDir);
+    const details = files.map(file => {
+      const fullPath = path.join(rootDir, file);
+      const stats = fs.statSync(fullPath);
+      return {
+        name: file,
+        isDirectory: stats.isDirectory(),
+        size: stats.size
       };
-    }
-
+    });
     return res.json({
       env: {
         NODE_ENV: process.env.NODE_ENV,
         PORT: process.env.PORT,
         VITE_API_URL: process.env.VITE_API_URL
       },
-      db: dbDetails,
       files: details
     });
   } catch (err) {
