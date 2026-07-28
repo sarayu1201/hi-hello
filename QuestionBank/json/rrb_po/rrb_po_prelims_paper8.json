@@ -41,7 +41,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Coordinates: Start=(0,0), A=(9,0), B=(9,7), C=(21,7), D=(21,22), E=(4,22). Shortest distance AE = sqrt((4 (9))^2 + (22 0)^2) = \\sqrt{169 + 484} = \\sqrt{653}m$.",
+    "explanation": "Coordinates: A = (-9, 0), B = (-9, -7), C = (-21, -7), D = (-21, -22), E = (4, -22).\nShortest distance AE = $\\sqrt{(4 - (-9))^2 + (-22 - 0)^2} = \\sqrt{169 + 484} = \\sqrt{653}$ m.",
     "question_image": "",
     "option_images": [
       "",
