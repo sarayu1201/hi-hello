@@ -2657,10 +2657,10 @@ const resolveDbSubType = (testId, subType, examType) => {
   if (normalized.includes("sscgd") || normalized.includes("scgd")) {
     return `SSC GD Constable Prelims - Test ${mockNumber}`;
   }
-  if (normalized.includes("sschsl") && normalized.includes("tier2")) {
+  if ((normalized.includes("sscchsl") || normalized.includes("sschsl")) && (normalized.includes("tier2") || normalized.includes("mains"))) {
     return `SSC CHSL Mains - Test ${mockNumber}`;
   }
-  if (normalized.includes("sschsl") || normalized.includes("schsl")) {
+  if (normalized.includes("sscchsl") || normalized.includes("sschsl") || normalized.includes("schsl")) {
     return `SSC CHSL Prelims - Test ${mockNumber}`;
   }
   
