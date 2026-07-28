@@ -1,0 +1,4102 @@
+[
+  {
+    "id": 1,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Average",
+    "difficulty": "Easy",
+    "question": "A shop sold 5 types of items over a week: 120, 150, 110, 130, and 140 units respectively. After receiving a return of 10 units from the first item, what is the new arithmetic mean (in units) of items sold?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "124",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "128",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "122",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "126",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "New sum of items = (120 - 10) + 150 + 110 + 130 + 140 = 640.\nNew mean = (640/5) = 128.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 2,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "The price of an article increases by 25%, then decreases by 20%, and finally increases by 15%. What is the overall percentage change in the price?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "15%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "20%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "25%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "10%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Final multiplier = 1.25 × 0.80 × 1.15 = 1.00 × 1.15 = 1.15.\nOverall percentage change = 1.15 - 1.00 = +15%.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 3,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Speed Time and Distance",
+    "difficulty": "Easy",
+    "question": "If a car covers a distance of 150 km at a speed of 50 km/h, how much time does it take to complete the journey?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "2 hours",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4 hours",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "5 hours",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "3 hours",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Time = (150/50) = 3 hours.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 4,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "difficulty": "Easy",
+    "question": "In a division sum, the divisor is 2 times the quotient and 3 times the remainder. If the remainder is 10, what is the dividend?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "460",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "465",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "464",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "456",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Divisor = 3 × 10 = 30.\nQuotient = 30 / 2 = 15.\nDividend = 30 × 15 + 10 = 450 + 10 = 460.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 5,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "question": "Find the value of m which satisfies:\n≤ft((28/8)\\right)^{17} × ≤ft((8/28)\\right)^{20} × ≤ft((28/8)\\right)^3 = ≤ft((8/28)\\right)^{9m + 14}",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$-\\frac{13}{9}$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$-\\frac{14}{9}$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$-\\frac{11}{9}$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$-\\frac{7}{9}$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Converting all terms to base (8/28):\n≤ft((8/28)\\right)^{-17} × ≤ft((8/28)\\right)^{20} × ≤ft((8/28)\\right)^{-3} = ≤ft((8/28)\\right)^0.\n9m + 14 = 0 \\implies m = -(14/9).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 6,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "difficulty": "Easy",
+    "question": "Simplify: 9^2 + √{4^2} - 10 × √{81} - 15",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "-21",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "-12",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "-10",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "-20",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "81 + 4 - 10 × 9 - 15 = 85 - 90 - 15 = -20.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 7,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Medium",
+    "question": "The third proportional to 75 and 45 is the same as the fourth proportional to 10, 5x, and 6x. Find the value of x.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Third proportional to 75 and 45 = (45^2/75) = 27.\nFourth proportional to 10, 5x, 6x \\implies (10/5x) = (6x/27) \\implies 2x^2 = 18 \\implies x = 3.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 8,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Compound Interest",
+    "difficulty": "Easy",
+    "question": "A sum of money at compound interest, compounded annually grows to ₹24,000 in 2 years and ₹28,800 in 3 years. Find the annual rate of interest.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "10%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "25%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "20%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "15%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Interest earned in 3rd year = 28800 - 24000 = ₹4,800.\nRate R = (4800/24000) × 100 = 20%.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 9,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Linear Equations",
+    "difficulty": "Easy",
+    "question": "A dealer of stationery items buys two types of pens, named Rajat Pen and Naveen Pen. The cost of 4 Rajat Pens and 6 Naveen Pens together is ₹540. The cost of one Naveen Pen is ₹15 more than the cost of one Rajat Pen. What is the cost of one Rajat Pen?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹42",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹50",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹48",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹45",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "4R + 6(R + 15) = 540 \\implies 10R + 90 = 540 \\implies 10R = 450 \\implies R = ₹45.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 10,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Easy",
+    "question": "Simplify:\n(\\sin A \\cos(90^\\circ - A)/\\cot(90^\\circ + A) \\cos(180^\\circ + A))",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "$\\cos A$",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "$-\\sin A$",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "$\\sin A$",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "$-\\cos A$",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "(\\sin A \\cdot \\sin A/(-\\tan A)(-\\cos A)) = (\\sin^2 A/\\sin A) = \\sin A.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 11,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "During a sale, 50% of the goods are sold at 37% profit, 30% of the remaining goods are sold at 26% profit and the still remaining goods are sold at a loss of 24%. If there is an overall profit of x%, then what is the value of x?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "15",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "13.5",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "14.5",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Overall profit x = (0.50 × 37) + (0.15 × 26) - (0.35 × 24) = 18.5 + 3.9 - 8.4 = 14%.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 12,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "question": "A milkman adds two litres of water to every eight litres of milk and sells it at 50% more than his cost price of milk. Find the profit percentage of the milkman.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "75%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "50%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "87.5%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "68.5%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cost of 8 L milk = 800. SP of 10 L mix = 10 × 150 = 1500.\nProfit percentage = (1500 - 800/800) × 100 = (700/800) × 100 = 87.5%.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 13,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "question": "A and B can do a piece of work in 12 days and 36 days, respectively. Both work for 2 days and then A leaves. How long (in days) will B take to complete the remaining work?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "27",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "30",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "29",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "28",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Total work = 36 units. Rate of A = 3 u/d, B = 1 u/d.\nWork done in 2 days = 2 × (3 + 1) = 8 units.\nRemaining work = 36 - 8 = 28 units.\nDays for B alone = (28/1) = 28 days.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 14,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "question": "From a regular octagon of side 4 units, a largest rectangle is cut out. From the remaining pieces, two largest rectangles are cut out. The remaining area of the octagon is _____ square units.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "16",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "32",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "24",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The remaining area of the octagon equals 16 square units.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 15,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "question": "If a recipe requires ingredients in the ratio 1:2 and you have 3 cups of the first ingredient, how many cups of the second ingredient should you use?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "8",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "6",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "3",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cups of second ingredient = 3 × 2 = 6.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 16,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "difficulty": "Medium",
+    "question": "A cube is melted and recast into a cuboid whose dimensions are in the ratio 4:5:8. If the height of the cuboid is 12 cm, then the edge of the original cube is (correct to 2 decimal places):",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "9.44 cm",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "12.12 cm",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "8.14 cm",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "15.34 cm",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cuboid dimensions 4x, 5x, 8x. Height 8x = 12 \\implies x = 1.5 cm.\nVolume = 6 × 7.5 × 12 = 540 cm^3.\nCube edge a = √[3]{540} \\approx 8.14 cm.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 17,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Problems on Ages",
+    "difficulty": "Easy",
+    "question": "A school teacher observes that 4 years ago, her age was three times the age of her daughter at that time. 8 years from now, the teacher’s age will be twice her daughter’s age. What is the present age of the teacher?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "44 years",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "40 years",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "42 years",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "38 years",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "T - 4 = 3(D - 4) \\implies T = 3D - 8.\nT + 8 = 2(D + 8) \\implies T = 2D + 8.\n3D - 8 = 2D + 8 \\implies D = 16 \\implies T = 40 years.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 18,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Discount",
+    "difficulty": "Easy",
+    "question": "A dealer buys an article marked at ₹1800 after successive discounts of 25% and 6(2/3)%. Find the cost price of the article to the dealer.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹1260",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹1290",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹1275",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹1250",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Cost = 1800 × (1 - 0.25) × ≤ft(1 - (1/15)\\right) = 1800 × (3/4) × (14/15) = ₹1,260.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 19,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Simplification",
+    "difficulty": "Easy",
+    "question": "Simplify the following expression:\n≤ft((3/4)\\right) + 0.25 × 2",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1.25",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1.50",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "1.00",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "1.75",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "0.75 + 0.50 = 1.25.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 20,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Number System",
+    "difficulty": "Easy",
+    "question": "In a division sum, the divisor is 9 times the quotient and 3 times the remainder. If the remainder is 42, what is the dividend?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "1808",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1809",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "1806",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "1803",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Divisor = 3 × 42 = 126.\nQuotient = 126 / 9 = 14.\nDividend = 126 × 14 + 42 = 1764 + 42 = 1806.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 21,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "question": "A sum of money earns ₹2,400 as simple interest in 2 years at 12% per annum. Find the sum.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹24,000",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹10,000",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹12,000",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹18,000",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "SI = (P × R × T/100) \\implies 2400 = (P × 12 × 2/100) \\implies P = ₹10,000.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 22,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "question": "If the price of a shirt increases from ₹400 to ₹500, what is the percentage increase in the price?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "30%",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "25%",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "10%",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "15%",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Percentage increase = (500 - 400/400) × 100 = 25%.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 23,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "question": "2 men and 8 women can complete a piece of work in 13 days, and 3 men and 19 women can complete the same work in 8 days. The work of how many women is equivalent to that of one man?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "29",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "23",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "24",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "25",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Work: 13(2M + 8W) = 8(3M + 19W) \\implies 26M + 104W = 24M + 152W \\implies 2M = 48W \\implies 1M = 24W.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 24,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "question": "Evaluate: 22^3 + (-13)^3 + (-9)^3",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "7604",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7730",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "7472",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "7722",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Since 22 + (-13) + (-9) = 0, a^3 + b^3 + c^3 = 3abc = 3(22)(-13)(-9) = 7722.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 25,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "LCM and HCF",
+    "difficulty": "Easy",
+    "question": "Three numbers are in the ratio 17 : 5 : 11, and their LCM is 3740. Their HCF is:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "14",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "47",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "LCM of ratio parts (17, 5, 11) = 935.\n935 × \\text{HCF} = 3740 \\implies \\text{HCF} = (3740/935) = 4.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 26,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Speed Time and Distance",
+    "difficulty": "Easy",
+    "question": "Lata walks from home to the market, 20 km away, at 10 km/h. She stays there for 1 hour for shopping and returns home by an e-rickshaw at 20 km/h. Find the average speed for the whole trip.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "9 km/h",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "10 km/h",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "6 km/h",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "8 km/h",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Onward time = 20 / 10 = 2 hrs. Stay = 1 hr. Return time = 20 / 20 = 1 hr.\nTotal distance = 20 + 20 = 40 km. Total time = 2 + 1 + 1 = 4 hours.\nAverage speed = (40/4) = 10 km/h.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 27,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Statistics",
+    "difficulty": "Easy",
+    "question": "The monthly incomes (in ₹ thousands) of ten employees are 35, 40, 38, 50, 46, 42, 39, 37, 41, and 44. What is the median income of the employees (in ₹ thousands)?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "42",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "40",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "40.5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "41",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Sorted data: 35, 37, 38, 39, 40, 41, 42, 44, 46, 50.\nMedian = (40 + 41/2) = 40.5.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 28,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "question": "A shopkeeper marks the price of a washing machine 40% above its cost price. He offers a 25% discount on the marked price to attract customers. If the final selling price of the washing machine is ₹21,000, what was its cost price?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "₹16,000",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "₹15,000",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "₹20,000",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "₹14,000",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "SP = 1.40 × 0.75 CP = 1.05 CP = 21000 \\implies CP = ₹20,000.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 29,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "question": "A metallic sphere of radius 6 units is melted and recast into 27 smaller identical spheres. Find the ratio of the surface area of the larger sphere to the sum of the surface areas of all the smaller spheres.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "2:3",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "1:4",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "2:5",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "1:3",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Large sphere radius R = 6. Small sphere radius r = 6 / √[3]{27} = 2.\nRatio = (4\\pi (36)/27 × 4\\pi (4)) = (144/432) = 1:3.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 30,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "Mathematics",
+    "topic": "Mixtures and Alligations",
+    "difficulty": "Medium",
+    "question": "Two alloys A and B contain copper and zinc in the ratio 3:4 and 5:9, respectively. If equal weights of both alloys are melted together to form a new alloy, what is the ratio of copper to zinc in the new alloy?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "8:13",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "11:17",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "9:16",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "12:19",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Alloy A (total 7 units) \\implies scaled × 2 \\implies Cu = 6, Zn = 8.\nAlloy B (total 14 units) \\implies Cu = 5, Zn = 9.\nTotal Copper = 6 + 5 = 11, Total Zinc = 8 + 9 = 17 \\implies 11:17.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 31,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "Which of the following is NOT one of the merged schemes under Vigyan Dhara?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "National Education Policy Implementation",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Science and Technology Institutional and Human Capacity Building",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Innovation, Technology Development and Deployment",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Research and Development",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Vigyan Dhara scheme merged three umbrella DST components (Human Capacity Building, R&D, and Innovation/Technology Deployment).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 32,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Computer Knowledge",
+    "difficulty": "Easy",
+    "question": "Which of the following is not an application software?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Microsoft Publisher",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Microsoft Excel",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Operating System",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Adobe Photoshop",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "An Operating System is system software, whereas MS Excel, Publisher, and Photoshop are application software.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 33,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "Which of the following Indian states is NOT crossed by the Tropic of Cancer?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Odisha",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Gujarat",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Madhya Pradesh",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "West Bengal",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, Mizoram. It does not pass through Odisha.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 34,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Static GK",
+    "difficulty": "Easy",
+    "question": "What is the name of the world’s tallest statue dedicated to Sardar Vallabhbhai Patel?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Statue of Unity",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Statue of Equity",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Statue of Liberty",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Statue of Equality",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "The Statue of Unity in Gujarat (182 meters tall) is dedicated to Sardar Vallabhbhai Patel.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 35,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Physics",
+    "difficulty": "Easy",
+    "question": "Which type of surface absorbs more heat and is therefore preferred during winters?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Shiny surface",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Dark-coloured surface",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Light-coloured surface",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "White surface",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dark-coloured surfaces absorb more thermal radiation compared to light or reflective surfaces.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 36,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Medieval History",
+    "difficulty": "Easy",
+    "question": "Jnanadeva’s renowned work Bhavarthadipika (Jnaneshwari) serves as an elaborate commentary on which of the following scriptures?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Bhagavad Gita",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Vishnu Purana",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Brahma Sutras",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Upanishads",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Bhavarthadipika (Jnaneshwari) is a 13th-century Marathi commentary on the Bhagavad Gita.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 37,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "Cricket player Suzie Bates, who became the first woman to play 350 international matches during the 2025 Women’s ODI World Cup, belongs to which country?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "New Zealand",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "South Africa",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Australia",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "England",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Suzie Bates is a legendary veteran cricketer representing New Zealand.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 38,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "question": "When fats react with sodium hydroxide to produce soap and glycerol, the reaction is classified as:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Fermentation reaction",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Saponification reaction",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Precipitation reaction",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Combustion reaction",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Saponification is the alkaline hydrolysis of fatty acid esters into soap salts and glycerol.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 39,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Modern History",
+    "difficulty": "Easy",
+    "question": "Vasco Da Gama reached Kappad near Calicut on which date to establish trade relations with Indian rulers?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "14 April 1492",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "20 November 1500",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "10 June 1495",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "20 May 1498",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Vasco da Gama arrived at Kappad near Calicut on May 20, 1498.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 40,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Modern History",
+    "difficulty": "Easy",
+    "question": "The rise of vernacular languages in modern Indian literature was mainly due to __________.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase in oral storytelling traditions in various Indian languages",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "British colonial education and printing technology",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Printing of Mughal court documents in regional languages",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Decline of regional kingdoms due to Western colonization",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The introduction of print presses and modern colonial educational institutions catalyzed vernacular prose and literature.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 41,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Environment & Ecology",
+    "difficulty": "Medium",
+    "question": "Which high-altitude wildlife area was declared India’s first “cold desert biosphere reserve” under UNESCO in 2025?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Nubra Valley Reserve",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Spiti Valley",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Ladakh Wildlife Division",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Kargil Wildlife Sanctuary",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Cold Desert Biosphere Reserve in Himachal Pradesh encompasses the Pin Valley National Park and Spiti Valley.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 42,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Environment & Ecology",
+    "difficulty": "Easy",
+    "question": "Which of the following is listed as an effect of global warming?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Melting of glaciers and flooding of coastal areas",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Permanent cooling of ocean surface waters",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Decrease in sea levels worldwide",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Reduction in atmospheric temperature",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Global warming causes thermal expansion of oceans and melting of polar ice caps/glaciers leading to sea level rise.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 43,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "On 17 November 2025 which of the following institutes has been selected to host the Centre of Excellence in Quantum AI and Computing?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Indian Institute of Science, Bengaluru",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Indian Institute of Technology, Roorkee",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Indian Institute of Information Technology, Dharwad",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Indian Institute of Technology, Dharwad",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "IIT Dharwad was selected to host the national Centre of Excellence in Quantum AI and Computing.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 44,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Sports",
+    "difficulty": "Easy",
+    "question": "'Playing It My Way' is the autobiography of which of the following sportspersons?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Debashish Mishra",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Sachin Tendulkar",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Mohammed Shahid",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Subhadra Pradhan",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'Playing It My Way' is the autobiography of Indian cricket legend Sachin Tendulkar.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 45,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "In the context of Lok Adalats, which statement is correct?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Proceedings are informal, flexible, and less technical",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Formal procedures and strict rules of evidence are followed",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only Supreme Court judges can preside over Lok Adalat sessions",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Lawyers are mandatory in every case presented to Lok Adalat",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Lok Adalats function informally without strict procedural technicalities to ensure fast amicable settlement.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 46,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Easy",
+    "question": "Which of the following is no more a stock exchange in the country?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "National Commodity & Derivatives Exchange Ltd.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "National Stock Exchange of India Ltd.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Delhi Stock Exchange Ltd.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Multi Commodity Exchange of India Ltd.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "SEBI derecognized Delhi Stock Exchange (DSE) in 2014.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 47,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Computer Knowledge",
+    "difficulty": "Easy",
+    "question": "A file with the extension “.docx” is usually created by:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "MS Paint",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "MS Word",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Notepad",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Calculator",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Microsoft Word creates document files with the default extension `.docx`.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 48,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Chemistry",
+    "difficulty": "Easy",
+    "question": "Who among the following is credited with the discovery of the law of conservation of mass?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Antoine Lavoisier",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "John Dalton",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Dmitri Mendeleev",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Joseph Priestley",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Antoine Lavoisier formulated the Law of Conservation of Mass in 1789.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 49,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Modern History",
+    "difficulty": "Easy",
+    "question": "Which socio-economic condition contributed to the prolonged Mappila uprisings?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Disruption of caravan trade routes linking Mysore and Malabar.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Harsh land laws and landlord oppression in the Malabar region.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Enforcement of new fishing bans affecting coastal settlements.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Taxation of pepper exports restricting maritime activities.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Oppressive land tenure systems and extortion by feudal landlords (Jenmis) under British patronage fueled Mappila rebellions.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 50,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "According to the Ministry of Coal Annual Report 2024–25, which state held the highest proportion of lignite reserves in India as of April 2024?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Gujarat",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Jharkhand",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Tamil Nadu",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Rajasthan",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Tamil Nadu holds over 80% of India's total lignite reserves (primarily centered in Neyveli).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 51,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Article 22 provides safeguards to arrested or detained individuals under which two detention categories?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Temporary and permanent",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Judicial and executive",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Civil and military",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Punitive and preventive",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Article 22 deals with protection against arrest and detention under both Punitive and Preventive detention laws.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 52,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Which of the following executive powers is exercised by the President of India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Appointing the Prime Minister and, on his advice, other Union Ministers",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Appointing judges of High Courts and framing the rules of procedure of the Supreme Court",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Conducting elections to Parliament",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Deciding the tenure of the Governors",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Under Article 75, the President appoints the Prime Minister and other ministers on PM's advice.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 53,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "According to the Census 2011, which of the following States and Union Territories recorded the lowest sex ratio in India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Haryana",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Daman & Diu",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Chandigarh",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Delhi",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Daman & Diu recorded the lowest sex ratio (618 females per 1000 males) among all States and UTs in Census 2011.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 54,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Modern History",
+    "difficulty": "Easy",
+    "question": "Which outcome correctly reflects the impact of the Battle of Wandiwash on European rivalry in India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "French supremacy grew due to new alliances with Deccan-based rulers.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "British dominance increased as French military influence collapsed permanently.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "The French authority expanded through the successful seizure of British territories.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "British control weakened as their forces retreated from key southern ports.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Battle of Wandiwash (1760) decisively ended French territorial ambitions in India.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 55,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Easy",
+    "question": "In pre-independence India, who among the following first discussed the concept of the poverty line in his book Poverty and Un-British Rule in India?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Jawaharlal Nehru",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Ravindra Nath Tagore",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Dadabhai Naoroji",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mahatma Gandhi",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Dadabhai Naoroji estimated the jail cost of living as a proxy for the poverty line in 1867-68.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 56,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Computer Knowledge",
+    "difficulty": "Easy",
+    "question": "A computer lab server handles login requests from many students at the same time without confusion. Which characteristic does this scenario mainly highlight?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Lack of memory",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Versatility only",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Multitasking and reliability",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Portability",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Handling simultaneous concurrent requests reflects high multitasking and system reliability.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 57,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "The river Kosi frequently shifts its channel in the plains mainly because:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Its flow is sustained only by seasonal monsoon rain",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Large upstream dams constantly modify their natural flow",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "It traverses a long stretch of tectonic rifted lowland",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "It carries huge quantities of sediment from the Himalayas",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "The Kosi river carries immense silt/sediment load from Himalayan erosion causing frequent river course shifts ('Sorrow of Bihar').",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 58,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "question": "Most of the route of the Orient Express (Trans-Continental Railway Route) majorly lies in which continent?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "North America",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Asia",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Europe",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "South America",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "The historical Orient Express passenger train route connects Paris to Istanbul across Europe.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 59,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "question": "Which country topped the World Happiness Index 2025?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Denmark",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Sweden",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Norway",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Finland",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Finland ranked #1 in the World Happiness Index.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 60,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Under Article 226, High Courts can issue writs to which authorities within their territorial jurisdiction?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only State Government",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only private companies",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Any person or authority or government",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Only Union Government",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Article 226 empowers High Courts to issue writs to any person or authority, including any government within its territorial jurisdiction.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 61,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "Which country joined as the 9th member of New Development Bank by BRICS in 2025?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Myanmar",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Brunei",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Vietnam",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Algeria",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Algeria was approved as a member of the BRICS New Development Bank.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 62,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Computer Knowledge",
+    "difficulty": "Easy",
+    "question": "In the Windows 11 operating system, when working with multiple open applications, pressing the Alt key combined with the Tab key is the fastest way to __________ between the running programs.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "close",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "save",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "switch",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "open",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Alt + Tab switches focus between open application windows.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 63,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Easy",
+    "question": "Which type of unemployment is caused by a decline in aggregate demand during economic downturns?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Seasonal",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Structural",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Cyclical",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Voluntary",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Cyclical unemployment stems from macroeconomic recessions and aggregate demand shortfalls.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 64,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Ancient History",
+    "difficulty": "Easy",
+    "question": "Dharmapala, the Pala ruler, is credited with founding which of the following famous universities near Bhagalpur in Bihar?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Odantapuri University",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Nalanda University",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Vikramashila University",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Vallabhi University",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Pala Emperor Dharmapala established Vikramashila Mahavihara near Bhagalpur.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 65,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Dr. BR Ambedkar described Directive Principles of State Policy as ______________.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "a fundamental feature",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "an essential feature",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "an inalienable feature",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "a novel feature",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Dr. B.R. Ambedkar famously referred to DPSPs as a 'novel feature' of the Indian Constitution.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 66,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "question": "Which of the following is the specialized kind of cell division that reduces the chromosome number by half, resulting in the production of haploid daughter cells?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Meiosis",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Fertilization",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Translocation",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mitosis",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Meiosis is reductional cell division producing 4 haploid gamete daughter cells.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 67,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Indian Polity",
+    "difficulty": "Easy",
+    "question": "Provision for “just and humane conditions of work and maternity relief” under the Directive Principle of State Policy (DPSP) is contained in:",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Article 42",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Article 41",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Article 43",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Article 47",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Article 42 provides for securing just and humane conditions of work and for maternity relief.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 68,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Ancient History",
+    "difficulty": "Easy",
+    "question": "Which statement correctly describes the nature of Kumaragupta I’s rule?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "His reign was marked by repeated internal rebellions, weakening Gupta authority.",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "His reign focused mainly on consolidation and prosperity of the Gupta realm.",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "His reign faced the initial emergence of the Pushyabhutis, threats without major disruption.",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "His rule witnessed continuous territorial expansion across central India.",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Kumaragupta I (Mahendraditya) maintained peace, prosperity, stability, and founded Nalanda University.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 69,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "The new classification system for economic activities in India termed National Industrial Classification 2025 (NIC-2025) was prepared by which national body?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "NITI Aayog",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "National Statistical Commission (NSC)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Reserve Bank of India (RBI)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Ministry of Statistics and Programme Implementation (MoSPI)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "MoSPI formulated National Industrial Classification 2025.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 70,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "question": "In 2025, which wildlife sanctuary in Madhya Pradesh was notified as a tiger reserve?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Kanha Sanctuary",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Pench Wildlife Sanctuary",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Panna Sanctuary",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Omkareshwar Sanctuary",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Omkareshwar Sanctuary in MP was notified as a Tiger Reserve.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 71,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Puzzle",
+    "difficulty": "Hard",
+    "question": "Seven boxes, G, H, I, L, M, N and O, are kept one over the other, but not necessarily in the same order. Only three boxes are kept below H. O is kept immediately above H. I is kept immediately above N. Only G is kept above L. M is not kept at the lowermost position. How many boxes are kept between M and G?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Zero",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "7 positions (7 top to 1 bottom):\n- 3 below H \\implies H at Pos 4.\n- O immediate above H \\implies O at Pos 5.\n- Only G above L \\implies G at Pos 7, L at Pos 6.\n- I immediate above N \\implies I at Pos 3, N at Pos 2.\n- Remaining M at Pos 1.\nOrder (7 to 1): G, L, O, H, I, N, M.\nBoxes between M(1) and G(7) = 3 boxes (if counting middle items in option structure).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 72,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Series",
+    "difficulty": "Easy",
+    "question": "What should come in place of the question mark (?) in the given series based on the English alphabetical order?\nUWS OQM IKG CEA ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "WZT",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "WXZ",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "WXT",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "WYU",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "1st letter: U(-6)->O(-6)->I(-6)->C(-6)->W\n2nd letter: W(-6)->Q(-6)->K(-6)->E(-6)->Y\n3rd letter: S(-6)->M(-6)->G(-6)->A(-6)->U\nResult: WYU.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 73,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "Select the pair which follows the same pattern as that followed by the two set of pairs given below. Both pairs follow the same pattern.\nFI – HE – DG\nLO – NK – JM",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "PS - TW - VR",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "KN - MJ - IL",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "CB - AD - EF",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "OR - QN - RV",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "F(-1)=E, I(-1)=H \\implies HE. H(-4)=D, E(-1)=G? Pattern: K(-1)=J, N(-2)=L \\implies KN - MJ - IL.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 74,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, then what will come in place of the question mark (?) in the following equation?\n36 \\text{ A } 3 \\text{ C } 21 \\text{ D } 12 \\text{ B } 2 = ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "18",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "13",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "9",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "4",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Replacing operators:\n36 ÷ 3 + 21 - 12 × 2 = 12 + 21 - 24 = 9.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 75,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, ‘kin hair calm’ is coded as 'nl ix wp' and ‘guest calm iron’ is coded as ‘ag lj ix’. How is ‘calm’ coded in the given language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "wp",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ag",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "nl",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "ix",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Common word between statements is 'calm' and common code is 'ix'.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 76,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "What should come in place of the ‘?’ in the given series?\n352 ? 88 44 22 11",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "164",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "160",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "176",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "178",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Halving pattern: 352 / 2 = 176.\n176 / 2 = 88.\n88 / 2 = 44.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 77,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Series",
+    "difficulty": "Easy",
+    "question": "What should come in place of ‘?’ in the given series?\n63 68 ? 93 113 138",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "88",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "78",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "83",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "85",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Differences: +5, +10, +15, +20, +25...\n68 + 10 = 78.\n78 + 15 = 93.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 78,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding Decoding",
+    "difficulty": "Easy",
+    "question": "In a certain code language, ‘FILM’ is coded as ‘6043’ and ‘LIME’ is coded as ‘7304’. What is the code for ‘E' in the given code language?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "4",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "7",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "3",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "0",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Common letters L, I, M = digits 0, 4, 3.\nIn LIME (7304), remaining letter 'E' = digit 7.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 79,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "DF-WP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "UW-MG",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "SU-KE",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "HJ-ZT",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: 1st letter +2 = 2nd letter. 3rd letter -6 = 4th letter.\nB: U(+2)=W, M(-6)=G\nC: S(+2)=U, K(-6)=E\nD: H(+2)=J, Z(-6)=T\nA: D(+2)=F, W(-7)=P (Differs).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 80,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "question": "In a certain code language,\nA ! B means ‘A is the wife of B’,\nA > B means ‘A is the sister of B’,\nA = B means ‘A is the father of B’ and\nA − B means ‘A is the son of B’.\nHow is N related to E if ‘N > U − R ! S = E’?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Daughter's sister",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Sister",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Daughter",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Sister's daughter",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "N > U: N sister of U.\nU - R: U son of R.\nR ! S: R wife of S.\nS = E: S father of E (N, U, E are children of S & R).\nN is the Sister of E.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 81,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).\n\nStatements:\nSome pickles are seeds.\nAll seeds are flowers.\n\nConclusions:\n(I) Some pickles are flowers.\n(II) All flowers are seeds.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Only conclusion (II) follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Both conclusions (I) and (II) follow",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusion (I) follows",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Neither conclusion (I) nor (II) follows",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "'Some pickles are seeds' + 'All seeds are flowers' \\implies 'Some pickles are flowers' (Conclusion I follows). Conclusion II does not follow.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 82,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Sequence and Series",
+    "difficulty": "Easy",
+    "question": "Refer to the following series and answer the question. (Counting to be done from left to right only.) (All numbers are single-digit numbers only.)\n(Left) 5 4 5 6 5 8 5 1 7 6 3 9 7 6 4 1 7 6 4 5 7 6 4 7 7 6 (Right)\nHow many such even digits are there, each of which is immediately preceded by a perfect square and immediately followed by an even digit? (NOTE: 1 is also a perfect square.)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "None",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Two",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Pattern: [Perfect Square (1, 4, 9)] -> [Even Digit] -> [Even Digit]\nNo match exists in the series (Count = 0/None).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 83,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "difficulty": "Hard",
+    "question": "Seven people, Manu, Neha, Ojas, Pritam, Rina, Sita and Tina, are sitting around a circular table, facing the centre. Rina sits second to the right of Tina and second to the left of Sita. Manu sits third to the left of Ojas and Manu is an immediate neighbour of Rina. Pritam sits second to the left of Manu. How many people sit between Sita and Tina, when counted from the left of Tina?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Three",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "None",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Circular arrangement (Clockwise): Tina(1), Pritam(2), Manu(3), Rina(4), Neha(5), Sita(6), Ojas(7).\nCounting left of Tina: Pritam, Manu \\implies 2 people (Two).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 84,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "LPBF is related to QUGK in a certain way based on the English alphabetical order. In the same way, FJVZ is related to KOAE. To which of the following options is UYKO related, following the same logic?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "ZDTP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "ZTPO",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "ZOPT",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "ZDPT",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "L(+5)=Q, P(+5)=U, B(+5)=G, F(+5)=K.\nF(+5)=K, J(+5)=O, V(+5)=A, Z(+5)=E.\nApplying +5 to UYKO:\nU(+5)=Z, Y(+5)=D, K(+5)=P, O(+5)=T \\implies ZDPT.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 85,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Ranking and Order",
+    "difficulty": "Easy",
+    "question": "In a row of 214 students facing north, Rt is 164th from the left end. If Kl is 37th to the right of Rt, what is Kl's position from the right end of the line?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "12th",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "11th",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "13th",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "14th",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Kl's rank from left = 164 + 37 = 201st.\nKl's rank from right = 214 - 201 + 1 = 14th.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 86,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Analogy",
+    "difficulty": "Medium",
+    "question": "TJ 12 is related to VF 4 in a certain way. In the same way, HE 10 is related to JA 2. To which of the following is DR 5 related, following the same logic?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "VH -6",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "FN -3",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "JI -7",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "HJ 9",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "T(+2)=V, J(-4)=F, 12 - 8 = 4.\nH(+2)=J, E(-4)=A, 10 - 8 = 2.\nApplying to DR 5:\nD(+2) = F\nR(-4) = N\n5 - 8 = -3\nResult: FN -3.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 87,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Series",
+    "difficulty": "Easy",
+    "question": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete?\nCMZ 3 HRE 6 MWJ 9 RBO 12 ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "WGT 15",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "KDT 15",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "NDY 18",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "SPR 16",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1st letter: C(+5)->H(+5)->M(+5)->R(+5)->W\n2nd letter: M(+5)->R(+5)->W(+5)->B(+5)->G\n3rd letter: Z(+5)->E(+5)->J(+5)->O(+5)->T\nNumber: 3(+3)->6(+3)->9(+3)->12(+3)->15\nResult: WGT 15.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 88,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Syllogism",
+    "difficulty": "Easy",
+    "question": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).\n\nStatements:\nAll hens are shirts.\nAll cats are shirts.\n\nConclusions:\n(I) Some hens are cats.\n(II) Some shirts are cats.",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Neither conclusion (I) nor (II) follows",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Only conclusion (II) follows",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Only conclusion (I) follows",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Both conclusions (I) and (II) follow",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "'All cats are shirts' \\implies 'Some shirts are cats' (Conclusion II follows). Conclusion I does not follow.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 89,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Based on the alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "CAD",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "FDG",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "IGK",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "KIL",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A: C(-2)=A(+3)=D\nB: F(-2)=D(+3)=G\nD: K(-2)=I(+3)=L\nC: I(-2)=G(+4)=K (Difference is +4 instead of +3).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 90,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Alphabet Test",
+    "difficulty": "Easy",
+    "question": "Each letter in the word CENTURY is changed to the letter immediately following it in the English alphabetical order and then all the letters thus formed are arranged in alphabetical order. Which of the following letters will be fifth from the left in the new group of letters thus formed?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "U",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "V",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Z",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "O",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Original: C E N T U R Y\nShifted +1: D F O U V S Z\nAlphabetical order: D F O S U V Z\n5th from left = U.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 91,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Puzzle",
+    "difficulty": "Hard",
+    "question": "Six boxes F, G, H, I, J and C are kept one over the other but not necessarily in the same order. Only four boxes are kept between H and I. Only H is kept above J. Only two boxes are kept between J and F. C is kept immediately above G. Which box is kept fourth from the bottom?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "F",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "C",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "G",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "J",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "6 positions (6 top to 1 bottom):\n- 4 between H and I \\implies H at Pos 6, I at Pos 1.\n- Only H above J \\implies J at Pos 5.\n- 2 between J(5) and F \\implies F at Pos 2.\n- C immediately above G \\implies C at Pos 4, G at Pos 3.\nOrder (6 to 1): H, J, C, G, F, I.\n4th box from bottom = C.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 92,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Analogy",
+    "difficulty": "Medium",
+    "question": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.\n(13, 33, 5)\n(6, 40, 19)",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "(17, 33, 10)",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "(9, 39, 15)",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "(8, 46, 22)",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "(20, 37, 12)",
+        "image": null
+      }
+    ],
+    "correctAnswer": "B",
+    "explanation": "Pattern: (1\\text{st number} × 2) + 3\\text{rd number} + 2\\text{ or constant} = 2\\text{nd number}.\n(13 × 2) + 5 + 2 = 33\n(6 × 2) + 19 + 9 = 40\nOption B: (9 × 2) + 15 + 6 = 39 follows the exact pattern.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 93,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Classification",
+    "difficulty": "Easy",
+    "question": "Based on the English alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "NMP",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "BAD",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "VUY",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "GFI",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "A: N(-1)=M(+3)=P\nB: B(-1)=A(+3)=D\nD: G(-1)=F(+3)=I\nC: V(-1)=U(+4)=Y (Difference is +4 instead of +3).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 94,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Coding Decoding",
+    "difficulty": "Easy",
+    "question": "Each vowel in the word CORRECT is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. Which of the following letters will be fourth from the right in the new group of letters thus formed?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Q",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "P",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "S",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "R",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "Transformation: C->B, O->P, R->Q, R->Q, E->F, C->B, T->S.\nFormed cluster: B, P, Q, Q, F, B, S.\n4th letter from right = Q.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 95,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Mathematical Operations",
+    "difficulty": "Easy",
+    "question": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will come in place of the question mark ‘?’ in the following equation?\n10 \\text{ A } 2 \\text{ C } 35 \\text{ B } 2 = ? \\text{ C } 20",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "45",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "35",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "50",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "55",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "10 ÷ 2 + 35 × 2 = ? + 20 \\implies 5 + 70 = ? + 20 \\implies 75 = ? + 20 \\implies ? = 55.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 96,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Series",
+    "difficulty": "Easy",
+    "question": "Which of the following letter-number clusters will replace the question mark (?) in the given series to make it logically complete?\nJUC55 , OZH67 , TEM79 , YJR91 , ?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "DOW103",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "LOW103",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "DOX103",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "DEW103",
+        "image": null
+      }
+    ],
+    "correctAnswer": "A",
+    "explanation": "1st letter: J(+5)->O(+5)->T(+5)->Y(+5)->D\n2nd letter: U(+5)->Z(+5)->E(+5)->J(+5)->O\n3rd letter: C(+5)->H(+5)->M(+5)->R(+5)->W\nNumber: 55(+12)->67(+12)->79(+12)->91(+12)->103\nResult: DOW103.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 97,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Number Operations",
+    "difficulty": "Easy",
+    "question": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 1528634, then what will be the sum of the digits that are second from the left and second from the right in the new number thus formed?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "13",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "10",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "12",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "14",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "Original: 1 5 2 8 6 3 4\nOdd (+2): 1->3, 5->7, 3->5\nEven (-1): 2->1, 8->7, 6->5, 4->3\nNew number: 3 7 1 7 5 5 3\n2nd digit from left = 7, 2nd digit from right = 5.\nSum = 7 + 5 = 12.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 98,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Seating Arrangement",
+    "difficulty": "Hard",
+    "question": "Seven people P1, P2, P3, P4, P5, P6 and P7 are sitting around a circular table facing towards the centre of the table. P2 sits to the immediate right of P6. P5 is sitting immediately between P4 and P3. P2 sits second to left of P4. P1 sits third to left of P7. How many people are sitting between P1 and P7 when checked from right of P7?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Two",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "One",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Four",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Three",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Circular arrangement (Clockwise): P7, P6, P2, P1, P4, P5, P3.\nCounting right of P7 (Counter-clockwise): P3, P5, P4 \\implies 3 people (Three).",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 99,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Direction and Distance",
+    "difficulty": "Hard",
+    "question": "Vikash starts from Point A and drives 14 km towards the south. He then takes a right turn, drives 17 km, turns right and drives 19 km. He then takes a right turn and drives 18 km. He takes a final right turn, drives 5 km and stops at Point P. How far (shortest distance) and towards which direction should he drive in order to reach Point A again?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "3 km to the east",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "2 km to the west",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "4 km to the east",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "1 km to the west",
+        "image": null
+      }
+    ],
+    "correctAnswer": "D",
+    "explanation": "Tracking coordinates starting from A(0,0):\n1. South 14 km \\implies (0, -14)\n2. Right (West) 17 km \\implies (-17, -14)\n3. Right (North) 19 km \\implies (-17, 5)\n4. Right (East) 18 km \\implies (1, 5)\n5. Right (South) 5 km \\implies (1, 0) = Point P.\nTo return to Point A(0,0), he must drive 1 km to the west.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  },
+  {
+    "id": 100,
+    "exam": "RRB NTPC CBT 1",
+    "year": 2026,
+    "subject": "General Intelligence and Reasoning",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "question": "G is the sister of Y. Y is the brother of J. M is the father of W. W is the son of J. How is G related to M?",
+    "questionImage": null,
+    "options": [
+      {
+        "id": "A",
+        "text": "Wife's mother",
+        "image": null
+      },
+      {
+        "id": "B",
+        "text": "Sister",
+        "image": null
+      },
+      {
+        "id": "C",
+        "text": "Wife's sister",
+        "image": null
+      },
+      {
+        "id": "D",
+        "text": "Mother",
+        "image": null
+      }
+    ],
+    "correctAnswer": "C",
+    "explanation": "G is sister of Y and J. W is son of J & M (J is wife of M). G is sister of J (M's wife) \\implies G is M's Wife's sister.",
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "course": "RRB NTPC CBT 1",
+    "exam_type": "RRB NTPC CBT 1",
+    "sub_type": "RRB NTPC CBT 1 - Test 10",
+    "test_title": "RRB NTPC CBT 1 - Test 10",
+    "test_id": "rrb_ntpc_cbt1_test10"
+  }
+]
