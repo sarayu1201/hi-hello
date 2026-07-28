@@ -4035,28 +4035,28 @@
     "options": [
       {
         "id": "A",
-        "text": "200"
+        "text": "If statement I alone is sufficient to answer the question"
       },
       {
         "id": "B",
-        "text": "140"
+        "text": "If statement II alone is sufficient to answer the question"
       },
       {
         "id": "C",
-        "text": "170"
+        "text": "If either statement I or II alone is sufficient to answer the question"
       },
       {
         "id": "D",
-        "text": "230"
+        "text": "If both statements I and II together are not sufficient to answer the question"
       },
       {
         "id": "E",
-        "text": "260"
+        "text": "If both statements I and II together are necessary to answer the question"
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
+    "correct_option": "E",
+    "correct_answer": "E",
+    "correct_letter": "E",
     "explanation": "$From I: speed \\text{ of } Y = 30 m/s, rel speed = 50 m/s ⇒ sum \\text{ of } lengths = 300. From II: Y = 0.5 X. Together we get Length \\text{ of } X = 200 m. So both together are necessary$.",
     "question_image": "",
     "option_images": [
@@ -4090,28 +4090,28 @@
     "options": [
       {
         "id": "A",
-        "text": "8.75"
+        "text": "If statement I alone is sufficient to answer the question"
       },
       {
         "id": "B",
-        "text": "6.6"
+        "text": "If statement II alone is sufficient to answer the question"
       },
       {
         "id": "C",
-        "text": "7.4"
+        "text": "If either statement I or II alone is sufficient to answer the question"
       },
       {
         "id": "D",
-        "text": "10.1"
+        "text": "If both statements I and II together are not sufficient to answer the question"
       },
       {
         "id": "E",
-        "text": "10.9"
+        "text": "If both statements I and II together are necessary to answer the question"
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
     "explanation": "Using I: 2*pi*r 2 r = 45 ⇒ r = 10.5 ⇒ side = 14 ⇒ Area = 196 (Sufficient). Using II: r = 1.5 B, perimeter = 30+2 B, 3*pi*B ÷ (30+2 B) = 1.5 ⇒ B=3.5, r=5.25 ⇒ side=8.75 ⇒ Area (Sufficient). Either statement alone is sufficient.",
     "question_image": "",
     "option_images": [
