@@ -677,30 +677,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$What is the positive square root of [(19 + 4√21]?$",
+    "question": "$What is the positive square root of [(19 + 4\\sqrt21]?$",
     "q": "$What is the positive square root of [(19 + 4√21]?$",
     "options": [
       {
         "id": "A",
-        "text": "$√(7 + 2√3$"
+        "text": "$\\sqrt(7 + 2\\sqrt3$"
       },
       {
         "id": "B",
-        "text": "$√(3 + 2√7$"
+        "text": "$\\sqrt(3 + 2\\sqrt7$"
       },
       {
         "id": "C",
-        "text": "$√(2 + 3√7$"
+        "text": "$\\sqrt(2 + 3\\sqrt7$"
       },
       {
         "id": "D",
-        "text": "$√(7 + 3√3$"
+        "text": "$\\sqrt(7 + 3\\sqrt3$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Expression = 19 + 4√21 = 7 + 12 + 2 * √7 * √12 = (√7 + √12)^2.\nSquare root = √7 + √12 = √7 + 2√3$.",
+    "explanation": "$Expression = 19 + 4\\sqrt21 = 7 + 12 + 2 * \\sqrt7 * \\sqrt12 = (\\sqrt7 + \\sqrt12)^2.\nSquare root = \\sqrt7 + \\sqrt12 = \\sqrt7 + 2\\sqrt3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1192,11 +1192,11 @@
     "options": [
       {
         "id": "A",
-        "text": "$(7 / 2√3$"
+        "text": "$(7 / 2\\sqrt3$"
       },
       {
         "id": "B",
-        "text": "$(1 + 2√3)/2$"
+        "text": "$(1 + 2\\sqrt3)/2$"
       },
       {
         "id": "C",
@@ -1204,13 +1204,13 @@
       },
       {
         "id": "D",
-        "text": "$(√(3 + 4)/2$"
+        "text": "$(\\sqrt(3 + 4)/2$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "In \\DeltaDEF, ∠F = 180$^\\circ - (90^\\circ + 30^\\circ) = 60^\\circ.\ncos F + √3 = cos(60°) + √3 = \\frac{1}{2} + √3 = (1 + 2√3)/2$.",
+    "explanation": "In \\DeltaDEF, ∠F = 180$^\\circ - (90^\\circ + 30^\\circ) = 60^\\circ.\ncos F + \\sqrt3 = cos(60°) + \\sqrt3 = \\frac{1}{2} + \\sqrt3 = (1 + 2\\sqrt3)/2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2128,7 +2128,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Interchanging '÷' and 'x' gives: 19 - 16 + 5 * 10 / 2 = 3 + 25 = 28. This balances the equation$.",
+    "explanation": "$Interchanging '\\div' and 'x' gives: 19 - 16 + 5 * 10 / 2 = 3 + 25 = 28. This balances the equation$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4719,19 +4719,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "1919"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "1920"
       },
       {
         "id": "C",
-        "text": "Correct value"
+        "text": "1922"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "1924"
       }
     ],
     "correct_option": "C",
@@ -4923,19 +4923,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "1975"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "1976"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "1978"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "1980"
       }
     ],
     "correct_option": "B",
@@ -4974,19 +4974,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "6"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "5"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "11"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "9"
       }
     ],
     "correct_option": "B",

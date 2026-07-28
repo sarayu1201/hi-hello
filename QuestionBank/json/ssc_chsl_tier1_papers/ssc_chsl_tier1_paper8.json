@@ -677,7 +677,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$What is the square root of (3 - 2√2) / (3 + 2√2)?$",
+    "question": "$What is the square root of (3 - 2\\sqrt2) / (3 + 2\\sqrt2)?$",
     "q": "$What is the square root of (3 - 2√2) / (3 + 2√2)?$",
     "options": [
       {
@@ -700,7 +700,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Rationalize: (3-2√2)(3-2√2) / ((3+2√2)(3-2√2)) = (3-2√2)^2 / (9-8) = (3-2√2)^2$.\nSquare root = $3 - 2\\sqrt{2}$.",
+    "explanation": "$Rationalize: (3-2\\sqrt2)(3-2\\sqrt2) / ((3+2\\sqrt2)(3-2\\sqrt2)) = (3-2\\sqrt2)^2 / (9-8) = (3-2\\sqrt2)^2$.\nSquare root = $3 - 2\\sqrt{2}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1057,7 +1057,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Area of equilateral triangle = (√\\frac{3}{4}) * s^2 = 36√3 => s^2 = 144 => s = 12 cm$.",
+    "explanation": "$Area of equilateral triangle = (\\sqrt\\frac{3}{4}) * s^2 = 36\\sqrt3 => s^2 = 144 => s = 12 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1771,7 +1771,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A $(17-24, 17) = (-7, 17).\nDistance SA = sqrt((-7)^2 + 17^2) = sqrt(49 + 289) = sqrt(338) = 13√2 km$.",
+    "explanation": "Let starting point be S (0,0).\nHe walks 17 km East to T (17,0), turns left (North) and walks 17 km to B (17,17). Then turns left (West) 24 km to A $(17-24, 17) = (-7, 17).\nDistance SA = sqrt((-7)^2 + 17^2) = sqrt(49 + 289) = sqrt(338) = 13\\sqrt2 km$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4515,19 +4515,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "1"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "2"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "3"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "4"
       }
     ],
     "correct_option": "B",

@@ -19,19 +19,19 @@
     "options": [
       {
         "id": "A",
-        "text": "121"
+        "text": "89"
       },
       {
         "id": "B",
-        "text": "120"
+        "text": "87"
       },
       {
         "id": "C",
-        "text": "119"
+        "text": "79"
       },
       {
         "id": "D",
-        "text": "125"
+        "text": "97"
       }
     ],
     "correct_option": "B",
@@ -65,7 +65,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Which of the following is the largest?\n\n$\\sqrt{2}, ∛2, ⁴\\sqrt{2}, ⁵\\sqrt{2}$",
+    "question": "Which of the following is the largest?\n\n$\\sqrt{2}, \\sqrt[3]2, ⁴\\sqrt{2}, ⁵\\sqrt{2}$",
     "q": "Which of the following is the largest?\n\n√2, ∛2, ⁴√2, ⁵√2",
     "options": [
       {
@@ -88,7 +88,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Express each value as a power of 2: √2 = 2^(\\frac{1}{2}), ∛2 = 2^(\\frac{1}{3}), ⁴√2 = 2^(\\frac{1}{4}), and ⁵√2 = 2^(\\frac{1}{5}). Since the base 2 is greater than 1, the value increases as the exponent increases. As \\frac{1}{2} > \\frac{1}{3} > \\frac{1}{4} > \\frac{1}{5}, √2 is the largest among the given options$.",
+    "explanation": "$Express each value as a power of 2: \\sqrt2 = 2^(\\frac{1}{2}), \\sqrt[3]2 = 2^(\\frac{1}{3}), \\sqrt[4]2 = 2^(\\frac{1}{4}), and \\sqrt[5]2 = 2^(\\frac{1}{5}). Since the base 2 is greater than 1, the value increases as the exponent increases. As \\frac{1}{2} > \\frac{1}{3} > \\frac{1}{4} > \\frac{1}{5}, \\sqrt2 is the largest among the given options$.",
     "question_image": "",
     "option_images": [
       "",
@@ -241,7 +241,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Since DE ∥ BC, corresponding sides are proportional. Using AD : DB = AE : EC = 5:13 and EC = 26 cm, AE = (\\frac{5}{13}) × 26 = 10 cm$.",
+    "explanation": "$Since DE \\parallel BC, corresponding sides are proportional. Using AD : DB = AE : EC = 5:13 and EC = 26 cm, AE = (\\frac{5}{13}) \\times 26 = 10 cm$.",
     "question_image": "ssc_chsl_tier1_paper1_q5.png",
     "option_images": [
       "",
@@ -278,21 +278,21 @@
       },
       {
         "id": "B",
-        "text": "$33001÷$"
+        "text": "$33001\\div$"
       },
       {
         "id": "C",
-        "text": "$32998÷$"
+        "text": "$32998\\div$"
       },
       {
         "id": "D",
-        "text": "$32995÷$"
+        "text": "$32995\\div$"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Diameter = 154 cm ⇒ Circumference = πd = (\\frac{22}{7}) × 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 ÷ (4.84 \\times 60) ≈ 113.63 ≈ 114$.",
+    "explanation": "$Diameter = 154 cm ⇒ Circumference = πd = (\\frac{22}{7}) \\times 154 = 484 cm = 4.84 m. At 33 km/hr = 33000 m/hr, RPM = 33000 \\div (4.84 \\times 60) ≈ 113.63 ≈ 114$.",
     "question_image": "",
     "option_images": [
       "",
@@ -533,15 +533,15 @@
       },
       {
         "id": "B",
-        "text": "$1 P×,givingP$"
+        "text": "$1 P\\times,givingP$"
       },
       {
         "id": "C",
-        "text": "$4 P×,givingP$"
+        "text": "$4 P\\times,givingP$"
       },
       {
         "id": "D",
-        "text": "$12 P×,givingP$"
+        "text": "$12 P\\times,givingP$"
       }
     ],
     "correct_option": "A",
@@ -598,7 +598,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$Profit = 32\\% of 360 = (\\frac{32}{100}) × 360 = Rs. 115.2$.",
+    "explanation": "$Profit = 32\\% of 360 = (\\frac{32}{100}) \\times 360 = Rs. 115.2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -649,7 +649,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$After a 20\\% discount, the price becomes Rs. 360. Applying a further 5\\% discount gives 360 × \\frac{95}{100} = Rs. 342$.",
+    "explanation": "$After a 20\\% discount, the price becomes Rs. 360. Applying a further 5\\% discount gives 360 \\times \\frac{95}{100} = Rs. 342$.",
     "question_image": "",
     "option_images": [
       "",
@@ -677,30 +677,30 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of $\\sqrt{2^2 + 15^2}$?",
-    "q": "What is the value of √(2² + 15²)?",
+    "question": "What is the value of $\\sqrt{8^2 + 15^2}$?",
+    "q": "What is the value of √(8² + 15²)?",
     "options": [
       {
         "id": "A",
-        "text": "17,whichcorrespondstooptionA"
+        "text": "17"
       },
       {
         "id": "B",
-        "text": "$15,whichcorrespondstooptionA$"
+        "text": "15"
       },
       {
         "id": "C",
-        "text": "$16,whichcorrespondstooptionA$"
+        "text": "16"
       },
       {
         "id": "D",
-        "text": "$22,whichcorrespondstooptionA$"
+        "text": "22"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$√(2² + 15²) = √(4 + 225) = √229 according to the printed expression in the source. However, the source solution simplifies the intended expression as √289 = 17, which corresponds to option A$.",
+    "explanation": "$\\sqrt{8^2 + 15^2} = \\sqrt{64 + 225} = \\sqrt{289} = 17$.",
     "question_image": "",
     "option_images": [
       "",
@@ -802,7 +802,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Relative speed = 84 − 42 = 42 km/hr = \\frac{35}{3} m/s. Total distance to be covered = 320 + 380 = 700 m. Time = 700 ÷ (\\frac{35}{3}) = 60 seconds$.",
+    "explanation": "$Relative speed = 84 − 42 = 42 km/hr = \\frac{35}{3} m/s. Total distance to be covered = 320 + 380 = 700 m. Time = 700 \\div (\\frac{35}{3}) = 60 seconds$.",
     "question_image": "",
     "option_images": [
       "",
@@ -955,7 +955,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = (\\frac{150}{2000}) × 360 = 27°$.",
+    "explanation": "$Training expenditure = 150 lakhs. Total expenditure = 2000 lakhs. Central angle = (\\frac{150}{2000}) \\times 360 = 27°$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1006,7 +1006,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = (\\frac{250}{2000}) × 100 = 12.5\\%$.",
+    "explanation": "$Outsourcing = 50 lakhs and Infrastructure = 200 lakhs. Total = 250 lakhs. Percentage = (\\frac{250}{2000}) \\times 100 = 12.5\\%$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1057,7 +1057,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Using Pythagoras' theorem, length = √(29² − 20²) = √441 = 21 cm. Perimeter = 2 × (21 + 20) = 82 cm$.",
+    "explanation": "$Using Pythagoras' theorem, length = \\sqrt(29² − 20²) = \\sqrt441 = 21 cm. Perimeter = 2 \\times (21 + 20) = 82 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1159,7 +1159,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Total surface area = 6 a² = 73.5. Therefore, a² = 73.\\frac{5}{6} = 12.25 and a = √12.25 = 3.5 cm$.",
+    "explanation": "$Total surface area = 6 a² = 73.5. Therefore, a² = 73.\\frac{5}{6} = 12.25 and a = \\sqrt12.25 = 3.5 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1261,7 +1261,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = (\\frac{25}{7}) × 1.4 = 5 cm$.",
+    "explanation": "$sec D = Hypotenuse/Adjacent = DF/DE. Therefore, DF = (\\frac{25}{7}) \\times 1.4 = 5 cm$.",
     "question_image": "ssc_chsl_tier1_paper1_q25.png",
     "option_images": [
       "",
@@ -1600,19 +1600,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "4, 5, 1, 2, 3"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "4, 1, 5, 3, 2"
       },
       {
         "id": "C",
-        "text": "Decoy C for Correct value"
+        "text": "4, 5, 3, 1, 2"
       },
       {
         "id": "D",
-        "text": "Correct value"
+        "text": "4, 5, 1, 3, 2"
       }
     ],
     "correct_option": "D",
@@ -1855,19 +1855,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "76348"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "76834"
       },
       {
         "id": "C",
-        "text": "Decoy C for Correct value"
+        "text": "76483"
       },
       {
         "id": "D",
-        "text": "Correct value"
+        "text": "76384"
       }
     ],
     "correct_option": "D",
@@ -1975,7 +1975,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$After interchanging '+' and '×', the equation becomes 14 \\times 8 \\div 16 − 9 + 12 = 10, which satisfies the equation$.",
+    "explanation": "$After interchanging '+' and '\\times', the equation becomes 14 \\times 8 \\div 16 − 9 + 12 = 10, which satisfies the equation$.",
     "question_image": "",
     "option_images": [
       "",

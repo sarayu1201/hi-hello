@@ -677,7 +677,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If x = (√(2 + 1)/(√(2 - 1) and y = (√(2 - 1)/(√(2 + 1), then what is the value of x+y ?$",
+    "question": "$If x = (\\sqrt(2 + 1)/(\\sqrt(2 - 1) and y = (\\sqrt(2 - 1)/(\\sqrt(2 + 1), then what is the value of x+y ?$",
     "q": "$If x = (√(2 + 1)/(√(2 - 1) and y = (√(2 - 1)/(√(2 + 1), then what is the value of x+y ?$",
     "options": [
       {
@@ -700,7 +700,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$x + y = [(√2 + 1)^2 + (√2 - 1)^2] / [(√2 - 1)(√2 + 1)] = [(2 + 1 + 2√2) + (2 + 1 - 2√2)] / (2 - 1) = 6$.",
+    "explanation": "$x + y = [(\\sqrt2 + 1)^2 + (\\sqrt2 - 1)^2] / [(\\sqrt2 - 1)(\\sqrt2 + 1)] = [(2 + 1 + 2\\sqrt2) + (2 + 1 - 2\\sqrt2)] / (2 - 1) = 6$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1057,7 +1057,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Area of equilateral triangle = (√\\frac{3}{4}) * s^2 = (√\\frac{3}{4}) * 100 = 25√3 cm^2$.",
+    "explanation": "$Area of equilateral triangle = (\\sqrt\\frac{3}{4}) * s^2 = (\\sqrt\\frac{3}{4}) * 100 = 25\\sqrt3 cm^2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1192,7 +1192,7 @@
     "options": [
       {
         "id": "A",
-        "text": "$(2 + 2√3)/√3$"
+        "text": "$(2 + 2\\sqrt3)/\\sqrt3$"
       },
       {
         "id": "B",
@@ -1204,13 +1204,13 @@
       },
       {
         "id": "D",
-        "text": "$(√(2 + 1)/√2$"
+        "text": "$(\\sqrt(2 + 1)/\\sqrt2$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Expression = 1/√3 + cos(60°) = 1/√3 + \\frac{1}{2} = (2 + √3)/2√3$.",
+    "explanation": "$Expression = 1/\\sqrt3 + cos(60°) = 1/\\sqrt3 + \\frac{1}{2} = (2 + \\sqrt3)/2\\sqrt3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1600,19 +1600,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "1, 5, 2, 4, 3"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "1, 4, 5, 2, 3"
       },
       {
         "id": "C",
-        "text": "Correct value"
+        "text": "1, 5, 4, 2, 3"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "1, 5, 4, 3, 2"
       }
     ],
     "correct_option": "C",
@@ -1771,7 +1771,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Let point K be (0,0). \nAfter reaching K, Ganga turns left (North) 16 km to L (0, 16). Then turns left (West) 10 km to stop at M (-10, 16).\n$Distance KM = sqrt((-10)^2 + 16^2) = sqrt(100 + 256) = sqrt(356) = 2√89 km$.\nDirection of M with respect to K is North-West.",
+    "explanation": "Let point K be (0,0). \nAfter reaching K, Ganga turns left (North) 16 km to L (0, 16). Then turns left (West) 10 km to stop at M (-10, 16).\n$Distance KM = sqrt((-10)^2 + 16^2) = sqrt(100 + 256) = sqrt(356) = 2\\sqrt89 km$.\nDirection of M with respect to K is North-West.",
     "question_image": "",
     "option_images": [
       "",
@@ -1975,7 +1975,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Interchanging '-' and '÷' gives: 10 + 14 * 20 / 7 - 10 = 10 + 40 - 10 = 40. This balances the equation$.",
+    "explanation": "$Interchanging '-' and '\\div' gives: 10 + 14 * 20 / 7 - 10 = 10 + 40 - 10 = 40. This balances the equation$.",
     "question_image": "",
     "option_images": [
       "",
@@ -4719,19 +4719,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "10"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "12"
       },
       {
         "id": "C",
-        "text": "Correct value"
+        "text": "11"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "15"
       }
     ],
     "correct_option": "C",

@@ -1187,12 +1187,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$What is the value of (√\\frac{2}{3} - Cosec 60°)?$",
+    "question": "$What is the value of (\\sqrt\\frac{2}{3} - Cosec 60°)?$",
     "q": "$What is the value of (√\\frac{2}{3} - Cosec60°)?$",
     "options": [
       {
         "id": "A",
-        "text": "$(√(6 - 6)/(3√3)$"
+        "text": "$(\\sqrt(6 - 6)/(3\\sqrt3)$"
       },
       {
         "id": "B",
@@ -1210,7 +1210,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Expression = √\\frac{2}{3} - Cosec 60° = √\\frac{2}{3} - 2/√3$.\nTo find common denominator: ($\\sqrt{M}$ATHBLOCK 1$\\sqrt{3}) / 3. \nMultiplying numerator and denominator by √3: ((√2 - 2√3) * √3) / (3 * √3) = (√6 - 6) / 3√3$.",
+    "explanation": "$Expression = \\sqrt\\frac{2}{3} - Cosec 60° = \\sqrt\\frac{2}{3} - 2/\\sqrt3$.\nTo find common denominator: ($\\sqrt{M}$ATHBLOCK 1$\\sqrt{3}) / 3. \nMultiplying numerator and denominator by \\sqrt3: ((\\sqrt2 - 2\\sqrt3) * \\sqrt3) / (3 * \\sqrt3) = (\\sqrt6 - 6) / 3\\sqrt3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1975,7 +1975,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Interchanging '÷' and '+' gives: 24 \\div 4 - 20 + 9 * 5 = 6 - 20 + 45 = 31. This balances the equation$.",
+    "explanation": "$Interchanging '\\div' and '+' gives: 24 \\div 4 - 20 + 9 * 5 = 6 - 20 + 45 = 31. This balances the equation$.",
     "question_image": "",
     "option_images": [
       "",

@@ -496,7 +496,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$The pattern alternates between multiplication and addition with increasing numbers: 3 \\times 2=6, +3=9, ×4=36, +5=41, ×6=246$.",
+    "explanation": "$The pattern alternates between multiplication and addition with increasing numbers: 3 \\times 2=6, +3=9, \\times4=36, +5=41, \\times6=246$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1867,19 +1867,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "2"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "3"
       },
       {
         "id": "C",
-        "text": "Correct value"
+        "text": "5"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "10"
       }
     ],
     "correct_option": "C",
@@ -2377,19 +2377,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "Two terms"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "Three terms"
       },
       {
         "id": "C",
-        "text": "Decoy C for Correct value"
+        "text": "Five terms"
       },
       {
         "id": "D",
-        "text": "Correct value"
+        "text": "No limit"
       }
     ],
     "correct_option": "D",
@@ -2599,7 +2599,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Since DE ∥ BC, △ADE ∼ △ABC. Therefore, AD/AB = DE/BC. Here AB = 10 + 5 = 15 cm. Thus, \\frac{10}{15} = 6/BC ⇒ BC = 9 cm$.",
+    "explanation": "$Since DE \\parallel BC, △ADE ∼ △ABC. Therefore, AD/AB = DE/BC. Here AB = 10 + 5 = 15 cm. Thus, \\frac{10}{15} = 6/BC ⇒ BC = 9 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2836,25 +2836,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$50√(2 + 50 sq$ cm"
+        "text": "$50\\sqrt(2 + 50 sq$ cm"
       },
       {
         "id": "B",
-        "text": "$50√(2 + 100 sq$ cm"
+        "text": "$50\\sqrt(2 + 100 sq$ cm"
       },
       {
         "id": "C",
-        "text": "$100√(2 + 50 sq$ cm"
+        "text": "$100\\sqrt(2 + 50 sq$ cm"
       },
       {
         "id": "D",
-        "text": "$100√(2 + 100 sq$ cm"
+        "text": "$100\\sqrt(2 + 100 sq$ cm"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Using 45° triangles, the height is 5√2 cm and the longer parallel side is 10 + 10√2 cm. Area = ½ × (sum of parallel sides) × height = 50√2 + 50 sq cm$.",
+    "explanation": "$Using 45° triangles, the height is 5\\sqrt2 cm and the longer parallel side is 10 + 10\\sqrt2 cm. Area = ½ \\times (sum of parallel sides) \\times height = 50\\sqrt2 + 50 sq cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3211,7 +3211,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Curved surface area of a hemisphere = 2πr². Therefore, 2 × (\\frac{22}{7}) × r² = 2772. Solving gives r² = 441, hence r = 21 cm$.",
+    "explanation": "$Curved surface area of a hemisphere = 2πr². Therefore, 2 \\times (\\frac{22}{7}) \\times r² = 2772. Solving gives r² = 441, hence r = 21 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3800,7 +3800,7 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "What is the value of MATHBLOCK$\\frac{0}{6}$)?",
+    "question": "What is the value of $\\tan(-\\frac{5\\pi}{6})$?",
     "q": "What is the value of tan(-5π/6)?",
     "options": [
       {
@@ -3823,7 +3823,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$\\tan(-\\theta) = -\\tan(\\theta$). Since $\\tan(5\\pi/6) = -1/\\sqrt{3}, \\tan(-5\\pi/6) = 1/\\sqrt{3}$.",
+    "explanation": "$\\tan(-\\theta) = -\\tan(\\theta). Since $\\tan(\\frac{5\\pi}{6}) = -\\frac{1}{\\sqrt{3}}, \\tan(-\\frac{5\\pi}{6}) = \\frac{1}{\\sqrt{3}}$.",
     "question_image": "ssc_chsl_tier1_paper3_q75.png",
     "option_images": [
       "",

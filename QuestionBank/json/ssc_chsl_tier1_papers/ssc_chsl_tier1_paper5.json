@@ -835,19 +835,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "2018"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "2020"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "2022"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "2025"
       }
     ],
     "correct_option": "B",
@@ -1294,19 +1294,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Plausible statement matching correct answer"
+        "text": "1"
       },
       {
         "id": "B",
-        "text": "Decoy B for Plausible statement matching correct answer"
+        "text": "2"
       },
       {
         "id": "C",
-        "text": "Decoy C for Plausible statement matching correct answer"
+        "text": "3"
       },
       {
         "id": "D",
-        "text": "Plausible statement matching correct answer"
+        "text": "No error"
       }
     ],
     "correct_option": "D",
@@ -1345,19 +1345,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Plausible statement matching correct answer"
+        "text": "1"
       },
       {
         "id": "B",
-        "text": "Decoy B for Plausible statement matching correct answer"
+        "text": "2"
       },
       {
         "id": "C",
-        "text": "Decoy C for Plausible statement matching correct answer"
+        "text": "3"
       },
       {
         "id": "D",
-        "text": "Plausible statement matching correct answer"
+        "text": "No error"
       }
     ],
     "correct_option": "D",
@@ -3250,7 +3250,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Interchanging 'x' and '÷' gives: 16 \\div 4 - 10 + 2 * 12 = 4 - 10 + 24 = 18. This balances the equation$.",
+    "explanation": "$Interchanging 'x' and '\\div' gives: 16 \\div 4 - 10 + 2 * 12 = 4 - 10 + 24 = 18. This balances the equation$.",
     "question_image": "",
     "option_images": [
       "",
@@ -5029,15 +5029,15 @@
       },
       {
         "id": "B",
-        "text": "$3√\\frac{3}{2}$"
+        "text": "$3\\sqrt\\frac{3}{2}$"
       },
       {
         "id": "C",
-        "text": "$(√(2+1)/√2$"
+        "text": "$(\\sqrt(2+1)/\\sqrt2$"
       },
       {
         "id": "D",
-        "text": "$(3√(2+1)/3$"
+        "text": "$(3\\sqrt(2+1)/3$"
       }
     ],
     "correct_option": "A",

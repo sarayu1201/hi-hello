@@ -1969,19 +1969,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Correct value"
+        "text": "676"
       },
       {
         "id": "B",
-        "text": "Decoy A for Correct value"
+        "text": "216"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "125"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "729"
       }
     ],
     "correct_option": "A",
@@ -2960,7 +2960,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "In a right-angled triangle ABC with altitude AD perpendicular to hypotenuse BC, the property AD^2 = BD * CD holds.\n$AD² = 4 * 5 = 20 AD = sqrt(20) = 2√5 cm$.",
+    "explanation": "In a right-angled triangle ABC with altitude AD perpendicular to hypotenuse BC, the property AD^2 = BD * CD holds.\n$AD² = 4 * 5 = 20 AD = sqrt(20) = 2\\sqrt5 cm$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3317,7 +3317,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "$3 / sqrt(12) = 3 / (2√3) = √3 / 2. sin(θ + 30°) = √3 / 2 => θ + 30° = 60° => θ = 30°$.",
+    "explanation": "$3 / sqrt(12) = 3 / (2\\sqrt3) = \\sqrt3 / 2. sin(θ + 30°) = \\sqrt3 / 2 => θ + 30° = 60° => θ = 30°$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3396,12 +3396,12 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If x = √(3 / 2, then the value of (\\sqrt(1+x) + \\sqrt(1-x)) / (\\sqrt(1+x) - \\sqrt(1-x)) is equal to:$",
-    "q": "$If x = √(3 / 2, then the value of (\\sqrt(1+x) + \\sqrt(1-x)) / (\\sqrt(1+x) - \\sqrt(1-x)) is equal to:$",
+    "question": "$If x = \\frac{\\sqrt{3}}{2}, then the value of \\frac{\\sqrt{1+x} + \\sqrt{1-x}}{\\sqrt{1+x} - \\sqrt{1-x}} is equal to:$",
+    "q": "$If x = √3/2, then the value of (\\sqrt(1+x) + \\sqrt(1-x)) / (\\sqrt(1+x) - \\sqrt(1-x)) is equal to:$",
     "options": [
       {
         "id": "A",
-        "text": "$8√$"
+        "text": "$-\\sqrt{3}$"
       },
       {
         "id": "B",
@@ -3409,17 +3409,17 @@
       },
       {
         "id": "C",
-        "text": "$2√$"
+        "text": "$2\\sqrt{3}$"
       },
       {
         "id": "D",
-        "text": "$4√$"
+        "text": "$\\frac{\\sqrt{3}}{2}$"
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "Rationalize the denominator:\n(($\\sqrt{1+x} + \\sqrt{1-x}) * (\\sqrt{1+x} + \\sqrt{1-x}$)) / ((1+x) - (1-x))\n$= (1+x + 1-x + 2√(1-x²)) / 2 x = (2 + 2√(1-x²)) / 2 x = (1 + √(1-x²)) / x$.\nSince x = $\\sqrt{M}$ATHBLOCK 1, $x^2 = \\frac{3}{4}$, so $\\sqrt{1-x^2} = \\frac{1}{2}.\nValue = (1 + \\frac{1}{2}) / (√\\frac{3}{2}) = (\\frac{3}{2}) / (√\\frac{3}{2}) = 3/√3 = √3$.",
+    "explanation": "Rationalize the denominator:\n(($\\sqrt{1+x} + \\sqrt{1-x}) * (\\sqrt{1+x} + \\sqrt{1-x}$)) / ((1+x) - (1-x))\n$= (1+x + 1-x + 2\\sqrt(1-x²)) / 2 x = (2 + 2\\sqrt(1-x²)) / 2 x = (1 + \\sqrt(1-x²)) / x$.\nSince x = \\frac{\\sqrt{3}}{2}, $x^2 = \\frac{3}{4}$, so $\\sqrt{1-x^2} = \\frac{1}{2}.\nValue = (1 + \\frac{1}{2}) / (\\sqrt\\frac{3}{2}) = (\\frac{3}{2}) / (\\sqrt\\frac{3}{2}) = 3/\\sqrt3 = \\sqrt3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3725,7 +3725,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Squaring both sides:\n$x = 3 + 5 - 2√15 => x = 8 - 2√15$\n=> x - 8 = -2$\\sqrt{15}$\nSquaring again:\n$(x - 8)^2 = 60 => x^2$ - 16 x + 64 = 60\n=> $x^2$ - 16 x + 4 = 0.\nTherefore, $x² - 16 x + 6 = (x² - 16 x + 4) + 2 = 0 + 2 = 2$.",
+    "explanation": "Squaring both sides:\n$x = 3 + 5 - 2\\sqrt15 => x = 8 - 2\\sqrt15$\n=> x - 8 = -2$\\sqrt{15}$\nSquaring again:\n$(x - 8)^2 = 60 => x^2$ - 16 x + 64 = 60\n=> $x^2$ - 16 x + 4 = 0.\nTherefore, $x² - 16 x + 6 = (x² - 16 x + 4) + 2 = 0 + 2 = 2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -3860,19 +3860,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "1950"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "1952"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "1947"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "1955"
       }
     ],
     "correct_option": "B",
@@ -4676,19 +4676,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "2013"
       },
       {
         "id": "B",
-        "text": "Correct value"
+        "text": "2014"
       },
       {
         "id": "C",
-        "text": "Decoy B for Correct value"
+        "text": "2015"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "2016"
       }
     ],
     "correct_option": "B",
@@ -4880,19 +4880,19 @@
     "options": [
       {
         "id": "A",
-        "text": "Decoy A for Correct value"
+        "text": "2014"
       },
       {
         "id": "B",
-        "text": "Decoy B for Correct value"
+        "text": "2016"
       },
       {
         "id": "C",
-        "text": "Correct value"
+        "text": "2015"
       },
       {
         "id": "D",
-        "text": "Decoy C for Correct value"
+        "text": "2013"
       }
     ],
     "correct_option": "C",
