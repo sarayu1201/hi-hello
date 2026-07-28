@@ -2628,8 +2628,14 @@ const resolveDbSubType = (testId, subType, examType) => {
     return testId || subType;
   }
   
-  let numberMatch = queryStr.match(/(?:mock|test|paper|cbt)?\s*_?(\d+)\b/i);
-  let mockNumber = numberMatch ? parseInt(numberMatch[1]) : 1;
+  let mockNumber = 1;
+  let testMatch = queryStr.match(/(?:test|mock|paper)\s*_?(\d+)/i);
+  if (testMatch) {
+    mockNumber = parseInt(testMatch[1]);
+  } else {
+    let numberMatch = queryStr.match(/(?:mock|test|paper|cbt)?\s*_?(\d+)\b/i);
+    mockNumber = numberMatch ? parseInt(numberMatch[1]) : 1;
+  }
   
   const normalized = queryStr.replace(/[^a-z0-9]/g, "");
   
