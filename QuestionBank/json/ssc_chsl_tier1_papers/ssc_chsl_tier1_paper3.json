@@ -881,8 +881,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "$If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '\\%' denotes 'subtracted from', then 153 & 17 @ 6 \\% (9 * 18 = ?$",
-    "q": "$If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '\\%' denotes 'subtracted from', then 153 & 17 @ 6 \\% (9 * 18 = ?$",
+    "question": "If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '%' denotes 'subtracted from', then 153 & 17 @ 6 % 9 * 18 = ?",
+    "q": "If '*' denotes 'added to', '&' denotes 'divided by', '@' denotes 'multiplied by' and '%' denotes 'subtracted from', then 153 & 17 @ 6 % 9 * 18 = ?",
     "options": [
       {
         "id": "A",
@@ -2627,24 +2627,24 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "If 2 x - 1 < 5 x + 2 and 2 x + 5 < $(6 - 3$x, then x can take which of the following values?",
-    "q": "If 2x - 1 < 5x + 2 and 2x + 5 < $(6 - 3$x, then x can take which of the following values?",
+    "question": "If $2x - 1 < 5x + 2$ and $2x + 5 < 6 - 3x$, then $x$ can take which of the following values?",
+    "q": "If $2x - 1 < 5x + 2$ and $2x + 5 < 6 - 3x$, then $x$ can take which of the following values?",
     "options": [
       {
         "id": "A",
-        "text": "121"
+        "text": "2"
       },
       {
         "id": "B",
-        "text": "120"
+        "text": "0"
       },
       {
         "id": "C",
-        "text": "119"
+        "text": "1"
       },
       {
         "id": "D",
-        "text": "118"
+        "text": "-2"
       }
     ],
     "correct_option": "B",
@@ -2836,19 +2836,19 @@
     "options": [
       {
         "id": "A",
-        "text": "$50\\sqrt(2 + 50 sq$ cm"
+        "text": "$50\\sqrt{2} + 50$ sq cm"
       },
       {
         "id": "B",
-        "text": "$50\\sqrt(2 + 100 sq$ cm"
+        "text": "$50\\sqrt{2} + 100$ sq cm"
       },
       {
         "id": "C",
-        "text": "$100\\sqrt(2 + 50 sq$ cm"
+        "text": "$100\\sqrt{2} + 50$ sq cm"
       },
       {
         "id": "D",
-        "text": "$100\\sqrt(2 + 100 sq$ cm"
+        "text": "$100\\sqrt{2} + 100$ sq cm"
       }
     ],
     "correct_option": "A",
