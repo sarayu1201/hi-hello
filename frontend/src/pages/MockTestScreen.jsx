@@ -184,7 +184,7 @@ export default function MockTestScreen({ mockData, loading = false, user, timeLi
   useEffect(() => {
     if (!mockData || !mockData.questions || mockData.questions.length === 0) return;
     
-    const cleanQuestions = mockData.questions.filter(q => q && (q.question_text || q.q || q.question));
+    const cleanQuestions = mockData.questions.filter(q => q);
     if (cleanQuestions.length === 0) {
       console.error("No valid questions found in mockData");
       return;

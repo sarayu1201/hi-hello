@@ -592,7 +592,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
             const data = await res.json();
             if (data.questions && data.questions.length > 0) {
               const mapped = data.questions
-                .filter(q => q && (q.question_text || q.q || q.question))
+                .filter(q => q)
                 .map(q => {
                   const cleanedOpts = cleanOptions(q.options);
                 const optImgs = q.option_images || [];
