@@ -2684,16 +2684,16 @@ const resolveDbCourse = (subType) => {
   const lower = subType.toLowerCase();
   
   if (lower.includes("sbi clerk") || lower.includes("sbi_clerk")) {
-    return "sbi_clerk_prelims";
+    return "SBI Clerk Prelims";
   }
   if (lower.includes("sbi po") || lower.includes("sbi_po")) {
-    return "sbi_po_prelims";
+    return "SBI PO";
   }
   if (lower.includes("ibps po") || lower.includes("ibpspo")) {
-    return "ibps_po_prelims";
+    return "IBPS PO Prelims";
   }
   if (lower.includes("ibps clerk") || lower.includes("ibps_clerk")) {
-    return "ibps_clerk_prelims";
+    return "IBPS Clerk Prelims";
   }
   if (lower.includes("rrb clerk") || lower.includes("rrb_clerk")) {
     return "rrb_clerk";
@@ -2702,13 +2702,10 @@ const resolveDbCourse = (subType) => {
     return "rrb_po";
   }
   if (lower.includes("ssc cgl") || lower.includes("ssc_cgl")) {
-    return "ssc_cgl_prelims";
+    return "SSC CGL";
   }
   if (lower.includes("ssc chsl") || lower.includes("ssc_chsl")) {
-    if (lower.includes("mains") || lower.includes("tier2") || lower.includes("tier-2") || lower.includes("tier 2")) {
-      return "ssc_chsl_tier2_papers";
-    }
-    return "ssc_chsl_tier1_papers";
+    return "SSC CHSL";
   }
   if (lower.includes("ssc gd") || lower.includes("ssc_gd") || lower.includes("sc_gd") || lower.includes("sc gd")) {
     return "sc_gd";
@@ -2784,7 +2781,7 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
       mappedExamType = "RRB";
     } else if (etLower.includes("ssc")) {
       mappedExamType = "SSC";
-    } else if (etLower.includes("bank")) {
+    } else if (etLower.includes("bank") || etLower.includes("ibps") || etLower.includes("sbi")) {
       mappedExamType = "Banking";
     }
   }
