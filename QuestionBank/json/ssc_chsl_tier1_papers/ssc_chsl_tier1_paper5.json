@@ -3176,8 +3176,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10 $\\div$ 9 = ?",
-    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10 \\div 9 = ?",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10) \\div 9 = ?$",
+    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(7 - 8 + 20 x 10) \\div 9 = ?$",
     "options": [
       {
         "id": "A",
@@ -3227,8 +3227,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$16 x (4 - 10 + 2 \\div 12 = 18$",
-    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$16 x (4 - 10 + 2 \\div 12 = 18$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$16 x 4 - 10 + 2 \\div 12 = 18$",
+    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$16 x 4 - 10 + 2 \\div 12 = 18$",
     "options": [
       {
         "id": "A",
@@ -4510,8 +4510,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$What is that least digit that must be added to the product 5786 \\times 5784 to make it a perfect square?$",
-    "q": "$What is that least digit that must be added to the product 5786 \\times 5784 to make it a perfect square?$",
+    "question": "What is that least digit that must be added to the product $5786 \\times 5784$ to make it a perfect square?",
+    "q": "What is that least digit that must be added to the product $5786 \\times 5784$ to make it a perfect square?",
     "options": [
       {
         "id": "A",
@@ -4533,7 +4533,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$5786 * 5784 = (5785 + 1) * (5785 - 1) = 5785² - 1. Adding 1 to this gives 5785², which is a perfect square$.",
+    "explanation": "$5786 \\times 5784 = (5785 + 1) \\times (5785 - 1) = 5785^2 - 1$. Adding 1 to this gives $5785^2$, which is a perfect square.",
     "question_image": "",
     "option_images": [
       "",

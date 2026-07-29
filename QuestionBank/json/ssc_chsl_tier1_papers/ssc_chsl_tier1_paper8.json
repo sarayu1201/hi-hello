@@ -14,8 +14,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64} is approximately equal to ___________$.",
-    "q": "$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64} is approximately equal to ___________$.",
+    "question": "$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64}$ is approximately equal to ___________.",
+    "q": "$1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64}$ is approximately equal to ___________.",
     "options": [
       {
         "id": "A",
@@ -34,10 +34,10 @@
         "text": "11"
       }
     ],
-    "correct_option": "B",
-    "correct_answer": "B",
-    "correct_letter": "B",
-    "explanation": "$Expression = 1 + 0.5 + 0.25 + 0.0625 + 0.03125 + 0.015625 = 1.859375 ≈ 2$.",
+    "correct_option": "A",
+    "correct_answer": "A",
+    "correct_letter": "A",
+    "explanation": "Expression = $1 + \\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\frac{1}{32} + \\frac{1}{64} = 1.984375 \\approx 2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -65,8 +65,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If (2 x+3 y)/(3 x-4 y) = \\frac{11}{7}, then the value of x/y is _______$",
-    "q": "$If (2x+3y)/(3x-4y) = \\frac{11}{7}, then the value of x/y is _______$",
+    "question": "If $\\frac{2x+3y}{3x-4y} = \\frac{11}{7}$, then find the value of $\\frac{x}{y}$.",
+    "q": "If $\\frac{2x+3y}{3x-4y} = \\frac{11}{7}$, then find the value of $\\frac{x}{y}$.",
     "options": [
       {
         "id": "A",
@@ -88,7 +88,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$7(2 x + 3 y) = 11(3 x - 4 y) => 14 x + 21 y = 33 x - 44 y => 19 x = 65 y => x/y = \\frac{65}{19}$.",
+    "explanation": "We have:\n\n$7(2x + 3y) = 11(3x - 4y) \\implies 14x + 21y = 33x - 44y \\implies 19x = 65y \\implies \\frac{x}{y} = \\frac{65}{19}$.",
     "question_image": "",
     "option_images": [
       "",
@@ -116,8 +116,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Find the value of $\\sqrt{(2 x - 5)^2} + 2*\\sqrt{(x - 1)^2}$, if 1 < x < 2",
-    "q": "Find the value of sqrt((2x - 5)^2) + 2*sqrt((x - 1)^2), if 1 < x < 2",
+    "question": "Find the value of $\\sqrt{(2x - 5)^2} + 2\\sqrt{(x - 1)^2}$, if $1 < x < 2$.",
+    "q": "Find the value of $\\sqrt{(2x - 5)^2} + 2\\sqrt{(x - 1)^2}$, if $1 < x < 2$.",
     "options": [
       {
         "id": "A",
@@ -139,7 +139,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Since 1 < x < 2, 2 x - 5 is negative, so $\\sqrt{(2 x-5)^2} = 5 - 2$x.\nx - 1 is positive, so $\\sqrt{(x-1)^2}$ = x - 1.\nExpression = $5 - 2$x + 2(x - 1) = $5 - 2$x + 2 x - 2 = 3.",
+    "explanation": "Since $1 < x < 2$, $2x - 5$ is negative, so $\\sqrt{(2x-5)^2} = 5 - 2x$.\nSince $x - 1$ is positive, so $\\sqrt{(x-1)^2} = x - 1$.\n\nExpression = $(5 - 2x) + 2(x - 1) = 5 - 2x + 2x - 2 = 3$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1498,25 +1498,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$(12 - 8$"
+        "text": "$(12 - 8)$"
       },
       {
         "id": "B",
-        "text": "$(28 - 24$"
+        "text": "$(28 - 24)$"
       },
       {
         "id": "C",
-        "text": "$(66 - 62$"
+        "text": "$(66 - 62)$"
       },
       {
         "id": "D",
-        "text": "$(84 - 76$"
+        "text": "$(84 - 76)$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$The difference between each of the pair of numbers is 4 (12-8=4, 28-24=4, 66-62=4). In the last option, 84 - 76 = 8, making it the odd one$.",
+    "explanation": "The difference between each pair of numbers is $4$ ($(12-8)=4$, $(28-24)=4$, $(66-62)=4$). In the last option, $(84-76)=8$, making it the odd one.",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,8 +1901,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$(16 - 2 + 35 x 20 \\div 2 = ?$",
-    "q": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$(16 - 2 + 35 x 20 \\div 2 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$16 - 2 + 35 x 20 \\div 2 = ?$",
+    "q": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$16 - 2 + 35 x 20 \\div 2 = ?$",
     "options": [
       {
         "id": "A",
@@ -1952,8 +1952,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(14 - 6 x 30 \\div (10 + 4 = 28$",
-    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(14 - 6 x 30 \\div (10 + 4 = 28$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$14 - 6 x 30 \\div 10 + 4 = 28$",
+    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$14 - 6 x 30 \\div 10 + 4 = 28$",
     "options": [
       {
         "id": "A",

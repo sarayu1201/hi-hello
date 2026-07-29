@@ -167,8 +167,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$If x^16 = (x^(32 - 1)/5, then find the value of (x^(96 - 1)/x^48$.",
-    "q": "$If x^16 = (x^(32 - 1)/5, then find the value of (x^(96 - 1)/x^48$.",
+    "question": "If $x^{16} = \\frac{x^{32} - 1}{5}$, then find the value of $\\frac{x^{96} - 1}{x^{48}}$.",
+    "q": "If $x^{16} = \\frac{x^{32} - 1}{5}$, then find the value of $\\frac{x^{96} - 1}{x^{48}}$.",
     "options": [
       {
         "id": "A",
@@ -190,7 +190,7 @@
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Given: $x^16 = (x^32 - 1)/5 => 5 = (x^32 - 1)/x^16 => x^16 - 1/x^16 = 5$.\nCubing both sides: $($x^$16 - 1/$x^16$)^3 = 5^3\n=> x^48 - 1/x^48 - 3(x^16)(1/x^16)(x^16 - 1/x^16) = 125\n=> x^48 - 1/x^48 - 3(5) = 125\n=> x^48 - 1/x^48 = 140 => (x^96 - 1)/x^48$ = 140.",
+    "explanation": "Given: $x^{16} = \\frac{x^{32} - 1}{5} \\implies 5 = \\frac{x^{32} - 1}{x^{16}} \\implies x^{16} - \\frac{1}{x^{16}} = 5$.\n\nCubing both sides:\n$\\left(x^{16} - \\frac{1}{x^{16}}\\right)^3 = 5^3$\n$\\implies x^{48} - \\frac{1}{x^{48}} - 3\\left(x^{16}\\right)\\left(\\frac{1}{x^{16}}\\right)\\left(x^{16} - \\frac{1}{x^{16}}\\right) = 125$\n$\\implies x^{48} - \\frac{1}{x^{48}} - 3(5) = 125$\n$\\implies x^{48} - \\frac{1}{x^{48}} = 140 \\implies \\frac{x^{96} - 1}{x^{48}} = 140$.",
     "question_image": "",
     "option_images": [
       "",
@@ -678,7 +678,7 @@
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
     "question": "What is the value of $\\sqrt{1054 + \\sqrt{196} + \\sqrt{169} + \\sqrt{64}}$?",
-    "q": "What is the value of sqrt(1054 + sqrt(196) + sqrt(169) + sqrt(64))?",
+    "q": "What is the value of $\\sqrt{1054 + \\sqrt{196} + \\sqrt{169} + \\sqrt{64}}$?",
     "options": [
       {
         "id": "A",
@@ -700,7 +700,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "$Expression = sqrt(1054 + 14 + 13 + 8) = sqrt(1089) = 33$.",
+    "explanation": "Expression = $\\sqrt{1054 + 14 + 13 + 8} = \\sqrt{1089} = 33$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1498,25 +1498,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$(25 - 21$"
+        "text": "$(25 - 21)$"
       },
       {
         "id": "B",
-        "text": "$(39 - 35$"
+        "text": "$(39 - 35)$"
       },
       {
         "id": "C",
-        "text": "$(51 - 47$"
+        "text": "$(51 - 47)$"
       },
       {
         "id": "D",
-        "text": "$(93 - 87$"
+        "text": "$(93 - 87)$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$The difference between each pair of numbers is 4 (25-21=4, 39-35=4, 51-47=4). In the last option, 93 - 87 = 6, making it the odd one$.",
+    "explanation": "The difference between each pair of numbers is $4$ ($(25-21)=4$, $(39-35)=4$, $(51-47)=4$). In the last option, $(93 - 87) = 6$, making it the odd one.",
     "question_image": "",
     "option_images": [
       "",
