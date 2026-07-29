@@ -19,25 +19,25 @@
     "options": [
       {
         "id": "A",
-        "text": "1471369"
+        "text": "1213"
       },
       {
         "id": "B",
-        "text": "1471370"
+        "text": "1223"
       },
       {
         "id": "C",
-        "text": "1471367"
+        "text": "1203"
       },
       {
         "id": "D",
-        "text": "1471379"
+        "text": "1233"
       }
     ],
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "Among the given options, only the square of 1213 will end in 69 (since 3^2 = 9 and 13^2 = 169). Thus, $(1213)^2$ = 1471369.",
+    "explanation": "Among the given options, only the square of $1213$ will end in $69$ (since $3^2 = 9$ and $13^2 = 169$). Thus, $1213^2 = 1471369$.",
     "question_image": "",
     "option_images": [
       "",
@@ -65,8 +65,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "Calculate the total numbers of prime factors in the expression $(9)^11 * (5)^7 * (7)^5 * (3)^2 * (17)^2$",
-    "q": "Calculate the total numbers of prime factors in the expression (9)^11 * (5)^7 * (7)^5 * (3)^2 * (17)^2",
+    "question": "Calculate the total number of prime factors in the expression $9^{11} \\times 5^7 \\times 7^5 \\times 3^2 \\times 17^2$.",
+    "q": "Calculate the total number of prime factors in the expression $9^{11} \\times 5^7 \\times 7^5 \\times 3^2 \\times 17^2$.",
     "options": [
       {
         "id": "A",
@@ -88,7 +88,7 @@
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "Prime factorization of the expression: \n$(3^2)^11 * 5^7 * 7^5 * 3^2 * 17^2 = 3^22 * 5^7 * 7^5 * 3^2 * 17^2 = 3^24 * 5^7 * 7^5 * 17^2$.\nTotal number of prime factors = $24 + 7 + 5 + 2 = 38$.",
+    "explanation": "Prime factorization of the expression:\n\n$(3^2)^{11} \\times 5^7 \\times 7^5 \\times 3^2 \\times 17^2 = 3^{22} \\times 5^7 \\times 7^5 \\times 3^2 \\times 17^2 = 3^{24} \\times 5^7 \\times 7^5 \\times 17^2$.\n\nTotal number of prime factors = $24 + 7 + 5 + 2 = 38$.",
     "question_image": "",
     "option_images": [
       "",
@@ -121,25 +121,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$1 mx+c,they-interceptis$"
+        "text": "1"
       },
       {
         "id": "B",
-        "text": "$12 mx+c,they-interceptis$"
+        "text": "-2"
       },
       {
         "id": "C",
-        "text": "mx+c,they-interceptis 2"
+        "text": "2"
       },
       {
         "id": "D",
-        "text": "$4 mx+c,they-interceptis$"
+        "text": "4"
       }
     ],
     "correct_option": "C",
     "correct_answer": "C",
     "correct_letter": "C",
-    "explanation": "Equation of the line passing through (1, 3) and (3, 5) is: \n$y - 3 = [(5 - 3)/(3 - 1)] * (x - 1) => y - 3 = 1 * (x - 1) => y = x + 2$.\nComparing with y = mx + c, the y-intercept is 2.",
+    "explanation": "Equation of the line passing through (1, 3) and (3, 5) is:\n\n$y - 3 = \\left(\\frac{5 - 3}{3 - 1}\\right)(x - 1) \\implies y - 3 = 1(x - 1) \\implies y = x + 2$.\n\nComparing with $y = mx + c$, the y-intercept is $2$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1498,25 +1498,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$(13 - 14$"
+        "text": "$(13 - 14)$"
       },
       {
         "id": "B",
-        "text": "$(15 - 16$"
+        "text": "$(15 - 16)$"
       },
       {
         "id": "C",
-        "text": "$(24 - 25$"
+        "text": "$(24 - 25)$"
       },
       {
         "id": "D",
-        "text": "$(19 - 21$"
+        "text": "$(19 - 21)$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$The difference between the numbers in each pair is 1 except in option D, where 21 - 19 = 2$.",
+    "explanation": "In all options except the last one, the difference between the two numbers is $1$ ($14-13=1$, $16-15=1$, $25-24=1$). In the last option, the difference is $21-19=2$, making it the odd one.",
     "question_image": "",
     "option_images": [
       "",
@@ -1901,8 +1901,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div (5 - 10 + 10 = ?$",
-    "q": "In a certain code language, 'x' represents '+', '÷' represents 'x', '-' represents '÷' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div (5 - 10 + 10 = ?$",
+    "question": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div 5 - 10 + 10 = ?$",
+    "q": "In a certain code language, 'x' represents '+', '$\\div$' represents 'x', '-' represents '$\\div$' and '+' represents '-'. Find out the answer to the following question.\n\n$18 x 12 \\div 5 - 10 + 10 = ?$",
     "options": [
       {
         "id": "A",
@@ -1952,8 +1952,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(10 + 14 x (20 - 7 \\div 10 = 40$",
-    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(10 + 14 x (20 - 7 \\div 10 = 40$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$10 + 14 x 20 - 7 \\div 10 = 40$",
+    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$10 + 14 x 20 - 7 \\div 10 = 40$",
     "options": [
       {
         "id": "A",

@@ -65,8 +65,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Calculate the value of (5^(\\frac{1}{4}) - 1)(5^(\\frac{3}{4}) + 5^(\\frac{2}{4}) + 5^(\\frac{1}{4}) + 1)$",
-    "q": "$Calculate the value of (5^(\\frac{1}{4}) - 1)(5^(\\frac{3}{4}) + 5^(\\frac{2}{4}) + 5^(\\frac{1}{4}) + 1)$",
+    "question": "Calculate the value of $(5^{1/4} - 1)(5^{3/4} + 5^{2/4} + 5^{1/4} + 1)$.",
+    "q": "Calculate the value of $(5^{1/4} - 1)(5^{3/4} + 5^{2/4} + 5^{1/4} + 1)$.",
     "options": [
       {
         "id": "A",
@@ -88,7 +88,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "$Let 5^(\\frac{1}{4}) = x.\nExpression = (x - 1)(x^3 + x^2 + x + 1) = x^4 - 1 = (5^(\\frac{1}{4}))^4 - 1 = 5 - 1 = 4$.",
+    "explanation": "Let $5^{1/4} = x$.\n\nExpression = $(x - 1)(x^3 + x^2 + x + 1) = x^4 - 1 = (5^{1/4})^4 - 1 = 5 - 1 = 4$.",
     "question_image": "",
     "option_images": [
       "",
@@ -116,8 +116,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$Find 'x' if \\sqrt(2 + 7 x) = \\sqrt(3 x + 4)$",
-    "q": "$Find 'x' if \\sqrt(2 + 7x) = \\sqrt(3x + 4)$",
+    "question": "Find $x$ if $\\sqrt{2 + 7x} = \\sqrt{3x + 4}$.",
+    "q": "Find $x$ if $\\sqrt{2 + 7x} = \\sqrt{3x + 4}$.",
     "options": [
       {
         "id": "A",
@@ -129,17 +129,17 @@
       },
       {
         "id": "C",
-        "text": "-1"
+        "text": "0.5"
       },
       {
         "id": "D",
         "text": "10"
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "$Squaring both sides: 2 + 7 x = 3 x + 4 => 4 x = 2 => x = 0.5$.",
+    "correct_option": "C",
+    "correct_answer": "C",
+    "correct_letter": "C",
+    "explanation": "Squaring both sides:\n\n$2 + 7x = 3x + 4 \\implies 4x = 2 \\implies x = 0.5$.",
     "question_image": "",
     "option_images": [
       "",
@@ -1498,25 +1498,25 @@
     "options": [
       {
         "id": "A",
-        "text": "$(7 - 14$"
+        "text": "$(7 - 14)$"
       },
       {
         "id": "B",
-        "text": "$(11 - 22$"
+        "text": "$(11 - 22)$"
       },
       {
         "id": "C",
-        "text": "$(5 - 10$"
+        "text": "$(5 - 10)$"
       },
       {
         "id": "D",
-        "text": "$(3 - 8$"
+        "text": "$(3 - 8)$"
       }
     ],
     "correct_option": "D",
     "correct_answer": "D",
     "correct_letter": "D",
-    "explanation": "$In all options except D, the second number is exactly double of the first number. In option D, 3 * 2 = 6 (not 8)$.",
+    "explanation": "In all options except the last one, the second number is twice the first number ($7 \\times 2 = 14$, $11 \\times 2 = 22$, $5 \\times 2 = 10$). In the last option, $(3 - 8)$, this relation does not hold.",
     "question_image": "",
     "option_images": [
       "",
@@ -2054,8 +2054,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div' and '\\div' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 $\\div$ (20 - 14 = ?",
-    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$(20 + 6 x 5 \\div (20 - 14 = ?",
+    "question": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$20 + 6 x 5 \\div 20 - 14 = ?$",
+    "q": "In a certain code language, '-' represents '+', '+' represents 'x', 'x' represents '$\\div$' and '\\div$' represents '-'. Find out the answer to the following question.\n\n$20 + 6 x 5 \\div 20 - 14 = ?$",
     "options": [
       {
         "id": "A",
@@ -2105,8 +2105,8 @@
     "subject": "Reasoning Ability",
     "section": "Reasoning Ability",
     "category": "SSC Exams",
-    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(19 - 16 + 5 \\div 10 x 2 = 28$",
-    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$(19 - 16 + 5 \\div 10 x 2 = 28$",
+    "question": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$19 - 16 + 5 \\div 10 x 2 = 28$",
+    "q": "The following equation is incorrect. Which two signs should be interchanged to correct the equation?\n\n$19 - 16 + 5 \\div 10 x 2 = 28$",
     "options": [
       {
         "id": "A",
