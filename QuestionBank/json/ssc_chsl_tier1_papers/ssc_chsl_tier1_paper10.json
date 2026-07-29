@@ -167,8 +167,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "SSC Exams",
-    "question": "$The two equations are 4 x + 4 ky-6=0 and x+6 y-12=0. Find the value of k for the pair of two linear equations represents the parallel lines$.",
-    "q": "$The two equations are 4x + 4ky-6=0 and x+6y-12=0. Find the value of k for the pair of two linear equations represents the parallel lines$.",
+    "question": "The two equations are $4x + 4ky - 6 = 0$ and $x + 6y - 12 = 0$. Find the value of $k$ if the pair of linear equations represents parallel lines.",
+    "q": "The two equations are $4x + 4ky - 6 = 0$ and $x + 6y - 12 = 0$. Find the value of $k$ if the pair of linear equations represents parallel lines.",
     "options": [
       {
         "id": "A",
@@ -190,7 +190,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "For parallel lines: a 1/a 2 = b 1/b 2 != c 1/c 2.\n$=> \\frac{4}{1} = 4 k/6 => 4 k = 24 => k = 6$.",
+    "explanation": "For parallel lines:\n\n$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$\n\n$\\implies \\frac{4}{1} = \\frac{4k}{6} \\implies 4k = 24 \\implies k = 6$.",
     "question_image": "",
     "option_images": [
       "",
@@ -2008,15 +2008,15 @@
     "options": [
       {
         "id": "A",
-        "text": "$1-$"
+        "text": "-1"
       },
       {
         "id": "B",
-        "text": "$4-$"
+        "text": "-4"
       },
       {
         "id": "C",
-        "text": "$12-$"
+        "text": "-12"
       },
       {
         "id": "D",
