@@ -2991,10 +2991,13 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
   const seenTexts = new Set();
   const uniqueQuestions = [];
   for (const q of filtered) {
-    if (!q.q) continue;
-    const normalizedText = String(q.q).toLowerCase().trim().replace(/[^a-z0-9]/g, "");
-    if (!seenTexts.has(normalizedText)) {
-      seenTexts.add(normalizedText);
+    const qText = q.q || q.question || "";
+    // Check both question text and options to determine uniqueness
+    const optionsText = JSON.stringify((q.options || []).map(o => o.text).sort());
+    const normalizedKey = qText.toLowerCase().trim().replace(/[^a-z0-9]/g, "") + "_opt_" + optionsText.toLowerCase().replace(/[^a-z0-9]/g, "");
+    
+    if (!seenTexts.has(normalizedKey)) {
+      seenTexts.add(normalizedKey);
       uniqueQuestions.push(q);
     }
   }
