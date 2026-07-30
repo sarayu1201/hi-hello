@@ -2602,7 +2602,7 @@ const mapTestIdToSubtype = (testId) => {
   }
   if (lower.startsWith("rrb_gd_prelims_test")) {
     const num = lower.replace("rrb_gd_prelims_test", "");
-    return `SSC GD Constable Prelims - Test ${num}`;
+    return `RRB GD - Test ${num}`;
   }
   if (lower.startsWith("ssc_gd_constable_prelims_test")) {
     const num = lower.replace("ssc_gd_constable_prelims_test", "");
@@ -2660,7 +2660,10 @@ const resolveDbSubType = (testId, subType, examType) => {
   if (normalized.includes("ssccgl") || normalized.includes("sccgl")) {
     return `SSC CGL Prelims - Test ${mockNumber}`;
   }
-  if (normalized.includes("sscgd") || normalized.includes("scgd") || normalized.includes("rrbgd") || normalized.includes("rrbgroupd")) {
+  if (normalized.includes("rrbgd") || normalized.includes("rrbgroupd")) {
+    return `RRB GD - Test ${mockNumber}`;
+  }
+  if (normalized.includes("sscgd") || normalized.includes("scgd")) {
     return `SSC GD Constable Prelims - Test ${mockNumber}`;
   }
   if ((normalized.includes("sscchsl") || normalized.includes("sschsl")) && (normalized.includes("tier2") || normalized.includes("mains"))) {
@@ -2708,14 +2711,19 @@ const resolveDbCourse = (subType) => {
     return "SSC CHSL";
   }
   if (
-    lower.includes("ssc gd") || 
-    lower.includes("ssc_gd") || 
-    lower.includes("sc_gd") || 
-    lower.includes("sc gd") ||
     lower.includes("rrb gd") ||
     lower.includes("rrb_gd") ||
     lower.includes("rrb group d") ||
-    lower.includes("rrb_group_d")
+    lower.includes("rrb_group_d") ||
+    lower.includes("rrb_groupd")
+  ) {
+    return "rrb_groupd";
+  }
+  if (
+    lower.includes("ssc gd") || 
+    lower.includes("ssc_gd") || 
+    lower.includes("sc_gd") || 
+    lower.includes("sc gd")
   ) {
     return "sc_gd";
   }
@@ -2797,6 +2805,9 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
 
   if (resolvedCourse === "sc_gd") {
     mappedExamType = "SSC";
+  }
+  if (resolvedCourse === "rrb_groupd") {
+    mappedExamType = "RRB";
   }
 
   if (mappedExamType) {
