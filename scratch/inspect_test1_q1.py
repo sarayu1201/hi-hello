@@ -1,17 +1,15 @@
 import os
 
-file_path = "c:\\Users\\LENOVO\\Downloads\\hi-hello-main\\hi-hello-main\\scratch\\clerk_text_dumps\\test3_text.txt"
+file_path = "c:\\Users\\LENOVO\\Downloads\\hi-hello-main\\hi-hello-main\\scratch\\clerk_text_dumps\\test1_text.txt"
 
 with open(file_path, "r", encoding="utf-8") as f:
     text = f.read()
 
 lines = text.split("\n")
-found = False
-for idx, line in enumerate(lines):
+for idx, line in enumerate(lines[:100]):
     if "1." in line:
-        found = True
         print(f"--- Found '1.' at Line {idx+1} ---")
-        for k in range(max(0, idx - 10), min(len(lines), idx + 10)):
+        for k in range(max(0, idx - 5), min(len(lines), idx + 25)):
             print(f"{k+1}: '{lines[k]}'")
         print("-" * 40)
         break

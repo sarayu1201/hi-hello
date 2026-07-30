@@ -1,0 +1,73 @@
+Starting SSC CHSL papers local formatting and DB sync...
+Processing Paper 1...
+  Fixing Q1 options for Paper 1
+  Fixing Q14 options and typo for Paper 1
+  Fixing decoy options for Q32
+  Fixing decoy options for Q37
+  Successfully wrote corrected JSON to disk.
+Processing Paper 2...
+  Fixing ATHBLOCK in Paper 2 Q24
+  Fixing decoy options for Q46
+  Fixing decoy options for Q77
+  Successfully wrote corrected JSON to disk.
+Processing Paper 3...
+  Fixing decoy options for Q37
+  Fixing decoy options for Q47
+  Fixing ATHBLOCK in Paper 3 Q75
+  Successfully wrote corrected JSON to disk.
+Processing Paper 4...
+  Fixing decoy options for Q39
+  Fixing ATHBLOCK in Paper 4 Q67
+  Fixing decoy options for Q76
+  Fixing decoy options for Q92
+  Fixing decoy options for Q96
+  Successfully wrote corrected JSON to disk.
+Processing Paper 5...
+  Fixing decoy options for Q17
+  Fixing decoy options for Q26
+  Fixing decoy options for Q27
+  Successfully wrote corrected JSON to disk.
+Processing Paper 6...
+  Fixing ATHBLOCK in Paper 6 Q25
+  Fixing decoy options for Q94
+  Successfully wrote corrected JSON to disk.
+Processing Paper 7...
+  Fixing ATHBLOCK in Paper 7 Q24
+  Successfully wrote corrected JSON to disk.
+Processing Paper 8...
+  Fixing decoy options for Q89
+  Successfully wrote corrected JSON to disk.
+Processing Paper 9...
+  Fixing ATHBLOCK in Paper 9 Q25
+  Fixing decoy options for Q93
+  Fixing decoy options for Q97
+  Fixing decoy options for Q98
+  Successfully wrote corrected JSON to disk.
+Processing Paper 10...
+  Fixing ATHBLOCK in Paper 10 Q25
+  Fixing decoy options for Q32
+  Fixing decoy options for Q93
+  Successfully wrote corrected JSON to disk.
+Connecting to MongoDB Atlas...
+Connected to MongoDB successfully!
+Syncing database for ssc_chsl_tier1_paper1.json (100 questions)...
+  DB Sync completed for Paper 1.
+Syncing database for ssc_chsl_tier1_paper2.json (100 questions)...
+  DB Sync completed for Paper 2.
+Syncing database for ssc_chsl_tier1_paper3.json (100 questions)...
+  DB Sync completed for Paper 3.
+Syncing database for ssc_chsl_tier1_paper4.json (100 questions)...
+  DB Sync completed for Paper 4.
+Syncing database for ssc_chsl_tier1_paper5.json (100 questions)...
+  DB Sync completed for Paper 5.
+Syncing database for ssc_chsl_tier1_paper6.json (100 questions)...
+  DB Sync completed for Paper 6.
+Syncing database for ssc_chsl_tier1_paper7.json (100 questions)...
+  DB Sync completed for Paper 7.
+Syncing database for ssc_chsl_tier1_paper8.json (100 questions)...
+  DB Sync completed for Paper 8.
+Syncing database for ssc_chsl_tier1_paper9.json (100 questions)...
+  DB Sync completed for Paper 9.
+Syncing database for ssc_chsl_tier1_paper10.json (100 questions)...
+  DB Sync completed for Paper 10.
+Database sync process complete.

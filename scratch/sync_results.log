@@ -1,0 +1,1116 @@
+=== Starting Test 4 Directions Patch ===
+Successfully updated Test 4. Total replacements: 0
+=== Starting Test 6 Directions Patch ===
+Successfully updated Test 6. Total replacements: 0
+=== Starting Test 7 Directions Patch ===
+Successfully updated Test 7. Total replacements: 0
+=== Starting Test 8 Directions Patch ===
+Successfully updated Test 8. Total replacements: 0
+=== Starting Test 9 Directions Patch ===
+Successfully updated Test 9. Total replacements: 0
+=== Starting Test 10 Directions Patch ===
+Successfully updated Test 10. Total replacements: 0
+=== Starting Test 6 LaTeX Typos Patch ===
+  Updating Q56 (Quantitative Aptitude Q16)...
+  Updating Q59 (Quantitative Aptitude Q19)...
+  Updating Q60 (Quantitative Aptitude Q20)...
+Successfully updated Test 6. Total modified questions: 3
+
+=== Starting Database Verification & Synchronization ===
+
+--- Verification for paper 6 (rrb_po_prelims_paper6.json) ---
+  Disk count: 80, DB count: 80
+  [DIFF] Text mismatch in Q1:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: Ei"
+  [DIFF] Text mismatch in Q2:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: Ei"
+  [DIFF] Text mismatch in Q3:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: Ei"
+  [DIFF] Text mismatch in Q4:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: Ei"
+  [DIFF] Text mismatch in Q5:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: Ei"
+  [DIFF] Text mismatch in Q6:
+    Disk: "Directions (6-8): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (6-8): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q7:
+    Disk: "Directions (6-8): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (6-8): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q8:
+    Disk: "Directions (6-8): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (6-8): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q9:
+    Disk: "Directions (913): Study the following information carefully and answer the question given below: Nin"
+    DB  : "Directions (9-13): Study the following information carefully and answer the questions given below: N"
+  [DIFF] Text mismatch in Q10:
+    Disk: "Directions (913): Study the following information carefully and answer the question given below: Nin"
+    DB  : "Directions (9-13): Study the following information carefully and answer the questions given below: N"
+  [DIFF] Text mismatch in Q11:
+    Disk: "Directions (913): Study the following information carefully and answer the question given below: Nin"
+    DB  : "Directions (9-13): Study the following information carefully and answer the questions given below: N"
+  [DIFF] Text mismatch in Q12:
+    Disk: "Directions (913): Study the following information carefully and answer the question given below: Nin"
+    DB  : "Directions (9-13): Study the following information carefully and answer the questions given below: N"
+  [DIFF] Text mismatch in Q13:
+    Disk: "Directions (913): Study the following information carefully and answer the question given below: Nin"
+    DB  : "Which of the following statement is true? I. Box F is placed above box E. II. Box H is placed above "
+  [DIFF] Text mismatch in Q14:
+    Disk: "Directions (14-16): In these question, relationship between different elements is shown in the state"
+    DB  : "Directions (14-16): In these questions, relationship between different elements is shown in the stat"
+  [DIFF] Text mismatch in Q15:
+    Disk: "Directions (14-16): In these question, relationship between different elements is shown in the state"
+    DB  : "Directions (14-16): In these questions, relationship between different elements is shown in the stat"
+  [DIFF] Text mismatch in Q16:
+    Disk: "Directions (14-16): In these question, relationship between different elements is shown in the state"
+    DB  : "Directions (14-16): In these questions, relationship between different elements is shown in the stat"
+  [DIFF] Text mismatch in Q17:
+    Disk: "Directions (17-20): Study the following information carefully and answer the question given below: C"
+    DB  : "Directions (17-20): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q18:
+    Disk: "Directions (17-20): Study the following information carefully and answer the question given below: C"
+    DB  : "Directions (17-20): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q19:
+    Disk: "Directions (17-20): Study the following information carefully and answer the question given below: C"
+    DB  : "Directions (17-20): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q20:
+    Disk: "Directions (17-20): Study the following information carefully and answer the question given below: C"
+    DB  : "Directions (17-20): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q21:
+    Disk: "In the number '479486553', if odd digits are subtracted by 1 and even digits are subtracted by 2. Th"
+    DB  : "In the number '479486553', if odd digits are subtracted by 1 and even digits are subtracted by 2. Th"
+  [DIFF] Text mismatch in Q22:
+    Disk: "Directions (22-26): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (22-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q23:
+    Disk: "Directions (22-26): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (22-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q24:
+    Disk: "Directions (22-26): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (22-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q25:
+    Disk: "Directions (22-26): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (22-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q26:
+    Disk: "Directions (22-26): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (22-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q27:
+    Disk: "Directions (27-31): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (27-31): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q28:
+    Disk: "Directions (27-31): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (27-31): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q29:
+    Disk: "Directions (27-31): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (27-31): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q30:
+    Disk: "Directions (27-31): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (27-31): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q31:
+    Disk: "Directions (27-31): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (27-31): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q32:
+    Disk: "Directions (32-34): Study the following information and answer the question given below: W walks 8 m"
+    DB  : "Directions (32-34): Study the following information and answer the questions given below: W walks 8m"
+  [DIFF] Text mismatch in Q33:
+    Disk: "Directions (32-34): Study the following information and answer the question given below: W walks 8 m"
+    DB  : "Directions (32-34): Study the following information and answer the questions given below: W walks 8m"
+  [DIFF] Text mismatch in Q34:
+    Disk: "Directions (32-34): Study the following information and answer the question given below: W walks 8 m"
+    DB  : "Directions (32-34): Study the following information and answer the questions given below: W walks 8m"
+  [DIFF] Text mismatch in Q36:
+    Disk: "Directions $(36-40)$: Study the following information and answer the question given below: Eight per"
+    DB  : "Directions (36-40): Study the following information and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q37:
+    Disk: "Directions $(36-40)$: Study the following information and answer the question given below: Eight per"
+    DB  : "Directions (36-40): Study the following information and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q38:
+    Disk: "Directions $(36-40)$: Study the following information and answer the question given below: Eight per"
+    DB  : "Directions (36-40): Study the following information and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q39:
+    Disk: "Directions $(36-40)$: Study the following information and answer the question given below: Eight per"
+    DB  : "Directions (36-40): Study the following information and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q40:
+    Disk: "Directions $(36-40)$: Study the following information and answer the question given below: Eight per"
+    DB  : "Directions (36-40): Study the following information and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q41:
+    Disk: "A and B entered into a partnership business with investment of Rs. 1300 -&- Rs. 500 respectively. Af"
+    DB  : "A and B entered into a partnership business with investment of Rs. 1300 and Rs. 500 respectively. Af"
+  [DIFF] Text mismatch in Q42:
+    Disk: "Five years ago, the average age of A and B was 15 years. The ratio of present age of A and C is $6:5"
+    DB  : "Five years ago, the average age of A and B was 15 years. The ratio of present age of A and C is $6:5"
+  [DIFF] Text mismatch in Q43:
+    Disk: "The average weight of eight people is X kg. Two new people joined them with total weight of 151 kg a"
+    DB  : "The average weight of eight people is X kg. Two new people joined them with total weight of 151 kg a"
+  [DIFF] Text mismatch in Q46:
+    Disk: "Directions (46-50): Find the wrong number in the given number series. - Q 46. $6400,400,50,12$.5, 6."
+    DB  : "Directions (46-50): Find the wrong number in the given number series. - Q46. $6400,400,50,12$.5, 6.2"
+  [DIFF] Text mismatch in Q47:
+    Disk: "Directions (46-50): Find the wrong number in the given number series. - Q 47. $34,32,36,30,38,48,40$"
+    DB  : "Directions (46-50): Find the wrong number in the given number series. - Q47. $34,32,36,30,38,48,40$"
+  [DIFF] Text mismatch in Q48:
+    Disk: "Directions (46-50): Find the wrong number in the given number series. - Q 48. $43,47,56,72,108,133,1"
+    DB  : "Directions (46-50): Find the wrong number in the given number series. - Q48. $43,47,56,72,108,133,18"
+  [DIFF] Text mismatch in Q49:
+    Disk: "Directions (46-50): Find the wrong number in the given number series. - Q 49. $12,28,60,108,172,256,"
+    DB  : "Directions (46-50): Find the wrong number in the given number series. - Q49. $12,28,60,108,172,256,3"
+  [DIFF] Text mismatch in Q50:
+    Disk: "Directions (46-50): Find the wrong number in the given number series. - Q 50. $3,7,27,112,565,3396,2"
+    DB  : "Directions (46-50): Find the wrong number in the given number series. - Q50. $3,7,27,112,565,3396,23"
+  [DIFF] Text mismatch in Q51:
+    Disk: "Directions $(51-55)$: The table given below shows the total number of rooms available in the five di"
+    DB  : "Directions (51-55): The table given below shows the total number of rooms available in the five diff"
+  [DIFF] Text mismatch in Q52:
+    Disk: "Directions $(51-55)$: The table given below shows the total number of rooms available in the five di"
+    DB  : "Directions (51-55): The table given below shows the total number of rooms available in the five diff"
+  [DIFF] Text mismatch in Q53:
+    Disk: "Directions $(51-55)$: The table given below shows the total number of rooms available in the five di"
+    DB  : "Directions (51-55): The table given below shows the total number of rooms available in the five diff"
+  [DIFF] Text mismatch in Q54:
+    Disk: "Directions $(51-55)$: The table given below shows the total number of rooms available in the five di"
+    DB  : "Directions (51-55): The table given below shows the total number of rooms available in the five diff"
+  [DIFF] Text mismatch in Q55:
+    Disk: "Directions $(51-55)$: The table given below shows the total number of rooms available in the five di"
+    DB  : "Directions (51-55): The table given below shows the total number of rooms available in the five diff"
+  [DIFF] Text mismatch in Q57:
+    Disk: "Directions $(56-60)$: What approximate value should come in the place of question (?) mark in the fo"
+    DB  : "Directions (56-60): What approximate value should come in the place of question (?) mark in the foll"
+  [DIFF] Text mismatch in Q62:
+    Disk: "In a rightangled triangle hypotenuse is 8$\sqrt{10}$ cm and based is half of the height. If height a"
+    DB  : "In a rightangled triangle hypotenuse is 8\sqrt{10} cm and based is half of the height. If height and"
+  [DIFF] Text mismatch in Q63:
+    Disk: "$The ratio of speed of P to speed of Q is 5:8, P covers D km distance in 3 hours and Q covers (D+40)"
+    DB  : "The ratio of speed of P to speed of Q is 5:8, P covers D km distance in 3 hours and Q covers (D+40) "
+  [DIFF] Text mismatch in Q64:
+    Disk: "The $\sum$ of five consecutive multiples of four is 200. Find the smallest multiple."
+    DB  : "The sum of five consecutive multiples of four is 200. Find the smallest multiple."
+  [DIFF] Text mismatch in Q66:
+    Disk: "Directions $(66-70)$: The bar graph given below shows total number of people (Vegetarian + nonVegeta"
+    DB  : "Directions (66-70): The bar graph given below shows total number of people (Vegetarian + nonVegetari"
+  [DIFF] Text mismatch in Q67:
+    Disk: "Directions $(66-70)$: The bar graph given below shows total number of people (Vegetarian + nonVegeta"
+    DB  : "Directions (66-70): The bar graph given below shows total number of people (Vegetarian + nonVegetari"
+  [DIFF] Text mismatch in Q68:
+    Disk: "Directions $(66-70)$: The bar graph given below shows total number of people (Vegetarian + nonVegeta"
+    DB  : "Directions (66-70): The bar graph given below shows total number of people (Vegetarian + nonVegetari"
+  [DIFF] Text mismatch in Q69:
+    Disk: "Directions $(66-70)$: The bar graph given below shows total number of people (Vegetarian + nonVegeta"
+    DB  : "Directions (66-70): The bar graph given below shows total number of people (Vegetarian + nonVegetari"
+  [DIFF] Text mismatch in Q70:
+    Disk: "Directions $(66-70)$: The bar graph given below shows total number of people (Vegetarian + nonVegeta"
+    DB  : "Directions (66-70): The bar graph given below shows total number of people (Vegetarian + nonVegetari"
+  [DIFF] Text mismatch in Q71:
+    Disk: "Average of present age A, B and C is 14 years, while four years ago, average age of B, C and D was 1"
+    DB  : "Average of present age A, B and C is 14 years, while four years ago, average age of B, C and D was 1"
+  [DIFF] Text mismatch in Q73:
+    Disk: "30 women working 9 hours in a day can pack 1000 parcels in 10 days. If the efficiency of woman is $\"
+    DB  : "30 women working 9 hours in a day can pack 1000 parcels in 10 days. If the efficiency of woman is \f"
+  [DIFF] Text mismatch in Q74:
+    Disk: "Directions (74-75): Given below in each question there are two statements (I) and (II). You must det"
+    DB  : "Directions (74-75): Given below in each question there are two statements (I) and (II). You must det"
+  [DIFF] Text mismatch in Q75:
+    Disk: "Directions (74-75): Given below in each question there are two statements (I) and (II). You must det"
+    DB  : "Directions (74-75): Given below in each question there are two statements (I) and (II). You must det"
+  [DIFF] Text mismatch in Q76:
+    Disk: "$I. 2 x^2 - 17 x + 21 = 0 II. 3 y^2 - y - 4 = 0$"
+    DB  : "Directions (76-80): In each of these questions, two equations (I) and (II) are given. You have to so"
+  [DIFF] Text mismatch in Q77:
+    Disk: "$I. 2 x^2 x 45 = 0 II. 2 y^2 - 5 y + 3 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 + x - 45 = 0$ II. $2y^2 - "
+  [DIFF] Text mismatch in Q78:
+    Disk: "$I. 2 x^2 - 23 x + 66 = 0 II. 3 y^2 - 16 y + 21 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 - 23x + 66 = 0$ II. $3y^2 "
+  [DIFF] Text mismatch in Q79:
+    Disk: "$I. 2 x^2 + 16 x + 24 = 0 II. 6 y^2 + 13 y + 6 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 + 16x + 24 = 0$ II. $6y^2 "
+  [DIFF] Text mismatch in Q80:
+    Disk: "$I. 12 x^2 - 12 x = 13 x - 12 II. 12 y^2 - 13 y + 3 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $12x^2 - 25x + 12 = 0$ II. $12y^"
+  [INFO] Paper 6 has 70 differences.
+
+--- Verification for paper 7 (rrb_po_prelims_paper7.json) ---
+  Disk count: 80, DB count: 80
+  [DIFF] Text mismatch in Q1:
+    Disk: "If in the number "8634726521", position of the first and the second digit are interchanged, position"
+    DB  : "If in the number "8634726521", position of the first and the second digit are interchanged, position"
+  [DIFF] Text mismatch in Q2:
+    Disk: "Directions (2-6): Study the following information carefully and answer the question given below: The"
+    DB  : "Directions (2-6): Study the following information carefully and answer the questions given below: Th"
+  [DIFF] Text mismatch in Q3:
+    Disk: "Directions (2-6): Study the following information carefully and answer the question given below: The"
+    DB  : "Directions (2-6): Study the following information carefully and answer the questions given below: Th"
+  [DIFF] Text mismatch in Q4:
+    Disk: "Directions (2-6): Study the following information carefully and answer the question given below: The"
+    DB  : "Directions (2-6): Study the following information carefully and answer the questions given below: Th"
+  [DIFF] Text mismatch in Q5:
+    Disk: "Directions (2-6): Study the following information carefully and answer the question given below: The"
+    DB  : "Directions (2-6): Study the following information carefully and answer the questions given below: Th"
+  [DIFF] Text mismatch in Q6:
+    Disk: "Directions (2-6): Study the following information carefully and answer the question given below: The"
+    DB  : "Directions (2-6): Study the following information carefully and answer the questions given below: Th"
+  [DIFF] Text mismatch in Q7:
+    Disk: "Directions (7-9): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (7-9): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q8:
+    Disk: "Directions (7-9): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (7-9): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q9:
+    Disk: "Directions (7-9): In each of the question below some statements are given followed by two conclusion"
+    DB  : "Directions (7-9): In each of the questions below some statements are given followed by two conclusio"
+  [DIFF] Text mismatch in Q10:
+    Disk: "Directions (10-14): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (10-14): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q11:
+    Disk: "Directions (10-14): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (10-14): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q12:
+    Disk: "Directions (10-14): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (10-14): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q13:
+    Disk: "Directions (10-14): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (10-14): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q14:
+    Disk: "Directions (10-14): Study the following information carefully and answer the question given below: I"
+    DB  : "Directions (10-14): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q15:
+    Disk: "Directions (15-19): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (15-19): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q16:
+    Disk: "Directions (15-19): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (15-19): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q17:
+    Disk: "Directions (15-19): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (15-19): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q18:
+    Disk: "Directions (15-19): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (15-19): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q19:
+    Disk: "Directions (15-19): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (15-19): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q20:
+    Disk: "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+    DB  : "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+  [DIFF] Text mismatch in Q21:
+    Disk: "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+    DB  : "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+  [DIFF] Text mismatch in Q22:
+    Disk: "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+    DB  : "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+  [DIFF] Text mismatch in Q23:
+    Disk: "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+    DB  : "Directions (20-23): In this question, relationship between different elements is shown in the statem"
+  [DIFF] Text mismatch in Q24:
+    Disk: "Directions (24-28): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (24-28): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q25:
+    Disk: "Directions (24-28): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (24-28): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q26:
+    Disk: "Directions (24-28): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (24-28): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q27:
+    Disk: "Directions (24-28): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (24-28): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q28:
+    Disk: "Directions (24-28): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (24-28): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q29:
+    Disk: "Directions (29-31): Study the following information and answer the question given below. In a family"
+    DB  : "Directions (29-31): Study the following information and answer the questions given below. In a famil"
+  [DIFF] Text mismatch in Q30:
+    Disk: "Directions (29-31): Study the following information and answer the question given below. In a family"
+    DB  : "Directions (29-31): Study the following information and answer the questions given below. In a famil"
+  [DIFF] Text mismatch in Q31:
+    Disk: "Directions (29-31): Study the following information and answer the question given below. In a family"
+    DB  : "Directions (29-31): Study the following information and answer the questions given below. In a famil"
+  [DIFF] Text mismatch in Q32:
+    Disk: "Directions (32-36): Study the following information carefully and answer the question given below: T"
+    DB  : "Directions (32-36): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q33:
+    Disk: "Directions (32-36): Study the following information carefully and answer the question given below: T"
+    DB  : "Directions (32-36): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q34:
+    Disk: "Directions (32-36): Study the following information carefully and answer the question given below: T"
+    DB  : "Directions (32-36): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q35:
+    Disk: "If A interchanged his position with B, then who among the following boy sits 2 nd to the left of A?"
+    DB  : "If A interchanged his position with B, then who among the following boy sits 2nd to the left of A?"
+  [DIFF] Text mismatch in Q37:
+    Disk: "How many letter(s)- will remain in the same position in the word -‘JUNGLEBOOK'- when they are arrang"
+    DB  : "How many letter(s)- will remain in the same position in the word -'JUNGLEBOOK'- when they are arrang"
+  [DIFF] Text mismatch in Q38:
+    Disk: "Directions (38-40): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (38-40): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q39:
+    Disk: "Directions (38-40): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (38-40): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q40:
+    Disk: "Directions (38-40): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (38-40): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q41:
+    Disk: "Directions (41-45): Read the data carefully and answer the question. $There are total 700 employees "
+    DB  : "Directions (41-45): Read the data carefully and answer the questions. There are total 700 employees "
+  [DIFF] Text mismatch in Q42:
+    Disk: "Directions (41-45): Read the data carefully and answer the question. $There are total 700 employees "
+    DB  : "Directions (41-45): Read the data carefully and answer the questions. There are total 700 employees "
+  [DIFF] Text mismatch in Q43:
+    Disk: "Directions (41-45): Read the data carefully and answer the question. $There are total 700 employees "
+    DB  : "Directions (41-45): Read the data carefully and answer the questions. There are total 700 employees "
+  [DIFF] Text mismatch in Q44:
+    Disk: "Directions (41-45): Read the data carefully and answer the question. $There are total 700 employees "
+    DB  : "Directions (41-45): Read the data carefully and answer the questions. There are total 700 employees "
+  [DIFF] Text mismatch in Q45:
+    Disk: "Directions (41-45): Read the data carefully and answer the question. $There are total 700 employees "
+    DB  : "Directions (41-45): Read the data carefully and answer the questions. There are total 700 employees "
+  [DIFF] Text mismatch in Q46:
+    Disk: "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+    DB  : "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+  [DIFF] Text mismatch in Q47:
+    Disk: "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+    DB  : "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+  [DIFF] Text mismatch in Q48:
+    Disk: "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+    DB  : "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+  [DIFF] Text mismatch in Q49:
+    Disk: "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+    DB  : "Directions (46-50): What approximate value should come in place of question mark (?) in following qu"
+  [DIFF] Text mismatch in Q51:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 51. $124,180,225,261,2"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q51. $124,180,225,261,29"
+  [DIFF] Text mismatch in Q52:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 52. $91,235,163,199,18"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q52. $91,235,163,199,181"
+  [DIFF] Text mismatch in Q53:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 53. $380,385,393,407,4"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q53. $380,385,393,407,43"
+  [DIFF] Text mismatch in Q54:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 54. $128,32,96,240,840"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q54. $128,32,96,240,840,"
+  [DIFF] Text mismatch in Q55:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 55. $665,630,606,591,5"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q55. $665,630,606,591,58"
+  [DIFF] Text mismatch in Q56:
+    Disk: "Directions (51-56): Find out the wrong number in following number series. - Q 56. $7260,7240,7210,71"
+    DB  : "Directions (51-56): Find out the wrong number in following number series. - Q56. $7260,7240,7210,712"
+  [DIFF] Text mismatch in Q58:
+    Disk: "$The ratio of present age of Rita to Kapil is 3:4 age and age of Manish is \frac{5}{3} times of Rita"
+    DB  : "The ratio of present age of Rita to Kapil is 3:4 age and age of Manish is \frac{5}{3} times of Rita'"
+  [DIFF] Text mismatch in Q60:
+    Disk: "A man invested a $\sum$ of Rs. -‘P'- for two years in scheme A at 20% p.a. on compound interest annu"
+    DB  : "A man invested a sum of Rs. -'P'- for two years in scheme A at 20% p.a. on compound interest annuall"
+  [DIFF] Text mismatch in Q61:
+    Disk: "$The ratio of length of train A to B is 5:4 and speed of train A is 90 km/hr. If train A crosses a p"
+    DB  : "The ratio of length of train A to B is 5:4 and speed of train A is 90 km/hr. If train A crosses a po"
+  [DIFF] Text mismatch in Q64:
+    Disk: "A can complete 60% of a work in 9 days. A and B together can complete 20% of the same work in $\frac"
+    DB  : "A can complete 60% of a work in 9 days. A and B together can complete 20% of the same work in \frac{"
+  [DIFF] Text mismatch in Q66:
+    Disk: "Directions $(66-70)$: Table given below shows total number of people visited four different national"
+    DB  : "Directions (66-70): Table given below shows total number of people visited four different national p"
+  [DIFF] Text mismatch in Q67:
+    Disk: "Directions $(66-70)$: Table given below shows total number of people visited four different national"
+    DB  : "Directions (66-70): Table given below shows total number of people visited four different national p"
+  [DIFF] Text mismatch in Q68:
+    Disk: "Directions $(66-70)$: Table given below shows total number of people visited four different national"
+    DB  : "Directions (66-70): Table given below shows total number of people visited four different national p"
+  [DIFF] Text mismatch in Q69:
+    Disk: "Directions $(66-70)$: Table given below shows total number of people visited four different national"
+    DB  : "Directions (66-70): Table given below shows total number of people visited four different national p"
+  [DIFF] Text mismatch in Q70:
+    Disk: "Directions $(66-70)$: Table given below shows total number of people visited four different national"
+    DB  : "Directions (66-70): Table given below shows total number of people visited four different national p"
+  [DIFF] Text mismatch in Q71:
+    Disk: "A milkman mixed (y+30) liters of water in 150 liters of milk and then again replaced 35 liters of th"
+    DB  : "A milkman mixed (y+30) liters of water in 150 liters of milk and then again replaced 35 liters of th"
+  [DIFF] Text mismatch in Q72:
+    Disk: "Speed of fan is successively reduced by 10% and 15%, and if speed of fan is successively reduced by "
+    DB  : "Speed of fan is successively reduced by 10% and 15%, and if speed of fan is successively reduced by "
+  [DIFF] Text mismatch in Q74:
+    Disk: "a, b, c and d are four consecutive numbers, if the $\sum$ of -‘a'- and -‘c'- is 124, what is the pro"
+    DB  : "a, b, c and d are four consecutive numbers, if the sum of -'a'- and -'c'- is 124, what is the produc"
+  [DIFF] Text mismatch in Q75:
+    Disk: "$The height of a triangle is equal to the perimeter of a square whose diagonal is 9\sqrt{2} metre an"
+    DB  : "The height of a triangle is equal to the perimeter of a square whose diagonal is 9\sqrt{2} metre and"
+  [DIFF] Text mismatch in Q76:
+    Disk: "Directions $(76-80)$: Line chart given below shows the number of laptops -&- Desktops sold by five d"
+    DB  : "Directions (76-80): Line chart given below shows the number of laptops and Desktops sold by five dif"
+  [DIFF] Text mismatch in Q77:
+    Disk: "Directions $(76-80)$: Line chart given below shows the number of laptops -&- Desktops sold by five d"
+    DB  : "Directions (76-80): Line chart given below shows the number of laptops and Desktops sold by five dif"
+  [DIFF] Text mismatch in Q78:
+    Disk: "Directions $(76-80)$: Line chart given below shows the number of laptops -&- Desktops sold by five d"
+    DB  : "Directions (76-80): Line chart given below shows the number of laptops and Desktops sold by five dif"
+  [DIFF] Text mismatch in Q79:
+    Disk: "Directions $(76-80)$: Line chart given below shows the number of laptops and desktops sold by five d"
+    DB  : "Directions (76-80): Line chart given below shows the number of laptops and desktops sold by five dif"
+  [DIFF] Text mismatch in Q80:
+    Disk: "Directions $(76-80)$: Line chart given below shows the number of laptops -&- Desktops sold by five d"
+    DB  : "Directions (76-80): Line chart given below shows the number of laptops and Desktops sold by five dif"
+  [INFO] Paper 7 has 72 differences.
+
+--- Verification for paper 8 (rrb_po_prelims_paper8.json) ---
+  Disk count: 80, DB count: 80
+  [DIFF] Text mismatch in Q1:
+    Disk: "Directions (1-3): Study the following information carefully and answer the question given below. Waq"
+    DB  : "Directions (1-3): Study the following information carefully and answer the questions given below. Wa"
+  [DIFF] Text mismatch in Q2:
+    Disk: "Directions (1-3): Study the following information carefully and answer the question given below. Waq"
+    DB  : "Directions (1-3): Study the following information carefully and answer the questions given below. Wa"
+  [DIFF] Text mismatch in Q3:
+    Disk: "Directions (1-3): Study the following information carefully and answer the question given below. Waq"
+    DB  : "Directions (1-3): Study the following information carefully and answer the questions given below. Wa"
+  [DIFF] Text mismatch in Q4:
+    Disk: "If in the number "7263586391", positions of the first and the second digits are interchanged, positi"
+    DB  : "If in the number "7263586391", positions of the first and the second digits are interchanged, positi"
+  [DIFF] Text mismatch in Q5:
+    Disk: "Directions (5-7): Study the following information carefully and answer the given question. In a fami"
+    DB  : "Directions (5-7): Study the following information carefully and answer the given questions. In a fam"
+  [DIFF] Text mismatch in Q6:
+    Disk: "Directions (5-7): Study the following information carefully and answer the given question. In a fami"
+    DB  : "Directions (5-7): Study the following information carefully and answer the given questions. In a fam"
+  [DIFF] Text mismatch in Q7:
+    Disk: "Directions (5-7): Study the following information carefully and answer the given question. In a fami"
+    DB  : "Directions (5-7): Study the following information carefully and answer the given questions. In a fam"
+  [DIFF] Text mismatch in Q8:
+    Disk: "If a four letter meaningful word will be formed from the first, fourth, seventh and ninth letter fro"
+    DB  : "If a four letter meaningful word will be formed from the first, fourth, seventh and ninth letter fro"
+  [DIFF] Text mismatch in Q9:
+    Disk: "Directions (913): Study the following instructions and answer the question given below: Eight person"
+    DB  : "Directions (9-13): Study the following instructions and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q10:
+    Disk: "Directions (913): Study the following instructions and answer the question given below: Eight person"
+    DB  : "Directions (9-13): Study the following instructions and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q11:
+    Disk: "Directions (913): Study the following instructions and answer the question given below: Eight person"
+    DB  : "Directions (9-13): Study the following instructions and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q12:
+    Disk: "Directions (913): Study the following instructions and answer the question given below: Eight person"
+    DB  : "Directions (9-13): Study the following instructions and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q13:
+    Disk: "Directions (913): Study the following instructions and answer the question given below: Eight person"
+    DB  : "Directions (9-13): Study the following instructions and answer the questions given below: Eight pers"
+  [DIFF] Text mismatch in Q14:
+    Disk: "Directions (14-18): Study the information carefully and answer the question given below. Seven perso"
+    DB  : "Directions (14-18): Study the information carefully and answer the questions given below. Seven pers"
+  [DIFF] Text mismatch in Q15:
+    Disk: "Directions (14-18): Study the information carefully and answer the question given below. Seven perso"
+    DB  : "Directions (14-18): Study the information carefully and answer the questions given below. Seven pers"
+  [DIFF] Text mismatch in Q16:
+    Disk: "Directions (14-18): Study the information carefully and answer the question given below. Seven perso"
+    DB  : "Directions (14-18): Study the information carefully and answer the questions given below. Seven pers"
+  [DIFF] Text mismatch in Q17:
+    Disk: "Directions (14-18): Study the information carefully and answer the question given below. Seven perso"
+    DB  : "Directions (14-18): Study the information carefully and answer the questions given below. Seven pers"
+  [DIFF] Text mismatch in Q18:
+    Disk: "Directions (14-18): Study the information carefully and answer the question given below. Seven perso"
+    DB  : "Directions (14-18): Study the information carefully and answer the questions given below. Seven pers"
+  [DIFF] Text mismatch in Q19:
+    Disk: "Directions (19-22): In each of the question below. Some statements are given followed by conclusions"
+    DB  : "Directions (19-22): In each of the questions below. Some statements are given followed by conclusion"
+  [DIFF] Text mismatch in Q20:
+    Disk: "Directions (19-22): In each of the question below. Some statements are given followed by conclusions"
+    DB  : "Directions (19-22): In each of the questions below. Some statements are given followed by conclusion"
+  [DIFF] Text mismatch in Q21:
+    Disk: "Directions (19-22): In each of the question below. Some statements are given followed by conclusions"
+    DB  : "Directions (19-22): In each of the questions below. Some statements are given followed by conclusion"
+  [DIFF] Text mismatch in Q22:
+    Disk: "Directions (19-22): In each of the question below. Some statements are given followed by conclusions"
+    DB  : "Directions (19-22): In each of the questions below. Some statements are given followed by conclusion"
+  [DIFF] Text mismatch in Q23:
+    Disk: "Directions (23-26): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (23-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q24:
+    Disk: "Directions (23-26): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (23-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q25:
+    Disk: "Directions (23-26): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (23-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q26:
+    Disk: "Directions (23-26): Study the following information carefully and answer the question given below: S"
+    DB  : "Directions (23-26): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q27:
+    Disk: "$Statements: P -<- Q = G -<- D -≤- E -<- F ->- M$ Conclusions: I. M -$\ge$- Q II. M -<- G"
+    DB  : "$Statements: P -<- Q = G -<- D -≤- E -<- F ->- M$ Conclusions: I. M -≥- Q II. M -<- G"
+  [DIFF] Text mismatch in Q29:
+    Disk: "Statements: A -$\ge$- K;- N -<- T;- M -$\ge$- N;- K -$\ge$- T Conclusions: I. K -$\ge$- N II. A ->- "
+    DB  : "Statements: A -≥- K;- N -<- T;- M -≥- N;- K -≥- T Conclusions: I. K -≥- N II. A ->- M"
+  [DIFF] Text mismatch in Q30:
+    Disk: "Statements: J ->- T;- R -$\le$- N;- T ->- R;- N -<- M Conclusions: I. R -<- M II. J ->- M"
+    DB  : "Statements: J ->- T;- R -≤- N;- T ->- R;- N -<- M Conclusions: I. R -<- M II. J ->- M"
+  [DIFF] Text mismatch in Q31:
+    Disk: "Directions $(31-35)$: Study the following information carefully and answer the question given below:"
+    DB  : "Directions (31-35): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q32:
+    Disk: "Directions $(31-35)$: Study the following information carefully and answer the question given below:"
+    DB  : "Directions (31-35): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q33:
+    Disk: "Directions $(31-35)$: Study the following information carefully and answer the question given below:"
+    DB  : "Directions (31-35): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q34:
+    Disk: "What is the $\sum$ of 2 nd digit of the 3 rd number from left end and 1 st digit of 2 nd number from"
+    DB  : "What is the sum of 2nd digit of the 3rd number from left end and 1st digit of 2nd number from right "
+  [DIFF] Text mismatch in Q36:
+    Disk: "Directions (36-38): Study the following information to answer the given question: A certain number o"
+    DB  : "Directions (36-38): Study the following information to answer the given questions: A certain number "
+  [DIFF] Text mismatch in Q37:
+    Disk: "Directions (36-38): Study the following information to answer the given question: A certain number o"
+    DB  : "Directions (36-38): Study the following information to answer the given questions: A certain number "
+  [DIFF] Text mismatch in Q38:
+    Disk: "Directions (36-38): Study the following information to answer the given question: A certain number o"
+    DB  : "Directions (36-38): Study the following information to answer the given questions: A certain number "
+  [DIFF] Text mismatch in Q39:
+    Disk: "In a class Piyush is 10 th from the top and Aarya is 20 th from the bottom. Naveen is 11 ranks above"
+    DB  : "In a class Piyush is 10th from the top and Aarya is 20th from the bottom. Naveen is 11 ranks above A"
+  [DIFF] Text mismatch in Q41:
+    Disk: "$I. 2 x^2 - 5 x - 7 = 0 II. 2 y^2 - 16 y + 32 = 0$"
+    DB  : "Directions (41-45): In each of these questions, two equations (I) and (II) are given. You have to so"
+  [DIFF] Text mismatch in Q42:
+    Disk: "$I. 2 x^2 - 9 x + 10 = 0 II. 3 y^2 - 7 y + 4 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 - 9x + 10 = 0$ II. $3y^2 -"
+  [DIFF] Text mismatch in Q43:
+    Disk: "$I. x^2 + 11 x + 24 = 0 II. 4 y^2 + 13 y + 10 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x^2 + 11x + 24 = 0$ II. $4y^2 +"
+  [DIFF] Text mismatch in Q44:
+    Disk: "$I. 2 x^2 + 13 x + 21 = 0 II. y^2 + 6 y + 9 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 + 13x + 21 = 0$ II. $y^2 +"
+  [DIFF] Text mismatch in Q45:
+    Disk: "$I. 3 x^2 - x - 2 = 0 II. 4 y^2 - 2 y - 2 = 0$"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $3x^2 - x - 2 = 0$ II. $4y^2 - 2"
+  [DIFF] Text mismatch in Q46:
+    Disk: "Directions (46-50): Read the given information carefully and answer the following question. There ar"
+    DB  : "Directions (46-50): Read the given information carefully and answer the following questions. There a"
+  [DIFF] Text mismatch in Q47:
+    Disk: "Directions (46-50): Read the given information carefully and answer the following question. There ar"
+    DB  : "Directions (46-50): Read the given information carefully and answer the following questions. There a"
+  [DIFF] Text mismatch in Q48:
+    Disk: "Directions (46-50): Read the given information carefully and answer the following question. There ar"
+    DB  : "Directions (46-50): Read the given information carefully and answer the following questions. There a"
+  [DIFF] Text mismatch in Q49:
+    Disk: "Directions (46-50): Read the given information carefully and answer the following question. There ar"
+    DB  : "Directions (46-50): Read the given information carefully and answer the following questions. There a"
+  [DIFF] Text mismatch in Q50:
+    Disk: "Directions (46-50): Read the given information carefully and answer the following question. There ar"
+    DB  : "Directions (46-50): Read the given information carefully and answer the following questions. There a"
+  [DIFF] Text mismatch in Q51:
+    Disk: "Directions $(51-55)$: What will come in place of (?) in the following number series?- - Q 51. $150,1"
+    DB  : "Directions (51-55): What will come in place of (?) in the following number series?- - Q51. $150,186,"
+  [DIFF] Text mismatch in Q52:
+    Disk: "Directions $(51-55)$: What will come in place of (?) in the following number series?- - Q 52. $6,6,1"
+    DB  : "Directions (51-55): What will come in place of (?) in the following number series?- - Q52. $6,6,12,4"
+  [DIFF] Text mismatch in Q53:
+    Disk: "Directions $(51-55)$: What will come in place of (?) in the following number series?- - Q 53. $680,6"
+    DB  : "Directions (51-55): What will come in place of (?) in the following number series?- - Q53. $680,675,"
+  [DIFF] Text mismatch in Q54:
+    Disk: "Directions $(51-55)$: What will come in place of (?) in the following number series?- - Q 54. ?, $32"
+    DB  : "Directions (51-55): What will come in place of (?) in the following number series?- - Q54. ?, $328,2"
+  [DIFF] Text mismatch in Q55:
+    Disk: "Directions $(51-55)$: What will come in place of (?) in the following number series?- - Q 55. ?, $17"
+    DB  : "Directions (51-55): What will come in place of (?) in the following number series?- - Q55. ?, $1728,"
+  [DIFF] Text mismatch in Q56:
+    Disk: "Directions $(56-60)$: What approximate value should come in place of (?) in the following question. "
+    DB  : "Directions (56-60): What approximate value should come in place of (?) in the following questions. -"
+  [DIFF] Text mismatch in Q57:
+    Disk: "Directions $(56-60)$: What approximate value should come in place of (?) in the following question. "
+    DB  : "Directions (56-60): What approximate value should come in place of (?) in the following questions. -"
+  [DIFF] Text mismatch in Q58:
+    Disk: "Directions $(56-60)$: What approximate value should come in place of (?) in the following question. "
+    DB  : "Directions (56-60): What approximate value should come in place of (?) in the following questions. -"
+  [DIFF] Text mismatch in Q59:
+    Disk: "Directions $(56-60)$: What approximate value should come in place of (?) in the following question. "
+    DB  : "Directions (56-60): What approximate value should come in place of (?) in the following questions. -"
+  [DIFF] Text mismatch in Q60:
+    Disk: "Directions $(56-60)$: What approximate value should come in place of (?) in the following question. "
+    DB  : "Directions (56-60): What approximate value should come in place of (?) in the following questions. -"
+  [DIFF] Text mismatch in Q61:
+    Disk: "$Ankit invested Rs. 1080 at the rate of 7.5\% p.a. for two years on simple interest and Rs. -‘P'- at"
+    DB  : "Ankit invested Rs. 1080 at the rate of 7.5% p.a. for two years on simple interest and Rs. -'P'- at t"
+  [DIFF] Text mismatch in Q64:
+    Disk: "$The ratio of the radius and height of a cylinder is 7:12. If its volume is 6237 cm^3- then find dif"
+    DB  : "The ratio of the radius and height of a cylinder is 7:12. If its volume is 6237 cm^3- then find diff"
+  [DIFF] Text mismatch in Q65:
+    Disk: "$The ratio of investment of P to Q is 4:5 and P -&- Q invested for 10 months and 6 months respective"
+    DB  : "The ratio of investment of P to Q is 4:5 and P and Q invested for 10 months and 6 months respectivel"
+  [DIFF] Text mismatch in Q66:
+    Disk: "Directions $(66-70)$: The table given below shows the no. of books published by 4 different publishe"
+    DB  : "Directions (66-70): The table given below shows the no. of books published by 4 different publishers"
+  [DIFF] Text mismatch in Q67:
+    Disk: "Directions $(66-70)$: The table given below shows the no. of books published by 4 different publishe"
+    DB  : "Directions (66-70): The table given below shows the no. of books published by 4 different publishers"
+  [DIFF] Text mismatch in Q68:
+    Disk: "Directions $(66-70)$: The table given below shows the no. of books published by 4 different publishe"
+    DB  : "Directions (66-70): The table given below shows the no. of books published by 4 different publishers"
+  [DIFF] Text mismatch in Q69:
+    Disk: "Directions $(66-70)$: The table given below shows the no. of books published by 4 different publishe"
+    DB  : "Directions (66-70): The table given below shows the no. of books published by 4 different publishers"
+  [DIFF] Text mismatch in Q70:
+    Disk: "Directions $(66-70)$: The table given below shows the no. of books published by 4 different publishe"
+    DB  : "Directions (66-70): The table given below shows the no. of books published by 4 different publishers"
+  [DIFF] Text mismatch in Q71:
+    Disk: "Directions $(71-75)$: Line chart given below shows total number of students in six different classes"
+    DB  : "Directions (71-75): Line chart given below shows total number of students in six different classes(-"
+  [DIFF] Text mismatch in Q72:
+    Disk: "Directions $(71-75)$: Line chart given below shows total number of students in six different classes"
+    DB  : "Directions (71-75): Line chart given below shows total number of students in six different classes(-"
+  [DIFF] Text mismatch in Q73:
+    Disk: "Directions $(71-75)$: Line chart given below shows total number of students in six different classes"
+    DB  : "Directions (71-75): Line chart given below shows total number of students in six different classes(-"
+  [DIFF] Text mismatch in Q74:
+    Disk: "Directions $(71-75)$: Line chart given below shows total number of students in six different classes"
+    DB  : "Directions (71-75): Line chart given below shows total number of students in six different classes(-"
+  [DIFF] Text mismatch in Q75:
+    Disk: "Directions $(71-75)$: Line chart given below shows total number of students in six different classes"
+    DB  : "Directions (71-75): Line chart given below shows total number of students in six different classes(-"
+  [DIFF] Text mismatch in Q77:
+    Disk: "$Length of rectangle is 5 m more than side of square, whose area is 225 m^2-. Ratio of length to bre"
+    DB  : "Length of rectangle is 5m more than side of square, whose area is 225m^2-. Ratio of length to breadt"
+  [DIFF] Text mismatch in Q79:
+    Disk: "Ayush can travel from his house to office in -‘a'- hours if he does not stop at any place. If he inc"
+    DB  : "Ayush can travel from his house to office in -'a'- hours if he does not stop at any place. If he inc"
+  [DIFF] Text mismatch in Q80:
+    Disk: "There are five numbers and the second number is 25% more than the first number, while third number i"
+    DB  : "There are five numbers and the second number is 25% more than the first number, while third number i"
+  [INFO] Paper 8 has 73 differences.
+
+--- Verification for paper 9 (rrb_po_prelims_paper9.json) ---
+  Disk count: 80, DB count: 80
+  [DIFF] Text mismatch in Q1:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: -"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: -@"
+  [DIFF] Text mismatch in Q2:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: -"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: -@"
+  [DIFF] Text mismatch in Q3:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: -"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: -@"
+  [DIFF] Text mismatch in Q4:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: -"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: -@"
+  [DIFF] Text mismatch in Q5:
+    Disk: "Directions $(1-5)$: Study the following information carefully and answer the question given below: -"
+    DB  : "Directions (1-5): Study the following information carefully and answer the questions given below: -@"
+  [DIFF] Text mismatch in Q6:
+    Disk: "Directions (6-8): Study the following information and answer the given question. Point G is 18 m to "
+    DB  : "Directions (6-8): Study the following information and answer the given questions. Point G is 18m to "
+  [DIFF] Text mismatch in Q7:
+    Disk: "Directions (6-8): Study the following information and answer the given question. Point G is 18 m to "
+    DB  : "Directions (6-8): Study the following information and answer the given questions. Point G is 18m to "
+  [DIFF] Text mismatch in Q8:
+    Disk: "Directions (6-8): Study the following information and answer the given question. Point G is 18 m to "
+    DB  : "Directions (6-8): Study the following information and answer the given questions. Point G is 18m to "
+  [DIFF] Text mismatch in Q9:
+    Disk: "Directions (912): Study the following information carefully and answer the question given below: In "
+    DB  : "Directions (9-12): Study the following information carefully and answer the questions given below: I"
+  [DIFF] Text mismatch in Q10:
+    Disk: "Directions (912): Study the following information carefully and answer the question given below: In "
+    DB  : "Directions (9-12): Study the following information carefully and answer the questions given below: I"
+  [DIFF] Text mismatch in Q11:
+    Disk: "Directions (912): Study the following information carefully and answer the question given below: In "
+    DB  : "Directions (9-12): Study the following information carefully and answer the questions given below: I"
+  [DIFF] Text mismatch in Q12:
+    Disk: "Directions (912): Study the following information carefully and answer the question given below: In "
+    DB  : "Directions (9-12): Study the following information carefully and answer the questions given below: I"
+  [DIFF] Text mismatch in Q13:
+    Disk: "In the given word -‘GOOSEBUMP', how many pairs of the letters have the same number of letters betwee"
+    DB  : "In the given word -'GOOSEBUMP', how many pairs of the letters have the same number of letters betwee"
+  [DIFF] Text mismatch in Q14:
+    Disk: "Directions (14-17): In each of the question below some statements are given followed by two conclusi"
+    DB  : "Directions (14-17): In each of the questions below some statements are given followed by two conclus"
+  [DIFF] Text mismatch in Q15:
+    Disk: "Directions (14-17): In each of the question below some statements are given followed by two conclusi"
+    DB  : "Directions (14-17): In each of the questions below some statements are given followed by two conclus"
+  [DIFF] Text mismatch in Q16:
+    Disk: "Directions (14-17): In each of the question below some statements are given followed by two conclusi"
+    DB  : "Directions (14-17): In each of the questions below some statements are given followed by two conclus"
+  [DIFF] Text mismatch in Q17:
+    Disk: "Directions (14-17): In each of the question below some statements are given followed by two conclusi"
+    DB  : "Directions (14-17): In each of the questions below some statements are given followed by two conclus"
+  [DIFF] Text mismatch in Q18:
+    Disk: "Directions (18-21): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (18-21): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q19:
+    Disk: "Directions (18-21): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (18-21): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q20:
+    Disk: "Directions (18-21): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (18-21): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q21:
+    Disk: "Directions (18-21): Study the following information carefully and answer the question given below: E"
+    DB  : "Directions (18-21): Study the following information carefully and answer the questions given below: "
+  [DIFF] Text mismatch in Q22:
+    Disk: "$Statements: L ->- M -≥- N -≥- R -<- G = T$ Conclusions: I. M -$\ge$- R II. N -$\ge$- T"
+    DB  : "$Statements: L ->- M -≥- N -≥- R -<- G = T$ Conclusions: I. M -≥- R II. N -≥- T"
+  [DIFF] Text mismatch in Q23:
+    Disk: "Statements: P -<- Q -$\ge$- R ->- F -<- G -$\ge$- H Conclusions: I. F -<- P II. Q ->- G"
+    DB  : "Statements: P -<- Q -≥- R ->- F -<- G -≥- H Conclusions: I. F -<- P II. Q ->- G"
+  [DIFF] Text mismatch in Q24:
+    Disk: "Directions (24-28): Study the information carefully and answer the question given below. Eight perso"
+    DB  : "Directions (24-28): Study the information carefully and answer the questions given below. Eight pers"
+  [DIFF] Text mismatch in Q25:
+    Disk: "Directions (24-28): Study the information carefully and answer the question given below. Eight perso"
+    DB  : "Directions (24-28): Study the information carefully and answer the questions given below. Eight pers"
+  [DIFF] Text mismatch in Q26:
+    Disk: "Directions (24-28): Study the information carefully and answer the question given below. Eight perso"
+    DB  : "Directions (24-28): Study the information carefully and answer the questions given below. Eight pers"
+  [DIFF] Text mismatch in Q27:
+    Disk: "Directions (24-28): Study the information carefully and answer the question given below. Eight perso"
+    DB  : "Directions (24-28): Study the information carefully and answer the questions given below. Eight pers"
+  [DIFF] Text mismatch in Q28:
+    Disk: "Directions (24-28): Study the information carefully and answer the question given below. Eight perso"
+    DB  : "Directions (24-28): Study the information carefully and answer the questions given below. Eight pers"
+  [DIFF] Text mismatch in Q29:
+    Disk: "Directions (29-32): Study the following information carefully and answer the question given below. N"
+    DB  : "Directions (29-32): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q30:
+    Disk: "Directions (29-32): Study the following information carefully and answer the question given below. N"
+    DB  : "Directions (29-32): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q31:
+    Disk: "Directions (29-32): Study the following information carefully and answer the question given below. N"
+    DB  : "Directions (29-32): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q32:
+    Disk: "Directions (29-32): Study the following information carefully and answer the question given below. N"
+    DB  : "Directions (29-32): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q33:
+    Disk: "Statements: M ->- U ->- L -$\le$- N;- L -$\ge$- Y ->- A Conclusions: I. Y -<- N $II. Y = N$"
+    DB  : "Statements: M ->- U ->- L -≤- N;- L -≥- Y ->- A Conclusions: I. Y -<- N $II. Y = N$"
+  [DIFF] Text mismatch in Q35:
+    Disk: "Which of the following words cannot be formed with the help of the letters of -‘WEDNESDAY'-?"
+    DB  : "Which of the following words cannot be formed with the help of the letters of -'WEDNESDAY'-?"
+  [DIFF] Text mismatch in Q36:
+    Disk: "Directions (36-39): Study the following information carefully and answer the question given below. E"
+    DB  : "Directions (36-39): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q37:
+    Disk: "Directions (36-39): Study the following information carefully and answer the question given below. E"
+    DB  : "Directions (36-39): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q38:
+    Disk: "Directions (36-39): Study the following information carefully and answer the question given below. E"
+    DB  : "Directions (36-39): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q39:
+    Disk: "Directions (36-39): Study the following information carefully and answer the question given below. E"
+    DB  : "Directions (36-39): Study the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q40:
+    Disk: "Five batsmen score different runs in cricket match. R scores less than V but not score the least. D "
+    DB  : "Five batsmen score different runs in cricket match. R scores less than V but not score the least. D "
+  [DIFF] Text mismatch in Q41:
+    Disk: "Present age of Deepa is 50% more than that of Shiva and age of Deepa 5 years ago was 50% of the age "
+    DB  : "Present age of Deepa is 50% more than that of Shiva and age of Deepa 5 years ago was 50% of the age "
+  [DIFF] Text mismatch in Q42:
+    Disk: "Two types of rice which cost Rs. 40/kg and Rs. 60/kg are mixed and marked at Rs. $\frac{200}{3}$ Kg."
+    DB  : "Two types of rice which cost Rs. 40/kg and Rs. 60/kg are mixed and marked at Rs. \frac{200}{3} Kg. I"
+  [DIFF] Text mismatch in Q43:
+    Disk: "$Q invested 25\% more than P in a partnership business. After sixmonths, P -&- Q increased their amo"
+    DB  : "Q invested 25% more than P in a partnership business. After sixmonths, P and Q increased their amoun"
+  [DIFF] Text mismatch in Q44:
+    Disk: "The difference between interest received when a $\sum$ is invested at 15% p.a. at. CI compounded ann"
+    DB  : "The difference between interest received when a sum is invested at 15% p.a. at. CI compounded annual"
+  [DIFF] Text mismatch in Q45:
+    Disk: "To complete a work, A works for 15 days -&- B works for 8 days. It can also be completed when they t"
+    DB  : "To complete a work, A works for 15 days and B works for 8 days. It can also be completed when they t"
+  [DIFF] Text mismatch in Q46:
+    Disk: "Directions (46-50): Find the wrong number in the following number series. - Q 46. $97,108,205,313,51"
+    DB  : "Directions (46-50): Find the wrong number in the following number series. - Q46. $97,108,205,313,518"
+  [DIFF] Text mismatch in Q47:
+    Disk: "Directions (46-50): Find the wrong number in the following number series. - Q 47. $120,83,113,93,105"
+    DB  : "Directions (46-50): Find the wrong number in the following number series. - Q47. $120,83,113,93,105,"
+  [DIFF] Text mismatch in Q48:
+    Disk: "Directions (46-50): Find the wrong number in the following number series. - Q 48. $15,1015,1096,1608"
+    DB  : "Directions (46-50): Find the wrong number in the following number series. - Q48. $15,1015,1096,1608,"
+  [DIFF] Text mismatch in Q49:
+    Disk: "Directions (46-50): Find the wrong number in the following number series. - Q 49. $1,2,4,16,128,2048"
+    DB  : "Directions (46-50): Find the wrong number in the following number series. - Q49. $1,2,4,16,128,2048,"
+  [DIFF] Text mismatch in Q50:
+    Disk: "Directions (46-50): Find the wrong number in the following number series. - Q 50. $12,17,32,77,212,6"
+    DB  : "Directions (46-50): Find the wrong number in the following number series. - Q50. $12,17,32,77,212,61"
+  [DIFF] Text mismatch in Q51:
+    Disk: "Directions $(51-55)$: In each of these question, two equations (I) and (II) are given. You have to s"
+    DB  : "Directions (51-55): In each of these questions, two equations (I) and (II) are given. You have to so"
+  [DIFF] Text mismatch in Q52:
+    Disk: "Directions $(51-55)$: In each of these question, two equations (I) and (II) are given. You have to s"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x^2 - 9x - 10 = 0$ II. $y^2 - 4"
+  [DIFF] Text mismatch in Q53:
+    Disk: "Directions $(51-55)$: In each of these question, two equations (I) and (II) are given. You have to s"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x^2 + 7x + 10 = 0$ II. $y^2 - 3"
+  [DIFF] Text mismatch in Q54:
+    Disk: "Directions $(51-55)$: In each of these question, two equations (I) and (II) are given. You have to s"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x^3 = 1728$ II. $y^2 + 256 = 40"
+  [DIFF] Text mismatch in Q55:
+    Disk: "Directions $(51-55)$: In each of these question, two equations (I) and (II) are given. You have to s"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $4x + 5y = 3$ II. $(y - 4)^2 = 0"
+  [DIFF] Text mismatch in Q56:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 56. $72.01\% "
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q56. $72.01\% \"
+  [DIFF] Text mismatch in Q57:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 57. $16.01\% "
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q57. $16.01\% \"
+  [DIFF] Text mismatch in Q58:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 58. $128.05 /"
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q58. $128.05 / "
+  [DIFF] Text mismatch in Q59:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 59. $?^3 + (2"
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q59. $?^3 + (24"
+  [DIFF] Text mismatch in Q60:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 60. $?\% \tex"
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q60. $?\% \text"
+  [DIFF] Text mismatch in Q61:
+    Disk: "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q 61. $\sqrt{39"
+    DB  : "Directions (56-61): What approximate value should come in the place of (?) mark -: - Q61. $\sqrt{39."
+  [DIFF] Text mismatch in Q63:
+    Disk: "$The average age of Satish, Sandy -&- Abhi is 32 years and the ratio of their ages 10 years ago was "
+    DB  : "The average age of Satish, Sandy and Abhi is 32 years and the ratio of their ages 10 years ago was 2"
+  [DIFF] Text mismatch in Q66:
+    Disk: "Directions $(66-70)$: The pie chart given below shows the percentage distribution of employees of a "
+    DB  : "Directions (66-70): The pie chart given below shows the percentage distribution of employees of a co"
+  [DIFF] Text mismatch in Q67:
+    Disk: "Directions $(66-70)$: The pie chart given below shows the percentage distribution of employees of a "
+    DB  : "Directions (66-70): The pie chart given below shows the percentage distribution of employees of a co"
+  [DIFF] Text mismatch in Q68:
+    Disk: "Directions $(66-70)$: The pie chart given below shows the percentage distribution of employees of a "
+    DB  : "Directions (66-70): The pie chart given below shows the percentage distribution of employees of a co"
+  [DIFF] Text mismatch in Q69:
+    Disk: "Directions $(66-70)$: The pie chart given below shows the percentage distribution of employees of a "
+    DB  : "Directions (66-70): The pie chart given below shows the percentage distribution of employees of a co"
+  [DIFF] Text mismatch in Q70:
+    Disk: "Directions $(66-70)$: The pie chart given below shows the percentage distribution of employees of a "
+    DB  : "Directions (66-70): The pie chart given below shows the percentage distribution of employees of a co"
+  [DIFF] Text mismatch in Q71:
+    Disk: "The population of city A is 20% more than that of city B and the population of city C is 40% more th"
+    DB  : "The population of city A is 20% more than that of city B and the population of city C is 40% more th"
+  [DIFF] Text mismatch in Q72:
+    Disk: "A train running at the speed of 144 km/hr crosses a man who is running at the speed of 18 km/hr in o"
+    DB  : "A train running at the speed of 144 km/hr crosses a man who is running at the speed of 18 km/hr in o"
+  [DIFF] Text mismatch in Q76:
+    Disk: "Directions $(76-80)$: Table shows the total (sold + unsold) number of units manufactured (in -‘000) "
+    DB  : "Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in '000) of "
+  [DIFF] Text mismatch in Q77:
+    Disk: "Directions $(76-80)$: Table shows the total (sold + unsold) number of units manufactured (in -‘000) "
+    DB  : "Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in '000) of "
+  [DIFF] Text mismatch in Q78:
+    Disk: "Directions $(76-80)$: Table shows the total (sold + unsold) number of units manufactured (in -‘000) "
+    DB  : "Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in '000) of "
+  [DIFF] Text mismatch in Q79:
+    Disk: "Directions $(76-80)$: Table shows the total (sold + unsold) number of units manufactured (in -‘000) "
+    DB  : "Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in '000) of "
+  [DIFF] Text mismatch in Q80:
+    Disk: "Directions $(76-80)$: Table shows the total (sold + unsold) number of units manufactured (in -‘000) "
+    DB  : "Directions (76-80): Table shows the total (sold + unsold) number of units manufactured (in '000) of "
+  [INFO] Paper 9 has 73 differences.
+
+--- Verification for paper 10 (rrb_po_prelims_paper10.json) ---
+  Disk count: 80, DB count: 80
+  [DIFF] Text mismatch in Q1:
+    Disk: "Directions (1-4) -: Study the given information and answer the following question: Eight persons P, "
+    DB  : "Directions (1-4) -: Study the given information and answer the following questions: Eight persons P,"
+  [DIFF] Text mismatch in Q2:
+    Disk: "Directions (1-4) -: Study the given information and answer the following question: Eight persons P, "
+    DB  : "Directions (1-4) -: Study the given information and answer the following questions: Eight persons P,"
+  [DIFF] Text mismatch in Q3:
+    Disk: "Directions (1-4) -: Study the given information and answer the following question: Eight persons P, "
+    DB  : "Directions (1-4) -: Study the given information and answer the following questions: Eight persons P,"
+  [DIFF] Text mismatch in Q4:
+    Disk: "Directions (1-4) -: Study the given information and answer the following question: Eight persons P, "
+    DB  : "Directions (1-4) -: Study the given information and answer the following questions: Eight persons P,"
+  [DIFF] Text mismatch in Q5:
+    Disk: "Which of the following would replace -%- and -#- respectively in the following expression so that T "
+    DB  : "Which of the following would replace -%- and -#- respectively in the following expression so that T "
+  [DIFF] Text mismatch in Q6:
+    Disk: "Directions (610) -: Read the following information carefully and answer the question given below. In"
+    DB  : "Directions (6-10) -: Read the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q7:
+    Disk: "Directions (610) -: Read the following information carefully and answer the question given below. In"
+    DB  : "Directions (6-10) -: Read the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q8:
+    Disk: "Directions (610) -: Read the following information carefully and answer the question given below. In"
+    DB  : "Directions (6-10) -: Read the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q9:
+    Disk: "Directions (610) -: Read the following information carefully and answer the question given below. In"
+    DB  : "Directions (6-10) -: Read the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q10:
+    Disk: "Directions (610) -: Read the following information carefully and answer the question given below. In"
+    DB  : "Directions (6-10) -: Read the following information carefully and answer the questions given below. "
+  [DIFF] Text mismatch in Q11:
+    Disk: "Directions $(11-15)$ -: Study the following information carefully and answer the given question: Eig"
+    DB  : "Directions (11-15) -: Study the following information carefully and answer the given questions: Eigh"
+  [DIFF] Text mismatch in Q12:
+    Disk: "Directions $(11-15)$ -: Study the following information carefully and answer the given question: Eig"
+    DB  : "Directions (11-15) -: Study the following information carefully and answer the given questions: Eigh"
+  [DIFF] Text mismatch in Q13:
+    Disk: "Directions $(11-15)$ -: Study the following information carefully and answer the given question: Eig"
+    DB  : "Directions (11-15) -: Study the following information carefully and answer the given questions: Eigh"
+  [DIFF] Text mismatch in Q14:
+    Disk: "Directions $(11-15)$ -: Study the following information carefully and answer the given question: Eig"
+    DB  : "Directions (11-15) -: Study the following information carefully and answer the given questions: Eigh"
+  [DIFF] Text mismatch in Q15:
+    Disk: "Directions $(11-15)$ -: Study the following information carefully and answer the given question: Eig"
+    DB  : "Directions (11-15) -: Study the following information carefully and answer the given questions: Eigh"
+  [DIFF] Text mismatch in Q16:
+    Disk: "Statements: P -$\le$- Q, S -$\ge$- T -<- M -<- P Conclusions: I. T -<- Q II. Q ->- S"
+    DB  : "Statements: P -≤- Q, S -≥- T -<- M -<- P Conclusions: I. T -<- Q II. Q ->- S"
+  [DIFF] Text mismatch in Q17:
+    Disk: "Statements: M -<- O, K -$\ge$- M ->- F -$\le$- W -<- Q Conclusions: I. O ->- K II. F -$\ge$- O"
+    DB  : "Statements: M -<- O, K -≥- M ->- F -≤- W -<- Q Conclusions: I. O ->- K II. F -≥- O"
+  [DIFF] Text mismatch in Q19:
+    Disk: "How many pairs of letters are there in the word -‘EQUIDISTANT', each of which has as many letters be"
+    DB  : "How many pairs of letters are there in the word -'EQUIDISTANT', each of which has as many letters be"
+  [DIFF] Text mismatch in Q20:
+    Disk: "If in the number 524393156749, position of the 1 st digit is interchanged with the position of the 2"
+    DB  : "If in the number 524393156749, position of the 1st digit is interchanged with the position of the 2n"
+  [DIFF] Text mismatch in Q21:
+    Disk: "Directions (21-24) -: In each of the question below are given some statements followed by some concl"
+    DB  : "Directions (21-24) -: In each of the questions below are given some statements followed by some conc"
+  [DIFF] Text mismatch in Q22:
+    Disk: "Directions (21-24) -: In each of the question below are given some statements followed by some concl"
+    DB  : "Directions (21-24) -: In each of the questions below are given some statements followed by some conc"
+  [DIFF] Text mismatch in Q23:
+    Disk: "Directions (21-24) -: In each of the question below are given some statements followed by some concl"
+    DB  : "Directions (21-24) -: In each of the questions below are given some statements followed by some conc"
+  [DIFF] Text mismatch in Q24:
+    Disk: "Directions (21-24) -: In each of the question below are given some statements followed by some concl"
+    DB  : "Directions (21-24) -: In each of the questions below are given some statements followed by some conc"
+  [DIFF] Text mismatch in Q25:
+    Disk: "Directions (25-29) -: Study the following information carefully and answer the given question. Eight"
+    DB  : "Directions (25-29) -: Study the following information carefully and answer the given questions. Eigh"
+  [DIFF] Text mismatch in Q26:
+    Disk: "Directions (25-29) -: Study the following information carefully and answer the given question. Eight"
+    DB  : "Directions (25-29) -: Study the following information carefully and answer the given questions. Eigh"
+  [DIFF] Text mismatch in Q27:
+    Disk: "Directions (25-29) -: Study the following information carefully and answer the given question. Eight"
+    DB  : "Directions (25-29) -: Study the following information carefully and answer the given questions. Eigh"
+  [DIFF] Text mismatch in Q28:
+    Disk: "Directions (25-29) -: Study the following information carefully and answer the given question. Eight"
+    DB  : "Directions (25-29) -: Study the following information carefully and answer the given questions. Eigh"
+  [DIFF] Text mismatch in Q29:
+    Disk: "Directions (25-29) -: Study the following information carefully and answer the given question. Eight"
+    DB  : "Directions (25-29) -: Study the following information carefully and answer the given questions. Eigh"
+  [DIFF] Text mismatch in Q30:
+    Disk: "Directions (30-32) -: Study the information carefully and answer the question given below. A person "
+    DB  : "Directions (30-32) -: Study the information carefully and answer the questions given below. A person"
+  [DIFF] Text mismatch in Q31:
+    Disk: "Directions (30-32) -: Study the information carefully and answer the question given below. A person "
+    DB  : "Directions (30-32) -: Study the information carefully and answer the questions given below. A person"
+  [DIFF] Text mismatch in Q32:
+    Disk: "Directions (30-32) -: Study the information carefully and answer the question given below. A person "
+    DB  : "Directions (30-32) -: Study the information carefully and answer the questions given below. A person"
+  [DIFF] Text mismatch in Q33:
+    Disk: "Directions (33-34) -: Study the following information carefully and answer the question given below:"
+    DB  : "Directions (33-34) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q34:
+    Disk: "Directions (33-34) -: Study the following information carefully and answer the question given below:"
+    DB  : "Directions (33-34) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q35:
+    Disk: "Directions (35-38) -: Study the following information carefully and answer the question given below."
+    DB  : "Directions (35-38) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q36:
+    Disk: "Directions (35-38) -: Study the following information carefully and answer the question given below."
+    DB  : "Directions (35-38) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q37:
+    Disk: "Directions (35-38) -: Study the following information carefully and answer the question given below."
+    DB  : "Directions (35-38) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q38:
+    Disk: "Directions (35-38) -: Study the following information carefully and answer the question given below."
+    DB  : "Directions (35-38) -: Study the following information carefully and answer the questions given below"
+  [DIFF] Text mismatch in Q39:
+    Disk: "In a row of student, Avika is 20 th from the right end and Veer is 14 th from the left end. After in"
+    DB  : "In a row of student, Avika is 20th from the right end and Veer is 14th from the left end. After inte"
+  [DIFF] Text mismatch in Q40:
+    Disk: "The position of how many alphabets will remain unchanged if each of the alphabet in the word -‘RELIG"
+    DB  : "The position of how many alphabets will remain unchanged if each of the alphabet in the word -'RELIG"
+  [DIFF] Text mismatch in Q43:
+    Disk: "Manoj -&- Nilu invested Rs. -‘P'- and Rs. 6000 respectively, while Manoj left the business after eig"
+    DB  : "Manoj and Nilu invested Rs. -'P'- and Rs. 6000 respectively, while Manoj left the business after eig"
+  [DIFF] Text mismatch in Q44:
+    Disk: "$A is three years elder than B and after two years the ratio of age of A to that of B will be 5:4. F"
+    DB  : "A is three years elder than B and after two years the ratio of age of A to that of B will be 5:4. Fi"
+  [DIFF] Text mismatch in Q46:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Directions (56-60) -: In each of the following questions, two equations (I) and (II) are given, you "
+  [DIFF] Text mismatch in Q51:
+    Disk: "Directions $(51-55)$ -: The following pie–chart shows the percentage break–up of accidents due to va"
+    DB  : "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to vari"
+  [DIFF] Text mismatch in Q52:
+    Disk: "Directions $(51-55)$ -: The following pie–chart shows the percentage break–up of accidents due to va"
+    DB  : "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to vari"
+  [DIFF] Text mismatch in Q53:
+    Disk: "Directions $(51-55)$ -: The following pie–chart shows the percentage break–up of accidents due to va"
+    DB  : "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to vari"
+  [DIFF] Text mismatch in Q54:
+    Disk: "Directions $(51-55)$ -: The following pie–chart shows the percentage break–up of accidents due to va"
+    DB  : "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to vari"
+  [DIFF] Text mismatch in Q55:
+    Disk: "Directions $(51-55)$ -: The following pie–chart shows the percentage break–up of accidents due to va"
+    DB  : "Directions (51-55) -: The following pie–chart shows the percentage break–up of accidents due to vari"
+  [DIFF] Text mismatch in Q56:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Directions (56-60): In each of these questions, two equations (I) and (II) are given. You have to so"
+  [DIFF] Text mismatch in Q57:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $2x^2 - 17x + 35 = 0$ II. $4y^2 "
+  [DIFF] Text mismatch in Q58:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $\sqrt[3]{x - 512} = 11$ II. $y "
+  [DIFF] Text mismatch in Q59:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x^2 + 39x + 380 = 0$ II. $y^2 +"
+  [DIFF] Text mismatch in Q60:
+    Disk: "Directions $(56-60)$ -: In each of the following question, two equations (I) and (II) are given, you"
+    DB  : "Solve the given quadratic equations and mark the correct option: I. $x - 2/x = 2/x$ II. $y^2 - 2y + "
+  [DIFF] Text mismatch in Q61:
+    Disk: "Directions $(61-65)$- -: Read the data carefully and answer the following question. People take subs"
+    DB  : "Directions (61-65)- -: Read the data carefully and answer the following questions. People take subsc"
+  [DIFF] Text mismatch in Q62:
+    Disk: "Directions $(61-65)$- -: Read the data carefully and answer the following question. People take subs"
+    DB  : "Directions (61-65)- -: Read the data carefully and answer the following questions. People take subsc"
+  [DIFF] Text mismatch in Q63:
+    Disk: "Directions $(61-65)$- -: Read the data carefully and answer the following question. People take subs"
+    DB  : "Directions (61-65)- -: Read the data carefully and answer the following questions. People take subsc"
+  [DIFF] Text mismatch in Q64:
+    Disk: "Directions $(61-65)$- -: Read the data carefully and answer the following question. People take subs"
+    DB  : "Directions (61-65)- -: Read the data carefully and answer the following questions. People take subsc"
+  [DIFF] Text mismatch in Q65:
+    Disk: "Directions $(61-65)$- -: Read the data carefully and answer the following question. People take subs"
+    DB  : "Directions (61-65)- -: Read the data carefully and answer the following questions. People take subsc"
+  [DIFF] Text mismatch in Q66:
+    Disk: "Directions $(66-70)$ -: Table given below shows total number of students who appeared for SBI clerk "
+    DB  : "Directions (66-70) -: Table given below shows total number of students who appeared for SBI clerk pr"
+  [DIFF] Text mismatch in Q67:
+    Disk: "Directions $(66-70)$ -: Table given below shows total number of students who appeared for SBI clerk "
+    DB  : "Directions (66-70) -: Table given below shows total number of students who appeared for SBI clerk pr"
+  [DIFF] Text mismatch in Q68:
+    Disk: "Directions $(66-70)$ -: Table given below shows total number of students who appeared for SBI clerk "
+    DB  : "Directions (66-70) -: Table given below shows total number of students who appeared for SBI clerk pr"
+  [DIFF] Text mismatch in Q69:
+    Disk: "Directions $(66-70)$ -: Table given below shows total number of students who appeared for SBI clerk "
+    DB  : "Directions (66-70) -: Table given below shows total number of students who appeared for SBI clerk pr"
+  [DIFF] Text mismatch in Q70:
+    Disk: "Directions $(66-70)$ -: Table given below shows total number of students who appeared for SBI clerk "
+    DB  : "Directions (66-70) -: Table given below shows total number of students who appeared for SBI clerk pr"
+  [DIFF] Text mismatch in Q72:
+    Disk: "$Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle "
+    DB  : "Sum of circumference of circle and perimeter of the square is 204 cm and ratio of radius of circle t"
+  [DIFF] Text mismatch in Q73:
+    Disk: "Pipe A and B alone can fill a tank in -‘x'- hours and -‘x+10'- hours respectively. If both pipes tog"
+    DB  : "Pipe A and B alone can fill a tank in -'x'- hours and -'x+10'- hours respectively. If both pipes tog"
+  [DIFF] Text mismatch in Q76:
+    Disk: "Directions $(76-80)$ -: Find out the missing term in the given number series. - Q 76. $2,8,40,240,16"
+    DB  : "Directions (76-80) -: Find out the missing term in the given number series. - Q76. $2,8,40,240,1680,"
+  [DIFF] Text mismatch in Q77:
+    Disk: "Directions $(76-80)$ -: Find out the missing term in the given number series. - Q 77. $1,6,16,31,51,"
+    DB  : "Directions (76-80) -: Find out the missing term in the given number series. - Q77. $1,6,16,31,51, -?"
+  [DIFF] Text mismatch in Q78:
+    Disk: "Directions $(76-80)$ -: Find out the missing term in the given number series. - Q 78. $4096,1024,512"
+    DB  : "Directions (76-80) -: Find out the missing term in the given number series. - Q78. $4096,1024,512,12"
+  [DIFF] Text mismatch in Q79:
+    Disk: "Directions $(76-80)$ -: Find out the missing term in the given number series. - Q 79. $21,42,64,87,1"
+    DB  : "Directions (76-80) -: Find out the missing term in the given number series. - Q79. $21,42,64,87,111,"
+  [DIFF] Text mismatch in Q80:
+    Disk: "Directions $(76-80)$ -: Find out the missing term in the given number series. - Q 80. $65,126,217,34"
+    DB  : "Directions (76-80) -: Find out the missing term in the given number series. - Q80. $65,126,217,344,5"
+  [INFO] Paper 10 has 69 differences.
+
+=== Syncing corrections to MongoDB ===
+  Successfully updated 0 questions in DB for Test 4.
+  Successfully updated 0 questions in DB for Test 6.
+
+=== All Tasks Completed Successfully ===
