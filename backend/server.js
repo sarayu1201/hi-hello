@@ -2602,7 +2602,7 @@ const mapTestIdToSubtype = (testId) => {
   }
   if (lower.startsWith("rrb_gd_prelims_test")) {
     const num = lower.replace("rrb_gd_prelims_test", "");
-    return `RRB GD Prelims - Test ${num}`;
+    return `SSC GD Constable Prelims - Test ${num}`;
   }
   if (lower.startsWith("ssc_gd_constable_prelims_test")) {
     const num = lower.replace("ssc_gd_constable_prelims_test", "");
@@ -2660,7 +2660,7 @@ const resolveDbSubType = (testId, subType, examType) => {
   if (normalized.includes("ssccgl") || normalized.includes("sccgl")) {
     return `SSC CGL Prelims - Test ${mockNumber}`;
   }
-  if (normalized.includes("sscgd") || normalized.includes("scgd")) {
+  if (normalized.includes("sscgd") || normalized.includes("scgd") || normalized.includes("rrbgd") || normalized.includes("rrbgroupd")) {
     return `SSC GD Constable Prelims - Test ${mockNumber}`;
   }
   if ((normalized.includes("sscchsl") || normalized.includes("sschsl")) && (normalized.includes("tier2") || normalized.includes("mains"))) {
@@ -2707,7 +2707,16 @@ const resolveDbCourse = (subType) => {
   if (lower.includes("ssc chsl") || lower.includes("ssc_chsl")) {
     return "SSC CHSL";
   }
-  if (lower.includes("ssc gd") || lower.includes("ssc_gd") || lower.includes("sc_gd") || lower.includes("sc gd")) {
+  if (
+    lower.includes("ssc gd") || 
+    lower.includes("ssc_gd") || 
+    lower.includes("sc_gd") || 
+    lower.includes("sc gd") ||
+    lower.includes("rrb gd") ||
+    lower.includes("rrb_gd") ||
+    lower.includes("rrb group d") ||
+    lower.includes("rrb_group_d")
+  ) {
     return "sc_gd";
   }
   if (lower.includes("rrb ntpc cbt 1") || lower.includes("rrb_ntpc_cbt_1") || lower.includes("rrb_ntpc_cbt1")) {
@@ -2784,6 +2793,10 @@ const getMockEligibleQuestions = async (exam_type, sub_type, sectionName = null)
     } else if (etLower.includes("bank") || etLower.includes("ibps") || etLower.includes("sbi")) {
       mappedExamType = "Banking";
     }
+  }
+
+  if (resolvedCourse === "sc_gd") {
+    mappedExamType = "SSC";
   }
 
   if (mappedExamType) {
