@@ -2021,7 +2021,7 @@
     "correct_answer": "A",
     "correct_option": "A",
     "correct_letter": "A",
-    "explanation": "Information given: The ratio of length to breadth of a rectangle is 4 : 3 Area of the rectangle is 300 cm square The breadth of rectangle decreased by 20% and the length is increased by 10%, Formula Used: Area of the rectangle = Length × breadth Perimeter of the rectangle = 2 (Length + breadth) Explanation: Let length and breadth of the rectangle is 4x cm & 3x cm respectively 12x2 = 300 x2 = 25 x = 5 Length of the rectangle = 5 × 4 = 20 cm Breadth of the rectangle = 5 × 3=15 cm After breadth decreased by 20%, new breadth of the rectangle = 15×4/5 = 12 cm After length increased by 10%, new length of the rectangle = 20 ×11/10 = 22 cm Required perimeter = 2 × (22+12) = 68 cm 41 | www. | www. | www.",
+    "explanation": "Information given: The ratio of length to breadth of a rectangle is 4 : 3 Area of the rectangle is 300 cm square The breadth of rectangle decreased by 20% and the length is increased by 10%, Formula Used: Area of the rectangle = Length × breadth Perimeter of the rectangle = 2 (Length + breadth) Explanation: Let length and breadth of the rectangle is 4x cm & 3x cm respectively 12x^2 = 300 x^2 = 25 x = 5 Length of the rectangle = 5 × 4 = 20 cm Breadth of the rectangle = 5 × 3=15 cm After breadth decreased by 20%, new breadth of the rectangle = 15×4/5 = 12 cm After length increased by 10%, new length of the rectangle = 20 ×11/10 = 22 cm Required perimeter = 2 × (22+12) = 68 cm 41 | www. | www. | www.",
     "question_image": "",
     "option_images": [
       "",
@@ -2032,7 +2032,8 @@
     ],
     "direction": "",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_explanation": "Information given: The ratio of length to breadth of a rectangle is 4 : 3 Area of the rectangle is 300 cm square The breadth of rectangle decreased by 20% and the length is increased by 10%, Formula Used: Area of the rectangle = Length × breadth Perimeter of the rectangle = 2 (Length + breadth) Explanation: Let length and breadth of the rectangle is 4x cm & 3x cm respectively 12x^2 = 300 x^2 = 25 x = 5 Length of the rectangle = 5 × 4 = 20 cm Breadth of the rectangle = 5 × 3=15 cm After breadth decreased by 20%, new breadth of the rectangle = 15×4/5 = 12 cm After length increased by 10%, new length of the rectangle = 20 ×11/10 = 22 cm Required perimeter = 2 × (22+12) = 68 cm 41 | www. | www. | www."
   },
   {
     "id": 38,
@@ -4481,7 +4482,7 @@
       },
       {
         "id": "C",
-        "text": "Only 3 and"
+        "text": "Only^3 and"
       },
       {
         "id": "D",

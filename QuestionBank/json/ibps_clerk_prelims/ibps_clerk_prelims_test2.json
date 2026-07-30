@@ -1938,8 +1938,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "32.5 × 36 + 2352 ÷ 8 = (46)2 – ?",
-    "q": "32.5 × 36 + 2352 ÷ 8 = (46)2 – ?",
+    "question": "32.5 × 36 + 2352 ÷ 8 = (46)^2 – ?",
+    "q": "32.5 × 36 + 2352 ÷ 8 = (46)^2 – ?",
     "options": [
       {
         "id": "A",
@@ -1966,7 +1966,7 @@
     "correct_answer": "E",
     "correct_option": "E",
     "correct_letter": "E",
-    "explanation": "32.5 × 36 + 2352 ÷ 8 = (46)2 – ? 1170 + 294 = 2116 – ? + ? = 2116 – 1464 = 652",
+    "explanation": "32.5 × 36 + 2352 ÷ 8 = (46)^2 – ? 1170 + 294 = 2116 – ? + ? = 2116 – 1464 = 652",
     "question_image": "",
     "option_images": [
       "",
@@ -1977,7 +1977,9 @@
     ],
     "direction": "What will come in the place of question mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "32.5 × 36 + 2352 ÷ 8 = (46)^2 – ?",
+    "raw_explanation": "32.5 × 36 + 2352 ÷ 8 = (46)^2 – ? 1170 + 294 = 2116 – ? + ? = 2116 – 1464 = 652"
   },
   {
     "id": 37,
@@ -2763,8 +2765,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. 4x2 + 6x + 2 = 0 II. 4y2 + 10y + 6 = 0",
-    "q": "I. 4x2 + 6x + 2 = 0 II. 4y2 + 10y + 6 = 0",
+    "question": "I. 4x^2 + 6x + 2 = 0 II. 4y^2 + 10y + 6 = 0",
+    "q": "I. 4x^2 + 6x + 2 = 0 II. 4y^2 + 10y + 6 = 0",
     "options": [
       {
         "id": "A",
@@ -2791,7 +2793,7 @@
     "correct_answer": "D",
     "correct_option": "D",
     "correct_letter": "D",
-    "explanation": "I. 4x2 – 6x + 2 = 0 4x 2 – 4x – 2x + 2 = 0 4x (x – 1) – 2 (x – 1) = 0 (4x – 2) (x – 1) = 0/1 ,1/2 x = II. 4y2 – 10y + 6 = 0 4y2 – 4 y – 6y + 6 = 0 4y (y – 1) – 6 (y – 1) = 0 = > (4y – 6) (y – 1) = 0/3 ,1/2 y = x ≤ y",
+    "explanation": "I. 4x^2 – 6x + 2 = 0 4x^2 – 4x – 2x + 2 = 0 4x (x – 1) – 2 (x – 1) = 0 (4x – 2) (x – 1) = 0/1 ,1/2 x = II. 4y^2 – 10y + 6 = 0 4y^2 – 4 y – 6y + 6 = 0 4y (y – 1) – 6 (y – 1) = 0 = > (4y – 6) (y – 1) = 0/3 ,1/2 y = x ≤ y",
     "question_image": "",
     "option_images": [
       "",
@@ -2802,7 +2804,9 @@
     ],
     "direction": "In the following questions, there are two equations in x and y. You have to solve both the equations and give answers.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "I. 4x^2 + 6x + 2 = 0 II. 4y^2 + 10y + 6 = 0",
+    "raw_explanation": "I. 4x^2 – 6x + 2 = 0 4x^2 – 4x – 2x + 2 = 0 4x (x – 1) – 2 (x – 1) = 0 (4x – 2) (x – 1) = 0/1 ,1/2 x = II. 4y^2 – 10y + 6 = 0 4y^2 – 4 y – 6y + 6 = 0 4y (y – 1) – 6 (y – 1) = 0 = > (4y – 6) (y – 1) = 0/3 ,1/2 y = x ≤ y"
   },
   {
     "id": 52,
@@ -2818,8 +2822,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. 2x2 + 42x + 220 = 0 II. 2y2 + 34y + 144 = 0",
-    "q": "I. 2x2 + 42x + 220 = 0 II. 2y2 + 34y + 144 = 0",
+    "question": "I. 2x^2 + 42x + 220 = 0 II. 2y^2 + 34y + 144 = 0",
+    "q": "I. 2x^2 + 42x + 220 = 0 II. 2y^2 + 34y + 144 = 0",
     "options": [
       {
         "id": "A",
@@ -2846,7 +2850,7 @@
     "correct_answer": "B",
     "correct_option": "B",
     "correct_letter": "B",
-    "explanation": "I. 2x2 + 42x + 220 = 0 2x2 + 20x + 22x 220 = 0 2x (x + 10) + 22 (x + 10) = 0 > (2x + 22) (x + 10) = 0 x = – 10, – 11 II. 2y2 + 34y + 144 = 0 > 2y2 + 18y + 16y + 144 = 0 2y (y + 9)+ 16 (y + 9) ⇒ (2y +16) (y + 9) y = – 9, – 8 x < y",
+    "explanation": "I. 2x^2 + 42x + 220 = 0 2x^2 + 20x + 22x 220 = 0 2x (x + 10) + 22 (x + 10) = 0 > (2x + 22) (x + 10) = 0 x = – 10, – 11 II. 2y^2 + 34y + 144 = 0 > 2y^2 + 18y + 16y + 144 = 0 2y (y + 9)+ 16 (y + 9) ⇒ (2y +16) (y + 9) y = – 9, – 8 x < y",
     "question_image": "",
     "option_images": [
       "",
@@ -2857,7 +2861,9 @@
     ],
     "direction": "In the following questions, there are two equations in x and y. You have to solve both the equations and give answers.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "I. 2x^2 + 42x + 220 = 0 II. 2y^2 + 34y + 144 = 0",
+    "raw_explanation": "I. 2x^2 + 42x + 220 = 0 2x^2 + 20x + 22x 220 = 0 2x (x + 10) + 22 (x + 10) = 0 > (2x + 22) (x + 10) = 0 x = – 10, – 11 II. 2y^2 + 34y + 144 = 0 > 2y^2 + 18y + 16y + 144 = 0 2y (y + 9)+ 16 (y + 9) ⇒ (2y +16) (y + 9) y = – 9, – 8 x < y"
   },
   {
     "id": 53,
@@ -2873,8 +2879,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. x2 = 4 II. 2y2 – 12y + 16 = 0",
-    "q": "I. x2 = 4 II. 2y2 – 12y + 16 = 0",
+    "question": "I. x^2 = 4 II. 2y^2 – 12y + 16 = 0",
+    "q": "I. x^2 = 4 II. 2y^2 – 12y + 16 = 0",
     "options": [
       {
         "id": "A",
@@ -2901,7 +2907,7 @@
     "correct_answer": "D",
     "correct_option": "D",
     "correct_letter": "D",
-    "explanation": "I. x2 = 4 x = + 2 II. 2y2 – 12y + 16 = 0 > 2y2 – 4 8y + 16 = 0 2y (y – 2) – 8 (y– 2) = 0 = > (2y – 8) (y – 2) = 0 y = 2, 4 x < y",
+    "explanation": "I. x^2 = 4 x = + 2 II. 2y^2 – 12y + 16 = 0 > 2y^2 – 4 8y + 16 = 0 2y (y – 2) – 8 (y– 2) = 0 = > (2y – 8) (y – 2) = 0 y = 2, 4 x < y",
     "question_image": "",
     "option_images": [
       "",
@@ -2912,7 +2918,9 @@
     ],
     "direction": "In the following questions, there are two equations in x and y. You have to solve both the equations and give answers.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "I. x^2 = 4 II. 2y^2 – 12y + 16 = 0",
+    "raw_explanation": "I. x^2 = 4 x = + 2 II. 2y^2 – 12y + 16 = 0 > 2y^2 – 4 8y + 16 = 0 2y (y – 2) – 8 (y– 2) = 0 = > (2y – 8) (y – 2) = 0 y = 2, 4 x < y"
   },
   {
     "id": 54,
@@ -2928,8 +2936,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. 2x2 + 18x –44 = 0 II. 4y2 – 14y +12 = 0",
-    "q": "I. 2x2 + 18x –44 = 0 II. 4y2 – 14y +12 = 0",
+    "question": "I. 2x^2 + 18x –44 = 0 II. 4y^2 – 14y +12 = 0",
+    "q": "I. 2x^2 + 18x –44 = 0 II. 4y^2 – 14y +12 = 0",
     "options": [
       {
         "id": "A",
@@ -2956,7 +2964,7 @@
     "correct_answer": "E",
     "correct_option": "E",
     "correct_letter": "E",
-    "explanation": "I. 2x2 + 18x – 44 = 0 2x2 + 22x – 4x – 44 = 0 ⇒ 2x (x + 11) – 4 (x + 11) = 0 ⇒ (x +11) (2x – 4 ) = 0 ⇒ x = – 11,2 II. 4y2 – 14y + 12 = 0 ⇒ 4y2 – 8y – 6y + 12 = 0 ⇒ 4y (y – 2) – 6 (y – 2) = 0 ⇒ (y – 2) (4y – 6) = 0 ⇒ y = 2, 3/2 So, no relation can be established.",
+    "explanation": "I. 2x^2 + 18x – 44 = 0 2x^2 + 22x – 4x – 44 = 0 ⇒ 2x (x + 11) – 4 (x + 11) = 0 ⇒ (x +11) (2x – 4 ) = 0 ⇒ x = – 11,2 II. 4y^2 – 14y + 12 = 0 ⇒ 4y^2 – 8y – 6y + 12 = 0 ⇒ 4y (y – 2) – 6 (y – 2) = 0 ⇒ (y – 2) (4y – 6) = 0 ⇒ y = 2, 3/2 So, no relation can be established.",
     "question_image": "",
     "option_images": [
       "",
@@ -2967,7 +2975,9 @@
     ],
     "direction": "In the following questions, there are two equations in x and y. You have to solve both the equations and give answers.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "I. 2x^2 + 18x –44 = 0 II. 4y^2 – 14y +12 = 0",
+    "raw_explanation": "I. 2x^2 + 18x – 44 = 0 2x^2 + 22x – 4x – 44 = 0 ⇒ 2x (x + 11) – 4 (x + 11) = 0 ⇒ (x +11) (2x – 4 ) = 0 ⇒ x = – 11,2 II. 4y^2 – 14y + 12 = 0 ⇒ 4y^2 – 8y – 6y + 12 = 0 ⇒ 4y (y – 2) – 6 (y – 2) = 0 ⇒ (y – 2) (4y – 6) = 0 ⇒ y = 2, 3/2 So, no relation can be established."
   },
   {
     "id": 55,
@@ -2983,8 +2993,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. 12x2 + 10x + 2 = 0 II. 30y2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
-    "q": "I. 12x2 + 10x + 2 = 0 II. 30y2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
+    "question": "I. 12x^2 + 10x + 2 = 0 II. 30y^2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
+    "q": "I. 12x^2 + 10x + 2 = 0 II. 30y^2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
     "options": [
       {
         "id": "A",
@@ -3011,7 +3021,7 @@
     "correct_answer": "E",
     "correct_option": "E",
     "correct_letter": "E",
-    "explanation": "I. 12x2 + 10x + 2 = 0 12x2 + 6x + 4x + 2 = 0 6x (2x + 1) + 2 (2x + 1) = 0 = > (2x + 1) (6x + 2) = 0 x = – 1/1 , 2/3 − II. 30y + 22y + 4 = 0 30y2 + 12y + 10y + 4 = 0 6y (5y + 2) + 2 (5y + 2) = 0 = > (5y + 2) (6y + 2) = 0 2/1 , 5/3 y ∴ = − So, no relation can be established.",
+    "explanation": "I. 12x^2 + 10x + 2 = 0 12x^2 + 6x + 4x + 2 = 0 6x (2x + 1) + 2 (2x + 1) = 0 = > (2x + 1) (6x + 2) = 0 x = – 1/1 , 2/3 − II. 30y + 22y + 4 = 0 30y^2 + 12y + 10y + 4 = 0 6y (5y + 2) + 2 (5y + 2) = 0 = > (5y + 2) (6y + 2) = 0 2/1 , 5/3 y ∴ = − So, no relation can be established.",
     "question_image": "",
     "option_images": [
       "",
@@ -3022,7 +3032,9 @@
     ],
     "direction": "In the following questions, there are two equations in x and y. You have to solve both the equations and give answers.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "I. 12x^2 + 10x + 2 = 0 II. 30y^2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
+    "raw_explanation": "I. 12x^2 + 10x + 2 = 0 12x^2 + 6x + 4x + 2 = 0 6x (2x + 1) + 2 (2x + 1) = 0 = > (2x + 1) (6x + 2) = 0 x = – 1/1 , 2/3 − II. 30y + 22y + 4 = 0 30y^2 + 12y + 10y + 4 = 0 6y (5y + 2) + 2 (5y + 2) = 0 = > (5y + 2) (6y + 2) = 0 2/1 , 5/3 y ∴ = − So, no relation can be established."
   },
   {
     "id": 56,
@@ -5328,7 +5340,8 @@
     ],
     "direction": "Study the following arrangement carefully and answer the questions given below: 2 8 5 2 6 4 5 1 4 9 4 7 3 2 7 2 5 9 3 9 1 8 1 2 5 8 6 3 6 4 2",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "How many 2’s is there in the above arrangement, each of which is immediately preceded by a digit which has a numerical value of more than 5?"
   },
   {
     "id": 98,

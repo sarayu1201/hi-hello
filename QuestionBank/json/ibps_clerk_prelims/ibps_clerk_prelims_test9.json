@@ -2488,8 +2488,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "144-(10800÷36)+?2=100",
-    "q": "144-(10800÷36)+?2=100",
+    "question": "144-(10800÷36)+?^2=100",
+    "q": "144-(10800÷36)+?^2=100",
     "options": [
       {
         "id": "A",
@@ -2516,7 +2516,7 @@
     "correct_answer": "E",
     "correct_option": "E",
     "correct_letter": "E",
-    "explanation": "144-(10800÷36)+ ?2=100 ?2 = 100 – 144 +(10800÷36) ?2 = 256/16 = ?",
+    "explanation": "144-(10800÷36)+ ?^2=100 ?^2 = 100 – 144 +(10800÷36) ?^2 = 256/16 = ?",
     "question_image": "",
     "option_images": [
       "",
@@ -2527,7 +2527,9 @@
     ],
     "direction": "What should come in place of question mark (?) in the following questions?",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "144-(10800÷36)+?^2=100",
+    "raw_explanation": "144-(10800÷36)+ ?^2=100 ?^2 = 100 – 144 +(10800÷36) ?^2 = 256/16 = ?"
   },
   {
     "id": 47,
@@ -2708,8 +2710,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "[(40)2 × 8] ÷ 50 ÷ 16 =?",
-    "q": "[(40)2 × 8] ÷ 50 ÷ 16 =?",
+    "question": "[(40)^2 × 8] ÷ 50 ÷ 16 =?",
+    "q": "[(40)^2 × 8] ÷ 50 ÷ 16 =?",
     "options": [
       {
         "id": "A",
@@ -2747,7 +2749,8 @@
     ],
     "direction": "What should come in place of question mark (?) in the following questions?",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "[(40)^2 × 8] ÷ 50 ÷ 16 =?"
   },
   {
     "id": 51,

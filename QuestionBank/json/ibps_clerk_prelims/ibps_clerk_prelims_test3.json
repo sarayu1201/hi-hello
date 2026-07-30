@@ -1828,8 +1828,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "2 1/4/5 55% of 360 ? 3/6   + × =    ",
-    "q": "2 1/4/5 55% of 360 ? 3/6   + × =    ",
+    "question": "2 1/4/5 55% of 360 ?^3/6   + × =    ",
+    "q": "2 1/4/5 55% of 360 ?^3/6   + × =    ",
     "options": [
       {
         "id": "A",
@@ -1867,7 +1867,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "2 1/4/5 55% of 360 ?^3/6   + × =    "
   },
   {
     "id": 35,
@@ -2021,7 +2022,7 @@
     "correct_answer": "E",
     "correct_option": "E",
     "correct_letter": "E",
-    "explanation": "600 + 10 + 15 = ?2 ? = 25",
+    "explanation": "600 + 10 + 15 = ?^2 ? = 25",
     "question_image": "",
     "option_images": [
       "",
@@ -2032,7 +2033,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_explanation": "600 + 10 + 15 = ?^2 ? = 25"
   },
   {
     "id": 38,
@@ -2131,7 +2133,7 @@
     "correct_answer": "D",
     "correct_option": "D",
     "correct_letter": "D",
-    "explanation": "5 + ?3 = 13 ?3 = 8 ? = 2",
+    "explanation": "5 + ?^3 = 13 ?^3 = 8 ? = 2",
     "question_image": "",
     "option_images": [
       "",
@@ -2142,7 +2144,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_explanation": "5 + ?^3 = 13 ?^3 = 8 ? = 2"
   },
   {
     "id": 40,
@@ -2362,7 +2365,8 @@
     ],
     "direction": "",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "A man starts from point P to reach point Q, which is 40 kms apart. If speed of man is 10 kmph, then find what percent should he increase his speed in order to shorten the journey time by 3/5 th ?"
   },
   {
     "id": 44,

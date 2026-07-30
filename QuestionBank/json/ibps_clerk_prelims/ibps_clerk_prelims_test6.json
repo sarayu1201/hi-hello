@@ -2928,8 +2928,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "55% of 1400 + ?2 +282= (12)3",
-    "q": "55% of 1400 + ?2 +282= (12)3",
+    "question": "55% of 1400 + ?^2 +282= (12)^3",
+    "q": "55% of 1400 + ?^2 +282= (12)^3",
     "options": [
       {
         "id": "A",
@@ -2956,7 +2956,7 @@
     "correct_answer": "C",
     "correct_option": "C",
     "correct_letter": "C",
-    "explanation": "55/100 × 1400 + ?2 = 1728-282 ?2 = 676 ? = 26",
+    "explanation": "55/100 × 1400 + ?^2 = 1728-282 ?^2 = 676 ? = 26",
     "question_image": "",
     "option_images": [
       "",
@@ -2967,7 +2967,9 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "55% of 1400 + ?^2 +282= (12)^3",
+    "raw_explanation": "55/100 × 1400 + ?^2 = 1728-282 ?^2 = 676 ? = 26"
   },
   {
     "id": 55,
@@ -3038,8 +3040,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "?2 + 224 – 96 = 85% 𝑜𝑓 280 + 34",
-    "q": "?2 + 224 – 96 = 85% 𝑜𝑓 280 + 34",
+    "question": "?^2 + 224 – 96 = 85% 𝑜𝑓 280 + 34",
+    "q": "?^2 + 224 – 96 = 85% 𝑜𝑓 280 + 34",
     "options": [
       {
         "id": "A",
@@ -3066,7 +3068,7 @@
     "correct_answer": "B",
     "correct_option": "B",
     "correct_letter": "B",
-    "explanation": "?2 = 85/100 × 280 + 34 −224 + 96 ?2 = 144 ? = 12",
+    "explanation": "?^2 = 85/100 × 280 + 34 −224 + 96 ?^2 = 144 ? = 12",
     "question_image": "",
     "option_images": [
       "",
@@ -3077,7 +3079,9 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "?^2 + 224 – 96 = 85% 𝑜𝑓 280 + 34",
+    "raw_explanation": "?^2 = 85/100 × 280 + 34 −224 + 96 ?^2 = 144 ? = 12"
   },
   {
     "id": 57,
@@ -3093,8 +3097,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "√1521 + (21)2 −18 × 5 = 5 × ?",
-    "q": "√1521 + (21)2 −18 × 5 = 5 × ?",
+    "question": "√1521 + (21)^2 −18 × 5 = 5 × ?",
+    "q": "√1521 + (21)^2 −18 × 5 = 5 × ?",
     "options": [
       {
         "id": "A",
@@ -3132,7 +3136,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "√1521 + (21)^2 −18 × 5 = 5 × ?"
   },
   {
     "id": 58,
@@ -3148,8 +3153,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "? × 7 + 337 = (5)3 + 436",
-    "q": "? × 7 + 337 = (5)3 + 436",
+    "question": "? × 7 + 337 = (5)^3 + 436",
+    "q": "? × 7 + 337 = (5)^3 + 436",
     "options": [
       {
         "id": "A",
@@ -3187,7 +3192,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "? × 7 + 337 = (5)^3 + 436"
   },
   {
     "id": 59,
@@ -3203,8 +3209,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "?÷ 6 + (12)2 − √2304 = (14)2",
-    "q": "?÷ 6 + (12)2 − √2304 = (14)2",
+    "question": "?÷ 6 + (12)^2 − √2304 = (14)^2",
+    "q": "?÷ 6 + (12)^2 − √2304 = (14)^2",
     "options": [
       {
         "id": "A",
@@ -3242,7 +3248,8 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "?÷ 6 + (12)^2 − √2304 = (14)^2"
   },
   {
     "id": 60,
@@ -3368,8 +3375,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "25×36/92×42 + 7 = (? )2",
-    "q": "25×36/92×42 + 7 = (? )2",
+    "question": "25×36/92×42 + 7 = (?)^2",
+    "q": "25×36/92×42 + 7 = (?)^2",
     "options": [
       {
         "id": "A",
@@ -3396,7 +3403,7 @@
     "correct_answer": "B",
     "correct_option": "B",
     "correct_letter": "B",
-    "explanation": "32×729/81×16 + 7 = (? )2 (?)² = 18 + 7 = 25 ? = 5",
+    "explanation": "32×729/81×16 + 7 = (?)^2 (?)² = 18 + 7 = 25 ? = 5",
     "question_image": "",
     "option_images": [
       "",
@@ -3407,7 +3414,9 @@
     ],
     "direction": "What will come in the place of question (?) mark in following questions.",
     "status": "ok",
-    "is_mock_eligible": true
+    "is_mock_eligible": true,
+    "raw_question": "25×36/92×42 + 7 = (?)^2",
+    "raw_explanation": "32×729/81×16 + 7 = (?)^2 (?)² = 18 + 7 = 25 ? = 5"
   },
   {
     "id": 63,
