@@ -138,6 +138,10 @@ def map_filename_to_subtype(filename):
 
 
 def get_standardized_subject(exam_type, sub_type_val, q_id, original_subject):
+    if "rrb_groupd" in str(exam_type).lower() or "rrb gd" in str(sub_type_val).lower():
+        if original_subject:
+            return str(original_subject).strip()
+            
     sub_lower = str(sub_type_val).lower()
     if "sbi po prelims" in sub_lower or "sbipo" in sub_lower:
         try:
