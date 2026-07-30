@@ -2765,7 +2765,28 @@
     "category": "Bank & Insurance",
     "question": "I. 4x2 + 6x + 2 = 0 II. 4y2 + 10y + 6 = 0",
     "q": "I. 4x2 + 6x + 2 = 0 II. 4y2 + 10y + 6 = 0",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If x > y"
+      },
+      {
+        "id": "B",
+        "text": "If x < y"
+      },
+      {
+        "id": "C",
+        "text": "If x ≥ y"
+      },
+      {
+        "id": "D",
+        "text": "If x ≤ y"
+      },
+      {
+        "id": "E",
+        "text": "If x = y or the relationship cannot be established"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
@@ -2799,7 +2820,28 @@
     "category": "Bank & Insurance",
     "question": "I. 2x2 + 42x + 220 = 0 II. 2y2 + 34y + 144 = 0",
     "q": "I. 2x2 + 42x + 220 = 0 II. 2y2 + 34y + 144 = 0",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If x > y"
+      },
+      {
+        "id": "B",
+        "text": "If x < y"
+      },
+      {
+        "id": "C",
+        "text": "If x ≥ y"
+      },
+      {
+        "id": "D",
+        "text": "If x ≤ y"
+      },
+      {
+        "id": "E",
+        "text": "If x = y or the relationship cannot be established"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",
@@ -2833,7 +2875,28 @@
     "category": "Bank & Insurance",
     "question": "I. x2 = 4 II. 2y2 – 12y + 16 = 0",
     "q": "I. x2 = 4 II. 2y2 – 12y + 16 = 0",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If x > y"
+      },
+      {
+        "id": "B",
+        "text": "If x < y"
+      },
+      {
+        "id": "C",
+        "text": "If x ≥ y"
+      },
+      {
+        "id": "D",
+        "text": "If x ≤ y"
+      },
+      {
+        "id": "E",
+        "text": "If x = y or the relationship cannot be established"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
@@ -2867,7 +2930,28 @@
     "category": "Bank & Insurance",
     "question": "I. 2x2 + 18x –44 = 0 II. 4y2 – 14y +12 = 0",
     "q": "I. 2x2 + 18x –44 = 0 II. 4y2 – 14y +12 = 0",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If x > y"
+      },
+      {
+        "id": "B",
+        "text": "If x < y"
+      },
+      {
+        "id": "C",
+        "text": "If x ≥ y"
+      },
+      {
+        "id": "D",
+        "text": "If x ≤ y"
+      },
+      {
+        "id": "E",
+        "text": "If x = y or the relationship cannot be established"
+      }
+    ],
     "correctAnswer": "E",
     "correct_answer": "E",
     "correct_option": "E",
@@ -2901,7 +2985,28 @@
     "category": "Bank & Insurance",
     "question": "I. 12x2 + 10x + 2 = 0 II. 30y2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
     "q": "I. 12x2 + 10x + 2 = 0 II. 30y2 + 22y + 4 = 0/108 All in One for IBPS Clerk Exam",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If x > y"
+      },
+      {
+        "id": "B",
+        "text": "If x < y"
+      },
+      {
+        "id": "C",
+        "text": "If x ≥ y"
+      },
+      {
+        "id": "D",
+        "text": "If x ≤ y"
+      },
+      {
+        "id": "E",
+        "text": "If x = y or the relationship cannot be established"
+      }
+    ],
     "correctAnswer": "E",
     "correct_answer": "E",
     "correct_option": "E",
@@ -4090,7 +4195,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: S > R ≥ T = P > W ≤ Q Conclusions: I. P < S II. Q ≥ T",
     "q": "Statements: S > R ≥ T = P > W ≤ Q Conclusions: I. P < S II. Q ≥ T",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",
@@ -4124,7 +4250,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: D = G ≥ H ≥ E = C ≤ F ≤ B Conclusions: I. E < G II. C = G",
     "q": "Statements: D = G ≥ H ≥ E = C ≤ F ≤ B Conclusions: I. E < G II. C = G",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "C",
     "correct_answer": "C",
     "correct_option": "C",
@@ -4158,7 +4305,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: K > I ≥ G > F ≤ L < M Conclusions: I. K > L II. M > F",
     "q": "Statements: K > I ≥ G > F ≤ L < M Conclusions: I. K > L II. M > F",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",
@@ -4192,7 +4360,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: K < G ≤ D < C > H ≤ E Conclusions: I. C > G II. K < D",
     "q": "Statements: K < G ≤ D < C > H ≤ E Conclusions: I. C > G II. K < D",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "E",
     "correct_answer": "E",
     "correct_option": "E",

@@ -3865,7 +3865,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Q≥W>Y=E≤U<P>S≤T Conclusions I: Y<P II: W>S 16 | | |",
     "q": "Statements: Q≥W>Y=E≤U<P>S≤T Conclusions I: Y<P II: W>S 16 | | |",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",
@@ -3899,7 +3920,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: M≤B>H=A≥D<L=C Conclusions I: H>L II: A≤C",
     "q": "Statements: M≤B>H=A≥D<L=C Conclusions I: H>L II: A≤C",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "C",
     "correct_answer": "C",
     "correct_option": "C",
@@ -3933,7 +3975,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: K>M≤Z<E≥V=X<C Conclusions I: E≥C II: V<M Directions (74-78): Study the following information carefully and answer the questions given below: Eight persons A, B, C, D, E, F, G and H sit around a square table such that four persons sit at corner and the remaining four sit at the middle of the sides of the table but not necessarily in the same order. The persons sit at the corner face towards the center of the table and the persons sit at the middle of the side face away from the center of the table. E sits second to the right of B. Two persons sit between B and H. F sits to the immediate right of H. The number of persons sits between H and D is same as the number of persons sits between D and G. D sits at the corner of the table. A sits adjacent to D.",
     "q": "Statements: K>M≤Z<E≥V=X<C Conclusions I: E≥C II: V<M Directions (74-78): Study the following information carefully and answer the questions given below: Eight persons A, B, C, D, E, F, G and H sit around a square table such that four persons sit at corner and the remaining four sit at the middle of the sides of the table but not necessarily in the same order. The persons sit at the corner face towards the center of the table and the persons sit at the middle of the side face away from the center of the table. E sits second to the right of B. Two persons sit between B and H. F sits to the immediate right of H. The number of persons sits between H and D is same as the number of persons sits between D and G. D sits at the corner of the table. A sits adjacent to D.",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
@@ -4792,7 +4855,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Some juice are mango. Only a few mango are orange. Conclusions: I. Some Juice are not mango II. All Orange being mango is a possibility",
     "q": "Statements: Some juice are mango. Only a few mango are orange. Conclusions: I. Some Juice are not mango II. All Orange being mango is a possibility",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",
@@ -4826,7 +4910,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: No Bell is Clock. All Bell is Ring. Conclusions: I. Some Clock is Ring II. No Ring is Clock",
     "q": "Statements: No Bell is Clock. All Bell is Ring. Conclusions: I. Some Clock is Ring II. No Ring is Clock",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "C",
     "correct_answer": "C",
     "correct_option": "C",
@@ -4860,7 +4965,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Only Car is Train. Some Ship are Car Conclusions: I. Some Ship are not Train II. All Car being Ship is a possibility 20 | | | Direction (92-96): Study the following information carefully and answer the questions given below: Seven persons H, J, K, L, M, N and O buy a product on different day one after another but not necessarily in the same order. One person buys product between H and O. Two persons buy product between O and N. N buys product neither just before nor just after H. K buys product just before J and after O. L buys product two days before M.",
     "q": "Statements: Only Car is Train. Some Ship are Car Conclusions: I. Some Ship are not Train II. All Car being Ship is a possibility 20 | | | Direction (92-96): Study the following information carefully and answer the questions given below: Seven persons H, J, K, L, M, N and O buy a product on different day one after another but not necessarily in the same order. One person buys product between H and O. Two persons buy product between O and N. N buys product neither just before nor just after H. K buys product just before J and after O. L buys product two days before M.",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",

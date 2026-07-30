@@ -5240,7 +5240,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Only few Pencils are Pens. Only few pens are Erasers. No Erasers are Gel pens Conclusion: I.Some Pens are not Gel pens II. All pencils can be Pens",
     "q": "Statements: Only few Pencils are Pens. Only few pens are Erasers. No Erasers are Gel pens Conclusion: I.Some Pens are not Gel pens II. All pencils can be Pens",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",
@@ -5274,7 +5295,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Some PCs are Computer All computer are Tablets No Pcs are Laptops Conclusions: I. All Tablets are Laptops is a possibility II. Some computer can be Laptops",
     "q": "Statements: Some PCs are Computer All computer are Tablets No Pcs are Laptops Conclusions: I. All Tablets are Laptops is a possibility II. Some computer can be Laptops",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",

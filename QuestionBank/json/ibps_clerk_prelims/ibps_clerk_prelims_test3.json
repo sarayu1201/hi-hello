@@ -4525,7 +4525,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: L ≥ K < H=O; M > J ≥ H Conclusions I. M > K II. M < L",
     "q": "Statements: L ≥ K < H=O; M > J ≥ H Conclusions I. M > K II. M < L",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",
@@ -4559,7 +4580,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: K ≥ N ≥ U > B = G Conclusions I. N > G II. N = G",
     "q": "Statements: K ≥ N ≥ U > B = G Conclusions I. N > G II. N = G",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "A",
     "correct_answer": "A",
     "correct_option": "A",
@@ -4593,7 +4635,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: T > L ≤ J > V ≥ R ≥ S = F Conclusions I. L > F II. J > S",
     "q": "Statements: T > L ≤ J > V ≥ R ≥ S = F Conclusions I. L > F II. J > S",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",
@@ -4627,7 +4690,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Y = E > K > X = B ≤ S ≥ C Conclusions I. C < K II. Y ≤ S",
     "q": "Statements: Y = E > K > X = B ≤ S ≥ C Conclusions I. C < K II. Y ≤ S",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
@@ -4661,7 +4745,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: O ≥ G > H ≥ I; M > H ≥ T Conclusions I. O > T II. M > I",
     "q": "Statements: O ≥ G > H ≥ I; M > H ≥ T Conclusions I. O > T II. M > I",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I is true"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II is true"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II is true"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II is true"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II are true"
+      }
+    ],
     "correctAnswer": "E",
     "correct_answer": "E",
     "correct_option": "E",
@@ -5025,7 +5130,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: All Oranges are Apples. All Apples are Mangoes. Conclusion I: All Mangoes are Apples. II: Some Apples are Oranges.",
     "q": "Statements: All Oranges are Apples. All Apples are Mangoes. Conclusion I: All Mangoes are Apples. II: Some Apples are Oranges.",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "B",
     "correct_answer": "B",
     "correct_option": "B",
@@ -5059,7 +5185,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: All Buses are Vehicles. No Vehicle is Truck. Conclusion I: All Trucks are Vehicles. II: Some Trucks being Bus is a probability.",
     "q": "Statements: All Buses are Vehicles. No Vehicle is Truck. Conclusion I: All Trucks are Vehicles. II: Some Trucks being Bus is a probability.",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
@@ -5093,7 +5240,28 @@
     "category": "Bank & Insurance",
     "question": "Statements: Only a few Rabbits are Cats. Only a few Cats are Goats. Conclusion I: Some Goat is Rabbit. II: All Rabbit being Cats is a possibility. Directions (97-99): Study the information carefully and answer the questions given below. A certain number of persons are sitting in a row facing north. M sits fourth to the left of O and only two persons sit left of M. Only two persons sit between M and Q. R sits second to the left of Q. S sits fourth to the right of O. Not more than five persons sit between P and Q. P sits to the right of S. Eight persons sit between P and G, who sits at one of the extreme ends.",
     "q": "Statements: Only a few Rabbits are Cats. Only a few Cats are Goats. Conclusion I: Some Goat is Rabbit. II: All Rabbit being Cats is a possibility. Directions (97-99): Study the information carefully and answer the questions given below. A certain number of persons are sitting in a row facing north. M sits fourth to the left of O and only two persons sit left of M. Only two persons sit between M and Q. R sits second to the left of Q. S sits fourth to the right of O. Not more than five persons sit between P and Q. P sits to the right of S. Eight persons sit between P and G, who sits at one of the extreme ends.",
-    "options": [],
+    "options": [
+      {
+        "id": "A",
+        "text": "If only conclusion I follows"
+      },
+      {
+        "id": "B",
+        "text": "If only conclusion II follows"
+      },
+      {
+        "id": "C",
+        "text": "If either conclusion I or II follows"
+      },
+      {
+        "id": "D",
+        "text": "If neither conclusion I nor II follows"
+      },
+      {
+        "id": "E",
+        "text": "If both conclusions I and II follow"
+      }
+    ],
     "correctAnswer": "D",
     "correct_answer": "D",
     "correct_option": "D",
