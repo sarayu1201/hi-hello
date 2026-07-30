@@ -14,7 +14,7 @@ try:
     
     # Delete existing questions for IBPS Clerk Prelims
     print("Deleting existing IBPS Clerk Prelims questions from DB...")
-    res = questions_col.delete_many({"sub_type": {"$regex": "^IBPS Clerk Prelims - Test"}})
+    res = questions_col.delete_many({"course": "IBPS Clerk Prelims"})
     print(f"Deleted {res.deleted_count} questions.")
     
     # Read and prepare new questions
