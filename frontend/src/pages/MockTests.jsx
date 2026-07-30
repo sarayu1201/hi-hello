@@ -347,7 +347,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
       const isRrbNtpc = cleanId.includes('rrb_ntpc') || cleanId.includes('ntpc');
       const isRrbClerk = cleanId.includes('ibps_rrb_clerk') || cleanId.includes('rrb_clerk');
       const isSscGd = cleanId.includes('ssc_gd') || cleanId.includes('sc_gd');
-      const isRrbGd = cleanId.includes('rrb_gd');
+      const isRrbGd = cleanId.includes('rrb_gd') || cleanId.includes('rrb_group_d') || cleanId.includes('rrb_groupd');
       const isSbiPo = cleanId.includes('sbi_po');
       const isIbpsPo = cleanId.includes('ibps_po') || cleanId.includes('ibpspo');
       const isSbiClerk = cleanId.includes('sbi_clerk');
@@ -417,7 +417,7 @@ export default function MockTests({ user, setUser, requestAuth, onAddAttempt, na
       });
 
       // 2. Mains Series (CBT 2 for RRB NTPC, Skip for RRB GD & SSC GD)
-      if (cleanId !== 'rrb_gd' && cleanId !== 'ssc_gd' && cleanId !== 'ssc_gd_constable') {
+      if (cleanId !== 'rrb_gd' && cleanId !== 'rrb_group_d' && cleanId !== 'rrb_groupd' && cleanId !== 'ssc_gd' && cleanId !== 'ssc_gd_constable') {
         series.push({
           id: `${cleanId}_mains`,
           title: isRrbNtpc ? `RRB NTPC CBT 2 Mock Tests` : `${course.title} Mains Mock Tests`,
