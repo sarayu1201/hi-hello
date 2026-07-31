@@ -5473,10 +5473,68 @@ function cleanOptionTextJs(text, index) {
   return textStr;
 }
 
+// Admin API: Get distinct papers for a course
+app.get("/api/admin/papers", verifyAdmin, async (req, res) => {
+  try {
+    const { course } = req.query;
+    if (!course) return res.status(400).json({ error: "Course is required" });
+    const papers = await Question.distinct("paper_name", { course });
+    res.json({ success: true, papers: papers.filter(Boolean) });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin API: Get distinct sections (subjects) for a course and paper
+app.get("/api/admin/sections", verifyAdmin, async (req, res) => {
+  try {
+    const { course, paper } = req.query;
+    if (!course || !paper) return res.status(400).json({ error: "Course and paper are required" });
+    const sections = await Question.distinct("subject", { course, paper_name: paper });
+    res.json({ success: true, sections: sections.filter(Boolean) });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin API: Get list of questions (IDs and numbers) for a course, paper, and section
+app.get("/api/admin/questions-list", verifyAdmin, async (req, res) => {
+  try {
+    const { course, paper, section } = req.query;
+    if (!course || !paper || !section) {
+      return res.status(400).json({ error: "Course, paper, and section are required" });
+    }
+    const questions = await Question.find(
+      { course, paper_name: paper, subject: section },
+      { unique_id: 1, display_question_number: 1, question_number: 1 }
+    ).sort({ display_question_number: 1, question_number: 1 });
+    res.json({ success: true, questions });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Admin API: Get a single question by its unique_id
+app.get("/api/admin/questions/:unique_id", verifyAdmin, async (req, res) => {
+  try {
+    const { unique_id } = req.params;
+    const question = await Question.findOne({ unique_id }).lean();
+    if (!question) {
+      return res.status(404).json({ error: "Question not found with unique_id: " + unique_id });
+    }
+    res.json({ success: true, question });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 // Admin API: Update a question
 app.put("/api/admin/questions/:unique_id", verifyAdmin, async (req, res) => {
   const { unique_id } = req.params;
-  const { question, options, correctOption, correctAnswer, explanation, difficulty } = req.body;
+  const { 
+    question, options, correctOption, correctAnswer, explanation, difficulty,
+    course, paper_name, subject, display_question_number, direction, question_image, option_images
+  } = req.body;
   
   try {
     const updateFields = { updated_at: new Date() };
@@ -5516,6 +5574,21 @@ app.put("/api/admin/questions/:unique_id", verifyAdmin, async (req, res) => {
       updateFields.explanation = toLatexJs(explanation);
     }
     if (difficulty !== undefined) updateFields.difficulty = difficulty;
+    
+    // Additional editable fields for administration panel
+    if (course !== undefined) updateFields.course = course;
+    if (paper_name !== undefined) updateFields.paper_name = paper_name;
+    if (subject !== undefined) updateFields.subject = subject;
+    if (display_question_number !== undefined) {
+      updateFields.display_question_number = Number(display_question_number);
+      updateFields.question_number = Number(display_question_number); // compatibility
+    }
+    if (direction !== undefined) {
+      updateFields.raw_direction = direction;
+      updateFields.direction = toLatexJs(direction);
+    }
+    if (question_image !== undefined) updateFields.question_image = question_image;
+    if (option_images !== undefined) updateFields.option_images = option_images;
     
     const updatedQ = await Question.findOneAndUpdate(
       { unique_id },

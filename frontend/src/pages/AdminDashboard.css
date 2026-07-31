@@ -2162,3 +2162,277 @@ input:checked + .slider:before {
         align-items: flex-start;
     }
 }
+
+/* Question Editor Tab Styles */
+.question-editor-tab {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.editor-selection-card {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+}
+
+.dark-theme .editor-selection-card {
+    background: #111827;
+    border-color: rgba(255, 255, 255, 0.06);
+}
+
+.editor-selection-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 20px;
+    align-items: flex-end;
+}
+
+.editor-search-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    border-top: 1px dashed rgba(0, 0, 0, 0.08);
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.dark-theme .editor-search-row {
+    border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+.editor-layout-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 24px;
+    align-items: start;
+}
+
+@media (max-width: 1024px) {
+    .editor-layout-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.editor-form-card, .editor-preview-card {
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+}
+
+.dark-theme .editor-form-card, .dark-theme .editor-preview-card {
+    background: #111827;
+    border-color: rgba(255, 255, 255, 0.06);
+}
+
+.editor-form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.editor-form-group.full-width {
+    grid-column: span 2;
+}
+
+@media (max-width: 640px) {
+    .editor-form-grid {
+        grid-template-columns: 1fr;
+    }
+    .editor-form-group.full-width {
+        grid-column: span 1;
+    }
+}
+
+.editor-form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.editor-form-group label {
+    font-size: 13px;
+    font-weight: 700;
+    color: #4b5563;
+}
+
+.dark-theme .editor-form-group label {
+    color: #d1d5db;
+}
+
+.editor-input, .editor-select, .editor-textarea {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1.5px solid rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    background: #f9fafb;
+    color: #1f2937;
+    font-family: inherit;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+.dark-theme .editor-input, .dark-theme .editor-select, .dark-theme .editor-textarea {
+    background: #1f2937;
+    border-color: rgba(255, 255, 255, 0.08);
+    color: #f3f4f6;
+}
+
+.editor-input:focus, .editor-select:focus, .editor-textarea:focus {
+    outline: none;
+    border-color: #ef4444;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.1);
+}
+
+.dark-theme .editor-input:focus, .dark-theme .editor-select:focus, .dark-theme .editor-textarea:focus {
+    background: #111827;
+}
+
+.options-editor-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.option-edit-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.option-letter-lbl {
+    font-weight: 800;
+    font-size: 15px;
+    color: #ef4444;
+    width: 24px;
+    text-align: center;
+}
+
+.editor-action-buttons {
+    display: flex;
+    gap: 12px;
+    margin-top: 24px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    padding-top: 20px;
+}
+
+.dark-theme .editor-action-buttons {
+    border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+.editor-btn-save {
+    background: #ef4444;
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s ease;
+}
+
+.editor-btn-save:hover:not(:disabled) {
+    opacity: 0.95;
+    transform: translateY(-1px);
+}
+
+.editor-btn-save:disabled {
+    background: #9ca3af;
+    cursor: not-allowed;
+}
+
+.editor-btn-secondary {
+    background: rgba(0, 0, 0, 0.05);
+    color: #4b5563;
+    font-weight: 700;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.dark-theme .editor-btn-secondary {
+    background: rgba(255, 255, 255, 0.05);
+    color: #d1d5db;
+}
+
+.editor-btn-secondary:hover {
+    background: rgba(0, 0, 0, 0.08);
+}
+
+.dark-theme .editor-btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+/* LaTeX Preview panel details */
+.preview-title {
+    font-size: 16px;
+    font-weight: 800;
+    margin-bottom: 16px;
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.08);
+    padding-bottom: 10px;
+}
+
+.dark-theme .preview-title {
+    border-bottom-color: rgba(255, 255, 255, 0.08);
+}
+
+.latex-rendered-box {
+    background: #f3f4f6;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+    font-size: 15px;
+    line-height: 1.6;
+    overflow-x: auto;
+}
+
+.dark-theme .latex-rendered-box {
+    background: #1f2937;
+    border-color: rgba(255, 255, 255, 0.04);
+}
+
+.preview-section-title {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 800;
+    color: #6b7280;
+    margin-bottom: 8px;
+    letter-spacing: 0.5px;
+}
+
+.dark-theme .preview-section-title {
+    color: #9ca3af;
+}
+
+.preview-option-item {
+    display: flex;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin-bottom: 6px;
+    font-size: 14px;
+    border: 1.5px solid transparent;
+}
+
+.preview-option-item.correct {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.3);
+    color: #047857;
+}
+
+.dark-theme .preview-option-item.correct {
+    color: #34d399;
+}
+

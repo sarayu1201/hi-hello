@@ -1,6 +1,6 @@
 import subprocess
 
-repo_dir = r"C:\Users\Administrator\Downloads\hi-hello-main (1)\hi-hello-main"
+repo_dir = r"c:\Users\LENOVO\Downloads\hi-hello-main\hi-hello-main"
 
 print("=== STAGING ALL WORKING TREE CHANGES ===")
 add_res = subprocess.run(["git", "add", "-A"], cwd=repo_dir, capture_output=True, text=True)

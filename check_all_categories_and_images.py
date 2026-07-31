@@ -1,8 +1,8 @@
 import os
 import glob
 
-json_base = r"C:\Users\Administrator\Downloads\hi-hello-main (1)\hi-hello-main\QuestionBank\json"
-img_base = r"C:\Users\Administrator\Downloads\hi-hello-main (1)\hi-hello-main\backend\uploads\images"
+json_base = r"c:\Users\LENOVO\Downloads\hi-hello-main\hi-hello-main\QuestionBank\json"
+img_base = r"c:\Users\LENOVO\Downloads\hi-hello-main\hi-hello-main\backend\uploads\images"
 
 print("=== JSON DIRECTORIES ===")
 if os.path.exists(json_base):

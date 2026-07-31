@@ -85,6 +85,37 @@ export default function AdminDashboard({ user, navigate, logout }) {
   const [clearConfirmText, setClearConfirmText] = useState("");
   const [isConfirmingImport, setIsConfirmingImport] = useState(false);
 
+  // Question Editor states
+  const [editCourse, setEditCourse] = useState("");
+  const [editPaper, setEditPaper] = useState("");
+  const [editSection, setEditSection] = useState("");
+  const [editQId, setEditQId] = useState("");
+  const [editSearchId, setEditSearchId] = useState("");
+  const [editQData, setEditQData] = useState(null);
+  
+  const [editPapers, setEditPapers] = useState([]);
+  const [editSections, setEditSections] = useState([]);
+  const [editQList, setEditQList] = useState([]);
+  
+  const [editForm, setEditForm] = useState({
+    question: "",
+    options: ["", "", "", "", ""],
+    correctOption: "A",
+    correctAnswer: "",
+    explanation: "",
+    difficulty: "Medium",
+    course: "",
+    paper_name: "",
+    subject: "",
+    display_question_number: 1,
+    direction: "",
+    question_image: "",
+    option_images: ["", "", "", "", ""]
+  });
+  
+  const [editLoading, setEditLoading] = useState(false);
+  const [editSaving, setEditSaving] = useState(false);
+
   const BACKEND_URL = import.meta.env.VITE_API_URL || (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
     ? (window.location.protocol + "//" + window.location.hostname + ":5000")
     : "");
@@ -595,6 +626,185 @@ export default function AdminDashboard({ user, navigate, logout }) {
     setTimeout(() => setNotification(null), 5000);
   };
 
+  // Question Editor actions
+  const fetchEditPapers = async (courseId) => {
+    if (!courseId) {
+      setEditPapers([]);
+      return;
+    }
+    try {
+      const res = await fetch(`${BACKEND_URL}/api/admin/papers?course=${encodeURIComponent(courseId)}`, {
+        headers: getHeaders()
+      });
+      const data = await res.json();
+      if (data && data.success) {
+        setEditPapers(data.papers || []);
+      } else {
+        showNotification("Error", data.error || "Failed to fetch papers");
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const fetchEditSections = async (courseId, paperName) => {
+    if (!courseId || !paperName) {
+      setEditSections([]);
+      return;
+    }
+    try {
+      const res = await fetch(`${BACKEND_URL}/api/admin/sections?course=${encodeURIComponent(courseId)}&paper=${encodeURIComponent(paperName)}`, {
+        headers: getHeaders()
+      });
+      const data = await res.json();
+      if (data && data.success) {
+        setEditSections(data.sections || []);
+      } else {
+        showNotification("Error", data.error || "Failed to fetch sections");
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const fetchEditQuestions = async (courseId, paperName, sectionName) => {
+    if (!courseId || !paperName || !sectionName) {
+      setEditQList([]);
+      return;
+    }
+    try {
+      const res = await fetch(`${BACKEND_URL}/api/admin/questions-list?course=${encodeURIComponent(courseId)}&paper=${encodeURIComponent(paperName)}&section=${encodeURIComponent(sectionName)}`, {
+        headers: getHeaders()
+      });
+      const data = await res.json();
+      if (data && data.success) {
+        setEditQList(data.questions || []);
+      } else {
+        showNotification("Error", data.error || "Failed to fetch questions");
+      }
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const loadQuestionById = async (uniqueId) => {
+    if (!uniqueId) return;
+    setEditLoading(true);
+    try {
+      const res = await fetch(`${BACKEND_URL}/api/admin/questions/${encodeURIComponent(uniqueId)}`, {
+        headers: getHeaders()
+      });
+      const data = await res.json();
+      if (res.ok && data.success) {
+        const q = data.question;
+        setEditQData(q);
+        
+        // Populate options array (ensure exactly 5 elements for A, B, C, D, E)
+        let opts = ["", "", "", "", ""];
+        if (q.options && Array.isArray(q.options)) {
+          q.options.forEach((opt, idx) => {
+            if (idx < 5) {
+              if (typeof opt === 'object' && opt !== null) {
+                opts[idx] = opt.text || "";
+              } else {
+                opts[idx] = opt;
+              }
+            }
+          });
+        }
+        
+        // Populate option images array
+        let optImgs = ["", "", "", "", ""];
+        if (q.option_images && Array.isArray(q.option_images)) {
+          q.option_images.forEach((img, idx) => {
+            if (idx < 5) {
+              optImgs[idx] = img || "";
+            }
+          });
+        }
+
+        setEditForm({
+          question: q.raw_question || q.question || "",
+          options: opts,
+          correctOption: q.correct_option || q.correct_letter || "A",
+          correctAnswer: q.correct_answer || "",
+          explanation: q.raw_explanation || q.explanation || "",
+          difficulty: q.difficulty || "Medium",
+          course: q.course || "",
+          paper_name: q.paper_name || "",
+          subject: q.subject || "",
+          display_question_number: q.display_question_number || q.question_number || 1,
+          direction: q.raw_direction || q.direction || "",
+          question_image: q.question_image || "",
+          option_images: optImgs
+        });
+      } else {
+        showNotification("Error", data.error || "Question not found");
+      }
+    } catch (e) {
+      console.error(e);
+      showNotification("Error", "Network connection failed");
+    } finally {
+      setEditLoading(false);
+    }
+  };
+
+  const handleSaveQuestion = async (e) => {
+    e.preventDefault();
+    if (!editQData) return;
+    setEditSaving(true);
+    try {
+      const payload = {
+        question: editForm.question,
+        options: editForm.options,
+        correctOption: editForm.correctOption,
+        correctAnswer: editForm.correctAnswer,
+        explanation: editForm.explanation,
+        difficulty: editForm.difficulty,
+        course: editForm.course,
+        paper_name: editForm.paper_name,
+        subject: editForm.subject,
+        display_question_number: Number(editForm.display_question_number),
+        direction: editForm.direction,
+        question_image: editForm.question_image,
+        option_images: editForm.option_images
+      };
+
+      const res = await fetch(`${BACKEND_URL}/api/admin/questions/${encodeURIComponent(editQData.unique_id)}`, {
+        method: "PUT",
+        headers: getHeaders(),
+        body: JSON.stringify(payload)
+      });
+      
+      const data = await res.json();
+      if (res.ok && data.success) {
+        showNotification("Success", "Question updated successfully!");
+        
+        // Refresh question list in case display number or course details changed
+        if (editCourse && editPaper && editSection) {
+          fetchEditQuestions(editCourse, editPaper, editSection);
+        }
+      } else {
+        showNotification("Save Failed", data.error || "Failed to update question");
+      }
+    } catch (err) {
+      console.error(err);
+      showNotification("Error", "Network error occurred while saving");
+    } finally {
+      setEditSaving(false);
+    }
+  };
+
+  // Trigger MathJax typeset on state change to update preview equations
+  useEffect(() => {
+    if (window.MathJax && window.MathJax.typesetPromise && editQData) {
+      const timer = setTimeout(() => {
+        window.MathJax.typesetPromise().catch(err => {});
+      }, 300);
+      return () => clearTimeout(timer);
+    }
+  }, [editForm, editQData]);
+
   const handleToggleCourseUnlock = async (studentId, studentEmail, courseId, checkState) => {
     const studentObj = students.find(s => s._id === studentId);
     if (!studentObj) return;
@@ -773,6 +983,17 @@ export default function AdminDashboard({ user, navigate, logout }) {
           </button>
           <button className={`tab-link ${activeTab === "review_queue" ? "active" : ""}`} onClick={() => setActiveTab("review_queue")}>
             Review Queue
+          </button>
+          <button className={`tab-link ${activeTab === "edit_questions" ? "active" : ""}`} onClick={() => {
+            setActiveTab("edit_questions");
+            // Clear selections when switching tab
+            setEditCourse("");
+            setEditPaper("");
+            setEditSection("");
+            setEditQId("");
+            setEditQData(null);
+          }}>
+            ✏️ Edit Questions
           </button>
           <button className="tab-link refresh-btn" onClick={fetchData} title="Refresh All Data">
             <RefreshCw size={16} className={loading ? "spin" : ""} />
@@ -2242,6 +2463,410 @@ export default function AdminDashboard({ user, navigate, logout }) {
 
           {activeTab === "review_queue" && (
             <ReviewQueue logout={logout} />
+          )}
+
+          {activeTab === "edit_questions" && (
+            <div className="question-editor-tab">
+              {/* Question Selection & Search Section */}
+              <div className="editor-selection-card">
+                <h3 style={{ margin: "0 0 15px 0", color: "var(--text)", fontFamily: "'Sora', sans-serif", fontWeight: "800" }}>🔍 Select or Search Question</h3>
+                
+                {/* Hierarchical Selection */}
+                <div className="editor-selection-grid">
+                  <div className="editor-form-group">
+                    <label>1. Select Course</label>
+                    <select 
+                      className="editor-select"
+                      value={editCourse} 
+                      onChange={(e) => {
+                        const val = e.target.value;
+                        setEditCourse(val);
+                        setEditPaper("");
+                        setEditSection("");
+                        setEditQId("");
+                        setEditQData(null);
+                        fetchEditPapers(val);
+                      }}
+                    >
+                      <option value="">-- Select Course --</option>
+                      {allCourses.map(c => (
+                        <option key={c.id} value={c.id}>{c.title}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div className="editor-form-group">
+                    <label>2. Select Paper</label>
+                    <select 
+                      className="editor-select"
+                      value={editPaper} 
+                      disabled={!editCourse}
+                      onChange={(e) => {
+                        const val = e.target.value;
+                        setEditPaper(val);
+                        setEditSection("");
+                        setEditQId("");
+                        setEditQData(null);
+                        fetchEditSections(editCourse, val);
+                      }}
+                    >
+                      <option value="">-- Select Paper --</option>
+                      {editPapers.map(p => (
+                        <option key={p} value={p}>{p}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div className="editor-form-group">
+                    <label>3. Select Section</label>
+                    <select 
+                      className="editor-select"
+                      value={editSection} 
+                      disabled={!editPaper}
+                      onChange={(e) => {
+                        const val = e.target.value;
+                        setEditSection(val);
+                        setEditQId("");
+                        setEditQData(null);
+                        fetchEditQuestions(editCourse, editPaper, val);
+                      }}
+                    >
+                      <option value="">-- Select Section --</option>
+                      {editSections.map(s => (
+                        <option key={s} value={s}>{s}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div className="editor-form-group">
+                    <label>4. Select Question Number</label>
+                    <select 
+                      className="editor-select"
+                      value={editQId} 
+                      disabled={!editSection || editQList.length === 0}
+                      onChange={(e) => {
+                        const val = e.target.value;
+                        setEditQId(val);
+                        loadQuestionById(val);
+                      }}
+                    >
+                      <option value="">-- Select Q.No --</option>
+                      {editQList.map(q => (
+                        <option key={q.unique_id} value={q.unique_id}>
+                          Question {q.display_question_number || q.question_number} ({q.unique_id})
+                        </option>
+                      ))}
+                    </select>
+                  </div>
+                </div>
+
+                {/* Direct ID Search */}
+                <div className="editor-search-row">
+                  <div className="editor-form-group" style={{ flex: 1 }}>
+                    <label>Or Search directly by Question ID (Unique ID)</label>
+                    <input 
+                      type="text" 
+                      className="editor-input"
+                      placeholder="e.g., SSC_CGL_SSC_SSC_CGL_MOCK_Q1 or rrb_clerk_paper5_q1"
+                      value={editSearchId}
+                      onChange={(e) => setEditSearchId(e.target.value)}
+                    />
+                  </div>
+                  <button 
+                    type="button" 
+                    className="editor-btn-secondary" 
+                    style={{ height: "42px", padding: "0 20px" }}
+                    onClick={() => {
+                      if (!editSearchId.trim()) {
+                        showNotification("Search ID Required", "Please enter a valid Question ID to search.");
+                        return;
+                      }
+                      setEditCourse("");
+                      setEditPaper("");
+                      setEditSection("");
+                      setEditQId("");
+                      loadQuestionById(editSearchId.trim());
+                    }}
+                  >
+                    Search ID
+                  </button>
+                </div>
+              </div>
+
+              {editLoading && (
+                <div style={{ textAlign: "center", padding: "40px 0" }}>
+                  <div className="spinner" style={{ margin: "0 auto 16px auto" }}></div>
+                  <p style={{ color: "var(--muted)" }}>Fetching question details from MongoDB...</p>
+                </div>
+              )}
+
+              {/* Main Form & Preview Panel */}
+              {!editLoading && editQData && (
+                <div className="editor-layout-grid">
+                  {/* Left Column: Form Edit */}
+                  <form onSubmit={handleSaveQuestion} className="editor-form-card">
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "20px" }}>
+                      <h3 style={{ margin: 0, color: "var(--text)", fontFamily: "'Sora', sans-serif", fontWeight: "800" }}>✏️ Edit Fields</h3>
+                      <span style={{ fontSize: "12px", background: "rgba(239, 68, 68, 0.1)", color: "#ef4444", padding: "4px 10px", borderRadius: "6px", fontWeight: "bold" }}>
+                        ID: {editQData.unique_id}
+                      </span>
+                    </div>
+
+                    <div className="editor-form-grid">
+                      <div className="editor-form-group">
+                        <label>Course Code</label>
+                        <input 
+                          type="text" 
+                          className="editor-input" 
+                          value={editForm.course} 
+                          onChange={(e) => setEditForm({ ...editForm, course: e.target.value })}
+                          required
+                        />
+                      </div>
+
+                      <div className="editor-form-group">
+                        <label>Paper Name / Test ID</label>
+                        <input 
+                          type="text" 
+                          className="editor-input" 
+                          value={editForm.paper_name} 
+                          onChange={(e) => setEditForm({ ...editForm, paper_name: e.target.value })}
+                          required
+                        />
+                      </div>
+
+                      <div className="editor-form-group">
+                        <label>Section / Subject</label>
+                        <input 
+                          type="text" 
+                          className="editor-input" 
+                          value={editForm.subject} 
+                          onChange={(e) => setEditForm({ ...editForm, subject: e.target.value })}
+                          required
+                        />
+                      </div>
+
+                      <div className="editor-form-group">
+                        <label>Display Q.No</label>
+                        <input 
+                          type="number" 
+                          className="editor-input" 
+                          value={editForm.display_question_number} 
+                          onChange={(e) => setEditForm({ ...editForm, display_question_number: e.target.value })}
+                          required
+                        />
+                      </div>
+
+                      <div className="editor-form-group">
+                        <label>Difficulty</label>
+                        <select 
+                          className="editor-select"
+                          value={editForm.difficulty} 
+                          onChange={(e) => setEditForm({ ...editForm, difficulty: e.target.value })}
+                        >
+                          <option value="Easy">Easy</option>
+                          <option value="Medium">Medium</option>
+                          <option value="Hard">Hard</option>
+                        </select>
+                      </div>
+
+                      <div className="editor-form-group">
+                        <label>Correct Option</label>
+                        <select 
+                          className="editor-select"
+                          value={editForm.correctOption} 
+                          onChange={(e) => setEditForm({ ...editForm, correctOption: e.target.value })}
+                        >
+                          <option value="A">A</option>
+                          <option value="B">B</option>
+                          <option value="C">C</option>
+                          <option value="D">D</option>
+                          <option value="E">E</option>
+                        </select>
+                      </div>
+
+                      <div className="editor-form-group full-width">
+                        <label>Question Image URL (optional)</label>
+                        <input 
+                          type="text" 
+                          className="editor-input" 
+                          placeholder="e.g. /api/images/q1.png"
+                          value={editForm.question_image} 
+                          onChange={(e) => setEditForm({ ...editForm, question_image: e.target.value })}
+                        />
+                      </div>
+
+                      <div className="editor-form-group full-width">
+                        <label>Direction / Instruction (optional)</label>
+                        <textarea 
+                          className="editor-textarea" 
+                          rows="3"
+                          placeholder="Passage direction text supporting LaTeX/Math..."
+                          value={editForm.direction} 
+                          onChange={(e) => setEditForm({ ...editForm, direction: e.target.value })}
+                        />
+                      </div>
+
+                      <div className="editor-form-group full-width">
+                        <label>Question Text *</label>
+                        <textarea 
+                          className="editor-textarea" 
+                          rows="5"
+                          required
+                          placeholder="Question body text supporting LaTeX/Math..."
+                          value={editForm.question} 
+                          onChange={(e) => setEditForm({ ...editForm, question: e.target.value })}
+                        />
+                      </div>
+
+                      {/* Options editing */}
+                      <div className="editor-form-group full-width" style={{ marginTop: "10px" }}>
+                        <label>Options (A-E)</label>
+                        <div className="options-editor-list">
+                          {editForm.options.map((opt, idx) => {
+                            const letter = String.fromCharCode(65 + idx);
+                            return (
+                              <div key={letter} className="option-edit-row">
+                                <span className="option-letter-lbl">{letter}</span>
+                                <input 
+                                  type="text" 
+                                  className="editor-input" 
+                                  placeholder={`Option ${letter} text`}
+                                  value={opt} 
+                                  onChange={(e) => {
+                                    const copy = [...editForm.options];
+                                    copy[idx] = e.target.value;
+                                    setEditForm({ ...editForm, options: copy });
+                                  }}
+                                  required={idx < 4} // Require A, B, C, D at least
+                                />
+                                <input 
+                                  type="text" 
+                                  className="editor-input" 
+                                  style={{ maxWidth: "200px" }}
+                                  placeholder="Option Image URL (optional)"
+                                  value={editForm.option_images[idx] || ""} 
+                                  onChange={(e) => {
+                                    const copy = [...editForm.option_images];
+                                    copy[idx] = e.target.value;
+                                    setEditForm({ ...editForm, option_images: copy });
+                                  }}
+                                />
+                              </div>
+                            );
+                          })}
+                        </div>
+                      </div>
+
+                      <div className="editor-form-group full-width" style={{ marginTop: "15px" }}>
+                        <label>Explanation / Key Details *</label>
+                        <textarea 
+                          className="editor-textarea" 
+                          rows="5"
+                          required
+                          placeholder="Explanation supporting LaTeX/Math..."
+                          value={editForm.explanation} 
+                          onChange={(e) => setEditForm({ ...editForm, explanation: e.target.value })}
+                        />
+                      </div>
+                    </div>
+
+                    <div className="editor-action-buttons">
+                      <button 
+                        type="submit" 
+                        className="editor-btn-save" 
+                        disabled={editSaving}
+                      >
+                        {editSaving ? "Saving..." : "💾 Save Changes"}
+                      </button>
+                      <button 
+                        type="button" 
+                        className="editor-btn-secondary" 
+                        onClick={() => {
+                          if (window.confirm("Discard unsaved changes?")) {
+                            loadQuestionById(editQData.unique_id);
+                          }
+                        }}
+                      >
+                        Discard
+                      </button>
+                    </div>
+                  </form>
+
+                  {/* Right Column: Real-time Render Preview */}
+                  <div className="editor-preview-card">
+                    <h3 className="preview-title" style={{ fontFamily: "'Sora', sans-serif", fontWeight: "800", color: "var(--text)" }}>👁️ Live LaTeX Preview</h3>
+
+                    {editForm.direction && (
+                      <div style={{ marginBottom: "20px" }}>
+                        <div className="preview-section-title">Direction / Passage</div>
+                        <div className="latex-rendered-box mathjax-process no-mathjax-ignore">
+                          {editForm.direction}
+                        </div>
+                      </div>
+                    )}
+
+                    <div className="preview-section-title">Question Text</div>
+                    <div className="latex-rendered-box mathjax-process no-mathjax-ignore" style={{ fontWeight: "700" }}>
+                      {editForm.question}
+                    </div>
+
+                    {editForm.question_image && (
+                      <div style={{ marginBottom: "16px", textAlign: "center" }}>
+                        <img 
+                          src={editForm.question_image} 
+                          alt="Question Visual" 
+                          style={{ maxWidth: "100%", maxHeight: "200px", borderRadius: "8px", border: "1.5px solid var(--border)" }}
+                          onError={(e) => e.target.style.display = 'none'}
+                        />
+                      </div>
+                    )}
+
+                    <div className="preview-section-title">Options</div>
+                    <div style={{ marginBottom: "20px" }}>
+                      {editForm.options.map((opt, idx) => {
+                        const letter = String.fromCharCode(65 + idx);
+                        // Skip E if empty
+                        if (letter === "E" && !opt) return null;
+                        const isCorrect = editForm.correctOption === letter;
+                        const optImage = editForm.option_images[idx];
+                        
+                        return (
+                          <div 
+                            key={letter} 
+                            className={`preview-option-item ${isCorrect ? 'correct' : ''}`}
+                            style={{ 
+                              background: isCorrect ? "rgba(16, 185, 129, 0.1)" : "transparent",
+                              border: isCorrect ? "1.5px solid rgba(16, 185, 129, 0.3)" : "1.5px solid rgba(0,0,0,0.04)"
+                            }}
+                          >
+                            <strong style={{ minWidth: "20px" }}>{letter}.</strong>
+                            <div style={{ flex: 1 }}>
+                              <div className="mathjax-process no-mathjax-ignore">{opt}</div>
+                              {optImage && (
+                                <div style={{ marginTop: "6px" }}>
+                                  <img 
+                                    src={optImage} 
+                                    alt={`Option ${letter} Visual`}
+                                    style={{ maxHeight: "80px", borderRadius: "4px" }}
+                                    onError={(e) => e.target.style.display = 'none'}
+                                  />
+                                </div>
+                              )}
+                            </div>
+                          </div>
+                        );
+                      })}
+                    </div>
+
+                    <div className="preview-section-title">Explanation / Solutions</div>
+                    <div className="latex-rendered-box mathjax-process no-mathjax-ignore">
+                      {editForm.explanation}
+                    </div>
+                  </div>
+                </div>
+              )}
+            </div>
           )}
         </div>
       )}

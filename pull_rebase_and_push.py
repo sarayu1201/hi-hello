@@ -1,6 +1,6 @@
 import subprocess
 
-repo_dir = r"C:\Users\Administrator\Downloads\hi-hello-main (1)\hi-hello-main"
+repo_dir = r"c:\Users\LENOVO\Downloads\hi-hello-main\hi-hello-main"
 
 print("=== PULLING REMOTE CHANGES WITH REBASE ===")
 pull_res = subprocess.run(["git", "pull", "--rebase", "origin", "main"], cwd=repo_dir, capture_output=True, text=True)
