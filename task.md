@@ -3,3 +3,6 @@
 - [x] Traverse all exam categories on disk (including quant and rrb_clerk)
 - [x] Update local JSON files and MongoDB database questions
 - [x] Validate JSON syntax and verify files are error-free
+- [x] Normalize backend Course ID mappings to populate admin editor dropdown options 2, 3, and 4
+- [x] Optimize MongoDB query index on subject field to prevent loading delays
+- [x] Format dropdown labels in AdminDashboard.jsx to show clean question numbers

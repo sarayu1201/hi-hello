@@ -2553,7 +2553,7 @@ export default function AdminDashboard({ user, navigate, logout }) {
                       <option value="">-- Select Q.No --</option>
                       {editQList.map(q => (
                         <option key={q.unique_id} value={q.unique_id}>
-                          Question {q.display_question_number || q.question_number} ({q.unique_id})
+                          Question {q.display_question_number || q.question_number}
                         </option>
                       ))}
                     </select>

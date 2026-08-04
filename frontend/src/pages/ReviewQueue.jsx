@@ -45,6 +45,15 @@ export default function ReviewQueue({ logout }) {
   const [auditLogs, setAuditLogs] = useState([]);
   const [showAuditLogs, setShowAuditLogs] = useState(false);
 
+  // Dynamic Navigation States
+  const [metaExams, setMetaExams] = useState([]);
+  const [metaPapers, setMetaPapers] = useState([]);
+  const [metaSections, setMetaSections] = useState([]);
+  const [navExam, setNavExam] = useState("");
+  const [navPaper, setNavPaper] = useState("");
+  const [navSection, setNavSection] = useState("");
+  const [navQuestionNum, setNavQuestionNum] = useState("");
+
   // Bulk operations state
   const [selectedIds, setSelectedIds] = useState(new Set());
   const [bulkApproving, setBulkApproving] = useState(false);
@@ -109,6 +118,49 @@ export default function ReviewQueue({ logout }) {
     fetchQuestions();
     setSelectedIds(new Set());
   }, [page, limit, filterStatus, filterExam, filterReason, filterConfidenceMin, filterConfidenceMax, filterPdf, filterParser]);
+
+  // Load moderation metadata dropdown values on mount
+  useEffect(() => {
+    const fetchMeta = async () => {
+      try {
+        const res = await axios.get(`${BACKEND_URL}/api/review/meta`, getHeaders());
+        if (res.data && res.data.success) {
+          setMetaExams(res.data.exams || []);
+          setMetaPapers(res.data.papers || []);
+          setMetaSections(res.data.sections || []);
+        }
+      } catch (err) {
+        console.warn("Failed to fetch moderation metadata:", err);
+      }
+    };
+    fetchMeta();
+  }, []);
+
+  const handleDirectNavigation = async (e) => {
+    if (e) e.preventDefault();
+    if (!navExam || !navPaper || !navSection || !navQuestionNum) {
+      alert("Please select Course, Test Paper, Section, and Question Number.");
+      return;
+    }
+    
+    setLoading(true);
+    setError(null);
+    try {
+      const url = `${BACKEND_URL}/api/review?exam_type=${encodeURIComponent(navExam)}&paper_name=${encodeURIComponent(navPaper)}&section=${encodeURIComponent(navSection)}&question_number=${navQuestionNum}&status=all&limit=1`;
+      const res = await axios.get(url, getHeaders());
+      if (res.data && res.data.success && res.data.questions && res.data.questions.length > 0) {
+        const q = res.data.questions[0];
+        setQuestions([q]);
+        openWorkspace(q, 0);
+      } else {
+        alert("No question found matching the selected Course, Test Paper, Section, and Question Number.");
+      }
+    } catch (err) {
+      setError(err.response?.data?.error || "Failed to locate the selected question.");
+    } finally {
+      setLoading(false);
+    }
+  };
 
   // Handle Search submit
   const handleSearchSubmit = (e) => {
@@ -781,6 +833,138 @@ export default function ReviewQueue({ logout }) {
                   </button>
                 </div>
               </form>
+
+              {/* Direct Question Navigation Panel */}
+              <div style={{
+                marginTop: "20px",
+                paddingTop: "15px",
+                borderTop: "1px solid rgba(255,255,255,0.08)"
+              }}>
+                <h4 style={{ fontSize: "13px", fontWeight: "bold", color: "var(--accent, #D4AF37)", margin: "0 0 10px 0", textTransform: "uppercase", letterSpacing: "1px" }}>
+                  🎯 Direct Question Navigator
+                </h4>
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "10px", alignItems: "end" }}>
+                  <div>
+                    <label style={{ display: "block", fontSize: "11px", color: "var(--muted)", marginBottom: "4px", fontWeight: "600" }}>Course (Exam Type)</label>
+                    <select
+                      value={navExam}
+                      onChange={(e) => {
+                        setNavExam(e.target.value);
+                        setNavPaper("");
+                      }}
+                      style={{
+                        background: "var(--navy, #0D1B3E)",
+                        color: "white",
+                        padding: "8px",
+                        borderRadius: "6px",
+                        border: "1px solid var(--border)",
+                        fontSize: "12.5px",
+                        width: "100%"
+                      }}
+                    >
+                      <option value="">-- Select Course --</option>
+                      {metaExams.map(ex => (
+                        <option key={ex} value={ex}>{ex}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div>
+                    <label style={{ display: "block", fontSize: "11px", color: "var(--muted)", marginBottom: "4px", fontWeight: "600" }}>Test Paper Name</label>
+                    <select
+                      value={navPaper}
+                      onChange={(e) => setNavPaper(e.target.value)}
+                      style={{
+                        background: "var(--navy, #0D1B3E)",
+                        color: "white",
+                        padding: "8px",
+                        borderRadius: "6px",
+                        border: "1px solid var(--border)",
+                        fontSize: "12.5px",
+                        width: "100%"
+                      }}
+                    >
+                      <option value="">-- Select Test Paper --</option>
+                      {metaPapers
+                        .filter(p => !navExam || p.toLowerCase().includes(navExam.toLowerCase()))
+                        .map(p => (
+                          <option key={p} value={p}>{p}</option>
+                        ))
+                      }
+                    </select>
+                  </div>
+
+                  <div>
+                    <label style={{ display: "block", fontSize: "11px", color: "var(--muted)", marginBottom: "4px", fontWeight: "600" }}>Section / Subject</label>
+                    <select
+                      value={navSection}
+                      onChange={(e) => setNavSection(e.target.value)}
+                      style={{
+                        background: "var(--navy, #0D1B3E)",
+                        color: "white",
+                        padding: "8px",
+                        borderRadius: "6px",
+                        border: "1px solid var(--border)",
+                        fontSize: "12.5px",
+                        width: "100%"
+                      }}
+                    >
+                      <option value="">-- Select Section --</option>
+                      {metaSections.map(s => (
+                        <option key={s} value={s}>{s}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div>
+                    <label style={{ display: "block", fontSize: "11px", color: "var(--muted)", marginBottom: "4px", fontWeight: "600" }}>Question Number</label>
+                    <input
+                      type="number"
+                      min="1"
+                      placeholder="Q. Number (e.g. 15)"
+                      value={navQuestionNum}
+                      onChange={(e) => setNavQuestionNum(e.target.value)}
+                      style={{
+                        background: "var(--navy, #0D1B3E)",
+                        color: "white",
+                        padding: "8px",
+                        borderRadius: "6px",
+                        border: "1px solid var(--border)",
+                        fontSize: "12.5px",
+                        width: "100%"
+                      }}
+                    />
+                  </div>
+
+                  <div>
+                    <button
+                      type="button"
+                      onClick={handleDirectNavigation}
+                      className="btn-send-broadcast"
+                      style={{
+                        padding: "8.5px 16px",
+                        width: "100%",
+                        background: "var(--accent, #D4AF37)",
+                        color: "var(--navy, #0D1B3E)",
+                        border: "none",
+                        fontWeight: "800",
+                        fontSize: "13px",
+                        borderRadius: "6px",
+                        cursor: "pointer",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "center",
+                        gap: "6px",
+                        transition: "opacity 0.2s"
+                      }}
+                      onMouseOver={(e) => e.currentTarget.style.opacity = "0.9"}
+                      onMouseOut={(e) => e.currentTarget.style.opacity = "1"}
+                    >
+                      Navigate & Edit
+                    </button>
+                  </div>
+                </div>
+              </div>
             </div>
 
             {/* Bulk Actions Header */}
