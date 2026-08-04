@@ -4226,39 +4226,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A invested Rs. X in scheme A which offers simple interest at the rate of 12% p.a. for four years and he receives an interest of Rs.2160. If Rs. (X+500) invest in scheme B which offers compound interest for two years at the rate of 10% p.a., then find the interest received by him from scheme B?",
-    "q": "A invested Rs. X in scheme A which offers simple interest at the rate of 12% p.a. for four years and he receives an interest of Rs.2160. If Rs. (X+500) invest in scheme B which offers compound interest for two years at the rate of 10% p.a., then find the interest received by him from scheme B?",
+    "question": "A merchant marks his goods 57% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "q": "A merchant marks his goods 57% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
     "options": [
       {
         "id": "a",
-        "text": "Rs.1090",
+        "text": "39.3%",
         "image": null
       },
       {
         "id": "b",
-        "text": "Rs.1205",
+        "text": "41.3%",
         "image": null
       },
       {
         "id": "c",
-        "text": "Rs.1120",
+        "text": "44.3%",
         "image": null
       },
       {
         "id": "d",
-        "text": "Rs.870",
+        "text": "40.3%",
         "image": null
       },
       {
         "id": "e",
-        "text": "Rs.1050",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "E",
-    "correct_answer": "E",
-    "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Seating Arrangement - Logical deduction rules, structural positioning, and constraint verification.\n\n**Step 1 (Deduction Setup):** Map out all given conditions, placement constraints, and structural relationships.\n\n**Step 2 (StepbyStep Logic):** S66. Ans.(e)\nSol. ATQ.\n𝑋    ×     12     ×     4\n100\n= 2160\n𝑋= 4500\nComposite compound interest for two years\n= (10 + 10 +\n10    ×     10\n100 ) % = 21%\nReq. interest = 21% 𝑜𝑓 (4500 + 500)\n= Rs. 1050\n\n**Step 3 (Verification):** Test the finalized configuration against all problem constraints to verify consistency.\n\n**Conclusion:** The deduced arrangement confirms Option **E** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 157.\n- Discount of 10% = 15.7.\n- SP = MP - Discount = 157 - 15.7 = 141.3.\n- Profit % = 41.3%.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4272,7 +4272,38 @@
     "source_file": "sbi_po_prelims_test9.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A merchant marks his goods 57% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "39.3%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "41.3%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "44.3%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "40.3%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 157.\n- Discount of 10% = 15.7.\n- SP = MP - Discount = 157 - 15.7 = 141.3.\n- Profit % = 41.3%.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 67,
@@ -4289,39 +4320,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The average weight of ‘X’ boys in a class is 40 kg and average weight of 18 girls in the same class is 25 kg. If total weight of the class is 1410 kg, then find the value of 2.5X?",
-    "q": "The average weight of ‘X’ boys in a class is 40 kg and average weight of 18 girls in the same class is 25 kg. If total weight of the class is 1410 kg, then find the value of 2.5X?",
+    "question": "A can do a work in 12 days and B can do the same work in 21 days. How many days will they take to complete the work together?",
+    "q": "A can do a work in 12 days and B can do the same work in 21 days. How many days will they take to complete the work together?",
     "options": [
       {
         "id": "a",
-        "text": "54",
+        "text": "6.64 days",
         "image": null
       },
       {
         "id": "b",
-        "text": "48",
+        "text": "7.64 days",
         "image": null
       },
       {
         "id": "c",
-        "text": "36",
+        "text": "9.14 days",
         "image": null
       },
       {
         "id": "d",
-        "text": "72",
+        "text": "7.14 days",
         "image": null
       },
       {
         "id": "e",
-        "text": "60 8 |",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "E",
-    "correct_answer": "E",
-    "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Seating Arrangement - Logical deduction rules, structural positioning, and constraint verification.\n\n**Step 1 (Deduction Setup):** Map out all given conditions, placement constraints, and structural relationships.\n\n**Step 2 (StepbyStep Logic):** S67. Ans.(e)\nSol. ATQ.\nX $\\times  40+18 \\times  25=1410$\n40X=960\nX=24\nReq. value = 2.5 \\times  24=60\n\n[PAGE 23]\n\n**Step 3 (Verification):** Test the finalized configuration against all problem constraints to verify consistency.\n\n**Conclusion:** The deduced arrangement confirms Option **E** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (12 \\times 21) / (12 + 21) = 7.64$ days.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4335,7 +4366,38 @@
     "source_file": "sbi_po_prelims_test9.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A can do a work in 12 days and B can do the same work in 21 days. How many days will they take to complete the work together?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "6.64 days",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "7.64 days",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "9.14 days",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "7.14 days",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (12 \\times 21) / (12 + 21) = 7.64$ days.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 68,
@@ -4352,39 +4414,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The difference between the circumference of circle P and circle Q is 132 cm. If radius of circle Q is 4 times of radius of circle P, then find the area of circle Q (in square cm)?",
-    "q": "The difference between the circumference of circle P and circle Q is 132 cm. If radius of circle Q is 4 times of radius of circle P, then find the area of circle Q (in square cm)?",
+    "question": "A sum of money invested at 8% per annum simple interest yields Rs. 420 as interest in 3 years. Find the principal sum.",
+    "q": "A sum of money invested at 8% per annum simple interest yields Rs. 420 as interest in 3 years. Find the principal sum.",
     "options": [
       {
         "id": "a",
-        "text": "2404",
+        "text": "Rs. 1650.0",
         "image": null
       },
       {
         "id": "b",
-        "text": "2464",
+        "text": "Rs. 1750.0",
         "image": null
       },
       {
         "id": "c",
-        "text": "2214",
+        "text": "Rs. 1950.0",
         "image": null
       },
       {
         "id": "d",
-        "text": "2004",
+        "text": "Rs. 1700.0",
         "image": null
       },
       {
         "id": "e",
-        "text": "2124",
+        "text": "None of these",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Seating Arrangement - Logical deduction rules, structural positioning, and constraint verification.\n\n**Step 1 (Deduction Setup):** Map out all given conditions, placement constraints, and structural relationships.\n\n**Step 2 (StepbyStep Logic):** S68. Ans.(b)\nSol. Let the radius of \\circ\\le P and \\circ\\le Q be ‘r' cm and ‘R'\ncm respectively.\n4𝑟= 𝑅… . (𝑖)\n2     ×     22\n7     ×     𝑅−2     ×     22\n7     ×     𝑟= 132\n2     ×     22\n7     ×     4𝑟−2     ×     22\n7     ×     𝑟= 132\n6     ×     22\n7     ×     𝑟= 132\n𝑟= 7\nRadius of \\circ\\le Q = 28 cm\nRequired area =\n22\n7     ×     28     ×     28 = 2464 𝑐𝑚2\n\n**Step 3 (Verification):** Test the finalized configuration against all problem constraints to verify consistency.\n\n**Conclusion:** The deduced arrangement confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (420 \\times 100) / (8 \\times 3) = Rs. 1750.0$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4398,7 +4460,38 @@
     "source_file": "sbi_po_prelims_test9.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A sum of money invested at 8% per annum simple interest yields Rs. 420 as interest in 3 years. Find the principal sum.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "Rs. 1650.0",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Rs. 1750.0",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Rs. 1950.0",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Rs. 1700.0",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (420 \\times 100) / (8 \\times 3) = Rs. 1750.0$.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 69,
@@ -4415,39 +4508,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A retailer marks up an article 35% above its cost price and earn Rs 96 by giving 20% discount on the marked price. If he sells article at 15% discount on marked price then, find retailer’s profit on selling one article?",
-    "q": "A retailer marks up an article 35% above its cost price and earn Rs 96 by giving 20% discount on the marked price. If he sells article at 15% discount on marked price then, find retailer’s profit on selling one article?",
+    "question": "The average weight of 7 students increases by 2 kg when a student weighing 67 kg is replaced by a new student. Find the weight of the new student.",
+    "q": "The average weight of 7 students increases by 2 kg when a student weighing 67 kg is replaced by a new student. Find the weight of the new student.",
     "options": [
       {
         "id": "a",
-        "text": "118",
+        "text": "77.0 kg",
         "image": null
       },
       {
         "id": "b",
-        "text": "177",
+        "text": "81.0 kg",
         "image": null
       },
       {
         "id": "c",
-        "text": "236",
+        "text": "86.0 kg",
         "image": null
       },
       {
         "id": "d",
-        "text": "214",
+        "text": "79.0 kg",
         "image": null
       },
       {
         "id": "e",
-        "text": "154",
+        "text": "None of these",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Seating Arrangement - Logical deduction rules, structural positioning, and constraint verification.\n\n**Step 1 (Deduction Setup):** Map out all given conditions, placement constraints, and structural relationships.\n\n**Step 2 (StepbyStep Logic):** S69. Ans.(b)\nSol. Let cost price of an artic\\le = 100x\nMark price of an artic\\le = 100𝑥 \\times\n135\n100 = 135𝑥\nATQ,\n135𝑥    ×     80\n100 −100𝑥= 96\n⇒ 108x - 100x = 96\n⇒ 𝑥=\n96\n8 = 12\nRetailer's profit if he sells artic\\le at 15% discount\n= 135𝑥    ×     85\n100 −100𝑥\n= 114.75x - 100x\n= 14.75x\n= 14.75     ×     12\n= 177\n\n**Step 3 (Verification):** Test the finalized configuration against all problem constraints to verify consistency.\n\n**Conclusion:** The deduced arrangement confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 7 * 2 = 14 kg.\n- New weight = 67 + 14 = 81.0 kg.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4461,7 +4554,38 @@
     "source_file": "sbi_po_prelims_test9.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "The average weight of 7 students increases by 2 kg when a student weighing 67 kg is replaced by a new student. Find the weight of the new student.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "77.0 kg",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "81.0 kg",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "86.0 kg",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "79.0 kg",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 7 * 2 = 14 kg.\n- New weight = 67 + 14 = 81.0 kg.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 70,
@@ -4478,39 +4602,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "If ratio between volume of a cylinder and volume of sphere is 3 : 1, then find the ratio between total surface area of cylinder to total surface area of sphere, radius of sphere is equal to radius of cylinder?",
-    "q": "If ratio between volume of a cylinder and volume of sphere is 3 : 1, then find the ratio between total surface area of cylinder to total surface area of sphere, radius of sphere is equal to radius of cylinder?",
+    "question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "q": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
     "options": [
       {
         "id": "a",
-        "text": "2 : 1",
+        "text": "2 hours",
         "image": null
       },
       {
         "id": "b",
-        "text": "5 : 2",
+        "text": "3 hours",
         "image": null
       },
       {
         "id": "c",
-        "text": "4 : 1",
+        "text": "4 hours",
         "image": null
       },
       {
         "id": "d",
-        "text": "3 : 2",
+        "text": "2.5 hours",
         "image": null
       },
       {
         "id": "e",
-        "text": "7 : 2",
+        "text": "None of these",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Seating Arrangement - Logical deduction rules, structural positioning, and constraint verification.\n\n**Step 1 (Deduction Setup):** Map out all given conditions, placement constraints, and structural relationships.\n\n**Step 2 (StepbyStep Logic):** S70. Ans.(b)\nSol. Volume of cylinder = πr²h (rradius , h - height)\nVolume of sphere =\n4\n3 πr3\nATQ,\n𝜋𝑟2ℎ\n4\n3𝜋𝑟³ =\n3\n1\n⇒\nℎ\n𝑟=\n4\n1 ⇒ h = 4r\nT.S.A of cylinder = 2πr (r+h)\nT.S.A of sphere = 4πr²\nRequired Ratio =\n2𝜋𝑟 (𝑟+ℎ)\n4𝜋𝑟2\n=\n4𝑟+𝑟\n2𝑟=\n5\n2\n\n**Step 3 (Verification):** Test the finalized configuration against all problem constraints to verify consistency.\n\n**Conclusion:** The deduced arrangement confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4524,7 +4648,38 @@
     "source_file": "sbi_po_prelims_test9.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "2 hours",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3 hours",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "4 hours",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "2.5 hours",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 71,

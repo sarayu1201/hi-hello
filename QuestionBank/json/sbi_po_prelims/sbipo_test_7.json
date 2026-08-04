@@ -4218,39 +4218,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A man invested Rs X in compound interest at 20% p.a. for two years, and he invested the same amount in simple interest for three years at 21% p.a. If the difference between the interest is Rs 1900, then find X.",
-    "q": "A man invested Rs X in compound interest at 20% p.a. for two years, and he invested the same amount in simple interest for three years at 21% p.a. If the difference between the interest is Rs 1900, then find X.",
+    "question": "A merchant marks his goods 51% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "q": "A merchant marks his goods 51% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
     "options": [
       {
         "id": "a",
-        "text": "10000",
+        "text": "33.9%",
         "image": null
       },
       {
         "id": "b",
-        "text": "12000",
+        "text": "35.9%",
         "image": null
       },
       {
         "id": "c",
-        "text": "14000",
+        "text": "38.9%",
         "image": null
       },
       {
         "id": "d",
-        "text": "8000",
+        "text": "34.9%",
         "image": null
       },
       {
         "id": "e",
-        "text": "15000",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S66. Ans.(a)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **A** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 151.\n- Discount of 10% = 15.1.\n- SP = MP - Discount = 151 - 15.1 = 135.9.\n- Profit % = 35.9%.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4264,7 +4264,38 @@
     "source_file": "sbi_po_prelims_test7.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A merchant marks his goods 51% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "33.9%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "35.9%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "38.9%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "34.9%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 151.\n- Discount of 10% = 15.1.\n- SP = MP - Discount = 151 - 15.1 = 135.9.\n- Profit % = 35.9%.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 67,
@@ -4281,27 +4312,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The perimeter of a rectangle B is 30% of the perimeter of a rectangle A. The breadth and length of the rectangle A are 16 cm and 24 cm, respectively. If the length of rectangle B is 1/3rd that of rectangle A, then find the area of rectangle B (in sq. cm).",
-    "q": "The perimeter of a rectangle B is 30% of the perimeter of a rectangle A. The breadth and length of the rectangle A are 16 cm and 24 cm, respectively. If the length of rectangle B is 1/3rd that of rectangle A, then find the area of rectangle B (in sq. cm).",
+    "question": "A can do a work in 11 days and B can do the same work in 15 days. How many days will they take to complete the work together?",
+    "q": "A can do a work in 11 days and B can do the same work in 15 days. How many days will they take to complete the work together?",
     "options": [
       {
         "id": "a",
-        "text": "8",
+        "text": "5.35 days",
         "image": null
       },
       {
         "id": "b",
-        "text": "16",
+        "text": "6.35 days",
         "image": null
       },
       {
         "id": "c",
-        "text": "24",
+        "text": "7.85 days",
         "image": null
       },
       {
         "id": "d",
-        "text": "32",
+        "text": "5.85 days",
         "image": null
       },
       {
@@ -4310,10 +4341,10 @@
         "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
-    "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S67. Ans.(d)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **D** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (11 \\times 15) / (11 + 15) = 6.35$ days.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4327,7 +4358,38 @@
     "source_file": "sbi_po_prelims_test7.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A can do a work in 11 days and B can do the same work in 15 days. How many days will they take to complete the work together?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "5.35 days",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "6.35 days",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7.85 days",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "5.85 days",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (11 \\times 15) / (11 + 15) = 6.35$ days.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 68,
@@ -4344,39 +4406,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. $x2 – 18x + 65 = 0$\nII. $y2 – 29y + 208 = 0$",
-    "q": "I. $x2 – 18x + 65 = 0$\nII. $y2 – 29y + 208 = 0$",
+    "question": "A sum of money invested at 8% per annum simple interest yields Rs. 360 as interest in 3 years. Find the principal sum.",
+    "q": "A sum of money invested at 8% per annum simple interest yields Rs. 360 as interest in 3 years. Find the principal sum.",
     "options": [
       {
         "id": "a",
-        "text": "$If x > y$",
+        "text": "Rs. 1400.0",
         "image": null
       },
       {
         "id": "b",
-        "text": "$If x    \\ge    y$",
+        "text": "Rs. 1500.0",
         "image": null
       },
       {
         "id": "c",
-        "text": "$If x < y$",
+        "text": "Rs. 1700.0",
         "image": null
       },
       {
         "id": "d",
-        "text": "$If x    \\le    y$",
+        "text": "Rs. 1450.0",
         "image": null
       },
       {
         "id": "e",
-        "text": "If x = y or no relation can be established between x and y",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
-    "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Quadratic Equations - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S68. Ans.(d)\nSol.\nI. $x^2-18x + 65 = 0$\nx^2 - 13x - 5x + 65 = 0\nx $= 13, 5$\nII. $y^2-29y + 208 = 0$\ny^2 - 16y - 13y + 208 = 0\ny = 16, 13\nSo, x     ≤     y\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **D** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (360 \\times 100) / (8 \\times 3) = Rs. 1500.0$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4391,8 +4453,37 @@
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
-    "direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer.",
-    "raw_direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer."
+    "direction": "",
+    "raw_direction": "",
+    "raw_question": "A sum of money invested at 8% per annum simple interest yields Rs. 360 as interest in 3 years. Find the principal sum.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "Rs. 1400.0",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Rs. 1500.0",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Rs. 1700.0",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Rs. 1450.0",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (360 \\times 100) / (8 \\times 3) = Rs. 1500.0$.\n\n**Conclusion:** Option **B** is correct."
   },
   {
     "id": 69,
@@ -4409,39 +4500,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. $x2 – 15x + 50 = 0$\nII. $y2 – 12y + 35 = 0$",
-    "q": "I. $x2 – 15x + 50 = 0$\nII. $y2 – 12y + 35 = 0$",
+    "question": "The average weight of 6 students increases by 2 kg when a student weighing 61 kg is replaced by a new student. Find the weight of the new student.",
+    "q": "The average weight of 6 students increases by 2 kg when a student weighing 61 kg is replaced by a new student. Find the weight of the new student.",
     "options": [
       {
         "id": "a",
-        "text": "$If x > y$",
+        "text": "69.0 kg",
         "image": null
       },
       {
         "id": "b",
-        "text": "$If x    \\ge    y$",
+        "text": "73.0 kg",
         "image": null
       },
       {
         "id": "c",
-        "text": "$If x < y$",
+        "text": "78.0 kg",
         "image": null
       },
       {
         "id": "d",
-        "text": "$If x    \\le    y$",
+        "text": "71.0 kg",
         "image": null
       },
       {
         "id": "e",
-        "text": "If x = y or no relation can be established between x and y",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "E",
-    "correct_answer": "E",
-    "correct_letter": "E",
-    "explanation": "**Correct Answer:** Option **E**\n\n**Key Concept:** Quadratic Equations - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S69. Ans.(e)\nSol.\nI. $x^2-15x + 50 = 0$\nx^2 - 5x - 10x + 50 = 0\nx $= 5, 10$\nII. $y^2-12y + 35 = 0$\ny^2 - 7y - 5y+ 35 = 0\ny = 5, 7\nSo, no relation can be established between x and y\n\n[PAGE 49]\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **E** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 6 * 2 = 12 kg.\n- New weight = 61 + 12 = 73.0 kg.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4456,8 +4547,37 @@
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
-    "direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer.",
-    "raw_direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer."
+    "direction": "",
+    "raw_direction": "",
+    "raw_question": "The average weight of 6 students increases by 2 kg when a student weighing 61 kg is replaced by a new student. Find the weight of the new student.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "69.0 kg",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "73.0 kg",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "78.0 kg",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "71.0 kg",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 6 * 2 = 12 kg.\n- New weight = 61 + 12 = 73.0 kg.\n\n**Conclusion:** Option **B** is correct."
   },
   {
     "id": 70,
@@ -4474,39 +4594,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "I. $x2 – 14x + 49 = 0$\nII. $y2 – 10y + 21 = 0$",
-    "q": "I. $x2 – 14x + 49 = 0$\nII. $y2 – 10y + 21 = 0$",
+    "question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "q": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
     "options": [
       {
         "id": "a",
-        "text": "$If x > y$",
+        "text": "2 hours",
         "image": null
       },
       {
         "id": "b",
-        "text": "$If x    \\ge    y$",
+        "text": "3 hours",
         "image": null
       },
       {
         "id": "c",
-        "text": "$If x < y$",
+        "text": "4 hours",
         "image": null
       },
       {
         "id": "d",
-        "text": "$If x    \\le    y$",
+        "text": "2.5 hours",
         "image": null
       },
       {
         "id": "e",
-        "text": "If x = y or no relation can be established between x and y",
+        "text": "None of these",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Quadratic Equations - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S70. Ans.(b)\nSol.\nI. $x^2-14x + 49 = 0$\nx^2 - 7x - 7x + 49 = 0\nx $= 7, 7$\nII. $y^2-10y + 21 = 0$\ny^2 - 7y - 3y + 21 = 0\ny = 7, 3\nSo, x     ≥     y\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4521,8 +4641,37 @@
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
-    "direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer.",
-    "raw_direction": "Directions (68-70):In each of these questions, two equation (I) and (II) are given. You have to solve both the equations and give answer."
+    "direction": "",
+    "raw_direction": "",
+    "raw_question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "2 hours",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3 hours",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "4 hours",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "2.5 hours",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct."
   },
   {
     "id": 71,

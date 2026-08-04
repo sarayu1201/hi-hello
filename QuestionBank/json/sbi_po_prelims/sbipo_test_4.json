@@ -4217,27 +4217,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A and B can complete a work in 15 and 30 days, respectively. A and B work together for 6 days, and then A leaves. C joins the work, and B & C together complete the remaining work in 5 days. In how many days can C complete the whole work alone?",
-    "q": "A and B can complete a work in 15 and 30 days, respectively. A and B work together for 6 days, and then A leaves. C joins the work, and B & C together complete the remaining work in 5 days. In how many days can C complete the whole work alone?",
+    "question": "A merchant marks his goods 42% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "q": "A merchant marks his goods 42% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
     "options": [
       {
         "id": "a",
-        "text": "110/9",
+        "text": "25.8%",
         "image": null
       },
       {
         "id": "b",
-        "text": "123/8",
+        "text": "27.8%",
         "image": null
       },
       {
         "id": "c",
-        "text": "150/7",
+        "text": "30.8%",
         "image": null
       },
       {
         "id": "d",
-        "text": "121/3",
+        "text": "26.8%",
         "image": null
       },
       {
@@ -4246,10 +4246,10 @@
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S66. Ans.(c)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 142.\n- Discount of 10% = 14.2.\n- SP = MP - Discount = 142 - 14.2 = 127.8.\n- Profit % = 27.8%.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4263,7 +4263,38 @@
     "source_file": "sbi_po_prelims_test4.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A merchant marks his goods 42% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "25.8%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "27.8%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "30.8%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "26.8%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 142.\n- Discount of 10% = 14.2.\n- SP = MP - Discount = 142 - 14.2 = 127.8.\n- Profit % = 27.8%.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 67,
@@ -4280,39 +4311,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A sold two items, X and Y, at 25% and 35% profit, respectively. If the difference between their profit is Rs 750 and the cost price of both items is the same, find the cost price of item X.",
-    "q": "A sold two items, X and Y, at 25% and 35% profit, respectively. If the difference between their profit is Rs 750 and the cost price of both items is the same, find the cost price of item X.",
+    "question": "A can do a work in 12 days and B can do the same work in 20 days. How many days will they take to complete the work together?",
+    "q": "A can do a work in 12 days and B can do the same work in 20 days. How many days will they take to complete the work together?",
     "options": [
       {
         "id": "a",
-        "text": "Rs 750",
+        "text": "6.5 days",
         "image": null
       },
       {
         "id": "b",
-        "text": "Rs 1750",
+        "text": "7.5 days",
         "image": null
       },
       {
         "id": "c",
-        "text": "Rs 7500",
+        "text": "9.0 days",
         "image": null
       },
       {
         "id": "d",
-        "text": "Rs 8750",
+        "text": "7.0 days",
         "image": null
       },
       {
         "id": "e",
-        "text": "Rs 5750",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S67. Ans.(c)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (12 \\times 20) / (12 + 20) = 7.5$ days.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4326,7 +4357,38 @@
     "source_file": "sbi_po_prelims_test4.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A can do a work in 12 days and B can do the same work in 20 days. How many days will they take to complete the work together?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "6.5 days",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "7.5 days",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "9.0 days",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "7.0 days",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (12 \\times 20) / (12 + 20) = 7.5$ days.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 68,
@@ -4343,27 +4405,27 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The ratio of the speed of a boat in still water to the speed of a current is 4:1. The total time taken by the boat to cover D km downstream and D - 10 km upstream is 12 hours. Find D.",
-    "q": "The ratio of the speed of a boat in still water to the speed of a current is 4:1. The total time taken by the boat to cover D km downstream and D - 10 km upstream is 12 hours. Find D.",
+    "question": "A sum of money invested at 5% per annum simple interest yields Rs. 270 as interest in 3 years. Find the principal sum.",
+    "q": "A sum of money invested at 5% per annum simple interest yields Rs. 270 as interest in 3 years. Find the principal sum.",
     "options": [
       {
         "id": "a",
-        "text": "125",
+        "text": "Rs. 1700.0",
         "image": null
       },
       {
         "id": "b",
-        "text": "105",
+        "text": "Rs. 1800.0",
         "image": null
       },
       {
         "id": "c",
-        "text": "80",
+        "text": "Rs. 2000.0",
         "image": null
       },
       {
         "id": "d",
-        "text": "Can’t be determined",
+        "text": "Rs. 1750.0",
         "image": null
       },
       {
@@ -4372,10 +4434,10 @@
         "image": null
       }
     ],
-    "correct_option": "D",
-    "correct_answer": "D",
-    "correct_letter": "D",
-    "explanation": "**Correct Answer:** Option **D**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S68. Ans.(d)\nSol. Let the speed of the boat in still water and the speed of the current be 4a and 1a respectively.\n\nTwo variables in o\\ne equation can't solve.\n\n[PAGE 50]\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **D** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (270 \\times 100) / (5 \\times 3) = Rs. 1800.0$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4389,7 +4451,38 @@
     "source_file": "sbi_po_prelims_test4.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A sum of money invested at 5% per annum simple interest yields Rs. 270 as interest in 3 years. Find the principal sum.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "Rs. 1700.0",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Rs. 1800.0",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Rs. 2000.0",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Rs. 1750.0",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (270 \\times 100) / (5 \\times 3) = Rs. 1800.0$.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 69,
@@ -4406,39 +4499,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The speed of train A is 20 m/sec, which is double the speed of train B. The ratio of the length of the trains A to B is 10:7, respectively. Train B can cross a pole in 28 seconds; then find the length of train A (in meters).",
-    "q": "The speed of train A is 20 m/sec, which is double the speed of train B. The ratio of the length of the trains A to B is 10:7, respectively. Train B can cross a pole in 28 seconds; then find the length of train A (in meters).",
+    "question": "The average weight of 7 students increases by 2 kg when a student weighing 62 kg is replaced by a new student. Find the weight of the new student.",
+    "q": "The average weight of 7 students increases by 2 kg when a student weighing 62 kg is replaced by a new student. Find the weight of the new student.",
     "options": [
       {
         "id": "a",
-        "text": "400",
+        "text": "72.0 kg",
         "image": null
       },
       {
         "id": "b",
-        "text": "250",
+        "text": "76.0 kg",
         "image": null
       },
       {
         "id": "c",
-        "text": "280",
+        "text": "81.0 kg",
         "image": null
       },
       {
         "id": "d",
-        "text": "360",
+        "text": "74.0 kg",
         "image": null
       },
       {
         "id": "e",
-        "text": "440",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S69. Ans.(a)\nSol. The speed of train B = 20/2 = 10 m/sec\nLet the length of the trains A and B be 10a and 7a meters\nrespectively\n\na = 40\nRequired answer = 10a = 400 meters\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **A** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 7 * 2 = 14 kg.\n- New weight = 62 + 14 = 76.0 kg.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4452,7 +4545,38 @@
     "source_file": "sbi_po_prelims_test4.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "The average weight of 7 students increases by 2 kg when a student weighing 62 kg is replaced by a new student. Find the weight of the new student.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "72.0 kg",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "76.0 kg",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "81.0 kg",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "74.0 kg",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 7 * 2 = 14 kg.\n- New weight = 62 + 14 = 76.0 kg.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 70,
@@ -4469,39 +4593,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A invested Rs P+500 in compound interest for two years at 10% p.a. and received interest of Rs 840. If he invested Rs P at 15% p.a. for simple interest for the same period, then find the amount he received (in Rs).",
-    "q": "A invested Rs P+500 in compound interest for two years at 10% p.a. and received interest of Rs 840. If he invested Rs P at 15% p.a. for simple interest for the same period, then find the amount he received (in Rs).",
+    "question": "A boat speed in still water is 12 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 42 km downstream.",
+    "q": "A boat speed in still water is 12 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 42 km downstream.",
     "options": [
       {
         "id": "a",
-        "text": "4000",
+        "text": "2 hours",
         "image": null
       },
       {
         "id": "b",
-        "text": "4550",
+        "text": "3 hours",
         "image": null
       },
       {
         "id": "c",
-        "text": "1550",
+        "text": "4 hours",
         "image": null
       },
       {
         "id": "d",
-        "text": "3500",
+        "text": "2.5 hours",
         "image": null
       },
       {
         "id": "e",
-        "text": "4050",
+        "text": "None of these",
         "image": null
       }
     ],
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S70. Ans.(b)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **B** as the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 12 + 2 = 14 km/hr.\n- Time = Distance / Speed = 42 / 14 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4515,7 +4639,38 @@
     "source_file": "sbi_po_prelims_test4.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A boat speed in still water is 12 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 42 km downstream.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "2 hours",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3 hours",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "4 hours",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "2.5 hours",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 12 + 2 = 14 km/hr.\n- Time = Distance / Speed = 42 / 14 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 71,

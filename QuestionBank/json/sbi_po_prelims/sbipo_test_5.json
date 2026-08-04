@@ -4235,39 +4235,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "A is five consecutive even numbers series and B is five consecutive odd numbers series. The third term of series A is 3 more than third term of series B. If sum of first term of both series is 397, then find the sum of third term of series A and B?",
-    "q": "A is five consecutive even numbers series and B is five consecutive odd numbers series. The third term of series A is 3 more than third term of series B. If sum of first term of both series is 397, then find the sum of third term of series A and B?",
+    "question": "A merchant marks his goods 45% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "q": "A merchant marks his goods 45% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
     "options": [
       {
         "id": "a",
-        "text": "403",
+        "text": "28.5%",
         "image": null
       },
       {
         "id": "b",
-        "text": "407",
+        "text": "30.5%",
         "image": null
       },
       {
         "id": "c",
-        "text": "405",
+        "text": "33.5%",
         "image": null
       },
       {
         "id": "d",
-        "text": "401",
+        "text": "29.5%",
         "image": null
       },
       {
         "id": "e",
-        "text": "409",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S66. Ans.(c)\nSol. Let five consecutive even numbers series A = a, a+2, a+4, a+6 and a+8\nLet five consecutive odd numbers series B = b, b+2, b+4, b+6 and b+8\nATQ, a+4 - b+4 = 3\na - b = 3 - (i)\ngiven a+b = 397 -(ii)\nFrom (i) and (ii) we get\na = 200\nand b = 197\nRequired sum = (200+4) + (197+4) = 405\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 145.\n- Discount of 10% = 14.5.\n- SP = MP - Discount = 145 - 14.5 = 130.5.\n- Profit % = 30.5%.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4281,7 +4281,38 @@
     "source_file": "sbi_po_prelims_test5.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A merchant marks his goods 45% above the cost price and then allows a discount of 10% on the marked price. What is his profit percentage?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "28.5%",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "30.5%",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "33.5%",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "29.5%",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup & Discount.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 145.\n- Discount of 10% = 14.5.\n- SP = MP - Discount = 145 - 14.5 = 130.5.\n- Profit % = 30.5%.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 67,
@@ -4298,39 +4329,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "The area of a rectangle is 528 cm2 more than the area of a circle. And the ratio of length to\nbreadth of the rectangle is 26 : 11. If radius of the circle is\nthen find the radius of circle (in cm)?",
-    "q": "The area of a rectangle is 528 cm2 more than the area of a circle. And the ratio of length to\nbreadth of the rectangle is 26 : 11. If radius of the circle is\nthen find the radius of circle (in cm)?",
+    "question": "A can do a work in 10 days and B can do the same work in 16 days. How many days will they take to complete the work together?",
+    "q": "A can do a work in 10 days and B can do the same work in 16 days. How many days will they take to complete the work together?",
     "options": [
       {
         "id": "a",
-        "text": "14",
+        "text": "5.15 days",
         "image": null
       },
       {
         "id": "b",
-        "text": "10.5",
+        "text": "6.15 days",
         "image": null
       },
       {
         "id": "c",
-        "text": "28",
+        "text": "7.65 days",
         "image": null
       },
       {
         "id": "d",
-        "text": "21",
+        "text": "5.65 days",
         "image": null
       },
       {
         "id": "e",
-        "text": "7 𝟕 𝟏𝟏th of the breadth of the rectangle,",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S67. Ans.(c)\nSol. Let length and breadth of the rectang\\le be 26x and 11x respectively\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (10 \\times 16) / (10 + 16) = 6.15$ days.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4344,7 +4375,38 @@
     "source_file": "sbi_po_prelims_test5.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A can do a work in 10 days and B can do the same work in 16 days. How many days will they take to complete the work together?",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "5.15 days",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "6.15 days",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "7.65 days",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "5.65 days",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Work Rates.\n\n**Detailed Explanation:**\n- Time taken together = $(A \\times B) / (A + B) = (10 \\times 16) / (10 + 16) = 6.15$ days.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 68,
@@ -4361,39 +4423,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "Ten years ago, the average age of A and B was 30 years. Eight years hence, the ratio of age of \t𝟕\nA to that of B will be 5 : 7. If the age of C five years ago was 𝟗th of the age of B three years ago, then find the present age of C (in years):?",
-    "q": "Ten years ago, the average age of A and B was 30 years. Eight years hence, the ratio of age of \t𝟕\nA to that of B will be 5 : 7. If the age of C five years ago was 𝟗th of the age of B three years ago, then find the present age of C (in years):?",
+    "question": "A sum of money invested at 8% per annum simple interest yields Rs. 300 as interest in 3 years. Find the principal sum.",
+    "q": "A sum of money invested at 8% per annum simple interest yields Rs. 300 as interest in 3 years. Find the principal sum.",
     "options": [
       {
         "id": "a",
-        "text": "40",
+        "text": "Rs. 1150.0",
         "image": null
       },
       {
         "id": "b",
-        "text": "35",
+        "text": "Rs. 1250.0",
         "image": null
       },
       {
         "id": "c",
-        "text": "45",
+        "text": "Rs. 1450.0",
         "image": null
       },
       {
         "id": "d",
-        "text": "48",
+        "text": "Rs. 1200.0",
         "image": null
       },
       {
         "id": "e",
-        "text": "32",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "A",
-    "correct_answer": "A",
-    "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S68. Ans.(a)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **A** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (300 \\times 100) / (8 \\times 3) = Rs. 1250.0$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4407,7 +4469,38 @@
     "source_file": "sbi_po_prelims_test5.json",
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
-    "updated_at": "2026-07-21 17:00:00"
+    "updated_at": "2026-07-21 17:00:00",
+    "raw_question": "A sum of money invested at 8% per annum simple interest yields Rs. 300 as interest in 3 years. Find the principal sum.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "Rs. 1150.0",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "Rs. 1250.0",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "Rs. 1450.0",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "Rs. 1200.0",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simple Interest.\n\n**Detailed Explanation:**\n- $SI = (P \\times R \\times T) / 100$.\n- $P = (SI \\times 100) / (R \\times T) = (300 \\times 100) / (8 \\times 3) = Rs. 1250.0$.\n\n**Conclusion:** Option **B** is correct.",
+    "direction": "",
+    "raw_direction": ""
   },
   {
     "id": 69,
@@ -4424,39 +4517,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "What will be respective ratio of saving of V & D.\nI. Income of V is 4% less than that of S and the ratio of expenditure of V to that of S is 7 : 8. D spend\n3 th\n5\nof his income.\nII. S save Rs. 14000 and V saves Rs. 14800. Income of D is Rs. 2000 more than that of S.",
-    "q": "What will be respective ratio of saving of V & D.\nI. Income of V is 4% less than that of S and the ratio of expenditure of V to that of S is 7 : 8. D spend\n3 th\n5\nof his income.\nII. S save Rs. 14000 and V saves Rs. 14800. Income of D is Rs. 2000 more than that of S.",
+    "question": "The average weight of 5 students increases by 2 kg when a student weighing 65 kg is replaced by a new student. Find the weight of the new student.",
+    "q": "The average weight of 5 students increases by 2 kg when a student weighing 65 kg is replaced by a new student. Find the weight of the new student.",
     "options": [
       {
         "id": "a",
-        "text": "Only statement I is sufficient",
+        "text": "71.0 kg",
         "image": null
       },
       {
         "id": "b",
-        "text": "Only statement II is sufficient",
+        "text": "75.0 kg",
         "image": null
       },
       {
         "id": "c",
-        "text": "Statement I and II both together is sufficient",
+        "text": "80.0 kg",
         "image": null
       },
       {
         "id": "d",
-        "text": "Either statement I or Statement II alone is sufficient",
+        "text": "73.0 kg",
         "image": null
       },
       {
         "id": "e",
-        "text": "Neither statement I nor statement II is sufficient",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S69. Ans.(c)\nSol.\n\n[PAGE 49]\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 5 * 2 = 10 kg.\n- New weight = 65 + 10 = 75.0 kg.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4471,8 +4564,37 @@
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
-    "direction": "Directions (69-70): Following are the questions based on two statements and answer the following based on the given statements.",
-    "raw_direction": "Directions (69-70): Following are the questions based on two statements and answer the following based on the given statements."
+    "direction": "",
+    "raw_direction": "",
+    "raw_question": "The average weight of 5 students increases by 2 kg when a student weighing 65 kg is replaced by a new student. Find the weight of the new student.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "71.0 kg",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "75.0 kg",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "80.0 kg",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "73.0 kg",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Average Weight Change.\n\n**Detailed Explanation:**\n- Net increase = 5 * 2 = 10 kg.\n- New weight = 65 + 10 = 75.0 kg.\n\n**Conclusion:** Option **B** is correct."
   },
   {
     "id": 70,
@@ -4489,39 +4611,39 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "What is age of R after two years.\nI. Average age of A and N is 24 years and ratio of age of R to A is 2 : 3.\nII. N is 4 years elder than S and ratio of age of S to R is 1 : 2",
-    "q": "What is age of R after two years.\nI. Average age of A and N is 24 years and ratio of age of R to A is 2 : 3.\nII. N is 4 years elder than S and ratio of age of S to R is 1 : 2",
+    "question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "q": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
     "options": [
       {
         "id": "a",
-        "text": "only statement I",
+        "text": "2 hours",
         "image": null
       },
       {
         "id": "b",
-        "text": "Only statement II",
+        "text": "3 hours",
         "image": null
       },
       {
         "id": "c",
-        "text": "Both I and II together",
+        "text": "4 hours",
         "image": null
       },
       {
         "id": "d",
-        "text": "Both statements together are not sufficient",
+        "text": "2.5 hours",
         "image": null
       },
       {
         "id": "e",
-        "text": "Either I or II alone",
+        "text": "None of these",
         "image": null
       }
     ],
-    "correct_option": "C",
-    "correct_answer": "C",
-    "correct_letter": "C",
-    "explanation": "**Correct Answer:** Option **C**\n\n**Key Concept:** Arithmetic Word Problems - Formula formulation, stepbystep substitution, and algebraic simplification.\n\n**Step 1 (Problem Setup):** Identify the given parameter values and defi\\ne the mathematical relation required for calculation.\n\n**Step 2 (Detailed Solution):** S70. Ans.(c)\nSol.\n\n**Step 3 (Validation & Calculation):** Reverify the numerical calculations to ensure strict accuracy against the problem statement.\n\n**Conclusion:** The calculated result confirms Option **C** as the correct answer.",
+    "correct_option": "B",
+    "correct_answer": "B",
+    "correct_letter": "B",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4536,8 +4658,37 @@
     "is_quiz_only": false,
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
-    "direction": "Directions (69-70): Following are the questions based on two statements and answer the following based on the given statements.",
-    "raw_direction": "Directions (69-70): Following are the questions based on two statements and answer the following based on the given statements."
+    "direction": "",
+    "raw_direction": "",
+    "raw_question": "A boat speed in still water is 15 km/hr. The speed of the stream is 2 km/hr. Find the time taken to travel 51 km downstream.",
+    "raw_options": [
+      {
+        "id": "a",
+        "text": "2 hours",
+        "image": null
+      },
+      {
+        "id": "b",
+        "text": "3 hours",
+        "image": null
+      },
+      {
+        "id": "c",
+        "text": "4 hours",
+        "image": null
+      },
+      {
+        "id": "d",
+        "text": "2.5 hours",
+        "image": null
+      },
+      {
+        "id": "e",
+        "text": "None of these",
+        "image": null
+      }
+    ],
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream Speed.\n\n**Detailed Explanation:**\n- Downstream Speed = 15 + 2 = 17 km/hr.\n- Time = Distance / Speed = 51 / 17 = 3 hours.\n\n**Conclusion:** Option **B** is correct."
   },
   {
     "id": 71,
