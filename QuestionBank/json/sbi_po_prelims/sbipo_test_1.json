@@ -3783,8 +3783,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "",
-    "q": "",
+    "question": "\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?",
+    "q": "\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?",
     "options": [
       {
         "id": "a",
@@ -3831,7 +3831,8 @@
     "created_at": "2026-07-21 17:00:00",
     "updated_at": "2026-07-21 17:00:00",
     "direction": "Directions (55-60) :What approximate value will come in place of question mark (?) in the following questions (You are not expected to calculate the exact value) .",
-    "raw_direction": "Directions (55-60) :What approximate value will come in place of question mark (?) in the following questions (You are not expected to calculate the exact value) ."
+    "raw_direction": "Directions (55-60) :What approximate value will come in place of question mark (?) in the following questions (You are not expected to calculate the exact value) .",
+    "raw_question": "\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?"
   },
   {
     "id": 60,
@@ -4260,7 +4261,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Partnership and Profit Distribution.\n\n**Detailed Explanation:**\n- Let initial investments of A, B, C be $3x, 5x, 7x$.\n- C's share = $7x \\times 1 = 7x$.\n- A's share = $3x \\times 1 + 6x \\times 2 = 15x$.\n- B's share = $5x \\times 1 + 10x \\times 2 = 25x$.\n- Profit ratio = $15 : 25 : 7$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Partnership and Profit Distribution.\n\n**Detailed Explanation:**\n- Let the initial investments of A, B and C be $3x, 5x$ and $7x$ respectively.\n- C invested $7x$ for 1 year. C's share equivalent = $7x \\times 1 = 7x$.\n- A invested $3x$ for the 1st year and $6x$ (doubled) for the next 2 years. A's share equivalent = $3x \\times 1 + 6x \\times 2 = 15x$.\n- B invested $5x$ for the 1st year and $10x$ (doubled) for the next 2 years. B's share equivalent = $5x \\times 1 + 10x \\times 2 = 25x$.\n- The ratio of their profit shares at the end of 3 years is A : B : C = $15x : 25x : 7x = 15 : 25 : 7$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -4303,7 +4304,7 @@
         "image": null
       }
     ],
-    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Partnership and Profit Distribution.\n\n**Detailed Explanation:**\n- Let initial investments of A, B, C be $3x, 5x, 7x$.\n- C's share = $7x \\times 1 = 7x$.\n- A's share = $3x \\times 1 + 6x \\times 2 = 15x$.\n- B's share = $5x \\times 1 + 10x \\times 2 = 25x$.\n- Profit ratio = $15 : 25 : 7$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Partnership and Profit Distribution.\n\n**Detailed Explanation:**\n- Let the initial investments of A, B and C be $3x, 5x$ and $7x$ respectively.\n- C invested $7x$ for 1 year. C's share equivalent = $7x \\times 1 = 7x$.\n- A invested $3x$ for the 1st year and $6x$ (doubled) for the next 2 years. A's share equivalent = $3x \\times 1 + 6x \\times 2 = 15x$.\n- B invested $5x$ for the 1st year and $10x$ (doubled) for the next 2 years. B's share equivalent = $5x \\times 1 + 10x \\times 2 = 25x$.\n- The ratio of their profit shares at the end of 3 years is A : B : C = $15x : 25x : 7x = 15 : 25 : 7$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
     "direction": "",
     "raw_direction": ""
   },
@@ -4354,7 +4355,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Time & Work.\n\n**Detailed Explanation:**\n- Total work = LCM(12, 18) = 36 units.\n- A's efficiency = 3 units/day, B's efficiency = 2 units/day.\n- B worked alone for the last 3 days: $3 \\times 2 = 6$ units.\n- Remaining 30 units done by A & B together: $30 / 5 = 6$ days.\n- Total time = $6 + 3 = 9$ days.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Time and Work with exit conditions.\n\n**Detailed Explanation:**\n- Let the total work be LCM(12, 18) = 36 units.\n- Efficiency of A = $36 / 12 = 3$ units/day.\n- Efficiency of B = $36 / 18 = 2$ units/day.\n- Since A left 3 days before completion, B worked alone for the last 3 days.\n- Work completed by B in the last 3 days = $3 \\times 2 = 6$ units.\n- Remaining work completed by A and B together = $36 - 6 = 30$ units.\n- Time taken by A and B together to complete 30 units = $30 / (3 + 2) = 6$ days.\n- Total time taken to complete the entire work = $6 \\text{ days (together)} + 3 \\text{ days (B alone)} = 9$ days.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -4399,7 +4400,7 @@
         "image": null
       }
     ],
-    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Time & Work.\n\n**Detailed Explanation:**\n- Total work = LCM(12, 18) = 36 units.\n- A's efficiency = 3 units/day, B's efficiency = 2 units/day.\n- B worked alone for the last 3 days: $3 \\times 2 = 6$ units.\n- Remaining 30 units done by A & B together: $30 / 5 = 6$ days.\n- Total time = $6 + 3 = 9$ days.\n\n**Conclusion:** Hence, Option **B** is the correct response."
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Time and Work with exit conditions.\n\n**Detailed Explanation:**\n- Let the total work be LCM(12, 18) = 36 units.\n- Efficiency of A = $36 / 12 = 3$ units/day.\n- Efficiency of B = $36 / 18 = 2$ units/day.\n- Since A left 3 days before completion, B worked alone for the last 3 days.\n- Work completed by B in the last 3 days = $3 \\times 2 = 6$ units.\n- Remaining work completed by A and B together = $36 - 6 = 30$ units.\n- Time taken by A and B together to complete 30 units = $30 / (3 + 2) = 6$ days.\n- Total time taken to complete the entire work = $6 \\text{ days (together)} + 3 \\text{ days (B alone)} = 9$ days.\n\n**Conclusion:** Hence, Option **B** is the correct response."
   },
   {
     "id": 68,
@@ -4448,7 +4449,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI.\n\n**Detailed Explanation:**\n- $CI - SI = P \\times (R / 100)^2$.\n- $150 = P \\times (10 / 100)^2 \\implies P = 150 \\times 100 = 15,000$.\n\n**Conclusion:** Hence, Option **A** is the correct response.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI for 2 years.\n\n**Detailed Explanation:**\n- The formula for the difference between CI and SI for 2 years is: $CI - SI = P \\times (R / 100)^2$.\n- Given: Difference = Rs. 150, Rate (R) = 10%.\n- Substituting the values: $150 = P \\times (10 / 100)^2 \\implies 150 = P \\times (1 / 100) \\implies P = 150 \\times 100 = 15,000$.\n- Thus, the principal sum of money is Rs. 15,000.\n\n**Conclusion:** Hence, Option **A** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -4493,7 +4494,7 @@
         "image": null
       }
     ],
-    "raw_explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI.\n\n**Detailed Explanation:**\n- $CI - SI = P \\times (R / 100)^2$.\n- $150 = P \\times (10 / 100)^2 \\implies P = 150 \\times 100 = 15,000$.\n\n**Conclusion:** Hence, Option **A** is the correct response."
+    "raw_explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI for 2 years.\n\n**Detailed Explanation:**\n- The formula for the difference between CI and SI for 2 years is: $CI - SI = P \\times (R / 100)^2$.\n- Given: Difference = Rs. 150, Rate (R) = 10%.\n- Substituting the values: $150 = P \\times (10 / 100)^2 \\implies 150 = P \\times (1 / 100) \\implies P = 150 \\times 100 = 15,000$.\n- Thus, the principal sum of money is Rs. 15,000.\n\n**Conclusion:** Hence, Option **A** is the correct response."
   },
   {
     "id": 69,
@@ -4542,7 +4543,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Profit & Loss.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 140.\n- Discount = 20% of 140 = 28.\n- SP = $140 - 28 = 112$.\n- Profit = $112 - 100 = 12\\%$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup, Discount, and Net Profit.\n\n**Detailed Explanation:**\n- Let the Cost Price (CP) of the goods be Rs. 100.\n- Since the goods are marked 40% above CP, the Marked Price (MP) = $100 + 40 = \\text{Rs. } 140$.\n- A discount of 20% is allowed on MP. Discount amount = $20\\% \\text{ of } 140 = 28$.\n- Selling Price (SP) = $\\text{MP} - \\text{Discount} = 140 - 28 = 112$.\n- Net Profit = $\\text{SP} - \\text{CP} = 112 - 100 = 12$.\n- Profit Percentage = $(12 / 100) \\times 100 = 12\\%$.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -4587,7 +4588,7 @@
         "image": null
       }
     ],
-    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Profit & Loss.\n\n**Detailed Explanation:**\n- Let CP = 100. MP = 140.\n- Discount = 20% of 140 = 28.\n- SP = $140 - 28 = 112$.\n- Profit = $112 - 100 = 12\\%$.\n\n**Conclusion:** Hence, Option **B** is the correct response."
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Markup, Discount, and Net Profit.\n\n**Detailed Explanation:**\n- Let the Cost Price (CP) of the goods be Rs. 100.\n- Since the goods are marked 40% above CP, the Marked Price (MP) = $100 + 40 = \\text{Rs. } 140$.\n- A discount of 20% is allowed on MP. Discount amount = $20\\% \\text{ of } 140 = 28$.\n- Selling Price (SP) = $\\text{MP} - \\text{Discount} = 140 - 28 = 112$.\n- Net Profit = $\\text{SP} - \\text{CP} = 112 - 100 = 12$.\n- Profit Percentage = $(12 / 100) \\times 100 = 12\\%$.\n\n**Conclusion:** Hence, Option **B** is the correct response."
   },
   {
     "id": 70,
@@ -4636,7 +4637,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Speed downstream.\n\n**Detailed Explanation:**\n- Speed downstream = $13 + 4 = 17$ km/hr.\n- Distance = 68 km.\n- Time = $68 / 17 = 4$ hours.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream speed and time.\n\n**Detailed Explanation:**\n- Speed of the boat in still water ($u$) = 13 km/hr.\n- Speed of the stream ($v$) = 4 km/hr.\n- Downstream speed of the boat = $u + v = 13 + 4 = 17$ km/hr.\n- Distance downstream = 68 km.\n- Time taken = Distance / Downstream Speed = $68 / 17 = 4$ hours.\n\n**Conclusion:** Hence, Option **B** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -4681,7 +4682,7 @@
         "image": null
       }
     ],
-    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Speed downstream.\n\n**Detailed Explanation:**\n- Speed downstream = $13 + 4 = 17$ km/hr.\n- Distance = 68 km.\n- Time = $68 / 17 = 4$ hours.\n\n**Conclusion:** Hence, Option **B** is the correct response."
+    "raw_explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Downstream speed and time.\n\n**Detailed Explanation:**\n- Speed of the boat in still water ($u$) = 13 km/hr.\n- Speed of the stream ($v$) = 4 km/hr.\n- Downstream speed of the boat = $u + v = 13 + 4 = 17$ km/hr.\n- Distance downstream = 68 km.\n- Time taken = Distance / Downstream Speed = $68 / 17 = 4$ hours.\n\n**Conclusion:** Hence, Option **B** is the correct response."
   },
   {
     "id": 71,
