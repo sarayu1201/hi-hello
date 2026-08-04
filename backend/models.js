@@ -136,6 +136,8 @@ QuestionSchema.index({ paper_name: 1 });
 QuestionSchema.index({ test_title: 1 });
 QuestionSchema.index({ course: 1 });
 QuestionSchema.index({ exam_type: 1 });
+QuestionSchema.index({ subject: 1 });
+QuestionSchema.index({ course: 1, paper_name: 1, subject: 1 });
 
 // Topic Leaderboard Schema (to store leaderboard arrays)
 const LeaderboardSchema = new mongoose.Schema({

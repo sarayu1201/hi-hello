@@ -5473,12 +5473,29 @@ function cleanOptionTextJs(text, index) {
   return textStr;
 }
 
+const getCourseFilter = (courseId) => {
+  if (!courseId) return [];
+  const normalized = courseId.toLowerCase().trim();
+  
+  if (normalized === "sbi_clerk") return ["sbi clerk"];
+  if (normalized === "sbi_po") return ["sbi_po_prelims", "sbi po"];
+  if (normalized === "ibps_clerk") return ["ibps_clerk_prelims", "ibps clerk"];
+  if (normalized === "ibps_po") return ["ibps_po_prelims", "ibps po"];
+  if (normalized === "rrb_clerk") return ["rrb_clerk"];
+  if (normalized === "rrb_po") return ["rrb_po"];
+  if (normalized === "ssc_cgl") return ["ssc_cgl_prelims", "ssc cgl"];
+  if (normalized === "ssc_chsl") return ["ssc_chsl_tier1_papers", "ssc_chsl_tier2_papers", "ssc chsl"];
+  if (normalized === "rrb_ntpc") return ["rrb_ntpc_cbt_1", "rrb_ntpc_cbt_2", "rrb ntpc"];
+  
+  return [courseId, courseId.replace(/_/g, " "), courseId.replace(/ /g, "_")];
+};
+
 // Admin API: Get distinct papers for a course
 app.get("/api/admin/papers", verifyAdmin, async (req, res) => {
   try {
     const { course } = req.query;
     if (!course) return res.status(400).json({ error: "Course is required" });
-    const papers = await Question.distinct("paper_name", { course });
+    const papers = await Question.distinct("paper_name", { course: { $in: getCourseFilter(course) } });
     res.json({ success: true, papers: papers.filter(Boolean) });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -5490,7 +5507,7 @@ app.get("/api/admin/sections", verifyAdmin, async (req, res) => {
   try {
     const { course, paper } = req.query;
     if (!course || !paper) return res.status(400).json({ error: "Course and paper are required" });
-    const sections = await Question.distinct("subject", { course, paper_name: paper });
+    const sections = await Question.distinct("subject", { course: { $in: getCourseFilter(course) }, paper_name: paper });
     res.json({ success: true, sections: sections.filter(Boolean) });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -5505,7 +5522,7 @@ app.get("/api/admin/questions-list", verifyAdmin, async (req, res) => {
       return res.status(400).json({ error: "Course, paper, and section are required" });
     }
     const questions = await Question.find(
-      { course, paper_name: paper, subject: section },
+      { course: { $in: getCourseFilter(course) }, paper_name: paper, subject: section },
       { unique_id: 1, display_question_number: 1, question_number: 1 }
     ).sort({ display_question_number: 1, question_number: 1 });
     res.json({ success: true, questions });
