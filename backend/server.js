@@ -5942,6 +5942,18 @@ app.get("/api/debug-env", (req, res) => {
   }
 });
 
+// GET /api/review/meta - Fetch distinct exams, papers, sections for dropdowns
+app.get("/api/review/meta", verifyAdmin, async (req, res) => {
+  try {
+    const exams = await Question.distinct("exam_type");
+    const papers = await Question.distinct("paper_name");
+    const sections = await Question.distinct("section");
+    res.json({ success: true, exams, papers, sections });
+  } catch (err) {
+    res.status(500).json({ success: false, error: err.message });
+  }
+});
+
 // GET /api/review - Search, Filter, Pagination
 app.get("/api/review", verifyAdmin, async (req, res) => {
   try {
@@ -5955,13 +5967,15 @@ app.get("/api/review", verifyAdmin, async (req, res) => {
       review_reason, 
       exam_type, 
       paper_name, 
-      parser_version 
+      parser_version,
+      section,
+      question_number
     } = req.query;
 
     const filter = {};
     
     // Status filter
-    if (status) {
+    if (status && status !== "all") {
       filter.status = status;
     }
     
@@ -6000,6 +6014,16 @@ app.get("/api/review", verifyAdmin, async (req, res) => {
     // Parser version filter
     if (parser_version) {
       filter.parser_version = parser_version;
+    }
+
+    // Section/Subject filter
+    if (section) {
+      filter.section = section;
+    }
+
+    // Question number filter
+    if (question_number) {
+      filter.question_number = parseInt(question_number, 10);
     }
 
     const skipIdx = (parseInt(page) - 1) * parseInt(limit);
