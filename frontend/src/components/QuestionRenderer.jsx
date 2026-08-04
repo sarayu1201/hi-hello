@@ -316,7 +316,7 @@ export default function QuestionRenderer({ text, direction = "", subject = "", c
       {processedDirection && (
         <div className="bg-slate-50 border-l-4 border-indigo-600 p-4 rounded-r-lg mb-4 text-slate-700 text-sm md:text-base font-normal shadow-sm whitespace-pre-wrap">
           <div className="font-bold text-xs text-indigo-600 uppercase tracking-wider mb-2">Directions</div>
-          <div>{processedDirection}</div>
+          <div className="whitespace-pre-wrap">{processedDirection}</div>
         </div>
       )}
       <div className="font-semibold text-slate-900">
