@@ -21,6 +21,7 @@ const renderLaTeX = (text, subject = "", direction = "") => {
   return <QuestionRenderer text={text} direction={direction} subject={subject} />;
 };
 
+
 // Helper to reconstruct questions list for past attempts if they don't contain it
 const reconstructAttemptQuestions = (attempt) => {
   if (!attempt) return [];

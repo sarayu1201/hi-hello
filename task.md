@@ -1,0 +1,5 @@
+- [x] Create Python script `scratch/fix_all_explanations_source.py`
+- [x] Implement thorough LaTeX repair, bracket balancing, and subject categorization in the script
+- [x] Traverse all exam categories on disk (including quant and rrb_clerk)
+- [x] Update local JSON files and MongoDB database questions
+- [x] Validate JSON syntax and verify files are error-free
