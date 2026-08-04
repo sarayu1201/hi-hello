@@ -5477,17 +5477,47 @@ const getCourseFilter = (courseId) => {
   if (!courseId) return [];
   const normalized = courseId.toLowerCase().trim();
   
-  if (normalized === "sbi_clerk") return ["sbi clerk"];
-  if (normalized === "sbi_po") return ["sbi_po_prelims", "sbi po"];
-  if (normalized === "ibps_clerk") return ["ibps_clerk_prelims", "ibps clerk"];
-  if (normalized === "ibps_po") return ["ibps_po_prelims", "ibps po"];
-  if (normalized === "rrb_clerk") return ["rrb_clerk"];
-  if (normalized === "rrb_po") return ["rrb_po"];
-  if (normalized === "ssc_cgl") return ["ssc_cgl_prelims", "ssc cgl"];
-  if (normalized === "ssc_chsl") return ["ssc_chsl_tier1_papers", "ssc_chsl_tier2_papers", "ssc chsl"];
-  if (normalized === "rrb_ntpc") return ["rrb_ntpc_cbt_1", "rrb_ntpc_cbt_2", "rrb ntpc"];
+  if (normalized === "sbi_clerk" || normalized === "sbi clerk") {
+    return ["SBI Clerk Prelims", "sbi clerk", "sbi_clerk"];
+  }
+  if (normalized === "sbi_po" || normalized === "sbi po") {
+    return ["SBI PO", "sbi po", "sbi_po", "sbi_po_prelims"];
+  }
+  if (normalized === "ibps_clerk" || normalized === "ibps clerk") {
+    return ["IBPS Clerk Prelims", "ibps clerk", "ibps_clerk", "ibps_clerk_prelims"];
+  }
+  if (normalized === "ibps_po" || normalized === "ibps po") {
+    return ["IBPS PO Prelims", "ibps po", "ibps_po", "ibps_po_prelims"];
+  }
+  if (normalized === "rrb_clerk" || normalized === "rrb clerk") {
+    return ["rrb_clerk", "rrb clerk", "RRB Clerk"];
+  }
+  if (normalized === "rrb_po" || normalized === "rrb po") {
+    return ["rrb_po", "rrb po", "RRB PO"];
+  }
+  if (normalized === "ssc_cgl" || normalized === "ssc cgl") {
+    return ["SSC CGL", "ssc cgl", "ssc_cgl", "ssc_cgl_prelims"];
+  }
+  if (normalized === "ssc_chsl" || normalized === "ssc chsl") {
+    return ["SSC CHSL", "ssc chsl", "ssc_chsl", "ssc_chsl_tier1_papers", "ssc_chsl_tier2_papers"];
+  }
+  if (normalized === "rrb_ntpc" || normalized === "rrb ntpc") {
+    return ["RRB NTPC CBT 1", "RRB NTPC CBT 2", "rrb ntpc", "rrb_ntpc_cbt_1", "rrb_ntpc_cbt_2"];
+  }
+  if (normalized === "rrb_gd" || normalized === "rrb_group_d" || normalized === "rrb_groupd" || normalized === "rrb_group_d_telugu") {
+    return ["rrb_groupd", "rrb_gd", "rrb gd", "rrb_group_d", "rrb_group_d_telugu", "RRB/RRC Group D"];
+  }
+  if (normalized === "ssc_gd" || normalized === "sc_gd") {
+    return ["sc_gd", "ssc_gd", "ssc gd", "SSC GD Constable"];
+  }
   
-  return [courseId, courseId.replace(/_/g, " "), courseId.replace(/ /g, "_")];
+  return [
+    courseId,
+    courseId.replace(/_/g, " "),
+    courseId.replace(/ /g, "_"),
+    courseId.toLowerCase(),
+    courseId.toUpperCase()
+  ];
 };
 
 // Admin API: Get distinct papers for a course
