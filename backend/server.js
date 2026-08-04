@@ -5993,7 +5993,16 @@ app.get("/api/debug-env", (req, res) => {
 app.get("/api/review/meta", verifyAdmin, async (req, res) => {
   try {
     const exams = await Question.distinct("exam_type");
-    const papers = await Question.distinct("paper_name");
+    
+    // Get unique combinations of paper_name and exam_type
+    const paperDocs = await Question.aggregate([
+      { $group: { _id: { paper_name: "$paper_name", exam_type: "$exam_type" } } }
+    ]);
+    const papers = paperDocs.map(d => ({
+      name: d._id.paper_name,
+      exam_type: d._id.exam_type
+    })).filter(p => p.name && p.exam_type);
+
     const sections = await Question.distinct("section");
     res.json({ success: true, exams, papers, sections });
   } catch (err) {

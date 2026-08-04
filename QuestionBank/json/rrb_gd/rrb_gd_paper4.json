@@ -1230,7 +1230,7 @@
     "subject": "Mathematics",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "If (x^2 - 1)/x = 4, then find value of (x^6 - 1)/x^3",
+    "question": "If $(x^2$ - 1)/x = 4, then find value of $(x^6$ - 1)/$x^3$",
     "questionImage": "rrb_gd_tier1_paper4_q35.png",
     "options": [
       {
@@ -1255,7 +1255,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "x - 1/x = 4. x^3 - 1/x^3 = 4^3 + 3(4) = 64 + 12 = 76.",
+    "explanation": "x - 1/x = 4. $x^3$ - 1/$x^3$ = $4^3$ + 3(4) = 64 + 12 = 76.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1471,7 +1471,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Volume hollow = pi * (6^2 - 5.5^2) * 15 = 86.25 pi. Height solid = 86.25 / 4 = 21.56 cm.",
+    "explanation": "Volume hollow = pi * $(6^2$ - 5.$5^2)$ * 15 = 86.25 pi. Height solid = 86.25 / 4 = 21.56 cm.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1662,32 +1662,32 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "Simplify: [ sin^2(theta) * (1 + cot^2(theta)) ] / [ sec^2(theta) - 1 ]",
-    "questionImage":null,
+    "question": "Simplify: [ $s$i$n^2(thet$a$)$ * (1 + $c$o$t^2(theta$)$)$ ] / [ $s$e$c^2(thet$a$)$ - 1 ]",
+    "questionImage": null,
     "options": [
       {
         "id": "A",
-        "text": "tan^2 theta",
+        "text": "$tan^2$ theta",
         "image": null
       },
       {
         "id": "B",
-        "text": "1 - cot^2 theta",
+        "text": "1 - $cot^2$ theta",
         "image": null
       },
       {
         "id": "C",
-        "text": "cosec^2 theta",
+        "text": "$cosec^2$ theta",
         "image": null
       },
       {
         "id": "D",
-        "text": "cot^2 theta",
+        "text": "$cot^2$ theta",
         "image": null
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Numerator = sin^2 * cosec^2 = 1. Denominator = tan^2 theta. 1 / tan^2 theta = cot^2 theta.",
+    "explanation": "Numerator = $sin^2$ * $cosec^2$ = 1. Denominator = $tan^2$ theta. 1 / $tan^2$ theta = $cot^2$ theta.",
     "marks": 1,
     "negativeMarks": 0.33
   },

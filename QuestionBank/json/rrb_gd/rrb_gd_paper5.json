@@ -906,7 +906,7 @@
     "subject": "Mathematics",
     "topic": "Simplification",
     "difficulty": "Medium",
-    "question": "Simplify: sqrt( sqrt(24^2 - 16^2 + 2^2) + sqrt(2^2 * 3^2 + sqrt(169)) )",
+    "question": "Simplify: sqrt( $sqrt(24^2$ - $16^2$ + $2^2)$ + $sqrt(2^2$ * $3^2$ + sqrt(169)) )",
     "questionImage": null,
     "options": [
       {
@@ -942,7 +942,7 @@
     "subject": "Mathematics",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "Solve: [ (9.73)^3 + (7.27)^3 ] / [ (9.73)^2 - 9.73*7.27 + (7.27)^2 ]",
+    "question": "Solve: [ (9.$73)^3$ + (7.$27)^3$ ] / [ (9.$73)^2$ - 9.73*7.27 + (7.$27)^2$ ]",
     "questionImage": null,
     "options": [
       {
@@ -967,7 +967,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "(a^3 + b^3) / (a^2 - ab + b^2) = a + b = 9.73 + 7.27 = 17.",
+    "explanation": "$(a^3$ + $b^3)$ / $(a^2$ - ab + $b^2)$ = a + b = 9.73 + 7.27 = 17.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1039,7 +1039,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "Surface area factor = 1.25^2 = 1.5625 -> 56.25% increase.",
+    "explanation": "Surface area factor = 1.$25^2$ = 1.5625 -> 56.25% increase.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1302,7 +1302,7 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "Find the value of sec^2 50° - tan^2 50°.",
+    "question": "Find the value of $sec^2$ 50° - $tan^2$ 50°.",
     "questionImage": null,
     "options": [
       {
@@ -1327,7 +1327,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "By standard trigonometric identity, sec^2(theta) - tan^2(theta) = 1.",
+    "explanation": "By standard trigonometric identity, $s$e$c^2(thet$a$)$ - $t$a$n^2(thet$a$)$ = 1.",
     "marks": 1,
     "negativeMarks": 0.33
   },

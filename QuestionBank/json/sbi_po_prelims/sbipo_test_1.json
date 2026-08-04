@@ -3783,8 +3783,8 @@
     "subject": "Quantitative Aptitude",
     "section": "Quantitative Aptitude",
     "category": "Bank & Insurance",
-    "question": "$\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?$",
-    "q": "$\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?$",
+    "question": "$\\sqrt[3]{729.14} + 11.$01^3$ + 60.24\\% \\text{ of } 449.86 = ?$",
+    "q": "$\\sqrt[3]{729.14} + 11.$01^3$ + 60.24\\% \\text{ of } 449.86 = ?$",
     "options": [
       {
         "id": "a",
@@ -3815,7 +3815,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simplification & Approximation\n\n**Step 1 (Setup):** Round the decimal values to the nearest integers/cubes:\n- \\sqrt[3]{729.14} \\approx \\sqrt[3]{729} = 9\n- 11.01^3 \\approx 11^3 = 1331\n- 60.24% \\approx 60%\n- 449.86 \\approx 450\n\n**Step 2 (Execution):** Substitute the values back into the equation:\n\\text{LHS} \\approx 9 + 1331 + 60% \\text{ of } 450\n\\text{LHS} \\approx 1340 + 0.60  \\times  450\n\\text{LHS} \\approx 1340 + 270 = 1610\n\n**Step 3 (Verification):** Comparing the result with options, 1610 corresponds to Option **B**.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Simplification & Approximation\n\n**Step 1 (Setup):** Round the decimal values to the nearest integers/cubes:\n- \\sqrt[3]{729.14} \\approx \\sqrt[3]{729} = 9\n- 11.$01^3$ \\approx $11^3$ = 1331\n- 60.24% \\approx 60%\n- 449.86 \\approx 450\n\n**Step 2 (Execution):** Substitute the values back into the equation:\n\\text{LHS} \\approx 9 + 1331 + 60% \\text{ of } 450\n\\text{LHS} \\approx 1340 + 0.60  \\times  450\n\\text{LHS} \\approx 1340 + 270 = 1610\n\n**Step 3 (Verification):** Comparing the result with options, 1610 corresponds to Option **B**.\n\n**Conclusion:** Hence, Option **B** is the correct answer.",
     "question_image": "",
     "option_images": [
       "",
@@ -3881,7 +3881,7 @@
     "correct_option": "B",
     "correct_answer": "B",
     "correct_letter": "B",
-    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Compound Interest formula.\n\n**Step 1:** Calculate Amount (A):\nA = P  ×   ≤ ft(1 + \\frac{R}{100}\\right)^T = 10000  ×  (1.10)^2 = 10000  ×  1.21 = \\text{Rs. } 12105\n\n**Step 2:** Calculate Compound Interest (CI):\n* $CI = A - P = 12100 - 10000 = \\text{Rs. } 2100$.\n\n**Conclusion:** Option **B** is correct.",
+    "explanation": "**Correct Answer:** Option **B**\n\n**Key Concept:** Compound Interest formula.\n\n**Step 1:** Calculate Amount (A):\nA = P  ×   ≤ ft(1 + \\frac{R}{100}\\$right)^T$ = 10000  ×  (1.$10)^2$ = 10000  ×  1.21 = \\text{Rs. } 12105\n\n**Step 2:** Calculate Compound Interest (CI):\n* $CI = A - P = 12100 - 10000 = \\text{Rs. } 2100$.\n\n**Conclusion:** Option **B** is correct.",
     "question_image": "",
     "option_images": [
       "",
@@ -4449,7 +4449,7 @@
     "correct_option": "A",
     "correct_answer": "A",
     "correct_letter": "A",
-    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI for 2 years.\n\n**Detailed Explanation:**\n- The formula for the difference between CI and SI for 2 years is: $CI - SI = P \\times (R / 100)^2$.\n- Given: Difference = Rs. 150, Rate (R) = 10%.\n- Substituting the values: $150 = P \\times (10 / 100)^2 \\implies 150 = P \\times (1 / 100) \\implies P = 150 \\times 100 = 15,000$.\n- Thus, the principal sum of money is Rs. 15,000.\n\n**Conclusion:** Hence, Option **A** is the correct response.",
+    "explanation": "**Correct Answer:** Option **A**\n\n**Key Concept:** Difference between CI and SI for 2 years.\n\n**Detailed Explanation:**\n- The formula for the difference between CI and SI for 2 years is: $CI - SI = P \\times (R / 100)^2$.\n- Given: Difference = Rs. 150, Rate (R) = 10%.\n- Substituting the values: $150 = P \\times (10 / $100)^2$ \\implies 150 = P \\times (1 / 100) \\implies P = 150 \\times 100 = 15,000$.\n- Thus, the principal sum of money is Rs. 15,000.\n\n**Conclusion:** Hence, Option **A** is the correct response.",
     "question_image": "",
     "option_images": [
       "",
@@ -5099,12 +5099,12 @@
       },
       {
         "id": "b",
-        "text": "√5-inch",
+        "text": "$\\sqrt{5}$-inch",
         "image": null
       },
       {
         "id": "c",
-        "text": "√25-inch",
+        "text": "$\\sqrt{25}$-inch",
         "image": null
       },
       {

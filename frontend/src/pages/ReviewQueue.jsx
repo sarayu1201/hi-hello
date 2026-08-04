@@ -886,10 +886,11 @@ export default function ReviewQueue({ logout }) {
                     >
                       <option value="">-- Select Test Paper --</option>
                       {metaPapers
-                        .filter(p => !navExam || p.toLowerCase().includes(navExam.toLowerCase()))
-                        .map(p => (
-                          <option key={p} value={p}>{p}</option>
-                        ))
+                        .filter(p => !navExam || (typeof p === 'object' ? p.exam_type === navExam : p.toLowerCase().includes(navExam.toLowerCase())))
+                        .map(p => {
+                          const val = typeof p === 'object' ? p.name : p;
+                          return <option key={val} value={val}>{val}</option>;
+                        })
                       }
                     </select>
                   </div>

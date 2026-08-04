@@ -679,7 +679,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "By Joule's Law of heating, power dissipated P = I^2 * R.",
+    "explanation": "By Joule's Law of heating, power dissipated P = $I^2$ * R.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1338,7 +1338,7 @@
     "subject": "Mathematics",
     "topic": "Algebra",
     "difficulty": "Medium",
-    "question": "Solve: [(11)^3 - (10)^3] / [(11)^2 + 11*10 + (10)^2]",
+    "question": "Solve: [$(11)^3$ - $($10)^3$]$ / [$(11)^2$ + 11*10 + $($10)^2$]$",
     "questionImage": "rrb_gd_tier1_paper2_q38.png",
     "options": [
       {
@@ -1363,7 +1363,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "(a^3 - b^3)/(a^2 + ab + b^2) = a - b = 11 - 10 = 1.",
+    "explanation": "$(a^3$ - $b^3)/(a^2$ + ab + $b^2)$ = a - b = 11 - 10 = 1.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1471,7 +1471,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "A^2 = 63 * 175 = 11025 -> A = 105.",
+    "explanation": "$A^2$ = 63 * 175 = 11025 -> A = 105.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1651,7 +1651,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "Volume = 0.5 * (22/7) * (3.5)^2 * 200 * 300 = 1155000 cm³ = 1155 litres.",
+    "explanation": "Volume = 0.5 * (22/7) * (3.$5)^2$ * 200 * 300 = 1155000 cm³ = 1155 litres.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1698,7 +1698,7 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Easy",
-    "question": "If tan θ = √3, where θ is an acute angle, then what is the value of sec θ?",
+    "question": "If tan θ = $\\sqrt{3}$, where θ is an acute angle, then what is the value of sec θ?",
     "questionImage": "rrb_gd_tier1_paper2_q48.png",
     "options": [
       {
@@ -1723,7 +1723,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "tan θ = √3 -> θ = 60°. sec 60° = 2.",
+    "explanation": "tan θ = $\\sqrt{3}$ -> θ = 60°. sec 60° = 2.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -2515,7 +2515,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Differences are +1^2=1, +3^2=9, +5^2=25 -> 10 + 27 = 37, +7^2=49 -> 37 + 64 = 101.",
+    "explanation": "Differences are +$1^2=1,$ +$3^2=9,$ +$5^2=25$ -> 10 + 27 = 37, +$7^2=49$ -> 37 + 64 = 101.",
     "marks": 1,
     "negativeMarks": 0.33
   },

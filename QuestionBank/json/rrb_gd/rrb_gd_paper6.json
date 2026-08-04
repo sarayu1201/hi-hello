@@ -319,7 +319,7 @@
       }
     ],
     "correctAnswer": "A",
-    "explanation": "Maximum capacity = 2n^2. For M-shell (n = 3), max electrons = 2(3)^2 = 18.",
+    "explanation": "Maximum capacity = $2$n^2$.$ For M-shell (n = 3), max electrons = $2(3)^2$ = 18.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -391,7 +391,7 @@
       }
     ],
     "correctAnswer": "C",
-    "explanation": "h = u^2 / (2g) = 49^2 / (2 * 9.8) = 2401 / 19.6 = 122.5 m.",
+    "explanation": "h = $u^2$ / (2g) = $49^2$ / (2 * 9.8) = 2401 / 19.6 = 122.5 m.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -597,7 +597,6 @@
       },
       {
         "id": "C",
-        
         "text": "Can exist in any state",
         "image": null
       },
@@ -907,7 +906,7 @@
     "subject": "Mathematics",
     "topic": "Trigonometry",
     "difficulty": "Medium",
-    "question": "Find value of: [ 2*sqrt(cosec^2(A) - 1) * sqrt(1 - cos^2(A)) ] / [ sqrt(1 + tan^2(A)) * 3*sqrt(1 - sin^2(A)) ]",
+    "question": "Find value of: [ 2*$s$q$rt(cosec^2($A$)$ - 1) * sqrt(1 - $c$o$s^2(A$)$)$ ] / [ sqrt(1 + $t$a$n^2(A$)$)$ * 3*sqrt(1 - $s$i$n^2(A$)$)$ ]",
     "questionImage": "rrb_gd_tier1_paper6_q26.png",
     "options": [
       {
@@ -1472,7 +1471,7 @@
       }
     ],
     "correctAnswer": "B",
-    "explanation": "4 * pi * r^2 = 144 * pi -> r^2 = 36 -> r = 6 units.",
+    "explanation": "4 * pi * $r^2$ = 144 * pi -> $r^2$ = 36 -> r = 6 units.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1591,7 +1590,7 @@
     "subject": "Mathematics",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "question": "If a + 1/a = 6, then find the value of a^2 + 1/a^2",
+    "question": "If a + 1/a = 6, then find the value of $a^2$ + 1/$a^2$",
     "questionImage": "rrb_gd_tier1_paper6_q45.png",
     "options": [
       {
@@ -1616,7 +1615,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "a^2 + 1/a^2 = 6^2 - 2 = 36 - 2 = 34.",
+    "explanation": "$a^2$ + 1/$a^2$ = $6^2$ - 2 = 36 - 2 = 34.",
     "marks": 1,
     "negativeMarks": 0.33
   },
@@ -1652,7 +1651,7 @@
       }
     ],
     "correctAnswer": "D",
-    "explanation": "x * 147 = 63^2 = 3969 -> x = 27.",
+    "explanation": "x * 147 = $63^2$ = 3969 -> x = 27.",
     "marks": 1,
     "negativeMarks": 0.33
   },
