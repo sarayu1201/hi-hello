@@ -130,7 +130,7 @@ def run():
             # Q59 Question text fix
             if uid == "sbi_po_prelims_test1_59":
                 print("Fixing Q59 Question Text in JSON...")
-                new_q = "\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?"
+                new_q = "$\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?$"
                 q["question"] = new_q
                 q["q"] = new_q
                 q["raw_question"] = new_q
@@ -275,7 +275,7 @@ def run():
                 
             # Update Q59 Question Text
             print("Updating Q59 in DB...")
-            new_q59 = "\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?"
+            new_q59 = "$\\sqrt[3]{729.14} + 11.01^3 + 60.24\\% \\text{ of } 449.86 = ?$"
             questions_col.update_one(
                 {"unique_id": "sbi_po_prelims_test1_59"},
                 {"$set": {"question": new_q59, "q": new_q59, "raw_question": new_q59}}
